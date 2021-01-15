@@ -1,0 +1,24 @@
+political_decisions = {
+	recover_usca = {
+		potential = {
+			tag = MEX
+			NOT = { has_country_flag = recovered_usca }
+		}
+		allow = {
+			OR = {
+			is_greater_power = yes
+			invention = national_fraternity
+			}
+			war_policy = jingoism
+		}
+		effect = {
+			UCA = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			badboy = 15
+			set_country_flag = recovered_usca
+		}
+	}
+}

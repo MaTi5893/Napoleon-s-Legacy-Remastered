@@ -1,0 +1,21 @@
+political_decisions = {
+	repartition_poland_AUS = {
+		potential = {
+			tag = AUS
+			NOT = { has_country_flag = repartition_poland_AUS }
+		}
+		allow = {
+			owns = 703
+			war_policy = jingoism
+		}
+		effect = {
+			703 = { add_core = THIS }
+			711 = { add_core = THIS }
+			713 = { add_core = THIS }
+			715 = { add_core = THIS }
+			716 = { add_core = THIS }
+			badboy = 10
+			set_country_flag = repartition_poland_AUS
+		}
+	}
+}

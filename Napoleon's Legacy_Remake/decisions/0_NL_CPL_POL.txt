@@ -1,0 +1,59 @@
+political_decisions = {
+	
+	form_poland = {
+		potential = {
+			tag = CPL
+			POL = { exists = no }
+		}
+		allow = {
+			prestige = 30
+			state_n_government = 1
+		}
+		effect = {
+			all_core = {
+				add_core = POL
+				remove_core = CPL
+			}
+			change_tag = POL
+		}
+	}
+	
+	plc_expansion = {
+		potential = {
+			tag = PLC
+			exists = yes
+			NOT = { has_country_flag = plc_expansion }
+		}
+		allow = {
+			is_greater_power = yes
+			all_core = { owned_by = THIS }
+			war_policy = jingoism
+		}
+		effect = {
+			add_core = 943
+			add_core = 1007
+			add_core = 1016
+			add_accepted_culture = byelorussian
+			add_accepted_culture = ukrainian
+			badboy = 3
+			set_country_flag = plc_expansion
+		}
+	}
+	
+	propose_plc = {
+		potential = {
+			tag = CPL
+			PLC = { exists = no }
+			LIT = { exists = yes }
+		}
+		allow = {
+			relation = {
+				who = LIT
+				value = 100
+			}
+		}
+		effect = {
+			LIT = { country_event = 157300 }
+		}
+	}
+}

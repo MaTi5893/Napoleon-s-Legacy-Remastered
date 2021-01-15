@@ -1,0 +1,63 @@
+political_decisions = {
+	
+	repartition_poland = {
+		potential = {
+			tag = PRU
+			NOT = { has_country_flag = repartitioned_poland }
+		}
+		allow = {
+			owns = 699
+			war_policy = jingoism
+			706 = {
+				owner = {
+					truce_with = THIS
+				}
+			}
+			#owns = 706
+		}
+		effect = {
+			set_country_flag = repartitioned_poland
+			PRU_701 = {
+				add_core = THIS
+			}
+			RUS_706 = {
+				add_core = THIS
+			}
+			719 = {
+				add_core = THIS
+			}
+			362 = {
+				add_core = THIS
+			}
+		}
+	}
+	
+	greater_prussia = {
+		potential = {
+			tag = PRU
+			NOT = { has_country_flag = greater_prussia }
+		}
+		allow = {
+			owns = 690
+			is_greater_power = yes
+		}
+		effect = {
+			set_country_flag = greater_prussia
+			690 = {
+				add_core = THIS
+			}
+			687 = {
+				add_core = THIS
+			}
+			556 = {
+				add_core = THIS
+			}
+			554 = {
+				add_core = THIS
+			}
+			548 = {
+				add_core = THIS
+			}
+		}
+	}
+}

@@ -1,0 +1,6 @@
+owner = UPB
+controller = UPB
+add_core = UPB
+add_core = POR
+trade_goods = tea
+life_rating = 32

@@ -1,0 +1,8 @@
+owner = NIT
+controller = NIT
+add_core = NIT
+add_core = VEN
+add_core = ITA
+trade_goods = fruit
+life_rating = 35
+1861.1.1 = { railroad = 3 }

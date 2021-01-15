@@ -1,0 +1,5 @@
+owner = UPB
+controller = UPB
+add_core = UPB
+trade_goods = coffee
+life_rating = 35

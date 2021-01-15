@@ -1,0 +1,58 @@
+political_decisions = {
+	reutrn_home = {
+		potential = {
+			tag = ENG
+			NOT = { has_country_flag = reutrned_home }
+		}
+		allow = {
+			owns = 300
+		}
+		effect = {
+			capital = 300
+			GBR = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			set_country_flag = reutrned_home
+		}
+	}
+	
+	protect_the_natives = {
+		potential = {
+			tag = ENG
+			NOT = { has_country_flag = protect_the_natives }
+		}
+		allow = {
+			war = no
+			ICF = {
+				exists = yes
+				all_core = {
+					OR = {
+						owned_by = ICF
+						owned_by = THIS
+					}
+				}
+			}
+		}
+		effect = {
+			ICF = {
+				country_event = 157301
+			}
+		}
+	}
+	
+	annex_native_conf = {
+		potential = {
+			tag = ENG
+			NOT = { has_country_flag = protect_the_natives }
+			is_our_vassal = ICF
+		}
+		allow = {
+			invention = national_fraternity
+		}
+		effect = {
+			inherit = ICF
+		}
+	}
+}

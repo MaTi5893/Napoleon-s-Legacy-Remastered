@@ -1,0 +1,109 @@
+political_decisions = {
+	assume_the_crown_of_italy = {
+		potential = {
+			tag = NIT
+			ITA = { exists = no }
+		}
+		allow = {
+			war_policy = jingoism
+			TUS = {
+				OR = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+					}
+					vassal_of = THIS
+				}
+			}
+			PAP = {
+				OR = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+					}
+					vassal_of = THIS
+				}
+			}
+			SIC = {
+				OR = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+					}
+					vassal_of = THIS
+				}
+			}
+			LUC = {
+				OR = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+						}
+					}
+					vassal_of = THIS
+				}
+			}
+			is_our_vassal = NAP
+		}
+		effect = {
+			change_tag = ITA
+			add_accepted_culture = south_italian
+			any_country = {
+				limit = {
+					is_culture_group = italian
+					OR = {
+						vassal_of = THIS
+						in_sphere = THIS
+					}
+				}
+				annex_to = THIS
+			}
+		}
+	}
+	
+	form_two_sic = {
+		potential = {
+			tag = SYC
+			SIC = { exists = no }
+		}
+		allow = {
+			is_our_vassal = NAP
+		}
+		effect = {
+			any_country = {
+				limit = {
+					tag = NAP
+					vassal_of = THIS
+				}
+				annex_to = THIS
+			}
+			754 = { add_core = THIS }
+			2567 = { add_core = THIS }
+			755 = { add_core = THIS }
+			753 = { add_core = THIS }
+			757 = { add_core = THIS }
+			SAR_765 = { add_core = THIS }
+			SIC_756 = { add_core = THIS }
+			all_core = {
+				add_core = SIC
+				remove_core = THIS
+			}
+			change_tag = SIC
+		}
+	}
+}

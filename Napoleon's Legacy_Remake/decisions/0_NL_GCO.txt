@@ -1,0 +1,77 @@
+political_decisions = {
+	force_peru = {
+		potential = {
+			tag = GCO
+			NOT = { has_country_flag = forced_peru }
+		}
+		allow = {
+			PEU = {
+				OR = {
+					all_core = {
+						owned_by = THIS
+					}
+					in_sphere = THIS
+					vassal_of = THIS
+				}
+			}
+			war_policy = jingoism
+		}
+		effect = {
+			PEU = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			random_country = {
+				limit = {
+					tag = PEU
+					vassal_of = THIS
+				}
+				annex_to = THIS
+			}
+			BOL = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			badboy = 15
+			set_country_flag = forced_peru
+		}
+	}
+	
+	force_south_america = {
+		potential = {
+			tag = GCO
+			NOT = { has_country_flag = forced_south_america }
+		}
+		allow = {
+			PEU = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			BOL = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			invention = national_fraternity
+			is_greater_power = yes
+			war_policy = jingoism
+		}
+		effect = {
+			ARG = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			CHL = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			badboy = 15
+			set_country_flag = forced_south_america
+		}
+	}
+}

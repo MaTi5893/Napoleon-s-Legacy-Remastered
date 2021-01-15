@@ -1,0 +1,25 @@
+political_decisions = {
+	restore_rhineland = {
+		potential = {
+			tag = GER
+			NOT = { has_country_flag = restored_rhineland }
+		}
+		allow = {
+			is_greater_power = yes
+			war_policy = jingoism
+			all_core = { owned_by = THIS }
+		}
+		effect = {
+			RHI = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			409 = { add_core = THIS }
+			410 = { add_core = THIS }
+			412 = { add_core = THIS }
+			badboy = 10
+			set_country_flag = restored_rhineland
+		}
+	}
+}

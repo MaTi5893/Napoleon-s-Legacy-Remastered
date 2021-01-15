@@ -1,0 +1,210 @@
+political_decisions = {
+	unite_westfalen = {
+		potential = {
+			tag = HAN
+			NOT = { has_country_flag = united_westfalen }
+		}
+		allow = {
+			state_n_government = 1
+			war = no
+		}
+		effect = {
+			any_country = {
+				limit = {
+					vassal_of = THIS
+					is_culture_group = germanic
+				}
+				annex_to = THIS
+			}
+			set_country_flag = united_westfalen
+		}
+	}
+	
+	unite_rhine_confederacy = {
+		potential = {
+			tag = HAN
+			GCF = { exists = no }
+		}
+		allow = {
+			has_country_flag = united_westfalen
+			invention = national_fraternity
+			BAV = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { 
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+			BAD = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { 
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+			FRM = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { 
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+			WUR = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { 
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+			SAX = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { 
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			GER = {
+				all_core = {
+					add_core = GCF
+				}
+			}
+			PRU = {
+				all_core = {
+					limit = {
+						owned_by = PRU
+					}
+					remove_core = GCF
+				}
+			}
+			all_core = {
+				add_core = GCF
+				remove_core = THIS
+			}
+			change_tag = GCF
+			any_country = {
+				limit = {
+					is_culture_group = germanic
+					in_sphere = THIS
+				}
+				annex_to = GCF
+			}
+			add_accepted_culture = south_german
+		}
+	}
+	create_rhine_confederacy = {
+		potential = {
+			tag = FRA
+			HAN = { exists = yes }
+			GCF = { exists = no }
+		}
+		allow = {
+			HAN = { has_country_flag = united_westfalen }
+			invention = national_fraternity
+			BAV = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { 
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+			BAD = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { 
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+			FRM = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { 
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+			WUR = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { 
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+			SAX = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { 
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			GER = {
+				all_core = {
+					add_core = GCF
+				}
+			}
+			PRU = {
+				all_core = {
+					limit = {
+						owned_by = PRU
+					}
+					remove_core = GCF
+				}
+			}
+			HAN = {
+				all_core = {
+					add_core = GCF
+					remove_core = THIS
+				}
+				change_tag = GCF
+				add_accepted_culture = south_german
+			}
+			any_country = {
+				limit = {
+					is_culture_group = germanic
+					in_sphere = THIS
+				}
+				annex_to = GCF
+			}
+			GCF = {
+				all_core = {
+					limit = {
+						owned_by = THIS
+					}
+					secede_province = GCF
+				}
+			}
+		}
+	}
+}

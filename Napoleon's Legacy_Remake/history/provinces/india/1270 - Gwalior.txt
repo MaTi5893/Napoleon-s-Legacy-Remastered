@@ -1,0 +1,7 @@
+owner = MAH
+controller = MAH
+add_core = MAH
+add_core = GWA
+add_core = HND
+trade_goods = dye
+life_rating = 32

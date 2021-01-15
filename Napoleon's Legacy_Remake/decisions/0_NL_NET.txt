@@ -1,0 +1,29 @@
+political_decisions = {
+	united_netherlands = {
+		potential = {
+			tag = NET
+			NOT = { has_country_flag = united_netherlands }
+		}
+		allow = {
+			all_core = {
+				owned_by = THIS
+			}
+			owns = 387
+			war_policy = jingoism
+		}
+		effect = {
+			BEL = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			LUX = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			badboy = 10
+			set_country_flag = united_netherlands
+		}
+	}
+}

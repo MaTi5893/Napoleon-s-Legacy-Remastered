@@ -1,0 +1,26 @@
+capital = 1426
+primary_culture = hakka
+culture = yue
+culture = malay
+religion = mahayana
+government = democracy
+plurality = 0.0
+nationalvalue = nv_equality
+literacy = 0.04
+
+ruling_party = LAN_conservative
+upper_house = {
+	fascist = 0
+	liberal = 15
+	conservative = 75
+	reactionary = 10
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
+
+

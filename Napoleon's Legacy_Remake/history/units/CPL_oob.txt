@@ -1,0 +1,16 @@
+leader = {
+	name = "Jozef Zajaczek"
+	type = land
+	date = 1836.1.1
+	background = defence_1.6
+	personality = attack_1.147
+}
+PRU = {
+	truce_until = 1840.1.1
+}
+RUS = {
+	truce_until = 1840.1.1
+}
+AUS = {
+	truce_until = 1840.1.1
+}

@@ -1,0 +1,67 @@
+political_decisions = {
+	repartition_poland_RUS = {
+		potential = {
+			tag = RUS
+			NOT = { has_country_flag = repartition_poland_RUS }
+		}
+		allow = {
+			owns = 946
+			war_policy = jingoism
+		}
+		effect = {
+			LIT = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			362 = { remove_core = THIS }
+			badboy = 10
+			set_country_flag = repartition_poland_RUS
+		}
+	}
+	
+	conquer_finland = {
+		potential = {
+			tag = RUS
+			NOT = { has_country_flag = conquered_finland }
+		}
+		allow = {
+			owns = 345
+			owns = 337
+			war_policy = jingoism
+			is_greater_power = yes
+		}
+		effect = {
+			FIN = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			362 = { remove_core = THIS }
+			set_country_flag = conquered_finland
+		}
+	}
+	
+	conquer_caucases = {
+		potential = {
+			tag = RUS
+			NOT = { has_country_flag = conquered_caucases }
+		}
+		allow = {
+			invention = national_fraternity
+			war_policy = jingoism
+		}
+		effect = {
+			RUS_1090 = {
+				add_core = THIS
+			}
+			RUS_1098 = {
+				add_core = THIS
+			}
+			RUS_1102 = {
+				add_core = THIS
+			}
+			set_country_flag = conquered_caucases
+		}
+	}
+}
