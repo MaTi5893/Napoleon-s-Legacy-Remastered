@@ -45,3 +45,9 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
+
+land_reform = yes_land_reform
+foreign_weapons = yes_foreign_weapons
+finance_reform = yes_finance_reform
+
+flintlock_rifles = 1

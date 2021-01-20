@@ -42,6 +42,9 @@ pensions = trinket_pensions
 health_care = trinket_health_care
 school_reforms = low_schools
 
+land_reform = yes_land_reform
+foreign_weapons = yes_foreign_weapons
+finance_reform = yes_finance_reform
 
 #========================= T E C H N O L O G I E S =========================
 	post_napoleonic_thought = 1

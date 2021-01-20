@@ -70,6 +70,8 @@ political_decisions = {
 					add_core = THIS
 				}
 			}
+			add_accepted_culture = south_andean
+			add_accepted_culture = platinean
 			badboy = 15
 			set_country_flag = forced_south_america
 		}

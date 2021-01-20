@@ -1,0 +1,53 @@
+political_decisions = {
+	autonomy_to_irishman = {
+		potential = {
+			tag = GBR
+			NOT = { has_country_flag = autonomy_to_irishman }
+		}
+		allow = {
+			war = no
+			is_greater_power = yes
+			IRE = {
+				exists = no
+				all_core = {
+					owned_by = THIS
+				}
+			}
+		}
+		effect = {
+			add_accepted_culture = irish
+			prestige = 20
+			set_country_flag = autonomy_to_irishman
+		}
+	}
+	
+	the_true_government = {
+		potential = {
+			tag = GBR
+			NOT = { has_country_flag = the_true_government }
+		}
+		allow = {
+			OR = {
+				AND = {
+					revolution_n_counterrevolution = 1
+					ENG = {
+						is_greater_power = no
+						is_secondary_power = no
+					}
+				}
+				AND = {
+					ENG = {
+						exists = no
+					}
+				}
+			}
+		}
+		effect = {
+			casus_belli = {
+				target = ENG
+				type = annex_core_country
+				months = -1
+			}
+		}
+	}
+}

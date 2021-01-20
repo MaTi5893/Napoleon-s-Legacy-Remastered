@@ -98,6 +98,13 @@ country_event = {
 				factor = 1.5
 				government = absolute_monarchy
 			}
+			modifier = {
+				factor = 400
+				any_greater_power = {
+					is_culture_group = THIS
+					ai = no
+				}
+			}
 		}
 		any_pop = {
 			militancy = 1

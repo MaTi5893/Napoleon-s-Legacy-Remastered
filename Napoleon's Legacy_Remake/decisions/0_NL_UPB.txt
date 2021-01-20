@@ -1,0 +1,47 @@
+political_decisions = {
+	regno_uni = {
+		potential = {
+			tag = UPB
+			NOT = { country_flag = regno_uni }
+		}
+		allow = {
+			all_core = {
+				owned_by = THIS
+			}
+			invention = national_fraternity
+			is_greater_power = yes
+			URU = { exists = no }
+		}
+		effect = {
+			URU = {
+				all_core = { add_core = THIS }
+			}
+			PRG = {
+				all_core = { add_core = THIS }
+			}
+			2554 = { add_core = THIS }
+			2549 = { add_core = THIS }
+			2401 = { add_core = THIS }
+			474 = { add_core = THIS }
+			476 = { add_core = THIS }
+			badboy = 15
+			set_country_flag = regno_uni
+		}
+	}
+	
+	move_capital_to_rio = {
+		potential = {
+			tag = UPB
+			NOT = { country_flag = moved_capital_to_rio }
+			owns = 2447
+		}
+		allow = {
+			impressionism = 1
+		}
+		effect = {
+			captial = 2447
+			prestige = 20
+			set_country_flag = moved_capital_to_rio
+		}
+	}
+}

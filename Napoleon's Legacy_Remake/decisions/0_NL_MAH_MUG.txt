@@ -1,0 +1,72 @@
+political_decisions = {
+	expand_the_confederacy = {
+		potential = {
+			tag = MAH
+			NOT = { has_country_flag = expanded_the_confederacy }
+		}
+		allow = {
+			OR = {
+				is_greater_power = yes
+				AND = {
+					foreign_weapons = foreign_weapons_two
+					foreign_officers = foreign_officers_two
+					army_schools = army_schools_two
+				}
+			}
+			war_policy = jingoism
+			war = no
+		}
+		effect = {
+			ORI = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			MUG = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			badboy = 15
+			set_country_flag = expanded_the_confederacy
+		}
+	}
+	
+	recover_the_empire = {
+		potential = {
+			tag = MUH
+			NOT = { has_country_flag = recovered_the_empire }
+		}
+		allow = {
+			OR = {
+				is_greater_power = yes
+				AND = {
+					foreign_weapons = foreign_weapons_two
+					foreign_officers = foreign_officers_two
+					army_schools = army_schools_two
+				}
+			}
+			all_core = { owned_by = THIS }
+			ENG_1264 = { owned_by = THIS }
+			ENG_1275 = { owned_by = THIS
+			war_policy = jingoism
+			war = no
+		}
+		effect = {
+			ORI = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			MAH = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			ENG_1264 = { add_core = THIS }
+			HYD = { all_core = { add_core = THIS } }
+			badboy = 15
+			set_country_flag = recovered_the_empire
+		}
+	}
+}

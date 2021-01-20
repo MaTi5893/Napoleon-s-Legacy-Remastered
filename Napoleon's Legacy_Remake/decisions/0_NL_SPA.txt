@@ -9,6 +9,9 @@ political_decisions = {
 				is_greater_power = yes
 				invention = national_fraternity
 			}
+			all_core = {
+				owned_by = THIS
+			}
 			owns = 765
 			war_policy = jingoism
 		}

@@ -39,20 +39,57 @@ political_decisions = {
 			ICF = {
 				country_event = 157301
 			}
+			set_country_flag = protect_the_natives
 		}
 	}
 	
 	annex_native_conf = {
 		potential = {
 			tag = ENG
-			NOT = { has_country_flag = protect_the_natives }
 			is_our_vassal = ICF
+			ICF = { exists = yes }
 		}
 		allow = {
 			invention = national_fraternity
 		}
 		effect = {
 			inherit = ICF
+		}
+	}
+	
+	new_england_protectorate = {
+		potential = {
+			tag = ENG
+			NOT = { has_country_flag = new_england_protectorate }
+			is_greater_power = yes
+		}
+		allow = {
+			NEW = {
+				OR = {
+					all_core = {
+						owned_by = THIS
+					}
+					AND = {
+						exists = yes
+						vassal_of = THIS
+					}
+				}
+			}
+		}
+		effect = {
+			random_country = {
+				limit = {
+					tag = NEW
+					exists = yes
+				}
+				inherit = NEW
+			}
+			NEW = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			set_country_flag = new_england_protectorate
 		}
 	}
 }

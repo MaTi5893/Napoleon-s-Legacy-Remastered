@@ -10,6 +10,7 @@ political_decisions = {
 			invention = national_fraternity
 			}
 			war_policy = jingoism
+			war = no
 		}
 		effect = {
 			UCA = {
@@ -19,6 +20,48 @@ political_decisions = {
 			}
 			badboy = 15
 			set_country_flag = recovered_usca
+		}
+	}
+	
+	integrate_usca = {
+		potential = {
+			tag = MEX
+			NOT = { has_country_flag = integrated_usca }
+			has_country_flag = recovered_usca
+		}
+		allow = {
+			UCA = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			war_policy = jingoism
+			war = no
+		}
+		effect = {
+			add_accepted_culture = central_american
+			set_country_flag = recovered_usca
+		}
+	}
+	
+	acquire_cuba = {
+		potential = {
+			tag = MEX
+			NOT = { has_country_flag = acquired_cuba }
+		}
+		allow = {
+			owns = 2209
+			war = no
+			war_policy = jingoism
+		}
+		effect = {
+			CUB = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			add_accepted_culture = caribeno
+			prestige = 20
 		}
 	}
 }
