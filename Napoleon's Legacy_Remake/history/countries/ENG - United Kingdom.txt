@@ -1,4 +1,4 @@
-capital = 53
+capital = 57
 primary_culture = british
 culture = anglo_canadian
 religion = protestant
