@@ -2,7 +2,7 @@ political_decisions = {
 	restore_ottoman_egypt = {
 		potential = {
 			tag = TUR
-			NOT = { country_flag = restored_ottoman_egypt }
+			NOT = { has_country_flag = restored_ottoman_egypt }
 		}
 		allow = {
 			all_core = {
@@ -41,7 +41,7 @@ political_decisions = {
 	magrhreb_domination = {
 		potential = {
 			tag = TUR
-			NOT = { country_flag = magrhreb_dominated }
+			NOT = { has_country_flag = magrhreb_dominated }
 		}
 		allow = {
 			all_core = {

@@ -25,6 +25,7 @@ political_decisions = {
 		potential = {
 			tag = GBR
 			NOT = { has_country_flag = the_true_government }
+			ENG = { exists = yes }
 		}
 		allow = {
 			OR = {

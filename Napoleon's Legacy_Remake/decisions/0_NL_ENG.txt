@@ -12,6 +12,7 @@ political_decisions = {
 			GBR = {
 				all_core = {
 					add_core = THIS
+					remove_core = GBR
 				}
 			}
 			set_country_flag = reutrned_home
@@ -64,7 +65,7 @@ political_decisions = {
 			is_greater_power = yes
 		}
 		allow = {
-			NEW = {
+			NEN = {
 				OR = {
 					all_core = {
 						owned_by = THIS
@@ -79,17 +80,37 @@ political_decisions = {
 		effect = {
 			random_country = {
 				limit = {
-					tag = NEW
+					tag = NEN
 					exists = yes
 				}
-				inherit = NEW
+				inherit = NEN
 			}
-			NEW = {
+			NEN = {
 				all_core = {
 					add_core = THIS
 				}
 			}
 			set_country_flag = new_england_protectorate
+		}
+	}
+	
+	give_up_the_cause = {
+		potential = {
+			tag = ENG
+			NOT = { owns = 300 }
+			NOT = { exists = CAN }
+		}
+		allow = {
+			any_owned_province = {
+				is_core = CAN
+			}
+			year = 1900
+		}
+		effect = {
+			all_core = {
+				remove_core = THIS
+			}
+			change_tag = CAN
 		}
 	}
 }

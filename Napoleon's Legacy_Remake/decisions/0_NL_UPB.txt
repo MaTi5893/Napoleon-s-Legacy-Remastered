@@ -2,7 +2,7 @@ political_decisions = {
 	regno_uni = {
 		potential = {
 			tag = UPB
-			NOT = { country_flag = regno_uni }
+			NOT = { has_country_flag = regno_uni }
 		}
 		allow = {
 			all_core = {

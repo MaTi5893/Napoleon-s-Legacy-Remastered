@@ -48,7 +48,7 @@ political_decisions = {
 			}
 			all_core = { owned_by = THIS }
 			ENG_1264 = { owned_by = THIS }
-			ENG_1275 = { owned_by = THIS
+			ENG_1275 = { owned_by = THIS }
 			war_policy = jingoism
 			war = no
 		}

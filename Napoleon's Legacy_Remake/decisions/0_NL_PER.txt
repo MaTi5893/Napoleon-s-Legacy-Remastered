@@ -2,11 +2,13 @@ political_decisions = {
 	restore_persian_empire = {
 		potential = {
 			tag = PER
-			NOT = { country_flag = restored_persian_empire }
+			NOT = { has_country_flag = restored_persian_empire }
 		}
 		allow = {
+			PER = {
 			all_core = {
 				owned_by = THIS
+			}
 			}
 			OR = {
 				is_greater_power = yes
