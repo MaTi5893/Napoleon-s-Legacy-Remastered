@@ -14,3 +14,12 @@ RUS = {
 AUS = {
 	truce_until = 1840.1.1
 }
+army = {
+	name = "5th Indian Division"
+	location = 708
+	regiment = {
+		name= "3.2-ya Pekhotnaya Diviziya"
+		type = artillery
+		home = 706
+	}
+}

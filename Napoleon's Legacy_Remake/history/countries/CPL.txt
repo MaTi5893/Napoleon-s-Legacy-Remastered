@@ -13,7 +13,7 @@ literacy = 0.3
 civilized = yes 
 prestige = 15
 schools = culture_tech_school
-oob = "CPL_oob.txt"
+oob = "KRA_oob.txt"
 
 
 #========================= H O U S E - O F - L O R D S =========================

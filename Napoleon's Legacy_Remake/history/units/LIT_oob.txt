@@ -1,0 +1,20 @@
+army = {
+	name = "Lithuanian Army"
+	location = 360
+	
+	regiment = {
+		name = "1. Devision"
+		type = infantry
+		home = 360
+	}
+	regiment = {
+		name = "1. Devision"
+		type = infantry
+		home = 362
+	}
+	regiment = {
+		name = "1. Devision"
+		type = infantry
+		home = 360
+	}
+}

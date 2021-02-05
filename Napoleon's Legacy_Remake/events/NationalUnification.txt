@@ -207,6 +207,7 @@ country_event = {
 				remove_core = CPL
 			}
 			inherit = THIS
+			add_accepted_culture = lithuanian
 		}
 		prestige = 10
 		ai_chance = {

@@ -387,23 +387,6 @@ army = {
 		home = 551
 	}
 
-	regiment = {
-		name= "VII. Kavalleriebrigade"
-		type = dragoon
-		home = 699
-	}
-
-	regiment = {
-		name= "VIII. Kavalleriebrigade"
-		type = dragoon
-		home = 699
-	}
-
-	regiment = {
-		name= "IX. Kavalleriebrigade"
-		type = dragoon
-		home = 700
-	}
 
 	regiment = {
 		name= "X. Kavalleriebrigade"
@@ -414,7 +397,7 @@ army = {
 
 navy = {
 	name = "Königlich Preußische Marine"
-	location = 690
+	location = 695
 	ship = {
 		name= "1. Klipperflottille"
 		type = clipper_transport

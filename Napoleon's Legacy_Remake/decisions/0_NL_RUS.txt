@@ -1,5 +1,6 @@
 political_decisions = {
 	repartition_poland_RUS = {
+		picture = duchy_of_lit
 		potential = {
 			tag = RUS
 			NOT = { has_country_flag = repartition_poland_RUS }

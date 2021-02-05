@@ -86,6 +86,12 @@ vassal = {
 	start_date = 1822.1.1
 	end_date = 1847.7.26
 }
+vassal = {
+	first = HAN
+	second = WUL
+	start_date = 1822.1.1
+	end_date = 1847.7.26
+}
 # USA-Liberia
 vassal = {
 	first = USA

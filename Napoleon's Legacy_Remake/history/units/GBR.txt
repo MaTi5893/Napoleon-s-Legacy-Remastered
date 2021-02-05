@@ -268,7 +268,17 @@ army = {
 		type = infantry
 		home = 259
 	}
-
+	regiment = {
+		name= "2.3rd Division"
+		type = infantry
+		home = 300
+	}
+	
+	regiment = {
+		name= "3.3rd Division"
+		type = infantry
+		home = 277
+	}
 }
 
 army = {
@@ -285,25 +295,25 @@ army = {
 		type = infantry
 		home = 266
 	}
-
+	
+	regiment = {
+		name= "2.3rd Division"
+		type = infantry
+		home = 300
+	}
+	
+	regiment = {
+		name= "2.3rd Division"
+		type = infantry
+		home = 266
+	}
+	
 	regiment = {
 		name= "3.3rd Division"
 		type = infantry
-		home = 270
+		home = 277
 	}
-
-	regiment = {
-		name= "1.4th Division"
-		type = infantry
-		home = 263
-	}
-
-	regiment = {
-		name= "2.4th Division"
-		type = infantry
-		home = 255
-	}
-
+`
 	regiment = {
 		name= "3.4th Division"
 		type = artillery

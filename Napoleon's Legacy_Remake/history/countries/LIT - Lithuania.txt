@@ -1,7 +1,7 @@
 capital = 360
 primary_culture = lithuanian
 religion = catholic
-government = absolute_monarchy
+government = hms_government
 plurality = 0.2
 nationalvalue = nv_order
 literacy = 0.6
@@ -11,7 +11,7 @@ civilized = yes
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = none_voting
+vote_franschise = landed_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
@@ -37,7 +37,7 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
+oob = "LIT_oob.txt"
 post_napoleonic_thought = 1
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1

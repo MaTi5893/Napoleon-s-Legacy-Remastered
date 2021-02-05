@@ -1,29 +1,29 @@
 political_decisions = {
 
-	revive_the_swedish_empire = {
-		potential = {
-			tag = SWE
-			NOT = { has_country_flag = revived_the_swedish_empire }
-		}
-		allow = {
-			owns = 349
-			war_policy = jingoism
-		}
-		effect = {
-			prestige = 20
-			RUS_349 = {
-				add_core = THIS
-			}
-			RUS_354 = {
-				add_core = THIS
-			}
-			RUS_994 = {
-				add_core = THIS
-			}
-			badboy = 15
-			add_accepted_culture = estonian
-			add_accepted_culture = latvian
-			set_country_flag = revived_the_swedish_empire
-		}
-	}
+	#revive_the_swedish_empire = {
+	#	potential = {
+	#		tag = SWE
+	#		NOT = { has_country_flag = revived_the_swedish_empire }
+	#	}
+	#	allow = {
+	#		owns = 349
+	#		war_policy = jingoism
+	#	}
+	#	effect = {
+	#		prestige = 20
+	#		RUS_349 = {
+	#			add_core = THIS
+	#		}
+	#		RUS_354 = {
+	#			add_core = THIS
+	#		}
+	#		RUS_994 = {
+	#			add_core = THIS
+	#		}
+	#		badboy = 15
+	#		add_accepted_culture = estonian
+	#		add_accepted_culture = latvian
+	#		set_country_flag = revived_the_swedish_empire
+	#	}
+	#}
 }

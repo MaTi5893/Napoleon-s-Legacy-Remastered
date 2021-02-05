@@ -523,3 +523,55 @@ country_event = {
 		}
 	}
 }
+
+country_event = {
+
+	id = 181500
+
+	title = "The Danzig Coup"
+	desc = "Let's join prussia"
+	picture = "Mozart"
+	is_triggered_only = yes
+	
+	option = {
+		name = "okie dokie" 
+		annex_to = PRU
+		any_country = {
+			limit = {
+				OR = {
+					tag = FRA
+					tag = POL
+					tag = PLC
+					tag = CPL
+				}
+				exists = yes
+			}
+			country_event = 181501
+		}
+	}
+}
+country_event = {
+
+	id = 181501
+
+	title = "The Danzig Coup"
+	desc = "EVTDESC181500"
+	picture = "Mozart"
+	is_triggered_only = yes
+	
+	option = {
+		name = "Demand Danzig" 
+		casus_belli = {
+			target = PRU
+			type = liberate_country
+			country = DZG
+			months = 36
+		}
+		prestige = 5
+	}
+	
+	option = {
+		name = "Let them go"
+		prestige = -5
+	}
+}

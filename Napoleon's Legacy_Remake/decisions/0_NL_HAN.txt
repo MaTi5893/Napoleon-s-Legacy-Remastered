@@ -21,6 +21,7 @@ political_decisions = {
 	}
 	
 	unite_rhine_confederacy = {
+		picture = become_rhine
 		potential = {
 			tag = HAN
 			GCF = { exists = no }

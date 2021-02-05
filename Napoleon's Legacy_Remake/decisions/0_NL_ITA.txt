@@ -1,5 +1,6 @@
 political_decisions = {
 	assume_the_crown_of_italy = {
+		picture = form_ita_nit
 		potential = {
 			tag = NIT
 			ITA = { exists = no }

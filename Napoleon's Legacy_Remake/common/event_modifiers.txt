@@ -1145,3 +1145,18 @@ national_confusion = {
 	prestige = -0.01
 	icon = 4
 }
+roundhead_leagacy = {
+	global_pop_militancy_modifier = -0.02
+	army_tech_research_bonus = 0.1
+	land_organisation = 0.1
+	land_unit_start_experience = 0.3
+	ruling_party_support = 0.15
+	icon = 1
+}
+cop = {
+	mine_rgo_size = 0.2
+	farm_rgo_size = 0.2
+	local_RGO_output = 0.1
+	local_factory_output = 0.1
+	icon = 19
+}

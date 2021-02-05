@@ -489,17 +489,6 @@ army = {
 army = {
 	name = "The Australia Garrison"
 	location = 2468
-	regiment = {
-		name= "1.8th Division"
-		type = infantry
-		home = 299
-	}
-
-	regiment = {
-		name= "2.8th Division"
-		type = infantry
-		home = 283
-	}
 
 	regiment = {
 		name= "3.8th Division"
@@ -608,64 +597,6 @@ army = {
 		home = 1243
 	}
 
-}
-
-army = {
-	name = "The Delhi Army"
-	location = 1239
-	regiment = {
-		name= "1.2nd Cavalry Division"
-		type = cuirassier
-		home = 278
-	}
-
-	regiment = {
-		name= "2.2nd Cavalry Division"
-		type = cuirassier
-		home = 297
-	}
-
-	regiment = {
-		name= "3.2nd Cavalry Division"
-		type = hussar
-		home = 260
-	}
-
-	regiment = {
-		name= "1.11th Division"
-		type = infantry
-		home = 296
-	}
-
-	regiment = {
-		name= "2.11th Division"
-		type = infantry
-		home = 268
-	}
-
-	regiment = {
-		name= "3.11th Division"
-		type = infantry
-		home = 261
-	}
-
-	regiment = {
-		name= "1.12th Division"
-		type = infantry
-		home = 284
-	}
-
-	regiment = {
-		name= "2.12th Division"
-		type = infantry
-		home = 254
-	}
-
-	regiment = {
-		name= "3.12th Division"
-		type = infantry
-		home = 258
-	}
 }
 army = {
 	name = "5th Indian Division"

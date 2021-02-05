@@ -16,12 +16,18 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = irish
+			IRE = {
+				all_core = {
+					add_core = THIS
+				}
+			}
 			prestige = 20
 			set_country_flag = autonomy_to_irishman
 		}
 	}
 	
 	the_true_government = {
+		picture = become_eng
 		potential = {
 			tag = GBR
 			NOT = { has_country_flag = the_true_government }
@@ -48,6 +54,48 @@ political_decisions = {
 				target = ENG
 				type = annex_core_country
 				months = -1
+			}
+		}
+	}
+	
+	the_roundhead_legacy = {
+		picture = cromwell
+		potential = {
+			tag = GBR
+			NOT = { has_country_flag = roundhead_legacy }
+		}
+		allow = {
+			#plurality = 50
+			ruling_party = "GBR_reactionary_84"
+			state_n_government = 1
+			average_militancy = 3
+		}
+		effect = {
+			government = presidential_dictatorship
+			political_reform = none_voting
+			political_reform = appointed
+			political_reform = censored_press
+			political_reform = harassment
+			social_reform = trinket_health_care
+			social_reform = acceptable_schools
+			nationalvalue = nv_order
+			set_country_flag = roundhead_leagacy
+			any_pop = {
+				militancy = -3
+			}
+			any_pop = {
+				limit = {
+					OR = {
+						type = clerks
+						type = craftsmen
+						type = capitalists
+					}
+				}
+				consciousness = 3
+			}
+			add_country_modifier = {
+				name = roundhead_leagacy
+				duration = 7300
 			}
 		}
 	}

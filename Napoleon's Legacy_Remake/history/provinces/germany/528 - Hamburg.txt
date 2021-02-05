@@ -1,6 +1,6 @@
-owner = HAM
-controller = HAM
-add_core = HAM
+owner = HAN
+controller = HAN
+add_core = HAN
 add_core = GER
 trade_goods = fruit
 life_rating = 40

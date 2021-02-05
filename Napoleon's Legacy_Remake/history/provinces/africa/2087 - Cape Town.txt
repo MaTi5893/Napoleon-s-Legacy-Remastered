@@ -3,7 +3,6 @@ controller = SAF
 add_core = SAF
 trade_goods = fruit
 life_rating = 35
-colonial = 2
 1861.1.1 = { 
 	railroad = 1 
 	naval_base = 1

@@ -33,8 +33,11 @@ political_decisions = {
 					vassal_of = THIS
 				}
 				annex_to = TUR
+				TUR = {
+					badboy = 15
+				}
 			}
-			set_country_flag = restored_persian_empire
+			set_country_flag = restored_ottoman_egypt
 		}
 	}
 	

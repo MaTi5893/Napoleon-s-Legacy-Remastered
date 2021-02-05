@@ -1,6 +1,7 @@
 political_decisions = {
 	
 	repartition_poland = {
+		picture = duchy_of_warsaw
 		potential = {
 			tag = PRU
 			NOT = { has_country_flag = repartitioned_poland }
@@ -33,6 +34,7 @@ political_decisions = {
 	}
 	
 	greater_prussia = {
+		picture = become_prussia
 		potential = {
 			tag = PRU
 			NOT = { has_country_flag = greater_prussia }
@@ -58,6 +60,25 @@ political_decisions = {
 			548 = {
 				add_core = THIS
 			}
+		}
+	}
+	
+	the_danzig_coup = {
+		picture = become_danzig
+		potential = {
+			tag = PRU
+			NOT = { has_country_flag = danzig_coup }
+			DZG = { exists = yes }
+		}
+		allow = {
+			is_greater_power = yes
+			DZG = {
+				in_sphere = THIS
+			}
+		}
+		effect = {
+			DZG = { country_event = 181500
+			set_country_flag = danzig_coup
 		}
 	}
 }

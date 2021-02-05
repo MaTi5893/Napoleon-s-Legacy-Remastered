@@ -1,4 +1,4 @@
-capital = 534
+capital = 566
 primary_culture = north_german
 religion = protestant
 government = prussian_constitutionalism

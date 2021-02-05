@@ -194,6 +194,7 @@ political_decisions = {
 			NOT = {
 				exists = CAN
 			}
+			owns = 300
 			war = no
 		}
 		allow = {
@@ -2213,12 +2214,12 @@ political_decisions = {
 			tag = SWE
 			NOT = { has_country_flag = finland_abandoned }
 			NOT = { has_country_flag = stormaktstiden }
-			exists = NOR
-			NOR = { 
-				all_core = {
-					NOT = { owned_by = SWE }
-				}
-			}		
+			#exists = NOR
+			#NOR = { 
+			#	all_core = {
+			#		NOT = { owned_by = SWE }
+			#	}
+			#}		
 		}
 
 		allow = {

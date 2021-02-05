@@ -1,0 +1,3183 @@
+#file includes modern South Africa, Lesotho and Swaziland
+#Western Cape Region (395100)
+#Ruled by Britain 1836
+#Boer POPs represent post-Great Trek migration
+#Cape Town (173000/43250 POPS)
+2087 = {
+    clergymen = {
+        culture = african_minor
+        religion = protestant
+        size = 49
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = protestant
+        size = 735
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 147
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = protestant
+        size = 8869
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 49
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 735
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 147
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 11809
+    }
+
+    aristocrats = {
+        culture = boer
+        religion = protestant
+        size = 20
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 69
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 59
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 2450
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 98
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 4165
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 73
+    }
+
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 29
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 1078
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1078
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 10922
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 15
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 181
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 15
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 3
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 241
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 50
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 85
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 22
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 22
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 223
+    }
+}
+#Worcester (117700/29425 POPS)
+2089 = {
+    clergymen = {
+        culture = african_minor
+        religion = protestant
+        size = 49
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = protestant
+        size = 245
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 98
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = protestant
+        size = 7448
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 73
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 147
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 73
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 6566
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 78
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 686
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 20
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 3356
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 98
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 49
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 98
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 98
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 9457
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 294
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 24
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 647
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 152
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 3
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 134
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 14
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 69
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 193
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 6
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 13
+    }
+}
+#Swettenham (69700/17425 POPS)
+2090 = {
+    clergymen = {
+        culture = african_minor
+        religion = protestant
+        size = 73
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = protestant
+        size = 196
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 98
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = protestant
+        size = 6492
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 49
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 294
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 49
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 3944
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 73
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 98
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 147
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 14381
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 294
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 24
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 647
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 4
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 133
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 6
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 81
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 3
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 294
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 6
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 13
+    }
+}
+#Mossel Bay (34700/8675 POPS)
+2091 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 24
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 147
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 24
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1543
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 49
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 147
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 24
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 1764
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 34
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 49
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 24
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 2832
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = protestant
+        size = 24
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = protestant
+        size = 98
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 24
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = protestant
+        size = 1813
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 32
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 36
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 58
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = protestant
+        size = 37
+    }
+}
+#Namaqualand Region (12000) #see Namibia.txt for balance of region
+#uncolonized 1836
+#Springbok (12000/3000 POPS)
+2088 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 2750
+    }
+}
+#Karoo Region (244500)
+#Ruled by Britain 1836
+#Boer POPs represent post-Great Trek migration
+#Beaufort (34600/8650 POPS)
+2092 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 24
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 147
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 24
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 2401
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 196
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 759
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 49
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 98
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 49
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 4704
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 49
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 4
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 16
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 96
+    }
+}
+#Calvinia (23300/5825 POPS)
+2093 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 98
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 10
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 808
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 24
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 49
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 24
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 2842
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 24
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 24
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 49
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 24
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 1837
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 17
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 58
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 38
+    }
+}
+#De Aar (30600/7650 POPS)
+2558 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 49
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 49
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 147
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 49
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 5586
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 24
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 245
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 24
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 2303
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 3
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 114
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 47
+    }
+}
+#Uncolonized in 1836
+#Kimberley (156000/39000 POPS)
+2094 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 400
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 400
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1600
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 400
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 36200
+    }
+}
+#Bechuanaland Region (20000) #see Botswana.txt for balance of region
+#Dikathong (20000/5000 POPS)
+2095 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 200
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 4650
+    }
+}
+#Eastern Cape Region (232000)
+#Ruled by Britain 1836
+#Port Elizabeth (44000/11000 POPS)
+2096 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 24
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 294
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 24
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 2597
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 39
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 34
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 98
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 24
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 3822
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 15
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 15
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 941
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 24
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 49
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 24
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 2842
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 6
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 53
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 78
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 19
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 58
+    }
+}
+#Graaf Reinet (36000/9000 POPS)
+2097 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 147
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 15
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 8648
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 24
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 24
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 98
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 49
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 3724
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 15
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 98
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 24
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 833
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 24
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 98
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 24
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 3773
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 177
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 76
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 17
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 77
+    }
+}
+#uncolonized/ruled by the Xhosa 1836
+#Bisho (40000/10000 POPS)
+2098 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 98
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 98
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 490
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 98
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 9016
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 184
+    }
+}
+#Mathele (40000/10000 POPS)
+2099 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 98
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 98
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 490
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 98
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 9016
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 184
+    }
+}
+#Umtata (72000/18000 POPS)
+2100 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 196
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 196
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 882
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 196
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 16170
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 4
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 4
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 18
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 4
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 330
+    }
+}
+#Transorangia Region (509000)
+#uncolonized in 1836/dominated by the Sotho in 1836
+#Boer POPs represent post-Great Trek migration
+#Bloemfontein (194000/48500 POPS)
+2101 = {
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    officers = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 49
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 88
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 588
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 906
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 465
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 2327
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 465
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 42630
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 12
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 19
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 48
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 870
+    }
+}
+#Winburg (102000/25500 POPS)
+2102 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 24
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1078
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 412
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 343
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 220
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1078
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 196
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 17860
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 73
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 49
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 245
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 49
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 4483
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 22
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 8
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 7
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 22
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 4
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 365
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 92
+    }
+}
+#Philippolis (85000/21250 POPS)
+2103 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 49
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 88
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 588
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 392
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 196
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1004
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 196
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 18301
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 12
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 8
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 4
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 21
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 4
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 374
+    }
+}
+#Thaba Bosiu (128000/32000 POPS) #now Lesotho
+2104 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 612
+    }
+
+    bureaucrats = {
+        culture = african_minor
+        religion = animist
+        size = 24
+    }
+
+    officers = {
+        culture = african_minor
+        religion = animist
+        size = 122
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 318
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1568
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 318
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 28395
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 13
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 3
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 7
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 32
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 7
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 580
+    }
+}
+#Transvaal Region (349000)
+#uncolonized in 1836/dominated by the Sotho in 1836
+#Boer POPs represent post-Great Trek migration
+#Pretoria (137600/34400 POPS)
+2105 = {
+    bureaucrats = {
+        culture = boer
+        religion = protestant
+        size = 2
+    }
+
+    officers = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 20
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 1100
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 320
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 650
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 350
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1350
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 350
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 31300
+    }
+}
+#Johannesburg (102400/25600 POPS)
+2106 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 65
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 500
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 425
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 250
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1250
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 250
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 22775
+    }
+}
+#uncolonized in 1836/dominated by the Ndebele
+#Klerksdorp (109000/27250 POPS)
+2107 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 15
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 205
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 225
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 125
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 600
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 125
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 15925
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 275
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 600
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 8825
+    }
+}
+#Limpopo Region (129000)
+#uncolonized in 1836/dominated by the Ndebele
+#Boer POPs represent post-Great Trek migration
+#Mosega (48200/12050 POPS)
+2108 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 6
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 40
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 200
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 2625
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 125
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 350
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 8375
+    }
+}
+#uncolonized in 1836/dominated by the Zulu
+#Lydenburg (52600/13150 POPS)
+2109 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 12
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 15
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 120
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 225
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 125
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 650
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 11850
+    }
+}
+#uncolonized in 1836/dominated by the Gaza Nguni
+#Thohoyandu (28200/7050 POPS)
+2110 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 1
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 6
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 40
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 4700
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 175
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 1750
+    }
+}
+#Natal Region (682000)
+#ruled/dominated by the Zulu in 1836
+#Boer POPs represent post-Great Trek migration
+#Durban (126000/31500 POPS)
+2111 = {
+    clergymen = {
+        culture = boer
+        religion = protestant
+        size = 5
+    }
+
+    artisans = {
+        culture = boer
+        religion = protestant
+        size = 25
+    }
+
+    soldiers = {
+        culture = boer
+        religion = protestant
+        size = 50
+    }
+
+    farmers = {
+        culture = boer
+        religion = protestant
+        size = 420
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 400
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 7275
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 425
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 225
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1050
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 250
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 21050
+    }
+}
+#Ladysmith (156000/39000 POPS)
+2112 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 750
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 400
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 1950
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 7000
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 28900
+    }
+}
+#Ulundi (320000/80000 POPS)
+2113 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 1550
+    }
+
+    bureaucrats = {
+        culture = african_minor
+        religion = animist
+        size = 25
+    }
+
+    officers = {
+        culture = african_minor
+        religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 825
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 4000
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 16000
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 57450
+    }
+}
+#Mbabane (80000/20000 POPS)  #now Swaziland
+2114 = {
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 125
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 350
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 6375
+    }
+
+    aristocrats = {
+        culture = african_minor
+        religion = animist
+        size = 250
+    }
+
+    clergymen = {
+        culture = african_minor
+        religion = animist
+        size = 125
+    }
+
+    artisans = {
+        culture = african_minor
+        religion = animist
+        size = 650
+    }
+
+    soldiers = {
+        culture = african_minor
+        religion = animist
+        size = 125
+    }
+
+    farmers = {
+        culture = african_minor
+        religion = animist
+        size = 11850
+    }
+}

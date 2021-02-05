@@ -1,0 +1,61 @@
+political_decisions = {
+	napoleons_legacy = {
+		picture = napoleon_legacy
+		potential = {
+			tag = FRA
+			NOT = { has_country_flag = napoleons_legacy }
+		}
+		allow = {
+			all_core = {
+				owned_by = THIS
+			}
+			invention = expansionism
+			is_greater_power = yes
+			300 = {
+				owner = {
+					is_greater_power = no
+				}
+			}
+			NOT = { any_greater_power = { any_owned_province = { owner = { is_culture_group = germanic } } } }
+		}
+		effect = {
+			badboy = 25
+			NET = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			499 = { add_core = THIS }
+			498 = { add_core = THIS }
+			500 = { add_core = THIS }
+			501 = { add_core = THIS }
+			738 = { add_core = THIS }
+			609 = { add_core = THIS }
+			SAR_720 = { add_core = THIS }
+			SAR_466 = { add_core = THIS }
+			HAN_538 = { add_core = THIS }
+			581 = { add_core = THIS }
+			535 = { add_core = THIS }
+			531 = { add_core = THIS }
+			528 = { add_core = THIS }
+			746 = { add_core = THIS }
+			744 = { add_core = THIS }
+			745 = { add_core = THIS }
+			747 = { add_core = THIS }
+			748 = { add_core = THIS }
+			751 = { add_core = THIS }
+			750 = { add_core = THIS }
+			749 = { add_core = THIS }
+			AUS_736 = { add_core = THIS }
+			AUS_778 = { add_core = THIS }
+			768 = { add_core = THIS }
+			773 = { add_core = THIS }
+			774 = { add_core = THIS }
+			781 = { add_core = THIS }
+			780 = { add_core = THIS }
+			782 = { add_core = THIS }
+			2582 = { add_core = THIS }
+			set_country_flag = napoleons_legacy
+		}
+	}
+}

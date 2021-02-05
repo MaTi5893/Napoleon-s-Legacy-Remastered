@@ -50,18 +50,6 @@ MOD = {
 	influence_value = 25
 }
 
-TUS = {
-	value = 75
-	level = 5
-	influence_value = 25
-}
-
-LUC = {
-	value = 75
-	level = 5
-	influence_value = 25
-}
-
 DEN = {
 	value = 55
 	level = 1
@@ -74,7 +62,9 @@ PRU = {
 RUS = {
 	value = 100
 }
-
+FRA = {
+	value = -50
+}
 ANH = {
 	value = -150
 	level = 0
@@ -234,34 +224,11 @@ leader = {
 army = {
 	name = "I. Armee"
 	location = 642
-	regiment = {
-		name= "1.1. Kavalleriedivision"
-		type = hussar
-		home = 619
-	}
-
-	regiment = {
-		name= "2.1. Kavalleriedivision"
-		type = infantry
-		home = 639
-	}
-
-	regiment = {
-		name= "3.1. Kavalleriedivision"
-		type = infantry
-		home = 631
-	}
 
 	regiment = {
 		name= "2.2. Infanteriedivision"
 		type = infantry
 		home = 729
-	}
-
-	regiment = {
-		name= "3.2. Infanteriedivision"
-		type = infantry
-		home = 771
 	}
 
 	regiment = {
@@ -286,12 +253,6 @@ army = {
 		name= "1.4. Infanteriedivision"
 		type = artillery
 		home = 612
-	}
-
-	regiment = {
-		name= "2.4. Infanteriedivision"
-		type = artillery
-		home = 629
 	}
 }
 
@@ -357,6 +318,18 @@ army = {
 		type = artillery
 		home = 714
 	}
+	
+	regiment = {
+		name= "3.2. Infanteriedivision"
+		type = artillery
+		home = 771
+	}
+	
+	regiment = {
+		name= "2.4. Infanteriedivision"
+		type = artillery
+		home = 629
+	}
 
 }
 
@@ -374,11 +347,11 @@ army = {
 		type = infantry
 		home = 642
 	}
-
+	
 	regiment = {
-		name= "3.8. Infanteriedivision"
+		name= "3.1. Kavalleriedivision"
 		type = infantry
-		home = 768
+		home = 631
 	}
 
 	regiment = {
@@ -438,7 +411,13 @@ army = {
 		type = infantry
 		home = 641
 	}
-
+	
+	regiment = {
+		name= "2.1. Kavalleriedivision"
+		type = infantry
+		home = 639
+	}
+	
 	regiment = {
 		name= "3.2. Kavalleriedivision"
 		type = infantry
@@ -486,24 +465,16 @@ army = {
 		type = artillery
 		home = 730
 	}
-}
-
-navy = {
-	name = "Austrian Imperial Navy"
-	location = 729
-	ship = {
-		name= "1. Klipperflottille"
-		type = clipper_transport
+	
+	regiment = {
+		name= "1.1. Kavalleriedivision"
+		type = artillery
+		home = 619
 	}
-
-	ship = {
-		name= "2. Klipperflottille"
-		type = clipper_transport
+	
+	regiment = {
+		name= "1.1. Kavalleriedivision"
+		type = artillery
+		home = 952
 	}
-
-	ship = {
-		name= "3. Klipperflottille"
-		type = clipper_transport
-	}
-
 }

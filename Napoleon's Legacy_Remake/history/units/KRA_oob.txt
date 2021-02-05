@@ -1,10 +1,51 @@
 army = {
-	name = "Armia Krakówiej"
+	name = "Armia Krakowska"
 	location = 703
-	
-	regiment = {
-		name = "1. Brygada"
-		type = infantry
-		home = 703
-	}
+		regiment = {
+			name = "1. Brygada"
+			type = infantry
+			home = 703
+		}
+		regiment = {
+			name= "2. Brygada"
+			type = artillery
+			home = 706
+		}
+		regiment = {
+			name= "3. Brygada"
+			type = artillery
+			home = 699
+		}
+		regiment = {
+			name= "4. Brygada"
+			type = artillery
+			home = 701
+		}
+		regiment = {
+			name= "4. Brygada"
+			type = artillery
+			home = 699
+		}
+		regiment = {
+			name= "4. Brygada"
+			type = infantry
+			home = 712
+		}
+		regiment = {
+			name= "4. Brygada"
+			type = infantry
+			home = 701
+		}
+		regiment = {
+			name = "5. Brygada"
+			type = infantry
+			home = 716
+		}
+}
+leader = {
+	name = "Jozef Zajaczek"
+	type = land
+	date = 1836.1.1
+	background = defence_1.6
+	personality = defence_1.147
 }

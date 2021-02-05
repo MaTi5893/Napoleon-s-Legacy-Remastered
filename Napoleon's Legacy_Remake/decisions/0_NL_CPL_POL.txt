@@ -1,6 +1,7 @@
 political_decisions = {
 	
 	form_poland = {
+		picture = duchy_of_warsaw
 		potential = {
 			tag = CPL
 			POL = { exists = no }
@@ -19,6 +20,7 @@ political_decisions = {
 	}
 	
 	plc_expansion = {
+		picture = become_plc
 		potential = {
 			tag = PLC
 			exists = yes
@@ -41,6 +43,7 @@ political_decisions = {
 	}
 	
 	propose_plc = {
+		picture = become_plc
 		potential = {
 			tag = CPL
 			PLC = { exists = no }
@@ -54,6 +57,69 @@ political_decisions = {
 		}
 		effect = {
 			LIT = { country_event = 157300 }
+		}
+	}
+	
+	create_cop = {
+		picture = duchy_of_warsaw
+		potential = {
+			primary_culture = polish
+			NOT = { any_owned_province = { has_province_modifier = cop } }
+			owns = 703
+		}
+		allow = {
+			economic_responsibility = 1
+			owns = 714
+		}
+		effect = {
+			any_owned = {
+				limit = {
+					OR = {
+						province_id = 703
+						province_id = 716
+						province_id = 713
+						province_id = 715
+						province_id = 714
+						province_id = 705
+					}
+				}
+				add_province_modifier = {
+					name = cop
+					duration = -1
+				}
+			}
+		}
+	}
+	
+	the_grandest_duchy = {
+		picture = duchy_of_lit
+		potential = {
+			tag = LIT
+			NOT = { has_country_flag = the_grandest_duchy }
+		}
+		allow = {
+			invention = expansionism
+			OR = {
+				war_with = RUS
+				is_greater_power = yes
+			}
+		}
+		effect = {
+			add_accepted_culture = byelorussian
+			PLC = {
+				all_core = {
+					limit = {
+						NOT = { is_core = POL }
+						NOT = { is_core = GER }
+						NOT = { is_core = LAT }
+						NOT = { is_core = EST }
+					}
+					add_core = THIS
+				}
+			}
+			prestige = 20
+			badboy = 10
+			set_country_flag = the_grandest_duchy
 		}
 	}
 }

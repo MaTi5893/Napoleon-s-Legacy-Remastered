@@ -1,5 +1,6 @@
 political_decisions = {
 	reutrn_home = {
+		picture = become_eng
 		potential = {
 			tag = ENG
 			NOT = { has_country_flag = reutrned_home }
@@ -95,6 +96,7 @@ political_decisions = {
 	}
 	
 	give_up_the_cause = {
+		picture = become_eng
 		potential = {
 			tag = ENG
 			NOT = { owns = 300 }
