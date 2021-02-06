@@ -32,7 +32,7 @@ political_decisions = {
 	move_capital_to_rio = {
 		potential = {
 			tag = UPB
-			NOT = { country_flag = moved_capital_to_rio }
+			NOT = { has_country_flag = moved_capital_to_rio }
 			owns = 2447
 		}
 		allow = {
