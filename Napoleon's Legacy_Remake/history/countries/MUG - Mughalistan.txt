@@ -50,4 +50,11 @@ land_reform = yes_land_reform
 foreign_weapons = yes_foreign_weapons
 finance_reform = yes_finance_reform
 
+post_napoleonic_thought = 1
 flintlock_rifles = 1
+army_command_principle = 1
+private_banks = 1
+late_enlightenment_philosophy = 1
+water_wheel_power = 1
+mechanized_mining = 1
+basic_chemistry = 1
