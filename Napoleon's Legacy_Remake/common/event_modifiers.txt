@@ -1160,3 +1160,7 @@ cop = {
 	local_factory_output = 0.1
 	icon = 19
 }
+fort_constructions = {
+	tax_efficiency = -0.1
+	icon = 10
+}
