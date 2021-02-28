@@ -33,7 +33,7 @@ political_decisions = {
 					vassal_of = THIS
 				}
 			}
-			SIC = {
+			SYC = {
 				OR = {
 					all_core = {
 						OR = {
