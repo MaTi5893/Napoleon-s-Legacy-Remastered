@@ -1,4 +1,4 @@
-name = "American War of Independence"
+name = "South African War of Independence"
 
 1835.4.19 = {
 	add_attacker = SAF
