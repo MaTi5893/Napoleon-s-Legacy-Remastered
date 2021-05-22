@@ -1,0 +1,62 @@
+army = {
+	name = "The Army of His Imperial Majesty"
+	location = 1236
+	regiment = {
+		name= "1st Pampat Infantry"
+		type = infantry
+		home = 1237
+	}
+
+	regiment = {
+		name= "1st Dehra Dun Infantry "
+		type = infantry
+		home = 1238
+	}
+
+	regiment = {
+		name= "1st Meerut Infantry"
+		type = infantry
+		home = 1239
+	}
+	
+	regiment = {
+		name= "2nd Meerut Infantry"
+		type = infantry
+		home = 1239
+	}
+	
+	regiment = {
+		name= "1st Delhi Infantry"
+		type = infantry
+		home = 1236
+	}
+	
+	regiment = {
+		name= "1st Agra Infantry"
+		type = infantry
+		home = 1240
+	}
+	
+	regiment = {
+		name= "2nd Agra Infantry"
+		type = infantry
+		home = 1240
+	}
+	
+	regiment = {
+		name= "3rd Agra Infantry"
+		type = infantry
+		home = 1240
+	}
+	
+	regiment = {
+		name= "1st Cawnpore Infantry"
+		type = infantry
+		home = 1241
+	}
+	regiment = {
+		name= "1st Gorakhpur Infantry"
+		type = infantry
+		home = 1246
+	}
+}

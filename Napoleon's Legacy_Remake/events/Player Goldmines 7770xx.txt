@@ -157,7 +157,7 @@ country_event = {
 		NOT = { year = 1880 }
 		ENG = {	ai = no }
 		tag = ENG
-		256 = { NOT = { trade_goods = precious_metal } }
+		71 = { NOT = { trade_goods = precious_metal } }
 	}
 
 	mean_time_to_happen =  {
@@ -170,7 +170,7 @@ country_event = {
 
 	option = {
 		name = "EVTOPTA1100"
-		256 = { 
+		71 = { 
 			trade_goods = precious_metal
 			clr_province_flag = farm
 			set_province_flag = mine

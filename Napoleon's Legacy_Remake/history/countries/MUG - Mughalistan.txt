@@ -24,7 +24,7 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
-
+oob = "MUG_oob.txt"
 1861.1.1 = {
 	oob = "/1861/MUG_oob.txt"
 }

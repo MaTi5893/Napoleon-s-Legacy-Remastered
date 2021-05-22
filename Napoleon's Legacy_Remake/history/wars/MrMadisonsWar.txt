@@ -1,4 +1,4 @@
-name = "Mr. Madisons War"
+name = "Mr. Madison's War"
 
 1835.10.2 = {
 	add_attacker = USA
