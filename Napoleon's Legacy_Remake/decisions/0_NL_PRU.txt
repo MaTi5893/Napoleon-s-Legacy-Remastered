@@ -77,8 +77,9 @@ political_decisions = {
 			}
 		}
 		effect = {
-			DZG = { country_event = 181500
+			DZG = { country_event = 181500 } 
 			set_country_flag = danzig_coup
 		}
 	}
+}
 }
