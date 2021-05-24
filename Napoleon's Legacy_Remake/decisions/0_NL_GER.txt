@@ -8,8 +8,16 @@ political_decisions = {
 		allow = {
 			is_greater_power = yes
 			war_policy = jingoism
-			all_core = { owned_by = THIS }
-		}
+			all_core = {  
+				OR = { 
+					owned_by = THIS 
+					OR = { 
+						province_id = 533 #heligoland 
+						province_id = 608 #neuchatel
+					} 
+				}
+ 		} 
+}
 		effect = {
 			RHI = {
 				all_core = {
