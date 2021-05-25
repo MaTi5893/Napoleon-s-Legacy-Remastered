@@ -3,4 +3,3 @@ controller = SAK
 add_core = SAK
 trade_goods = tobacco
 life_rating = 30
-colonial = 2

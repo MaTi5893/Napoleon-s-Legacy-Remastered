@@ -331,64 +331,64 @@ political_decisions = {
 				factor = 1
 			}
 	}
-	the_union_of_south_africa = {
-			potential = {
-				tag = ENG
-				NOT = {
-					has_country_flag = south_africa_act_passed
-				}
-				NOT = {
-					AND = { 
-						exists = TRN
-						exists = ORA
-						exists = NAL
-						exists = ZUL
-					}
-				}
-				war = no
-			}
-			allow = {
-				owns = 2087 #Cape Town
-				owns = 2111 #Durban
-				owns = 2101 #Bloemfontein
-				owns = 2105 #Pretoria
-				OR = {
-					exists = AST
-					exists = CAN
-				}
-			}
-			effect = {
-				prestige = 50
-				badboy = -8 #-10
-				release_vassal = SAF
-				any_pop = {
-					limit = {
-						is_primary_culture = yes
-					}
-						consciousness = 1
-				}
-				SAF = {
-					any_pop = { militancy = -8 }
-					all_core = { remove_core = ENG }
-				}
-				relation = {
-					who = SAF
-					value = 200
-				}
-				diplomatic_influence = {
-					who = SAF
-					value = 300
-				}
-				set_country_flag = south_africa_act_passed
-			}
-			ai_will_do = {
-				factor = 1
-				modifier = { 
-					factor = 0
-					NOT = { year = 1900 }
-				}
-			}
-	}
+#	the_union_of_south_africa = {   #sorry bro it's dutch lol 
+#			potential = {
+#				tag = ENG
+#				NOT = {
+#					has_country_flag = south_africa_act_passed
+#				}
+#				NOT = {
+#					AND = { 
+#						exists = TRN
+#						exists = ORA
+#						exists = NAL
+#						exists = ZUL
+#					}
+#				}
+#				war = no
+#			}
+#			allow = {
+#				owns = 2087 #Cape Town
+#				owns = 2111 #Durban
+#				owns = 2101 #Bloemfontein
+#				owns = 2105 #Pretoria
+#				OR = {
+#					exists = AST
+#					exists = CAN
+#				}
+#			}
+#			effect = {
+#				prestige = 50
+#				badboy = -8 #-10
+#				release_vassal = SAF
+#				any_pop = {
+#					limit = {
+#						is_primary_culture = yes
+#					}
+#						consciousness = 1
+#				}
+#				SAF = {
+#					any_pop = { militancy = -8 }
+#					all_core = { remove_core = ENG }
+#				}
+#				relation = {
+#					who = SAF
+#					value = 200
+#				}
+#				diplomatic_influence = {
+#					who = SAF
+#					value = 300
+#				}
+#				set_country_flag = south_africa_act_passed
+#			}
+#			ai_will_do = {
+#				factor = 1
+#				modifier = { 
+#					factor = 0
+#					NOT = { year = 1900 }
+#				}
+#			}
+#	}
 	establish_beiyang_fleet = {
 			potential = {
 				tag = CHI
