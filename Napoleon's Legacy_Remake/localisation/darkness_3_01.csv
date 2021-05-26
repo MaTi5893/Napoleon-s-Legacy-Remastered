@@ -162,7 +162,7 @@ COUNTRYALERT_Crisis;Current crisis is at a temperature of §Y$TEMPERATURE$§!;;Akt
 HAS_GOODS_IN_STATE;Producing $GOODS$ in state.;;Produziert $GOODS$ im Staat.;;;;;;;;x;;;
 HAS_NO_GOODS_IN_STATE;Is not producing $GOODS$ in state.;;Produziert kein(e) $GOODS$ im Staat.;;;;;;;;x;;;
 MILITARY_MOBILIZE_CRISIS_IMPACT;§RMobilizing while on a side in a crisis will increase temperature and lead to war!§!;;§RWährend man sich auf einer Seite in einem Konflikt befindet, wird die Mobilisierung die Temperatur erhöhen und zum Krieg führen!§!;;;;;;;;x;;;
-NORMAL_WAR_LIBERATE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;$ORDER$$FIRST$ guerre de libération $COUNTRY_ADJ$;$ORDER$$FIRST$-$COUNTRY_ADJ$er Freiheitskrieg;;$ORDER$ Guerra $FIRST$ de liberación $COUNTRY_ADJ$;;;;;;;;;x
+NORMAL_WAR_LIBERATE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;$ORDER$$FIRST$ guerre de libération $COUNTRY_ADJ$;$ORDER$$FIRST$-$COUNTRY_ADJ$er Freiheitskrieg;;$ORDER$Guerra $FIRST$ de liberación $COUNTRY_ADJ$;;;;;;;;;x
 AGRESSION_WAR_LIBERATE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Liberation;;$ORDER$$FIRST$-$COUNTRY_ADJ$er Befreiungskrieg;;;;;;;;x;;;
 CANT_COLONIZE;§RUnable to colonize:§!;;§RKolonisierung nicht möglich:§!;;;;;;;;x;;;
 COLONIZE_LAST_INVESTMENT;We have just invested in this area. Next investment can be done after §Y$DATE$§!;;Wir haben gerade erst in diese Gegend investiert. Nächste Investition möglich nach §Y$DATE$§! ;;;;;;;;x;;;

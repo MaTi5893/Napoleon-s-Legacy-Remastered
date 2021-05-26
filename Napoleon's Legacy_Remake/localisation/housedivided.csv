@@ -552,39 +552,39 @@ movement_good_schools;Common School Movement;Mouvement pour l'école publique;Gem
 POLITICS_MOVEMENTS;Movements;Mouvements;Bewegungen;;;;;;;;;;;x
 POLITICS_ECONOMIC_REFORMS;Economic Reforms;Réformes économiques;Wirtschaftsreformen;;;;;;;;;;;x
 POLITICS_MILITARY_REFORMS;Military Reforms;Réformes militaires;Militärreformen;;;;;;;;;;;x
-NORMAL_CIVIL_WAR_NAME_USA_CSA_CSA;$ORDER$War of Northern Aggression;$ORDER$ guerre d’agression nordiste;$ORDER$Krieg des Nördlichen Angriffs;;;;;;;;;;;x
-NORMAL_CIVIL_WAR_NAME_USA_CSA_USA;$ORDER$War of the Rebellion;$ORDER$ guerre de rébellion;$ORDER$Rebellionskrieg;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_USA_CSA_CSA;$ORDER$War of Northern Aggression;$ORDER$guerre d’agression nordiste;$ORDER$Krieg des Nördlichen Angriffs;;;;;;;;;;;x
+NORMAL_CIVIL_WAR_NAME_USA_CSA_USA;$ORDER$War of the Rebellion;$ORDER$guerre de rébellion;$ORDER$Rebellionskrieg;;;;;;;;;;;x
 NORMAL_WAR_GUNBOAT_NAME;$ORDER$$FIRST$ intervention in $SECOND_COUNTRY$;$ORDER$$FIRST$ intervention en $SECOND_COUNTRY$;$ORDER$$FIRST$ Intervention in $SECOND_COUNTRY$;;;;;;;;;;;x
-NORMAL_WAR_GUNBOAT_NAME_FRA_MEX;$ORDER$Pastry War;$ORDER$ guerre de la pâtisserie;$ORDER$Kuchenkrieg;;;;;;;;;;;x
-NORMAL_WAR_TAKE_NAME_USA_MEX_USA;$ORDER$Mexican-American War;$ORDER$ guerre mexicano-américaine;$ORDER$Mexikanisch-Amerikanischer Krieg;;;;;;;;;;;x
-NORMAL_WAR_TAKE_NAME_USA_MEX_MEX;$ORDER$American Invasion of Mexico;$ORDER$ guerre américaine d'invasion du Mexique;$ORDER$Amerikanische Invasion von Mexiko;;;;;;;;;;;x
-NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_USA;$ORDER$Mexican-American War;$ORDER$ guerre mexicano-américaine;$ORDER$Mexikanisch-Amerikanischer Krieg;;;;;;;;;;;x
-NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_MEX;$ORDER$American Invasion of Mexico;$ORDER$ guerre américaine d'invasion du Mexique;$ORDER$Amerikanische Invasion von Mexiko;;;;;;;;;;;x
-NORMAL_WAR_GUNBOAT_NAME_ENG_CHI;$ORDER$Opium War;$ORDER$ guerre de l'opium;$ORDER$Opiumkrieg;;;;;;;;;;;x
-NORMAL_WAR_ADD_SPHERE_NAME_ENG_CHI;$ORDER$Opium War;$ORDER$ guerre de l'opium;$ORDER$Opiumkrieg;;;;;;;;;;;x
+NORMAL_WAR_GUNBOAT_NAME_FRA_MEX;$ORDER$Pastry War;$ORDER$guerre de la pâtisserie;$ORDER$Kuchenkrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_USA_MEX_USA;$ORDER$Mexican-American War;$ORDER$guerre mexicano-américaine;$ORDER$Mexikanisch-Amerikanischer Krieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_USA_MEX_MEX;$ORDER$American Invasion of Mexico;$ORDER$guerre américaine d'invasion du Mexique;$ORDER$Amerikanische Invasion von Mexiko;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_USA;$ORDER$Mexican-American War;$ORDER$guerre mexicano-américaine;$ORDER$Mexikanisch-Amerikanischer Krieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_USA_MEX_MEX;$ORDER$American Invasion of Mexico;$ORDER$guerre américaine d'invasion du Mexique;$ORDER$Amerikanische Invasion von Mexiko;;;;;;;;;;;x
+NORMAL_WAR_GUNBOAT_NAME_ENG_CHI;$ORDER$Opium War;$ORDER$guerre de l'opium;$ORDER$Opiumkrieg;;;;;;;;;;;x
+NORMAL_WAR_ADD_SPHERE_NAME_ENG_CHI;$ORDER$Opium War;$ORDER$guerre de l'opium;$ORDER$Opiumkrieg;;;;;;;;;;;x
 NORMAL_WAR_INDEPENDENCE_NAME;$ORDER$$FIRST$ War of Independence;$ORDER$$FIRST$ guerre d'indépendance;$ORDER$$FIRST$ Unabhängigkeitskrieg;;;;;;;;;;;x
-NORMAL_WAR_TAKE_NAME_CHL_PEU;$ORDER$War of the Pacific;$ORDER$ guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x
-NORMAL_WAR_TAKE_CORE_NAME_CHL_PEU;$ORDER$War of the Pacific;$ORDER$ guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x
-NORMAL_WAR_TAKE_NAME_CHL_BOL;$ORDER$War of the Pacific;$ORDER$ guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x
-NORMAL_WAR_TAKE_CORE_NAME_CHL_BOL;$ORDER$War of the Pacific;$ORDER$ guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x
-NORMAL_WAR_CONQUEST_NAME_ENG_TRN;$ORDER$Boer War;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
-NORMAL_WAR_CONQUEST_NAME_ENG_ORA;$ORDER$Boer War;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
-NORMAL_WAR_TAKE_NAME_ENG_TRN;$ORDER$Boer War;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
-NORMAL_WAR_TAKE_NAME_ENG_ORA;$ORDER$Boer War;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
-NORMAL_WAR_TAKE_NAME_ORA_ENG;$ORDER$Boer War;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
-NORMAL_WAR_TAKE_NAME_TRN_ENG;$ORDER$Boer War;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
-NORMAL_WAR_PUPPET_NAME_ENG_TRN;$ORDER$Boer War;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
-NORMAL_WAR_PUPPET_NAME_ENG_ORA;$ORDER$Boer War;$ORDER$ guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
-NORMAL_WAR_PUPPET_NAME;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;$ORDER$ guerre de $FIRST$ pour le contrôle de $SECOND_COUNTRY$;$ORDER$ Krieg um die Kontrolle von $FIRST$ über $SECOND_COUNTRY$;;;;;;;;;;;x
-NORMAL_WAR_BOXER_NAME;$ORDER$Boxer Rebellion;$ORDER$ rébellion des Boxers;$ORDER$Boxer Aufstand;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_CHL_PEU;$ORDER$War of the Pacific;$ORDER$guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_CHL_PEU;$ORDER$War of the Pacific;$ORDER$guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_CHL_BOL;$ORDER$War of the Pacific;$ORDER$guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_CHL_BOL;$ORDER$War of the Pacific;$ORDER$guerre du Pacifique;$ORDER$Pazifikkrieg;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_NAME_ENG_TRN;$ORDER$Boer War;$ORDER$guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
+NORMAL_WAR_CONQUEST_NAME_ENG_ORA;$ORDER$Boer War;$ORDER$guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ENG_TRN;$ORDER$Boer War;$ORDER$guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ENG_ORA;$ORDER$Boer War;$ORDER$guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_ORA_ENG;$ORDER$Boer War;$ORDER$guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_TRN_ENG;$ORDER$Boer War;$ORDER$guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_ENG_TRN;$ORDER$Boer War;$ORDER$guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME_ENG_ORA;$ORDER$Boer War;$ORDER$guerre des Boers;$ORDER$Burenkrieg;;;;;;;;;;;x
+NORMAL_WAR_PUPPET_NAME;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;$ORDER$guerre de $FIRST$ pour le contrôle de $SECOND_COUNTRY$;$ORDER$Krieg um die Kontrolle von $FIRST$ über $SECOND_COUNTRY$;;;;;;;;;;;x
+NORMAL_WAR_BOXER_NAME;$ORDER$Boxer Rebellion;$ORDER$rébellion des Boxers;$ORDER$Boxer Aufstand;;;;;;;;;;;x
 NORMAL_WAR_PUPPET_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;$ORDER$$SECOND$ guerre d'indépendence;$ORDER$$SECOND$ Unabhängigkeitskrieg;;;;;;;;;;;x
 NORMAL_WAR_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;$ORDER$$SECOND$ guerre d'indépendence;$ORDER$$SECOND$ Unabhängigkeitskrieg;;;;;;;;;;;x
 NORMAL_WAR_TAKE_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;$ORDER$$SECOND$ guerre d'indépendence;$ORDER$$SECOND$ Unabhängigkeitskrieg;;;;;;;;;;;x
 NORMAL_WAR_TAKE_CORE_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;$ORDER$$SECOND$ guerre d'indépendence;$ORDER$$SECOND$ Unabhängigkeitskrieg;;;;;;;;;;;x
 NORMAL_WAR_CONQUEST_NAME_ENG_USA;$ORDER$$SECOND$ War of Independence;$ORDER$$SECOND$ guerre d'indépendence;$ORDER$$SECOND$ Unabhängigkeitskrieg;;;;;;;;;;;x
-NORMAL_WAR_HUMILIATE_NAME;$ORDER$$FIRST$-$SECOND$ War of Honor;$ORDER$ guerre pour l'honneur $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Krieg der Ehre;;;;;;;;;;;x
-NORMAL_WAR_UNIFICATION_NAME_PRU_FRA;$ORDER$Franco-Prussian War;$ORDER$ guerre franco-prussienne;$ORDER$Franco-Preussischer Krieg;;;;;;;;;;;x
-NORMAL_WAR_UNIFICATION_NAME_NGF_FRA;$ORDER$Franco-Prussian War;$ORDER$ guerre franco-prussienne;$ORDER$Franco-Preussischer Krieg;;;;;;;;;;;x
+NORMAL_WAR_HUMILIATE_NAME;$ORDER$$FIRST$-$SECOND$ War of Honor;$ORDER$guerre pour l'honneur $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Krieg der Ehre;;;;;;;;;;;x
+NORMAL_WAR_UNIFICATION_NAME_PRU_FRA;$ORDER$Franco-Prussian War;$ORDER$guerre franco-prussienne;$ORDER$Franco-Preussischer Krieg;;;;;;;;;;;x
+NORMAL_WAR_UNIFICATION_NAME_NGF_FRA;$ORDER$Franco-Prussian War;$ORDER$guerre franco-prussienne;$ORDER$Franco-Preussischer Krieg;;;;;;;;;;;x
 CAN_INVEST_IN_RAILROADS;Allowed to invest in railroads;Autoriser à investir dans les chemins de fer;Investitionen in Eisenbahnen erlaubt;;;;;;;;;;;x
 land_reform;Land reform;Réforme rurale;Landreform;;;;;;;;;;;x
 land_reform_l;Land reform;Réforme agraire;Landreform;;;;;;;;;;;x

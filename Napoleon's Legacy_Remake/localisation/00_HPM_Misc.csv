@@ -679,10 +679,10 @@ EVTDESC370000002;'The factories extend their flanks of fouler brick one after an
 EVTOPTA370000002;We should consider legislation to change this.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;
 EVTOPTB370000002;Hard work is the foundation of a good moral character.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;
 ;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-NORMAL_WAR_TAKE_NAME_RUS_CIR;$ORDER$ Caucasian War;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-NORMAL_WAR_TAKE_CORE_NAME_RUS_CIR;$ORDER$ Caucasian War;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-NORMAL_WAR_TAKE_NAME_RUS_DAG;$ORDER$ Caucasian War;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-NORMAL_WAR_TAKE_CORE_NAME_RUS_DAG;$ORDER$ Caucasian War;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_RUS_CIR;$ORDER$Caucasian War;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_RUS_CIR;$ORDER$Caucasian War;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_NAME_RUS_DAG;$ORDER$Caucasian War;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+NORMAL_WAR_TAKE_CORE_NAME_RUS_DAG;$ORDER$Caucasian War;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 secularized_desc;Religion is not explicitly part of state policy, but the state tips its hat to traditional religious values.;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 dismantle_declared;Dismantled;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 in_great_war;In a Great War;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
