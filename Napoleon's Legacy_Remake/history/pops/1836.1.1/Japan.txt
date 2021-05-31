@@ -325,31 +325,31 @@
 	}
 
 	aristocrats = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 750
 	}
 
 	clergymen = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 425
 	}
 
 	artisans = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 1500
 	}
 
 	soldiers = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 37075
 	}
@@ -405,31 +405,31 @@
 	}
 
 	aristocrats = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 800
 	}
 
 	clergymen = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 575
 	}
 
 	artisans = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 2000
 	}
 
 	soldiers = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 350
 	}
 
 	farmers = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 46275
 	}
@@ -485,31 +485,31 @@
 	}
 
 	aristocrats = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 1250
 	}
 
 	clergymen = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 750
 	}
 
 	artisans = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 3000
 	}
 
 	soldiers = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 650
 	}
 
 	farmers = {
-		culture = ainu
+		culture = japanese
 		religion = animist
 		size = 68350
 	}
