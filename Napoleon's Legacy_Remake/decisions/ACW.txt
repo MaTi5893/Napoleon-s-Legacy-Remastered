@@ -777,6 +777,9 @@ political_decisions = {
 		potential = {
 			tag = ENG
 			owns = 250
+			NOT = { 
+				owns = 249
+			} 
 			NOT = {
 				has_country_flag = webster_ashburton_signed
 			}
