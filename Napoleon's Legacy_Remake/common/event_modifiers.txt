@@ -704,7 +704,11 @@ the_yard = {
 	tax_efficiency = 0.01
 	icon = 1
 }
-
+last_stand = {
+	war_exhaustion = -0.01
+	mobilisation_size = 0.25
+	icon = 1
+}
 #### SPA - Spain ####
 la_guardia_civil = {
 	tax_efficiency = 0.01

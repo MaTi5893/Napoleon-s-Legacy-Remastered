@@ -1,4 +1,4 @@
-capital = 703 #Krakow
+capital = 706 Warsaw
 primary_culture = polish
 culture = lithuanian
 religion = catholic
@@ -41,3 +41,4 @@ upper_house = {
 }
 
 
+oob = "KRA_oob.txt"

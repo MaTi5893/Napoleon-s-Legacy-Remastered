@@ -16,6 +16,14 @@ political_decisions = {
 				}
 			}
 			362 = { remove_core = THIS }
+			add_core = 957
+			add_core = 956
+			add_core = 955
+			add_core = 959
+			add_core = 960
+			add_core = 954
+			add_core = 961
+			add_core = 958
 			badboy = 10
 			set_country_flag = repartition_poland_RUS
 		}
@@ -29,6 +37,7 @@ political_decisions = {
 		allow = {
 			owns = 345
 			owns = 337
+			owns = 958
 			war_policy = jingoism
 			is_greater_power = yes
 		}

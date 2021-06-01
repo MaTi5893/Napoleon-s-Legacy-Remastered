@@ -115,4 +115,27 @@ political_decisions = {
 			change_tag = CAN
 		}
 	}
+	
+	last_stand = {
+		picture = duke_of_welington
+		potential = {
+			tag = ENG
+			NOT = { has_country_flag = last_stand }
+		}
+		allow = {
+			war_with = USA
+		}
+		effect = {
+			add_country_modifier = {
+				name = last_stand
+				duration = 2555
+			}
+			artillery = 100
+			canned_food = 40
+			small_arms = 40
+			ammunition = 100
+			war_exhaustion = 5
+			set_country_flag = last_stand
+		}
+	}
 }

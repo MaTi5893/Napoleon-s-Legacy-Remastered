@@ -49,3 +49,23 @@ leader = {
 	background = defence_1.6
 	personality = defence_1.147
 }
+army = {
+	name = "Lithuanian Army"
+	location = 360
+	
+	regiment = {
+		name = "1. Devision"
+		type = infantry
+		home = 360
+	}
+	regiment = {
+		name = "1. Devision"
+		type = infantry
+		home = 362
+	}
+	regiment = {
+		name = "1. Devision"
+		type = infantry
+		home = 360
+	}
+}
