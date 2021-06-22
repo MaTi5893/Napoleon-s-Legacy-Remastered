@@ -1320,7 +1320,7 @@ colonial_negotiations = {
 bolt_action_rifle_armament = {
 	limit = { bolt_action_rifles = 1 }
 	chance = {
-		base = 5
+		base = 100
 		modifier = {
 			factor = 9
 			war = yes
@@ -1768,10 +1768,10 @@ cuirassier_activation = {
 	limit = { military_staff_system = 1 }
 	chance = {
 		base = 100
-#		modifier = {
-#			factor = -2
-#			not = { civilized = yes }
-#		}
+		modifier = {
+			factor = -100
+			not = { civilized = yes }
+		}
 	}
 	effect = {
 		activate_unit = cuirassier
@@ -1781,10 +1781,10 @@ dragoon_activation = {
 	limit = { military_staff_system = 1 }
 	chance = {
 		base = 100
-#		modifier = {
-#			factor = -2
-#			not = { civilized = yes }
-#		}
+		modifier = {
+			factor = -100
+			not = { civilized = yes }
+		}
 	}
 	effect = {
 		activate_unit = dragoon
@@ -1794,10 +1794,10 @@ hussar_activation = {
 	limit = { military_staff_system = 1 }
 	chance = {
 		base = 100
-#		modifier = {
-#			factor = -2
-#			not = { civilized = yes }
-#		}
+		modifier = {
+			factor = -100
+			not = { civilized = yes }
+		}
 	}
 	effect = {
 		activate_unit = hussar 

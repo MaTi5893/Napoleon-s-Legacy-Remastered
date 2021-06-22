@@ -251,8 +251,8 @@ the_leadership_principle = {
 	effect = {
 		permanent_prestige = 1
 		plurality = -0.05
-		army_base = { discipline = 0.2 } #The troops have sworn an oath of personal loyalty to the leader
-		morale = 0.2 #greater fighting spirit inculcated into the army
+#		army_base = { discipline = 0.2 } #The troops have sworn an oath of personal loyalty to the leader
+#		morale = 0.2 #greater fighting spirit inculcated into the army
 	}
 }
 
@@ -349,7 +349,7 @@ the_classless_society = {
 	effect = {
 		permanent_prestige = 1
 		plurality = -0.05
-		army_base = { discipline = -0.2 } #The traditional symbols of loyalty to the state are swept away
-		morale = -0.2 #The army is purged of the professional officer class that inspire them 
+#		army_base = { discipline = -0.2 } #The traditional symbols of loyalty to the state are swept away
+#		morale = -0.2 #The army is purged of the professional officer class that inspire them 
 	}
 }

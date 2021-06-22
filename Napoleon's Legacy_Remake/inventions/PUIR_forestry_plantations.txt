@@ -26,6 +26,10 @@ cotton_gin = {
 	limit = { publishing_industry = 1 }
 	chance = {
 		base = 5
+		modifier = {
+			factor = -100
+			not = { civilized = yes }
+		}
 	}
 	effect = {
 		activate_building = machine_parts_factory

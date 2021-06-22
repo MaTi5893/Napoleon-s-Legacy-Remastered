@@ -27,7 +27,6 @@ ironclad = {
 	build_cost = {	
 		steamer_convoy = 20
 		artillery = 12
-		iron = 100
 		canned_food = 10
 	}
 	min_port_level = 3

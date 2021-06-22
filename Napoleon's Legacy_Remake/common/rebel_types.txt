@@ -936,6 +936,36 @@ nationalist_rebels = {
 		}
 		modifier = {
 			factor = 0
+			is_culture_group = scandinavian
+			country = { tag = SCA }
+		}
+		modifier = {
+			factor = 0
+			is_culture_group = germanic
+			country = { tag = GER }
+		}
+		modifier = {
+			factor = 0
+			is_culture_group = italian
+			country = { tag = ITA }
+		}
+		modifier = {
+			factor = 0
+			culture = manchu
+			country = { tag = CHI }
+		}
+		modifier = {
+			factor = 0
+			culture = beifaren
+			country = { tag = CHI }
+		}
+		modifier = {
+			factor = 0
+			culture = nanfaren
+			country = { tag = CHI }
+		}
+		modifier = {
+			factor = 0
 			OR = {
 				culture = catalan
 				culture = basque

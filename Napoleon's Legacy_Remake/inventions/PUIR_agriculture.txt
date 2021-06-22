@@ -10,6 +10,10 @@ spinning_jenny = {
 	chance = {
 		base = 5
 		modifier = {
+			factor = -100
+			not = { civilized = yes }
+		}
+		modifier = {
 			factor = 2
 		invention = sharp_n_roberts_power_loom
 		}

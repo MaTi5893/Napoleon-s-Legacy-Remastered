@@ -171,7 +171,6 @@ war_exhaustion = {
 
 badboy = {
 	global_pop_consciousness_modifier = 0.001
-	global_immigrant_attract = -0.001
 }
 
 

@@ -76,44 +76,8 @@ country_migration_target =
 		any_owned_province = { is_core = ISR }
 	}
 	modifier = {
-		factor = 4.0
+		factor = 10.0
 		has_country_flag = new_world_nation
-	}
-	modifier = {
-		factor = 2.0
-		OR = {
-			continent = north_america
-			continent = south_america
-			continent = oceania
-		}
-	}
-	modifier = {
-		factor = 2.0
-		continent = africa
-		OR = {
-			primary_culture = boer
-			accepted_culture = boer
-		}
-	}
-	modifier = {
-		factor = 2.0
-		continent = africa
-		OR = {
-			primary_culture = boer
-			accepted_culture = boer
-		}
-		OR = { 
-			THIS = { culture = boer }
-			THIS = { culture = dutch }
-			THIS = { culture = flemish }
-		}
-	}
-	modifier = {
-		factor = 0.01
-		OR = { 
-			continent = europe
-			continent = asia
-		}
 	}
 	modifier = {
 		factor = 0.9

@@ -635,6 +635,10 @@ ammunition_production = {
 			factor = 2
 			army_professionalism = 1
 		}
+		modifier = {
+			factor = -100
+			not = { civilized = yes }
+		}
 	}
 	effect = {
 		activate_building = ammunition_factory 
@@ -651,6 +655,10 @@ small_arms_production = {
 		modifier = {
 			factor = 2
 			early_railroad = 1
+		}
+		modifier = {
+			factor = -100
+			not = { civilized = yes }
 		}
 	}
 	effect = {
@@ -669,6 +677,10 @@ explosives_production = {
 			factor = 2
 			invention = nitroglycerin
 		}
+		modifier = {
+			factor = -100
+			not = { civilized = yes }
+		}
 	}
 	effect = {
 		activate_building = explosives_factory 
@@ -685,6 +697,10 @@ artillery_production = {
 		modifier = {
 			factor = 2
 			iron_muzzle_loaded_artillery = 1
+		}
+		modifier = {
+			factor = -100
+			not = { civilized = yes }
 		}
 	}
 	effect = {

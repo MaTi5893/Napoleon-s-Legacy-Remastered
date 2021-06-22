@@ -438,23 +438,23 @@ totalitarianism_modifier = {
 
 leadership_principle_modifier = {
 	trigger = {
-		#year = 1837
 		invention = the_leadership_principle
 		government = fascist_dictatorship	
 	}
 	land_attack_modifier = 0.05
+	mobilisation_size = 0.01
 	ruling_party_support = 0.2
 	leadership_modifier = 0.25
 	factory_throughput = 0.1
 	cb_generation_speed_modifier = 0.1
-	RGO_throughput = -0.1
-	army_tech_research_bonus = -0.1
-	navy_tech_research_bonus = -0.1
-	commerce_tech_research_bonus = -0.1
-	culture_tech_research_bonus = -0.1
-	industry_tech_research_bonus = -0.1
+	#RGO_throughput = -0.1
+	#army_tech_research_bonus = -0.1
+	#navy_tech_research_bonus = -0.1
+	#commerce_tech_research_bonus = -0.1
+	#culture_tech_research_bonus = -0.1
+	#industry_tech_research_bonus = -0.1
 	issue_change_speed = -0.25
-	icon = 17 
+	icon = 9
 }	
 
 ultranationalism_modifier = {
@@ -485,10 +485,10 @@ collectivisation_modifier = {
 	factory_throughput = 0.05
 	mine_rgo_eff = 0.05
 	max_tariff = 0.35 #cancels out all malus from nation modifiers
-	tariff_efficiency_modifier = -0.5
+	#tariff_efficiency_modifier = -0.5
 	global_population_growth = -0.001
 	global_assimilation_rate = -0.25
-	farm_rgo_eff = -0.2
+	#farm_rgo_eff = -0.2
 	icon = 17 
 }
 

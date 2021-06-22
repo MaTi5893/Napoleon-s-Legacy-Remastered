@@ -36,7 +36,6 @@ luxury_needs = {
 	coffee = 0.45
 	tobacco = 0.95
 	fuel = 0.1
-	#dye = 0.5
 }
 
 
@@ -94,44 +93,8 @@ country_migration_target =
 		any_owned_province = { is_core = ISR }
 	}
 	modifier = {
-		factor = 4.0
+		factor = 10.0
 		has_country_flag = new_world_nation
-	}
-	modifier = {
-		factor = 2.0
-		OR = {
-			continent = north_america
-			continent = south_america
-			continent = oceania
-		}
-	}
-	modifier = {
-		factor = 2.0
-		continent = africa
-		OR = {
-			primary_culture = boer
-			accepted_culture = boer
-		}
-	}
-	modifier = {
-		factor = 2.0
-		continent = africa
-		OR = {
-			primary_culture = boer
-			accepted_culture = boer
-		}
-		OR = { 
-			THIS = { culture = boer }
-			THIS = { culture = dutch }
-			THIS = { culture = flemish }
-		}
-	}
-	modifier = {
-		factor = -4.0
-		OR = { 
-			continent = europe
-			continent = asia
-		}
 	}
 	modifier = {
 		factor = 0.1
@@ -162,7 +125,7 @@ migration_target =
 	
 #test?	
 	modifier = {
-		factor = 0
+		factor = -1000
 		OR = {
 			has_pop_type = farmers
 			has_pop_type = labourers
@@ -673,13 +636,6 @@ promote_to =
 	{
 		factor = 0.01
 		modifier = {
-			factor = -100 
-			state_scope = {
-				total_pops = 1000000
-				soldiers = 0.04 
-			}
-		}
-		modifier = {
 			factor = -100
 			AND = { 
 				OR = { 
@@ -691,20 +647,7 @@ promote_to =
 				}	
 				state_scope = {
 					total_pops = 2000000
-					soldiers = 0.025 
-				}
-			}
-		}
-		modifier = {
-			factor = -100
-			AND = { 
-				OR = { 
-					culture = yankee
-					culture = dixie
-				}	
-				state_scope = {
-					total_pops = 1000000
-					soldiers = 0.03 
+					soldiers = 0.04
 				}
 			}
 		}
