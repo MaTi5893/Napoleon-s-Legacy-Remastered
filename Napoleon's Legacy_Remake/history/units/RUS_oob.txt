@@ -34,8 +34,8 @@ KRA = {
 	level = 4
 	influence_value = 25
 }
-CPL = {
-	truce_until = 1840.1.1
+PLC = {
+	truce_until = 1846.1.1
 }
 CHI = {
 	value = 75
@@ -515,7 +515,7 @@ army = {
 
 army = {
 	name = "4. Line Corps"
-	location = 957
+	location = 994
 	regiment = {
 		name= "1.2-ya Kavalerijskaya Diviziya"
 		type = hussar
@@ -579,7 +579,7 @@ army = {
 
 army = {
 	name = "5. Line Corps"
-	location = 958
+	location = 1048
 	regiment = {
 		name= "1.4-ya Pekhotnaya Diviziya"
 		type = hussar

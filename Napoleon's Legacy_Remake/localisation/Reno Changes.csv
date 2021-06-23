@@ -30,7 +30,7 @@ unciv_protection_on_desc;China and Japan specific decision that protects you unt
 unciv_protection_off_title;1865 Protection OFF (Unavailable after 1836);;;;;;;;;;;;;;x
 unciv_protection_off_desc;China and Japan specific decision that turns off your protection from acquire land CBs, that you otherwise would have until 1865. USE AT YOUR OWN DISCRETION.;;;;;;;;;;;;;;x
 craftsmen_fix_title;Craftsmen Salvage Decision (10 year cooldown);;;;;;;;;;;;;;x
-craftsmen_fix_desc;This decision is intended to salvage your country after it has been craftsmen hijacked. It will revert all non-core/non-accepted craftsmen on your cores to farmers/labourers so that your core craftsmen will start working. (Think South Germans in Venetia hijacking.) BECAREFUL OF USE.;;;;;;;;;;;;;;x
+craftsmen_fix_desc;This decision is intended to salvage your country after it has been craftsmen hijacked. It will revert all non-core/non-accepted craftsmen on your cores to farmers/labourers so that your core craftsmen will start working. (Think South Germans in Venetia hijacking.) BE CAREFUL OF USE.;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 double_down_in_the_balkans_title;Double Down in the Balkans;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 double_down_in_the_balkans_desc;For too long have the peoples of the Balkans thwarted our efforts of expansion. Let us focus all our attention to the re-education and assimilation of these barbaric peoples.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
