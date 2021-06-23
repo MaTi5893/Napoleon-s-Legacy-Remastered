@@ -902,7 +902,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhastion = 10
+			war_exhaustion = 10
 		}
 	}
 	option = {
@@ -926,7 +926,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhastion = 10
+			war_exhaustion = 10
 		}
 	}
 	option = {
@@ -951,7 +951,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhastion = 10
+			war_exhaustion = 10
 		}
 	}
 	option = {
@@ -976,7 +976,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhastion = 10
+			war_exhaustion = 10
 		}
 	}
 	option = {
@@ -1001,7 +1001,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhastion = 10
+			war_exhaustion = 10
 		}
 	}
 	option = {
@@ -1026,7 +1026,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhastion = 10
+			war_exhaustion = 10
 		}
 	}
 	option = {
@@ -1051,7 +1051,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhastion = 10
+			war_exhaustion = 10
 		}
 	}
 	option = {
@@ -1076,7 +1076,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhastion = 10
+			war_exhaustion = 10
 		}
 	}
 	option = {
@@ -1101,7 +1101,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhastion = 10
+			war_exhaustion = 10
 		}
 	}
 	option = {
@@ -1126,7 +1126,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhastion = 10
+			war_exhaustion = 10
 		}
 	}
 	option = {
@@ -1151,7 +1151,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhastion = 10
+			war_exhaustion = 10
 		}
 	}
 	option = {
@@ -1192,7 +1192,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhastion = 10
+			war_exhaustion = 10
 		}
 	}
 	option = {
@@ -1217,7 +1217,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhastion = 10
+			war_exhaustion = 10
 		}
 	}
 	option = {
@@ -1242,7 +1242,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhastion = 10
+			war_exhaustion = 10
 		}
 	}
 	option = {
@@ -1267,7 +1267,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhastion = 10
+			war_exhaustion = 10
 		}
 	}
 	option = {
@@ -1292,7 +1292,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhastion = 10
+			war_exhaustion = 10
 		}
 	}
 	option = {
