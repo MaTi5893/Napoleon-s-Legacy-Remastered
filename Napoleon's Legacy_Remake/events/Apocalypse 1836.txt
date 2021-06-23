@@ -171,7 +171,7 @@ country_event = {
 					port = yes
 					has_province_modifier = zombie_outbreak
 					continent = europe
-					NOT = { units_in_province = 9 }
+					NOT = { units_in_province = 20 }
 					}
 				}
 		}
@@ -189,7 +189,7 @@ country_event = {
 					continent = europe
 					port = yes
 					has_recent_imigration = 30
-					NOT = { units_in_province = 9 }
+					NOT = { units_in_province = 20 }
 					NOT = { has_province_modifier = zombie_outbreak }
 				}
 			}
@@ -223,7 +223,7 @@ country_event = {
 					port = yes
 					has_province_modifier = zombie_outbreak
 					continent = africa
-					NOT = { units_in_province = 9 }
+					NOT = { units_in_province = 20 }
 					}
 				}	
 		}
@@ -241,7 +241,7 @@ country_event = {
 					continent = africa
 					port = yes
 					has_recent_imigration = 30
-					NOT = { units_in_province = 9 }
+					NOT = { units_in_province = 20 }
 					NOT = { has_province_modifier = zombie_outbreak }
 				}
 			}
@@ -274,7 +274,7 @@ country_event = {
 					is_blockaded = no
 					port = yes
 					has_province_modifier = zombie_outbreak
-					NOT = { units_in_province = 9 }
+					NOT = { units_in_province = 20 }
 					}
 					OR = {
 					continent = north_america
@@ -299,7 +299,7 @@ country_event = {
 					}
 					port = yes
 					has_recent_imigration = 30
-					NOT = { units_in_province = 9 }
+					NOT = { units_in_province = 20 }
 					NOT = { has_province_modifier = zombie_outbreak }
 				}
 			}
@@ -336,7 +336,7 @@ country_event = {
 					continent = asia
 					continent = oceania
 					}
-					NOT = { units_in_province = 9 }
+					NOT = { units_in_province = 20 }
 					}
 				}
 		}
@@ -357,7 +357,7 @@ country_event = {
 					}
 					port = yes
 					has_recent_imigration = 30
-					NOT = { units_in_province = 9 }
+					NOT = { units_in_province = 20 }
 					NOT = { has_province_modifier = zombie_outbreak }
 				}
 			}
@@ -393,7 +393,7 @@ country_event = {
 					OR = {
 					continent = europe
 					}
-					NOT = { units_in_province = 9 }
+					NOT = { units_in_province = 20 }
 					}
 				}
 		}
@@ -414,7 +414,7 @@ country_event = {
 					}
 					port = yes
 					has_recent_imigration = 30
-					NOT = { units_in_province = 9 }
+					NOT = { units_in_province = 20 }
 					NOT = { has_province_modifier = zombie_outbreak }
 				}
 			}
@@ -451,7 +451,7 @@ country_event = {
 					continent = north_america
 					continent = south_america
 					}
-					NOT = { units_in_province = 9 }
+					NOT = { units_in_province = 20 }
 					}
 				}
 		}
@@ -471,7 +471,7 @@ country_event = {
 					}
 					port = yes
 					has_recent_imigration = 30
-					NOT = { units_in_province = 9 }
+					NOT = { units_in_province = 20 }
 					NOT = { has_province_modifier = zombie_outbreak }
 				}
 			}
@@ -581,7 +581,7 @@ country_event = {
 			any_neighbor_province = {
 			limit = {
 				NOT = { has_province_modifier = zombie_outbreak }
-				NOT = { units_in_province = 9 }
+				NOT = { units_in_province = 20 }
 			}
 			any_pop = {
 				consciousness = -3
@@ -604,7 +604,7 @@ country_event = {
 			any_neighbor_province = {
 			limit = {
 				NOT = { has_province_modifier = zombie_outbreak }
-				NOT = { units_in_province = 10 }
+				NOT = { units_in_province = 20 }
 			}
 			any_pop = {
 				consciousness = -3

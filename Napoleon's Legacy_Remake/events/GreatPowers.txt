@@ -1,70 +1,70 @@
 # Great Power Contention
-country_event = {
-	id = 19000
-	title = "EVTNAME19000"
-	desc = "EVTDESC19000"
-	picture = "greatpowers"
-
-	trigger = {
-		any_greater_power = {
-			diplomatic_influence = {
-				who = THIS
-				value = 30
-			}
-		}
-		any_greater_power = {
-			diplomatic_influence = {
-				who = THIS
-				value = 5
-			}
-			NOT = {
-				diplomatic_influence = {
-					who = THIS
-					value = 30
-				}
-			}
-		}
-	}
-
-	mean_time_to_happen = {
-		months = 500
-		modifier = {
-			factor = 0.9
-			prestige = 10
-		}
-		modifier = {
-			factor = 0.9
-			prestige = 15
-		}
-		modifier = {
-			factor = 1.1
-			military_score = 5
-		}
-		modifier = {
-			factor = 1.2
-			military_score = 10
-		}
-	}
-
-	option = {
-		name = "EVTOPTA19000"
-		any_greater_power = {
-			limit = {
-				diplomatic_influence = {
-					who = THIS
-					value = 5
-					}
-				NOT = {
-					diplomatic_influence = {
-					who = THIS
- 					value = 75
- 					}
- 				}
-			}
-			country_event = { id=19005 days=0 }
-		}
-	}
-}
+#country_event = {
+#	id = 19000
+#	title = "EVTNAME19000"
+#	desc = "EVTDESC19000"
+#	picture = "greatpowers"
+#
+#	trigger = {
+#		any_greater_power = {
+#			diplomatic_influence = {
+#				who = THIS
+#				value = 30
+#			}
+#		}
+#		any_greater_power = {
+#			diplomatic_influence = {
+#				who = THIS
+#				value = 5
+#			}
+#			NOT = {
+#				diplomatic_influence = {
+#					who = THIS
+#					value = 30
+#				}
+#			}
+#		}
+#	}
+#
+#	mean_time_to_happen = {
+#		months = 500
+#		modifier = {
+#			factor = 0.9
+#			prestige = 10
+#		}
+#		modifier = {
+#			factor = 0.9
+#			prestige = 15
+#		}
+#		modifier = {
+#			factor = 1.1
+#			military_score = 5
+#		}
+#		modifier = {
+#			factor = 1.2
+#			military_score = 10
+#		}
+#	}
+#
+#	option = {
+#		name = "EVTOPTA19000"
+#		any_greater_power = {
+#			limit = {
+#				diplomatic_influence = {
+#					who = THIS
+#					value = 5
+#					}
+#				NOT = {
+#					diplomatic_influence = {
+#					who = THIS
+#					value = 75
+#					}
+# 				}
+#			}
+#			country_event = { id=19005 days=0 }
+#		}
+#	}
+#}
 
 # Reply to Above
 country_event = {

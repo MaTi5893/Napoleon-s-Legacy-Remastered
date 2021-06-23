@@ -331,7 +331,7 @@ political_decisions = {
 				factor = 1
 			}
 	}
-#	the_union_of_south_africa = {   #sorry bro it's dutch lol 
+#	the_union_of_south_africa = {	#sorry bro it's dutch lol 
 #			potential = {
 #				tag = ENG
 #				NOT = {
@@ -626,8 +626,8 @@ political_decisions = {
 			define_general = {
 				name = "Joao Carlos de Saldanha"
 				#picture = por_gen_saldanha
-				personality = undisciplined
-				background = gifted_administrator
+				personality = defence_3.1
+				background = attack_3.1
 			}
 		}
 		ai_will_do = {
@@ -693,7 +693,7 @@ political_decisions = {
 			set_country_flag = bowring
 			prestige = 10
 			relation = {
-				who = ENG
+				with = ENG
 				value = 100
 			}
 			activate_technology = freedom_of_trade
@@ -704,7 +704,7 @@ political_decisions = {
 			ENG = {
 				create_alliance = SIA
 				relation = {
-					who = SIA
+					with = SIA
 					value = 100
 				}
 				diplomatic_influence = {
@@ -753,7 +753,7 @@ political_decisions = {
 				}
 			}
 			relation = {
-				who = TUR
+				with = TUR
 				value = -150
 			}
 			TUR_923 = {
@@ -795,11 +795,11 @@ political_decisions = {
 				duration = 14600
 			}
 			relation = {
-				who = FRA
+				with = FRA
 				value = 50
 			}
 			relation = {
-				who = ENG
+				with = ENG
 				value = 50
 			}
 			any_pop = {
@@ -866,11 +866,11 @@ political_decisions = {
 				background = attack_3.1
 			}
 			relation = {
-				who = RUS
+				with = RUS
 				value = -50
 			}
 			relation = {
-				who = AUS
+				with = AUS
 				value = -100
 			}
 			scaled_militancy = {
@@ -973,8 +973,8 @@ political_decisions = {
 			prestige = 25
 			define_general = { 
 				name = "Samuel Baker"
-				personality = "earnest"
-				background = "colonial_b"
+				personality = defence_3.1
+				background = attack_3.1
 			}
 			1846 = { 
 				secede_province = EGY
@@ -1326,6 +1326,27 @@ political_decisions = {
 			nationalvalue = nv_liberty
 			government = hms_government
 			political_reform = wealth_voting
+			WAL_665 = {
+				add_core = ROM
+			}
+			MOL_673 = {
+				add_core = ROM
+			}
+			AUS_654 = {
+				add_core = ROM
+			}
+			AUS_657 = {
+				add_core = ROM
+			}
+			TUR_674 = {
+				add_core = ROM
+			}
+			AUS_647 = {
+				add_core = ROM
+			}
+			RUS_676 = {
+				add_core = ROM
+			}
 			ROM = {
 				all_core = { 
 					remove_core = WAL
@@ -1334,21 +1355,18 @@ political_decisions = {
 			}
 			RUS = {
 				any_owned = {
-					limit = { is_core = ROM }
 					remove_core = WAL
 					remove_core = MOL 
 				}
 			}
 			TUR = {
 				any_owned = {
-					limit = { is_core = ROM }
 					remove_core = WAL
 					remove_core = MOL 
 				}
 			}
 			AUS = {
 				any_owned = {
-					limit = { is_core = ROM }
 					remove_core = WAL
 					remove_core = MOL 
 				}
@@ -1405,66 +1423,66 @@ political_decisions = {
 			define_general = {
 				name = "Robert E. Lee"
 				picture = csa_gen_lee
-				personality = audacious
-				background = war_college
+				personality = defence_3.1
+				background = attack_3.1
 			}
 			define_general = {
 				name = "Thomas Jackson"
 				picture = csa_gen_jackson
-				personality = audacious
-				background = eccentric_genius
+				personality = defence_3.1
+				background = attack_3.1
 			}
 			define_general = {
 				name = "P.G.T. Beauregard"
 				picture = csa_gen_beauregard
-				personality = reserved
-				background = engineer
+				personality = defence_3.1
+				background = attack_3.1
 			}
 			define_general = {
 				name = "Joseph E. Johnston"
 				picture = csa_gen_johnstonjoseph
-				personality = balanced_p
-				background = engineer
+				personality = defence_3.1
+				background = attack_3.1
 			}
 			define_general = {
 				name = "Braxton Bragg"
 				picture = csa_gen_bragg
-				personality = glory_hound
-				background = armchair_general
+				personality = defence_3.1
+				background = attack_3.1
 			}
 			define_general = {
 				name = "Earl van Dorn"
 				picture = csa_gen_vandorn
-				personality = soft
-				background = womanizer
+				personality = defence_3.1
+				background = attack_3.1
 			}
 			define_general = {
 				name = "E. Kirby Smith"
 				picture = csa_gen_smith
-				personality = resourceful
-				background = gifted_administrator
+				personality = defence_3.1
+				background = attack_3.1
 			}
 			define_general = {
 				name = "James Longstreet"
 				picture = csa_gen_longstreet
-				personality = disciplined
-				background = school_of_firepower
+				personality = defence_3.1
+				background = attack_3.1
 			}
 			define_general = {
 				name = "J.E.B. Stuart"
 				picture = csa_gen_stuart
-				personality = impulsive
-				background = expert_raider
+				personality = defence_3.1
+				background = attack_3.1
 			}
 			define_general = {
 				name = "Nathan Bedford Forrest"
-				personality = defiant
-				background = expert_raider
+				personality = defence_3.1
+				background = attack_3.1
 			}
 			define_admiral = {
 				name = "Raphael Semmes"
-				personality = heroic
-				background = expert_raider
+				personality = defence_3.1
+				background = attack_3.1
 			}
 		}
 		ai_will_do = {
@@ -1491,8 +1509,8 @@ political_decisions = {
 #			define_general = {
 #				name = "Alexander Baryatinsky"
 #				#picture = rus_gen_baryatinsky
-#				personality = openminded
-#				background = colonial_b
+#				personality = defence_3.1
+#				background = attack_3.1
 #			}
 #			CIR = {
 #				all_core = { add_core = RUS }
@@ -1715,7 +1733,7 @@ political_decisions = {
 			year = 1839
 			war = no
 			NOT = {
-				truce_with = ENG
+				has_truce = ENG
 			} 
 			OR = { 
 				1493 = { 
@@ -1733,7 +1751,7 @@ political_decisions = {
 			treasury = 5000
 			prestige = 25
 			relation = { 
-				who = ENG
+				with = ENG
 				value = -200
 			}
 			ENG = {
@@ -1890,7 +1908,31 @@ political_decisions = {
 				limit = { is_accepted_culture = no }
 				consciousness = 5
 			}
-			CHI = {
+			FJN = {
+				all_core = { add_core = TPG }
+			}
+			GNG = {
+				all_core = { add_core = TPG }
+			}
+			GXI = {
+				all_core = { add_core = TPG }
+			}
+			HNN = {
+				all_core = { add_core = TPG }
+			}
+			HUI = {
+				all_core = { add_core = TPG }
+			}
+			SXI = {
+				all_core = { add_core = TPG }
+			}
+			SZC = {
+				all_core = { add_core = TPG }
+			}
+			XBI = {
+				all_core = { add_core = TPG }
+			}
+			YNN = {
 				all_core = { add_core = TPG }
 			}
 		}
@@ -1990,6 +2032,7 @@ political_decisions = {
 		}
 		effect = {
 			change_tag = UPB
+			set_country_flag = new_world_nation
 			capital = 2447
 			any_owned = {
 				limit = {
@@ -2010,6 +2053,7 @@ political_decisions = {
 			#}
 			prestige = 50
 			add_accepted_culture = brazilian
+			add_accepted_culture = afro_brazilian
 			any_pop = {
 				limit = { is_primary_culture = yes }
 				ideology = {
@@ -2214,12 +2258,12 @@ political_decisions = {
 			tag = SWE
 			NOT = { has_country_flag = finland_abandoned }
 			NOT = { has_country_flag = stormaktstiden }
-			#exists = NOR
-			#NOR = { 
-			#	all_core = {
-			#		NOT = { owned_by = SWE }
-			#	}
-			#}		
+			exists = NOR
+			NOR = { 
+				all_core = {
+					NOT = { owned_by = SWE }
+				}
+			}		
 		}
 
 		allow = {

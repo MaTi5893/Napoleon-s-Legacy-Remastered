@@ -317,7 +317,6 @@ country_event = {
 		any_owned = {
 			limit = {
 				OR = {
-					region = NET_381
 					region = NET_385
 					region = NET_375
 					region = NET_379
@@ -406,6 +405,7 @@ country_event = {
 		BEL_394 = { remove_core = NET }
 		BEL_387 = { remove_core = NET }
 		BEL_390 = { remove_core = NET }
+		BEL_395 = { remove_core = NET }
 		release_vassal = LUX
 		any_country = {
 			limit = {

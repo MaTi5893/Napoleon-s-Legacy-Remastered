@@ -241,7 +241,7 @@ political_decisions = {
 					continent = europe
 					NOT = { life_rating = 36 }
 				}
-				life_rating = 5
+				life_rating = 2
 			}
 		}
 		ai_will_do = {

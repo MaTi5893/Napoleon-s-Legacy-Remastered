@@ -39,7 +39,7 @@ political_decisions = {
 				remove_core = AUS
 				add_core = KUK
 			}
-			#AUS_771 = { remove_core = HUN }
+			AUS_771 = { remove_core = HUN }
 			BOH = {
 				all_core = { add_core = AUS }
 			}

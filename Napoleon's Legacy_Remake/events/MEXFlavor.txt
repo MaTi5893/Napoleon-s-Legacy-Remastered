@@ -264,18 +264,18 @@ country_event = {
 				end_war = THIS
 			}
 		}
-#		all_core = {
-#			limit = {
-#				OR = {
-#					region = TEX_132
-#					region = MEX_103
-#					region = MEX_94
-#					region = MEX_85
-#					region = MEX_100
-#				}
-#			}
-#			remove_core = MEX
-#		}
+		all_core = {
+			limit = {
+				OR = {
+					region = TEX_132
+					region = MEX_103
+					region = MEX_94
+					region = MEX_85
+					region = MEX_100
+				}
+			}
+			remove_core = MEX
+		}
 		any_owned = {
 			limit = {
 				OR = {
