@@ -1093,6 +1093,10 @@ craftsmen_fix_cooldown = {
 	icon = 12
 }
 
+bureaucrats_fix_cooldown = {
+	icon = 12
+}
+
 migration_factor_reduced = {
     icon = 14
 	immigrant_push = -100
