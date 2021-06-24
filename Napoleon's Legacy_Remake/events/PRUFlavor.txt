@@ -555,12 +555,12 @@ country_event = {
 	id = 181501
 
 	title = "The Danzig Coup"
-	desc = "EVTDESC181500"
+	desc = "EVTDESC181501"
 	picture = "Mozart"
 	is_triggered_only = yes
 	
 	option = {
-		name = "Demand Danzig" 
+		name = "Demand that Danzig be freed" 
 		casus_belli = {
 			target = PRU
 			type = liberate_country
@@ -571,7 +571,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "Let them go"
+		name = "Let it go"
 		prestige = -5
 	}
 }

@@ -34,7 +34,7 @@ political_decisions = {
 	
 	recover_the_empire = {
 		potential = {
-			tag = MUH
+			tag = MUG
 			NOT = { has_country_flag = recovered_the_empire }
 		}
 		allow = {

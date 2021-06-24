@@ -6,7 +6,7 @@ country_event = {
 	
 	
 	trigger = {
-		badboy = 1
+		badboy = 1 #this actually means 25 infamy btw (infamy limit)
 		NOT = { has_country_modifier = badboymod }
 	}
 	
