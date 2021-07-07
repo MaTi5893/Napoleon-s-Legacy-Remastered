@@ -31,13 +31,12 @@ army = {
 }
 
 army = {
-	name = "Esercito di Romagna"
-	location = 741
+	name = "Esercito di Umbria"
 	
 	regiment = {
 		name= "3. Zuavi Pontifici - Sancti Pauli"
 		type = infantry
-		home = 741
+		home = 751
 	}
 }
 

@@ -20,6 +20,7 @@ country_event = {
 			tag = USA
 			tag = NET
 			tag = SWE
+			tag = DEN
 			tag = SCA
 			tag = SAR
 			tag = SIC

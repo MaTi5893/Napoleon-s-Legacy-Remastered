@@ -142,7 +142,7 @@ leader = {
 
 army = {
 	name = "US Dragoons"
-	location = 199
+	location = 234
 	regiment = {
 		name= "1st Cavalry Regiment"
 		type = dragoon
@@ -165,7 +165,7 @@ army = {
 
 army = {
 	name = "Army of the South"
-	location = 200
+	location = 215
 	regiment = {
 		name= "1st Regiment of Infantry"
 		type = infantry
@@ -223,7 +223,7 @@ army = {
 
 army = {
 	name = "Army of Observation"
-	location = 144
+	location = 216
 	regiment = {
 		name= "7th Regiment of Infantry"
 		type = infantry
