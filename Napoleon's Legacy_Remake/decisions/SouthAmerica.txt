@@ -93,7 +93,9 @@ political_decisions = {
 	rename_uruguay = {
 		picture = banda_oriental
 		potential = {
-			tag = BRZ
+			OR = { tag = BRZ
+			       tag = UPB 
+			}
 			owns = 2344
 			owns = 2345
 			owns = 2346
@@ -127,6 +129,7 @@ political_decisions = {
 				tag = URU
 				tag = ARG
 				tag = PRG
+				tag = LPT
 			}
 			has_global_flag = brazil_has_renamed_cisplatina
 			owns = 2344
@@ -148,6 +151,7 @@ political_decisions = {
 			}
 			prestige = 5
 			BRZ = { prestige = -10 }
+			UPB = { prestige = -10 }
 			clr_global_flag = brazil_has_renamed_cisplatina
 		}
 	}
@@ -155,7 +159,8 @@ political_decisions = {
 #Argentina
 	law_1420_of_general_common_education = {
 		potential = {
-			tag = ARG
+			OR = { tag = ARG
+			       tag = LPL }
 			NOT = {
 				has_country_flag = 1420_passed
 			}
@@ -173,7 +178,8 @@ political_decisions = {
 
 	banda_oriental = {
 		potential = {
-			tag = ARG
+			OR = { tag = ARG
+			       tag = LPL }
 			NOT = {
 				has_country_flag = banda_oriental_is_ours
 			}
@@ -211,7 +217,8 @@ political_decisions = {
 
 	our_brothers_the_gauchos = {
 		potential = {
-			tag = ARG
+			OR = { tag = ARG
+			tag = LPL }
 			NOT = { has_country_flag = rio_grande_del_sur_is_ours }
 			has_country_flag = banda_oriental_is_ours
 		}
@@ -270,7 +277,8 @@ political_decisions = {
 	
 	found_the_school_of_military_aviation = { #original VIP event idea by General Perón, scripted by Scythe
 		potential = {
-			tag = ARG
+			OR = { tag = ARG
+			       tag = LPL }
 			owns = 2379 #Cordoba de Argentina
 			NOT = { has_country_flag = foundation_of_the_school_of_military_aviation }
 		}
