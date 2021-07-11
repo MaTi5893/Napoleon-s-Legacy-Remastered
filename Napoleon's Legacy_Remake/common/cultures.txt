@@ -1030,18 +1030,6 @@ iranian_turanian = {
 		radicalism = 10
 
 	}
-	baluchi = {
-		color = {132 70 171}
-		first_names = {
-			Abdullah Ahmad Azam Khudadad
-			Mehrab Mohammad Muhabbat 
-			Nasir Nawaz
-			Samandar Sherdil
-		}
-		last_names = {
-			Khan
-		}
-	}
 	hazara = {
 		color = {172 120 211}
 		first_names = {
@@ -1313,6 +1301,18 @@ south_asian = {
                
 		}
 	}
+	baluchi = {
+		color = {132 70 171}
+		first_names = {
+			Abdullah Ahmad Azam Khudadad
+			Mehrab Mohammad Muhabbat 
+			Nasir Nawaz
+			Samandar Sherdil
+		}
+		last_names = {
+			Khan
+		}
+	}	
 	union = HND
 }
 
