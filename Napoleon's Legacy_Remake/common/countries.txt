@@ -36,6 +36,7 @@ DLM 		= "countries/Dalmatia.txt"
 BRA 		= "countries/Berg.txt"
 WUL 		= "countries/Wulzburg.txt"
 LPL 		= "countries/La Plata.txt"
+CEL		= "countries/Celtic Union.txt"
 # Scandinavia
 DEN		= "countries/Denmark.txt"
 FIN		= "countries/Finland.txt"

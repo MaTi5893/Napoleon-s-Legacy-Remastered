@@ -129,7 +129,7 @@ political_decisions = {
 				tag = URU
 				tag = ARG
 				tag = PRG
-				tag = LPT
+				tag = LPL
 			}
 			has_global_flag = brazil_has_renamed_cisplatina
 			owns = 2344

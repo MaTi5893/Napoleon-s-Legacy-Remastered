@@ -782,11 +782,15 @@ unite_moldavia_wallachia = {
 			factor = 1
 		}
 	}
+		
+
+
 		unite_la_plata = {
-        picture = unite_la_plata
-        potential = {
-            primary_culture = platinean
-            NOT = { exists = LPL }
+       	picture = unite_la_plata
+        
+	potential = {
+        		primary_culture = platinean
+            		NOT = { exists = LPL }
         }
 
         allow = {
@@ -794,7 +798,8 @@ unite_moldavia_wallachia = {
             is_mobilised = no
             prestige = 50
             nationalism_n_imperialism = 1
-        PRG = {
+        
+	PRG = {
                 OR = {
                     exists = no
                     is_mobilised = no
@@ -850,72 +855,20 @@ unite_moldavia_wallachia = {
         effect = {
             prestige = 30
             badboy = 10
-            random_country = {
-                limit = {
-                    exists = yes
-                        tag = ARG    
-                    }
-                    all_core = { add_core = LPL }
-            }
+            ARG = { all_core = { add_core = LPL } } 
             PRG = { all_core = { add_core = LPL } }
             URU = { all_core = { add_core = LPL } }
             BOL = { all_core = { add_core = LPL } }
             change_tag = LPL
-            random_country = {
-                limit = {
-                    tag = ARG
-                    exists = yes
-                    ai = yes
-                }
-                THIS = { inherit = ARG }
-            }
-            random_country = {
-                limit = {
-                    tag = ARG
-                    exists = yes
-                    ai = no
-                }
-                country_event = 11101
-            }
-			random_country = {
-                limit = {
-                    tag = PRG
-                    exists = yes
-                    ai = yes
-                }
-                THIS = { inherit = PRG }
-            }
-            random_country = {
-                limit = {
-                    tag = PRG
-                    exists = yes
-                    ai = no
-                }
-                country_event = 11101
-            }
-            random_country = {
-                limit = {
-                    tag = URU
-                    exists = yes
-                    ai = yes
-                }
-                THIS = { inherit = URU }
-            }
-            random_country = {
-                limit = {
-                    tag = URU
-                    exists = yes
-                    ai = no
-                }
-                country_event = 11101
-            }
-            916 = { remove_core = LPL }
-            2305 = { remove_core = LPL }
-            2309 = { remove_core = LPL }
-            2420 = { remove_core = LPL }
+            THIS = { inherit = ARG }
+            THIS = { inherit = PRG }
+            THIS = { inherit = URU }          
+            #916 = { remove_core = LPL }  #I don't get why these remove_cores exist
+           #2305 = { remove_core = LPL }  #so I removed them 
+           #2309 = { remove_core = LPL }
+           #2420 = { remove_core = LPL }
         }
 
         ai_will_do = { factor = 1 }
-    }
-}
-}
+   			 }
+		}	

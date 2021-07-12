@@ -10,6 +10,8 @@ political_decisions = {
 		}
 		effect = {
 			capital = 300
+			primary_culture = british
+			add_accepted_culture = anglo_canadian
 			GBR = {
 				all_core = {
 					add_core = THIS
