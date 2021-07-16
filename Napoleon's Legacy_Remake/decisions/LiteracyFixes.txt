@@ -6,7 +6,7 @@
 #	picture = "Administration"
 #	
 #	
-#	trigger = {
+#	potential = {
 #		year = 1836
 #		tag = AUS
 #	} 
@@ -17,7 +17,7 @@
 #		days = 1
 #	}
 #	
-#	option = {
+#	effect = {
 #		name = "EVTOPTA123412346"
 #		any_pop = {
 #			limit = {
@@ -29,26 +29,18 @@
 #}
 
 #Starting 1836 Literacy Fix for Hungarian POPs in Hungary
-country_event = {
-	id = 123412347
-	title = "EVTNAME123412347"
-	desc = "EVTDESC123412347"
-	picture = "Administration"
+political_decisions = { 
 	
+	hungarian_lit_fix = { 
 	
-	trigger = {
-		year = 1836
-		tag = AUS
+	potential = {
+		always = no 
 	} 
 
-	fire_only_once = yes
 	
-	mean_time_to_happen = {
-		days = 1
-	}
 	
-	option = {
-		name = "EVTOPTA123412347"
+	effect = {
+		name = "big big chungus big chungus"
 		641 = {
 			state_scope = { 
 				any_pop = {
@@ -73,26 +65,15 @@ country_event = {
 }
 
 #Starting 1836 Literacy Fix for Minority POPs in Mainland France
-country_event = {
-	id = 123412348
-	title = "EVTNAME123412348"
-	desc = "EVTDESC123412348"
-	picture = "Administration"
-	
-	
-	trigger = {
-		year = 1836
-		tag = FRA
-	} 
 
-	fire_only_once = yes
+	french_lit_fix = { 	
 	
-	mean_time_to_happen = {
-		days = 1
-	}
+	potential = {
+		always = no
+	} 
 	
-	option = {
-		name = "EVTOPTA123412348"
+	effect = {
+		name = "big big chungus big chungus big chungus"
 		any_pop = {
 			limit = {
 				OR = {	
@@ -101,10 +82,10 @@ country_event = {
 					has_pop_culture = basque
 					has_pop_culture = catalan
 					has_pop_culture = north_italian
+					}
 				}
-			}
 			literacy = 0.30 #30 percent increase
+			}
 		}
 	}
 }
-

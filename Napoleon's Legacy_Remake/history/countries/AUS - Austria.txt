@@ -75,6 +75,10 @@ nonstate_consciousness = 2
 
 schools = army_tech_school
 
+1835.1.1 = {
+    decision = hungarian_lit_fix
+}
+
 oob = "AUS_oob.txt"
 1861.1.1 = {
 	oob = "/1861/AUS_oob.txt"

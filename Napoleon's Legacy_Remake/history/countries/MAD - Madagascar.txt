@@ -1,5 +1,4 @@
 capital = 2115
-primary_culture = malagasy
 culture = african_minor
 religion = catholic
 government = absolute_monarchy

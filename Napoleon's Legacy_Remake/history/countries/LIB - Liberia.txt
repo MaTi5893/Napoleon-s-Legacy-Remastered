@@ -1,6 +1,6 @@
 capital = 1887
 primary_culture = afro_american
-culture = kru
+culture = african_minor
 religion = protestant
 government = democracy
 plurality = 0.0
