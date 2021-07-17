@@ -86,14 +86,6 @@ political_decisions = {
 					add_core = GCF
 				}
 			}
-			PRU = {
-				all_core = {
-					limit = {
-						owned_by = PRU
-					}
-					remove_core = GCF
-				}
-			}
 			all_core = {
 				add_core = GCF
 				remove_core = THIS
@@ -105,6 +97,14 @@ political_decisions = {
 					in_sphere = THIS
 				}
 				annex_to = GCF
+			}
+			PRU = {
+				all_core = {
+					limit = {
+						owned_by = PRU
+					}
+					remove_core = GCF
+				}
 			}
 			add_accepted_culture = south_german
 		}
