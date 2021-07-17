@@ -41,7 +41,7 @@ NORMAL_WAR_ADD_SPHERE_NAME;$ORDER$War of $SECOND$ Submission;$ORDER$guerre de so
 AGRESSION_WAR_ADD_SPHERE_NAME;$ORDER$War of $SECOND$ Subjugation;$ORDER$guerre de subjugation $SECOND$;$ORDER$Krieg zur $SECOND$en Unterjochung;;$ORDER$Guerra de subyugación $SECOND$;;;;;;;;;x;
 NORMAL_CIVIL_WAR_NAME;$ORDER$$FIRST$ Civil War;$ORDER$guerre civile $FIRST$;$ORDER$$FIRST$er Bürgerkrieg;;$ORDER$Guerra Civil $FIRST$;;;;;;;;;x;
 AGRESSION_CIVIL_WAR_NAME;$ORDER$$FIRST$ Civil War;$ORDER$guerre civile $FIRST$;$ORDER$$FIRST$er Bürgerkrieg;;$ORDER$Guerra Civil $FIRST$;;;;;;;;;x;
-NORMAL_WAR_CONQUEST_NAME;$ORDER$Conquest of $SECOND$ War;$ORDER$$FIRST$ conquête de la $SECOND_COUNTRY$ guerre;$ORDER$Eroberung von $SECOND$em Land;;$ORDER$Guerra de Conquista $SECOND$;;;;;;;;;x;
+NORMAL_WAR_CONQUEST_NAME;$ORDER$Conquest of $SECOND_COUNTRY$;$ORDER$$FIRST$ conquête de la $SECOND_COUNTRY$ guerre;$ORDER$Eroberung von $SECOND$em Land;;$ORDER$Guerra de Conquista $SECOND$;;;;;;;;;x;
 AGRESSION_WAR_CONQUEST_NAME;$ORDER$War of $FIRST$ Aggression against $SECOND_COUNTRY$;$ORDER$guerre d'aggression $FIRST$ sur $SECOND_COUNTRY$;$ORDER$$FIRST$er Aggressionskrieg gegen $SECOND$e Gebiete;;$ORDER$Guerra de Agresión $FIRST$ contra $SECOND_COUNTRY$;;;;;;;;;x;
 ADJ_FORT_EXTRA_ATTR;And §R+$VAL$%§W from hostile adjacent forts.;Et §R+$VAL$%§W des forts adjacents ennemis.;Und §R+$VAL$%§W von feindlichen Forts in der Nähe.;;Y §R+$VAL$%§W de fuertes hostiles adyacentes.;;;;;;;;;x;
 IS_NOT_ACCEPTED_CULTURE_POP;does not belong to an accepted culture.\n;n'appartient pas à une culture acceptée.\n;gehört nicht zu einer akzeptierten Kultur.\n;;no pertenece a una cultura aceptada.\n;;;;;;;;;x;

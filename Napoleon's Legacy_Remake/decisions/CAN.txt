@@ -50,6 +50,7 @@ political_decisions = {
 	join_confederation = {
 		picture = treaty_signing
 		potential = {
+			NOT = { tag = ENG } 
 			OR = {
 				tag = NEW
 				tag = QUE
@@ -60,7 +61,6 @@ political_decisions = {
 				AND = {
 					primary_culture = british
 					accepted_culture = anglo_canadian
-					NOT = { tag = ENG }
 				}
 			}
 			CAN = {

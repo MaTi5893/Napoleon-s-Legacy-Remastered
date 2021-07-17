@@ -52,12 +52,14 @@ political_decisions = {
 			tag = ENG
 			is_our_vassal = ICF
 			ICF = { exists = yes }
+			NOT = { has_country_flag = nativesannex }
 		}
 		allow = {
 			invention = national_fraternity
 		}
 		effect = {
 			inherit = ICF
+			set_country_flag = nativesannex
 		}
 	}
 	
