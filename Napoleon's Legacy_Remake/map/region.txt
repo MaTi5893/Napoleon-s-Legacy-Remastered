@@ -1055,9 +1055,9 @@ AUS_641 = { 641 645 646 648 649 650 } #Central Hungary
 
 #AUS_613 = { 616 618 617 } #Karnten-Steiermark
 
-#AUS_612 = { 612 613 614 615 } #Tirol
+AUS_612 = { 612 613 614 615 } #Tirol
 
-AUS_619 = { 619 620 621 622 624 612 613 614 615 616 618 617 } #Osterreich
+AUS_619 = { 619 620 621 622 624 616 618 617 } #Osterreich 
 
 AUS_734 = { 734 735 } #South Tirol
 

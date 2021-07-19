@@ -33,7 +33,7 @@ political_decisions = {
 			}
 			1222 = { add_core = THIS }
 			RUS_1196 = {
-				all_core = {
+				any_owned = {
 					add_core = THIS
 				}
 			}

@@ -193,6 +193,7 @@ establish_protectorate_BC_casus_belli;Establish Protectorate;Établir un protecto
 establish_protectorate_BC_casus_belli_short;Annex $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;;;;;;;;;;
 establish_protectorate_BC_casus_belli_desc;Annex an §Yuncivilized country§W by forcing them to become a protectorate of ours.;Annexez un §Ypays non civilisé§W en l'obligeant à devenir l'un de nos protectorats.;Annektieren Sie ein §Yunzivilisiertes Land§W, indem Sie es zwingen, eines Ihrer Protektorate zu werden.;;;;;;;;;;;
 establish_protectorate_BC_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;Annexez $RECIPIENT$ en établissant un protectorat.;Annektieren Sie $RECIPIENT$ durch die Gründung eines Protektorats.;;;;;;;;;;;
+demand_reperations_desc;Demand that a §Ycountry§W pay us §Ywar reparations§W;;;;;;;;;;;;;
 status_quo;Status Quo;;;;;;;;;;;;;
 status_quo_short;Status Quo;Statu quo;Status Quo;;;;;;;;;;;
 status_quo_desc;Attempt to intervene in a war, neglecting any side to fulfill their §Ywargoals§W;Tenter de participer à une guerre en négligeant les différents camps pour atteindre les §Yobjectifs de guerre§W;Versuchen Sie, in einen Krieg zu intervenieren und beiden Seiten die Erreichung ihrer §YKriegsziele§W zu verwehren.;;;;;;;;;;;
