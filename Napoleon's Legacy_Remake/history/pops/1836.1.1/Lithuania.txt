@@ -205,7 +205,7 @@
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 1034
+        size = 3476
     }
 
     farmers = {
@@ -266,36 +266,6 @@
         culture = ashkenazi
         religion = jewish
         size = 6627
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 57
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 24
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 69
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 66
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 2250
     }
 
     soldiers = {
@@ -787,7 +757,7 @@
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 399
+        size = 2998
     }
 
     farmers = {
@@ -811,67 +781,13 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 70
+        size = 473
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
         size = 5076
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 54
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 24
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 75
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 26
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 2402
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 8
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 84
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 5
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 324
     }
 }
 #Palanga (84000/21000 POPS)

@@ -549,7 +549,7 @@
     soldiers = {
         culture = byelorussian
         religion = orthodox
-        size = 1034
+        size = 3893
     }
 
     farmers = {
@@ -634,30 +634,6 @@
         culture = ashkenazi
         religion = jewish
         size = 5757
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 27
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 72
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 66
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 2694
     }
 
     soldiers = {
@@ -2669,7 +2645,7 @@
     soldiers = {
         culture = byelorussian
         religion = orthodox
-        size = 1034
+        size = 6019
     }
 
     farmers = {
@@ -2760,30 +2736,6 @@
         culture = ashkenazi
         religion = jewish
         size = 6204
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 47
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 189
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 66
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 4685
     }
 
     soldiers = {

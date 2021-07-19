@@ -43,6 +43,7 @@ country_event = {
 			tag = GCO
 			tag = MEX
 			tag = SIA
+			tag = PLC
 			has_leader = "John Cena"
 		}
 	}
@@ -835,4 +836,30 @@ country_event = {
 		name = "He will be a great asset to our forces"		
 	}
 }
+#PLC chungus
+country_event = {
+	id = 600025
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	tag = PLC
+	NOT = {has_leader = "Big Chungus"}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New Chungus Arrives"
+	desc = "A really big Chungus. You're playing the Polish Lithuanian Commonwealth, you'll need him."
+	immediate = {
+		define_general = {
+			name = "Big Chungus"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_4.3
+			#+3 attack, +3 defence
+			background = attack_4.3
+		}
+	}
+	option = {
+		name = "big big chungus big chungus big chungus"		
+	}
 }

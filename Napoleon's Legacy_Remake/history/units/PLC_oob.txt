@@ -2,55 +2,92 @@ leader = {
 	name = "Girard Lipinski"
 	type = land
 	date = 1836.1.1
-	personality = tactful
-	background = elderly
+	personality = defence_1.1
+	background = attack_1.1
 }
 
 leader = {
 	name = "Piotr Askenazy"
 	type = land
 	date = 1836.1.1
-	personality = shrinking_violet
-	background = sycophant
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = { 
+	name = "Maly Czungus"
+	type = land
+	date = 1836.1.1
+	personality = defence_1.1
+	background = attack_1.1
 }
 
 army = {
 	name = "First Army of Poland"
-	location = 703
+	location = 706
 	regiment = {
 		name= "1.1st Division"
 		type = infantry
-		home = 703
+		home = 706
 	}
 
 	regiment = {
 		name= "2.1st Division"
 		type = infantry
-		home = 703
+		home = 700
 	}
 
 	regiment = {
 		name= "3.1st Division"
 		type = infantry
-		home = 703
+		home = 711
 	}
 	
 	regiment = {
 		name= "4.1st Division"
 		type = artillery
-		home = 703
+		home = 712
 	}
 	
 	regiment = {
 		name= "5.1st Division"
 		type = hussar
-		home = 703
+		home = 699
+	}
+	regiment = {
+		name = "6.1st Division"
+		type = infantry
+		home = 717
+	}
+	
+	regiment = { 
+		name = "7.1st Division"
+		type = artillery
+		home = 706
+	}
+	
+	regiment = { 
+		name = "8.1st Division"
+		type = artillery
+		home = 706
+	}
+	
+	regiment = { 
+		name = "9.1st Division"
+		type = artillery
+		home = 706
+	}
+	
+	regiment = { 
+		name = "10.1st Division"
+		type = artillery
+		home = 706
 	}
 }
 
 army = {
 	name = "Second Army of Poland"
-	location = 690
+	location = 958
 	regiment = {
 		name= "1.1st Division"
 		type = infantry
@@ -60,25 +97,55 @@ army = {
 	regiment = {
 		name= "2.1st Division"
 		type = infantry
-		home = 690
+		home = 699
 	}
 
 	regiment = {
 		name= "3.1st Division"
 		type = infantry
-		home = 690
+		home = 700
 	}
 	
 	regiment = {
 		name= "4.1st Division"
 		type = artillery
-		home = 690
+		home = 699
 	}
 	
 	regiment = {
 		name= "5.1st Division"
 		type = hussar
-		home = 690
+		home = 701
+	}
+	
+	regiment = {
+		name = "6.1st Division"
+		type = infantry
+		home = 717
+	}
+	
+	regiment = { 
+		name = "7.1st Division"
+		type = artillery
+		home = 706
+	}
+	
+	regiment = { 
+		name = "8.1st Division"
+		type = artillery
+		home = 703
+	}
+	
+	regiment = { 
+		name = "9.1st Division"
+		type = artillery
+		home = 703
+	}
+	
+	regiment = { 
+		name = "10.1st Division"
+		type = artillery
+		home = 703
 	}
 }
 
@@ -88,31 +155,61 @@ army = {
 	regiment = {
 		name= "1.1st Division"
 		type = infantry
-		home = 365
+		home = 716
 	}
 
 	regiment = {
 		name= "2.1st Division"
 		type = infantry
-		home = 365
+		home = 699
 	}
 
 	regiment = {
 		name= "3.1st Division"
 		type = infantry
-		home = 365
+		home = 699
 	}
 	
 	regiment = {
 		name= "4.1st Division"
 		type = artillery
-		home = 365
+		home = 957
 	}
 	
 	regiment = {
 		name= "5.1st Division"
 		type = hussar
-		home = 365
+		home = 699
+	}
+	
+	regiment = {
+		name = "6.1st Division"
+		type = infantry
+		home = 715
+	}
+	
+	regiment = { 
+		name = "7.1st Division"
+		type = artillery
+		home = 716
+	}
+	
+	regiment = { 
+		name = "8.1st Division"
+		type = artillery
+		home = 713
+	}
+	
+	regiment = { 
+		name = "9.1st Division"
+		type = artillery
+		home = 703
+	}
+	
+	regiment = { 
+		name = "10.1st Division"
+		type = artillery
+		home = 715
 	}
 }
 
@@ -128,24 +225,118 @@ army = {
 	regiment = {
 		name= "2.1st Division"
 		type = infantry
-		home = 718
+		home = 694
 	}
 
 	regiment = {
 		name= "3.1st Division"
 		type = infantry
-		home = 718
+		home = 694
 	}
 	
 	regiment = {
 		name= "4.1st Division"
 		type = artillery
-		home = 718
+		home = 711
 	}
 	
 	regiment = {
 		name= "5.1st Division"
 		type = hussar
-		home = 718
+		home = 711
+	}
+	
+	regiment = {
+		name = "6.1st Division"
+		type = infantry
+		home = 710
+	}
+	
+	regiment = { 
+		name = "7.1st Division"
+		type = artillery
+		home = 703
+	}
+	
+	regiment = { 
+		name = "8.1st Division"
+		type = artillery
+		home = 710
+	}
+	
+	regiment = { 
+		name = "9.1st Division"
+		type = artillery
+		home = 710
+	}
+	
+	regiment = { 
+		name = "10.1st Division"
+		type = artillery
+		home = 708
+	}
+}
+
+army = {
+	name = "Fifth Army of Poland"
+	location = 957
+	regiment = {
+		name= "1.1st Division"
+		type = infantry
+		home = 708
+	}
+
+	regiment = {
+		name= "2.1st Division"
+		type = infantry
+		home = 709
+	}
+
+	regiment = {
+		name= "3.1st Division"
+		type = infantry
+		home = 709
+	}
+	
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 701
+	}
+	
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 948
+	}
+	
+	regiment = {
+		name = "6.1st Division"
+		type = infantry
+		home = 713
+	}
+	
+	regiment = { 
+		name = "7.1st Division"
+		type = artillery
+		home = 940
+	}
+	
+	regiment = { 
+		name = "8.1st Division"
+		type = artillery
+		home = 361#
+	}
+	
+	regiment = { 
+		name = "9.1st Division"
+		type = artillery
+		home = 361
+	}
+	
+	regiment = { 
+		name = "10.1st Division"
+		type = artillery
+		home = 708
 	}
 }
