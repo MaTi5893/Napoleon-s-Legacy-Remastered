@@ -1,4 +1,4 @@
-add_core = USA
+##add_core = USA
 trade_goods = coal
 life_rating = 35
 colony = 2
