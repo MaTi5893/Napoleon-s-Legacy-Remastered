@@ -91,7 +91,7 @@
 
 
 	
-	apply_for_USA_statehood = {	#I'm sorry for the dogshit formatting
+	apply_for_USA_statehood_tex = {	#I'm sorry for the dogshit formatting
 			potential = {		#I just copy pasted the generic one	
 			exists = USA		
 			tag = TEX

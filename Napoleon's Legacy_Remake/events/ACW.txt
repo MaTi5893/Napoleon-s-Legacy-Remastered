@@ -13,15 +13,17 @@ country_event = {
 		}
 		has_country_flag = john_browns_raid
 		has_country_flag = dred_scott_decision
-		upper_house = {
-			ideology = liberal
-			value = 0.4
-		}
+		OR = { 
+			upper_house = {
+				ideology = conservative
+				value = 0.7
+			}
+			year = 1861
 	}
 	
 	immediate = { clr_country_flag = the_slavery_debate }
 	immediate = {
-		CSA = {
+		FSA = {
 			set_country_flag = the_slavery_debate
 		}
 	}
@@ -58,37 +60,27 @@ country_event = {
 		}
 		any_owned = {
 			limit = {
-				is_core = CSA
+				is_core = FSA
 				NOT = {
-					province_id = 146
-					province_id = 147
-					province_id = 148
-					province_id = 149
-					province_id = 150
-					province_id = 217
-					province_id = 218
-					province_id = 219
-					province_id = 220
-					province_id = 221
-					province_id = 222
+					#province_id = 146
+					#province_id = 147
+					#province_id = 148
+					#province_id = 149
+					#province_id = 150
+					#province_id = 217
+					#province_id = 218
+					#province_id = 219
+					#province_id = 220
+					#province_id = 221
+					#province_id = 222
 				}
 			}
-			secede_province = CSA
+			secede_province = FSA
 		}
-		CSA = {
-			capital = 211
+		FSA = {
+			capital = 223
 			leadership = 80
 		}
-		capital = 220
-		war = {
-			target = CSA
-			attacker_goal = {
-				casus_belli = civil_war
-			}
-			
-			defender_goal = {
-				casus_belli = status_quo
-			}
 		}
 		set_global_flag = american_civil_war_has_happened
 		clr_country_flag = the_slavery_debate
@@ -102,41 +94,29 @@ country_event = {
 		}
 		any_owned = {
 			limit = {
-				is_core = CSA
+				is_core = FSA
 				NOT = {
-					province_id = 146
-					province_id = 147
-					province_id = 148
-					province_id = 149
-					province_id = 150
-					province_id = 217
-					province_id = 218
-					province_id = 219
-					province_id = 220
-					province_id = 221
-					province_id = 222
+					#province_id = 146
+					#province_id = 147
+					#province_id = 148
+					#province_id = 149
+					#province_id = 150
+					#province_id = 217
+					#province_id = 218
+					#province_id = 219
+					#province_id = 220
+					#province_id = 221
+					#province_id = 222
 				}
 			}
-			secede_province = CSA
+			secede_province = FSA
 		}
-		CSA = {
-			capital = 211
+		FSA = {
+			capital = 223
 			leadership = 80
 		}
-		capital = 220
 		
-		change_tag_no_core_switch = CSA
-		USA = {
-			war = {
-				target = CSA
-				attacker_goal = {
-					casus_belli = civil_war
-				}
-				defender_goal = {
-					casus_belli = status_quo
-				}
-			}
-		}
+		change_tag_no_core_switch = FSA			
 		set_global_flag = american_civil_war_has_happened
 		clr_country_flag = the_slavery_debate
 	}
@@ -2007,7 +1987,7 @@ province_event = {
 	
 	trigger = {
 		NOT = {
-			is_core = CSA
+			is_core = FSA
 		}
 		owner = {
 			tag = USA
@@ -2017,9 +1997,9 @@ province_event = {
 			}
 		}
 		state_scope = {
-			is_slave = yes
+			is_slave = no
 		}
-		yes_slavery = 10
+		#no_slavery = 10
 		average_consciousness = 5
 		continent = north_america
 	}
@@ -2028,7 +2008,7 @@ province_event = {
 		months = 3
 		modifier = {
 			factor = 0.5
-			yes_slavery = 15
+			no_slavery = 15
 		}
 		modifier = {
 			factor = 0.5
@@ -2044,11 +2024,11 @@ province_event = {
 		name = "EVTOPTA16250"
 		state_scope = {
 			any_owned = {
-				add_core = CSA
+				add_core = FSA
 			}
 			any_pop = {
 				dominant_issue = {
-					value = yes_slavery
+					value = no_slavery
 					factor = 0.2
 				}
 				militancy = 1
