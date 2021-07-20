@@ -18,7 +18,10 @@
 				war = no 
 			}
 			effect = { 
-				
+				USA_144 = { 				 
+					add_core = USA 	
+				}	
+	
 				war = { 
 					target = CHE
 					attacker_goal = { 
@@ -26,23 +29,108 @@
 						state_province_id = 144
 					}
 				}
-				USA_144 = { 				 
-					add_core = USA 	
-				}
+				
+				badboy = 2
 				
 				any_pop = {
 					limit = { 
 						has_pop_culture = yankee
 					}
-				militancy = 1 
+				militancy = 2
 				}
-				
-				badboy = 2
+
 			}
 		}
+		pacification_of_cherokee = { 
+			potential = {
+				OR = { 
+					war_with = CHE
+					USA_144 = { owned_by = USA }
+				}
+				NOT = { 	
+					AND = { 	
+						USA_126 = { is_core = USA }  
+						USA_148 = { is_core = USA } 
+						USA_129 = { is_core = USA } 
+					}
+				}
+			}
+
+			allow = {
+				OR = { 
+					AND = { 
+					war_with = CHE 
+					USA_144 = { 
+						controlled_by = USA 
+					}
+					}
+					USA_144 = { 	
+						owned_by = USA 
+					}
+				}
+			}
 			
+			effect = { 	
+				badboy = 5 
+				any_pop = { 
+					limit = { 
+						has_pop_culture = yankee
+					}
+				militancy = 3
+				}
+				USA_126 = { add_core = USA }  
+				USA_148 = { add_core = USA } 
+				USA_129 = { add_core = USA } 
+				relation = {
+					with = ENG
+					value = -100
+				}
+			}
+		}
 
 
 
-
+	
+	apply_for_USA_statehood = {	#I'm sorry for the dogshit formatting
+			potential = {		#I just copy pasted the generic one	
+			exists = USA		
+			tag = TEX
+		}
+		allow = {
+			war = no
+			USA = {
+				war = no
+			}
+		NOT = {
+				has_country_flag = usstate
+			}
+			relation = {
+				who = USA
+				value = 175
+			}
+			OR = {
+				AND = {
+					USA = {
+						slavery = yes_slavery
+					}
+					slavery = yes_slavery
+				}
+				AND = {
+					USA = {
+						slavery = no_slavery
+					}
+					slavery = no_slavery
+				}
+			}
+		}
+		effect = {
+		set_country_flag = usstate
+			USA = {
+				country_event = { id=69423 days=0 }
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

@@ -1,0 +1,170 @@
+country_event = { 
+	id = 69420
+		trigger = { 
+			CHE = { 
+				exists = no
+			}
+		}
+		mean_time_to_happen = {
+			months = 3
+		}
+		title = "EVTNAME69420"
+		desc = "EVTDESC69420"
+		fire_only_once = yes
+		option = { 
+			name = "EVTOPTA69420"
+			prestige = -5
+			USA_139 = {
+					any_pop = { 
+						limit = { 
+							has_pop_culture = dixie
+							type = artisans
+						}
+							random = { 
+								chance = 50
+								random_list = {
+								25 = { move_pop = 132 }
+								25 = { move_pop = 134 }
+								25 = { move_pop = 137 }
+								25 = { move_pop = 137 }
+								}
+							}
+					}				
+			}
+			USA_194 = {
+					any_pop = { 
+						limit = { 
+							has_pop_culture = dixie
+							type = artisans
+						}
+							random = { 
+								chance = 50
+								random_list = {
+								25 = { move_pop = 132 }
+								25 = { move_pop = 134 }
+								25 = { move_pop = 137 }
+								25 = { move_pop = 137 }
+								}
+							}
+					}				
+			}
+		}
+}
+country_event = {
+	id = 69421
+	title = "EVTNAME69421"
+	desc = "EVTDESC69421"
+	fire_only_once = yes
+	trigger = { 
+		year = 1848
+		TEX = { exists = no } 
+		tag = USA
+	}
+	mean_time_to_happen = { months = 5 } 
+	
+		option = { 
+			name = "EVTOPTA69421" 
+			MEX = { country_event = 69422 } #this event will make the US declare war on Mexico 
+			any_pop = { 
+				limit = { 
+					has_pop_culture = yankee 
+				}
+			militancy = 4
+			}
+			badboy = 5
+		}
+					
+		option = { 
+			name = "EVTOPTB69421"
+			prestige = -20
+			any_pop = { 
+				limit = { 
+					has_pop_culture = yankee
+				}
+			militancy = -4
+			}
+		badboy = -5
+		relation = { 
+			with = MEX
+			value = 200
+		}
+		diplomatic_influence = { 
+			who = MEX 
+			value = 100 
+		}
+	}
+}	
+
+country_event = { 
+	id = 69422
+	title = "EVTNAME69422"
+	desc = "EVTDESC69422"
+	is_triggered_only = yes
+	option = { 
+		name = "EVTOPTA69422"
+		release = TEX
+		TEX = { 	
+			all_core = {	
+				limit = {  
+						province_id = 138
+						province_id = 136
+						province_id = 135
+				}
+			secede_province = MEX 
+			}
+		}
+		USA = { 
+			create_vassal = TEX
+			create_alliance = TEX
+			diplomatic_influence = {
+				who = TEX
+				value = 100 
+			}
+		}
+		war = { 
+			target = TEX
+			attacker_goal = { casus_belli = conquest country = TEX } 
+			defender_goal = { casus_belli = status_quo} 
+		}
+	}
+}
+
+country_event = { 
+	id = 69423 
+	title = "EVTNAME69423"
+	desc = " EVTDESC69422"
+	is_triggered_only = yes
+	option = { 
+		name = "EVTOPTA69423"
+		FROM = { 	
+			any_owned = { 
+				add_core = USA
+			}
+		}
+		inherit = FROM 
+		any_pop = {
+			limit = { 
+				has_pop_culture = yankee
+			}
+		militancy = 5
+		}
+	}
+	option = { 
+		name = "EVTOPTB69423"
+		any_pop = {
+			limit = { 
+				has_pop_culture = yankee
+			}
+		militancy = -3
+		}
+		release_vassal = TEX
+		relation = { 
+			with = TEX
+			value = 200
+		}
+		diplomatic_influence = { 
+			who = TEX 
+			value = 100 
+		}
+	}
+}
