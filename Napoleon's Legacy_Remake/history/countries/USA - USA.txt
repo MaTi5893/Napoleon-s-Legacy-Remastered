@@ -1,7 +1,7 @@
 capital = 220
-primary_culture = yankee
-culture = dixie
+primary_culture = dixie
 culture = texan
+culture = yankee
 religion = protestant
 government = democracy
 plurality = 25.0

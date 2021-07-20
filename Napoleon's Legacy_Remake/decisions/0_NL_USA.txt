@@ -1,0 +1,48 @@
+ #############################################################################
+# Thanks to Taiji1636#0916 on the Victoria 2 Modding Server for the USA chain #
+ #############################################################################
+
+	political_decisions = { 
+		the_cherokee_question = { 
+			potential = { 
+				tag = USA
+				NOT = { 
+					AND = { 	
+						is_core = 143
+						is_core = 144
+						is_core = 145 
+					}
+				}
+			}
+			allow = { 
+				war = no 
+			}
+			effect = { 
+				
+				war = { 
+					target = CHE
+					attacker_goal = { 
+						casus_belli = acquire_core_state 
+						state_province_id = 144
+					}
+				}
+				USA_144 = { 				 
+					add_core = USA 	
+				}
+				
+				any_pop = {
+					limit = { 
+						has_pop_culture = yankee
+					}
+				militancy = 1 
+				}
+				
+				badboy = 2
+			}
+		}
+			
+
+
+
+
+}

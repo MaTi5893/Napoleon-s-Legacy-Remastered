@@ -1,6 +1,6 @@
 name = "Mr. Madison's War"
 
-1835.10.2 = {
+1839.10.2 = {
 	add_attacker = USA
 	add_defender = ENG
 	add_defender = ICF
