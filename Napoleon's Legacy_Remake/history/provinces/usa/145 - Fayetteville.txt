@@ -1,6 +1,6 @@
 owner = CHE
 controller = CHE
-##add_core = USA 
+add_core = USA 
 add_core = CHE
 trade_goods = timber
 life_rating = 35
