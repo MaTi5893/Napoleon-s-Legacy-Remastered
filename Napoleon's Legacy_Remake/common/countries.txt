@@ -15,7 +15,7 @@ JAP		= "countries/Japan.txt"
 ITA		= "countries/Italy.txt"
 KUK		= "countries/Austria-Hungary.txt"
 
-# Napoleon's legacy Remastered
+# Napoleon's Legacy Remastered
 CPL		= "countries/CPL.txt"
 GBR		= "countries/GBR.txt"
 NIT		= "countries/NIT.txt"
@@ -37,6 +37,7 @@ BRA 		= "countries/Berg.txt"
 WUL 		= "countries/Wulzburg.txt"
 LPL 		= "countries/La Plata.txt"
 CEL		= "countries/Celtic Union.txt"
+FSA       	 = "countries/Free States of America.txt"
 # Scandinavia
 DEN		= "countries/Denmark.txt"
 FIN		= "countries/Finland.txt"

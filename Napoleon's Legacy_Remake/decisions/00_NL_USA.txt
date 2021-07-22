@@ -36,7 +36,8 @@
 					limit = { 
 						has_pop_culture = yankee
 					}
-				militancy = 2
+				militancy = 1
+				consciousness = 2
 				}
 
 			}
@@ -59,10 +60,10 @@
 			allow = {
 				OR = { 
 					AND = { 
-					war_with = CHE 
-					USA_144 = { 
+						war_with = CHE 
+						USA_144 = { 
 						controlled_by = USA 
-					}
+						}
 					}
 					USA_144 = { 	
 						owned_by = USA 
@@ -76,7 +77,8 @@
 					limit = { 
 						has_pop_culture = yankee
 					}
-				militancy = 3
+				militancy = 2
+				consciousness = 2
 				}
 				USA_126 = { add_core = USA }  
 				USA_148 = { add_core = USA } 
@@ -133,4 +135,26 @@
 			factor = 1
 		}
 	}
+	become_dixie = { 
+		potential = { 
+			tag = USA
+			FSA = { exists = yes }
+			war = no
+		}
+		allow = { }  
+		effect = {
+			tag = CSA
+		}
+	}
 }
+
+
+
+
+
+
+
+
+
+
+

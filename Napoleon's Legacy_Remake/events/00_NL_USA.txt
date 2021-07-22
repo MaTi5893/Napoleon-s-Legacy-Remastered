@@ -1,12 +1,13 @@
 country_event = { 
 	id = 69420
 		trigger = { 
-			CHE = { 
-				exists = no
-			}
+			#CHE = { 
+			#	exists = no
+			#}
+			year = 1838
 		}
 		mean_time_to_happen = {
-			months = 3
+			months = 2
 		}
 		title = "EVTNAME69420"
 		desc = "EVTDESC69420"
@@ -146,7 +147,8 @@ country_event = {
 			limit = { 
 				has_pop_culture = yankee
 			}
-		militancy = 5
+		militancy = 2
+		consciousness = 1
 		}
 	}
 	option = { 
@@ -157,7 +159,7 @@ country_event = {
 			}
 		militancy = -3
 		}
-		release_vassal = TEX
+		create_vassal = TEX
 		relation = { 
 			with = TEX
 			value = 200
@@ -170,7 +172,7 @@ country_event = {
 }
 
 country_event = { 
-	id = 69424 
+	id = 69424
 	title = "EVTNAME69424"
 	desc = "EVTDESC69424"
 	fire_only_once = yes
@@ -179,7 +181,7 @@ country_event = {
 		NOT = { month = 2 } 
 	}
 	option = { 
-		name = "EVTOPTA69424"
+		name = "EVTOPTA69424" #event about Jefferson
 		any_pop = { 
 			limit = { 
 				has_pop_culture = yankee
@@ -194,27 +196,91 @@ country_event = {
 		}
 	}
 }
-		
+	
+#country_event = {  
+#	id = 69425
+#	title = "EVTNAME69425"
+#	desc = "EVTDESC69425"
+#	fire_only_once = yes
+#}
+	
 country_event = {
-	id = 69425
-	title = "EVTNAME69425"
-	desc = "EVTDESC69425"
+	id = 69426
+	title = "EVTNAME69426"
+	desc = "EVTDESC69426"
 	fire_only_once = yes
 	mean_time_to_happen = { days = 0 }  
+	fire_only_once = yes
 	trigger = { 
 		has_global_flag = american_civil_war_has_happened
+		has_country_flag = dcstormed
 		FSA = { exists = yes } 
 	}
 	option = { 
-		name = "EVTOPTA69425"
-		FSA = { country_event = 69426 }  	
-					
-
-
+		name = "EVTOPTA69426"	
+		}
+		FSA = { country_event = 69427 } #notifies FSA of the US declaring
+	}					
 	option = { 
-		name = "EVTOPTB69425"
+		name = "EVTOPTB69426"
+		badboy = -5
+		relation =  { 
+				with = FSA
+				value = 100 
+		}
+
+	}
+}
+country_event = {  
+	id = 69247 
+	title = "EVTNAME69427"
+	desc = "EVTDESC69427"
+	is_triggered_only = yes
+	option = { 
+		name = "EVTOPTA69427"
+		war = { 
+			target = FSA
+			attacker_goal = { 
+				casus_belli = civil_war 
+			}
+			defender_goal = { 
+				casus_belli = status_quo
+			}
+		}
+	}
 
 
 
-
-
+country_event = {
+	id = 69428
+	title = "EVTNAME16400"
+	desc = "EVTDESC16400"
+	picture = "Administration"
+	
+	is_triggered_only = yes
+	major = yes
+	
+	option = {
+		name = "EVTOPTA69428"
+		FROM = {
+			any_owned = {
+				add_core = USA
+			}
+		}
+		inherit = FROM
+		ai_chance = {
+			factor = 10
+		}
+	}
+	
+	option = {
+		name = "EVTOPTB69428"
+		relation = {
+			who = FROM
+			value = -100
+		}
+		ai_chance = {
+			factor = 0
+		}
+	}
+}

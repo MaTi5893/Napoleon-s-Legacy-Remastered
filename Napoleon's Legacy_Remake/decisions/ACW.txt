@@ -47,37 +47,37 @@ political_decisions = {
 	}
 
 # CSA
-	king_cotton = {
-		potential = {
-			tag = CSA
-			war_with = USA
-			not = {
-				has_country_flag = haskingcotton
-			}
-		}
-		
-		allow = {
-			cotton = 500
-		}
-		
-		effect = {
-			set_country_flag = haskingcotton
-			prestige = 5
-			cotton = -500
-			any_greater_power = {
-				limit = {
-					NOT = {
-						tag = USA
-					}
-				}
-				casus_belli = {
-					target = USA
-					type = cut_down_to_size
-					months = 24
-				}
-			}
-		}
-	}
+#	king_cotton = {
+#		potential = {
+#			tag = CSA
+#			war_with = USA
+#			not = {
+#				has_country_flag = haskingcotton
+#			}
+#		}
+#		
+#		allow = {
+#			cotton = 500
+#		}
+#		
+#		effect = {
+#			set_country_flag = haskingcotton
+#			prestige = 5
+#			cotton = -500
+#			any_greater_power = {
+#				limit = {
+#					NOT = {
+#						tag = USA
+#					}
+#				}
+#				casus_belli = {
+#					target = USA
+#					type = cut_down_to_size
+#					months = 24
+#				}
+#			}
+#		}
+#	}
 	
 # USA	
 	trail_of_tears = {
@@ -227,42 +227,42 @@ political_decisions = {
 		}
 	}
 	
-	shermans_march_to_the_sea = {
-		potential = {
-			tag = USA
-			war_with = CSA
-			NOT = {
-				has_country_flag = sherman_marched_to_the_sea
-			}
-		}		
-		allow = {
-			controls = 201
-			controls = 2555
-			controls = 204
-		}
-		
-		effect = {
-			set_country_flag = sherman_marched_to_the_sea
-			201 = {
-				any_pop = {
-					reduce_pop = 0.70
-				}
-			}
-			2555 = {
-				any_pop = {
-					reduce_pop = 0.90
-				}
-			}
-			204 = {
-				any_pop = {
-					reduce_pop = 0.90
-				}
-			}
-			CSA = {
-				war_exhaustion = 4
-			}
-		}
-	}
+	#shermans_march_to_the_sea = {
+	#	potential = {
+	#		tag = USA
+	#		war_with = CSA
+	#		NOT = {
+	#			has_country_flag = sherman_marched_to_the_sea
+	#		}
+	#	}		
+	#	allow = {
+	#		controls = 201
+	#		controls = 2555
+	#		controls = 204
+	#	}
+	#	
+	#	effect = {
+	#		set_country_flag = sherman_marched_to_the_sea
+	#		201 = {
+	#			any_pop = {
+	#				reduce_pop = 0.70
+	#			}
+	#		}
+	#		2555 = {
+	#			any_pop = {
+	#				reduce_pop = 0.90
+	#			}
+	#		}
+	#		204 = {
+	#			any_pop = {
+	#				reduce_pop = 0.90
+	#			}
+	#		}
+	#		CSA = {
+	#			war_exhaustion = 4
+	#		}
+	#	}
+	#}
 
 	emancipation_proclamation = {
 		potential = {
@@ -314,6 +314,8 @@ political_decisions = {
 	manifest_destiny = {
 		potential = {
 			tag = USA
+			has_global_flag = american_civil_war_has_happened 
+			FSA = { exists = no }
 			NOT = {
 				has_country_flag = hasmanifestdestiny
 			}
