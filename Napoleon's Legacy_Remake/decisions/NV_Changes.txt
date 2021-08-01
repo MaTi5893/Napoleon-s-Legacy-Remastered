@@ -5,7 +5,6 @@ political_decisions = {
 		picture = national_value
 		potential = {
 			NOT = {	has_country_flag = nv_change }
-			NOT = { ai = yes }
 		}
 		
 		allow = {
@@ -17,7 +16,7 @@ political_decisions = {
 		effect = { set_country_flag = nv_change }
 		
 		ai_will_do = { 
-			factor = 1 
+			factor = 1
 			
 			modifier = {
 				factor = 0
@@ -42,12 +41,94 @@ political_decisions = {
 		
 		ai_will_do = { factor = 0 }
 	}
+	
+	switch_to_diplomacy = {
+		picture = switch_to_diplomacy
+		potential = {
+			NOT = { nationalvalue = nv_diplomacy }
+			#NOT = { has_country_flag = switched_nv }
+			has_country_flag = nv_change
+		}
+		
+		allow = {
+			war = no
+			NOT = { has_country_modifier = national_confusion }
+			NOT = { num_of_revolts = 1 }
+		}
+		
+		effect = {
+			clr_country_flag = nv_change
+			set_country_flag = switched_nv
+			nationalvalue = nv_diplomacy
+			add_country_modifier = {
+				name = national_confusion
+				duration = 3650
+			}
+			any_pop = {
+				scaled_militancy = {
+					ideology = reactionary
+					factor = 3
+				}
+				scaled_militancy = {
+					ideology = conservative
+					factor = 2
+				}
+				scaled_militancy = {
+					ideology = liberal
+					factor = -2
+				}
+			}
+		}
+		
+		ai_will_do = { factor = 0 }
+	}
+	
+	switch_to_education = {
+		picture = switch_to_education
+		potential = {
+			NOT = { nationalvalue = nv_education }
+			#NOT = { has_country_flag = switched_nv }
+			has_country_flag = nv_change
+		}
+		
+		allow = {
+			war = no
+			NOT = { has_country_modifier = national_confusion }
+			NOT = { num_of_revolts = 1 }
+		}
+		
+		effect = {
+			clr_country_flag = nv_change
+			set_country_flag = switched_nv
+			nationalvalue = nv_education
+			add_country_modifier = {
+				name = national_confusion
+				duration = 3650
+			}
+			any_pop = {
+				scaled_militancy = {
+					ideology = reactionary
+					factor = 3
+				}
+				scaled_militancy = {
+					ideology = conservative
+					factor = 2
+				}
+				scaled_militancy = {
+					ideology = liberal
+					factor = -2
+				}
+			}
+		}
+		
+		ai_will_do = { factor = 0 }
+	}
 
 	switch_to_order = {
 		picture = switch_to_order
 		potential = {
 			NOT = { nationalvalue = nv_order }
-			NOT = { has_country_flag = switched_nv }
+			#NOT = { has_country_flag = switched_nv }
 			has_country_flag = nv_change
 		}
 		
@@ -88,7 +169,7 @@ political_decisions = {
 		picture = switch_to_productivity
 		potential = {
 			NOT = { nationalvalue = nv_productivity }
-			NOT = { has_country_flag = switched_nv }
+			#NOT = { has_country_flag = switched_nv }
 			has_country_flag = nv_change
 		}
 		
@@ -122,14 +203,14 @@ political_decisions = {
 			}
 		}
 		
-		ai_will_do = { factor = 0.25 }
+		ai_will_do = { factor = 0 }
 	}
 	
 	switch_to_autocracy = {
 		picture = switch_to_autocracy
 		potential = {
 			NOT = { nationalvalue = nv_autocracy }
-			NOT = { has_country_flag = switched_nv }
+			#NOT = { has_country_flag = switched_nv }
 			has_country_flag = nv_change
 		}
 		
@@ -162,14 +243,14 @@ political_decisions = {
 			}
 		}
 		
-		ai_will_do = { factor = 0.75 }
+		ai_will_do = { factor = 0 }
 	}
 	
 	switch_to_equality = {
 		picture = switch_to_equality
 		potential = {
 			NOT = { nationalvalue = nv_equality }
-			NOT = { has_country_flag = switched_nv }
+			#NOT = { has_country_flag = switched_nv }
 			has_country_flag = nv_change
 		}
 		
@@ -210,7 +291,7 @@ political_decisions = {
 		picture = switch_to_liberty
 		potential = {
 			NOT = { nationalvalue = nv_liberty }
-			NOT = { has_country_flag = switched_nv }
+			#NOT = { has_country_flag = switched_nv }
 			has_country_flag = nv_change
 		}
 		

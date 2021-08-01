@@ -1,11 +1,14 @@
-rail_focus =
-{
-	encourage_rail = 
-	{
-		railroads = 0.5 #Capitalists 50% more likeley to choose railroads
-		icon = 2
-	}
-}
+#assimilation_focus_header =
+#{
+#	assimilation_focus =
+#	{
+#		assimilation_rate = 5.0
+#		icon = 3
+#		limit = { 
+#			nationalvalue = nv_equality 
+#		}
+#	}
+#}
 
 immigration_focus = 
 {
@@ -134,6 +137,11 @@ promotion_focus =
 
 production_focus =
 {
+	encourage_rail = 
+	{
+		railroads = 0.5 #Capitalists 50% more likeley to choose railroads
+		icon = 2
+	}
 	automation_focus =
 	{
 		aeroplanes = 18.3

@@ -406,10 +406,11 @@ political_decisions = {
 		effect = {
 			set_country_flag = italia_ulterior
 			badboy = 8
-			AUS_729 = { add_core = ITA } #Venetia
-			AUS_736 = { add_core = ITA } #Friuli
+			AUS_729 = { add_core = ITA remove_core = VEN} #Venetia
+			AUS_736 = { add_core = ITA remove_core = TRE remove_core = VEN} #Friuli
 			AUS_734 = { add_core = ITA } #South Tirol
 			473 = { add_core = ITA } #Corsica
+			AUS_726 = { remove_core = LOM } #Lombardia
 		}
 		ai_will_do = {
 			factor = 1

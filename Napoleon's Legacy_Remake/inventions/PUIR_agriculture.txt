@@ -26,6 +26,24 @@ spinning_jenny = {
 	}
 }
 
+industrial_tanneries = {
+	limit = { water_wheel_power = 1 }
+	news = no
+	chance = {
+		base = 5
+		modifier = {
+			factor = -100
+			not = { civilized = yes }
+		}
+	}
+	effect = {
+		rgo_goods_throughput = {
+			cattle = 0.2
+		}
+		activate_building = leather_factory
+	}
+}
+
 seafood_packing = {
 	limit = { 
 		water_wheel_power = 1

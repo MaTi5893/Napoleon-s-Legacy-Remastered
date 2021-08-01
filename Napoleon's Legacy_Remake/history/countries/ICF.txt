@@ -14,7 +14,7 @@ literacy = 0.3
 prestige = 15
 schools = army_tech_school
 oob = "ICF.txt"
-
+set_country_flag = new_world_nation
 
 #========================= H O U S E - O F - L O R D S =========================
 

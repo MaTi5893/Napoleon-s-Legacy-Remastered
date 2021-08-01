@@ -8,7 +8,7 @@ literacy = 0.12
 non_state_culture_literacy = 0.02
 civilized = yes
 prestige = 5
-
+set_country_flag = new_world_nation
 # Political reforms
 slavery = no_slavery
 upper_house_composition = state_equal_weight

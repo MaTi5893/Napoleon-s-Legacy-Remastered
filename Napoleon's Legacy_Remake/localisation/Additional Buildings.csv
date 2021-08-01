@@ -1,6 +1,8 @@
 #############################################;;;;;;;;;;;;;;x
 #Additional Buildings;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
+leather_factory;Industrial Tannery;;;;;;;;;x;;;;
+leather_factory_desc;Cattle are processed into leather products here.;;;;;;;;;x;;;;
 wool_fabric_factory;Wool Fabric Factory;;;;;;;;;x;;;;
 wool_fabric_factory_desc;Wool is processed into fabric here.;;;;;;;;;x;;;;
 fabric_factory;Cotton Fabric Factory;;;;;;;;;x;;;;

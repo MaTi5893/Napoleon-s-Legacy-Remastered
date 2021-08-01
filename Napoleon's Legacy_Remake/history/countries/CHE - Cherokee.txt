@@ -17,7 +17,7 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
+set_country_flag = new_world_nation
 slavery = yes_slavery
 upper_house_composition = state_equal_weight
 vote_franschise = universal_weighted_voting

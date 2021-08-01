@@ -6,7 +6,7 @@ plurality = 25.1
 nationalvalue = nv_liberty
 literacy = 0.17
 civilized = yes
-
+set_country_flag = new_world_nation
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed

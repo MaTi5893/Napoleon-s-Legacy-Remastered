@@ -27,6 +27,7 @@ everyday_needs = {
 	luxury_furniture = 40
 	tobacco = 20 
 	coffee = 20
+	cattle = 2.5
 }
 
 life_needs = {

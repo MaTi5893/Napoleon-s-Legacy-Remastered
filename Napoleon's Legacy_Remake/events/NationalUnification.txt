@@ -98,13 +98,6 @@ country_event = {
 				factor = 1.5
 				government = absolute_monarchy
 			}
-			modifier = {
-				factor = 400
-				any_greater_power = {
-					is_culture_group = THIS
-					ai = no
-				}
-			}
 		}
 		any_pop = {
 			militancy = 1
@@ -127,7 +120,7 @@ country_event = {
 			inherit = THIS
 		}
 		ai_chance = {
-			factor = 25
+			factor = 100
 		}
 	}
 
@@ -157,7 +150,7 @@ country_event = {
 
 	option = {				# Accept inheritance
 		name = "EVTOPTA11103"
-		change_tag = culture
+		change_tag = ITA
 		add_accepted_culture = north_italian
 		add_accepted_culture = south_italian
 		any_country = {

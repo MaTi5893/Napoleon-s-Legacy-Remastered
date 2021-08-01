@@ -6,18 +6,6 @@ political_decisions = {
 			}
 			tag = FRA
 			exists = FRA
-			exists = USA
-			USA = {
-				government = democracy
-				owns = 232
-			}
-			FRA = {
-				OR = {
-					government = hms_government
-					government = democracy
-				}
-			}	
-			year = 1850
 		}
 	
 		allow = {
@@ -29,21 +17,12 @@ political_decisions = {
 			any_pop = {
 				militancy = -0.5
 			}
-			USA = {
-				country_event = { id=19300 days=0 }
+			FRA = {
+				country_event = { id=7771001 days=0 }
 			}
 		}
 		ai_will_do = {
 			factor = 1
-			modifier = {
-				factor = 0
-				NOT = {
-					relation = {
-						who = USA
-						value = 50
-					}
-				}
-			}
 		}
 	}
 	support_french_foreign_legion = {

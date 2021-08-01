@@ -28,6 +28,8 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
+set_country_flag = new_world_nation
+
 ruling_party = ARG_conservative
 upper_house = {
 	fascist = 0

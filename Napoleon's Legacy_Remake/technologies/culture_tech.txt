@@ -176,7 +176,7 @@ late_enlightenment_philosophy = {
 	increase_research = 0.40
 	
 	ai_chance = {
-		factor = 51
+		factor = 200
 		modifier = {
 			factor = 1.02
 			tech_school = culture_tech_school
@@ -210,7 +210,7 @@ idealism = {
 
 	increase_research = 0.40
 	ai_chance = {
-		factor = 51
+		factor = 200
 		modifier = {
 			factor = 1.02
 			tech_school = culture_tech_school
@@ -245,7 +245,7 @@ empiricism = {
 	
 	increase_research = 0.40
 	ai_chance = {
-		factor = 51
+		factor = 200
 		modifier = {
 			factor = 1.02
 			tech_school = culture_tech_school
@@ -271,7 +271,7 @@ analytic_philosophy = {
 
 	increase_research = 0.85
 	ai_chance = {
-		factor = 51
+		factor = 200
 		modifier = {
 			factor = 1.02
 			tech_school = culture_tech_school
@@ -293,7 +293,7 @@ phenomenology_n_hermeneutic = {
 
 	increase_research = 0.8
 	ai_chance = {
-		factor = 51
+		factor = 200
 		modifier = {
 			factor = 1.02
 			tech_school = culture_tech_school
@@ -343,7 +343,7 @@ malthusian_thought = {
 	education_efficiency = 0.1
 	
 	ai_chance = {
-		factor = 1.01
+		factor = 90
 		modifier = {
 			factor = 1.5 #2
 			not = { literacy = 0.4 }
@@ -371,7 +371,7 @@ positivism = {
 	increase_research = 0.1
 	#education_efficiency = 0.1
 	ai_chance = {
-		factor = 1.01
+		factor = 90
 		modifier = {
 			factor = 6
 			not = { literacy = 0.3 }
@@ -404,7 +404,7 @@ functionalism = {
 	increase_research = 0.15
 	education_efficiency = 0.1
 	ai_chance = {
-		factor = 1.01
+		factor = 90
 		modifier = {
 			factor = 6
 			not = { literacy = 0.3 }
@@ -436,7 +436,7 @@ biologism = {
 	increase_research = 0.15
 	#education_efficiency = 0.1
 	ai_chance = {
-		factor = 1.01
+		factor = 90
 		modifier = {
 			factor = 6
 			not = { literacy = 0.25 }
@@ -469,7 +469,7 @@ social_science = {
 	increase_research = 0.2
 	#education_efficiency = 0.1
 	ai_chance = {
-		factor = 1.01
+		factor = 90
 		modifier = {
 			factor = 6
 			not = { literacy = 0.3 }
@@ -490,7 +490,7 @@ social_alienation = {
 	colonial_migration = 0.05
 	#education_efficiency = 0.1
 	ai_chance = {
-		factor = 1.01
+		factor = 90
 		modifier = {
 			factor = 2
 			is_greater_power = yes
@@ -517,7 +517,7 @@ enlightenment_thought = {
 	max_national_focus = 1
 	
 	ai_chance = {
-		factor = 11
+		factor = 100
 		modifier = {
 			factor = 1.02
 			tech_school = culture_tech_school
@@ -537,7 +537,7 @@ ideological_thought = {
 	max_national_focus = 1 
 		
 	ai_chance = {
-		factor = 1.1
+		factor = 100
 		modifier = {
 			factor = 6
 			is_greater_power = yes
@@ -569,7 +569,7 @@ state_n_government = {
 
 	max_national_focus = 1
 	ai_chance = {
-		factor = 1.1
+		factor = 100
 		modifier = {
 			factor = 3.5
 			is_greater_power = yes
@@ -604,7 +604,7 @@ nationalism_n_imperialism = {
 	cb_creation_speed = 0.1
 	
 	ai_chance = {
-		factor = 1.15
+		factor = 100
 		modifier = {
 			factor = 2
 			is_greater_power = yes
@@ -643,7 +643,7 @@ revolution_n_counterrevolution = {
 	max_national_focus = 1
 	diplomatic_points = 0.25
 	ai_chance = {
-		factor = 1.1
+		factor = 100
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes
@@ -667,7 +667,7 @@ mass_politics = {
 	max_national_focus = 1
 	
 	ai_chance = {
-		factor = 1.1
+		factor = 100
 		modifier = {
 			factor = 1.5
 			is_greater_power = yes

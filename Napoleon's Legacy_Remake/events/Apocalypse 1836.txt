@@ -27,34 +27,38 @@ country_event = {
 		set_global_flag = first_zombie_invasion
 		random_country = {
 			limit = {
-				number_of_states = 4
+				number_of_states = 2
 				OR = {
 				continent = asia
 				continent = oceania
 				}
-			}
-			country_event = 999902
-		}
-		random_country = {
-			limit = {
-				number_of_states = 4
-				continent = europe
-			}
-			country_event = 999902
-		}
-		random_country = {
-			limit = {
-				number_of_states = 4
-				OR = {
-				continent = north_america
-				continent = south_america
-				}
+				NOT = { has_country_flag = zombie_outbreak }
 			}
 			country_event = 999902
 		}
 		random_country = {
 			limit = {
 				number_of_states = 2
+				continent = europe
+				NOT = { has_country_flag = zombie_outbreak }
+			}
+			country_event = 999902
+		}
+		random_country = {
+			limit = {
+				number_of_states = 2
+				OR = {
+				continent = north_america
+				continent = south_america
+				}
+				NOT = { has_country_flag = zombie_outbreak }
+			}
+			country_event = 999902
+		}
+		random_country = {
+			limit = {
+				number_of_states = 2
+				NOT = { has_country_flag = zombie_outbreak }
 			}
 			country_event = 999902
 		}
@@ -734,37 +738,37 @@ country_event = {
 }
 
 #Developed Bioweapons
-country_event = {
-	id = 999920
-	title = "COUNTRY_DEVELOPED_BIOWEAPONS_TITLE"
-	desc = "COUNTRY_DEVELOPED_BIOWEAPONS_DESC"
-	picture = biological_weapons
-	
-	trigger = {
-		has_country_flag = developing_bioweapons
-		NOT = { has_country_modifier = developing_bioweapons }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
-	
-	option = {
-		name = "COUNTRY_DEVELOPED_BIOWEAPONS_OPTA"
-		clr_country_flag = developing_bioweapons
-		remove_country_modifier = developing_bioweapons
-		add_country_modifier = {
-				name = experimental_bioweapon
-				duration = -1
-		}
-		any_country = {
-			limit = {
-				ai = no
-			}
-			country_event = 999921
-		}
-	}	
-}
+#country_event = {
+#	id = 999920
+#	title = "COUNTRY_DEVELOPED_BIOWEAPONS_TITLE"
+#	desc = "COUNTRY_DEVELOPED_BIOWEAPONS_DESC"
+#	picture = biological_weapons
+#	
+#	trigger = {
+#		has_country_flag = developing_bioweapons
+#		NOT = { has_country_modifier = developing_bioweapons }
+#	}
+#	
+#	mean_time_to_happen = {
+#		days = 1
+#	}
+#	
+#	option = {
+#		name = "COUNTRY_DEVELOPED_BIOWEAPONS_OPTA"
+#		clr_country_flag = developing_bioweapons
+#		remove_country_modifier = developing_bioweapons
+#		add_country_modifier = {
+#				name = experimental_bioweapon
+#				duration = -1
+#		}
+#		any_country = {
+#			limit = {
+#				ai = no
+#			}
+#			country_event = 999921
+#		}
+#	}	
+#}
 
 #Country has Developed Bioweapon Announcement
 country_event = {
@@ -797,21 +801,21 @@ country_event = {
 }
 
 #Forced Removal of WMDs
-country_event = {
-	id = 999923
-	title = "REMOVE_WMDS_TITLE"
-	desc = "REMOVE_WMDS_DESC"
-	
-	allow_multiple_instances = yes
-	is_triggered_only = yes
-	
-	option = {
-		name = "REMOVE_WMDS_OPTA"	
-		remove_country_modifier = developing_bioweapons
-		remove_country_modifier = experimental_bioweapon
-		clr_country_flag = developing_bioweapons
-	}	
-}
+#country_event = {
+#	id = 999923
+#	title = "REMOVE_WMDS_TITLE"
+#	desc = "REMOVE_WMDS_DESC"
+#	
+#	allow_multiple_instances = yes
+#	is_triggered_only = yes
+#	
+#	option = {
+#		name = "REMOVE_WMDS_OPTA"	
+#		remove_country_modifier = developing_bioweapons
+#		remove_country_modifier = experimental_bioweapon
+#		clr_country_flag = developing_bioweapons
+#	}	
+#}
 
 #Global Defeat
 country_event = {
@@ -902,7 +906,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhaustion = 10
+			war_exhastion = 10
 		}
 	}
 	option = {
@@ -926,7 +930,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhaustion = 10
+			war_exhastion = 10
 		}
 	}
 	option = {
@@ -951,7 +955,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhaustion = 10
+			war_exhastion = 10
 		}
 	}
 	option = {
@@ -976,7 +980,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhaustion = 10
+			war_exhastion = 10
 		}
 	}
 	option = {
@@ -1001,7 +1005,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhaustion = 10
+			war_exhastion = 10
 		}
 	}
 	option = {
@@ -1026,7 +1030,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhaustion = 10
+			war_exhastion = 10
 		}
 	}
 	option = {
@@ -1051,7 +1055,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhaustion = 10
+			war_exhastion = 10
 		}
 	}
 	option = {
@@ -1076,7 +1080,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhaustion = 10
+			war_exhastion = 10
 		}
 	}
 	option = {
@@ -1101,7 +1105,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhaustion = 10
+			war_exhastion = 10
 		}
 	}
 	option = {
@@ -1126,7 +1130,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhaustion = 10
+			war_exhastion = 10
 		}
 	}
 	option = {
@@ -1151,7 +1155,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhaustion = 10
+			war_exhastion = 10
 		}
 	}
 	option = {
@@ -1192,7 +1196,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhaustion = 10
+			war_exhastion = 10
 		}
 	}
 	option = {
@@ -1217,7 +1221,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhaustion = 10
+			war_exhastion = 10
 		}
 	}
 	option = {
@@ -1242,7 +1246,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhaustion = 10
+			war_exhastion = 10
 		}
 	}
 	option = {
@@ -1267,7 +1271,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhaustion = 10
+			war_exhastion = 10
 		}
 	}
 	option = {
@@ -1292,7 +1296,7 @@ country_event = {
 				
 			}
 			country_event = 999902
-			war_exhaustion = 10
+			war_exhastion = 10
 		}
 	}
 	option = {
@@ -1300,10 +1304,10 @@ country_event = {
 
 		country_event = 999931
 	}
-	option = {
-		name = "EVT999932OPTS"
-		remove_country_modifier = bioweapon_cooldown
-	}
+#	option = {
+#		name = "EVT999932OPTS"
+#		remove_country_modifier = bioweapon_cooldown
+#	}
 		
 }
 

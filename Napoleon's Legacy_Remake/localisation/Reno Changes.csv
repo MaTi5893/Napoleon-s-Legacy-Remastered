@@ -59,10 +59,6 @@ conquest_of_darfur_ARA_title;Begin Conquest of Darfur;;;;;;;;;;;;;x;;;;;;;;;;;
 conquest_of_darfur_ARA_desc;An expansionist Khedive, Isma'il I moved to incorporate the territory of Darfur into the Egyptian Sudan in 1874.;;;;;;;;;;;;;x;;;;;;;;;;;
 craftsmen_fix_cooldown;Craftsmen Fix Cooldown;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 craftsmen_fix_cooldown_desc;Craftsmen Fix Cooldown is 10 years.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
-EVTNAME9999901;Craftsmen Exploit Salvage (Part 1);;;;;;;;;;;;;;x
-EVTDESC9999901;This event converts all non-core/non-accepted craftsmen into farmers if they are on your cores. Part 2 will spawn in 3 days, be sure to select this option FIRST.;;;;;;;;;;;;;;x
-EVTNAME9999902;Craftsmen Exploit Salvage (Part 2);;;;;;;;;;;;;;x
-EVTDESC9999902;This event converts all 100% unemployed farmers into laborers.;;;;;;;;;;;;;;x
 bureaucrats_fix_cooldown;Non-Accepted Bureaucrats Fix Cooldown;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 bureaucrats_fix_cooldown_desc;Non-Accepted Bureaucrats Fix Cooldown is 10 years.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
 anti_italy_title;Form Anti-Italy;;;;;;;;;;;;;X,,,,,,,,,,,,,,;;;;;;;;;;;
@@ -85,9 +81,21 @@ unciv_protection_on_desc;China and Japan specific decision that protects you unt
 unciv_protection_off_title;1865 Protection OFF (Unavailable after 1836);;;;;;;;;;;;;;x
 unciv_protection_off_desc;China and Japan specific decision that turns off your protection from acquire land CBs, that you otherwise would have until 1865. USE AT YOUR OWN DISCRETION.;;;;;;;;;;;;;;x
 craftsmen_fix_title;Craftsmen Salvage Decision (10 year cooldown);;;;;;;;;;;;;;x
-craftsmen_fix_desc;This decision is intended to salvage your country after it has been craftsmen hijacked. It will revert all non-core/non-accepted craftsmen on your cores to artisans so that your core craftsmen will start working. (Think South Germans in Venetia hijacking.) BE CAREFUL OF USE.;;;;;;;;;;;;;;x
+craftsmen_fix_desc;This decision is intended to salvage your country after it has been craftsmen hijacked. It will revert all non-core/non-accepted craftsmen on your cores to artisans so that your core craftsmen will start working. (Think South Germans in Venetia hijacking.) BECAREFUL OF USE.;;;;;;;;;;;;;;x
 bureaucrats_fix_title;Non-Accepted Bureaucrats Decision (10 year cooldown);;;;;;;;;;;;;;x
 bureaucrats_fix_desc;This decision is intended to convert non-accepted Bureaucrats into Artisans, in both states and colonies, so they stop getting fat off of state admin funding.;;;;;;;;;;;;;;x
+britain_sphere_jap_title;Ask The British Empire for Support;;;;;;;;;;;;;;x
+britain_sphere_jap_desc;The world's oceans are big enough for the two of us, surely the British Empire will understand then that we require her resources to prosper in our time of need. (Decision only available in 1836);;;;;;;;;;;;;;x
+usa_sphere_jap_title;Ask the United States for Support;;;;;;;;;;;;;;x
+usa_sphere_jap_desc;Clearly we cannot trust other interests in Asia, but we can't fuel this machine on good will. There appears to be a budding nation across the Pacific... they may be able to provide us with markets in our time of need. (Decision only available in 1836);;;;;;;;;;;;;;x
+rus_sphere_jap_title;Ask Russian Empire for Support;;;;;;;;;;;;;;x
+rus_sphere_jap_desc;If our interests are in China, then surely allying ourselves with the next best thing to overcome her would be the right course of action. (Decision only available in 1836);;;;;;;;;;;;;;x
+change_tech_school_on_title;Change Tech School (Hidden);;;;;;;;;;;;;;x
+change_tech_school_on_desc;Show Tech School Decisions;;;;;;;;;;;;;;x
+change_tech_school_off_title;Change Tech School (Showing);;;;;;;;;;;;;;x
+change_tech_school_off_desc;Hide Tech School Decisions;;;;;;;;;;;;;;x
+player_alliances_title;Ally All Player Nations;;;;;;;;;;;;;;x
+player_alliances_desc;Automatically allies all player nations. DO NOT SPAM.;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 double_down_in_the_balkans_title;Double Down in the Balkans;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 double_down_in_the_balkans_desc;For too long have the peoples of the Balkans thwarted our efforts of expansion. Let us focus all our attention to the re-education and assimilation of these barbaric peoples.;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -97,18 +105,6 @@ double_down_in_the_balkans_desc;For too long have the peoples of the Balkans thw
 PROV3258;Benevento;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV3259;Avellino;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PROV3260;Rieta;;;;;;;;;;;;;;;;;;;;;;;;;;;
-PROV3261;Po River;;;;;;;;;;;;;;;;;;;;;;;;;;;
-PROV3262;Danube River;;;;;;;;;;;;;;;;;;;;;;;;;;;
-PROV3263;Rhine River;;;;;;;;;;;;;;;;;;;;;;;;;;;
-PROV3264;Seine River;;;;;;;;;;;;;;;;;;;;;;;;;;;
-PROV3265;Rhone River;;;;;;;;;;;;;;;;;;;;;;;;;;;
-PROV3266;Elbe River;;;;;;;;;;;;;;;;;;;;;;;;;;;
-PROV3267;Vistula River;;;;;;;;;;;;;;;;;;;;;;;;;;;
-PROV3268;Dnieper River;;;;;;;;;;;;;;;;;;;;;;;;;;;
-PROV3269;Daugava River;;;;;;;;;;;;;;;;;;;;;;;;;;;
-PROV3270;Volga River;;;;;;;;;;;;;;;;;;;;;;;;;;;
-PROV3271;Loire River;;;;;;;;;;;;;;;;;;;;;;;;;;;
-PROV3272;Oder River;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #############################################;;;;;;;;;;;;;;x
 #Additional Tags and their connected info;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
@@ -142,15 +138,29 @@ AIT_proletarian_dictatorship_ADJ;Italian;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 #Additional CBs;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
-demand_concession_casus_belli_china;Chinese Concession;;;;;;;;;;;
+demand_concession_casus_belli_china;Chinese Core Concession;;;;;;;;;;;
 demand_concession_casus_belli_china_short;Demand $STATE$ from China;;;;;;;;;;;
-demand_concession_casus_belli_china_desc;Force China to concede territory.;;;;;;;;;;;
+demand_concession_casus_belli_china_desc;Force China to concede core territory.;;;;;;;;;;;
 demand_concession_casus_belli_china_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;;;;;
 #############################################;;;;;;;;;;;;;;x
 #Additional Modifiers;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 assimilation_fix_modifier;Assimilation Fix Modifier;;;;;;;;;;;;;x,,,,
 assimilation_fix_modifier_desc;This modifier exists to counter the engine restricted assimilation modifier on pops who are on their cultural_union cores.;;;;;;;;;;;;;x,,,,
+policestate_modifier;The Police State;;;;;;;;;;;;;x,,,,
+policestate_modifier_desc;You have an active Police State.;;;;;;;;;;;;;x,,,,
+one_party_state_modifier;One Party State;;;;;;;;;;;;;x,,,,
+one_party_state_modifier_desc;You have an active One Party State.;;;;;;;;;;;;;x,,,,
+totalitarianism_modifier;Totalitarian;;;;;;;;;;;;;x,,,,
+totalitarianism_modifier_desc;You have an active Totalitarianist government.;;;;;;;;;;;;;x,,,,
+leadership_principle_modifier;The Leadership Principle;;;;;;;;;;;;;x,,,,
+leadership_principle_modifier_desc;Your people are enthralled by the Leadership Principle.;;;;;;;;;;;;;x,,,,
+ultranationalism_modifier;Ultranationalism;;;;;;;;;;;;;x,,,,
+ultranationalism_modifier_desc;Your people are enthralled by Ultranationalism.;;;;;;;;;;;;;x,,,,
+collectivisation_modifier;Collectivisation;;;;;;;;;;;;;x,,,,
+collectivisation_modifier_desc;Your people are enthralled by Collectivisation.;;;;;;;;;;;;;x,,,,
+classless_society_modifier;Classless Society;;;;;;;;;;;;;x,,,,
+classless_society_modifier_desc;Your people have created a Classless Society.;;;;;;;;;;;;;x,,,,
 #############################################;;;;;;;;;;;;;;x
 #Additional Cultures;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
@@ -166,3 +176,12 @@ andean;Andean;;;;;;;;;x;;;;
 #Additional Generic Fixes and Additions;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 UNIT_BUILD_TIME_IW;$VAL$ days.;$VAL$ jours.;$VAL$ Tage.;;$VAL$ d僘s.;;;;;;;;;x;;;;;;;;;;;;;;;;
+#############################################;;;;;;;;;;;;;;x
+#Additional Inventions;;;;;;;;;;;;;;x
+#############################################;;;;;;;;;;;;;;x
+industrial_tanneries;Industrial Tanneries;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+industrial_tanneries_desc;In the Victorian era tanneries were often close to the abattoirs and so the skins would often arrive at the tannery fresh and unsalted. With industrial levels of meat consumption, it was inevitable that the leather industry advance as well.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+offensive_infantry_activation;Activate Offensive Infantry;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+defensive_infantry_activation;Activate Defensive Infantry;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+offensive_artillery_activation;Activate Offensive Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+defensive_artillery_activation;Activate Defensive Artillery;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;

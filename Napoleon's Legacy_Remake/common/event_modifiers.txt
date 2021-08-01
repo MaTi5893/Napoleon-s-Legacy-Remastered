@@ -118,21 +118,21 @@ national_tragedy = {
 
 ##### CIVILIZATION AND GUNBOATS #####
 western_influences = {
-	global_pop_militancy_modifier = 0.05
+	global_pop_militancy_modifier = 0.01
 	global_pop_consciousness_modifier = 0.1
 	research_points_modifier = 0.2
 	icon = 10
 }
 
 uncivilized_isolationism = {
-	global_pop_militancy_modifier = -0.1
+	global_pop_militancy_modifier = -0.01
 	global_pop_consciousness_modifier = -0.05
 	research_points_modifier = -0.2
 	icon = 10
 }
 
 western_presence = {
-	pop_militancy_modifier = 0.1
+	pop_militancy_modifier = 0.01
 	research_points_modifier = 0.01
 	icon = 9
 }
@@ -214,7 +214,7 @@ baby_boom = {
 }
 
 loyal_askaris = {
-	pop_militancy_modifier = -0.05
+	pop_militancy_modifier = -0.01
 	pop_consciousness_modifier = -0.05
 	prestige = 0.01
 	icon = 17
@@ -427,7 +427,7 @@ anaconda_plan = {
 
 the_homestead_act = {
 	global_immigrant_attract = 0.30	#30%
-	#global_assimilation_rate = 0.25
+	global_assimilation_rate = 0.25
 	icon = 9
 }
 
@@ -546,7 +546,7 @@ international_negotiations = {
 the_statue_of_liberty = {
 	prestige = 0.1 #was 0.4
 	global_immigrant_attract = 0.30	#30% was 200%
-	global_assimilation_rate = 1.0
+	global_assimilation_rate = 0.25
 	icon = 15
 }
 
@@ -849,7 +849,7 @@ badboymod = {
 
 ### PUIR-Canada###
 dominion_lands_act = {
-	global_immigrant_attract = 0.10
+	global_immigrant_attract = 0.20
 	global_assimilation_rate = 0.25
 	icon = 17
 }
@@ -1089,7 +1089,7 @@ no_more_war_reperations = {
 
 ### RGO Change ###
 switched_production = {
-	local_RGO_output = -0.50
+	local_RGO_output = -0.25
 	icon = 14
 }
 
@@ -1159,7 +1159,7 @@ national_confusion = {
 	global_pop_consciousness_modifier = 0.01
 	global_pop_militancy_modifier = 0.01
 	prestige = -0.01
-	icon = 4
+	icon = 2
 }
 
 roundhead_leagacy = {
@@ -1180,4 +1180,83 @@ cop = {
 fort_constructions = {
 	tax_efficiency = -0.1
 	icon = 10
+}
+
+##### Triggered mods that were moved to Events + Country Modifiers #####
+policestate_modifier = {
+	global_pop_consciousness_modifier = -0.01
+	global_pop_militancy_modifier = -0.01
+	icon = 15
+}
+
+one_party_state_modifier = {
+	literacy_con_impact = -0.25
+	political_reform_desire = -0.2
+	social_reform_desire = -0.2
+	icon = 4
+}
+
+totalitarianism_modifier = {
+	suppression_points_modifier = 0.5
+	mobilization_impact = -0.2
+	global_immigrant_attract = -0.25
+	issue_change_speed = -0.25
+	political_reform_desire = -0.1
+	social_reform_desire = -0.1
+	global_pop_consciousness_modifier = 0.01
+	global_pop_militancy_modifier = 0.01
+	non_accepted_pop_militancy_modifier = 0.02
+	icon = 18
+}
+
+leadership_principle_modifier = {
+	mobilisation_size = 0.01
+	ruling_party_support = 0.2
+	leadership_modifier = 0.25
+	factory_throughput = 0.1
+	cb_generation_speed_modifier = 0.1
+	#RGO_throughput = -0.1
+	#army_tech_research_bonus = -0.1
+	#navy_tech_research_bonus = -0.1
+	#commerce_tech_research_bonus = -0.1
+	#culture_tech_research_bonus = -0.1
+	#industry_tech_research_bonus = -0.1
+	issue_change_speed = -0.25
+	icon = 17
+}
+
+ultranationalism_modifier = {
+	min_military_spending = 0.5
+	core_pop_militancy_modifier = -0.1
+	global_population_growth = 0.002
+	suppression_points_modifier = 0.2
+	global_immigrant_attract = -2
+	global_assimilation_rate = -2
+	political_reform_desire = -0.1
+	non_accepted_pop_militancy_modifier = 0.05
+	icon = 15
+}
+
+collectivisation_modifier = {
+	mobilisation_size = 0.01
+	tax_efficiency = 0.05
+	factory_throughput = 0.05
+	mine_rgo_eff = 0.2
+	farm_rgo_eff = -0.2
+	max_tariff = 0.35 #cancels out all malus from nation modifiers
+	#tariff_efficiency_modifier = -0.5
+	global_population_growth = -0.001
+	global_assimilation_rate = -0.25
+	icon = 11
+}
+
+classless_society_modifier = {
+	min_social_spending = 0.5
+	education_efficiency_modifier = 0.2
+	global_immigrant_attract = 0.75
+	suppression_points_modifier = 0.2
+	non_accepted_pop_militancy_modifier = -0.02
+	political_reform_desire = -0.1
+	leadership_modifier = -0.1
+	icon = 17
 }

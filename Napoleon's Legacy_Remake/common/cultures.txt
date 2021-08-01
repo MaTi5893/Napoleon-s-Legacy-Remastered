@@ -611,7 +611,6 @@ polish_culture_group = {
 		Straizys Stulginkis Svedas Terleckas Urbsys Vagnorius Valeska Voldemaras Zemaitis Zuokas
 		}
 	}
-	
 	union = PLC
 }
 
@@ -703,6 +702,7 @@ east_slavic = {
 
                   last_names = { Kokko Likhachev Mamin Minin Sibiriak  Tikhanov Zubov }
 	}
+
 }
 
 baltic = {
@@ -809,7 +809,6 @@ levantine = {
 
 turko_semitic = {
 	leader = arab
-	is_overseas = no
 	unit = MiddleEasternGC
 	turkish = {
 		color = {250 55 55}
@@ -857,7 +856,6 @@ turko_semitic = {
 
 arab = {
 	leader = arab
-	is_overseas = no
 	unit = MiddleEasternGC
 	maghrebi = {
 		color = {24 103 22}
@@ -945,7 +943,6 @@ arab = {
 
 iranian_turanian = {
 	leader = arab
-	is_overseas = no
 	unit = MiddleEasternGC
 	persian = {
 		color = {144 88 81}
@@ -1072,7 +1069,6 @@ iranian_turanian = {
 
 central_asian = {
 	leader = asian
-	is_overseas = no
 	unit = MiddleEasternGC
 	mongol = {
 		color = {230 230 44}
@@ -1579,7 +1575,6 @@ east_asian = {
 
 oceanic = {
 	leader = nativeamerican
-	is_overseas = no
 	polynesian = {
 		color = {89 35 168}
 		first_names = { Finau Ulukalala Taufa'ahau Tupou Taupe Havaiki Lika Longotahi Vaopuka "Te Taulu" Tavita Malietoa Iosefo William 
@@ -1619,7 +1614,6 @@ oceanic = {
 
 native_american = {
 	leader = nativeamerican
-	is_overseas = no
 	zapotec = {
 		color = {87 199 81}
 		first_names = { Agustín Alberto Alfonso Alfredo Andrés Benito Carlos César Eduardo Eugenio
@@ -1772,7 +1766,6 @@ native_american = {
 
 american_cultures = {
 	leader = european
-	is_overseas = no
 	yankee = {
 		color = {65 65 129}
 		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses
@@ -1820,7 +1813,6 @@ american_cultures = {
 
 neo_european_cultures = {
 	leader = european
-	is_overseas = no
 	boer = {
 		color = {220 145 0}
 		first_names = { Sarel Rudolf Andries Hendrik Piet Racheltjie Dirkie Siener Koos Danie Christiaan Louis Petrus Paul Eugene Joubert
@@ -1855,7 +1847,6 @@ neo_european_cultures = {
 
 latin_american_cultures = {
 	leader = southamerican
-	is_overseas = no
 	mexican = {
 		color = {51 117 62}
 		first_names = { Adrián Agustín Álvaro Anastasio Andrés Ángel Antonio Bernardo Emiliano Emilio
@@ -1973,7 +1964,6 @@ latin_american_cultures = {
 
 african_diaspora_cultures = {
 	leader = african
-	is_overseas = no
 	unit = AfricanGC
 	afro_american = {
 		color = {42 42 42}
@@ -2034,7 +2024,6 @@ african_diaspora_cultures = {
 }
 central_african = {
 	leader = african
-	is_overseas = no
 	unit = AfricanGC
 	african_minor = {
 		color = {74 155 164}

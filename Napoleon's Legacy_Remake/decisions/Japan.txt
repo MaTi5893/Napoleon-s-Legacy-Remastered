@@ -1,4 +1,87 @@
 political_decisions = {
+	britain_sphere_jap = {
+		picture = anglo_jap_alliance
+		potential = {
+			tag = JAP
+			NOT = { has_country_flag = jap_sphere_chosen }
+			NOT = { has_country_flag = jap_asked_britain }
+			NOT = { 
+				year = 1837
+			}
+		}
+		allow = {
+			NOT = { 
+				year = 1837
+			}	
+		}
+		
+		effect = {
+			set_country_flag = jap_sphere_chosen
+			set_country_flag = jap_asked_britain
+			ENG = {
+				country_event = 7770001
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	usa_sphere_jap = {
+		picture = usa_jap_alliance
+		potential = {
+			tag = JAP
+			NOT = { has_country_flag = jap_sphere_chosen }
+			NOT = { has_country_flag = jap_asked_usa }
+			NOT = { 
+				year = 1837
+			}
+		}
+		allow = {
+			NOT = { 
+				year = 1837
+			}	
+		}
+		
+		effect = {
+			set_country_flag = jap_sphere_chosen
+			set_country_flag = jap_asked_usa
+			USA = {
+				country_event = 7770001
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	rus_sphere_jap = {
+		picture = russian_japan_decision
+		potential = {
+			tag = JAP
+			NOT = { has_country_flag = jap_sphere_chosen }
+			NOT = { has_country_flag = jap_asked_rus }
+			NOT = { 
+				year = 1837
+			}
+		}
+		allow = {
+			NOT = { 
+				year = 1837
+			}	
+		}
+		
+		effect = {
+			set_country_flag = jap_sphere_chosen
+			set_country_flag = jap_asked_rus
+			RUS = {
+				country_event = 7770001
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}	
 	new_capital_in_the_east = {
 		potential = {
 			tag = JAP

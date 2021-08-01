@@ -6,7 +6,7 @@ plurality = 0.5
 nationalvalue = nv_order
 literacy = 0.17
 civilized = yes
-
+set_country_flag = new_world_nation
 
 # Political reforms
 slavery = no_slavery

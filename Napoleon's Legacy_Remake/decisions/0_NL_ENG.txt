@@ -110,7 +110,7 @@ political_decisions = {
 			any_owned_province = {
 				is_core = CAN
 			}
-			year = 1900
+			year = 1870
 		}
 		effect = {
 			all_core = {

@@ -1140,45 +1140,45 @@ colonial_competition = {
 }
 
 # Cut Down to size (Disarm)
-cut_down_to_size = {
-	sprite_index = 8
-	is_triggered_only = yes
-	months = 12
-	
-	construction_speed = 0.5
-	
-	badboy_factor = 1
-	prestige_factor = 1
-	peace_cost_factor = 30
-	penalty_factor = 1
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 1
-	break_truce_militancy_factor = 1
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-
-	po_disarmament = yes
-	po_reparations = no
-
-	war_name = WAR_NAME
-	
-	can_use = {
-		# this = { NOT = { badboy = 1 } }
-		is_disarmed = no
-	}
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-}
+#cut_down_to_size = {
+#	sprite_index = 8
+#	is_triggered_only = yes
+#	months = 12
+#	
+#	construction_speed = 0.5
+#	
+#	badboy_factor = 1
+#	prestige_factor = 1
+#	peace_cost_factor = 30
+#	penalty_factor = 1
+#
+#	break_truce_prestige_factor = 1
+#	break_truce_infamy_factor = 1
+#	break_truce_militancy_factor = 1
+#	truce_months = 60
+#	
+#	good_relation_prestige_factor = 1
+#	good_relation_infamy_factor = 1
+#	good_relation_militancy_factor = 1
+#
+#	po_disarmament = yes
+#	po_reparations = no
+#
+#	war_name = WAR_NAME
+#	
+#	can_use = {
+#		# this = { NOT = { badboy = 1 } }
+#		is_disarmed = no
+#	}
+#	
+#	on_add = {
+#		move_issue_percentage = { 
+#			from = jingoism 
+#			to = pro_military
+#			value = 0.25
+#		}
+#	}
+#}
 
 # Cut Down to size (Reperations)
 demand_reperations = {
@@ -1252,7 +1252,7 @@ cut_down_to_size_boxer = {
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
 
-	po_disarmament = yes
+	po_disarmament = no
 	po_reparations = yes
 
 	war_name = WAR_BOXER_NAME
@@ -1430,9 +1430,10 @@ liberate_country = {
 							tag = AUS
 							tag = HUN
 							tag = HND
-							tag = PLC
+							#tag = PLC
 							tag = UKR
 							tag = CSA
+							tag = RUT
 						}
 					}
 				}
@@ -1538,9 +1539,10 @@ liberate_country_midgame = {
 							tag = AUS
 							tag = HUN
 							tag = HND
-							tag = PLC
+							#tag = PLC
 							tag = UKR
 							tag = CSA
+							tag = RUT
 						}
 					}
 				}
@@ -1646,9 +1648,10 @@ liberate_country_late = {
 							tag = AUS
 							tag = HUN
 							tag = HND
-							tag = PLC
+							#tag = PLC
 							tag = UKR
 							tag = CSA
+							tag = RUT
 						}
 					}
 				}
@@ -1749,6 +1752,7 @@ liberate_country_verylate = {
 							tag = SWE
 							tag = ITA
 							tag = AUS
+							tag = RUT
 						}
 					}
 				}
@@ -2083,7 +2087,7 @@ demand_concession_casus_belli = {
 	always = no
 
 	can_use = {
-		NOT = { tag = CHI }
+		#NOT = { tag = CHI }
 		year = 1860
 		# this = { NOT = { badboy = 1 } }
 		NOT = { 
@@ -2111,6 +2115,7 @@ demand_concession_casus_belli = {
 	}
 	
 	allowed_states = {
+		NOT = { any_owned_province = { is_core = CHI } }
 		any_owned_province = {
 			is_colonial = no
 		}
@@ -2140,7 +2145,7 @@ demand_concession_casus_belli_china = {
 	
 	badboy_factor = 1.0
 	prestige_factor = 0.1
-	peace_cost_factor = 4
+	peace_cost_factor = 2
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -2179,6 +2184,7 @@ demand_concession_casus_belli_china = {
 	}
 	
 	allowed_states = {
+		any_owned_province = { is_core = CHI }
 		any_owned_province = {
 			is_colonial = no
 		}
@@ -2724,7 +2730,7 @@ great_war_penalty_cb = {
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
 
-	po_disarmament = yes
+	po_disarmament = no
 	po_reparations = yes
 
 	war_name = WAR_NAME
@@ -3051,6 +3057,7 @@ negotiated_transfer = {
 		number_of_states = 2 # annex if you want their last state
 		ai = no
 		THIS = { ai = no } 
+		THIS = { civilized = yes }
 	}
 	
 	allowed_states = {
@@ -3594,7 +3601,7 @@ demand_concession_casus_belli_player_early = {
 	can_use = {
 		ai = no
 		NOT = { year = 1861 }
-		NOT = { tag = CHI }
+		#NOT = { tag = CHI }
 		# this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -3621,6 +3628,7 @@ demand_concession_casus_belli_player_early = {
 	}
 	
 	allowed_states = {
+		NOT = { any_owned_province = { is_core = CHI }
 		any_owned_province = {
 			is_colonial = no
 		}
@@ -3666,7 +3674,7 @@ demand_concession_casus_belli_ai_early = {
 
 	can_use = {
 		NOT = { year = 1861 }
-		NOT = { tag = CHI }
+		#NOT = { tag = CHI }
 		ai = yes
 		# this = { NOT = { badboy = 1 } }
 		NOT = { 
@@ -3694,6 +3702,7 @@ demand_concession_casus_belli_ai_early = {
 	}
 	
 	allowed_states = {
+		NOT = { any_owned_province = { is_core = CHI } } 
 		any_owned_province = {
 			is_colonial = no
 		}
@@ -4035,61 +4044,61 @@ total_war_conquest = {
 }
 
 # Remove_WMDs
-remove_wmds = {
-	sprite_index = 11
-	is_triggered_only = yes
-	months = 12
-	
-	badboy_factor = 0
-	prestige_factor = 0
-	peace_cost_factor = 0
-	penalty_factor = 0
-	
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 1
-	break_truce_militancy_factor = 1
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-	
-	construction_speed = 0.5
-	
-	can_use = {
-		year = 1925
-		THIS = { 
-			NOT = {
-				OR = {
-					has_country_modifier = neutrality
-					has_country_modifier = generic_neutrality
-				}
-			}
-		}
-		OR = {
-			 has_country_modifier = developing_bioweapons
-			 has_country_modifier = experimental_bioweapon
-		}
-	}
-
-	po_remove_prestige = no
-	
-	tws_battle_factor = 2.0
-	
-	war_name = WAR_REMOVE_WMDS_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-	
-	on_po_accepted = {
-		country_event = 999923
-	}
-}
+#remove_wmds = {
+#	sprite_index = 11
+#	is_triggered_only = yes
+#	months = 12
+#	
+#	badboy_factor = 0
+#	prestige_factor = 0
+#	peace_cost_factor = 0
+#	penalty_factor = 0
+#	
+#	break_truce_prestige_factor = 1
+#	break_truce_infamy_factor = 1
+#	break_truce_militancy_factor = 1
+#	truce_months = 60
+#	
+#	good_relation_prestige_factor = 1
+#	good_relation_infamy_factor = 1
+#	good_relation_militancy_factor = 1
+#	
+#	construction_speed = 0.5
+#	
+#	can_use = {
+#		year = 1925
+#		THIS = { 
+#			NOT = {
+#				OR = {
+#					has_country_modifier = neutrality
+#					has_country_modifier = generic_neutrality
+#				}
+#			}
+#		}
+#		OR = {
+#			 has_country_modifier = developing_bioweapons
+#			 has_country_modifier = experimental_bioweapon
+#		}
+#	}
+#
+#	po_remove_prestige = no
+#	
+#	tws_battle_factor = 2.0
+#	
+#	war_name = WAR_REMOVE_WMDS_NAME
+#	
+#	on_add = {
+#		move_issue_percentage = { 
+#			from = jingoism 
+#			to = pro_military
+#			value = 0.25
+#		}
+#	}
+#	
+#	on_po_accepted = {
+#		country_event = 999923
+#	}
+#}
 
 #Demand Early Concession for Puppet on Player 
 demand_concession_casus_belli_player_early_for_puppet = {
@@ -4116,7 +4125,7 @@ demand_concession_casus_belli_player_early_for_puppet = {
 	always = no
 
 	can_use = {
-		NOT = { tag = CHI }
+		#NOT = { tag = CHI }
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
@@ -4144,6 +4153,7 @@ demand_concession_casus_belli_player_early_for_puppet = {
 		number_of_states = 2
 	}
 	allowed_countries = {
+		#NOT = { any_owned_province = { is_core = CHI } } 
 		NOT = { tag = FROM }
 		OR = {
 			NOT = { alliance_with = FROM }
@@ -4158,6 +4168,7 @@ demand_concession_casus_belli_player_early_for_puppet = {
 	}
 	
 	allowed_states = {
+		NOT = { any_owned_province = { is_core = CHI } }
 		any_owned_province = { is_colonial = no }
 		NOT = { any_owned_province = { is_capital = yes } }
 	}
@@ -4203,7 +4214,7 @@ demand_concession_casus_belli_ai_early_for_puppet = {
 	always = no
 
 	can_use = {
-		NOT = { tag = CHI }
+		#NOT = { tag = CHI }
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
@@ -4231,6 +4242,7 @@ demand_concession_casus_belli_ai_early_for_puppet = {
 		number_of_states = 2
 	}
 	allowed_countries = {
+		#NOT = { any_owned_province = { is_core = CHI } } 
 		NOT = { tag = FROM }
 		OR = {
 			NOT = { alliance_with = FROM }
@@ -4245,6 +4257,7 @@ demand_concession_casus_belli_ai_early_for_puppet = {
 	}
 	
 	allowed_states = {
+		NOT = { any_owned_province = { is_core = CHI } }
 		any_owned_province = { is_colonial = no }
 		NOT = { any_owned_province = { is_capital = yes } }
 	}
@@ -4290,7 +4303,7 @@ demand_concession_casus_belli_for_puppet = {
 	always = no
 
 	can_use = {
-		NOT = { tag = CHI }
+		#NOT = { tag = CHI }
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
@@ -4332,6 +4345,7 @@ demand_concession_casus_belli_for_puppet = {
 	}
 	
 	allowed_states = {
+		NOT = { any_owned_province = { is_core = CHI } }
 		any_owned_province = { is_colonial = no }
 		NOT = { any_owned_province = { is_capital = yes } }
 	}

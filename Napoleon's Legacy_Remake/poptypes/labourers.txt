@@ -13,6 +13,7 @@ everyday_needs = {
 	regular_clothes = 1.2
 	furniture = 1.1
 	explosives = 0.75
+	cattle = 2.5
 }
 
 life_needs = {
