@@ -25,7 +25,7 @@ country_event = {
 					tag = THIS
 				}
 				substate_of = CHI
-				num_of_cities = 1
+#				num_of_cities = 1
 			}
 			country_event = { id=90901 days=0 }
 		}
@@ -65,7 +65,7 @@ country_event = {
 			inherit = THIS
 		}
 		ai_chance = {
-			factor = 10
+			factor = 1000
 			 modifier = {
 				factor = 1000
 				relation = { who = FROM value = 100 }
@@ -129,6 +129,7 @@ country_event = {
 		tag = YNN
 		tag = XBI
 		tag = MGL
+		tag = TIB
 		}
 		}
 

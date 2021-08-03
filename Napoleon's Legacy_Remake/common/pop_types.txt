@@ -1067,12 +1067,7 @@ assimilation_chance = {
 				}
 				NOT = {
 					OR = {
-						has_pop_culture = nilo_saharan
-						has_pop_culture = bantu
-						has_pop_culture = niger_congo_a
-						has_pop_culture = khoisan
-						has_pop_culture = afro_asiatic
-						has_pop_culture = malagasy
+						has_pop_culture = african_minor
 						is_culture_group = arab
 					}
 				}
@@ -1101,12 +1096,7 @@ assimilation_chance = {
 				}
 				NOT = {
 					OR = {
-						has_pop_culture = nilo_saharan
-						has_pop_culture = bantu
-						has_pop_culture = niger_congo_a
-						has_pop_culture = khoisan
-						has_pop_culture = afro_asiatic
-						has_pop_culture = malagasy
+						has_pop_culture = african_minor
 						is_culture_group = arab
 					}
 				}

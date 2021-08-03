@@ -126,70 +126,70 @@ country_event = {
 		name = "EVTOPTA21530"
 		1509 = {
 			any_pop = {
-				reduce_pop = 0.95
+				#reduce_pop = 0.95
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1536 = {
 			any_pop = {
-				reduce_pop = 0.95
+				#reduce_pop = 0.95
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1542 = {
 			any_pop = {
-				reduce_pop = 0.95
+				#reduce_pop = 0.95
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1508 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1515 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1511 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1510 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1575 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1573 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1572 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
@@ -197,21 +197,21 @@ country_event = {
 		XBI = {
 			1561 = {
 				any_pop = {
-					reduce_pop = 0.90
+					#reduce_pop = 0.90
 					militancy = 3
 					consciousness = 3
 				}
 			}
 			2062 = {
 				any_pop = {
-					reduce_pop = 0.90
+					#reduce_pop = 0.90
 					militancy = 3
 					consciousness = 3
 				}
 			}
 			1559 = {
 				any_pop = {
-					reduce_pop = 0.90
+					#reduce_pop = 0.90
 					militancy = 3
 					consciousness = 3
 				}
@@ -220,7 +220,7 @@ country_event = {
 		MGL = {
 			1552 = {
 				any_pop = {
-					reduce_pop = 0.90
+					#reduce_pop = 0.90
 					militancy = 3
 					consciousness = 3
 				}
@@ -255,28 +255,28 @@ country_event = {
 		name = "EVTOPTA21540"
 		1570 = {
 			any_pop = {
-				reduce_pop = 0.95
+				#reduce_pop = 0.95
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1567 = {
 			any_pop = {
-				reduce_pop = 0.95
+				#reduce_pop = 0.95
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1563 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1568 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
@@ -284,63 +284,63 @@ country_event = {
 
 		1564 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1614 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1508 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1515 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1511 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1510 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1575 = {
 			any_pop = {
-				reduce_pop = 0.95
+				#reduce_pop = 0.95
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1573 = {
 			any_pop = {
-				reduce_pop = 0.95
+				#reduce_pop = 0.95
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1572 = {
 			any_pop = {
-				reduce_pop = 0.95
+				#reduce_pop = 0.95
 				militancy = 3
 				consciousness = 3
 			}
@@ -374,21 +374,21 @@ country_event = {
 		name = "EVTOPTA21540"
 		1570 = {
 			any_pop = {
-				reduce_pop = 0.95
+				#reduce_pop = 0.95
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1567 = {
 			any_pop = {
-				reduce_pop = 0.95
+				#reduce_pop = 0.95
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1563 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
@@ -396,7 +396,7 @@ country_event = {
 
 		1568 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
@@ -404,91 +404,91 @@ country_event = {
 
 		1564 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1614 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1508 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1515 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1511 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1510 = {
 			any_pop = {
-				reduce_pop = 0.90
+				#reduce_pop = 0.90
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1575 = {
 			any_pop = {
-				reduce_pop = 0.95
+				#reduce_pop = 0.95
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1573 = {
 			any_pop = {
-				reduce_pop = 0.95
+				#reduce_pop = 0.95
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1572 = {
 			any_pop = {
-				reduce_pop = 0.95
+				#reduce_pop = 0.95
 				militancy = 3
 				consciousness = 3
 			}
 		}
 		1561 = {
 			any_pop = {
-				reduce_pop = 0.98
+				#reduce_pop = 0.98
 				militancy = 1
 				consciousness = 1
 			}
 		}
 		2062 = {
 			any_pop = {
-				reduce_pop = 0.98
+				#reduce_pop = 0.98
 				militancy = 1
 				consciousness = 1
 			}
 		}
 		1559 = {
 			any_pop = {
-				reduce_pop = 0.98
+				#reduce_pop = 0.98
 				militancy = 1
 				consciousness = 1
 			}
 		}
 		1552 = {
 			any_pop = {
-				reduce_pop = 0.98
+				#reduce_pop = 0.98
 				militancy = 1
 				consciousness = 1
 			}

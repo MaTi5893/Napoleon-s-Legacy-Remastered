@@ -2041,11 +2041,11 @@ country_event = {
 
 	trigger = {
 		year = 1885
-		ENG = {
-			NOT = {
-				has_country_flag = empress_of_india
-			}
-		}
+		#ENG = {
+		#	NOT = {
+		#		has_country_flag = empress_of_india
+		#	}
+		#}
 		NOT = { has_country_flag = has_lapsed }
 		vassal_of = ENG
 		ai = yes
