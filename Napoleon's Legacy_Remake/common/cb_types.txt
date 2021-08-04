@@ -52,7 +52,6 @@ annex_core_country
 acquire_state 
 acquire_substate_region
 place_in_the_sun
-demand_for_allies
 colonial_competition
 demand_reperations 
 cut_down_to_size_boxer
@@ -95,6 +94,19 @@ gunboat = {
 	crisis = no
 	
 	can_use = {
+		NOT = { 
+			OR = { 
+				has_country_modifier = neutrality
+				has_country_modifier = generic_neutrality
+			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
+		}
 		NOT = { is_our_vassal = THIS }
 		OR =
 		{
@@ -427,6 +439,19 @@ add_to_sphere = {
 		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
+		NOT = { 
+			OR = { 
+				has_country_modifier = neutrality
+				has_country_modifier = generic_neutrality
+			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
+		}
 		NOT = { has_country_flag = conquerable_1865 }
 		# this = { NOT = { badboy = 1 } }
 		this = { is_greater_power = yes }
@@ -474,6 +499,19 @@ take_from_sphere = {
 	construction_speed = 0.5
 
 	can_use = {
+		NOT = { 
+			OR = { 
+				has_country_modifier = neutrality
+				has_country_modifier = generic_neutrality
+			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
+		}
 		# this = { NOT = { badboy = 1 } }
 		this = { is_greater_power = yes }
 		is_greater_power = yes
@@ -524,6 +562,19 @@ acquire_core_state = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = { 
+			OR = { 
+				has_country_modifier = neutrality
+				has_country_modifier = generic_neutrality
+			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
+		}
 		number_of_states = 2 # annex if you want their last state
 		any_owned_province = {
 			is_core = THIS
@@ -573,6 +624,19 @@ annex_core_country = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = { 
+			OR = { 
+				has_country_modifier = neutrality
+				has_country_modifier = generic_neutrality
+			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
+		}
 		any_owned_province = {
 			is_core = THIS
 		}
@@ -621,6 +685,19 @@ acquire_substate_region = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = { 
+			OR = { 
+				has_country_modifier = neutrality
+				has_country_modifier = generic_neutrality
+			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
+		}
 		# this = { NOT = { badboy = 1 } }
 		num_of_substates = 1 # if has any substate
 		THIS = {
@@ -705,12 +782,6 @@ acquire_state = {
 		any_owned_province = {
 			not = { is_core = THIS }
 			is_colonial = no
-		}
-		NOT = {
-			AND = {
-				THIS = { tag = JAP }
-				tag = CHI
-			}
 		}
 				
 		OR = {
@@ -1168,6 +1239,19 @@ colonial_competition = {
 #	
 #	can_use = {
 #		# this = { NOT = { badboy = 1 } }
+#		NOT = { 
+#			OR = { 
+#				has_country_modifier = neutrality
+#				has_country_modifier = generic_neutrality
+#			}
+#		}
+#		THIS = { NOT = {
+#				OR = {
+#					has_country_modifier = neutrality
+#					has_country_modifier = generic_neutrality
+#				}
+#			 } 
+#		}
 #		is_disarmed = no
 #	}
 #	
@@ -1209,6 +1293,19 @@ demand_reperations = {
 	
 	can_use = {
 	NOT = { has_country_modifier = no_more_war_reperations }
+	NOT = { 
+			OR = { 
+				has_country_modifier = neutrality
+				has_country_modifier = generic_neutrality
+			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
+		}
 	}
 	
 	on_add = {
@@ -1298,10 +1395,17 @@ free_peoples = {
 		   NOT = { year = 1870 }
 		}
 		NOT = { 
-			OR = {
+			OR = { 
 				has_country_modifier = neutrality
 				has_country_modifier = generic_neutrality
 			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
 		}
 		THIS = {
 			civilized = yes
@@ -1394,10 +1498,17 @@ liberate_country = {
 		NOT = { year = 1870 }
 		# this = { NOT = { badboy = 1 } }
 		NOT = { 
-			OR = {
+			OR = { 
 				has_country_modifier = neutrality
 				has_country_modifier = generic_neutrality
 			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
 		}
 		THIS = {
 			civilized = yes
@@ -1504,10 +1615,17 @@ liberate_country_midgame = {
 		NOT = { year = 1900 }
 		# this = { NOT = { badboy = 1 } }
 		NOT = { 
-			OR = {
+			OR = { 
 				has_country_modifier = neutrality
 				has_country_modifier = generic_neutrality
 			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
 		}
 		THIS = {
 			civilized = yes
@@ -1613,10 +1731,17 @@ liberate_country_late = {
 		NOT = { year = 1914 }
 		# this = { NOT = { badboy = 1 } }
 		NOT = { 
-			OR = {
+			OR = { 
 				has_country_modifier = neutrality
 				has_country_modifier = generic_neutrality
 			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
 		}
 		THIS = {
 			civilized = yes
@@ -1721,10 +1846,17 @@ liberate_country_verylate = {
 		year = 1914
 		# this = { NOT = { badboy = 1 } }
 		NOT = { 
-			OR = {
+			OR = { 
 				has_country_modifier = neutrality
 				has_country_modifier = generic_neutrality
 			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
 		}
 		THIS = {
 			civilized = yes
@@ -1752,6 +1884,7 @@ liberate_country_verylate = {
 							tag = SWE
 							tag = ITA
 							tag = AUS
+							#tag = PLC
 							tag = RUT
 						}
 					}
@@ -1816,6 +1949,19 @@ dismantle_forts = {
 	
 	can_use = {
 		# this = { NOT = { badboy = 1 } }
+		NOT = { 
+			OR = { 
+				has_country_modifier = neutrality
+				has_country_modifier = generic_neutrality
+			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
+		}
 	}
 
 	# THIS - us
@@ -1923,6 +2069,19 @@ make_puppet = {
 	
 	can_use = {
 		# this = { NOT = { badboy = 1 } }
+		NOT = { 
+			OR = { 
+				has_country_modifier = neutrality
+				has_country_modifier = generic_neutrality
+			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
+		}
 		OR = {
 			ai = yes
 			year = 1880
@@ -2051,6 +2210,19 @@ humiliate = {
 
 	can_use = {
 		# this = { NOT = { badboy = 1 } }
+		NOT = { 
+			OR = { 
+				has_country_modifier = neutrality
+				has_country_modifier = generic_neutrality
+			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
+		}
 		has_recently_lost_war = no
 	}	
 	on_add = {
@@ -2709,12 +2881,9 @@ great_war_penalty_cb = {
 	months = 0
 	crisis = no
 	
-	constructing_cb = yes
+	constructing_cb = no
 	
-	can_use = {
-		great_wars_enabled = yes
-        war_with = THIS
-    }
+	great_war_obligatory = yes
 	
 	badboy_factor = 1.3
 	prestige_factor = 1.8
@@ -3037,7 +3206,7 @@ negotiated_transfer = {
 	months = 0
 	crisis = no
 
-	badboy_factor = 0.5
+	badboy_factor = 0
 	prestige_factor = 0
 	peace_cost_factor = 0
 	penalty_factor = 0
@@ -3056,7 +3225,7 @@ negotiated_transfer = {
 	can_use = {
 		number_of_states = 2 # annex if you want their last state
 		ai = no
-		THIS = { ai = no } 
+		THIS = { ai = no }
 		THIS = { civilized = yes }
 	}
 	
@@ -3087,87 +3256,6 @@ negotiated_transfer = {
 	}
 }
 
-#Demand For Allies
-demand_for_allies = {
-	sprite_index = 5
-	is_triggered_only = yes
-	months = 12
-	construction_speed = 0.5
-
-	badboy_factor = 1.8
-	prestige_factor = 1
-	peace_cost_factor = 1
-	penalty_factor = 1
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 1
-	break_truce_militancy_factor = 1
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-
-	# THIS - us
-	# FROM - country scope is possible match?
-	# war target country of goal is scope
-
-	can_use = {
-		civilized = yes
-		NOT = { 
-			OR = { 
-				has_country_modifier = neutrality
-				has_country_modifier = generic_neutrality
-			}
-		}
-		NOT = {
-			OR = {
-				tag = THIS
-				has_country_modifier = colonial_40
-				has_country_modifier = colonial_50
-				has_country_modifier = colonial_55
-				has_country_modifier = colonial_60
-				has_country_modifier = colonial_65
-				has_country_modifier = colonial_70
-				has_country_modifier = colonial_75
-			}
-		}
-		number_of_states = 2
-		NOT = {
-			tag = FROM
-			this_culture_union = FROM
-		}
-		FROM = {
-			exists = yes 
-		}
-	}
-
-	# THIS - us
-	# FROM - country scope is possible match?
-	# war target country of goal's state
-	allowed_states = {
-		any_owned_province = {
-			is_colonial = no
-			OR = {
-				NOT = { is_core = FROM }
-				NOT = { is_core = THIS }
-			}	
-		}
-		not = { any_owned_province = { is_capital = yes } }
-	}
-
-	po_transfer_provinces = yes
-	
-	war_name = WAR_FORALLIES_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.1
-		}
-	}
-}
 
 establish_colonial_protectorate_casus_belli = {
 	sprite_index = 7
@@ -3193,7 +3281,12 @@ establish_colonial_protectorate_casus_belli = {
 	always = no
 	
 	can_use = {
-		continent = africa
+		OR = {
+			is_culture_group = west_african
+			is_culture_group = central_african
+			is_culture_group = east_african
+			is_culture_group = southern_african
+		}
 		# this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -3414,6 +3507,19 @@ make_puppet_small = {
 		NOT = { is_our_vassal = THIS }
 		is_greater_power = no
 		is_vassal = no
+		NOT = { 
+			OR = { 
+				has_country_modifier = neutrality
+				has_country_modifier = generic_neutrality
+			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
+		}
   		THIS = {
 			NOT = { has_country_flag = conquerable_1865 }
 		}
@@ -3470,6 +3576,19 @@ make_puppet_large = {
 		OR = {
 			total_pops = 3000000
 			number_of_states = 10
+		}
+		NOT = { 
+			OR = { 
+				has_country_modifier = neutrality
+				has_country_modifier = generic_neutrality
+			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
 		}
 		OR = {
 			ai = yes
@@ -3628,7 +3747,7 @@ demand_concession_casus_belli_player_early = {
 	}
 	
 	allowed_states = {
-		NOT = { any_owned_province = { is_core = CHI }
+		NOT = { any_owned_province = { is_core = CHI } }
 		any_owned_province = {
 			is_colonial = no
 		}
@@ -3702,7 +3821,7 @@ demand_concession_casus_belli_ai_early = {
 	}
 	
 	allowed_states = {
-		NOT = { any_owned_province = { is_core = CHI } } 
+		NOT = { any_owned_province = { is_core = CHI } }
 		any_owned_province = {
 			is_colonial = no
 		}
@@ -4153,7 +4272,6 @@ demand_concession_casus_belli_player_early_for_puppet = {
 		number_of_states = 2
 	}
 	allowed_countries = {
-		#NOT = { any_owned_province = { is_core = CHI } } 
 		NOT = { tag = FROM }
 		OR = {
 			NOT = { alliance_with = FROM }
@@ -4242,7 +4360,6 @@ demand_concession_casus_belli_ai_early_for_puppet = {
 		number_of_states = 2
 	}
 	allowed_countries = {
-		#NOT = { any_owned_province = { is_core = CHI } } 
 		NOT = { tag = FROM }
 		OR = {
 			NOT = { alliance_with = FROM }

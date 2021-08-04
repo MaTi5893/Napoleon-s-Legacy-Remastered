@@ -16,7 +16,6 @@ political_decisions = {
 				duration = 3650
 			}
 			country_event = {id = 9999901 days = 0}
-			country_event = {id = 9999902 days = 3}	
 		}
 	}
 }

@@ -8,7 +8,7 @@ plurality = 25.0
 nationalvalue = nv_liberty
 literacy = 0.50
 civilized = yes
-
+set_country_flag = new_world_nation
 
 #GreaterPowers = prestige
 prestige = 30

@@ -42,6 +42,7 @@ political_decisions = {
 			capital = 2447
 			prestige = 20
 			set_country_flag = moved_capital_to_rio
+			set_country_flag = new_world_nation
 		}
 	}
 }
