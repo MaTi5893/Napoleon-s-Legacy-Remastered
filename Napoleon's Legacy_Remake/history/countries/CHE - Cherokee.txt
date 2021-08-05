@@ -6,7 +6,7 @@ plurality = 5.0
 nationalvalue = nv_liberty
 literacy = 0.50
 civilized = yes
-set_country_flag = new_world_nation
+
 ruling_party = CHE_conservative
 upper_house = {
 	fascist = 0
@@ -17,7 +17,7 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-set_country_flag = new_world_nation
+
 slavery = yes_slavery
 upper_house_composition = state_equal_weight
 vote_franschise = universal_weighted_voting

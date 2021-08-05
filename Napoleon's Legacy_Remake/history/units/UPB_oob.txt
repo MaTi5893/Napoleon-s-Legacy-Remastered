@@ -160,50 +160,6 @@ leader = {
 	prestige = 0.3
 }
 
-army = {
-	name = "I Corpo do exército"
-	location = 2447
-	regiment = {
-		name= "1. Brigada de Infantaria"
-		type = infantry
-		home = 2447
-	}
-
-	regiment = {
-		name= "2. Brigada de Infantaria"
-		type = infantry
-		home = 2450
-	}
-
-	regiment = {
-		name= "3. Brigada de Infantaria"
-		type = infantry
-		home = 2436
-	}
-
-	regiment = {
-		name= "1. Brigada de Cavalaria"
-		type = cuirassier
-		home = 2429
-	}
-}
-
-army = {
-	name = "II Corpo do exército"
-	location = 2463
-	regiment = {
-		name= "4. Brigada de Infantaria"
-		type = infantry
-		home = 2463
-	}
-
-	regiment = {
-		name= "5. Brigada de Infantaria"
-		type = infantry
-		home = 2457
-	}
-
-}
 CHI = {
 	value = 125		#relation
 }
@@ -277,6 +233,70 @@ army = {
 		name = "3. Divisão Colonial"
 		type = artillery
 		home = 1303
+	}
+}
+
+army = {
+	name = "I Corpo do exército"
+	location = 2447
+	regiment = {
+		name= "1. Brigada de Infantaria"
+		type = infantry
+		home = 2447
+	}
+
+	regiment = {
+		name= "2. Brigada de Infantaria"
+		type = infantry
+		home = 2450
+	}
+
+	regiment = {
+		name= "3. Brigada de Infantaria"
+		type = infantry
+		home = 2436
+	}
+
+	regiment = {
+		name= "1. Brigada de Cavalaria"
+		type = hussar
+		home = 2429
+	}
+	
+	regiment = {
+		name= "4. Brigada de Infantaria"
+		type = infantry
+		home = 2463
+	}
+
+	regiment = {
+		name= "1. Divisão Colonial"
+		type = artillery
+		home = 2457
+	}
+
+	regiment = {
+		name= "2. Divisão Colonial"
+		type = artillery
+		home = 2447
+	}
+	
+	regiment = {
+		name= "3. Divisão Colonial"
+		type = artillery
+		home = 2441
+	}
+
+	regiment = {
+		name= "4. Divisão Colonial"
+		type = artillery
+		home = 2447
+	}
+
+	regiment = {
+		name= "5. Divisão Colonial"
+		type = artillery
+		home = 2447
 	}
 }
 

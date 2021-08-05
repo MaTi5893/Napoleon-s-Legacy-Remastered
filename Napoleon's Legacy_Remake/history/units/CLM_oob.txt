@@ -1,33 +1,97 @@
 army = {
-	name = "Ejército de Colombia"
+	name = "Ejército de Gran Colombia"
 	location = 2253
 	regiment = {
-		name= "1. Brigada de Infantería"
+		name= "1. Brigada de Infanteria"
 		type = infantry
 		home = 2247
 	}
 
 	regiment = {
-		name= "2. Brigada de Infantería"
+		name= "2. Brigada de Infanteria"
 		type = infantry
 		home = 2252
 	}
 
 	regiment = {
-		name= "3. Brigada de Infantería"
+		name= "3. Brigada de Infanteria"
 		type = infantry
 		home = 2254
 	}
 
 	regiment = {
-		name= "4. Brigada de Infantería"
+		name= "4. Brigada de Infanteria"
 		type = infantry
-		home = 225
+		home = 2256
 	}
 	
 	regiment = {
-		name= "1. Brigada de Caballería"
+		name= "1. Brigada de Caballeria"
 		type = hussar
 		home = 2250
+	}
+	
+	regiment = {
+		name= "1. Brigada de Artilleria"
+		type = artillery
+		home = 2247
+	}
+	
+	regiment = {
+		name= "2. Brigada de Artilleria"
+		type = artillery
+		home = 2247
+	}
+	
+	regiment = {
+		name= "3. Brigada de Artilleria"
+		type = artillery
+		home = 2247
+	}
+	
+	regiment = {
+		name= "4. Brigada de Artilleria"
+		type = artillery
+		home = 2279
+	}
+	
+	regiment = {
+		name= "5. Brigada de Artilleria"
+		type = artillery
+		home = 2271
+	}
+}
+
+army = {
+	name = "2. Ejército de Gran Colombia"
+	location = 2274
+	regiment = {
+		name= "5. Brigada de Infanteria"
+		type = infantry
+		home = 2264
+	}
+
+	regiment = {
+		name= "6. Brigada de Infanteria"
+		type = infantry
+		home = 2269
+	}
+
+	regiment = {
+		name= "7. Brigada de Infanteria"
+		type = infantry
+		home = 2268
+	}
+
+	regiment = {
+		name= "8. Brigada de Infanteria"
+		type = infantry
+		home = 2255
+	}
+	
+	regiment = {
+		name= "2. Brigada de Caballeria"
+		type = hussar
+		home = 2271
 	}
 }

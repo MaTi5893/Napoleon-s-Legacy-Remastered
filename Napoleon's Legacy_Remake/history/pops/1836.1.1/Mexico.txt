@@ -1885,25 +1885,25 @@
 	}
 
 	clergymen = {
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size = 1800
 	}
 
 	soldiers = {
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size = 375
 	}
 
 	farmers = {
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size = 33650
 	}
@@ -1941,25 +1941,25 @@
 	}
 
 	clergymen = {
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size = 7425
 	}
@@ -2293,25 +2293,25 @@
 	}
 
 	clergymen = {
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size = 4500
 	}
 
 	soldiers = {
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size = 700
 	}
 
 	farmers = {
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size = 65450
 	}
@@ -2349,25 +2349,25 @@
 	}
 
 	clergymen = {
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = zapotec
+		culture = mexican
 		religion = catholic
 		size = 18700
 	}
@@ -2419,25 +2419,25 @@
 	}
 
 	clergymen = {
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size = 1050
 	}
 
 	soldiers = {
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size = 225
 	}
 
 	farmers = {
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size = 19625
 	}
@@ -2475,25 +2475,25 @@
 	}
 
 	clergymen = {
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size = 550
 	}
 
 	soldiers = {
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = tarascan
+		culture = mexican
 		religion = catholic
 		size = 10275
 	}
