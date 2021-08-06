@@ -1,11 +1,7 @@
 owner = DEN
 controller = DEN
-<<<<<<< Updated upstream
-add_core = HND
-=======
-add_core = HYD
 #add_core = HND
->>>>>>> Stashed changes
+add_core = HYD
 trade_goods = precious_metal
 life_rating = 35
 colonial = 2
