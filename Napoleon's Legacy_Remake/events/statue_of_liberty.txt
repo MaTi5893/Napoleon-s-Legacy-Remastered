@@ -64,6 +64,13 @@ country_event = {
 			country_event = { id=19300 days=0 }
 		}
 	}
+
+	option = {
+		name = "United Kingdom of Portugal and Brazil"
+		UPB = { 
+			country_event = { id=19300 days=0 } 
+		} 
+	}
 	
 	option = {
 		name = "Nevermind."
