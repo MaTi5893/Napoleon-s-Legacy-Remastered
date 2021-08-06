@@ -1430,6 +1430,8 @@ free_peoples = {
 							tag = SCA
 							tag = ITA
 							tag = YUG
+							tag = ROM 
+							tag = CZH
 						}
 					}
 				}
