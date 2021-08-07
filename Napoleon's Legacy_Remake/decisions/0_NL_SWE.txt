@@ -14,6 +14,7 @@ political_decisions = {
 		allow = {
 			owns = 349
         		war_policy = jingoism
+			NOT = { accepted_culture = latvian } 
 		}
 		effect = {
 			prestige = 20
@@ -29,7 +30,6 @@ political_decisions = {
 			badboy = 15
 			add_accepted_culture = estonian
 			add_accepted_culture = latvian
-			NOT = { accepted_culture = latvian } 
 		}
 	}
 }

@@ -74,9 +74,9 @@ political_decisions = {
 			TUR_863 = {
 				add_core = GRE
 			}
-			TUR_869 = {
-				add_core = GRE
-			}
+			#TUR_869 = {
+				#add_core = GRE
+			#}
 			TUR_884 = {
 				add_core = GRE
 			}
@@ -101,9 +101,9 @@ political_decisions = {
 				military_score = 250
 			}
 			GRE_837 = { owned_by = THIS } #Attica
-			GRE_826 = { owned_by = THIS } #Peleponnese
-			TUR_832 = { owned_by = THIS } #Thessalia
-			EGY_843 = { owned_by = THIS } #Aegean Islands
+			#GRE_826 = { owned_by = THIS } #Peleponnese
+			#TUR_832 = { owned_by = THIS } #Thessalia
+			#EGY_843 = { owned_by = THIS } #Aegean Islands
 			TUR_805 = { owned_by = THIS } #Macedonia
 			TUR_860 = { owned_by = THIS } #Thrace
 			TUR_863 = { owned_by = THIS } #Hudavendigar
@@ -128,9 +128,9 @@ political_decisions = {
 				add_core = BYZ
 				remove_core = TUR
 			}
-			#TUR_860 = {
-			#	remove_core = TUR
-			#}
+			GRE_837 = {
+				remove_core = TUR
+			}
 			prestige = 40
 			badboy = -10
 		}
