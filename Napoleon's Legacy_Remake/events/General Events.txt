@@ -44,6 +44,7 @@ country_event = {
 			tag = MEX
 			tag = SIA
 			tag = PLC
+			tag = UPB
 			has_leader = "John Cena"
 		}
 	}
@@ -383,7 +384,7 @@ country_event = {
 
 #Spain
 country_event = {
-	id = 600010
+	id = 600026
 	allow_multiple_instances = yes
 	trigger = {
 	ai = no
@@ -672,7 +673,7 @@ country_event = {
 	ai = no
 	OR = {
 		tag = POR
-		tag = PBA
+		tag = UPB
 	}
 	NOT = {has_leader = "Fernando Tamagnini de Abreu"}
 	}
@@ -839,7 +840,7 @@ country_event = {
 }
 #PLC chungus
 country_event = {
-	id = 600025
+	id = 600026
 	allow_multiple_instances = yes
 	trigger = {
 	ai = no
