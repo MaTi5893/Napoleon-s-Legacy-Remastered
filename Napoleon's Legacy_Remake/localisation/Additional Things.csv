@@ -24,8 +24,8 @@ infamy_for_growth_modifier_removal_desc;Cancel the current ongoing growth campai
 #############################################;x
 #Additional Events;x
 #############################################;x
-ottoman_canals_title;Build Bosphorus and Dardanelles Canals;;;;;;;;;x
-ottoman_canals_desc;This is a necessary event to have both of these canals become functional.;;;;;;;;;x
+ottoman_canals_title;Build Bosphorus and Dardanelles Canals;x
+ottoman_canals_desc;This is a necessary event to have both of these canals become functional.;x
 776405;Chinese Pop Nerf;x
 776407;Indian Pop Nerf;x
 EVTDESC776405;China and India get nerfs to their large population to help with balance & late-game lag.;x
@@ -72,7 +72,7 @@ rgo_changed;RGO Change Cooldown;x
 rgo_changed_title;RGO Change Cooldown;x
 rgo_changed_desc;You have recently taken a decision to change a RGO, you must wait a while before doing so again.;x
 switched_production;Switched Production;x
-switched_production_desc;The province has just switched its major production, and locals are still acclimatizing to the change.;x,,,
+switched_production_desc;The province has just switched its major production, and locals are still acclimatizing to the change.;x,
 player_unciv_mobilization;Player Controlled Uncivilized Nation;x
 developing_bioweapons;Bioweapons in Development;x
 developing_bioweapons_desc;After this modifier runs down you will have access to a decision while at war to deploy the Solomon Virus.;x

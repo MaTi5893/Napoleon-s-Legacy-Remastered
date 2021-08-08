@@ -95,5 +95,5 @@ finish_what_we_started_title;Finish what we Started!;x
 finish_what_we_started_desc;With our nation sufficiently prepared against the English  with the power of Big Chungus, now is the best time to strike. Let us liberate the people of Kernow and Manning!           §YResearching Nationalism and Imperialism allows you to discover Manifest Destiny.§!;x
 recover_brittany_title;Recover Brittany!;x
 recover_brittany_desc;Brittany had endured under the French boot for hundreds of years. With our status as a formidable European power confirmed, the first step to helping the Bretons is to assert our claim on the Peninsula.;x
-NORMAL_WAR_CONQUEST_NAME;$ORDER$Conquest of $SECOND_COUNTRY$;$ORDER$$FIRST$ conquête de la $SECOND_COUNTRY$ guerre;$ORDER$Eroberung von $SECOND$em Land;;$ORDER$Guerra de Conquista $SECOND$;;;;;;;;;x;
-cut_down_to_size_desc;Force another §Ycountry§W to disarm;Obliger un autre §Ypays§W à se désarmer et à nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrüstung und zu Reparationszahlungen an uns.;;Obligar a otro §Ypaís§W a desarmarse y que nos indemnice;;;;;;;;;x
+NORMAL_WAR_CONQUEST_NAME;$ORDER$Conquest of $SECOND_COUNTRY$;$ORDER$$FIRST$ conquête de la $SECOND_COUNTRY$ guerre;$ORDER$Eroberung von $SECOND$em Land;;$ORDER$Guerra de Conquista $SECOND$;x
+cut_down_to_size_desc;Force another §Ycountry§W to disarm;Obliger un autre §Ypays§W à se désarmer et à nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrüstung und zu Reparationszahlungen an uns.;;Obligar a otro §Ypaís§W a desarmarse y que nos indemnice;x
