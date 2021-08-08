@@ -384,7 +384,7 @@ country_event = {
 
 #Spain
 country_event = {
-	id = 600026
+	id = 600027
 	allow_multiple_instances = yes
 	trigger = {
 	ai = no

@@ -12,44 +12,6 @@ state_of_emergency = {
 	icon = 15
 }
 
-zombie_outbreak = {
-	immigrant_attract = -1.0
-	pop_consciousness_modifier = -0.3
-	pop_militancy_modifier = 1.0
-	population_growth = -0.020
-	icon = 20
-}
-
-do_not_annex = {
-	immigrant_attract = -.001
-	icon = 20
-}
-
-accepts_new_provinces = {
-	immigrant_attract = -.001
-	icon = 20
-}
-
-##### Weapons of Mass Destruction #####
-
-developing_bioweapons = {
-	tax_efficiency = -0.15
-	tariff_efficiency_modifier = -0.05
-	badboy = 0.1
-	icon = 15
-}
-
-experimental_bioweapon = {
-	prestige = 1
-	badboy = 0.1
-	icon = 15
-}
-
-bioweapon_cooldown = {
-	badboy = 0.2
-	icon = 16
-}
-
 ##### POLITICAL EVENTS ######
 government_sanitarium = {
 	population_growth = 0.005
@@ -101,21 +63,6 @@ cholera_epidemic_big = {
 	icon = 20
 }
 
-conservative_reaction = {
-	pop_consciousness_modifier = 0.01
-	icon = 4
-}
-
-liberal_reaction = {
-	pop_consciousness_modifier = 0.01
-	icon = 4
-}
-
-national_tragedy = {
-	pop_consciousness_modifier = 0.01
-	icon = 15
-}
-
 ##### CIVILIZATION AND GUNBOATS #####
 western_influences = {
 	global_pop_militancy_modifier = 0.01
@@ -149,22 +96,6 @@ foreign_trading_post = {
 	middle_life_needs = -0.1
 	rich_life_needs = -0.1
 	icon = 11
-}
-
-silk_famine = {
-	farm_rgo_eff = -0.5
-	icon = 14
-}
-
-dissatisfied_workers = {
-	farm_rgo_eff = -0.25
-	mine_rgo_eff = -0.25
-	icon = 20
-}
-
-naval_school = {
-	research_points_modifier = 0.01
-	icon = 17
 }
 
 trade_restrictions = {
@@ -236,93 +167,6 @@ female_suffrage = {
 	rich_vote = -0.01
 	core_pop_militancy_modifier = -0.02
 	icon = 7
-}
-
-##### SOCIALISM AND FACISM #####
-
-labor_union = {
-	core_pop_consciousness_modifier = 0.05
-	farm_rgo_eff = 0.05
-	mine_rgo_eff = 0.05
-	icon = 4
-}
-
-militant_trade_union = {
-	core_pop_militancy_modifier = 0.05
-	farm_rgo_eff = 0.05
-	mine_rgo_eff = 0.05
-	icon = 4
-}
-
-worker_union = {
-	poor_everyday_needs = -0.1
-	farm_rgo_eff = -0.05
-	mine_rgo_eff = -0.05
-	pop_militancy_modifier = 0.2
-	icon = 4
-}
-
-strike_solution = {
-	farm_rgo_eff = 0.25
-	mine_rgo_eff = 0.25
-	icon = 4
-}
-
-province_strike = {
-	pop_militancy_modifier = 0.2
-	icon = 4
-}
-
-may_day = {
-	farm_rgo_eff = -0.1
-	mine_rgo_eff = -0.1
-	pop_militancy_modifier = -0.2
-	icon = 4
-}
-
-national_workshops = {
-	farm_rgo_eff = -0.02
-	mine_rgo_eff = -0.02
-	prestige = 0.02
-	icon = 13
-}
-
-worker_revolt = {
-	farm_rgo_eff = -0.2
-	mine_rgo_eff = -0.2
-	icon = 20
-}
-
-black_shirts = {
-	pop_militancy_modifier = 0.4
-	icon = 18
-}
-
-free_corps = {
-	pop_militancy_modifier = 0.2
-	icon = 18
-}
-
-am_everywhere = {
-	prestige = 0.01
-	icon = 16
-}
-
-the_massacre = {
-	poor_everyday_needs = -0.2
-	population_growth = -0.01
-	icon = 18
-}
-fascist_welfare = {
-	poor_everyday_needs = -0.1
-	population_growth = 0.001
-	icon = 12
-}
-
-beer_hall_putsch = {
-	population_growth = -0.001	
-	pop_militancy_modifier = 0.2
-	icon = 18
 }
 
 ##### Civilization & Gunboats #####
@@ -398,12 +242,6 @@ underground_railroad = {
 	icon = 4
 }
 
-abolitionist_society = {
-	pop_militancy_modifier = 0.01
-	pop_consciousness_modifier = 0.025
-	icon = 8
-}
-
 knights_of_the_golden_circle = {
 	pop_consciousness_modifier = 0.1
 	pop_militancy_modifier = 0.1
@@ -445,10 +283,6 @@ the_bonnie_blue_flag = {
 }
 
 ##### WORKPLACE EVENTS #####
-silk_famine = {
-	farm_rgo_eff = -0.5
-	icon = 14
-}
 
 blood_and_iron_mine = {
 	mine_rgo_eff = 1.25
@@ -548,11 +382,6 @@ the_statue_of_liberty = {
 	global_immigrant_attract = 0.30	#30% was 200%
 	global_assimilation_rate = 0.25
 	icon = 15
-}
-
-the_congo_reform_association = {
-	badboy = 0.2
-	icon = 17
 }
 
 ### GER - GERMANY, PRU - PRUSSIA ###
@@ -1127,29 +956,6 @@ core_integration = {
 	assimilation_rate = 0.1
 	pop_consciousness_modifier = 0.05
 	non_accepted_pop_consciousness_modifier = 0.01
-	icon = 7
-}
-
-national_assimilation = {
-	assimilation_rate = 0.1
-	icon = 7
-}
-
-national_assimilation_rejection = {
-	assimilation_rate = -0.2
-	immigrant_attract = -0.1
-	pop_militancy_modifier = 0.1
-	non_accepted_pop_militancy_modifier = 0.01
-	icon = 18
-}
-
-national_assimilation_acceptance = {
-	pop_consciousness_modifier = 0.05
-	non_accepted_pop_consciousness_modifier = 0.01
-	icon = 17
-}
-
-national_assimilation_complete = {
 	icon = 7
 }
 

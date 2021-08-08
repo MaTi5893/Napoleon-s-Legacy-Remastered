@@ -148,7 +148,7 @@ country_event = {
 		name = "EVTOPTA13015"
 		casus_belli = {
 			target = FROM
-			type = cut_down_to_size
+			type = demand_reperations
 			months = 12
 		}
 		relation = {
@@ -1352,7 +1352,7 @@ country_event = {
 		prestige = 5
 		casus_belli = {
 			target = FROM
-			type = cut_down_to_size
+			type = demand_reperations
 			months = 12
 		}
 	}
@@ -1362,7 +1362,7 @@ country_event = {
 		prestige = 5
 		casus_belli = {
 			target = FROM
-			type = cut_down_to_size
+			type = demand_reperations
 			months = 12
 		}
 		war = {
@@ -1521,7 +1521,7 @@ country_event = {
 		}
 		casus_belli = {
 			target = FROM
-			type = cut_down_to_size
+			type = demand_reperations
 			months = 12
 		}
 		war = {
@@ -2008,28 +2008,28 @@ country_event = {
 }
 
 #Boxers Burn something
-country_event = {
-	id = 13356
-	title = "EVTNAME13356"
-	desc = "EVTDESC13356"
-	news = yes
-	news_desc_long = "EVTDESC13356_NEWS_LONG"
-	news_desc_medium = "EVTDESC13356_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC13356_NEWS_SHORT"
-	picture = "Rebellion"
-
-	is_triggered_only = yes
-
-	option = {
-		name = "EVTOPTA13356"
-		prestige = -5
-		casus_belli = {
-			target = FROM
-			type = cut_down_to_size_boxer
-			months = 12
-		}
-	}
-}
+#country_event = {
+#	id = 13356
+#	title = "EVTNAME13356"
+#	desc = "EVTDESC13356"
+#	news = yes
+#	news_desc_long = "EVTDESC13356_NEWS_LONG"
+#	news_desc_medium = "EVTDESC13356_NEWS_MEDIUM"
+#	news_desc_short = "EVTDESC13356_NEWS_SHORT"
+#	picture = "Rebellion"
+#
+#	is_triggered_only = yes
+#
+#	option = {
+#		name = "EVTOPTA13356"
+#		prestige = -5
+#		casus_belli = {
+#			target = FROM
+#			type = cut_down_to_size_boxer
+#			months = 12
+#		}
+#	}
+#}
 
 #Doctrine of Lapse 1/2
 country_event = {

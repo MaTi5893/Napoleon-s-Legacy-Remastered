@@ -104,7 +104,7 @@ political_decisions = {
 				relation = { who = THIS value = -200 }
 				casus_belli = {
 					target = THIS
-					type = cut_down_to_size
+					type = cut_down_to_size_boxer
 					months = 60
 				}
 			}

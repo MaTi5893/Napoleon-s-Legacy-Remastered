@@ -129,6 +129,11 @@
 1327;1592;impassable;0;0;scary mountain
 1328;1592;impassable;0;0;scary mountain
 
+#Impassable - Lichtenstein
+3252;614;impassable;0;0;Host Nation
+3252;603;impassable;0;0;Host Nation
+3252;611;impassable;0;0;Host Nation
+
 #Hengduan Mountains
 1339;1593;impassable;0;0;Haka-Tawang
 1341;1593;impassable;0;0;Putao-Tawang

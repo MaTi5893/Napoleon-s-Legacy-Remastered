@@ -91,7 +91,7 @@ country_event = {
 			}
 			add_casus_belli = {
 				target = THIS
-				type = cut_down_to_size
+				type = cut_down_to_size_boxer
 				months = 12
 			}
 			relation = {
@@ -462,7 +462,7 @@ country_event = {
 			}
 			add_casus_belli = {
 				target = THIS
-				type = cut_down_to_size
+				type = cut_down_to_size_boxer
 				months = 6
 			}
 		}

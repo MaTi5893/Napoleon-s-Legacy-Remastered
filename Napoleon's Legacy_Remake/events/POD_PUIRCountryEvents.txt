@@ -201,7 +201,7 @@ country_event = {
 			}
 			casus_belli = {
 				target = FROM
-				type = cut_down_to_size
+				type = cut_down_to_size_boxer
 				months = 12
 			}
 			relation = {

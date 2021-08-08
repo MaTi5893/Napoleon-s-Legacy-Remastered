@@ -158,33 +158,4 @@ political_decisions = {
 		}
 	}
 	
-	#the_gibraltar_question = {
-	#	potential = {
-	#		tag = SPA
-	#		NOT = {
-	#			has_country_flag = has_questioned_gibraltar
-	#		}
-	#		OR = {
-	#			is_greater_power = yes
-	#			owns = 517
-	#		}
-	#	}
-	#	
-	#	allow = {
-	#		OR = {
-	#			owns = 517
-	#			AND = {
-	#				is_greater_power = yes
-	#				nationalism_n_imperialism = 1
-	#			}
-	#		}
-	#	}
-	#	
-	#	effect = {
-	#		517 = {
-	#			add_core = SPA
-	#		}
-	#		set_country_flag = has_questioned_gibraltar
-	#	}
-	#}
 }
