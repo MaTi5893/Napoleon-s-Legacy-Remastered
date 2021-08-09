@@ -238,14 +238,14 @@ recover_homeland = {
 			OR = {
 				tag = ICF
 				tag = CHE
-				tag = MTC
+				#tag = MTC
 			}
 		}
 		THIS = {
 			OR = {
 				tag = ICF
 				tag = CHE
-				tag = MTC
+				#tag = MTC
 			}
 		}
 		neighbour = THIS
