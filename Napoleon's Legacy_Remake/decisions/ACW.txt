@@ -73,7 +73,7 @@ political_decisions = {
 				}
 				casus_belli = {
 					target = USA
-					type = cut_down_to_size
+					type = cut_down_to_size_boxer
 					months = 24
 				}
 			}
