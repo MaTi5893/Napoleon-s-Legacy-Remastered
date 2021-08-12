@@ -132,11 +132,11 @@ SPA_474 = { 474 476 } #this is just Galicia - so Portugal can take it
 
 
 
-SPA_477 = { 477 479 480 481 482 483 486 } #leon
+SPA_477 = { 477 479 480 481 482 483 486 475 478 } #Leon-Castilla-Galicia
 
 
 
-SPA_492 = { 492 493 494 495 496 497 475 478 } #Navarra + Asturias 
+SPA_492 = { 492 493 494 495 496 497 } #Vasconia-Aragon
 
 
 
@@ -992,7 +992,7 @@ PRU_553 = { 553 554 555 556 557 } #Magdeburg
 
 PRU_690 = { 690 693 691 } #Westpreussen
 
-PRU_695 = { 695 697 698 693 696 } #Ostpreussen
+PRU_695 = { 695 697 698 696 } #Ostpreussen
 
 PRU_572 = { 570 571 572 573 574 } #Rheinland
 

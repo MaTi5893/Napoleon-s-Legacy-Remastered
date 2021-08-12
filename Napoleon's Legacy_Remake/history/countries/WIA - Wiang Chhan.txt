@@ -17,9 +17,7 @@ upper_house = {
 	communist = 0
 }
 
-1861.1.1 = {
-	oob = "/1861/WIA_oob.txt"
-}
+
 
 slavery = no_slavery
 upper_house_composition = appointed

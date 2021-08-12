@@ -69,11 +69,4 @@ mechanical_production = 1
 romanticism = 1
 practical_steam_engine = 1
 
-1861.1.1 = {
-	oob = "/1861/DZG_oob.txt"
-}
-1861.1.1 = {
-# Technologies
 
-#Inventions
-}

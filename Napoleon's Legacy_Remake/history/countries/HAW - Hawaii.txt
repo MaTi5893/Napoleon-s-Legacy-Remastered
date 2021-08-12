@@ -40,18 +40,3 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-1861.1.1 = {
-	oob = "/1861/HAW_oob.txt"
-	literacy = 0.83
-
-	#Economic Reforms
-	land_reform = yes_land_reform
-	admin_reform = yes_admin_reform
-	
-	#Military Reforms
-	foreign_weapons = yes_foreign_weapons
-
-	#Technologies
-	water_wheel_power = 1
-	flintlock_rifles = 1
-}

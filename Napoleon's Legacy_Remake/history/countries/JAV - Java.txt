@@ -16,9 +16,7 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-1861.1.1 = {
-	oob = "/1861/JAV_oob.txt"
-}
+
 
 
 slavery = no_slavery

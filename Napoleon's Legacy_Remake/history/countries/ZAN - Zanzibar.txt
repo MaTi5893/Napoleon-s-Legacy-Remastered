@@ -40,14 +40,3 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-1861.1.1 = {
-	oob = "/1861/ZAN_oob.txt"
-	literacy = 0.15
-	non_state_culture_literacy = 0.05
-
-	#Military Reforms
-	foreign_weapons = yes_foreign_weapons
-	
-	#Technologies
-	flintlock_rifles = 1
-}

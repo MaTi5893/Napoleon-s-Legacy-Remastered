@@ -22,9 +22,6 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "TUN_oob.txt"
-1861.1.1 = {
-	oob = "/1861/TUN_oob.txt"
-}
 
 
 slavery = yes_slavery

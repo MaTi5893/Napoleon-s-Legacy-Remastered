@@ -708,7 +708,15 @@ political_decisions = {
 				has_country_flag = hawaii_annexed
 			}
 			exists = HAW
-			tag = USA
+			OR = { 
+				tag = USA
+				tag = ENG	
+				tag = JAP 
+				AND = { 
+					tag = GBR 
+					owns = 13
+				}
+			}
 			is_sphere_leader_of = HAW
 			HAW = { ai = yes }
 		}

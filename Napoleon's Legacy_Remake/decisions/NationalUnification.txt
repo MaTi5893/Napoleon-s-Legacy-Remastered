@@ -846,7 +846,7 @@ unite_moldavia_wallachia = {
                             owner = { in_sphere = THIS }
                             province_id = 2131
 			    province_id = 2133
-			    region = BRZ_2467
+			    region = BRZ_2463
                         }
                     }
                 }
@@ -867,7 +867,7 @@ unite_moldavia_wallachia = {
             #916 = { remove_core = LPL }  #I don't get why these remove_cores exist
            #2305 = { remove_core = LPL }  #so I removed them 
            #2309 = { remove_core = LPL }
-           #2420 = { remove_core = LPL }
+           2420 = { remove_core = LPL }	  #Except this one, don't want Mato Grosso to be Argentine
         }
 
         ai_will_do = { factor = 1 }

@@ -23,9 +23,7 @@ nonstate_consciousness = 0
 
 oob = "SIN_oob.txt"
 
-1861.1.1 = {
-	oob = "/1861/SIN_oob.txt"
-}
+
 
 slavery = no_slavery
 upper_house_composition = appointed

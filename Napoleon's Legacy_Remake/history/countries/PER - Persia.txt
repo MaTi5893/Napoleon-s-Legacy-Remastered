@@ -49,21 +49,3 @@ flintlock_rifles = 1
 
 oob = "PER_oob.txt"
 
-1851.1.1 = {
-	decision = establish_the_dar_al_funun
-}
-
-1861.1.1 = {
-	oob = "/1861/PER_oob.txt"
-	literacy = 0.12
-	non_state_culture_literacy = 0.12
-
-	#Economic Reforms
-	land_reform = yes_land_reform
-	finance_reform = yes_finance_reform
-	education_reform = yes_education_reform
-
-	#Military Reforms
-	foreign_weapons = yes_foreign_weapons
-	foreign_training = yes_foreign_training
-}

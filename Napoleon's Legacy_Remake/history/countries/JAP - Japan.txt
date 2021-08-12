@@ -22,28 +22,7 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "JAP_oob.txt"
-1861.1.1 = {
-	oob = "/1861/JAP_oob.txt"
-}
-1861.1.1 = {
-# Technologies
-	post_napoleonic_thought = 1
-	flintlock_rifles = 1
-	bronze_muzzle_loaded_artillery = 1
-	post_nelsonian_thought = 1
 
-	clipper_design = 1
-	
-	admin_reform = yes_admin_reform
-	finance_reform = finance_reform_two
-	education_reform = yes_education_reform
-	
-	foreign_training = yes_foreign_training
-	foreign_weapons = yes_foreign_weapons
-	foreign_naval_officers = yes_foreign_naval_officers
-	foreign_navies = yes_foreign_navies
-
-}
 
 slavery = no_slavery
 upper_house_composition = appointed

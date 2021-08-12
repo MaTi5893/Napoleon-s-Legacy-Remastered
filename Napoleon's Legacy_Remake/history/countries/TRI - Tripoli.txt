@@ -24,9 +24,7 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "TRI_oob.txt"
-1861.1.1 = {
-	oob = "/1861/TRI_oob.txt"
-}
+
 slavery = yes_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
