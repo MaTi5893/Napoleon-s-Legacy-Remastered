@@ -205,7 +205,8 @@ political_decisions = {
 			tag = ETH
 			government = absolute_monarchy
 			NOT = {
-				has_country_flag = is_negusa_nagast
+				ETH_1864 = { is_core = ETH } 
+				ITA_1848 = { is_core = ETH }
 			}
 		}
 		
@@ -217,9 +218,6 @@ political_decisions = {
 		}
 		
 		effect = {
-			set_country_flag = is_negusa_nagast
-			add_accepted_culture = tigray
-			add_accepted_culture = sidama
 			any_pop = {
 				militancy = -1
 			}
