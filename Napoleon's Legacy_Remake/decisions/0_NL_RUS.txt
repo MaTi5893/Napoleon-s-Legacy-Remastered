@@ -24,6 +24,7 @@ political_decisions = {
 			add_core = 954
 			add_core = 961
 			add_core = 958
+			add_core = 354
 			badboy = 10
 			set_country_flag = repartition_poland_RUS
 		}
