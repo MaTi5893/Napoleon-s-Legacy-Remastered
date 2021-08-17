@@ -271,7 +271,7 @@
     soldiers = {
         culture = byelorussian
         religion = orthodox
-        size = 1034
+        size = 2001
     }
 
     farmers = {
@@ -313,7 +313,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 94
+        size = 2557
     }
 
     farmers = {
@@ -332,12 +332,6 @@
         culture = byelorussian
         religion = catholic
         size = 752
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = catholic
-        size = 141
     }
 
     farmers = {
@@ -361,7 +355,7 @@
     soldiers = {
         culture = ukrainian
         religion = orthodox
-        size = 282
+        size = 1986
     }
 
     farmers = {
@@ -382,154 +376,10 @@
         size = 1222
     }
 
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 117
-    }
-
     farmers = {
         culture = ashkenazi
         religion = jewish
         size = 8930
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 8
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 24
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 66
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 869
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 117
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 27
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 11
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 9
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 30
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 6
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 281
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = catholic
-        size = 8
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = catholic
-        size = 48
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = catholic
-        size = 9
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = catholic
-        size = 896
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = orthodox
-        size = 18
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = orthodox
-        size = 66
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = orthodox
-        size = 18
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = orthodox
-        size = 1704
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 5
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 78
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 8
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 570
     }
 }
 #Pinsk (276000/69000 POPS)

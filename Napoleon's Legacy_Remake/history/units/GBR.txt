@@ -216,7 +216,7 @@ army = {
 	}
 
 	regiment = {
-		name= "Royal Dragoons"
+		name= "Dragoons"
 		type = artillery
 		home = 294
 	}
@@ -278,6 +278,133 @@ army = {
 		name= "3.3rd Division"
 		type = infantry
 		home = 277
+	}
+}
+
+army = {
+	name = "2nd Corps"
+	location = 277
+	regiment = {
+		name= "Light Brigade"
+		type = hussar
+		home = 267 
+	}
+
+	regiment = {
+		name= "Dragoons"
+		type = artillery
+		home = 266
+	}
+
+	regiment = {
+		name= "Heavy Brigade"
+		type = artillery
+		home = 268
+	}
+
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 270
+	}
+
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 269
+	}
+
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 271
+	}
+
+	regiment = {
+		name= "1.2nd Division"
+		type = infantry
+		home = 271
+	}
+
+	regiment = {
+		name= "2.2nd Division"
+		type = infantry
+		home = 280
+	}
+
+	regiment = {
+		name= "3.2nd Division"
+		type = infantry
+		home = 277
+	}
+	
+	regiment = {
+		name= "3.3rd Division"
+		type = infantry
+		home = 281
+	}
+}
+army = {
+	name = "3rd Corps"
+	location = 286
+	regiment = {
+		name= "Light Brigade"
+		type = hussar
+		home = 284
+	}
+
+	regiment = {
+		name= "Dragoons"
+		type = artillery
+		home = 284
+	}
+
+	regiment = {
+		name= "Heavy Brigade"
+		type = artillery
+		home = 286
+	}
+
+	regiment = {
+		name= "1.1st Division"
+		type = artillery
+		home = 302
+	}
+
+	regiment = {
+		name= "2.1st Division"
+		type = artillery
+		home = 301
+	}
+
+	regiment = {
+		name= "3.1st Division"
+		type = artillery
+		home = 303
+	}
+
+	regiment = {
+		name= "1.2nd Division"
+		type = infantry
+		home = 297
+	}
+
+	regiment = {
+		name= "2.2nd Division"
+		type = infantry
+		home = 298
+	}
+
+	regiment = {
+		name= "3.2nd Division"
+		type = infantry
+		home = 299
+	}
+	
+	regiment = {
+		name= "3.3rd Division"
+		type = infantry
+		home = 290
 	}
 }
 

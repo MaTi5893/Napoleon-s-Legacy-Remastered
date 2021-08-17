@@ -757,7 +757,7 @@
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 2998
+        size = 3471
     }
 
     farmers = {
@@ -776,12 +776,6 @@
         culture = ashkenazi
         religion = jewish
         size = 1316
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 473
     }
 
     farmers = {

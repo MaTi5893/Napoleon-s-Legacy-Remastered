@@ -15,7 +15,7 @@ leader = {
 }
 
 leader = { 
-	name = "Maly Czungus"
+	name = "Izydor Krasiński"
 	type = land
 	date = 1836.1.1
 	personality = defence_1.1
@@ -46,14 +46,15 @@ army = {
 	regiment = {
 		name= "4.1st Division"
 		type = artillery
-		home = 712
+		home = 711
 	}
 	
 	regiment = {
 		name= "5.1st Division"
 		type = hussar
-		home = 699
+		home = 701
 	}
+
 	regiment = {
 		name = "6.1st Division"
 		type = infantry
@@ -301,13 +302,13 @@ army = {
 	regiment = {
 		name= "4.1st Division"
 		type = artillery
-		home = 701
+		home = 713
 	}
 	
 	regiment = {
 		name= "5.1st Division"
 		type = hussar
-		home = 948
+		home = 364
 	}
 	
 	regiment = {

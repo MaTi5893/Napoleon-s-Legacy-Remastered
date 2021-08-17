@@ -1023,9 +1023,9 @@
 	}
 
 	soldiers = {
-		culture = ukrainian
-		religion = orthodox
-		size = 1100
+		culture = polish
+		religion = catholic
+		size = 1513
 	}
 
 	farmers = {
@@ -1052,12 +1052,6 @@
 		size = 650
 	}
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 100
-	}
-
 	farmers = {
 		culture = polish
 		religion = catholic
@@ -1076,12 +1070,6 @@
 		size = 3000
 	}
 
-	soldiers = {
-		culture = ashkenazi
-		religion = jewish
-		size = 150
-	}
-
 	farmers = {
 		culture = ashkenazi
 		religion = jewish
@@ -1098,12 +1086,6 @@
 		culture = south_german
 		religion = catholic
 		size = 100
-	}
-
-	soldiers = {
-		culture = south_german
-		religion = catholic
-		size = 25
 	}
 
 	farmers = {

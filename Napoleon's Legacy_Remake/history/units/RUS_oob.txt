@@ -294,13 +294,13 @@ army = {
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = infantry
-		home = 343
+		home = 998
 	}
 
 	regiment = {
 		name= "1.3-ya Gvardeiskaya Pekhotnaya Diviziya"
 		type = artillery
-		home = 360
+		home = 1012
 	}
 
 	regiment = {
@@ -417,7 +417,7 @@ army = {
 	regiment = {
 		name= "1.2-ya Grenaderskaya Diviziya"
 		type = infantry
-		home = 958
+		home = 980
 	}
 
 	regiment = {
@@ -472,7 +472,7 @@ army = {
 	regiment = {
 		name= "2.1-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 1090
+		home = 1019
 	}
 
 	regiment = {
@@ -490,7 +490,7 @@ army = {
 	regiment = {
 		name= "2.2-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 349
+		home = 991
 	}
 
 	regiment = {
@@ -502,13 +502,25 @@ army = {
 	regiment = {
 		name= "2.3-ya Pekhotnaya Diviziya"
 		type = artillery
-		home = 940
+		home = 1014
 	}
 	
 	regiment = {
 		name= "1.Chernomoriya"
 		type = artillery
 		home = 1049
+	}
+	
+	regiment = {
+		name= "3.3-ya Pekhotnaya Diviziya"
+		type = artillery
+		home = 945
+	}
+
+	regiment = {
+		name= "4.3-ya Pekhotnaya Diviziya"
+		type = artillery
+		home = 1056
 	}
 
 }
@@ -541,6 +553,12 @@ army = {
 	}
 
 	regiment = {
+		name= "2.3-ya Kavalerijskaya Diviziya"
+		type = infantry
+		home = 1011
+	}
+
+	regiment = {
 		name= "3.3-ya Kavalerijskaya Diviziya"
 		type = artillery
 		home = 964
@@ -555,7 +573,7 @@ army = {
 	regiment = {
 		name= "2.4-ya Kavalerijskaya Diviziya"
 		type = artillery
-		home = 956
+		home = 1009
 	}
 
 	regiment = {
@@ -583,13 +601,13 @@ army = {
 	regiment = {
 		name= "1.4-ya Pekhotnaya Diviziya"
 		type = hussar
-		home = 937
+		home = 1054
 	}
 
 	regiment = {
 		name= "2.4-ya Pekhotnaya Diviziya"
 		type = infantry
-		home = 957
+		home = 1055
 	}
 
 	regiment = {
