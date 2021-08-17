@@ -1,7 +1,7 @@
-owner = PLC
-controller = PLC
+owner = RUS
+controller = RUS
 add_core = LIT
-
+add_core = RUS
 add_core = BYE
 add_core = PLC
 trade_goods = grain

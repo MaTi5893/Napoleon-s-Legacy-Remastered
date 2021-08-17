@@ -6,7 +6,7 @@ political_decisions = {
 			NOT = { has_country_flag = repartition_poland_RUS }
 		}
 		allow = {
-			owns = 946
+			owns = 718
 			war_policy = jingoism
 		}
 		effect = {
