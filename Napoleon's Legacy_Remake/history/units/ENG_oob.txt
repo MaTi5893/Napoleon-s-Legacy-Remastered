@@ -40,6 +40,10 @@ SIA = {
 	value = 75
 }
 
+GBR = {
+	value = -200
+}
+
 NET = {
 	value = -100
 		#relation

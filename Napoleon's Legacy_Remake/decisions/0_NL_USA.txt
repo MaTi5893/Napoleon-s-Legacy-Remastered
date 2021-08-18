@@ -1,0 +1,25 @@
+political_decisions = { 
+	reclaim_louisiana = {
+		potential = { 
+			NOT = { 123 = { is_core = USA } }
+			tag = USA 
+		}
+		allow = { 
+			CHE = { all_core = { owned_by = USA } }
+   		}
+		effect = { 
+				USA_78 = { add_core = USA }
+				USA_91 = { add_core = USA }
+				USA_111 = { add_core = USA }
+				USA_116 = { add_core = USA }
+				USA_118 = { add_core = USA }
+				USA_121 = { add_core = USA }
+				USA_126	= { add_core = USA }
+				USA_124	= { add_core = USA }
+				USA_148	= { add_core = USA }
+				USA_151 = { add_core = USA }
+				USA_158	= { add_core = USA }		
+		}
+	}
+}
+			

@@ -1,3 +1,7 @@
+FRA = {
+	value = 125
+}
+
 leader = {
 	name = "Girard Lipinski"
 	type = land
