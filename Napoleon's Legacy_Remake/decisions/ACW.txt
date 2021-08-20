@@ -740,14 +740,17 @@ political_decisions = {
 	alaskan_purchase = {
 		potential = {
 			war = no
-			OR = {
-				has_global_flag = american_civil_war_has_happened
-				year = 1870
-			}
+			year = 1865
 			NOT = {
 				has_country_flag = you_did_try
 			}
-			tag = USA
+			OR = { 
+				tag = USA
+				tag = ENG
+				AND = { tag = GBR owns = 13 } 
+				AND = { tag = JAP owns = 13 }
+				AND = { tag = MEX rank = 8 }
+			}
 			RUS = {
 				OR = {
 					owns = 1
@@ -770,7 +773,7 @@ political_decisions = {
 		
 		effect = {
 			USA_1 = {
-				add_core = USA
+				add_core = THIS
 			}
 			RUS = {
 				country_event = { id=32509 days=0 }

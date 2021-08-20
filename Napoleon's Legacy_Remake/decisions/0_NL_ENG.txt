@@ -56,6 +56,12 @@ political_decisions = {
 		}
 		allow = {
 			invention = national_fraternity
+			war = no 
+			ICF = { war = no } 
+			OR = { 
+				ICF = { in_sphere = THIS }
+				ICF = { part_of_sphere = no } 
+			}
 		}
 		effect = {
 			inherit = ICF

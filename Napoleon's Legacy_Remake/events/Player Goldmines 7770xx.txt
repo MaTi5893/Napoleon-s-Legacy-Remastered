@@ -22,8 +22,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		464 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -52,8 +52,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		478 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -82,8 +82,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		524 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -112,8 +112,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		397 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -142,8 +142,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		380 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -172,8 +172,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		71 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -202,8 +202,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		611 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -232,8 +232,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		318 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -262,8 +262,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		797 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -292,8 +292,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		669 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -322,8 +322,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		671 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -352,8 +352,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		841 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -382,8 +382,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		868 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -412,8 +412,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		1768 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -442,8 +442,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		1143 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -472,8 +472,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		993 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -502,8 +502,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		2427 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -532,8 +532,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		2257 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }
@@ -562,8 +562,8 @@ country_event = {
 		name = "EVTOPTA1100"
 		2214 = { 
 			trade_goods = precious_metal
-			clr_province_flag = farm
-			set_province_flag = mine
+			
+			
 		}
 	}
 }

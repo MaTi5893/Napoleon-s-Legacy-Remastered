@@ -7,7 +7,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}
@@ -34,7 +34,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}
@@ -61,7 +61,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}
@@ -88,7 +88,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}
@@ -115,7 +115,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}
@@ -142,7 +142,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}
@@ -169,7 +169,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}
@@ -196,7 +196,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}
@@ -223,7 +223,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}
@@ -250,7 +250,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}
@@ -277,7 +277,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}
@@ -304,7 +304,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}
@@ -331,7 +331,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}
@@ -358,7 +358,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}
@@ -385,7 +385,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}
@@ -412,7 +412,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}
@@ -439,7 +439,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}
@@ -466,7 +466,7 @@ country_event = {
 	trigger = {
 		civilized = no
 		OR = {
-			is_independent = no
+			is_independant = no
 			is_vassal = yes
 			is_substate = yes
 		}

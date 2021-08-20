@@ -37,7 +37,6 @@ country_event = {
 			tag = BEL
 			tag = SWI
 			tag = POR
-			tag = PBA
 			tag = BRZ
 			tag = CLM
 			tag = GCO
