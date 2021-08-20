@@ -712,6 +712,7 @@ political_decisions = {
 				tag = USA
 				tag = ENG	
 				tag = JAP 
+				tag = MEX
 				AND = { 
 					tag = GBR 
 					owns = 13
@@ -728,7 +729,7 @@ political_decisions = {
 		
 		effect = {
 			HAW_658 = {
-				add_core = USA
+				add_core = THIS
 			}
 			prestige = 2
 			inherit = HAW
