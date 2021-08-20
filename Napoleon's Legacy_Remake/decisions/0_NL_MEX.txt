@@ -26,8 +26,7 @@ political_decisions = {
 	integrate_usca = {
 		potential = {
 			tag = MEX
-			NOT = { has_country_flag = integrated_usca }
-			has_country_flag = recovered_usca
+			NOT = { accepted_culture = central_american }
 		}
 		allow = {
 			UCA = {
@@ -40,14 +39,13 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = central_american
-			set_country_flag = recovered_usca
 		}
 	}
 	
 	acquire_cuba = {
 		potential = {
 			tag = MEX
-			NOT = { has_country_flag = acquired_cuba }
+			NOT = { accepted_culture = caribeno } 
 		}
 		allow = {
 			owns = 2209
