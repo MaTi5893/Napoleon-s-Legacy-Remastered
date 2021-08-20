@@ -1,9 +1,8 @@
 capital = 1251
 primary_culture = marathi
 culture = avadhi
-culture = bihari
 culture = tamil
-culture = kanauji
+
 
 religion = hindu
 government = democracy

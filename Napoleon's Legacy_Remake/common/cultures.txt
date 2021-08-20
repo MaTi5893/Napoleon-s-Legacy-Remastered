@@ -40,7 +40,7 @@ germanic = {
 		Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
 		
 		last_names = { 
-		"Arz von Straussenburg " Beck-Rzikowsky Blos Dankl "David von Rohnfeld" Eisner Geiss Goering Grünne Hainisch Hartung Haus Held Hellpach Hoffmann Hummel 
+		"Arz von Straussenburg" Beck-Rzikowsky Blos Dankl "David von Rohnfeld" Eisner Geiss Goering Grünne Hainisch Hartung Haus Held Hellpach Hoffmann Hummel 
 		Jelacic Köhler "Kuhn von Kuhnenfeld" Mergenthaler Miklas "Radetzky von Radetz" "Ramming von Riedkirchen" Remmele Schmitt "Schönburg-Hartenstein" Schobber Seitz Steeb
 		Stolzer Trunk "von Albori" "von Baden" "von Benedek" "von Burgneustätten" "von Böhm-Ermolli" "von Brudermann" "von Clam-Gallas" "von der Tann" "von Dietrich" "von Gablenz"
 		"von Grünne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Hötzendorf" "von John" 
@@ -361,7 +361,7 @@ iberian = {
 		Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolas Pablo Pascual
 		Pedro Rafael Raimundo Ramon Ricardo Santiago Sebastian Segismundo Valeriano Vicente }
 		
-	last_names = { Acuña Aguirre Alcala-Zamora Allendesalazar Alonso alvarez "alvarez de Toledo" Aranda Argüelles-Meres Asensio
+	last_names = { Acuña Aguirre Alcala-Zamora Allendesalazar Alonso Alvarez "Alvarez de Toledo" Aranda Argüelles-Meres Asensio
 		Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbon"
 		"de Carvajal" "de la Fuente" "de Orleans" Diaz Espartero Fernandez "Fernandez de Cordoba" "Fitz-James Stuart" Franco 
 		Garcia "Garcia de la Noceda" Gonzalez Heredia Hernandez Herrera Hevia "Hidalgo de Cisneros" Linares Lopez 
@@ -696,12 +696,6 @@ east_slavic = {
                                     Paskevich Petliura Radchenko Shevchenko Skoropadskyi Stefaniv Tymoshenko Vitovsky Zavoyko }
 									radicalism = 10
         }
-	ugrian = {  
-		color = {60 160 160}
-                  first_names = { Aleksandr Dmitri Ivan Jukka Santeri Vladimir }
-
-                  last_names = { Kokko Likhachev Mamin Minin Sibiriak  Tikhanov Zubov }
-	}
 
 }
 
@@ -1090,16 +1084,6 @@ central_asian = {
                Shaimiev Bilyaletdinov Shchapov Yadrintsev Krakovetsky Kolchak Potanin Shashkov
 		}
 	}
-
-	yakut = {
-		color = {95 87 32}
-		first_names = { 
-			Aysen Nyurgun Elley Aytal Manchaary
-		}
-		last_names = { 
-              Okhlopkov Shishigin Shtyrov Ondar Sivtsev 
-		}
-	}
 	
 	tibetan = {
 		color = {99 43 89}
@@ -1127,15 +1111,6 @@ central_asian = {
 south_asian = {
 	leader = indian
 	unit = IndianGC
-	assamese = {
-		color = {112 134 156}
-		first_names = { Chandraka Purandar Ruchinath Kaganath Dhekial Jogeshwar Sudingphaa Kamaleswar Daman Hao Jama Patalang
-			
-		}
-		
-		last_names = { Singha Aideo Dogoi Bora Khan Purnananda Phukan               
-		}
-	}
 	bengali = {
 		color = {156 134 112}
 		first_names = { Murshid Quli Shujauddin Alauddin Alivardi Sirajuddaula "Mir Muhammad" Najimuddin Reza Saifuddaula Zainul Ahmad Mansur Mubarak Hasan Wasif Waris
@@ -1143,26 +1118,6 @@ south_asian = {
 		}
 		
 		last_names = { Jafar Muhammad Sarfaraz Ali "Qasim Ali" Najabut Bahadur Mirza
-               
-		}
-	}
-	bihari = {
-		color = {180 75 130}
-		first_names = { Maharshi Mahavira Ashtravakra Chanakya Ashoka Samudragupta Vachaspati Vatsyayana Asvaghosa Udayanacharaya
-			
-		}
-		
-		last_names = { Singh Valmiki Janak Jarasandh Mishra 
-               
-		}
-	}
-	manipuri = {
-		color = {190 150 240}
-		first_names = { Churachandra Kulachanrda Surachandra Chandrakirti Devendra Nara Genavira Pitambara Marjit Moduchanrda Charajit Harshachandra Chingthang
-			
-		}
-		
-		last_names = { Singh Khomba Sai 
                
 		}
 	}
@@ -1178,16 +1133,6 @@ south_asian = {
 	}
 	avadhi = {
 		color = {90 64 23}
-		first_names = { Lokendra Raghuraj Vijay Vishvanath Pheran Jugal Parbhu Narayan Ishvari Udit Prasan Mahip
-			
-		}
-		
-		last_names = { Singh
-               
-		}
-	}
-	kanauji = {
-		color = {90 190 41}
 		first_names = { Lokendra Raghuraj Vijay Vishvanath Pheran Jugal Parbhu Narayan Ishvari Udit Prasan Mahip
 			
 		}
@@ -1763,7 +1708,7 @@ latin_american_cultures = {
 		Ricardo Romulo Salvador Sebastian Tomas Valentin Valeriano Venustiano Vicente Victoriano
 		}
 
-		last_names = { Almonte alvarez Arista Barragan Bocanegra Bravo Bustamante Canalizo Carranza Caserta
+		last_names = { Almonte Alvarez Arista Barragan Bocanegra Bravo Bustamante Canalizo Carranza Caserta
 		Cervantes Corona Corra "de Ampudia" "de Cos" "de Iturbide" Diaz Echeverria Escandon Escobedo
 		Fagoaga "Fernandez del Valle" Flores Gomez Gonzalez Guerrero Huerta Kosterlitzky "Lopez de Santa Ana" Lozada
 		"Martinez del Rio" Mejia Miramon Muzquiz Obregon Pedraza Pimentel Reyes "Rincon Gallardo" Robles

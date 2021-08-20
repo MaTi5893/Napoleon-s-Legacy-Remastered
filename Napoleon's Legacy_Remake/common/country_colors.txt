@@ -722,12 +722,6 @@ TUN = {
     color3= { 121 162 109  }
 }
 
-# Sokoto FIXED
-SOK = {
-    color1= { 49 244 76  }
-    color2= { 94 117 55  }
-    color3= { 112 150 105  }
-}
 
 # Oranje
 ORA = {
@@ -856,7 +850,7 @@ LUA = {
 }
 
 # Panjab
-PNJ = {
+PAN = {
     color1= { 229 165 69  }
     color2= { 100 100 100  }
     color3= { 166 189 199  }

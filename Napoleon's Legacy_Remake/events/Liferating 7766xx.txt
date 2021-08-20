@@ -1,8 +1,8 @@
 #Americas buff
 country_event = {
 	id = 776603
-	title = "EVTNAME776603"
-	desc = "EVTDESC776603"
+	title = "Americas Liferating Buff"
+	desc = "I hope your AI-only is funny :)"
 	picture = "rome_buildings"
 
 	trigger = {
@@ -14,7 +14,7 @@ country_event = {
 	mean_time_to_happen = { days = 1 }
 	
 	option = {
-		name = "EVT776603OPTA" 
+		name = "Chungus!" 
 			any_country = {
 				any_owned = {
 					limit = {
@@ -97,6 +97,7 @@ country_event = {
 						owned_by = BOL
 						owned_by = PEU
 						#owned_by = RPL
+						owned_by = UPB
 						}
 					life_rating = 25
 					NOT = { life_rating = 26 }
@@ -115,7 +116,7 @@ country_event = {
 country_event = {
 	id = 776604
 	title = "EVTNAME776604"
-	desc = "EVTDESC776604	"
+	desc = "EVTDESC776604"
 	picture = "rome_buildings"
 
 	trigger = {

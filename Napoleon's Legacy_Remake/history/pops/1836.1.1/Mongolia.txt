@@ -139,31 +139,31 @@
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 125
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 2750
 	}

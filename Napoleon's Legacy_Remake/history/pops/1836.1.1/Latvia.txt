@@ -431,7 +431,7 @@
 #Ventspils (140000/35000 POPS) #uralic = Livonian 
 358 = {
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = protestant
 		size = 225
 	}

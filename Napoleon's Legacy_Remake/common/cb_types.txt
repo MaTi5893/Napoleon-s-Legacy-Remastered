@@ -43,6 +43,7 @@ add_to_sphere
 take_from_sphere 
 recover_homeland
 return_home_annex
+the_true_government
 status_quo 
 gunboat 
 conquest 
@@ -4096,63 +4097,6 @@ total_war_conquest = {
 	war_name = TOTAL_WAR_CONQUEST_NAME
 }
 
-# Remove_WMDs
-#remove_wmds = {
-#	sprite_index = 11
-#	is_triggered_only = yes
-#	months = 12
-#	
-#	badboy_factor = 0
-#	prestige_factor = 0
-#	peace_cost_factor = 0
-#	penalty_factor = 0
-#	
-#	break_truce_prestige_factor = 1
-#	break_truce_infamy_factor = 1
-#	break_truce_militancy_factor = 1
-#	truce_months = 60
-#	
-#	good_relation_prestige_factor = 1
-#	good_relation_infamy_factor = 1
-#	good_relation_militancy_factor = 1
-#	
-#	construction_speed = 0.5
-#	
-#	can_use = {
-#		year = 1925
-#		THIS = { 
-#			NOT = {
-#				OR = {
-#					has_country_modifier = neutrality
-#					has_country_modifier = generic_neutrality
-#				}
-#			}
-#		}
-#		OR = {
-#			 has_country_modifier = developing_bioweapons
-#			 has_country_modifier = experimental_bioweapon
-#		}
-#	}
-#
-#	po_remove_prestige = no
-#	
-#	tws_battle_factor = 2.0
-#	
-#	war_name = WAR_REMOVE_WMDS_NAME
-#	
-#	on_add = {
-#		move_issue_percentage = { 
-#			from = jingoism 
-#			to = pro_military
-#			value = 0.25
-#		}
-#	}
-#	
-#	on_po_accepted = {
-#		country_event = 999923
-#	}
-#}
-
 #Demand Early Concession for Puppet on Player 
 demand_concession_casus_belli_player_early_for_puppet = {
 	sprite_index = 7
@@ -5388,6 +5332,49 @@ take_capital_late_for_puppet = {
 	po_transfer_provinces = yes
 	
 	war_name = WAR_TAKE_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.25
+		}
+	}
+}
+
+the_true_government = {
+	sprite_index = 2
+	#is_triggered_only = yes
+	months = -1
+	constructing_cb = no
+	always = yes
+	crisis = no
+	
+	can_use = {
+		tag = ENG
+		THIS = {
+			tag = GBR
+		}
+	}
+
+	badboy_factor = 0
+	prestige_factor = 1
+	peace_cost_factor = 0.80
+	penalty_factor = 1
+	is_civil_war = yes #this is a civil war
+
+	break_truce_prestige_factor = 5
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 0
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	po_annex = yes
+	
+	war_name = "GBRtrollingENG"
 	
 	on_add = {
 		move_issue_percentage = { 

@@ -885,25 +885,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 3325
 	}
@@ -955,13 +955,13 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 10
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 290
 	}
@@ -993,25 +993,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 150
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 25
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 2800
 	}
@@ -1043,25 +1043,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 200
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 25
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 3725
 	}
@@ -1125,13 +1125,13 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 10
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 490
 	}
@@ -1171,25 +1171,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 1600
 	}
@@ -1221,25 +1221,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 25
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 1850
 	}
@@ -1259,13 +1259,13 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 245
 	}
@@ -1297,25 +1297,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 915
 	}
@@ -1343,13 +1343,13 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 390
 	}
@@ -1369,13 +1369,13 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 490
 	}
@@ -1395,13 +1395,13 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 590
 	}
@@ -1421,13 +1421,13 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 640
 	}
@@ -1447,13 +1447,13 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 345
 	}
@@ -1505,25 +1505,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 500
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 9325
 	}
@@ -1555,25 +1555,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 200
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 3700
 	}
@@ -1675,25 +1675,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 250
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 4625
 	}
@@ -1921,25 +1921,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 350
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 75
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 6525
 	}
@@ -2009,25 +2009,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 25
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 1850
 	}
@@ -2065,25 +2065,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 150
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 25
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 2775
 	}
@@ -2167,25 +2167,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 550
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 10250
 	}
@@ -2223,25 +2223,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 500
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 9325
 	}
@@ -2369,25 +2369,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 25
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 1850
 	}
@@ -3287,25 +3287,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 250
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 4625
 	}
@@ -3461,25 +3461,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 1200
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 150
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 13550
 	}
@@ -3541,25 +3541,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 200
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 4675
 	}
@@ -3627,25 +3627,25 @@
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 200
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = orthodox
 		size = 4675
 	}
@@ -5401,31 +5401,31 @@
 	}
 
 	aristocrats = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 725
 	}
@@ -5463,31 +5463,31 @@
 	}
 
 	aristocrats = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 1800
 	}
@@ -5495,31 +5495,31 @@
 #Nizhnevartovsk (4000/1000 POPS)
 1065 = {
 	aristocrats = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 900
 	}
@@ -5527,31 +5527,31 @@
 #Ases Igan (4000/1000 POPS)
 2646 = {
 	aristocrats = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 900
 	}
@@ -5607,31 +5607,31 @@
 	}
 
 	aristocrats = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 900
 	}
@@ -5639,31 +5639,31 @@
 #Muzhi (6000/1500 POPS)
 2685 = {
 	aristocrats = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 1250
 	}
@@ -5689,13 +5689,13 @@
 #Verkniy Ufaley (1200/300 POPS)
 2690 = {
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 195
 	}
@@ -5805,31 +5805,31 @@
 #Mordiyakha (1000/250 POPS)
 2614 = {
 	aristocrats = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 225
 	}
@@ -5837,31 +5837,31 @@
 #Yar Sale (1000/250 POPS)
 2684 = {
 	aristocrats = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 225
 	}
@@ -5869,31 +5869,31 @@
 #Aksarka (2200/550 POPS)
 2682 = {
 	aristocrats = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 450
 	}
@@ -5919,31 +5919,31 @@
 #Napalkovo (1000/250 POPS)
 2659 = {
 	aristocrats = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 225
 	}
@@ -5951,31 +5951,31 @@
 #Nyda (1000/250 POPS)
 2613 = {
 	aristocrats = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 225
 	}
@@ -5983,31 +5983,31 @@
 #Krasnoselkup (2200/550 POPS)
 2615 = {
 	aristocrats = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 450
 	}
@@ -6033,31 +6033,31 @@
 #Kikkiakki (2000/500 POPS)
 2681 = {
 	aristocrats = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = ugrian
+		culture = russian
 		religion = animist
 		size = 450
 	}
@@ -6332,9 +6332,9 @@
 		size = 5475
 	}
 }
-#Yakutsk Region (117000)
+#siberiansk Region (117000)
 #under the rule of Russia in 1836
-#Yakutsk (64000/16000 POPS)
+#siberiansk (64000/16000 POPS)
 2648 = {
 	bureaucrats = {
 		culture = russian
@@ -6367,61 +6367,61 @@
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 450
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 8250
 	}
 
 	bureaucrats = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 5
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 250
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 4695
 	}
@@ -6453,55 +6453,55 @@
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 900
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 10
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 475
 	}
@@ -6533,55 +6533,55 @@
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 900
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 10
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 475
 	}
@@ -6613,55 +6613,55 @@
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 30
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 75
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 20
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 1350
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 10
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 475
 	}
@@ -6669,31 +6669,31 @@
 #Zhigansk (4000/1000 POPS)
 2649 = {
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 900
 	}
@@ -6725,55 +6725,55 @@
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 45
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 125
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 2255
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 25
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 10
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = orthodox
 		size = 710
 	}
@@ -7017,31 +7017,31 @@
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 275
 	}
@@ -7079,31 +7079,31 @@
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 3
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 135
 	}
@@ -7177,31 +7177,31 @@
 #Yansk (1000/250 POPS)
 2647 = {
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 3
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 230
 	}
@@ -7209,31 +7209,31 @@
 #Bytantaysk (2000/500 POPS)
 1071 = {
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 425
 	}
@@ -7259,31 +7259,31 @@
 #Verkhoyansk (2000/500 POPS)
 2668 = {
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 450
 	}
@@ -7291,31 +7291,31 @@
 #Ust Nera (2000/500 POPS)
 2642 = {
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 450
 	}
@@ -7323,31 +7323,31 @@
 #Honuu (1000/250 POPS)
 2643 = {
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 3
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 230
 	}
@@ -7355,31 +7355,31 @@
 #Abiy (2000/500 POPS)
 2619 = {
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 450
 	}
@@ -7387,31 +7387,31 @@
 #Chokurdakh (1000/250 POPS)
 2665 = {
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 3
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 230
 	}
@@ -7421,31 +7421,31 @@
 #Olenyok (1000/250 POPS)
 2673 = {
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 3
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 220
 	}
@@ -7471,31 +7471,31 @@
 #Bulun (1000/250 POPS)
 2667 = {
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 3
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 230
 	}
@@ -7503,31 +7503,31 @@
 #Tiksi (1000/250 POPS)
 2670 = {
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 3
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 230
 	}
@@ -7535,31 +7535,31 @@
 #Kular (1000/250 POPS)
 2652 = {
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 3
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 230
 	}
@@ -7567,31 +7567,31 @@
 #Zhilinda (1000/250 POPS)
 2671 = {
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 3
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 2
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 230
 	}
@@ -7713,31 +7713,31 @@
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 2
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 2
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 1
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 90
 	}
@@ -7936,31 +7936,31 @@
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 20
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 65
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 1025
 	}
@@ -8022,31 +8022,31 @@
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 900
 	}
@@ -8084,31 +8084,31 @@
 	}
 
 	aristocrats = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 5
 	}
 
 	farmers = {
-		culture = yakut
+		culture = siberian
 		religion = animist
 		size = 450
 	}
