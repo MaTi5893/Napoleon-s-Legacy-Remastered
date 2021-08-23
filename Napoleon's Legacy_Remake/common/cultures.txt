@@ -28,7 +28,7 @@ germanic = {
 		"von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen" "von Sachsen-Weimar-Eisenach" "von Schellendorff" "von Schlieffen" "von Scholtz" "von Schwarzburg" 
 		"von Seeckt" "von Spee" "von Steinmetz" "von Stosch"
 		"von Tirpitz" "von Trotha" "von Tümpling" "von Voigts-Rhetz" "von Waldeck und Pyrmont" "von Waldersee" "von Wartensleben" "von Werder" "von Wettin" "von Wittich"
-		"von Wrangel" "von Zieten" "zu Dohna-Schlobitten""zur Lippe" Zenker 
+		"von Wrangel" "von Zieten" "zu Dohna-Schlobitten" "zur Lippe" Zenker 
 		}
 	}
 	south_german = {
@@ -218,10 +218,10 @@ scandinavian = {
 	}
 	icelandic = { 
 		color = { 80 20 150}
-		first_names = { Agnar asgeir Björn Eidur Einar Emil Geir Gudmund Gunnar Hannes
+		first_names = { Agnar Asgeir Björn Eidur Einar Emil Geir Gudmund Gunnar Hannes
 		Hermann Jon Kristjan Magnus olafur Petur Sigurdur Stefan Sveinn Tryggvi }
 		
-		last_names = { Arnorsson asgeirsson Benediktsson Bjarnasen Björnsson Eggers Eldjarn Hafstein Hansen
+		last_names = { Arnorsson Asgeirsson Benediktsson Bjarnasen Björnsson Eggers Eldjarn Hafstein Hansen
 		Hermannsson Johanesson Jonsson Magnusson Stefansson Steinthosson Thordarson Thorhallson Thorlaksson Thurs }
 	}
 	finnish = { 
@@ -353,7 +353,7 @@ iberian = {
 	}
 	spanish = {
 		color = {220 220 30}
-		first_names = { Agustin Alberto Alejandro Alfonso alvaro Antonio "Antonio Maria" Arsenio Augusto Baldomero
+		first_names = { Agustin Alberto Alejandro Alfonso Alvaro Antonio "Antonio Maria" Arsenio Augusto Baldomero
 		Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal Damaso
 		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe Felix Fernando Francisco
 		"Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
@@ -385,7 +385,7 @@ iberian = {
 	}
 	portuguese = {
 		color = {160 220 30}
-		first_names = { Abel Adriano Afonso Alberto Alexandre Alfredo alvaro Andre Antonio Aquilino 
+		first_names = { Abel Adriano Afonso Alberto Alexandre Alfredo Alvaro Andre Antonio Aquilino 
 		Artur Augusto Bartolomeu Bernardo Bruno Caetano Cândido Carlos Christovão Claudio
 		Damião Daniel David Dinis Diogo Duarte Ernesto Estêvão Eugenio Fernando 
 		Filipe Francisco "Francisco Xavier" Gastão Hermenegildo Ignacio JEronimo João Joaquim Jorge
@@ -1701,7 +1701,7 @@ latin_american_cultures = {
 	leader = southamerican
 	mexican = {
 		color = {51 117 62}
-		first_names = { Adrian Agustin alvaro Anastasio Andres angel Antonio Bernardo Emiliano Emilio
+		first_names = { Adrian Agustin Alvaro Anastasio Andres angel Antonio Bernardo Emiliano Emilio
 		Enrique Ernesto Felipe Felix Francisco "Francisco Javier" Gabriel Gaspar Gregorio Ignacio
 		Jeronimo Joaquin Jose "Jose Manuel" "Jose Maria" Juan "Juan Bautista" Justo Lazaro Manuel
 		Mariano Martin Melchor Miguel Nicolas Pablo Pascual Pedro Porfirio Ramon
