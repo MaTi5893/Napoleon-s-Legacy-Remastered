@@ -5,5 +5,5 @@ trade_goods = tea
 life_rating = 30
 colonial = 2
 terrain = hills
+add_core = INO
 
-set_province_flag = farm

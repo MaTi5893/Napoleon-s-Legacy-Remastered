@@ -118,35 +118,6 @@ country_event = {
 	}
 }
 
-country_event = {
-	
-	id = 777704 # Netherlands
-
-	trigger = {
-		year = 1836
-		NOT = { year = 1880 }
-		NET = {	ai = no }
-		tag = NET
-		380 = { NOT = { trade_goods = precious_metal } }
-	}
-
-	mean_time_to_happen =  {
-		days = 1
-
-	}
-
-	title = "EVTNAME1100"
-	desc = "EVTDESC1100"
-
-	option = {
-		name = "EVTOPTA1100"
-		380 = { 
-			trade_goods = precious_metal
-			
-			
-		}
-	}
-}
 
 country_event = {
 	

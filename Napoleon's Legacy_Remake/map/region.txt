@@ -990,7 +990,7 @@ PRU_581 = { 581 580 582 583 584 585 } #Westfalen
 
 PRU_553 = { 553 554 555 556 557 } #Magdeburg
 
-PRU_690 = { 690 693 691 } #Westpreussen
+PRU_690 = { 690 693 691 692 } #Westpreussen
 
 PRU_695 = { 695 697 698 696 } #Ostpreussen
 
@@ -1350,7 +1350,7 @@ PRU_578 = { 578 579 2561 } #Mittelrhein
 
 PRU_546 = { 546 547 548 } #Vorpommern
 
-PRU_679 = { 679 680 692 } #Hinterpommern
+PRU_679 = { 679 680 } #Hinterpommern
 
 MEC_545 = { 530 544 545 } #Mecklenburg
 

@@ -77,8 +77,8 @@ UPB_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;
 UPB_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;x
 UPB_communist_86;Communists;Communists;Communists;;;;;;;x
 UPB_fascist_72;Fascists;Fascists;Fascists;;;;;;;x
-NIT_ADJ;Italian;Italian;Italian;;;;;;;;;x
-NIT;Royaume d'Italie;;;;;;;;;x
+NIT_ADJ;Italian;Italian;Italian;;;;;;;x
+NIT;Royaume d'Italie;;;;;;;x
 NIT_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;x
 NIT_liberal_79;Liberals;Liberals;Liberals;;;;;;;x
 NIT_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;x
@@ -142,3 +142,14 @@ BRA_ADJ;Berg;;;;;;;x
 CEL;Celtic Union;;;;;;;x
 CEL_adj;Celtic Union;;;;;;;x
 IRE_fascist_dictatorship;Big Chungus Ethnostate;;;;;;;x
+INO;Indonesia;Indonésie;Indonesien;;Indonesia;;;;;;;x
+INO_ADJ;Indonesian;Indonésienne;Indonesisch;;Indonesio;;;;;;;x
+INO_conservative;Partai Golongan Karya;;;;;;;x;;;;
+INO_liberal;Partai Majelis Syuro Muslimin Indonesia;;;;;;;x;;;;
+INO_liberal_2;Partai Demokrat;;;;;;;x;;;;
+INO_reactionary;Nahdlatul Ulama;;;;;;;x;;;;
+INO_anarcho_liberal;Partai Nasdem;;;;;;;x;;;;
+INO_socialist;Partai Sosialis Indonesia;;;;;;;x;;;;
+INO_socialist_2;Partai Nasional Indonesia;;;;;;;x;;;;
+INO_communist;Partai Komunis Indonesia;;;;;;;x;;;;
+INO_fascist;Partai Gerakan Indonesia Raya;;;;;;;x;;;;

@@ -1,4 +1,4 @@
 owner = NET
-controller = NET
+controller = NET add_core = INO
 trade_goods = timber
 life_rating = 30

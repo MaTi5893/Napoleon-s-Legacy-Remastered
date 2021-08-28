@@ -1,5 +1,5 @@
 owner = SAK
 controller = SAK
-add_core = SAK
+add_core = INO add_core = SAK
 trade_goods = tobacco
 life_rating = 30

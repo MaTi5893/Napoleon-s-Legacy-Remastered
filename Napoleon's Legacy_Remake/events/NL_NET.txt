@@ -1,0 +1,29 @@
+# Event to Inherit
+country_event = {
+    id = 95255
+    title = "The Indonesian Exodus" #Indonesian Unification stuff, 0_NL_NET.txt
+    desc = "Several members of the high echelons in the Netherlands, including some Freemasons, have decided to discard the homeland and instead relocate to our colonies in Indonesia, while seizing the rest of the Asian and African holdings of the Netherlands." 
+    picture = "Celebration"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "Seize everything!"
+		NET = { any_owned = { limit = { NOT = { continent = europe OR = { continent = north_america continent = south_america } } } secede_province = INO } }
+       	#relation = {
+	#	with = NET
+	#	value = -400
+        #}
+     }
+     option = {
+        name = "Only seize Asian colonies!"
+		NET = { any_owned = { limit = { NOT = { continent = europe OR = { continent = north_america continent = south_america continent = africa } } } secede_province = INO } }
+       	#relation = {
+	#	with = NET
+	#	value = -200
+        #}
+     }
+}
+    
+
+
