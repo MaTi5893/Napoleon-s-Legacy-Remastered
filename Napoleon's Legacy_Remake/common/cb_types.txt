@@ -3024,12 +3024,6 @@ take_capital = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
-		NOT = {
-			AND = {
-				THIS = { tag = JAP }
-				tag = CHI
-			}
-		}
 		# this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
