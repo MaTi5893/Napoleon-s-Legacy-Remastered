@@ -1249,31 +1249,31 @@
     }
 
     aristocrats = {
-        culture = pueblo
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = pueblo
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = pueblo
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = pueblo
+        culture = native_american_minor
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = pueblo
+        culture = native_american_minor
         religion = animist
         size = 900
     }
@@ -1388,31 +1388,31 @@
     }
 
     aristocrats = {
-        culture = pueblo
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = pueblo
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = pueblo
+        culture = native_american_minor
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = pueblo
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = pueblo
+        culture = native_american_minor
         religion = animist
         size = 1800
     }
@@ -1450,31 +1450,31 @@
 #Albuquerque (20000/5000 POPS)
 104 = {
     aristocrats = {
-        culture = pueblo
+        culture = native_american_minor
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = pueblo
+        culture = native_american_minor
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = pueblo
+        culture = native_american_minor
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = pueblo
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = pueblo
+        culture = native_american_minor
         religion = animist
         size = 2700
     }

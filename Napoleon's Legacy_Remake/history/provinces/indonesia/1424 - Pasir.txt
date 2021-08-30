@@ -1,6 +1,6 @@
 owner = KTI
 controller = KTI
 add_core = INO add_core = KTI
-add_core = INO add_core = KLM
+add_core = KLM
 trade_goods = sulphur
 life_rating = 30

@@ -62,12 +62,12 @@ political_decisions = {
 		}
 	}
 
-	the_congo_conference = {
+	the_congo_conference = {	#I'm pretty sure this is a vanilla event chain with no real follow-up after this decision lmao
 		potential = {
 			is_greater_power = yes
 			invention = mission_to_civilize
 			invention = expansionism
-			tag = ENG
+			tag = FRA	#originally ENG
 			year = 1875
 			NOT = {
 				has_global_flag = congo_conference_held

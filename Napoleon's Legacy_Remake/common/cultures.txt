@@ -1593,13 +1593,6 @@ native_american = {
 		last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
 		}
 	}
-	pueblo = {
-		color = {222 238 156}
-		first_names = { Cochise Mangas Loco Taza Nana chihuahua Geronimo Alchesay Naiche Victorio
-		}
-		last_names = { Arivaipa Cibecue Coyotero Jicarilla Llanero Mescalero Nateges Tonto
-		}
-	}
 	inuit = {
 		color = {210 243 242}
 		first_names = { Peter Ipeelee Jose Steve David Jack Goo Germaine James Pitseolak Kenojuak Ernie Caubvick

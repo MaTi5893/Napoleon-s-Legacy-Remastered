@@ -289,7 +289,7 @@
 	}
 
 	slaves = {
-		culture = oromo
+		culture = african_minor
 		religion = animist
 		size = 7000
 	}
