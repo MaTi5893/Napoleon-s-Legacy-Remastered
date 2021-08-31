@@ -1,7 +1,8 @@
 color = { 0 0 102 }		#non-absolute monarchies
 absolute_monarchy = { 0 0 128 }	#navy
 presidential_dictatorship = { 17 30 108 } #royal
-democracy = { 114 133 165 }	#pigeon
+#democracy = { 114 133 165 }	#pigeon
+democracy = { 115 135 190 } #AoE color
 #bourgeois_dictatorship = { 0 49 82 }	#prussian blue
 #bourgeois_dictatorship = { 79 151 163 } #turkish blue
 bourgeois_dictatorship = { 79 81 109 } #independence
