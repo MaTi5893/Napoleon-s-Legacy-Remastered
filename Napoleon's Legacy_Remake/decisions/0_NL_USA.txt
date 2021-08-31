@@ -1,7 +1,7 @@
 political_decisions = { 
 	reclaim_louisiana = {
 		potential = { 
-			NOT = { 123 = { is_core = USA } }
+			NOT = { has_country_flag = USAlouisiana }
 			tag = USA 
 		}
 		allow = { 
@@ -18,7 +18,40 @@ political_decisions = {
 				USA_124	= { add_core = USA }
 				USA_148	= { add_core = USA }
 				USA_151 = { add_core = USA }
-				USA_158	= { add_core = USA }		
+				USA_158	= { add_core = USA }	
+				set_country_flag = USAlouisiana	
+		}
+	}
+	crusade_for_canada = { 
+		picture = crusade_for_canada
+		potential = { 
+			NOT = { accepted_culture = anglo_canadian }
+			tag = USA
+			#has_country_flag = USAlouisiana
+		}
+		allow = { 
+			war_policy = jingoism 
+			all_core = { owned_by = THIS }
+			OR = { 	
+				NOT = { 
+					relation = { 
+						who = ENG 
+						value = -75
+					}
+				}
+				NOT = {  
+					relation = {
+						who = CAN
+						value = -120
+					}
+				}
+			}
+		}
+		effect = { 
+			CAN = { all_core = { add_core = USA } }
+			add_accepted_culture = anglo_canadian
+			badboy = 15
+			prestige = 20 
 		}
 	}
 }

@@ -73,7 +73,7 @@ country_event = {
 	}
 
 	option = {
-		name = "The United Kingdom (exiled to Canada)
+		name = "The United Kingdom (exiled to Canada)"
 		ENG = { 
 			country_event = { id=19300 days=0 }
 		}

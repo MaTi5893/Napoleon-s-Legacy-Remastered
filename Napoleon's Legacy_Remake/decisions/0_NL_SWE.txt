@@ -10,11 +10,11 @@ political_decisions = {
 					primary_culture = swedish
 				}
 			}
+		NOT = { accepted_culture = latvian } 
 		}
 		allow = {
 			owns = 349
         		war_policy = jingoism
-			NOT = { accepted_culture = latvian } 
 		}
 		effect = {
 			prestige = 20
@@ -27,6 +27,7 @@ political_decisions = {
 			RUS_994 = {
 				add_core = THIS
 			}
+			339 = { add_core = THIS }
 			badboy = 15
 			add_accepted_culture = estonian
 			add_accepted_culture = latvian

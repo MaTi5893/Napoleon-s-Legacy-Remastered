@@ -50,7 +50,9 @@ conquest
 civil_war 
 acquire_core_state 
 annex_core_country
-acquire_state 
+acquire_state
+acquire_state_midgame
+acquire_state_late 
 acquire_substate_region
 place_in_the_sun
 colonial_competition

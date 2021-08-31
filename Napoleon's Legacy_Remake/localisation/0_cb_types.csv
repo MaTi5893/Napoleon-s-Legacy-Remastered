@@ -46,7 +46,7 @@ civil_war_short;Unite the nation;Unifier la nation;Einen Sie die Nation!;;;;;;;x
 civil_war_desc;Your nation is in a state of civil war;Votre nation est en guerre civile;Ihre Nation befindet sich in einem Bürgerkrieg.;;;;;;;x
 civil_war_setup;End the war by reuniting our nation under a common banner again.;Mettez fin à la guerre en réunifiant notre nation sous une même bannière.;Beenden Sie den Krieg durch die Wiedervereinigung unserer Nation unter einer gemeinsamen Flagge.;;;;;;;x
 unification_annex_casus_belli;War of Unification;Guerre d'unification;Vereinigungskrieg;;;;;;;x
-unification_annex_casus_belli_short;Annexation;Annexion;Annektierung;;;;;;;x
+unification_annex_casus_belli_short;Annexation of $RECIPIENT$;;;;;;;;;x
 unification_annex_casus_belli_desc;Liberate core territory of our §YCultural Union§W.;Libérez un territoire clé de notre §Yunion culturelle§W.;Befreien Sie das Kerngebiet unserer §YKulturunion§W;;;;;;;x
 unification_annex_casus_belli_setup;Liberate core territory of our §YCultural Union§W.;Libérez un territoire clé de notre §Yunion culturelle§W.;Befreien Sie das Kerngebiet unserer §YKulturunion§W;;;;;;;x
 annex_core_country;Restore Order;Rétablir l'ordre;Stellen Sie die Ordnung wieder her;;;;;;;x

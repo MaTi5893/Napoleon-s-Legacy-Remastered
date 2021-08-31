@@ -1121,18 +1121,15 @@ political_decisions = {
 			war = no
 			plurality = 30
 			year = 1850			
-			HOL = { ai = yes }
-			OR = {
-				HOL = { vassal_of = DEN }
-				DEN = { is_sphere_leader_of = HOL }
-			}
+			DEN = { owns = 369 } #Kiel
+			DEN = { owns = 529 } #Lauenburg
 		}
 
 		effect = {
 			set_country_flag = duchies_integrated
 			add_accepted_culture = north_german
 			prestige = 30
-			inherit = HOL
+			#inherit = HOL
 			369 = { add_core = DEN }
 			529 = { add_core = DEN }
 			any_country = { 
