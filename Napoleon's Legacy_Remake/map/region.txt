@@ -947,19 +947,17 @@ AUS_662 = { 702 951 952 953} #East Galicia
 
 AUS_633 = { 633 634 635 636 637 638 950 } #Slovakia
 
-#AUS_780 = { 780 782 } #South Dalmatia
+AUS_780 = { 780 781 782 } #Dalmatia
 
-#AUS_781 = { 781 } # North Dalmatia
-
-AUS_771 = { 771 772 773 774 775 776 777 779 793 781 780 782 } #Croatia
+AUS_771 = { 771 772 773 774 775 776 777 779 793 } #Croatia
 
 AUS_647 = { 647 651 652 653 } #Alfold
 
 AUS_623 = { 623 639 640 642 643 644 } #Transdanubia
 
-AUS_736 = { 736 737 } #Friuli
+AUS_736 = { 736 737 } #Istria
 
-AUS_778 = { 778 769 770 } #Istria
+AUS_778 = { 778 769 770 } #Fiume
 
 AUS_729 = { 729 730 731 732 733 } #Venetia
 

@@ -372,6 +372,8 @@ political_decisions = {
 						is_core = PAP
 						is_core = LOM
 						is_core = VEN
+						is_core = NAP
+						is_core = SYC
 					}
 				}
 				add_core = ITA
@@ -384,6 +386,8 @@ political_decisions = {
 				remove_core = PAP
 				remove_core = VEN
 				remove_core = LOM
+				remove_core = NAP
+				remove_core = SYC
 			}
 		}
 	}
@@ -434,10 +438,12 @@ political_decisions = {
 		}
 		
 		effect = {
-			badboy = 2
+			badboy = 8
 			set_country_flag = adriatic_claimed
-			AUS_778 = { add_core = ITA } #Istria
-#			AUS_781 = { add_core = ITA } #North Dalmatia
+			AUS_778 = { add_core = ITA } #Fiume
+			AUS_736 = { add_core = ITA } #Istria
+			AUS_780 = { add_core = ITA } #Dalmatia
+			
 		}
 		
 		ai_will_do = {

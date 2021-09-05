@@ -7,49 +7,32 @@ political_decisions = {
 		}
 		allow = {
 			war_policy = jingoism
-			TUS = {
-				OR = {
-					all_core = {
+			war = no 
+			ITA = {
+				all_core = {
+					OR = {
 						OR = {
+							province_id = 766
+							province_id = 765
+							province_id = 472
+							province_id = 738
+							province_id = 737
+							region = SAR_720
+							region = SAR_466
 							owned_by = THIS
 							owner = {
 								in_sphere = THIS
 							}
 						}
 					}
-					vassal_of = THIS
 				}
 			}
-			PAP = {
-				OR = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-					}
-					vassal_of = THIS
-				}
-			}
-			SYC = {
-				OR = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
-					}
-					vassal_of = THIS
-				}
-			}
-			is_our_vassal = NAP
 		}
+
+
 		effect = {
 			change_tag = ITA
+			any_owned = { remove_core = NIT } 
 			add_accepted_culture = south_italian
 			any_country = {
 				limit = {
