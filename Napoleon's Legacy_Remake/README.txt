@@ -14,8 +14,7 @@ Info:
 	Some of the more interesting countries to play would be:  
 	Westphalia
 	Royaume d'Italie (Napoleonic Italy)
-	Sweden/Denmark (Denmark can get North German accepted, even)
-
+        Mexico
 
 Links:
 	https://discord.gg/G5jGFgCbEg - This mod's discord
