@@ -1440,11 +1440,13 @@ free_peoples = {
 			}
 		
 		any_owned_province = {
-			is_core = FROM
-			NOT =
-			{
-				is_core = THIS
-			}
+    			is_core = FROM
+    			NOT = { is_core = THIS }
+   			OR = { 
+				NOT = { province_id = 2549 } 
+				BOL = { exists = yes } 
+				FROM = { NOT = { tag = BOL } }
+			}  
 		}
 		is_releasable_vassal = FROM
 	}
