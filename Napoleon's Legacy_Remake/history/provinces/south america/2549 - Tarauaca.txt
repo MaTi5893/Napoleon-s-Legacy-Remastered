@@ -1,6 +1,6 @@
 owner = PEU
 controller = PEU
-add_core = BOL
+add_core = PEU
 add_core = BRZ
 add_core = UPB
 trade_goods = tropical_wood
