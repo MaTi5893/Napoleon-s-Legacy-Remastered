@@ -7,11 +7,11 @@ dismantle_factories;Dismantle Industry;;Reiﬂt Forts ab;;;;;;;x
 dismantle_factories_short;Dismantle industry in $STATE$;;Reiﬂt Bauten in $STATE$ ab;;;;;;;x
 dismantle_factories_setup;Dismantle factories and cancel all constructions and recruitments in $STATE$;;Reiﬂt Forts und Marinest¸tzpunkte in $STATE$ ab;;;;;;;x
 total_war_conquest;Total War of Conquest;;;;;;;x
-total_war_conquest_short;The time has come to wipe the very idea of $RECIPIENT$ from the annals of history;;;;;;;x
+total_war_conquest_short;Wipe $RECIPIENT$ from the annals of history;;;;;;;x
 total_war_conquest_desc;Annex the entirety of an enemy country's colony for 0 infamy.;;;;;;;x
 total_war_conquest_setup;The peoples of $RECIPIENT$$ stand in the way of a better world.;;;;;;;x
 total_war_state;Total War Acquire State;;;;;;;x
-total_war_state_short;The time has come to wipe the very idea of $RECIPIENT$ from the annals of history;;;;;;;x
+total_war_state_short;Wipe $RECIPIENT$ from the annals of history;;;;;;;x
 total_war_state_desc;Acquire an enemy country's state or colony for 0 warscore & 0 infamy.;;;;;;;x
 total_war_state_setup;The peoples of $RECIPIENT$$ stand in the way of a better world.;;;;;;;x
 take_capital;Take Capital;;;;;;;x

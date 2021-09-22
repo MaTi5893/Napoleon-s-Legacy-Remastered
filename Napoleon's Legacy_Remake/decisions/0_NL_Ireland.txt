@@ -3,12 +3,12 @@ political_decisions = {
 form_celtic_union = {
 		picture = celtic_nations
 		potential = {
+			NOT = { exists = CEL }
 			OR = { 
 			       tag = IRE
 			       tag = SCO
 			}
 			is_independant = yes 
-			NOT = { exists = CEL }
 		}	
 		allow = {
 			rank = 16

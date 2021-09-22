@@ -19,7 +19,7 @@ leader = {
 }
 
 leader = { 
-	name = "Izydor KrasiÅ„ski"
+	name = "Izydor Krasiñski"
 	type = land
 	date = 1836.1.1
 	personality = defence_1.1

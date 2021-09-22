@@ -1,74 +1,4 @@
 political_decisions = {
-	cavours_diplomacy = {
-		potential = {
-			OR = {
-				AND = { 
-					tag = ITA
-					NOT = { exists = SAR }
-				}
-				AND = { 
-					tag = SAR
-					NOT = { exists = ITA }
-				}
-			}
-			NOT = {
-				has_country_flag = cavour_has_done_his
-			}
-			owns = 465
-			owns = 466
-			owns = 472
-			FRA = {
-				exists = yes
-				is_greater_power = yes
-			}
-		}
-		allow = {
-			relation = {
-				who = FRA
-				value = 150
-			}
-			owns = 726
-			owns = 727
-			owns = 728
-		}
-		
-		effect = {
-			prestige = 20
-			badboy = -10
-			relation = {
-				who = FRA
-				value = 50
-			}
-			726 = {
-				add_core = SAR
-			}
-			727 = {
-				add_core = SAR
-			}
-			728 = {
-				add_core = SAR
-			}
-			465 = {
-				remove_core = ITA
-				remove_core = SAR
-				add_core = FRA
-				secede_province = FRA
-			}
-			466 = {
-				remove_core = ITA
-				remove_core = SAR
-				add_core = FRA
-				secede_province = FRA
-			}
-			472 = {
-				remove_core = ITA
-				remove_core = SAR
-				add_core = FRA
-				secede_province = FRA
-			}
-			set_country_flag = cavour_has_done_his
-		}
-	}
 	
 	award_order_of_st_francis = {
 		potential = {
@@ -117,51 +47,51 @@ political_decisions = {
 			set_country_flag = get_your_statuto_albertino_here
 		}
 	}
-	recognize_argentinas_independence = { #original VIP event by Generalisimo
-		potential = {
-			OR = {
-				tag = SAR
-				tag = ITA
-			}
-			exists = ARG
-			OR = { #is a monarchy
-				government = absolute_monarchy
-				government = prussian_constitutionalism
-				government = hms_government
-			}
-			NOT = {
-				has_country_flag = recognize_argentinas_independence
-			}
-		}
-		
-		allow = {
-			NOT = {
-				war_with = ARG
-			}
-			war = no
-			ARG = {
-				war = no
-			}
-			SPA = {
-				is_greater_power = no
-			}
-			NOT = {
-				in_sphere = SPA
-			}
-		}
-		
-		effect = {
-			ARG = {
-				country_event = 146603
-				relation = { who = THIS value = 20 }
-			}
-			SPA = {
-				relation = { who = THIS value = -10 }
-			} 
-			prestige = 1
-			set_country_flag = recognize_argentinas_independence
-		}
-	}
+	#recognize_argentinas_independence = { #original VIP event by Generalisimo
+	#	potential = {
+	#		OR = {
+	#			tag = SAR
+	#			tag = ITA
+	#		}
+	#		exists = ARG
+	#		OR = { #is a monarchy
+	#			government = absolute_monarchy
+	#			government = prussian_constitutionalism
+	#			government = hms_government
+	#		}
+	#		NOT = {
+	#			has_country_flag = recognize_argentinas_independence
+	#		}
+	#	}
+	#	
+	#	allow = {
+	#		NOT = {
+	#			war_with = ARG
+	#		}
+	#		war = no
+	#		ARG = {
+	#			war = no
+	#		}
+	#		SPA = {
+	#			is_greater_power = no
+	#		}
+	#		NOT = {
+	#			in_sphere = SPA
+	#		}
+	#	}
+	#	
+	#	effect = {
+	#		ARG = {
+	#			country_event = 146603
+	#			relation = { who = THIS value = 20 }
+	#		}
+	#		SPA = {
+	#			relation = { who = THIS value = -10 }
+	#		} 
+	#		prestige = 1
+	#		set_country_flag = recognize_argentinas_independence
+	#	}
+	#}
 	build_vittoriano = {
 		potential = {
 			tag = ITA

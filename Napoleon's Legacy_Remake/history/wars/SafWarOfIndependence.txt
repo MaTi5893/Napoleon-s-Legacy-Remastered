@@ -5,7 +5,7 @@ name = "South African War of Independence"
 	add_defender = NET
 	
 	war_goal = {
-		casus_belli = become_independent
+		casus_belli = status_quo
 		actor = SAF
 		receiver = NET
 	}

@@ -4,6 +4,7 @@ political_decisions = {
 		alert = yes
 		picture = national_value
 		potential = {
+			ai = no 
 			NOT = {	has_country_flag = nv_change }
 		}
 		
@@ -45,9 +46,9 @@ political_decisions = {
 	switch_to_diplomacy = {
 		picture = switch_to_diplomacy
 		potential = {
+			has_country_flag = nv_change
 			NOT = { nationalvalue = nv_diplomacy }
 			#NOT = { has_country_flag = switched_nv }
-			has_country_flag = nv_change
 		}
 		
 		allow = {
@@ -86,9 +87,9 @@ political_decisions = {
 	switch_to_education = {
 		picture = switch_to_education
 		potential = {
+			has_country_flag = nv_change
 			NOT = { nationalvalue = nv_education }
 			#NOT = { has_country_flag = switched_nv }
-			has_country_flag = nv_change
 		}
 		
 		allow = {
@@ -127,9 +128,9 @@ political_decisions = {
 	switch_to_order = {
 		picture = switch_to_order
 		potential = {
+			has_country_flag = nv_change
 			NOT = { nationalvalue = nv_order }
 			#NOT = { has_country_flag = switched_nv }
-			has_country_flag = nv_change
 		}
 		
 		allow = {
@@ -168,9 +169,9 @@ political_decisions = {
 	switch_to_production = {
 		picture = switch_to_productivity
 		potential = {
+			has_country_flag = nv_change
 			NOT = { nationalvalue = nv_productivity }
 			#NOT = { has_country_flag = switched_nv }
-			has_country_flag = nv_change
 		}
 		
 		allow = {
@@ -209,9 +210,9 @@ political_decisions = {
 	switch_to_autocracy = {
 		picture = switch_to_autocracy
 		potential = {
+			has_country_flag = nv_change
 			NOT = { nationalvalue = nv_autocracy }
 			#NOT = { has_country_flag = switched_nv }
-			has_country_flag = nv_change
 		}
 		
 		allow = {
@@ -249,9 +250,9 @@ political_decisions = {
 	switch_to_equality = {
 		picture = switch_to_equality
 		potential = {
+			has_country_flag = nv_change
 			NOT = { nationalvalue = nv_equality }
 			#NOT = { has_country_flag = switched_nv }
-			has_country_flag = nv_change
 		}
 		
 		allow = {
@@ -290,9 +291,9 @@ political_decisions = {
 	switch_to_liberty = {
 		picture = switch_to_liberty
 		potential = {
+			has_country_flag = nv_change
 			NOT = { nationalvalue = nv_liberty }
 			#NOT = { has_country_flag = switched_nv }
-			has_country_flag = nv_change
 		}
 		
 		allow = {

@@ -109,6 +109,7 @@ political_decisions = {
 	ionian_islands_question = {
 		potential = {
 			tag = FRA
+			824 = { owned_by = GRE } 
 			ION = {
 				vassal_of = FRA
 			}
