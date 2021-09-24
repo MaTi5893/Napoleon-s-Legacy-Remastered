@@ -10,4 +10,3 @@ colonial = 2
 	controller = ENG
 }
 
-set_province_flag = mine
