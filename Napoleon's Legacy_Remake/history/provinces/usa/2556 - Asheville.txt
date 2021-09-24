@@ -7,9 +7,10 @@ life_rating = 35
 	controller = CSA
 	owner = CSA
 	add_core = CSA
-	state_building = {
-		level = 1
-		building = regular_clothes_factory
-		upgrade = yes
-	}
+	#state_building = {
+	#	level = 1
+	#	building = regular_clothes_factory
+	#	upgrade = yes
+	#}
 }
+

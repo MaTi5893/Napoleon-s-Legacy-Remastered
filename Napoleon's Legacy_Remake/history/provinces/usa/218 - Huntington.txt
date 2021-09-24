@@ -15,3 +15,4 @@ party_loyalty = {
 	}
 }
 	
+

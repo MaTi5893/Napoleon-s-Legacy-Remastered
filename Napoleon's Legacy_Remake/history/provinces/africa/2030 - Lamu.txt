@@ -1,6 +1,5 @@
 owner = OMA
 controller = OMA
-add_core = OMA
 add_core = ZAN
 trade_goods = cattle
 life_rating = 35
@@ -8,3 +7,4 @@ life_rating = 35
 	owner = ZAN
 	controller = ZAN
 }
+

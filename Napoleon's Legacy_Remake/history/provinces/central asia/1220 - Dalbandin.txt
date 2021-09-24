@@ -3,3 +3,4 @@ controller = KAL
 add_core = KAL
 trade_goods = wool
 life_rating = 35
+

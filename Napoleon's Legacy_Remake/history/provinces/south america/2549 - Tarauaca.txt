@@ -3,5 +3,6 @@ controller = PEU
 add_core = PEU
 add_core = BRZ
 add_core = UPB
-trade_goods = tropical_wood
+trade_goods = rubber
 life_rating = 25
+

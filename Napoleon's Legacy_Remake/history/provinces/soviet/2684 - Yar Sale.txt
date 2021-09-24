@@ -6,3 +6,4 @@ life_rating = 15
 	controller = RUS
 	colonial = 2
 }
+

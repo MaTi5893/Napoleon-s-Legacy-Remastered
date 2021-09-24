@@ -7,3 +7,4 @@ life_rating = 30
 	owner = SPA
 	controller = SPA
 }
+

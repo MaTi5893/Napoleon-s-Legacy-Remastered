@@ -1,3 +1,8 @@
-trade_goods = coffee
-life_rating = 15
+owner = LIB
+controller = LIB
 add_core = LIB
+trade_goods = iron
+life_rating = 32
+
+
+

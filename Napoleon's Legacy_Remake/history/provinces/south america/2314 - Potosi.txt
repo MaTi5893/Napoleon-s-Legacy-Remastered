@@ -1,5 +1,8 @@
 owner = ARG
 controller = ARG
 add_core = BOL
-trade_goods = grain
+trade_goods = iron
 life_rating = 30
+
+
+

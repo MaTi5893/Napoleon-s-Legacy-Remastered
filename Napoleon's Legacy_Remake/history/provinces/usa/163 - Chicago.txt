@@ -2,6 +2,6 @@ owner = ICF
 controller = ICF
 add_core = ICF
 add_core = USA
-trade_goods = coal
+trade_goods = cattle
 life_rating = 35
 1861.1.1 = { railroad = 3 }

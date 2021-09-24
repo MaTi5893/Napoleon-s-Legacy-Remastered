@@ -5,4 +5,21 @@ add_core = RHI
 add_core = FRA
 trade_goods = sulphur
 life_rating = 40
-1861.1.1 = { railroad = 3 }
+fort = 1
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}
+1861.1.1 = {
+	state_building = {
+		level = 2
+		building = ammunition_factory
+		upgrade = yes
+	}
+}
+1861.1.1 = { 
+	railroad = 3
+	fort = 3
+}
+

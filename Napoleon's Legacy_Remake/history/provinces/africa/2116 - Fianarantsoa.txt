@@ -3,3 +3,4 @@ controller = MAD
 add_core = MAD
 trade_goods = coal
 life_rating = 35
+

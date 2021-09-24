@@ -1,4 +1,9 @@
 #Sphere of Influence
+IRE = { 
+	value = 125
+	value = 5
+	influence_value = 15
+}
 NET = {
 	value = 125		#relation
 	level = 4		#3=cordial, 4 = friendly, 5 sphere

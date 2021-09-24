@@ -1,5 +1,5 @@
 owner = ENG
 controller = ENG
-trade_goods = timber
+trade_goods = tropical_wood
 life_rating = 30
 colonial = 2

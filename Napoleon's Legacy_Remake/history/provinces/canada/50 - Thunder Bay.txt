@@ -2,5 +2,5 @@ owner = ENG
 controller = ENG
 add_core = CAN
 add_core = ENG
-trade_goods = cattle
+trade_goods = timber
 life_rating = 35

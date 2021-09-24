@@ -8,6 +8,11 @@ life_rating = 35
 #	building = lumber_mill
 #	upgrade = yes
 #}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
 1861.1.1 = {
 	state_building = {
 		level = 1
@@ -15,3 +20,4 @@ life_rating = 35
 		upgrade = yes
 	}
 } 
+

@@ -1,2 +1,5 @@
-trade_goods = grain
+trade_goods = iron
 life_rating = 10
+
+
+

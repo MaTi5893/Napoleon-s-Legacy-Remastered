@@ -3,3 +3,4 @@ controller = YEM
 add_core = YEM
 trade_goods = opium
 life_rating = 35
+

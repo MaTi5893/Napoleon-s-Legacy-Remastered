@@ -5,19 +5,20 @@ add_core = GER
 add_core = POL
 trade_goods = grain
 life_rating = 40
+fort = 1
 state_building = {
 	level = 1
 	building = explosives_factory
 	upgrade = yes
 }
 state_building = {
-	level = 1
+	level = 2
 	building = artillery_factory
 	upgrade = yes
 }
 1861.1.1 = {
 	state_building = {
-		level = 1
+		level = 2
 		building = steel_factory
 		upgrade = yes
 	}
@@ -27,14 +28,15 @@ state_building = {
 		upgrade = yes
 	}
 	state_building = {
-		level = 1
+		level = 2
 		building = explosives_factory
 		upgrade = yes
 	}
 	state_building = {
-		level = 2
+		level = 3
 		building = artillery_factory
 		upgrade = yes
 	}
 }
 1861.1.1 = { railroad = 3 }
+

@@ -3,5 +3,5 @@ controller = GCO
 add_core = GCO
 add_core = CLM
 add_core = GCO
-trade_goods = cattle
+trade_goods = coal
 life_rating = 30

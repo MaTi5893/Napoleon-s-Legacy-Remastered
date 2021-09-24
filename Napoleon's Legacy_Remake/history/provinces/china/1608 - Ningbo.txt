@@ -1,5 +1,7 @@
 owner = CHI
 controller = CHI
 add_core = CHI
-trade_goods = timber
-life_rating = 32
+
+trade_goods = silk
+life_rating = 35
+

@@ -3,3 +3,4 @@ controller = DAI
 add_core = DAI
 trade_goods = tobacco
 life_rating = 30
+

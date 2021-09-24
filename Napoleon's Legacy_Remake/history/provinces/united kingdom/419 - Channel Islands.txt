@@ -4,3 +4,4 @@ add_core = GBR
 add_core = ENG
 trade_goods = fish
 life_rating = 35
+

@@ -3,7 +3,7 @@ controller = GBR
 add_core = GBR
 add_core = ENG
 trade_goods = coal
-life_rating = 35
+life_rating = 37
 
 state_building = {
 	level = 1
@@ -11,8 +11,13 @@ state_building = {
 	upgrade = yes
 }
 state_building = {
-	level = 1
+	level = 3
 	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
 	upgrade = yes
 }
 1861.1.1 = {
@@ -26,5 +31,31 @@ state_building = {
 		building = glass_factory
 		upgrade = yes
 	}
+	state_building = {
+		level = 1
+		building = canned_food_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 1
+		building = small_arms_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 4
+		building = artillery_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 2
+		building = explosives_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 2
+		building = steel_factory
+		upgrade = yes
+	}
 }
 1861.1.1 = { railroad = 4 }
+

@@ -3,3 +3,4 @@ owner = ARG
 add_core = ARG
 trade_goods = cattle
 life_rating = 25
+

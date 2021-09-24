@@ -15,35 +15,61 @@ state_building = {
 	upgrade = yes
 }
 state_building = {
-	level = 1
-	building = paper_mill
+	level = 2
+	building = machine_parts_factory
 	upgrade = yes
 }
 state_building = {
-	level = 1
-	building = ammunition_factory
-	upgrade = yes
-}
-state_building = {
-	level = 1
-	building = small_arms_factory
+	level = 3
+	building = canned_food_factory
 	upgrade = yes
 }
 state_building = {
 	level = 2
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 3
+	building = small_arms_factory
+	upgrade = yes
+}
+state_building = {
+	level = 6
+	building = artillery_factory
+	upgrade = yes
+}
+state_building = {
+	level = 3
 	building = clipper_shipyard
 	upgrade = yes
 }
 1861.1.1 = {
 	state_building = {
-		level = 1
-		building = luxury_clothes_factory
+		level = 2
+		building = furniture_factory
 		upgrade = yes
 	}
 	state_building = {
-		level = 1
-		building = luxury_furniture_factory
+		level = 4
+		building = steamer_shipyard
+		upgrade = yes
+	}
+	state_building = {
+		level = 4
+		building = canned_food_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 4
+		building = small_arms_factory
+		upgrade = yes
+	}
+	state_building = {
+		level = 7
+		building = artillery_factory
 		upgrade = yes
 	}
 }
 1861.1.1 = { railroad = 3 }
+

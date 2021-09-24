@@ -3,3 +3,4 @@ controller = LUA
 add_core = LUA
 trade_goods = tobacco
 life_rating = 30
+

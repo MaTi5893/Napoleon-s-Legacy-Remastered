@@ -3,4 +3,5 @@ controller = ENG
 add_core = HND
 trade_goods = tea
 life_rating = 32
-colonial = 2
+colonial = 1
+

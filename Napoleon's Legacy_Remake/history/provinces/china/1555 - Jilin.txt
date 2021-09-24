@@ -4,3 +4,6 @@ add_core = CHI
 add_core = MCK
 trade_goods = iron
 life_rating = 32
+
+
+

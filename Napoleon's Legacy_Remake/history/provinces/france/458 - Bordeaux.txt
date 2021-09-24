@@ -19,3 +19,4 @@ life_rating = 31
 	railroad = 3 
 	naval_base = 1
 }
+

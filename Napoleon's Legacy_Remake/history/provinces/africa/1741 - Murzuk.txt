@@ -6,5 +6,6 @@ life_rating = 25
 1861.1.1 = {
 	owner = TUR
 	controller = TUR
-	colonial = 0
+	colonial = 2
 }
+

@@ -7,3 +7,4 @@ life_rating = 20
 	fort = 1
 	naval_base = 1
 }
+
