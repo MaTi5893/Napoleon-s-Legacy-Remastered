@@ -1,7 +1,7 @@
 owner = HAN
 controller = HAN
 add_core = HAN
-add_core = BRA
+#add_core = BRA #BRA is berg's tag actually, cope about it 
 add_core = GER
 trade_goods = fruit
 life_rating = 40

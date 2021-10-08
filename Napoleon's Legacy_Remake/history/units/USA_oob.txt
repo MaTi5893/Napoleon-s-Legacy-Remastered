@@ -55,6 +55,7 @@ JAP = {
 
 CHE = { 	
 	value = -200
+	level = 0
 }
 	
 
