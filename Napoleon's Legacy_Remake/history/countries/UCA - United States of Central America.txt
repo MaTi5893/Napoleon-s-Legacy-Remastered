@@ -4,17 +4,18 @@ culture = mayan
 religion = catholic
 government = democracy
 plurality = 25.0
-nationalvalue = nv_equality
+nationalvalue = nv_liberty
 literacy = 0.09
 civilized = yes
 prestige = 1
+
 set_country_flag = new_world_nation
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = appointed
 vote_franschise = landed_voting
-public_meetings = yes_meeting
+public_meetings = no_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post

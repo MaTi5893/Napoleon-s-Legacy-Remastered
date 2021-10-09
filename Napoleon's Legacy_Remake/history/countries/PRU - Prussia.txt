@@ -1,10 +1,11 @@
 capital = 549
 primary_culture = north_german
 culture = south_german
+culture = ashkenazi
 religion = protestant
 government = absolute_monarchy
 plurality = 25.0
-nationalvalue = nv_order
+nationalvalue = nv_diplomacy
 literacy = 0.70
 non_state_culture_literacy = 0.25
 civilized = yes
@@ -73,7 +74,7 @@ mechanical_production = 1
 
 romanticism = 1
 practical_steam_engine = 1
-#clean_coal = 1
+clean_coal = 1
 
 
 #Inventions
@@ -85,4 +86,5 @@ nonstate_consciousness = 1
 schools = army_tech_school
 
 oob = "PRU_oob.txt"
+
 

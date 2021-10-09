@@ -1,5 +1,5 @@
 artillery_offensive = { 
-	icon = 25
+	icon = 18
 	
 	type = land
 	sprite = Artillery

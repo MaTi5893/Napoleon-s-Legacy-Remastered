@@ -511,7 +511,7 @@ bolt_action_rifles = {
 	cost = 18000
 	unciv_military = yes
 	unit = 1
-	activate_unit = guard
+	#activate_unit = guard
 	
 	combat_width = -3 #was-5
 	

@@ -4,9 +4,12 @@ culture = andean
 religion = catholic
 government = presidential_dictatorship
 plurality = 0.1
-nationalvalue = nv_order
+nationalvalue = nv_liberty
 literacy = 0.25
 civilized = yes
+is_releasable_vassal = no
+
+
 set_country_flag = new_world_nation
 
 # Political reforms

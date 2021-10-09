@@ -580,11 +580,6 @@ guiTypes = {
 			quadTextureSprite ="GFX_unit_folder_army_4_engineer"
 		}
 		guiButtonType = {
-			name = "unit_folder_18"
-			position = { x= 8 y =-1}
-			quadTextureSprite ="GFX_unit_folder_army_5_guard"
-		}
-		guiButtonType = {
 			name = "unit_folder_14"
 			position = { x= 239 y =31}
 			quadTextureSprite ="GFX_unit_folder_army_6_dragoon"
@@ -601,12 +596,12 @@ guiTypes = {
 		}
 		guiButtonType = {
 			name = "unit_folder_20"
-			position = { x= 41 y =-1}
+			position = { x= 8 y =-1}
 			quadTextureSprite ="GFX_unit_folder_army_9_tank"
 		}
 		guiButtonType = {
 			name = "unit_folder_19"
-			position = { x= 74 y =-1}
+			position = { x= 41 y =-1}
 			quadTextureSprite ="GFX_unit_folder_army_10_plane"
 		}
 		guiButtonType = {
@@ -625,7 +620,7 @@ guiTypes = {
 			quadTextureSprite ="GFX_unit_folder_army_13_artillery_defensive"
 		}
 		guiButtonType = {
-			name = "unit_folder_25"
+			name = "unit_folder_18"
 			position = { x= 305 y =31}
 			quadTextureSprite ="GFX_unit_folder_army_14_artillery_offensive"
 		}

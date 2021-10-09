@@ -45,7 +45,6 @@ wright_n_langleys_aeroplanes = {
 		}
 	}
 	effect = {
-		#activate_building =aeroplane_factory #this building is activated via the 'aeronautics' research (military science tree)
 		factory_goods_output = {
 			machine_parts = 0.02 
 		}
@@ -1273,7 +1272,7 @@ x_rays = {
 		}
 	}
 	effect = {
-		pop_growth = 0.0002
+		#pop_growth = 0.0002
 		land_attrition = -0.02 
 	}
 }

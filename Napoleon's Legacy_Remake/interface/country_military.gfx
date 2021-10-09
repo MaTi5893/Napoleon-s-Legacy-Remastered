@@ -99,11 +99,6 @@ spriteTypes = {
 		noOfFrames = 2
 	}
 	spriteType = {
-		name = "GFX_unit_folder_army_5_guard"
-		texturefile = "gfx\\interface\\unit_folder_army_5_guard.dds"
-		noOfFrames = 2
-	}
-	spriteType = {
 		name = "GFX_unit_folder_army_6_dragoon"
 		texturefile = "gfx\\interface\\unit_folder_army_6_dragoon.dds"
 		noOfFrames = 2

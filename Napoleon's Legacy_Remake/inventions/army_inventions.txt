@@ -49,10 +49,10 @@ post_napoleonic_army_doctrine = {
 			attack = 0.35
 			defence = 0.35
 		}
-		guard = {
-			attack = 0.85
-			defence = 0.85
-		}
+		#guard = {
+		#	attack = 0.85
+		#	defence = 0.85
+		#}
 		engineer = {
 			attack = 0.6
 			defence = 0.6
@@ -118,10 +118,10 @@ field_fortifications = {
 			attack = 0.35
 			defence = 0.35
 		}
-		guard = {
-			attack = 0.85
-			defence = 0.85
-		}
+		#guard = {
+		#	attack = 0.85
+		#	defence = 0.85
+		#}
 		engineer = {
 			attack = 0.6
 			defence = 0.6
@@ -232,10 +232,10 @@ flexible_firepower = {
 			attack = 0.35
 			defence = 0.35
 		}
-		guard = {
-			attack = 0.85
-			defence = 0.85
-		}
+		#guard = {
+		#	attack = 0.85
+		#	defence = 0.85
+		#}
 		engineer = {
 			attack = 0.6
 			defence = 0.6
@@ -303,10 +303,10 @@ synchronized_heavy_support = {
 			attack = 0.35
 			defence = 0.35
 		}
-		guard = {
-			attack = 0.85
-			defence = 0.85
-		}
+		#guard = {
+		#	attack = 0.85
+		#	defence = 0.85
+		#}
 		engineer = {
 			attack = 0.6
 			defence = 0.6
@@ -392,10 +392,10 @@ trench_systems = {
 			attack = 0.35
 			defence = 0.35
 		}
-		guard = {
-			attack = 0.85
-			defence = 0.85
-		}
+		#guard = {
+		#	attack = 0.85
+		#	defence = 0.85
+		#}
 		engineer = {
 			attack = 0.6
 			defence = 0.6
@@ -506,10 +506,10 @@ elastic_defense_system = {
 			attack = 0.35
 			defence = 0.35
 		}
-		guard = {
-			attack = 0.85
-			defence = 0.85
-		}
+		#guard = {
+		#	attack = 0.85
+		#	defence = 0.85
+		#}
 		engineer = {
 			attack = 0.6
 			defence = 0.6
@@ -578,10 +578,10 @@ flexible_counterattacks = {
 			attack = 0.35
 			defence = 0.35
 		}
-		guard = {
-			attack = 0.85
-			defence = 0.85
-		}
+		#guard = {
+		#	attack = 0.85
+		#	defence = 0.85
+		#}
 		engineer = {
 			attack = 0.6
 			defence = 0.6
@@ -658,10 +658,10 @@ low_echelon_fire_support = {
 			attack = 0.35
 			defence = 0.35
 		}
-		guard = {
-			attack = 0.85
-			defence = 0.85
-		}
+		#guard = {
+		#	attack = 0.85
+		#	defence = 0.85
+		#}
 		engineer = {
 			attack = 0.6
 			defence = 0.6
@@ -725,10 +725,10 @@ stormtrooper_training = {
 			attack = 0.35
 			defence = 0.35
 		}
-		guard = {
-			attack = 0.85
-			defence = 0.85
-		}
+		#guard = {
+		#	attack = 0.85
+		#	defence = 0.85
+		#}
 		engineer = {
 			attack = 0.6
 			defence = 0.6
@@ -846,10 +846,10 @@ firepower_vs_mobility = {
 			attack = 0.35
 			defence = 0.35
 		}
-		guard = {
-			attack = 0.85
-			defence = 0.85
-		}
+		#guard = {
+		#	attack = 0.85
+		#	defence = 0.85
+		#}
 		engineer = {
 			attack = 0.6
 			defence = 0.6
@@ -939,10 +939,10 @@ human_wave_vs_spearhead = {
 			attack = 0.35
 			defence = 0.35
 		}
-		guard = {
-			attack = 0.85
-			defence = 0.85
-		}
+		#guard = {
+		#	attack = 0.85
+		#	defence = 0.85
+		#}
 		engineer = {
 			attack = 0.6
 			defence = 0.6
@@ -1023,11 +1023,11 @@ flintlock_rifle_armament = {
 			defence = 0.35
 			supply_consumption = 0.1
 		}
-		guard = {
-			attack = 0.85
-			defence = 0.85
-			supply_consumption = 0.1
-		}
+		#guard = {
+		#	attack = 0.85
+		#	defence = 0.85
+		#	supply_consumption = 0.1
+		#}
 		engineer = {
 			attack = 0.6
 			defence = 0.6
@@ -1103,11 +1103,11 @@ muzzle_loaded_rifle_armament = {
 			defence = 0.35
 			supply_consumption = 0.1
 		}
-		guard = {
-			attack = 0.85
-			defence = 0.85
-			supply_consumption = 0.1
-		}
+		#guard = {
+		#	attack = 0.85
+		#	defence = 0.85
+		#	supply_consumption = 0.1
+		#}
 		engineer = {
 			attack = 0.6
 			defence = 0.6
@@ -1183,11 +1183,11 @@ breech_loaded_rifle_armament = {
 			defence = 0.35
 			supply_consumption = 0.1
 		}
-		guard = {
-			attack = 0.85
-			defence = 0.85
-			supply_consumption = 0.1
-		}
+		#guard = {
+		#	attack = 0.85
+		#	defence = 0.85
+		#	supply_consumption = 0.1
+		#}
 		engineer = {
 			attack = 0.6
 			defence = 0.6
@@ -1263,11 +1263,11 @@ machine_gun_armament = {
 			defence = 0.35
 			supply_consumption = 0.2
 		}
-		guard = {
-			attack = 0.85
-			defence = 4
-			supply_consumption = 0.2
-		}
+		#guard = {
+		#	attack = 0.85
+		#	defence = 4
+		#	supply_consumption = 0.2
+		#}
 		engineer = {
 			attack = 0.6
 			defence = 4
@@ -1383,11 +1383,11 @@ bolt_action_rifle_armament = {
 			defence = 0.35
 			supply_consumption = 0.2
 		}
-		guard = {
-			attack = 4
-			defence = 0.85
-			supply_consumption = 0.2
-		}
+		#guard = {
+		#	attack = 4
+		#	defence = 0.85
+		#	supply_consumption = 0.2
+		#}
 		engineer = {
 			attack = 4
 			defence = 0.6
@@ -1465,11 +1465,11 @@ interwar_infantry = {
 			defence = 0.35
 			supply_consumption = 0.2
 		}
-		guard = {
-			attack = 0.85
-			defence = 0.85
-			supply_consumption = 0.2
-		}
+		#guard = {
+		#	attack = 0.85
+		#	defence = 0.85
+		#	supply_consumption = 0.2
+		#}
 		engineer = {
 			attack = 0.6
 			defence = 0.6
@@ -1603,7 +1603,7 @@ armoured_cars = {
 	effect = {
 		tank = {
 			attack = 2
-			defence = 2
+			defence = 4
 			supply_consumption = 0.05
 		}
 	}
@@ -2078,6 +2078,11 @@ military_aviation = {
 			not = { invention = wright_n_langleys_aeroplanes }
 		}
 	}
+	effect = {
+		plane = {
+			supply_consumption = 2.15
+		}
+	}
 }
 early_interwar_bombers = {
 	limit = { aeronautics = 1 }
@@ -2128,8 +2133,8 @@ early_interwar_fighters = {
 	}
 	effect = {
 		plane = {
-			attack = 3
-			defence = 1.5
+			attack = 1
+			defence = 1
 			supply_consumption = 0.025
 		}
 	}
@@ -2227,8 +2232,8 @@ force_substitution_doctrine = {
 	}
 	effect = {
 		plane = {
-			attack = 1
-			defence = 1
+		#	attack = 1
+		#	defence = 1
 			default_organisation = 5
 		}
 	}
@@ -2255,8 +2260,8 @@ battlefield_destruction_doctrine = {
 	}
 	effect = {
 		plane = {
-			attack = 1
-			defence = 1
+		#	attack = 1
+		#	defence = 1
 			default_organisation = 5
 		}
 	}
@@ -2283,8 +2288,8 @@ operational_destruction_doctrine = {
 	}
 	effect = {
 		plane = {
-			attack = 1
-			defence = 1
+		#	attack = 1
+		#	defence = 1
 			default_organisation = 5
 		}
 	}
@@ -2311,8 +2316,8 @@ strategic_destruction_doctrine = {
 	}
 	effect = {
 		plane = {
-			attack = 1
-			defence = 1
+		#	attack = 1
+		#	defence = 1
 			default_organisation = 5
 		}
 	}
@@ -2500,9 +2505,9 @@ army_alternative_plans = {
 		irregular = {
 			maximum_speed = 1
 		}
-		guard = {
-			maximum_speed = 1
-		}
+		#guard = {
+		#	maximum_speed = 1
+		#}
 	}
 }
 

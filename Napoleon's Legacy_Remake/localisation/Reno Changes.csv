@@ -77,6 +77,8 @@ change_tech_school_off_title;Change Tech School (Showing);;;;;;;x
 change_tech_school_off_desc;Hide Tech School Decisions;;;;;;;x
 player_alliances_title;Ally All Player Nations;;;;;;;x
 player_alliances_desc;Automatically allies all player nations. DO NOT SPAM.;;;;;;;x
+fuck_ai_immigration_title;Fuck AI Immigration;;;;;;;x
+fuck_ai_immigration_desc;This decision removes AI nations from immigration priority entirely. Immigrants will only go to player nations.;;;;;;;x
 #############################################;;;;;;;x
 double_down_in_the_balkans_title;Double Down in the Balkans;;;;;;;x
 double_down_in_the_balkans_desc;For too long have the peoples of the Balkans thwarted our efforts of expansion. Let us focus all our attention to the re-education and assimilation of these barbaric peoples.;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -93,9 +95,25 @@ demand_concession_casus_belli_china;Chinese Core Concession;;;;;;;x
 demand_concession_casus_belli_china_short;Demand $STATE$ from China;;;;;;;x
 demand_concession_casus_belli_china_desc;Force China to concede core territory.;;;;;;;x
 demand_concession_casus_belli_china_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;x
+take_capital_earlygame;Take Capital Earlygame;;;;;;;;;;;
+take_capital_earlygame_short;Acquire capital $STATE$.;;;;;;;;;;;
+take_capital_earlygame_desc;Force target to concede its capital $STATE$.;;;;;;;;;;;
+take_capital_earlygame_setup;Demand that $RECIPIENT$ secede its capital.;;;;;;;;;;;
+take_capital_midgame;Take Capital Midgame;;;;;;;;;;;
+take_capital_midgame_short;Acquire capital $STATE$.;;;;;;;;;;;
+take_capital_midgame_desc;Force target to concede its capital $STATE$.;;;;;;;;;;;
+take_capital_midgame_setup;Demand that $RECIPIENT$ secede its capital.;;;;;;;;;;;
+take_capital_lategame;Take Capital Lategame;;;;;;;;;;;
+take_capital_lategame_short;Acquire capital $STATE$.;;;;;;;;;;;
+take_capital_lategame_desc;Force target to concede its capital $STATE$.;;;;;;;;;;;
+take_capital_lategame_setup;Demand that $RECIPIENT$ secede its capital.;;;;;;;;;;;
 #############################################;;;;;;;x
 #Additional Modifiers;;;;;;;x
 #############################################;;;;;;;x
+china_rp_nerf;Chinese RP from Conquest Nerf;;;;;;;x
+china_rp_nerf_desc;Chinese research points from quest nerf (only matters for uncivs);;;;;;;x
+the_homestead_act_mexico;Mexican Homestead Act;;;;;;;x
+the_homestead_act_mexico_desc;An Alternative Homestead Act established by Mexico.;;;;;;;;;;;;;x,
 assimilation_fix_modifier;Assimilation Fix Modifier;;;;;;;x
 assimilation_fix_modifier_desc;This modifier exists to counter the engine restricted assimilation modifier on pops who are on their cultural_union cores.;;;;;;;x
 policestate_modifier;The Police State;;;;;;;x
@@ -129,3 +147,8 @@ offensive_infantry_activation;Activate Offensive Infantry;;;;;;;x
 defensive_infantry_activation;Activate Defensive Infantry;;;;;;;x
 offensive_artillery_activation;Activate Offensive Artillery;;;;;;;x
 defensive_artillery_activation;Activate Defensive Artillery;;;;;;;x
+#############################################;;;;;;;x
+#Additional Triggered Modifiers;;;;;;;;;;;;;;x
+#############################################;;;;;;;x
+political_reformed_nation;Politically Liberal State;;;;;;;x
+political_reformed_nation_desc;Our country political reforms match every liberal demand, giving us international recognition as a truly free state.;;;;;;;x

@@ -4,9 +4,10 @@ culture = anglo_canadian
 religion = catholic
 government = hms_government
 plurality = 0.2
-nationalvalue = nv_order
+nationalvalue = nv_liberty
 literacy = 0.6
 civilized = yes
+
 set_country_flag = new_world_nation
 
 # Political reforms
@@ -38,4 +39,5 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
 

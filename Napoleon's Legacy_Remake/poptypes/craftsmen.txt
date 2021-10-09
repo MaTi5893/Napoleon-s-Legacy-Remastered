@@ -19,7 +19,7 @@ everyday_needs = {
 
 life_needs = {
 	cattle = 1.25
-	wool =  1.25
+	wool =  1.1
 	fish =  1.5
 	fruit =  1.5
 	grain =  3
@@ -42,60 +42,38 @@ country_migration_target =
 	factor = 1
 
 	modifier = {
+		factor = -10000.0
+		NOT = { has_country_flag = new_world_nation }
+	}
+	modifier = {
 		factor = 4.0
 		THIS = { religion = jewish }
 		any_owned_province = { is_core = ISR }
 	}
+	#modifier = {
+	#	factor = 10.0
+	#	has_country_flag = new_world_nation
+	#	nationalvalue = nv_liberty
+	#}
 	modifier = {
-		factor = 10.0
+        factor = 50.0
 		has_country_flag = new_world_nation
-	}
+		nationalvalue = nv_liberty
+		NOT = {
+			any_owned_province = {
+				has_recent_imigration = 5
+			}
+		}
+    }
 	modifier = {
-		factor = 0.9
-		unemployment = 0.05
-	}
-	modifier = {
-		factor = 0.9
-		unemployment = 0.1
-	}
-	modifier = {
-		factor = 0.9
-		unemployment = 0.15
-	}
-	modifier = {
-		factor = 0.9
-		unemployment = 0.2
-	}
-	modifier = {
-		factor = 0.9
-		unemployment = 0.25
-	}
-	modifier = {
-		factor = 0.9
-		unemployment = 0.3
-	}
-	modifier = {
-		factor = 0.9
-		unemployment = 0.35
-	}
+        factor = -10000.0
+		has_global_flag = fuck_ai_immigration
+		ai = yes
+    }
 	modifier = {
 		factor = 0.1
-		unemployment = 0.5
-	}
-	#modifier = {
-	#	factor = 1.05
-	#	vote_franschise = wealth_voting
-	#}
-	#modifier = {
-	#	factor = 1.25
-	#	vote_franschise = universal_weighted_voting
-	#}
-	#modifier = {
-	#	factor = 1.5
-	#	vote_franschise = universal_voting
-	#}
-	modifier = {
-		factor = 0.1
+		has_country_flag = new_world_nation
+		nationalvalue = nv_liberty
 		NOT = {
 			any_owned_province = {
 				OR = {
@@ -114,7 +92,7 @@ country_migration_target =
 				}
 			}
 		}
-	}	
+	}
 }
 
 migration_target =
@@ -1923,10 +1901,6 @@ issues =
 				NOT = { civilized = yes }
 				military_score = THIS
 			}
-		}
-		modifier = { 
-			factor = 0.5
-			has_country_modifier = signed_the_geneva_convention
 		} 
 	}
 	pro_military = {

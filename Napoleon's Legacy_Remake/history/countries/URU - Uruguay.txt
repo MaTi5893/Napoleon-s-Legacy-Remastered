@@ -3,20 +3,22 @@ primary_culture = platinean
 religion = catholic
 government = democracy
 plurality = 25.0
-nationalvalue = nv_order
+nationalvalue = nv_liberty
 literacy = 0.1
 civilized = yes
 prestige = 1
+
 set_country_flag = new_world_nation
+
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = state_equal_weight
-vote_franschise = wealth_voting
+vote_franschise = landed_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = first_past_the_post
-political_parties = harassment
+voting_system = jefferson_method
+political_parties = non_secret_ballots
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -61,5 +63,4 @@ consciousness = 2
 nonstate_consciousness = 0
 
 oob = "URU_oob.txt"
-
 

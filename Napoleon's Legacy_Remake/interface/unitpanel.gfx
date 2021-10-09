@@ -106,7 +106,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_unit_strip"
 		texturefile = "gfx\\interface\\unit_strip.dds"
-		noOfFrames = 25
+		noOfFrames = 24
 		effectFile = "gfx\\FX\\buttonstate2.fx"
 	}
 	spriteType = {

@@ -25,14 +25,12 @@ plane = {
 	}
 	
 	supply_consumption = 1.0
-	supply_cost = {
-		aeroplanes = 0.08
-		small_arms = 0.014
-		ammunition = 0.226		
-		canned_food = 0.07
-		fuel = 0.055
+	supply_cost = { #7.78 total #31.12 total with late game invention/tech consumption ONLY
+		aeroplanes = 0.08 #5.6
+		small_arms = 0.014 #0.35
+		ammunition = 0.226 #1.13	
+		canned_food = 0.07 #0.7
 	}
-	
 
 	#Land Abilties
 	reconnaissance = 4
