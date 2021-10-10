@@ -1,4 +1,4 @@
-#Western turkich Steppes Region (72000)
+#Western Kazakh Steppes Region (72000)
 #under the rule of Russia in 1836
 #Guryev (19000/4750 POPS)
 1182 = {
@@ -182,7 +182,7 @@
 		size = 4575
 	}
 }
-#Eastern turkich Steppes Region (376000)
+#Eastern Kazakh Steppes Region (376000)
 #under the rule of Russia in 1836
 #Qaraganda (56000/14000 POPS)
 1181 = {
@@ -533,7 +533,7 @@
 		size = 14575
 	}
 }
-#Khwarazm Region (168000) #see turkicistan.txt and turkicistan.txt for balance of region 
+#Khwarazm Region (168000) #see Uzbekistan.txt and Turkmenistan.txt for balance of region 
 #under the rule of Khiva in 1836
 #Kyzylorda (108000/27000 POPS)
 1193 = {
@@ -661,9 +661,9 @@
 		size = 6425
 	}
 }
-#Mawarannahr Region (180000) #see turkicistan.txt, turkicistan.txt, Kirghizstan.txt for balance of region 
+#Mawarannahr Region (180000) #see Uzbekistan.txt, Tajikistan.txt, Kirghizstan.txt for balance of region 
 #under the rule of Bukhara in 1836
-#Shymkent (180000/45000 POPS) #now part of turkichstan   
+#Shymkent (180000/45000 POPS) #now part of Kazakhstan   
 1197 = {
 	aristocrats = {
 		culture = turkic

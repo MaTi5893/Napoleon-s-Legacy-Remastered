@@ -1,6 +1,6 @@
-#Khwarazm Region (40000) #see turkicistan.txt and turkichstan.txt for balance of region 
+#Khwarazm Region (40000) #see Uzbekistan.txt and Kazakhstan.txt for balance of region 
 #under the rule of Khiva in 1836  
-#Dashhowuz (40000/10000 POPS) #now part of turkicistan  
+#Dashhowuz (40000/10000 POPS) #now part of Turkmenistan  
 1195 = {
 	aristocrats = {
 		culture = turkic
@@ -32,7 +32,7 @@
 		size = 9200
 	}
 }
-#turkicia Region (368000) 
+#Turkmenia Region (368000) 
 #under the rule of Khiva in 1836  
 #Ashkabad (148000/32000 POPS)   
 1204 = {

@@ -8873,7 +8873,7 @@
 		size = 230
 	}
 }
-#Tananfarenmba (1000/250 POPS)
+#Tayimba (1000/250 POPS)
 2656 = {
 	aristocrats = {
 		culture = siberian

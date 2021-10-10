@@ -526,7 +526,7 @@
 		size = 17825
 	}
 }
-#Tangannanfarenkia Region (1276000)
+#Tanganyikia Region (1276000)
 #uncolonized in 1836/dominated by the Unyamwezi
 #Tabora (260000/65000 POPS)
 2043 = {
