@@ -1,6 +1,6 @@
 capital = 1600
-primary_culture = beifaren
-culture = uighur
+primary_culture = turkic
+culture = beifaren
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
@@ -40,4 +40,3 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
-

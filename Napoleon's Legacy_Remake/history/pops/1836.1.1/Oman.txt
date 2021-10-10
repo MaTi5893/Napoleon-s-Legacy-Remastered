@@ -69,37 +69,37 @@
 	}
 
 	artisans = {
-		culture = baluchi
+		culture = aryan
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = baluchi
+		culture = aryan
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = baluchi
+		culture = aryan
 		religion = sunni
 		size = 925
 	}
 
 	clergymen = {
-		culture = persian
+		culture = aryan
 		religion = shiite
 		size = 25
 	}
 
 	artisans = {
-		culture = persian
+		culture = aryan
 		religion = shiite
 		size = 50
 	}
 
 	farmers = {
-		culture = persian
+		culture = aryan
 		religion = shiite
 		size = 925
 	}
@@ -255,19 +255,19 @@
 	}
 
 	artisans = {
-		culture = baluchi
+		culture = aryan
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = baluchi
+		culture = aryan
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = baluchi
+		culture = aryan
 		religion = sunni
 		size = 925
 	}

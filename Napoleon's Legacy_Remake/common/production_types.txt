@@ -210,7 +210,7 @@ advanced_factory_template = {
 synthetics_factory_template = {
 	efficiency = {
 		cement = 0.5 #if no cement, work at 75% efficiency #cost = 16.0
-		electric_gear = 0.1 # cost = 14		               # 9.4/day/level
+		#electric_gear = 0.1 # cost = 14		               # 9.4/day/level
 	}
 	
 	owner =
@@ -438,13 +438,31 @@ machine_parts_factory = {
 synthetic_oil_factory = {       
 	template = synthetics_factory_template
 	input_goods = { 
-		coal = 4.9		#11.25	total input+maint = 20.65
+		coal = 5		#11.5	total input+maint = 20.65
 	}
 	output_goods = oil 
-	value = 1			#12
+	value = 2			#24
 	bonus = {
 		trigger = { trade_goods_in_state = coal }
-		value = 0.15
+		value = 0.25
+	}
+}
+
+synthetic_rubber_factory = {       
+	template = synthetics_factory_template
+	input_goods = { 
+		oil = 1		#12
+	}
+	output_goods = rubber
+	value = 4.7			#32.9
+	bonus = {
+		trigger = { 
+			OR = {
+				trade_goods_in_state = oil 
+				has_building = synthetic_oil_factory
+				}
+			}
+		value = 0.25
 	}
 }
 
@@ -453,10 +471,10 @@ synthetic_oil_factory = {
 fuel_refinery = {       
 	template = advanced_factory_template
 	input_goods = { 
-		oil = 2.5			#30	total input+maint = 40
+		oil = 1			#12	total input+maint = 40
 	}
 	output_goods = fuel
-	value = 3			#45
+	value = 2.5			#37.5
 	bonus = {
 		trigger = { 
 			OR = {

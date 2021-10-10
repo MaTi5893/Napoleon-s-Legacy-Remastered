@@ -578,7 +578,7 @@
 		size = 1825
 	}
 }
-#Stryi (404000/101000 POPS) #now part of Ukraine  
+#Strnanfaren (404000/101000 POPS) #now part of Ukraine  
 951 = {
 	clergymen = {
 		culture = ukrainian

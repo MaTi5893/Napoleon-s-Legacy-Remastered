@@ -20,4 +20,20 @@ political_decisions = {
 			}
 		}
 	}
+	fuck_ai_immigration = {
+		picture = host_nation
+		alert = yes
+		potential = {
+			tag = LCT
+			ai = no
+			NOT = { has_global_flag = fuck_ai_immigration }
+		}
+		allow = { 
+			tag = LCT
+			ai = no
+		}
+		effect = {
+			set_global_flag = fuck_ai_immigration
+		}
+	}
 }

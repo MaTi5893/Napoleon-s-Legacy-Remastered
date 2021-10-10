@@ -1,7 +1,5 @@
 capital = 1426
-primary_culture = hakka
-culture = yue
-culture = malay
+primary_culture = nanfaren
 religion = mahayana
 government = democracy
 plurality = 0.0

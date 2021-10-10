@@ -151,6 +151,11 @@ loyal_askaris = {
 	icon = 17
 }
 
+china_rp_nerf = {
+	research_points_on_conquer = -1000.0
+	icon = 10
+}
+
 muhammad_alis_reforms = {
 	research_points_modifier = 0.5
 	pop_consciousness_modifier = 0.05
@@ -264,6 +269,12 @@ anaconda_plan = {
 }
 
 the_homestead_act = {
+	global_immigrant_attract = 0.50	#50%
+	global_assimilation_rate = 0.25
+	icon = 9
+}
+
+the_homestead_act_mexico = {
 	global_immigrant_attract = 0.30	#30%
 	global_assimilation_rate = 0.25
 	icon = 9

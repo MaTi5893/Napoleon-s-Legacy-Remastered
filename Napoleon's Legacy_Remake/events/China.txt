@@ -184,3 +184,58 @@ country_event = {
 		civilized = yes
 	}
 }
+
+### Reno additions
+country_event = {
+	id = 90905
+	title = "China Researchpoints Balance Event part 1"
+	desc = "Your dumb ass country is too fucking strong, take this nerf."
+	picture = "dixie"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = CHI
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Alright, sounds good."
+		add_country_modifier = {
+			name = china_rp_nerf
+			duration = -1
+		}
+		ai_chance = {
+			factor = 1.0
+		}
+	}
+}
+
+country_event = {
+	id = 90906
+	title = "China Researchpoints Balance Event part 2"
+	desc = "Alright, you civilized, lets remove this nerf since it doesn't matter now."
+	picture = "dixie"
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = CHI
+		civilized = yes
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Alright, sounds good."
+		remove_country_modifier = china_rp_nerf
+		ai_chance = {
+			factor = 1.0
+		}
+	}
+}

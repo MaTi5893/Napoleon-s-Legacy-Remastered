@@ -22,7 +22,7 @@ aeroplane_factory = {
 		machine_parts = 200
 		electric_gear = 600
 		steel = 600
-		cement = 600	
+		cement = 600
 		lumber = 600
 	}
 	time = 100
@@ -178,16 +178,38 @@ synthetic_oil_factory = {
 	max_level = 99
 	goods_cost =
 	{
-		machine_parts = 800
-		steel = 1000
-		cement = 1000
-		lumber = 1000
+		machine_parts = 200
+		steel = 200
+		cement = 200
+		lumber = 200
 	}
 	time = 100
 	visibility = yes
 	onmap = no
 
 	production_type = synthetic_oil_factory
+	pop_build_factory = yes
+	strategic_factory = yes
+}
+
+synthetic_rubber_factory = {
+	type = factory
+
+	on_completion = factory
+	completion_size = 0.2
+	max_level = 99
+	goods_cost =
+	{
+		machine_parts = 200
+		steel = 200
+		cement = 200
+		lumber = 200
+	}
+	time = 100
+	visibility = yes
+	onmap = no
+
+	production_type = synthetic_rubber_factory
 	pop_build_factory = yes
 	strategic_factory = yes
 }
@@ -604,10 +626,10 @@ wool_fabric_factory = {
 	max_level = 99
 	goods_cost =
 	{
-		lumber = 200
 		machine_parts = 20
 		iron = 200
 		cement = 200
+		lumber = 200
 	}
 	time = 100
 	visibility = yes
@@ -636,7 +658,6 @@ leather_factory = {
 	production_type = leather_factory
 	pop_build_factory = yes
 }
-
 
 cement_factory = {
 	type = factory

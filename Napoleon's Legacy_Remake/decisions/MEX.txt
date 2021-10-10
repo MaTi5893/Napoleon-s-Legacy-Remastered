@@ -118,4 +118,25 @@ political_decisions = {
 			USA_106 = { add_core = MEX }
 		}
 	}
+	#RENO ADDITION
+	enact_the_homestead_act = {
+		potential = {
+			tag = MEX
+			NOT = {
+				has_country_modifier = the_homestead_act_mexico
+			}
+			year = 1862
+		}
+		
+		allow = {
+			year = 1862
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = the_homestead_act_mexico
+				duration = -1
+			}
+		}
+	}	
 }

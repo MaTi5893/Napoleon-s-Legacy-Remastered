@@ -5,17 +5,20 @@ political_decisions = {
 		potential = {
 			tag = PER
 			is_vassal = no
-			NOT = { owns = 1212 }
 			NOT = { has_country_flag = herat }
 			war = no
 		}
 		allow = {
-			military_score = 50
+			AND = {
+					NOT = {	exists = AFG }
+					NOT = {	exists = MAK }
+					NOT = {	exists = KAL }
+			}
 		}
 		effect = {
-			1212 = {
-				add_core = PER
-			}
+			AFG = { all_core = { remove_core = AFG add_core = PER } }
+			MAK = { all_core = { remove_core = MAK add_core = PER } }
+			KAL = { all_core = { remove_core = KAL add_core = PER } }
 			prestige = 10
 			random_country = {
 				limit = { owns = 1212 }
@@ -29,6 +32,31 @@ political_decisions = {
 				value = -50
 			}
 			set_country_flag = herat
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	assert_on_steppe = {
+		picture = commodities_in_central_asia
+		alert = yes
+		potential = {
+			tag = PER
+			is_vassal = no
+			NOT = { has_country_flag = assert_on_steppe }
+			war = no
+		}
+		allow = {
+			AND = {
+					NOT = {	exists = BUK }
+					NOT = {	exists = KOK }
+					NOT = {	exists = KHI }
+			}
+		}
+		effect = {
+			add_accepted_culture = turkic
+			set_country_flag = assert_on_steppe
 		}
 		ai_will_do = {
 			factor = 1

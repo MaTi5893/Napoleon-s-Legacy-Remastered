@@ -828,7 +828,7 @@
         size = 49850
     }
 }
-#Myitkyina (364000/91000 POPS)
+#Mnanfarentknanfarenna (364000/91000 POPS)
 1342 = {
     aristocrats = {
         culture = burmese

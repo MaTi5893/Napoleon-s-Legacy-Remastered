@@ -3,61 +3,61 @@
 #Khujand (200000/50000 POPS) #now part of Tajikistan  
 1201 = {
 	aristocrats = {
-		culture = uzbek
+		culture = turkic
 		religion = sunni
 		size = 775
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = turkic
 		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = turkic
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = turkic
 		religion = sunni
 		size = 400
 	}
 
 	farmers = {
-		culture = uzbek
+		culture = turkic
 		religion = sunni
 		size = 36425
 	}
 
 	aristocrats = {
-		culture = tajik
+		culture = turkic
 		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = tajik
+		culture = turkic
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = tajik
+		culture = turkic
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = tajik
+		culture = turkic
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = tajik
+		culture = turkic
 		religion = sunni
 		size = 9150
 	}
@@ -67,31 +67,31 @@
 #Kulob (120000/30000 POPS)   
 1207 = {
 	aristocrats = {
-		culture = tajik
+		culture = turkic
 		religion = sunni
 		size = 575
 	}
 
 	clergymen = {
-		culture = tajik
+		culture = turkic
 		religion = sunni
 		size = 275
 	}
 
 	artisans = {
-		culture = tajik
+		culture = turkic
 		religion = sunni
 		size = 1450
 	}
 
 	soldiers = {
-		culture = tajik
+		culture = turkic
 		religion = sunni
 		size = 250
 	}
 
 	farmers = {
-		culture = tajik
+		culture = turkic
 		religion = sunni
 		size = 27450
 	}
@@ -99,61 +99,61 @@
 #Khorugh (92000/23000 POPS)   
 1208 = {
 	aristocrats = {
-		culture = tajik
+		culture = turkic
 		religion = sunni
 		size = 350
 	}
 
 	clergymen = {
-		culture = tajik
+		culture = turkic
 		religion = sunni
 		size = 175
 	}
 
 	artisans = {
-		culture = tajik
+		culture = turkic
 		religion = sunni
 		size = 850
 	}
 
 	soldiers = {
-		culture = tajik
+		culture = turkic
 		religion = sunni
 		size = 175
 	}
 
 	farmers = {
-		culture = tajik
+		culture = turkic
 		religion = sunni
 		size = 17450
 	}
 
 	aristocrats = {
-		culture = kirgiz
+		culture = turkic
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = kirgiz
+		culture = turkic
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = kirgiz
+		culture = turkic
 		religion = sunni
 		size = 175
 	}
 
 	soldiers = {
-		culture = kirgiz
+		culture = turkic
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = kirgiz
+		culture = turkic
 		religion = sunni
 		size = 3650
 	}

@@ -938,7 +938,7 @@ arab = {
 iranian_turanian = {
 	leader = arab
 	unit = MiddleEasternGC
-	persian = {
+	aryan = {
 		color = {144 88 81}
 		first_names = {
 			Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
@@ -952,92 +952,6 @@ iranian_turanian = {
 			Meshhedi Nakhchevani Pesyan Rokni Shafaei Shahbakhti 
 			Shirazi Tabrizi Tahmasebi Zahedi
 			}
-	}
-	uzbek = {
-		color = {152 67 56}
-		first_names = {
-			"Abd al-Ahad" "Abd al-Karim" "Abu al-Ghazi" Abulfayz Alimqul Aqim "Allah Quli" Haydar Husayn 
-			Iltazar Isfandiyar Jahangir Khudayar Madali Mahmud Muhammad Murad 
-			Nasrallah "Nasir al-Din" Nurali Pulad Qilich Qutlugh Rahim Shir Umar Yadigar Yaqub 
-			}
-		last_names = {
-			Bahadur Bukhari Khan
-			}
-	}
-	kazak = {
-		color = {83 102 46}
-		first_names = {
-			Ablai "Abu al-Khayr" Aryn Bukei Chokan 
-			Dulat Ibirai Isatai Ishim Jangir Kenisary 
-			Mashur Murat "Nur Ali" Qayip 
-			Sadyk Sirim Sarzhan 
-			Tenek Tolshan Vali
-			}
-		last_names = {
-			Beg  Khan "Konanbai uli" "Kutebar uli" "Muhammad uli" "Qasim uli" 
-			}
-	}
-	kirgiz = {
-		color = {62 73 41}
-		first_names = {
-			Askar Chingiz Ishim Kasim Kurman Jangir Murat Nasiridin Sadyk Vali
-			}
-		last_names = {
-			Beg 
-			}
-	}
-	tajik = {
-		color = {122 127 111}
-			first_names = {
-			Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
-			Ebrahim Esmail "Fath Ali" Fazlollah Hamzeh Hasan Hossein Kamran Karim "Lotf Ali" 
-			Mahmoud Mahsud Mirza Mohammad "Moin ed-Din" "Mozzafer ed-Din" Murad Muhsin 
-			Nadir "Naser ed-Din" Nosret Reza
-			}
-		last_names = {
-			Khan
-			}
-	}
-	uighur = {
-		color = {92 96 168}
-		first_names = { 
-			Afaq Ahmed Arshad Bahayeddin Burhan Daud Hakim Husayin Kemal Maqsud Muhammad Musa Rashidin Satuq Timur Yaqub
-			}
-		last_names = {
-			Beg Khan
-			}
-	}
-	pashtun = {
-		color = {199 151 230}
-		first_names = {
-			Abdallah "Abd al-Rahman" "Abd al-Quddus" Afzal Ahmad Akbar Akram   Ayyub
-			Fath "Firuz al-Din" "Habib Alllah" Haydar Humayun "Inayat Allah" Ishaq Jamal Kamran Kohandil
-			Mahmud Mahsud Mihrdil Muhammad Murad Nadir "Nasr Allah" Omar
-			Qaysar Shahpur "Sher Ali" Shuja Suleyman Timur Yaqub Zaman
-		}
-		last_names = {
-			Khan
-		}
-		radicalism = 10
-
-	}
-	hazara = {
-		color = {172 120 211}
-		first_names = {
-			Ali Azim Jafar Mohammad Riza
-		}
-		last_names = {
-			Beg Khan
-		}
-	}
-	turkmen = {
-		color = {192 150 190}
-		first_names = {
-			Ahmed Haydar Mehmed Murad Nurberdi Qilich
-		}
-		last_names = {
-			Beg Khan
-		}
 	}
 	kurdish = {
 		color = {176 201 238}
@@ -1059,8 +973,19 @@ iranian_turanian = {
 			Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev
 		}
 	}
+	turkic = {
+		color = {64 122 239}
+		first_names = {
+			Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
+			Ebrahim Esmail "Fath Ali" Fazlollah Hamzeh Hasan Hossein Kamran Karim "Lotf Ali" 
+			Mahmoud Mahsud Mirza Mohammad "Moin ed-Din" "Mozzafer ed-Din" Murad Muhsin 
+			Nadir "Naser ed-Din" Nosret Reza
+			}
+		last_names = {
+			Beg Khan
+		}
+	}
 }
-
 central_asian = {
 	leader = asian
 	unit = MiddleEasternGC
@@ -1472,48 +1397,6 @@ east_asian = {
 		first_names = { Yi Jo Bak Yun Sim Kim Hong Seo Jeong Kwon Han 
 		}
 		last_names = { Hwan Chung Hyong Shinjong Haung Ch'ok Taek Seon Si Jip Guk Mok Bo Yong Sun Gyu Hu
-		}
-	}
-	hakka = {
-		color = {89 63 24}
-		first_names = { Hong Feng Shi Li Chen Liu Qiu Sun Soong Liao Xue Zhang Xie Wu Shu Tsai Deng Zhen Huang Ye Yang
-		}
-		last_names = { Xiuquan Yunshan Xiuqing Dakai Yucheng Rengan Zicai Yongfu Fengjia Yatsen
-		}
-	}
-	miao = {
-		color = {98 67 155}
-		first_names = { Pa Hang Mee Chay Kao Bang Zong Zoua Mai Blong Qin Shen Ka Dia Neng Kak 
-		}
-		last_names = { Thao Sao Moua Vue Her Lyfoung Pao Yang Lo Cha Congwen Zhiming Liangyu
-		}
-	}
-	min = {
-		color = {76 32 200}
-		first_names = { Lin Shen Chen Wong Yan Sa Hou Zheng Bing Wu Tan He Du Xue Xu Qin
-		}
-		last_names = { Zexu Baozhen Baochen Nai-siong Shu Fu Sen Debang Xin Nee Huiyin
-		}
-	}
-	zhuang = {
-		color = {200 75 134}
-		first_names = { Hoang Nong Le Be Van Quoc Quynh The Duc 
-		}
-		last_names = { Thu Manh Trieu Khanh Phung Hau Chan Den Phach Cao
-		}
-	}
-	yi = {
-		color = {134 25 80}
-		first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu
-		}
-		last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian Jiang Wei Ting Shen Fang Jin Qiu
-		}
-	}
-	yue = {
-		color = {89 34 100}
-		first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu
-		}
-		last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye Lü Tian Jiang Wei Ting Shen Fang Jin Qiu
 		}
 	}
 }

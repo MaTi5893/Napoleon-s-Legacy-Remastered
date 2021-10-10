@@ -3,18 +3,18 @@ political_decisions = {
 	will_receive = {
 		alert = no
 		potential = {
+		civilized = yes
 			ai = no
 			NOT = { has_country_flag = will_receive_grants }
-			}
+		}
 		
 		allow = { 
 			NOT = { has_country_flag = will_receive_grants } 
 			ai = no
-			}
+		}
 		effect = {
 #			prestige = -5
 			country_event = {id = 100000 days = 0}
-
 		}
 
 	}
@@ -38,6 +38,7 @@ political_decisions = {
 
 	will_give = {
 		alert = no
+		civilized = yes
 		potential = {
 			ai = no
 			NOT = { has_country_flag = will_give_grants }

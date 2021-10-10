@@ -30,7 +30,7 @@ country_event = {
 			duration = -1
 		}
 		ai_chance = {
-			factor = 0.75
+			factor = 1
 		}
 	}
 	option = {

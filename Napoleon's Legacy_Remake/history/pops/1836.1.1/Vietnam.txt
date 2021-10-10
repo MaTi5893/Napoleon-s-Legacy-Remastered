@@ -81,19 +81,19 @@
     }
 
     clergymen = {
-        culture = min
+        culture = nanfaren
         religion = mahayana
         size = 50
     }
 
     artisans = {
-        culture = min
+        culture = nanfaren
         religion = mahayana
         size = 1250
     }
 
     farmers = {
-        culture = min
+        culture = nanfaren
         religion = mahayana
         size = 700
     }
@@ -167,19 +167,19 @@
     }
 
     clergymen = {
-        culture = min
+        culture = nanfaren
         religion = mahayana
         size = 50
     }
 
     artisans = {
-        culture = min
+        culture = nanfaren
         religion = mahayana
         size = 1250
     }
 
     farmers = {
-        culture = min
+        culture = nanfaren
         religion = mahayana
         size = 700
     }
@@ -935,19 +935,19 @@
     }
 
     clergymen = {
-        culture = min
+        culture = nanfaren
         religion = mahayana
         size = 50
     }
 
     artisans = {
-        culture = min
+        culture = nanfaren
         religion = mahayana
         size = 1600
     }
 
     farmers = {
-        culture = min
+        culture = nanfaren
         religion = mahayana
         size = 1350
     }

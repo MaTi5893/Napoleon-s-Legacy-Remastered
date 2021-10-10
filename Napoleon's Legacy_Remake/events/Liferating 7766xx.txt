@@ -45,7 +45,7 @@ country_event = {
 						continent = south_america
 					}
 					}
-					life_rating = 2				
+					life_rating = 0			
 					}
 			}
 			any_country = {
@@ -75,7 +75,7 @@ country_event = {
 						continent = south_america
 					}
 					}
-					life_rating = 7				
+					life_rating = 5				
 					}
 			}
 			any_country = {
@@ -106,7 +106,7 @@ country_event = {
 						continent = south_america
 					}
 					}
-					life_rating = 12				
+					life_rating = 10				
 					}
 			}
 	}

@@ -1,10 +1,10 @@
 capital = 1121
-primary_culture = persian
+primary_culture = aryan
 culture = azerbaijani
-culture = baluchi
+culture = north_caucasian
 religion = shiite
 government = absolute_monarchy
-plurality = 0.0
+plurality = 5.0
 nationalvalue = nv_order
 literacy = 0.07
 
@@ -41,11 +41,24 @@ school_reforms = no_schools
 consciousness = 0
 nonstate_consciousness = 0
 
-land_reform = yes_land_reform
+#Reforms
+foreign_training = yes_foreign_training
 foreign_weapons = yes_foreign_weapons
+foreign_officers = yes_foreign_officers
+land_reform = yes_land_reform
 finance_reform = yes_finance_reform
+industrial_construction = yes_western_science
 
+#Technologies
+post_napoleonic_thought = 1
 flintlock_rifles = 1
+army_command_principle = 1
+private_banks = 1
+late_enlightenment_philosophy = 1
+water_wheel_power = 1
+mechanized_mining = 1
+basic_chemistry = 1
+
 
 oob = "PER_oob.txt"
 

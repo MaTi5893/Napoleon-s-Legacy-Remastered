@@ -739,17 +739,29 @@ political_decisions = {
 	
 	alaskan_purchase = {
 		potential = {
-			war = no
-			year = 1865
-			NOT = {
-				has_country_flag = you_did_try
-			}
 			OR = { 
-				tag = USA
+				AND = { tag = USA 
+					OR = { 
+						owns = 78 #Seattle
+						owns = 81 #Portland
+						owns = 85 #Eureka
+						owns = 13 #Vancouver
+					}
+				}
 				tag = ENG
 				AND = { tag = GBR owns = 13 } 
 				AND = { tag = JAP owns = 13 }
 				AND = { tag = MEX rank = 8 }
+			}
+			OR = { 
+				tag = USA
+				ai = no 
+				year = 1867
+			}
+			war = no
+			year = 1865
+			NOT = {
+				has_country_flag = you_did_try
 			}
 			RUS = {
 				OR = {

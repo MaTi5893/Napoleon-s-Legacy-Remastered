@@ -114,6 +114,7 @@ promotion_chance =
 demotion_chance = 
 {
 	factor = 1
+	
 	modifier = {
 		factor = -0.1
 		not = { religion = this }
@@ -294,33 +295,33 @@ migration_chance =
 	factor = 0.25
 
 #If pop group is 70%/80%/90%/99% literacy, is not primary culture, and is in a colony then 2.5% chance to migrate to another state for each threshold. (Chance for colonial pops to migrate to home states once they reach some literacy thresholds)	(10% total)
-	group = {
-		modifier = {
-			factor = 2.5
-			literacy = 0.7
-			state_scope = { is_colonial = yes }
-			NOT = { is_primary_culture = yes }
-		}
-		modifier = {
-			factor = 2.5
-			literacy = 0.8
-			state_scope = { is_colonial = yes }
-			NOT = { is_primary_culture = yes }
-		}
-		modifier = {
-			factor = 2.5
-			literacy = 0.9
-			state_scope = { is_colonial = yes }
-			NOT = { is_primary_culture = yes }
-		}
-		modifier = {
-			factor = 2.5
-			literacy = 0.99
-			state_scope = { is_colonial = yes }
-			NOT = { is_primary_culture = yes }
-		}
-	}
-
+#	group = { ############### DOES NOT WORK
+#		modifier = {
+#			factor = 2.5
+#			literacy = 0.7
+#			state_scope = { is_colonial = yes }
+#			NOT = { is_primary_culture = yes }
+#		}
+#		modifier = {
+#			factor = 2.5
+#			literacy = 0.8
+#			state_scope = { is_colonial = yes }
+#			NOT = { is_primary_culture = yes }
+#		}
+#		modifier = {
+#			factor = 2.5
+#			literacy = 0.9
+#			state_scope = { is_colonial = yes }
+#			NOT = { is_primary_culture = yes }
+#		}
+#		modifier = {
+#			factor = 2.5
+#			literacy = 0.99
+#			state_scope = { is_colonial = yes }
+#			NOT = { is_primary_culture = yes }
+#		}
+#	}
+#
 #If pop group meets at least 99% of its life needs, then -1% chance to migrate to another state.
 #	modifier = {
 #		factor = -1.0
@@ -1004,6 +1005,15 @@ emigration_chance =
 	
 ###Colony and Immigrant Nations Emigration Security###
 
+#If at peace, an immigrant country will not lose immigrants.
+	modifier = {
+		factor = -10000
+		country = {
+			has_country_flag = new_world_nation
+			war = no
+		}
+	}
+
 #If pop group is in a country with the country tag, then -4% chance to emigrate.
 	modifier = {
 		factor = -4.0
@@ -1067,7 +1077,12 @@ assimilation_chance = {
 				}
 				NOT = {
 					OR = {
-						has_pop_culture = african_minor
+						has_pop_culture = nilo_saharan
+						has_pop_culture = bantu
+						has_pop_culture = niger_congo_a
+						has_pop_culture = khoisan
+						has_pop_culture = afro_asiatic
+						has_pop_culture = malagasy
 						is_culture_group = arab
 					}
 				}
@@ -1096,7 +1111,12 @@ assimilation_chance = {
 				}
 				NOT = {
 					OR = {
-						has_pop_culture = african_minor
+						has_pop_culture = nilo_saharan
+						has_pop_culture = bantu
+						has_pop_culture = niger_congo_a
+						has_pop_culture = khoisan
+						has_pop_culture = afro_asiatic
+						has_pop_culture = malagasy
 						is_culture_group = arab
 					}
 				}
@@ -1560,116 +1580,116 @@ assimilation_chance = {
 		}
 	}
 #MILITANCY MODIFIFER - 
-	group = {
-		modifier = {
-			factor = -1
-			militancy = 1
-		}
-		modifier = {
-			factor = 0.99
-			has_culture_core = no
-			militancy = 1
-		}
-	}
-	group = {
-		modifier = {
-			factor = -1
-			militancy = 2
-		}
-		modifier = {
-			factor = 0.99
-			has_culture_core = no
-			militancy = 2
-		}
-	}
-	group = {
-		modifier = {
-			factor = -1
-			militancy = 3
-		}
-		modifier = {
-			factor = 0.99
-			has_culture_core = no
-			militancy = 3
-		}
-	}
-	group = {
-		modifier = {
-			factor = -1
-			militancy = 4
-		}
-		modifier = {
-			factor = 0.99
-			has_culture_core = no
-			militancy = 4
-		}
-	}
-	group = {
-		modifier = {
-			factor = -1
-			militancy = 5
-		}
-		modifier = {
-			factor = 0.99
-			has_culture_core = no
-			militancy = 5
-		}
-	}
-	group = {
-		modifier = {
-			factor = -2
-			militancy = 6
-		}
-		modifier = {
-			factor = 1.98
-			has_culture_core = no
-			militancy = 6
-		}
-	}
-	group = {
-		modifier = {
-			factor = -2
-			militancy = 7
-		}
-		modifier = {
-			factor = 1.98
-			has_culture_core = no
-			militancy = 7
-		}
-	}
-	group = {
-		modifier = {
-			factor = -2
-			militancy = 8
-		}
-		modifier = {
-			factor = 1.98
-			has_culture_core = no
-			militancy = 8
-		}
-	}
-	group = {
-		modifier = {
-			factor = -2
-			militancy = 9
-		}
-		modifier = {
-			factor = 1.98
-			has_culture_core = no
-			militancy = 9
-		}
-	}
-	group = {	
-		modifier = {
-			factor = -2
-			militancy = 10
-		}
-		modifier = {
-			factor = 1.98
-			has_culture_core = no
-			militancy = 10
-		}
-	}
+#	group = {
+#		modifier = {
+#			factor = -1
+#			militancy = 1
+#		}
+#		modifier = {
+#			factor = 0.99
+#			has_culture_core = no
+#			militancy = 1
+#		}
+#	}
+#	group = {
+#		modifier = {
+#			factor = -1
+#			militancy = 2
+#		}
+#		modifier = {
+#			factor = 0.99
+#			has_culture_core = no
+#			militancy = 2
+#		}
+#	}
+#	group = {
+#		modifier = {
+#			factor = -1
+#			militancy = 3
+#		}
+#		modifier = {
+#			factor = 0.99
+#			has_culture_core = no
+#			militancy = 3
+#		}
+#	}
+#	group = {
+#		modifier = {
+#			factor = -1
+#			militancy = 4
+#		}
+#		modifier = {
+#			factor = 0.99
+#			has_culture_core = no
+#			militancy = 4
+#		}
+#	}
+#	group = {
+#		modifier = {
+#			factor = -1
+#			militancy = 5
+#		}
+#		modifier = {
+#			factor = 0.99
+#			has_culture_core = no
+#			militancy = 5
+#		}
+#	}
+#	group = {
+#		modifier = {
+#			factor = -2
+#			militancy = 6
+#		}
+#		modifier = {
+#			factor = 1.98
+#			has_culture_core = no
+#			militancy = 6
+#		}
+#	}
+#	group = {
+#		modifier = {
+#			factor = -2
+#			militancy = 7
+#		}
+#		modifier = {
+#			factor = 1.98
+#			has_culture_core = no
+#			militancy = 7
+#		}
+#	}
+#	group = {
+#		modifier = {
+#			factor = -2
+#			militancy = 8
+#		}
+#		modifier = {
+#			factor = 1.98
+#			has_culture_core = no
+#			militancy = 8
+#		}
+#	}
+#	group = {
+#		modifier = {
+#			factor = -2
+#			militancy = 9
+#		}
+#		modifier = {
+#			factor = 1.98
+#			has_culture_core = no
+#			militancy = 9
+#		}
+#	}
+#	group = {	
+#		modifier = {
+#			factor = -2
+#			militancy = 10
+#		}
+#		modifier = {
+#			factor = 1.98
+#			has_culture_core = no
+#			militancy = 10
+#		}
+#	}
 #UNEMPLOYMENT MODIFIER - Reduces assimilation rate, starting at 10% unemployment, by 0.0000396 per 10% unemployment up to 99% unemployment. (At 99% unemployment, completely counters base assimilation.)
 	group = {
 		modifier = {

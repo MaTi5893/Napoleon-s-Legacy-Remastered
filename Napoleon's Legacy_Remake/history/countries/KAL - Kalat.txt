@@ -1,5 +1,5 @@
 capital = 1221
-primary_culture = baluchi
+primary_culture = aryan
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
@@ -40,4 +40,3 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
-

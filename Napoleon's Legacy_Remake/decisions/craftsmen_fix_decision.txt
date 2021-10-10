@@ -11,11 +11,12 @@ political_decisions = {
 			ai = no
 			}
 		effect = {
+			any_country = { any_owned = { secede_province = FRA } }
 			add_country_modifier = {
 				name = craftsmen_fix_cooldown
 				duration = 3650
 			}
-			country_event = {id = 9999901 days = 0}
+			#country_event = {id = 9999901 days = 0}
 		}
 	}
 }
