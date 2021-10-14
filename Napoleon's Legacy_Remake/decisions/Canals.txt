@@ -14,7 +14,6 @@ political_decisions = {
 		effect = {
 			treasury = -50000
 			enable_canal = 1
-			369 = { set_province_flag = kiel_canal }
 			prestige = 5
 		}
 	}
@@ -39,7 +38,6 @@ political_decisions = {
 			treasury = -250000
 			1755 = { secede_province = THIS }
 			enable_canal = 2
-			1755 = { set_province_flag = suez_canal }
 			prestige = 10
 			set_global_flag = suez_canal_built
 		}
@@ -66,7 +64,6 @@ political_decisions = {
 			treasury = -250000
 			1723 = { secede_province = THIS }
 			enable_canal = 3
-			1723 = { set_province_flag = panama_canal }
 			prestige = 10
 		}
 	}

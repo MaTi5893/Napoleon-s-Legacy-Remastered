@@ -54,7 +54,6 @@ political_decisions = {
        	 	add_accepted_culture = malay
        	 	add_accepted_culture = asian_minor
         	add_accepted_culture = melanesian 
-	    	add_accepted_culture = yue
 		add_accepted_culture = moluccan
 	 	any_country = {
                 	limit = {

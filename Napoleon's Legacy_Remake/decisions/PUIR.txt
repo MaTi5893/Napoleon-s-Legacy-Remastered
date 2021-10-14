@@ -1407,7 +1407,6 @@ political_decisions = {
 			tag = CSA
 			NOT = {
 				has_country_flag = confederate_leaders
-				has_country_flag = 1861CSAstart
 			}
 		}
 			
@@ -1931,53 +1930,6 @@ political_decisions = {
 			}
 			YNN = {
 				all_core = { add_core = TPG }
-			}
-		}
-		ai_will_do = {
-			factor = 1
-
-		}
-	}
-
-	develop_congo_free_state = {
-		potential = {
-			tag = CNG
-			NOT = { civilization_progress = 0.1 }
-			NOT = { has_country_flag = heart_of_darkness_enlightened }	
-		}
-
-		allow = {
-			war = no
-			year = 1883
-		}
-
-		effect = {
-			set_country_flag = heart_of_darkness_enlightened
-			economic_reform = yes_land_reform
-			economic_reform = yes_finance_reform
-			economic_reform = yes_admin_reform
-			economic_reform = yes_transport_improv
-			economic_reform = yes_western_science
-			military_reform = yes_foreign_training
-			military_reform = foreign_training_two
-			military_reform = yes_foreign_weapons
-			military_reform = foreign_weapons_two
-			military_reform = yes_military_constructions
-			military_reform = yes_foreign_officers
-			military_reform = yes_army_schools
-			military_reform = yes_foreign_naval_officers
-			military_reform = yes_foreign_navies	
-			any_pop = {
-				limit = { is_primary_culture = yes }
-				consciousness = 2
-			}
-			any_pop = {
-				limit = { is_accepted_culture = yes }
-				consciousness = 3
-			}
-			any_pop = {
-				limit = { is_accepted_culture = no }
-				consciousness = 5
 			}
 		}
 		ai_will_do = {
