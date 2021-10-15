@@ -7,9 +7,7 @@ country_event = {
 	fire_only_once = yes 	
 
 	trigger = {
-		OR = {
-			tag = CHI
-		}
+		tag = CHI
 	}
 	
 	mean_time_to_happen = {
