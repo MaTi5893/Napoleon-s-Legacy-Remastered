@@ -16,9 +16,12 @@ country_event = {
 	
 	option = {
 		name = "EVTOPTA776405"
-		any_owned = {
+		all_core = {
 			limit = {
-				is_core = CHI
+				NOT = { owned_by = MGL } 
+				NOT = { owned_by = TIB } 
+				NOT = { owned_by = MCK } 
+				NOT = { owned_by = XIN } 
 				NOT = { province_id = 1485 }
 				NOT = { province_id = 2562 }
 				NOT = { province_id = 1499 }
