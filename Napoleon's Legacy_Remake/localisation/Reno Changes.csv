@@ -79,9 +79,11 @@ player_alliances_title;Ally All Player Nations;;;;;;;x
 player_alliances_desc;Automatically allies all player nations. DO NOT SPAM.;;;;;;;x
 fuck_ai_immigration_title;Fuck AI Immigration;;;;;;;x
 fuck_ai_immigration_desc;This decision removes AI nations from immigration priority entirely. Immigrants will only go to player nations.;;;;;;;x
+assert_on_steppe_title;Assert Ourselves in Central Asia;;;;;;;x
+assert_on_steppe_desc;The Major Powers chaffing at our periphery is inclining us to attempt projecting into the steppe, but who could possibly own such a vast region with land ownership? The real value is the people themselves.;;;;;;;x
 #############################################;;;;;;;x
 double_down_in_the_balkans_title;Double Down in the Balkans;;;;;;;x
-double_down_in_the_balkans_desc;For too long have the peoples of the Balkans thwarted our efforts of expansion. Let us focus all our attention to the re-education and assimilation of these barbaric peoples.;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+double_down_in_the_balkans_desc;For too long have the peoples of the Balkans thwarted our efforts of expansion. Let us focus all our attention to the re-education and assimilation of these barbaric peoples.;;;;;;;x
 #############################################;;;;;;;x
 #Additional Provinces;;;;;;;x
 #############################################;;;;;;;x
