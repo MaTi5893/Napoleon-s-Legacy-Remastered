@@ -1204,7 +1204,7 @@ artisan_machine_parts = {
 		coal = 5		#11.5  total input+maint = 66
 	}
 	output_goods = machine_parts 
-	value = 5			#91
+	value = 3			#91
 	
 	owner = {
 		poptype = artisan 
@@ -1243,7 +1243,7 @@ artisan_steamer = {
 	}
 	output_goods = steamer_convoy 
 	is_coastal = yes
-	value = 3.0			#120
+	value = 2.5			#120
 	
 	owner = {
 		poptype = artisan 
