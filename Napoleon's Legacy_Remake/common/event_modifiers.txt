@@ -795,16 +795,6 @@ big_ukrainian_breadbasket = {
 	icon = 19
 }
 
-###PUIR - Generic Neutrality###
-generic_neutrality = {
-	max_military_spending = -0.25
-	leadership_modifier = -0.25
-	#mobilisation_size = 0.01
-	RGO_throughput = 0.1
-	#global_pop_militancy_modifier = -0.01
-	icon = 7
-}
-
 ###PUIR - Paraguay###
 Francias_Enlightenment = {
 	rgo_output = 0.05
@@ -871,16 +861,6 @@ irish_republicans = {
 	pop_militancy_modifier = 0.02
 	pop_consciousness_modifier = 0.05
 	icon = 18
-}
-###POD - Swiss Neutrality###
-neutrality = {
-	max_military_spending = -0.1
-	leadership_modifier = -0.5
-	mobilisation_size = 0.02
-	prestige = -0.01
-	RGO_throughput = 0.4
-	global_pop_militancy_modifier = -0.02
-	icon = 7
 }
 ###POD - Arabia ###
 holy_city = {
