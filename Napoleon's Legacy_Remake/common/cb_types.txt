@@ -1100,6 +1100,7 @@ demand_reperations = {
 	
 	can_use = {
 	NOT = { has_country_modifier = no_more_war_reperations }
+	}
 	
 	on_add = {
 		move_issue_percentage = { 
