@@ -894,7 +894,7 @@ political_decisions = {
 			owns = 828      # Edirne
 		}
 		effect = {
-			set_global_flag = istabul_restored
+			set_global_flag = istanbul_restored
 			clr_global_flag = constantinople_restored
 			capital = 860
 			prestige = 50

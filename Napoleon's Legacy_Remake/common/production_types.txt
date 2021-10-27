@@ -1434,7 +1434,7 @@ artisan_explosives = {
 		ammunition = 0.8	#14	total input+maint = 54
 	}
 	output_goods = explosives 
-	value = 5.1			#60
+	value = 4.9			#60
 	
 	owner = {
 		poptype = artisan
@@ -1599,7 +1599,7 @@ artisan_cement = {
 		coal = 12		#27.6		total input+maint = 37
 	} 
 	output_goods = cement 
-	value = 4			#48
+	value = 3.5			#48
 	
 	owner = {
 		poptype = artisan 

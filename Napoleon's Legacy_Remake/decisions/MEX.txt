@@ -48,7 +48,6 @@ political_decisions = {
 			has_country_flag = hasmanifestdestiny
 			NOT = { has_country_flag = treaty_of_guadalupe_hidalgo }
 			MEX = { is_greater_power = no }
-			NOT = { has_country_flag = USA1861Start }
 		}
 
 		allow = {

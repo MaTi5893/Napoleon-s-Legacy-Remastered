@@ -602,8 +602,6 @@ promote_to =
 				OR = { 
 					culture = nanfaren
 					culture = beifaren
-					culture = yue
-					culture = min
 					is_culture_group = south_asian
 				}	
 				state_scope = {
