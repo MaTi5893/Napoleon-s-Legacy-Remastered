@@ -5,13 +5,11 @@ culture = caribeno
 religion = catholic
 government = presidential_dictatorship
 plurality = 25.1
-nationalvalue = nv_liberty
+nationalvalue = nv_order
 literacy = 0.08
 civilized = yes
 prestige = 1
-
 set_country_flag = new_world_nation
-
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
@@ -65,4 +63,3 @@ consciousness = 2
 nonstate_consciousness = 0
 
 oob = "HAI_oob.txt"
-

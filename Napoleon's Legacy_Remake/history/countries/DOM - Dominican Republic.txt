@@ -1,13 +1,12 @@
 capital = 2214
 primary_culture = caribeno
-culture = afro_caribeno
+culture = caribeno
 religion = catholic
 government = presidential_dictatorship
 plurality = 25.1
-nationalvalue = nv_liberty
+nationalvalue = nv_order
 literacy = 0.17
 civilized = yes
-
 set_country_flag = new_world_nation
 
 # Political reforms
@@ -61,4 +60,3 @@ publishing_industry = 1
 #Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 0
-

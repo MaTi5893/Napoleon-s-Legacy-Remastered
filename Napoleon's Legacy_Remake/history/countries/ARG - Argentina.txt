@@ -1,25 +1,23 @@
 capital = 2348
 primary_culture = platinean
 religion = catholic
-government = democracy
+government = presidential_dictatorship
 plurality = 25.0
-nationalvalue = nv_liberty
+nationalvalue = nv_order
 literacy = 0.12
 non_state_culture_literacy = 0.02
 civilized = yes
 prestige = 5
 
-set_country_flag = new_world_nation
-
 # Political reforms
 slavery = no_slavery
-upper_house_composition = state_equal_weight
-vote_franschise = landed_voting
+upper_house_composition = appointed
+vote_franschise = none_voting
 public_meetings = yes_meeting
-press_rights = state_press
+press_rights = censored_press
 trade_unions = no_trade_unions
 voting_system = jefferson_method
-political_parties = non_secret_ballots
+political_parties = underground_parties
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -29,6 +27,8 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
+
+set_country_flag = new_world_nation
 
 ruling_party = ARG_conservative
 upper_house = {
@@ -56,9 +56,17 @@ late_enlightenment_philosophy = 1
 enlightenment_thought = 1
 water_wheel_power = 1
 publishing_industry = 1
+basic_chemistry = 1
+malthusian_thought = 1
+ideological_thought = 1
 
 # Inventions
 
 #Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 0
+
+oob = "ARG_oob.txt"
+
+
+

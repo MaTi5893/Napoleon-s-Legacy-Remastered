@@ -3,10 +3,9 @@ primary_culture = central_american
 religion = catholic
 government = democracy
 plurality = 0.1
-nationalvalue = nv_liberty
+nationalvalue = nv_equality
 literacy = 0.17
 civilized = yes
-
 set_country_flag = new_world_nation
 
 # Political reforms

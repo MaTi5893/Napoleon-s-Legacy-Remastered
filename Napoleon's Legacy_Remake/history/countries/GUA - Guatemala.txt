@@ -4,12 +4,10 @@ culture = mayan
 religion = catholic
 government = presidential_dictatorship
 plurality = 0.1
-nationalvalue = nv_liberty
+nationalvalue = nv_order
 literacy = 0.17
 civilized = yes
-
 set_country_flag = new_world_nation
-
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
@@ -39,5 +37,4 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
 

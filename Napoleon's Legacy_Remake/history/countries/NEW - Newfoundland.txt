@@ -5,10 +5,9 @@ culture = british
 religion = catholic
 government = democracy
 plurality = 0.2
-nationalvalue = nv_liberty
+nationalvalue = nv_order
 literacy = 0.6
 civilized = yes
-
 set_country_flag = new_world_nation
 
 # Political reforms
@@ -40,5 +39,4 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
-
 
