@@ -5,7 +5,7 @@ nv_order = {
 }
 
 nv_liberty = {
-	#global_immigrant_attract = 0.3
+	global_immigrant_attract = 0.3
 	political_reform_desire = 0.25
 	commerce_tech_research_bonus = 0.05
 }
