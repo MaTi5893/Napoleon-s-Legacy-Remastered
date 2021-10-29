@@ -70,7 +70,7 @@ political_decisions = {
 			social_reform = trinket_health_care
 			social_reform = acceptable_schools
 			nationalvalue = nv_order
-			set_country_flag = roundhead_leagacy
+			set_country_flag = roundhead_legacy
 			any_pop = {
 				militancy = -3
 			}

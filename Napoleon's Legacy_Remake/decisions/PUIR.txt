@@ -1051,59 +1051,7 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	proclaim_second_empire = {
-		potential = {
-			tag = FRA
-			NOT = {
-				has_country_flag = napoleon_iii
-			}
-			NOT = {
-				government = democracy
-			}
-			year = 1850
-		}
 	
-		allow = {
-			plurality = 50
-			ruling_party = FRA_conservative_3
-			state_n_government = 1
-			owns = 412 #Metz
-			owns = 409 #Strasbourg
-			owns = 410 #Colmar
-		}
-		
-		effect = {
-			set_country_flag = napoleon_iii
-			government = prussian_constitutionalism
-			political_reform = universal_voting
-			political_reform = appointed
-			political_reform = censored_press
-			political_reform = gerrymandering
-			social_reform = trinket_health_care
-			social_reform = acceptable_schools
-			nationalvalue = nv_order
-			any_pop = {
-				militancy = -3
-			}
-			any_pop = {
-				limit = {
-					OR = {
-						type = clerks
-						type = craftsmen
-						type = capitalists
-					}
-				}
-				consciousness = 3
-			}
-			add_country_modifier = {
-				name = louis_napoleon_iii
-				duration = 7300
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
 	integrate_the_duchies = {
 		potential = {
 			tag = DEN
@@ -1875,68 +1823,7 @@ political_decisions = {
 
 		}
 	}
-	taiping_claim_the_mandate = {
-		potential = {
-			tag = TPG
-			war = no
-			NOT = { has_country_flag = tame_the_dragon }	
-		}
-
-		allow = {
-			NOT = { exists = CHI }
-			is_vassal = no
-			foreign_weapons = foreign_weapons_two
-		}
-
-		effect = {
-			set_country_flag = tame_the_dragon
-			add_accepted_culture = beifaren
-			badboy = 15
-			any_pop = {
-				limit = { is_primary_culture = yes }
-				consciousness = 2
-			}
-			any_pop = {
-				limit = { is_accepted_culture = yes }
-				consciousness = 3
-			}
-			any_pop = {
-				limit = { is_accepted_culture = no }
-				consciousness = 5
-			}
-			FJN = {
-				all_core = { add_core = TPG }
-			}
-			GNG = {
-				all_core = { add_core = TPG }
-			}
-			GXI = {
-				all_core = { add_core = TPG }
-			}
-			HNN = {
-				all_core = { add_core = TPG }
-			}
-			HUI = {
-				all_core = { add_core = TPG }
-			}
-			SXI = {
-				all_core = { add_core = TPG }
-			}
-			SZC = {
-				all_core = { add_core = TPG }
-			}
-			XBI = {
-				all_core = { add_core = TPG }
-			}
-			YNN = {
-				all_core = { add_core = TPG }
-			}
-		}
-		ai_will_do = {
-			factor = 1
-
-		}
-	}
+	
 
 	form_pba = {
 		potential = {
