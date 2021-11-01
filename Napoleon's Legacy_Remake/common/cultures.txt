@@ -562,7 +562,7 @@ hungarian_culture_group = {
 		
 	hungarian = {
 		color = {180 255 120}
-		first_names = { Alajos Albert almos Anasztaz Andras Arisztid Aurel Bela Benedek Beni
+		first_names = { Alajos Albert Almos Anasztaz Andras Arisztid Aurel Bela Benedek Beni
 		Bertalan Daniel David Edvard Elias Erno Ferencz Gabor Gabriel Gaspar
 		György Gyula Ignac Imre Istvan Izidor Janos Jozsef "Jozsef Manes" Kalman
 		Karoly Katalin Kelemen Krisztian Lajos Laszlo Mano Mihaly Mor Myklos
@@ -641,7 +641,7 @@ czecho_slovak_culture_group = {
 		Michal Mikulas Milan Milos Miloslav Miroslav Pavel Pavol Peter Ratislav
 		Rudolf Samuel Sergej Stefan Svtozar Tibor Tomas Viliam Vladimir Vojtech }
 
-		last_names = { achim Bazlic Bella Benes Blaho Catlos Cikker Clementis Daxner Dubcek
+		last_names = { Achim Bazlic Bella Benes Blaho Catlos Cikker Clementis Daxner Dubcek
 		Figus-Bystrý Freso Gojdic Golian Hlinka Hodza Hopko Hurban Hurban-Vajanský Husak
 		Ivanka Kafenda Kardos Kocak Kupkovic Mach Macudzinski Malar Malovec Markovic
 		Masaryk Mory Moyses Razus Rohacek Rudnay Selepceni Sidor Skultety-Gabris Smik
@@ -1577,7 +1577,7 @@ latin_american_cultures = {
 	leader = southamerican
 	mexican = {
 		color = {51 117 62}
-		first_names = { Adrian Agustin Alvaro Anastasio Andres angel Antonio Bernardo Emiliano Emilio
+		first_names = { Adrian Agustin Alvaro Anastasio Andres Angel Antonio Bernardo Emiliano Emilio
 		Enrique Ernesto Felipe Felix Francisco "Francisco Javier" Gabriel Gaspar Gregorio Ignacio
 		Jeronimo Joaquin Jose "Jose Manuel" "Jose Maria" Juan "Juan Bautista" Justo Lazaro Manuel
 		Mariano Martin Melchor Miguel Nicolas Pablo Pascual Pedro Porfirio Ramon
