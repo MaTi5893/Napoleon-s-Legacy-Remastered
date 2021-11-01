@@ -377,7 +377,7 @@ army = {
 
 	regiment = {
 		name= "V. Kavalleriebrigade"
-		type = cuirassier
+		type = hussar
 		home = 550
 	}
 

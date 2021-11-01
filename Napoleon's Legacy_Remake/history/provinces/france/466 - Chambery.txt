@@ -1,6 +1,7 @@
 owner = FRA
 controller = FRA
 add_core = SAR
+add_core = FRA
 add_core = ITA
 trade_goods = grain
 life_rating = 32
@@ -11,3 +12,4 @@ life_rating = 32
 	controller = FRA
 	add_core = FRA
 }
+

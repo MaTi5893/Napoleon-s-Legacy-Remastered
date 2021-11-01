@@ -2462,7 +2462,13 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 70946
+        size = 67946
+    }
+
+    craftsmen = {
+	    culture = polish
+	    religion = catholic
+	    size = 3000
     }
 
     clergymen = {
@@ -2736,7 +2742,13 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 141423
+        size = 137000
+    }
+
+    craftsmen = {
+	    culture = polish
+	    religion = catholic
+	    size = 4423
     }
 
     clergymen = {
@@ -3145,7 +3157,13 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 80722
+        size = 76722
+    }
+
+    craftsmen = {
+        culture = polish
+        religion = catholic
+        size = 4000
     }
 
     clergymen = {
@@ -3225,7 +3243,13 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 89300
+        size = 85300
+    }
+
+    craftsmen = {
+	culture = polish
+	religion = catholic
+	size = 4000
     }
 
     clergymen = {

@@ -1,21 +1,64 @@
 political_decisions = {
-	repartition_poland_AUS = {
+	#get_back_our_eastern_claim = {
+	#	potential = {
+	#		tag = AUS
+	#		NOT = { has_country_flag = get_back_our_eastern_claim }
+	#	}
+	#	allow = {
+	#		state_n_government = 1
+	#		is_greater_power = yes
+	#		war_policy = jingoism
+	#	}
+	#	effect = {
+	#		704 = { add_core = THIS }
+	#		2584 = { add_core = THIS }
+	#		714 = { add_core = THIS }
+	#		705 = { add_core = THIS }
+	#		951 = { add_core = THIS }
+	#		702 = { add_core = THIS }
+	#		952 = { add_core = THIS }
+	#		953 = { add_core = THIS }
+	#		badboy=7
+	#		set_country_flag = get_back_our_eastern_claim
+	#	}
+	#}
+	finish_poland_partition = {
 		potential = {
 			tag = AUS
-			NOT = { has_country_flag = repartition_poland_AUS }
+			NOT = {has_country_flag=finish_poland_partition}
+			#has_country_flag=get_back_our_eastern_claim
 		}
 		allow = {
-			owns = 703
-			war_policy = jingoism
+			state_n_government=1
+			is_greater_power=yes
+			PLC = {is_greater_power=no}
+			war_policy=jingoism
+			owns=705
+			owns=702
 		}
 		effect = {
-			703 = { add_core = THIS }
 			711 = { add_core = THIS }
-			713 = { add_core = THIS }
 			715 = { add_core = THIS }
+			713 = { add_core = THIS }
 			716 = { add_core = THIS }
-			badboy = 10
-			set_country_flag = repartition_poland_AUS
+			703 = { add_core = THIS }
+			badboy =2
+			set_country_flag=finish_poland_partition
 		}
 	}
+	reintegrate_illiya = {
+		potential = {
+			tag = AUS
+			NOT={has_country_flag=reintegrate_illiya}
+		}
+		allow = {
+			state_n_government=1
+			DLM = {in_sphere = THIS}
+		}
+		effect = {
+			DLM = {annex_to =THIS}
+			set_country_flag = reintegrate_illiya 
+		}
+	}
+	
 }

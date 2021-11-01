@@ -1,13 +1,17 @@
 ENG = {
-	value = 0
+	value = -50
 }
 
-PRU = {
-	value = 49
+GBR = {
+	value = -50
+}
+
+FRA = {
+    value = 100
 }
 
 leader = {
-	name = "Rye"
+	name = "Liam"
 	date = 1836.1.1
 	type = land
 	personality = defence_1.1
@@ -15,203 +19,111 @@ leader = {
 }
 
 army = {
-	name = "Danske Haeren"
-	location = 372
+	name = "Óglaigh na hÉireann"
+	location = 263
 	regiment = {
 		name= "1.1. Infanteridivision"
 		type = infantry
-		home = 372
+		home = 254
 	}
 
 	regiment = {
 		name= "2.1. Infanteridivision"
 		type = infantry
-		home = 372
+		home = 255
 	}
 
 	regiment = {
 		name= "3.1. Infanteridivision"
 		type = infantry
-		home = 372
+		home = 256
 	}
 	
 	regiment = {
 		name= "1.2. Infanteridivision"
 		type = infantry
-		home = 366
+		home = 258
 	}
 
 	regiment = {
 		name= "2.2. Infanteridivision"
 		type = artillery
-		home = 305
+		home = 259
 	}
 
 	regiment = {
 		name= "3.2. Infanteridivision"
 		type = artillery
-		home = 366
+		home = 260
 	}
 	regiment = {
 		name= "4.2. Infanteridivision"
 		type = artillery
-		home = 366
+		home = 261
 	}
 	regiment = {
 		name= "5.2. Infanteridivision"
 		type = artillery
-		home = 310
+		home = 262
 	}
 	regiment = {
 		name= "6.2. Infanteridivision"
 		type = artillery
-		home = 309
+		home = 263
 	}
 
 	regiment = {
 		name= "1.1. Kavalleridivision"
 		type = hussar
-		home = 373
+		home = 264
 	}
-
 }
 
 navy = {
-	name = "Royal Navy"
-	location = 372
-	ship = {
-		name= "Danmark"
-		type = manowar
-	}
-
-	ship = {
-		name= "Dronning Marie"
-		type = manowar
-	}
-
-	ship = {
-		name= "Frederik den sjette"
+    name = "Transport Fleet"
+    location = 263
+    ship = {
+		name= "D�n na nGall"
 		type = manowar
 	}
 	ship = {
-		name= "Waldemar"
+		name= "Loingsech"
 		type = manowar
 	}
 	ship = {
-		name= "Ingolf"
+		name= "ӒConghaile"
 		type = manowar
 	}
+
+
 	ship = {
-		name= "Skjold"
-		type = manowar
-	}
-	ship = {
-		name= "Frederik den sjette II"
-		type = manowar
-	}
-	ship = {
-		name= "Waldemar II"
-		type = manowar
-	}
-	ship = {
-		name= "Ingolf II"
-		type = manowar
-	}
-	ship = {
-		name= "Skjold II"
-		type = manowar
-	}
-	ship = {
-		name= "Bellona"
+		name= "Fort Rannoch"
 		type = frigate
 	}
 
 	ship = {
-		name= "Diana"
+		name= "Cliona"
 		type = frigate
 	}
 
 	ship = {
-		name= "Freja"
+		name= "Maev"
 		type = frigate
 	}
 
 	ship = {
-		name= "Fylla"
+		name= "Macha"
 		type = frigate
 	}
 	ship = {
-		name= "Leopard"
+		name= "an C�bh"
 		type = frigate
 	}
 	ship = {
-		name= "Raae"
+		name= "Cliona II"
 		type = frigate
 	}
-	ship = {
-		name= "Stralsund"
-		type = frigate
-	}
-	ship = {
-		name= "Gefion"
-		type = frigate
-	}
-	ship = {
-		name= "Stralsund II"
-		type = frigate
-	}
-	ship = {
-		name= "Gefion II"
-		type = frigate
-	}
-	ship = {
-		name= "Bellona II"
-		type = frigate
-	}
-
-	ship = {
-		name= "Diana II"
-		type = frigate
-	}
-
-	ship = {
-		name= "Freja II"
-		type = frigate
-	}
-
-	ship = {
-		name= "Fylla II"
-		type = frigate
-	}
-	ship = {
-		name= "Leopard II"
-		type = frigate
-	}
-	ship = {
-		name= "Raae II"
-		type = frigate
-	}
-	ship = {
-		name= "Stralsund II"
-		type = frigate
-	}
-	ship = {
-		name= "Gefion II"
-		type = frigate
-	}
-	ship = {
-		name= "Stralsund III"
-		type = frigate
-	}
-	ship = {
-		name= "Gefion III"
-		type = frigate
-	}
-
-
-
-
-	ship = {
+    ship = {
 		name= "1st Transport Flotilla"
 		type = clipper_transport
 	}
@@ -253,6 +165,4 @@ navy = {
 		type = clipper_transport
 	}
 
-
 }
-

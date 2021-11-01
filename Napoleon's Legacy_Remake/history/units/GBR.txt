@@ -407,4 +407,422 @@ army = {
 		home = 290
 	}
 }
+navy = {
+	name = "Second Fleet"
+	location = 277
+	ship = {
+		name= "HMS Bellona"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Benbow"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Devonshire"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Hogue"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Medway"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Mulgrave"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Pembroke"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Queen Charlotte"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Scarborough"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Stirling Castle"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Amphitrite"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Arethusa"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Blonde"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Brilliant"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Forte"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Java"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Laurel"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Pallas"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Sirius"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Trincomalee"
+		type = frigate
+	}
+	ship = {
+		name= "HMS Amazon"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Fisguard"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Isis"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Latona"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Melampus"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Minerva"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Nereus"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Seringapatam"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Southampton"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Venus"
+		type = frigate
+	}
+}
+navy = {
+	name = "Main Fleet"
+	location = 303
+	ship = {
+		name= "HMS Blenheim"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Cambridge"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Cornwallis"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Defence"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Genoa"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Hercules"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Howe"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Nelson"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Redoubtable"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Salisbury"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Ajax"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Armada"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Caledonia"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Edinburgh"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Egmont"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Impregnable"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Invincible"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Minden"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Poictiers"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Warspite"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Bacchante"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Belvidera"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Briton"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Crescent"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Galatea"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Havannah"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Maidstone"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Menelaus"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Nymphe"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Tenedos"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Madagascar"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Portland"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Winchester"
+		type = frigate
+	}
+
+}
+
+navy = {
+	name = "Main Transport Squadron"
+	location = 277
+	ship = {
+		name= "100th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "101th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "102th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "103th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "104th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "105th Transport Flotilla"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "106th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "107th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "108th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "109th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "110th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "111th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "112th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "113th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "114th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "115th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "116th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "117th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "118th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "119th Transport Flotilla"
+		type = clipper_transport
+	}
+
+
 

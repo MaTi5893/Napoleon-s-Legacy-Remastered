@@ -716,86 +716,6 @@ navy = {
 	name = "Imperial Northern Fleet"
 	location = 994
 	ship = {
-		name= "Dvenadtsat' Apostolov"
-		type = manowar
-	}
-
-	ship = {
-		name= "Poltava"
-		type = manowar
-	}
-
-	ship = {
-		name= "Ratnyi"
-		type = manowar
-	}
-
-	ship = {
-		name= "Hiagudil"
-		type = manowar
-	}
-
-	ship = {
-		name= "Gangut"
-		type = manowar
-	}
-
-	ship = {
-		name= "Ezekiel"
-		type = manowar
-	}
-
-	ship = {
-		name= "Tsar Konstantin"
-		type = manowar
-	}
-
-	ship = {
-		name= "Yaroslav"
-		type = manowar
-	}
-
-	ship = {
-		name= "Izyaslav"
-		type = manowar
-	}
-
-	ship = {
-		name= "Pravyi"
-		type = manowar
-	}
-
-	ship = {
-		name= "Isidor"
-		type = manowar
-	}
-
-	ship = {
-		name= "Anapa"
-		type = manowar
-	}
-
-	ship = {
-		name= "Maria"
-		type = manowar
-	}
-
-	ship = {
-		name= "Dimitri Donskoi"
-		type = manowar
-	}
-
-	ship = {
-		name= "Paraskevia"
-		type = manowar
-	}
-
-	ship = {
-		name= "Sv Ytoslav"
-		type = manowar
-	}
-
-	ship = {
 		name= "Spyesttunyi"
 		type = frigate
 	}
@@ -845,26 +765,6 @@ navy = {
 		type = clipper_transport
 	}
 	
-	ship = {
-		name= "Nord Adler"
-		type = manowar
-	}
-
-	ship = {
-		name= "Prints Gustav"
-		type = manowar
-	}
-
-	ship = {
-		name= "Ne Tron Menya"
-		type = manowar
-	}
-
-	ship = {
-		name= "Svyastoslav"
-		type = manowar
-	}
-
 	ship = {
 		name= "Chrabryi"
 		type = manowar

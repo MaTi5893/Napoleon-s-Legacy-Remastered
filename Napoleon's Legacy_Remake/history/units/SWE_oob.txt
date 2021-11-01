@@ -1,6 +1,6 @@
 
 leader = {
-	name = "Carl Nordenskjöld"
+	name = "Carl Nordenskjï¿½ld"
 	date = 1834.1.1
 	type = sea
 	personality = defence_1.1
@@ -27,7 +27,7 @@ leader = {
 }
 
 leader = {
-	name = "Axel Mörner"
+	name = "Axel Mï¿½rner"
 	date = 1818.1.1
 	type = land
 	personality = defence_1.1
@@ -45,7 +45,7 @@ leader = {
 }
 
 leader = {
-	name = "C. Cederström"
+	name = "C. Cederstrï¿½m"
 	date = 1824.1.1
 	type = land
 	personality = defence_1.1
@@ -72,22 +72,22 @@ leader = {
 }
 
 army = {
-	name = "Svenska Armén"
+	name = "Svenska Armï¿½n"
 	location = 322
 	regiment = {
 		name= "Svea Livgarde"
-		type = guard
+		type = artillery
 		home = 322
 	}
 
 	regiment = {
-		name= "Södermanlands Regemente"
+		name= "Sï¿½dermanlands Regemente"
 		type = infantry
 		home = 326
 	}
 
 	regiment = {
-		name= "Första Livgrenadjärregementet"
+		name= "Fï¿½rsta Livgrenadjï¿½rregementet"
 		type = infantry
 		home = 325
 	}
@@ -99,26 +99,26 @@ army = {
 	}
 
 	regiment = {
-		name= "Västgöta Regemente"
+		name= "Vï¿½stgï¿½ta Regemente"
 		type = infantry
 		home = 330
 	}
 
 	regiment = {
 		name= "Kalmar Regemente"
-		type = infantry
+		type = artillery
 		home = 332
 	}
 
 	regiment = {
-		name= "Jönköpings Regemente"
-		type = infantry
+		name= "Jï¿½nkï¿½pings Regemente"
+		type = artillery
 		home = 333
 	}
 
 	regiment = {
-		name= "Södra Skånska Infanteriregementet"
-		type = infantry
+		name= "Sï¿½dra Skï¿½nska Infanteriregementet"
+		type = artillery
 		home = 334
 	}
 
@@ -130,8 +130,73 @@ army = {
 
 	regiment = {
 		name= "Norrlands Dragonregemente"
-		type = dragoon
+		type = artillery
 		home = 321
+	}
+
+}
+
+army = {
+	name = "Finland Armï¿½n"
+	location = 343
+	regiment = {
+		name= "2.Svea Livgarde"
+		type = artillery
+		home = 322
+	}
+
+	regiment = {
+		name= "2.Sï¿½dermanlands Regemente"
+		type = infantry
+		home = 322
+	}
+
+	regiment = {
+		name= "2.Fï¿½rsta Livgrenadjï¿½rregementet"
+		type = infantry
+		home = 317
+	}
+
+	regiment = {
+		name= "2.Upplands Regemente"
+		type = infantry
+		home = 323
+	}
+
+	regiment = {
+		name= "2.Vï¿½stgï¿½ta Regemente"
+		type = infantry
+		home = 327
+	}
+
+	regiment = {
+		name= "2.Kalmar Regemente"
+		type = artillery
+		home = 328
+	}
+
+	regiment = {
+		name= "2.Jï¿½nkï¿½pings Regemente"
+		type = artillery
+		home = 329
+	}
+
+	regiment = {
+		name= "2.Sï¿½dra Skï¿½nska Infanteriregementet"
+		type = artillery
+		home = 343
+	}
+
+	regiment = {
+		name= "2.Kronprinsens Husarregemente"
+		type = hussar
+		home = 345
+	}
+
+	regiment = {
+		name= "2.Norrlands Dragonregemente"
+		type = artillery
+		home = 346
 	}
 
 }
@@ -150,7 +215,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Fäderneslandet"
+		name= "Fï¿½derneslandet"
 		type = manowar
 	}
 
@@ -190,9 +255,36 @@ navy = {
 		name= "2nd Transport Flotilla"
 		type = clipper_transport
 	}
-
-	ship = {
+	ship = {	
 		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "4th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "5th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "6th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "7th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "8th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "9th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "10th Transport Flotilla"
 		type = clipper_transport
 	}
 

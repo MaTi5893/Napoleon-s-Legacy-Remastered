@@ -1,7 +1,7 @@
-owner = PER
-controller = PER
+owner = RUS
+controller = RUS
 
-add_core = PER
+add_core = RUS
 add_core = ARM
 add_core = AZB
 trade_goods = wool

@@ -1,0 +1,36 @@
+political_decisions = {
+    poland_is_no_more = {
+        potential = {
+            OR = {
+               tag=RUS
+               tag=PRU
+               tag=AUS 
+            }
+		NOT = { has_country_flag = poland_dead } 
+        }
+        allow = {
+            is_greater_power=yes
+            PLC = {exists=no}
+            POL = {exists=no}
+        }
+        effect = {
+			set_country_flag = poland_dead
+            prestige=5
+            any_pop = {
+                limit = {
+                    culture=polish
+                }
+				militancy = 2
+                consciousness=2
+			}
+            PLC = {
+				all_core = {
+                    limit = {
+                        owned_by=THIS
+                    }
+					remove_core=PLC
+				}
+			}
+        }
+    }
+}

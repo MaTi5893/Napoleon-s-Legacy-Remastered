@@ -76,7 +76,7 @@ proclaim_second_empire_title;Coronation of Napoleon III;;;;;;;x
 give_up_the_cause_title;Give up the Cause;;;;;;;x
 give_up_the_cause_desc;We have failed to return to our original lands, perhaps we should establish a new Kingdom and begin a new journey to glory?;;;;;;;x
 napoleons_legacy_title;Napoleon's Legacy;;;;;;;x
-napoleons_legacy_desc;The foolish compromises of Napoleon II have forced us to grant concessions to other European nations for the sake of peace. This great betryal must be amended, and the Legacy of Napoleon the Great must be reborn!;;;;;;;x
+napoleons_legacy_desc;The foolish compromises of Napoleon II have forced us to grant concessions to other European nations for the sake of peace. This great betrayal must be amended, and the Legacy of Napoleon the Great must be reborn!;;;;;;;x
 the_roundhead_legacy_title;The Cromwellian Spirit;;;;;;;x
 the_roundhead_legacy_desc;The republic is too unstable! As Cromwell did once, so shall we restore order and peace with a new Lord Protector, otherwise our enemies will prevail over us.;;;;;;;x
 the_danzig_coup_title;The Danzig Coup;;;;;;;x
@@ -91,11 +91,11 @@ take_what_is_ours_title;Retake the Indian Treaty Ports;;;;;;;x
 take_what_is_ours_desc;For ages, the Indian subcontinent has been plagued by the most terrifying disease - Europeans. With our control over South Asia solidified, we can afford to consolidate our power even more - and even attempt to drive out the Foreigners.;;;;;;;x
 form_celtic_union_title;Form the Celtic Union;;;;;;;x 
 form_celtic_union_desc;With our brothers under $COUNTRY_ADJ$ protection, we may finally embrace the Celtic identity and unite against England.;;;;;;;x
-finish_what_we_started_title;Finish what we Started!;;;;;;;x
+finish_what_we_started_title;Finish What We Started!;;;;;;;x
 finish_what_we_started_desc;With our nation sufficiently prepared against the English  with the power of Big Chungus, now is the best time to strike. Let us liberate the people of Kernow and Manning!           §YResearching Nationalism and Imperialism allows you to discover Manifest Destiny.§!;;;;;;;x
 recover_brittany_title;Recover Brittany!;;;;;;;x
 recover_brittany_desc;Brittany had endured under the French boot for hundreds of years. With our status as a formidable European power confirmed, the first step to helping the Bretons is to assert our claim on the Peninsula.;;;;;;;x
-cut_down_to_size_desc;Force another §Ycountry§W to disarm;Obliger un autre §Ypays§W à se désarmer et à nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrüstung und zu Reparationszahlungen an uns.;;Obligar a otro §Ypaís§W a desarmarse y que nos indemnice;;;;;;;x
+cut_down_to_size_desc;Force another §Ycountry§W to disarm;;;;;;;;x
 unite_la_plata_title;Form the United Provinces of Rio de La Plata;;;;;;;x
 unite_la_plata_desc;The nations which were once part of the Viceroyalty of Rio de La Plata must be reunited under a single flag once again, the platinean peoples bound together into a great nation, a power to rule in the New World, the United Provinces of Rio de La Plata.;;;;;;;x
 reclaim_louisiana_title;Reclaim Louisiana!;;;;;;;x
@@ -110,3 +110,11 @@ ino_liferating_for_cash_desc;A large part of our country is a poor, jungle-y, un
 ino_liferating_for_cash_title;Fund the Poorest Parts of Indonesia;;;;;;;x
 crusade_for_canada_title;The Crusade for Canada;;;;;;;x
 crusade_for_canada_desc;Our northern neighbors, the Canadians, are unjustly exploited by upstart British nobles, who ran from their home after the British Revolution. To achieve peace in the New World, this imperialism must be put to an end.;;;;;;;x
+get_back_our_eastern_claim_title;Take back our Eastern Claims!;;;;;;;x
+get_back_our_eastern_claim_desc;After the disastrous Wars of the Coalition, our rightful land in the Kingdom of Galicia was stolen by the Polish-Lithuanian Commonwealth. This was a terrible mistake; and now it falls upon us to mend the situation.;;;;;;;x
+finish_poland_partition_title;Finish the New Partitions of Poland!;;;;;;;x
+finish_poland_partition_desc;It has become apparent that the lords of Poland are utterly incompetent at administrating their own realm. There is no point in having them keep holding onto land that was once Austrian.;;;;;;;x
+reintegrate_illiya_title;Reintegrate Illyria;;;;;;x
+reintegrate_illiya_desc;After the Wars of the Coalition against Napoleon, we were forced to acknowledge an independent, 'Illyrian' state in Croatian, and therefore, Austrian territory. However, with France losing their power in the region, and our diplomats further accumulating influence, we are able to reintegrate Illyria into our country.;;;;;;;x
+poland_is_no_more_title;Poland is No More!;;;;;;;x
+poland_is_no_more_desc;With the Polish-Lithuanian Commonwealth off the map, we can once and for all wipe the pretense of a powerful Union between Poles and Lithuanians;;;;;;;x

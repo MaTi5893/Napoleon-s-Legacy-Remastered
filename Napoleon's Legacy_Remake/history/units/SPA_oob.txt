@@ -81,7 +81,7 @@ leader = {
 	prestige = 0.1
 }
 leader = {
-	name = "Ramón María Narváez"
+	name = "Ramï¿½n Marï¿½a Narvï¿½ez"
 	picture = spa_gen_narvaez
 	type = land
 	date="1835.1.1"
@@ -97,7 +97,7 @@ leader = {
 	background = attack_1.1
 }
 leader = {
-	name = "Gerónimo Valdés"
+	name = "Gerï¿½nimo Valdï¿½s"
 	picture = spa_gen_valdes
 	type = land
 	date="1836.1.1"
@@ -114,7 +114,7 @@ leader = {
 	prestige = 0.2
 }
 leader = {
-	name = "Juan Ramón Rodil"
+	name = "Juan Ramï¿½n Rodil"
 	picture = spa_gen_rodil
 	type = land
 	date="1824.1.1"
@@ -123,7 +123,7 @@ leader = {
 	prestige = 0.2
 }
 leader = {
-	name = "Luis Fernández de Córdova"
+	name = "Luis Fernï¿½ndez de Cï¿½rdova"
 	picture = spa_gen_luiscordova
 	type = land
 	date="1833.1.1"
@@ -131,7 +131,7 @@ leader = {
 	background = attack_1.1
 }
 leader = {
-	name = "Gaspar de Jáuregui"
+	name = "Gaspar de Jï¿½uregui"
 	picture = spa_gen_jauregui
 	type = land
 	date="1833.1.1"
@@ -149,7 +149,7 @@ leader = {
 	prestige = 0.3
 }
 leader = {
-	name = "José Primo de Rivera"
+	name = "Josï¿½ Primo de Rivera"
 	picture = spa_adm_primorivera
 	type = sea
 	date="1827.1.1"
@@ -177,7 +177,7 @@ leader = {
 
 #Army
 army = {
-	name = "Ejército Cristino del Centro"
+	name = "Ejï¿½rcito Cristino del Centro"
 	location = 487
 	regiment = {
 		name= "1. Granaderos del Rey"
@@ -198,19 +198,19 @@ army = {
 	}
 
 	regiment = {
-		name= "1. Brigada de Infantería 'El Ramillete'"
+		name= "1. Brigada de Infanterï¿½a 'El Ramillete'"
 		type = infantry
 		home = 503
 	}
 
 	regiment = {
-		name= "2. Brigada de Infantería"
+		name= "2. Brigada de Infanterï¿½a"
 		type = infantry
 		home = 509
 	}
 
 	regiment = {
-		name= "3. Brigada de Infantería"
+		name= "3. Brigada de Infanterï¿½a"
 		type = artillery
 		home = 513
 	}
@@ -241,72 +241,72 @@ army = {
 }
 
 army = {
-	name = "Ejército del Norte"
+	name = "Ejï¿½rcito del Norte"
 	location = 495
 	
 	regiment = {
-		name= "4. Brigada de Infantería 'San Jorge'"
+		name= "4. Brigada de Infanterï¿½a 'San Jorge'"
 		type = hussar
-		home = 498
+		home = 487
 	}
 
 	regiment = {
-		name= "1. Brigada de Artillería"
+		name= "1. Brigada de Artillerï¿½a"
 		type = infantry
 		home = 476
 	}
 	
 	regiment = {
-		name= "5. Brigada de Infantería"
+		name= "5. Brigada de Infanterï¿½a"
 		type = infantry
 		home = 482
 	}
 	
 	regiment = {
-		name= "6. Brigada de Infantería 'La Granja'"
+		name= "6. Brigada de Infanterï¿½a 'La Granja'"
 		type = infantry
 		home = 483
 	}
 
 	regiment = {
-		name= "7. Brigada de Infantería"
+		name= "7. Brigada de Infanterï¿½a"
 		type = infantry
 		home = 497
 	}
 
 	regiment = {
-		name= "8. Brigada de Infantería"
+		name= "8. Brigada de Infanterï¿½a"
 		type = artillery
 		home = 512
 	}
 
 	regiment = {
-		name= "9. Brigada de Infantería"
+		name= "9. Brigada de Infanterï¿½a"
 		type = artillery
 		home = 514
 	}
 
 	regiment = {
-		name= "10. Brigada de Infantería"
+		name= "10. Brigada de Infanterï¿½a"
 		type = artillery
 		home = 510
 	}
 
 	regiment = {
-		name= "11. Brigada de Infantería"
+		name= "11. Brigada de Infanterï¿½a"
 		type = artillery
 		home = 516
 	}
 	
 	regiment = {
-		name= "12. Brigada de Infantería"
+		name= "12. Brigada de Infanterï¿½a"
 		type = artillery
 		home = 515
 	}
 }
 
 army = {
-	name = "Ejército de Cuba"
+	name = "Ejï¿½rcito de Cuba"
 	location = 480
 	
 	regiment = {
@@ -371,7 +371,7 @@ army = {
 }
 
 navy = {
-	name = "Armada Real Española"
+	name = "Armada Real Espaï¿½ola"
 	location = 506
 	
 	ship = {
@@ -380,7 +380,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Hespérides"
+		name = "Hespï¿½rides"
 		type = manowar
 	}
 	
@@ -395,7 +395,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Cristóbal Colón"
+		name = "Cristï¿½bal Colï¿½n"
 		type = frigate
 	}
 	
@@ -435,7 +435,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Nuestra Señora del Patrocinio"
+		name = "Nuestra Seï¿½ora del Patrocinio"
 		type = frigate
 	}
 	
@@ -460,7 +460,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Héroe"
+		name= "Hï¿½roe"
 		type = manowar
 	}
 
@@ -480,12 +480,12 @@ navy = {
 	}
 
 	ship = {
-		name= "Nuestra Señora de Asunción"
+		name= "Nuestra Seï¿½ora de Asunciï¿½n"
 		type = frigate
 	}
 
 	ship = {
-		name= "Nuestra Señora de Atocha"
+		name= "Nuestra Seï¿½ora de Atocha"
 		type = frigate
 	}
 

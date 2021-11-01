@@ -226,6 +226,7 @@ political_decisions = {
 			badboy = 5
 			add_accepted_culture = greek
 			add_accepted_culture = serb
+			add_accepted_culture = bulgarian
 			GRE = {
 				all_core = {
 					add_core = TUR
