@@ -1,7 +1,7 @@
 country_event = {
-	id = 10001
-    title = "EVTNAME10001"
-	desc = "EVTDESC10001"
+	id = 181502
+    title = "EVTNAME181502"
+	desc = "EVTDESC181502"
 
     is_triggered_only = yes
 
