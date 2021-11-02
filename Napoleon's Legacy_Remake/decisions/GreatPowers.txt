@@ -61,5 +61,38 @@ political_decisions = {
 			}
 		}
 	}
-
+	poland_is_no_more = {
+        potential = {
+            OR = {
+               tag=RUS
+               tag=PRU
+               tag=AUS 
+            }
+			PLC = {exists=no}
+            POL = {exists=no}
+            is_greater_power=yes
+		NOT = { has_country_flag = poland_is_no_more } 
+        }
+        allow = {
+        }
+        effect = {
+			set_country_flag = poland_is_no_more
+            prestige=5
+            any_pop = {
+                limit = {
+                    culture=polish
+                }
+				militancy = 2
+                consciousness=2
+			}
+            PLC = {
+				all_core = {
+                    limit = {
+                        owned_by=THIS
+                    }
+					remove_core=PLC
+				}
+			}
+        }
+    }
 }

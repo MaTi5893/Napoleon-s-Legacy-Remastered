@@ -1,7 +1,6 @@
 owner = NIT
 controller = NIT
 add_core = NIT
-add_core = AUS
 add_core = ITA
 trade_goods = grain
 life_rating = 35
