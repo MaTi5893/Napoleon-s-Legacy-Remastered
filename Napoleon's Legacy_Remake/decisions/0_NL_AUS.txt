@@ -42,7 +42,7 @@ political_decisions = {
 			713 = { add_core = THIS }
 			716 = { add_core = THIS }
 			703 = { add_core = THIS }
-			badboy =2
+			badboy =4
 			set_country_flag=finish_poland_partition
 		}
 	}
@@ -60,5 +60,23 @@ political_decisions = {
 			set_country_flag = reintegrate_illiya 
 		}
 	}
-	
+	trent_claim = {
+		potential = {
+			potential = {
+				tag = AUS
+				NOT = {has_country_flag=trent_claim}
+			}
+			allow = {
+				state_n_government=1
+				ITA = {exists=no}
+				owns=612
+			}
+			effect = {
+				735 = { add_core = THIS }
+				734 = { add_core = THIS }
+				badboy=2
+				set_country_flag=trent_claim
+			}
+		}
+	}
 }
