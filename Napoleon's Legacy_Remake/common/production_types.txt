@@ -1243,7 +1243,7 @@ artisan_steamer = {
 	}
 	output_goods = steamer_convoy 
 	is_coastal = yes
-	value = 2.5			#120
+	value = 2.6			#120
 	
 	owner = {
 		poptype = artisan 

@@ -41,25 +41,7 @@ political_decisions = {
 			set_country_flag = plc_expansion
 		}
 	}
-	
-	propose_plc = {
-		picture = become_plc
-		potential = {
-			tag = CPL
-			PLC = { exists = no }
-			LIT = { exists = yes }
-		}
-		allow = {
-			relation = {
-				who = LIT
-				value = 100
-			}
-		}
-		effect = {
-			LIT = { country_event = 157300 }
-		}
-	}
-	
+
 	create_cop = {
 		picture = duchy_of_warsaw
 		potential = {
@@ -88,38 +70,6 @@ political_decisions = {
 					duration = -1
 				}
 			}
-		}
-	}
-	
-	the_grandest_duchy = {
-		picture = duchy_of_lit
-		potential = {
-			tag = LIT
-			NOT = { has_country_flag = the_grandest_duchy }
-		}
-		allow = {
-			invention = expansionism
-			OR = {
-				war_with = RUS
-				is_greater_power = yes
-			}
-		}
-		effect = {
-			add_accepted_culture = byelorussian
-			PLC = {
-				all_core = {
-					limit = {
-						NOT = { is_core = POL }
-						NOT = { is_core = GER }
-						NOT = { is_core = LAT }
-						NOT = { is_core = EST }
-					}
-					add_core = THIS
-				}
-			}
-			prestige = 20
-			badboy = 10
-			set_country_flag = the_grandest_duchy
 		}
 	}
 }

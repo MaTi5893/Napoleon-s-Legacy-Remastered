@@ -42,7 +42,7 @@ political_decisions = {
 	}
 		effect = {
 			prestige = 30
-			badboy = 8
+			badboy = 5
 			1303 = { add_core = HND } # Goa
 			1312 = { add_core = HND } # all cops are bastards (Pondicherry)
 			1320 = { add_core = HND } # Andaman Islands

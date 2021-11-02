@@ -34,7 +34,7 @@ political_decisions = {
 				}
 				annex_to = TUR
 				TUR = {
-					badboy = 15
+					badboy = 12
 				}
 			}
 			set_country_flag = restored_ottoman_egypt

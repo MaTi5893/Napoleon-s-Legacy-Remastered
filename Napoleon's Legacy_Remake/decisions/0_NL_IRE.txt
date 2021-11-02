@@ -112,8 +112,8 @@ form_celtic_union = {
 						is_core = 424
 						is_core = 422
 					}
-			}	
-		}
+				}	
+			}
 			allow = { 
 				revolution_n_counterrevolution = 1
 			}
@@ -124,7 +124,7 @@ form_celtic_union = {
 				add_core = 423
 				add_core = 424
 				add_core = 422
-					}
-				}
 			}
+	}
+}
 
