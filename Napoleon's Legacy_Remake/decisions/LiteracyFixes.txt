@@ -41,25 +41,21 @@ political_decisions = {
 	
 	effect = {
 		name = "big big chungus big chungus"
-		641 = {
-			state_scope = { 
+		AUS_641 = {
 				any_pop = {
 					limit = {
 						has_pop_culture = hungarian
 					}
 					literacy = 0.15 #15 percent increase
 				}
-			}
 		}
-		623 = {
-			state_scope = { 
+		AUS_623 = {
 				any_pop = {
 					limit = {
 						has_pop_culture = hungarian
 					}
 					literacy = 0.15 #15 percent increase
 				}
-			}
 		}
 	}
 }
