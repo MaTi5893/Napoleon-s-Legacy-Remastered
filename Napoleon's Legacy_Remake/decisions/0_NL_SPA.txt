@@ -1,33 +1,4 @@
 political_decisions = {
-	restore_spanish_empire = {
-		potential = {
-			tag = SPA
-			NOT = { has_country_flag = restored_spanish_empire }
-		}
-		allow = {
-			OR = {
-				is_greater_power = yes
-				invention = national_fraternity
-			}
-			all_core = {
-				owned_by = THIS
-			}
-			owns = 765
-			war_policy = jingoism
-		}
-		effect = {
-			754 = { add_core = THIS }
-			2567 = { add_core = THIS }
-			755 = { add_core = THIS }
-			753 = { add_core = THIS }
-			757 = { add_core = THIS }
-			SAR_765 = { add_core = THIS }
-			SIC_763 = { add_core = THIS }
-			SIC_756 = { add_core = THIS }
-			badboy = 15
-			set_country_flag = restored_spanish_empire
-		}
-	}
 	domination_of_western_mediterranean_see = {
 		potential = {
 			tag = SPA
