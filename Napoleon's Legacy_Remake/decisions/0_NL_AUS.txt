@@ -62,21 +62,19 @@ political_decisions = {
 	}
 	trent_claim = {
 		potential = {
-			potential = {
 				tag = AUS
 				NOT = {has_country_flag=trent_claim}
-			}
-			allow = {
+		}
+		allow = {
 				state_n_government=1
 				ITA = {exists=no}
 				owns=612
-			}
-			effect = {
+		}
+		effect = {
 				735 = { add_core = THIS }
 				734 = { add_core = THIS }
 				badboy=2
 				set_country_flag=trent_claim
-			}
 		}
 	}
 }

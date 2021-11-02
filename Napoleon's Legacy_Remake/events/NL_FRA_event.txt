@@ -7,9 +7,7 @@ country_event = {
 
     option = {
         name = "Give them Catalonia !"
-        SPA = {
-            
-        }
+        SPA_498 = { secede_province = SPA } 
         badboy = -3
         ai_chance = {
 			factor = 0.5

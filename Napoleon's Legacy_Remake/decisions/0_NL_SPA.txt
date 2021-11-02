@@ -42,17 +42,10 @@ political_decisions = {
 			battleship_column_doctrine=1
 		}
 		effect = {
+			set_country_flag=domination_of_western_mediterranean_see
 			SAR_765 = { add_core = THIS }
 			SIC_763 = { add_core = THIS }
-			any_pop = {
-                limit = {
-                    culture=south_italian
-                }
-				militancy = 1
-                consciousness=1
-			}
 		}
-		set_country_flag=domination_of_western_mediterranean_see
 	}
 	expension_in_southern_italy = {
 		potential = {
@@ -74,6 +67,13 @@ political_decisions = {
 			757 = { add_core = THIS }
 			SIC_756 = { add_core = THIS }
 			set_country_flag=expension_in_southern_italy
+			any_pop = {
+                		limit = {
+                    			culture=south_italian
+                		}
+				militancy = 1
+               			consciousness=1
+			}
 		}
 	}
 	glory_to_the_spanish_empire = {
@@ -108,14 +108,16 @@ political_decisions = {
 	ask_france_catalonia = {
 		potential = {
 			tag = SPA
+			ai = no
 			NOT = { has_country_flag = ask_france_catalonia }
+			alliance_with = FRA
 		}
 		allow = {
-			NOT = {owns=FRA_498}
+			NOT = {owns=498}
 		}
 		effect = {
 			prestige =5
-			FRA = {country_event = 10001}
+			FRA = {country_event = 181502}
 			set_country_flag=ask_france_catalonia
 		}
 	}
