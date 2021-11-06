@@ -85,17 +85,21 @@
 	aristocrats = {
 		culture = north_italian
 		religion = catholic
-		size = 850
+		size = 650
 	}
-
+	aristocrats = {
+		culture = french
+		religion = catholic
+		size = 200
+	}
 	bureaucrats = {
-		culture = north_italian
+		culture = french
 		religion = catholic
 		size = 350
 	}
 
 	officers = {
-		culture = north_italian
+		culture = french
 		religion = catholic
 		size = 75
 	}
@@ -103,25 +107,40 @@
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 800
+		size = 500
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 300
 	}
 
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 6000
+		size = 4000
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 2000
 	}
 
 	craftsmen = {
-		culture = north_italian
+		culture = french
 		religion = catholic
-		size = 1000
+		size = 1100
 	}
 
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 1100
+		size = 700
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 400
 	}
 
 	farmers = {
@@ -129,14 +148,13 @@
 		religion = catholic
 		size = 58325
 	}
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 10000
+	}
 
 	clergymen = {
-		culture = north_italian
-		religion = jewish
-		size = 100
-	}
-	
-	craftsmen = {
 		culture = north_italian
 		religion = jewish
 		size = 100
@@ -153,61 +171,55 @@
 	aristocrats = {
 		culture = north_italian
 		religion = catholic
-		size = 175
+		size = 100
 	}
 
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 150
+		size = 100
 	}
 
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 775
-	}
-
-	soldiers = {
-		culture = north_italian
-		religion = catholic
-		size = 150
+		size = 475
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 14250
+		size = 7250
 	}
 
 	aristocrats = {
 		culture = french
 		religion = catholic
-		size = 275
+		size = 350
 	}
 
 	clergymen = {
 		culture = french
 		religion = catholic
-		size = 225
+		size = 275
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 1175
+		size = 1475
 	}
 
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 225
+		size = 375
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 21600
+		size = 28600
 	}
 }
 #Novara (212000/53000 POPS)

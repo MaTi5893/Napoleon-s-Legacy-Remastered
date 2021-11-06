@@ -3653,31 +3653,56 @@
 	aristocrats = {
 		culture = north_italian
 		religion = catholic
+		size = 200
+	}
+	aristocrats = {
+		culture = french
+		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 425
+		size = 200
+	}
+	clergymen = {
+		culture = french
+		religion = catholic
+		size = 225
 	}
 
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 6000
+		size = 4000
+	}
+	artisans = {
+		culture = french
+		religion = catholic
+		size = 2000
 	}
 
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 1100
+		size = 600
+	}
+	soldiers = {
+		culture = french
+		religion = catholic
+		size = 500
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 34825
+		size = 20000
+	}
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 14825
 	}
 
 }
