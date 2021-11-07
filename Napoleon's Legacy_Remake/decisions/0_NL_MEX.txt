@@ -2,7 +2,8 @@ political_decisions = {
 	stop_usa_expansion = {
         potential = {
             tag = MEX
-            NOT= {has_country_flag=stop_usa_expansion}
+            NOT= { accepted_culture = cherokee }
+	    NOT= { accepted_culture = mayan }
         }
         allow = {
             war=no
@@ -27,7 +28,7 @@ political_decisions = {
     expand_mississipi = {
         potential = {
             tag = MEX
-            has_country_flag=stop_usa_expansion
+            accepted_culture = cherokee
             NOT= {has_country_flag=expand_mississipi}
         }
         allow = {
@@ -101,7 +102,8 @@ political_decisions = {
     accept_mayan = {
         potential = {
             tag = MEX       
-            NOT= {has_country_flag=accept_mayan}
+            NOT= { accepted_culture = mayan}
+	    NOT= { accepted_culture = cherokee }
         }
         allow = {
             war=no
@@ -115,7 +117,6 @@ political_decisions = {
         effect = {
             add_accepted_culture=mayan
             prestige = 5
-            set_country_flag=accept_mayan
         }
     }
     expand_central_america = {
