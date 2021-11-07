@@ -563,61 +563,6 @@ navy = {
 	name = "Main Fleet"
 	location = 303
 	ship = {
-		name= "HMS Blenheim"
-		type = manowar
-	}
-
-	ship = {
-		name= "HMS Cambridge"
-		type = manowar
-	}
-
-	ship = {
-		name= "HMS Cornwallis"
-		type = manowar
-	}
-
-	ship = {
-		name= "HMS Defence"
-		type = manowar
-	}
-
-	ship = {
-		name= "HMS Genoa"
-		type = manowar
-	}
-
-	ship = {
-		name= "HMS Hercules"
-		type = manowar
-	}
-
-	ship = {
-		name= "HMS Howe"
-		type = manowar
-	}
-
-	ship = {
-		name= "HMS Nelson"
-		type = manowar
-	}
-
-	ship = {
-		name= "HMS Redoubtable"
-		type = manowar
-	}
-
-	ship = {
-		name= "HMS Salisbury"
-		type = manowar
-	}
-
-	ship = {
-		name= "HMS Ajax"
-		type = manowar
-	}
-
-	ship = {
 		name= "HMS Armada"
 		type = manowar
 	}
