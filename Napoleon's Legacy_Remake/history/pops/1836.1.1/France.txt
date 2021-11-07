@@ -52,13 +52,13 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 2100
+		size = 10100
 	}
 
 	labourers = {
 		culture = french
 		religion = catholic
-		size = 128000
+		size = 120000
 	}
 }
 #Dunkirk (396000/99000 POPS)
@@ -90,13 +90,13 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 1100
+		size = 5100
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 73350
+		size = 75350
 	}
 
 	artisans = {
@@ -120,7 +120,7 @@
 	farmers = {
 		culture = flemish
 		religion = catholic
-		size = 15000
+		size = 12000
 	}
 }
 #Arras (428000/107000 POPS)
@@ -146,13 +146,13 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 1150
+		size = 4150
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 98125
+		size = 95125
 	}
 }
 #Amiens (552000/138000 POPS)
@@ -184,13 +184,13 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 1500
+		size = 8500
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 122875
+		size = 115875
 	}
 }
 #Beauvais (392000/98000 POPS)
@@ -1128,7 +1128,7 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 2000
+		size = 8000
 	}
 
 	farmers = {
@@ -1230,13 +1230,13 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 2750
+		size = 7750
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 250350
+		size = 245350
 	}
 
 }
@@ -1252,7 +1252,7 @@
 	officers = {
 		culture = french
 		religion = catholic
-		size = 750
+		size = 800
 	}
 
 	bureaucrats = {
@@ -1288,13 +1288,13 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 1400
+		size = 8000
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 111600
+		size = 107600
 	}
 }
 #St Brieuc (604000/151000 POPS)
@@ -1332,13 +1332,13 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 1500
+		size = 14500
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 133200
+		size = 120200
 	}
 }
 #Vannes (436000/109000 POPS)
@@ -1376,16 +1376,16 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 1100
+		size = 10100
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 97400
+		size = 90400
 	}
 }
-#Nantes (476000/119000 POPS)
+#tes (476000/119000 POPS)
 423 = {
 	aristocrats = {
 		culture = french
@@ -1426,13 +1426,13 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 1250
+		size = 7250
 	}
 
 	labourers = {
 		culture = french
 		religion = catholic
-		size = 93450
+		size = 88450
 	}
 }
 #Rennes (548000/137000 POPS)
@@ -1470,13 +1470,13 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 1400
+		size = 13000
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 121750
+		size = 111750
 	}
 
 }
@@ -2742,13 +2742,13 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 2100
+		size = 8100
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 130050
+		size = 110050
 	}
 
 	clergymen = {
@@ -2810,13 +2810,13 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 1150
+		size = 6150
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 80425
+		size = 75425
 	}
 }
 #Valence (656000/164000 POPS)
@@ -2854,13 +2854,13 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 1650
+		size = 6650
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 150000
+		size = 145000
 	}
 }
 #Grenoble (696000/174000 POPS)
@@ -2886,7 +2886,7 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 1750
+		size = 6750
 	}
 
 	farmers = {

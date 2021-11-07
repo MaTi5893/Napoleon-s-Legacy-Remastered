@@ -326,4 +326,46 @@ political_decisions = {
 				factor = 1
 			}
 	}
+	embrace_slovak_minority = {
+			picture = embrace_minority
+			potential = {
+				tag = KUK
+				any_owned_province = { is_core = SLO }
+				NOT = {
+					accepted_culture = slovak
+					has_country_flag = embrace_slovak_minority
+				}
+				accepted_culture = czech
+				#NOT = { any_owned_province = { is_core = BAV } } #cope
+			}
+			allow = {
+				year = 1870
+				prestige = 50
+				revolution_n_counterrevolution = 1
+				psychoanalysis = 1
+			}
+			effect = {
+				set_country_flag = embrace_slovak_minority
+				add_accepted_culture = slovak
+				prestige = -25
+				any_pop = {
+					limit = {
+						OR = {
+							has_pop_culture = hungarian
+							has_pop_culture = czech
+						}
+					}
+					militancy = 4
+					consciousness = 4
+				}
+				any_pop = {
+					limit = { has_pop_culture = slovene }
+					militancy = -4
+					consciousness = -4
+				}
+			}
+			ai_will_do = {
+				factor = 1
+			}
+	}
 }

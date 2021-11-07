@@ -6,6 +6,7 @@ political_decisions = {
 			NOT = {	has_country_flag=unification_of_iberia }
 		}
 		allow = {
+			war=no
 			is_greater_power = yes
 			owns = 502
 			war_policy = jingoism
@@ -27,6 +28,7 @@ political_decisions = {
 		allow = {
 			is_greater_power = yes
 			owns = 763
+			war=no
 			war_policy = jingoism
 			state_n_government=1
 		}
@@ -56,6 +58,7 @@ political_decisions = {
 		allow = {
 			is_greater_power = yes
 			nationalism_n_imperialism=1
+			war=no
 			owns = 754
 			owns = 2567
 			owns = 755
@@ -84,6 +87,7 @@ political_decisions = {
 			alliance_with = FRA
 		}
 		allow = {
+			war=no
 			NOT = {owns=498}
 		}
 		effect = {
@@ -99,6 +103,7 @@ political_decisions = {
 			NOT = { has_country_flag = domination_of_western_mediterranean_see }
 		}
 		allow = {
+			war=no
 			owns = 518
 			owns = 519
 			owns = 520
