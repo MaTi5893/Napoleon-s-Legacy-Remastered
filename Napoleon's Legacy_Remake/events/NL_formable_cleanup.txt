@@ -1,7 +1,7 @@
 country_event = { #removes german minor cores when Germany forms
 			fire_only_once = yes 
 			id = 999900
-			name = "EVT999900TITLE"		
+			title = "EVT999900TITLE"		
 			desc = "EVT999900DESC"
 				trigger = {
 						tag = GER 

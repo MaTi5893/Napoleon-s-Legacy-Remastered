@@ -2573,6 +2573,35 @@
 }
 #Tahlequah (12000/3000 POPS)
 130 = {
+    aristocrats = {
+        culture = cherokee
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = cherokee
+        religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = cherokee
+        religion = animist
+        size = 100
+    }
+
+    soldiers = {
+        culture = cherokee
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = cherokee
+        religion = animist
+        size = 1600
+    }
     slaves = {
         culture = afro_american
         religion = protestant

@@ -2,42 +2,42 @@
 MEX = {
 	value = 100		#relation
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 75
+	influence_value = 25
 }
 ECU = {
 	value = 100		#relation
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 75
+	influence_value = 25
 }
 PEU = {
 	value = 100		#relation
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 75
+	influence_value = 25
 }
 BOL = {
 	value = 100		#relation
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 75
+	influence_value = 25
 }
 CHL = {
 	value = 100		#relation
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 75
+	influence_value = 25
 }
 PRG = {
 	value = 100		#relation
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 75
+	influence_value = 25
 }
 UCA = {
 	value = 100		#relation
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 75
+	influence_value = 25
 }
 CLM = {
 	value = 100		#relation
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 75
+	influence_value = 25
 }
 FRA = {
 	value = 100

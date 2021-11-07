@@ -3,18 +3,19 @@ political_decisions = {
         potential = {
             tag = MEX
             NOT= {has_country_flag=stop_usa_expansion}
-            NOT= {has_country_flag=expand_to_central_america}
         }
         allow = {
             war=no
             state_n_government=1
             owns=143
             owns=148
+			owns=126
+			owns=130
             is_secondary_power=yes
         }
         effect = {
             add_accepted_culture=cherokee
-            prestige 5
+            prestige = 5
             set_country_flag=stop_usa_expansion
             CHE = {
                 all_core = {
@@ -32,7 +33,7 @@ political_decisions = {
         allow = {
             war=no
             nationalism_n_imperialism=1
-            is_secondary_power=yes
+            rank = 16
             owns = 139
             owns = 140
             owns = 141
@@ -99,8 +100,7 @@ political_decisions = {
     }
     accept_mayan = {
         potential = {
-            tag = MEX
-            NOT= {has_country_flag=expand_mississipi}
+            tag = MEX       
             NOT= {has_country_flag=accept_mayan}
         }
         allow = {
@@ -142,7 +142,7 @@ political_decisions = {
         potential = {
             tag = MEX
             has_country_flag=expand_central_amreica
-            NOT= {has_country_flag=accept_central_america}
+            NOT= {accepted_culture = central_american}
         }
         allow = {
             war=no
@@ -155,7 +155,6 @@ political_decisions = {
         }
         effect = {
             add_accepted_culture=central_american
-            set_country_flag=accept_central_america
             prestige = 10
             add_core = 2204
             add_core = 2205

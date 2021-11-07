@@ -426,7 +426,7 @@ country_event = {
 		year = 1836
 		NOT = { year = 1880 }
 		BRZ = {	ai = no }
-		tag = UBP
+		tag = UPB
 		2427 = { NOT = { trade_goods = precious_metal } } 
 	}
 

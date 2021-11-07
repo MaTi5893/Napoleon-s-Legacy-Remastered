@@ -63,7 +63,7 @@ political_decisions = {
 			state_n_government=1
 			OR = {
 				DLM = {in_sphere = THIS}
-				DLM = {is_vassal_of=THIS}
+				DLM = {vassal_of=THIS}
 			}
 		}
 		effect = {
@@ -94,7 +94,7 @@ political_decisions = {
 				tag = AUS
 				tag = KUK
 			}
-			NOT = {has_country_flag=the_5_crowns}
+			NOT = {accepted_culture = bosniak}
 		}
 		allow = {
 			war=no
@@ -103,7 +103,7 @@ political_decisions = {
 					owned_by=THIS
 				}
 			}
-			revolution_n_counterevolution=1
+			revolution_n_counterrevolution=1
 		}
 		effect = {
 			BOS = {

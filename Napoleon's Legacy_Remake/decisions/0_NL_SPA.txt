@@ -48,26 +48,24 @@ political_decisions = {
                			consciousness=1
 			}
 		}
-	}
+	} 
 	glory_to_the_spanish_empire = {
 		potential = {
 			tag = SPA
-			NOT = { has_country_flag = glory_to_the_spanish_empire }
+			NOT = { accepted_culture = south_italian }
 			has_country_flag=expension_in_southern_italy
 		}
 		allow = {
 			is_greater_power = yes
 			nationalism_n_imperialism=1
 			war=no
-			owns = 754
-			owns = 2567
-			owns = 755
-			owns = 753
-			owns = 757
-			owns = SAR_765
-			owns = SIC_763
-			owns = SIC_756
-		}
+			any_core = {  
+				OR = { 
+					owned_by = THIS 
+					NOT = { is_core = ITA }
+				}
+			}
+		}			 
 		effect = {
 			add_accepted_culture=south_italian
 			prestige = 20
@@ -75,7 +73,7 @@ political_decisions = {
 			government = absolute_monarchy
 			any_pop = {
 				militancy = -1
-                consciousness=-1
+               	 		consciousness=-1
 			}
 		}
 	}
@@ -136,18 +134,18 @@ political_decisions = {
 			add_core = 2134
 			add_core = 2135
 			set_country_flag=form_iberia
-			add_accepted_culture=portugese
+			add_accepted_culture=portuguese
 		}
 	}
 	expand_citizenship1 = {
 		potential = {
 			tag = SPA
-			NOT = { has_country_flag = expand_citizenship1 }
+			NOT = { accepted_culture = caribeno }
 			NOT = { has_country_flag = form_iberia }
 		}
 		allow = {
 				owns= 2209
-			owns =2222
+				owns =2222
 				state_n_government=1
 		}
 		effect = {
@@ -159,37 +157,32 @@ political_decisions = {
 			badboy = 5
 			add_accepted_culture=caribeno
 			add_accepted_culture=afro_caribeno
-			set_country_flag=expand_citizenship1
 		}
-	}
+	} 
 	expand_citizenship2 = {
 		potential = {
 			tag = SPA
-			NOT = { has_country_flag = expand_citizenship2 }
+			NOT = { accepted_culture = filipino}
 			NOT = { has_country_flag = domination_of_western_mediterranean_see }
-			NOT = { has_country_flag = domination_of_western_mediterranean_see }
-			has_country_flag = expand_spain_to_caraibe
+			accepted_culture = caribeno
 		}
 		allow = {
 			nationalism_n_imperialism = 1
 			citizenship_policy = full_citizenship
-			PHL = {
-				all_core = {
-					owned_by=THIS
-				}
-			}
+			NOT = { SPA_1463 = { NOT = { owned_by = THIS } } }	#PHI = [ doesn't work, as PHI is a blacklisted tag, will change the tag(?) after this mp campaign is done
+			NOT = { SPA_1455 = { NOT = { owned_by = THIS } } }  
+			NOT = { SPA_1459 = { NOT = { owned_by = THIS } } } 
 		}
 		effect = {
 			prestige = 5
 			badboy=10
 			add_accepted_culture = filipino
-			set_country_flag=expand_citizenship2
 		}
 	}
 	spanish_armada = {
 		potential = {
 			tag = SPA
-			NOT = { has_country_flag = spanish_armada }
+			NOT = { tech_school = prussian_tech_school }
 		}
 		allow = {
 			battleship_column_doctrine=1
