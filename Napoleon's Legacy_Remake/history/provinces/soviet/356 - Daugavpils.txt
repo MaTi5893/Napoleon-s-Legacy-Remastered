@@ -1,7 +1,7 @@
 owner = RUS
 
 controller = RUS
-
+add_core = PLC
 add_core = RUS
 
 add_core = LAT
