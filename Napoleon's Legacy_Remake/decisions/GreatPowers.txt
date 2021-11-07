@@ -67,6 +67,9 @@ political_decisions = {
                tag=RUS
                tag=PRU
                tag=AUS 
+			   tag=NGF
+			   tag=GER
+			   tag=KUK
             }
 			PLC = {exists=no}
             POL = {exists=no}

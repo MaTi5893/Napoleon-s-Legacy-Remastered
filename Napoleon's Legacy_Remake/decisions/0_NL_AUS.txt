@@ -24,11 +24,15 @@ political_decisions = {
 	#}
 	finish_poland_partition = {
 		potential = {
-			tag = AUS
+			OR = {
+				tag = AUS
+				tag = KUK
+			}
 			NOT = {has_country_flag=finish_poland_partition}
 			#has_country_flag=get_back_our_eastern_claim
 		}
 		allow = {
+			war=no
 			state_n_government=1
 			is_greater_power=yes
 			PLC = {is_greater_power=no}
@@ -48,12 +52,19 @@ political_decisions = {
 	}
 	reintegrate_illiya = {
 		potential = {
-			tag = AUS
+			OR = {
+				tag = AUS
+				tag = KUK
+			}
 			NOT={has_country_flag=reintegrate_illiya}
 		}
 		allow = {
+			war=no
 			state_n_government=1
-			DLM = {in_sphere = THIS}
+			OR = {
+				DLM = {in_sphere = THIS}
+				DLM = {vassal_of=THIS}
+			}
 		}
 		effect = {
 			DLM = {annex_to =THIS}
@@ -62,18 +73,45 @@ political_decisions = {
 	}
 	trent_claim = {
 		potential = {
-				tag = AUS
-				NOT = {has_country_flag=trent_claim}
+			tag = KUK
+			NOT = {has_country_flag=trent_claim}
 		}
 		allow = {
-				state_n_government=1
-				ITA = {exists=no}
-				owns=735
+			war=no
+			state_n_government=1
+			ITA = {exists=no}
+			owns=735
 		}
 		effect = {
 				734 = { add_core = THIS }
 				badboy=2
 				set_country_flag=trent_claim
+		}
+	}
+	the_crown_of_Bosnia = {
+		potential = {
+			OR = {
+				tag = AUS
+				tag = KUK
+			}
+			NOT = {accepted_culture = bosniak}
+		}
+		allow = {
+			war=no
+			BOS = {
+				all_core = {
+					owned_by=THIS
+				}
+			}
+			revolution_n_counterrevolution=1
+		}
+		effect = {
+			BOS = {
+				all_core = {
+					add_core=THIS
+				}
+			}
+			add_accepted_culture=bosniak
 		}
 	}
 }

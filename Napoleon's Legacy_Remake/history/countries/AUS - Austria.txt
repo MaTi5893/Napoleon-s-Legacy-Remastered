@@ -1,5 +1,6 @@
 capital = 619
 primary_culture = south_german
+culture = czech
 religion = catholic
 government = absolute_monarchy
 plurality = 25.0

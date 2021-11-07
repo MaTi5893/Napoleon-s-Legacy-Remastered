@@ -1,7 +1,6 @@
 owner = PLC
 controller = PLC
 add_core = LIT
-
 add_core = BYE
 add_core = PLC
 trade_goods = grain

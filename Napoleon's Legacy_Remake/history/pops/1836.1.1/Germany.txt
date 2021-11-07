@@ -2877,11 +2877,6 @@
 }
 #Saarbrucken (308000/77000 POPS)
 573 = {
-	aristocrats = {
-		culture = north_german
-		religion = protestant
-		size = 250 
-	}
 
 	clergymen = {
 		culture = north_german
@@ -2892,31 +2887,19 @@
 	artisans = {
 		culture = north_german
 		religion = protestant
-		size = 1150
-	}
-
-	clerks = {
-		culture = north_german
-		religion = protestant
-		size = 100
+		size = 550
 	}
 
 	craftsmen = {
 		culture = north_german
 		religion = protestant
-		size = 2000
-	}
-	
-	soldiers = {
-		culture = north_german
-		religion = protestant
-		size = 250 
+		size = 1500
 	}
 
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 20025
+		size = 15025
 	}
 
 	aristocrats = {
@@ -2934,7 +2917,7 @@
 	artisans = {
 		culture = north_german
 		religion = catholic
-		size = 2500
+		size = 2300
 	}
 
 	clerks = {
@@ -2946,19 +2929,31 @@
 	craftsmen = {
 		culture = north_german
 		religion = catholic
-		size = 7900
+		size = 7000
 	}
 	
 	soldiers = {
 		culture = north_german
 		religion = catholic
-		size = 1500 
+		size = 1000 
 	}
 
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 38000 
+		size = 30000 
+	}
+
+	aristocrats = {
+		culture = french
+		religion = protestant
+		size = 250 
+	}
+
+	clerks = {
+		culture = french
+		religion = protestant
+		size = 100
 	}
 
 	clergymen = {
@@ -2970,19 +2965,25 @@
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 100
+		size = 900
 	}
 
 	craftsmen = {
 		culture = french
 		religion = catholic
-		size = 300
+		size = 1700
+	}
+
+	soldiers = {
+		culture = french
+		religion = protestant
+		size = 750 
 	}
 	
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 1575 
+		size = 15575 
 	}
 }
 #Kreuznach (228000/57000 POPS)

@@ -8,7 +8,6 @@ add_core = LAT
 
 add_core = UBD
 
-add_core = PLC
 trade_goods = grain
 
 life_rating = 35

@@ -8,6 +8,7 @@ plurality = 0.5
 nationalvalue = nv_equality
 literacy = 0.5
 civilized = yes
+prestige = 30
 is_releasable_vassal = no
 
 
