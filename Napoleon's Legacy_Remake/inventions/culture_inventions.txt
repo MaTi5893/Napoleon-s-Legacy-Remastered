@@ -1330,7 +1330,7 @@ expansionism = {
 		}
 		modifier = {
 			factor = 2
-			badboy = 5
+			badboy = 0.2
 		}
 	}
 	effect = {
