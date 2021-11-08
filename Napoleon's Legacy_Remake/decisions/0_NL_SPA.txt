@@ -182,20 +182,20 @@ political_decisions = {
 	spanish_armada = {
 		potential = {
 			tag = SPA
-			NOT = { tech_school = spanish_armada }
+			NOT = { tech_school = spanish_tech_school }
 		}
 		allow = {
 			battleship_column_doctrine=1
 			mechanical_production=1
 			state_n_government=1
-			owns=417
+			owns=517
 			owns=512
+			owns=474
 			is_greater_power=yes
 		}
 		effect = {
 			tech_school = spanish_tech_school
 			prestige = 5
-			set_country_flag=spanish_armada
 		}
 	}
 }
