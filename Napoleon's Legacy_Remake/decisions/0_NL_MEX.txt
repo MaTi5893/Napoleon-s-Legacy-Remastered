@@ -3,7 +3,7 @@ political_decisions = {
         potential = {
             tag = MEX
             NOT= { accepted_culture = cherokee }
-	    NOT= { accepted_culture = mayan }
+	        NOT= { accepted_culture = mayan }
         }
         allow = {
             war=no
@@ -103,7 +103,7 @@ political_decisions = {
         potential = {
             tag = MEX       
             NOT= { accepted_culture = mayan}
-	    NOT= { accepted_culture = cherokee }
+	        NOT= { accepted_culture = cherokee }
         }
         allow = {
             war=no

@@ -182,7 +182,7 @@ political_decisions = {
 	spanish_armada = {
 		potential = {
 			tag = SPA
-			NOT = { tech_school = prussian_tech_school }
+			NOT = { tech_school = spanish_armada }
 		}
 		allow = {
 			battleship_column_doctrine=1
