@@ -521,7 +521,7 @@ army = {
 		type = artillery
 		home = 393
 	}
-
+}
 
 army = {
 	name = "3eme Armee"

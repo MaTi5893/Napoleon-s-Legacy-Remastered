@@ -58,4 +58,26 @@ political_decisions = {
 			set_country_flag = napoleons_legacy
 		}
 	}
+	the_reconquest_of_quebec = { 
+		picture = vive_le_quebec
+		potential = { 
+			tag = FRA
+			NOT = { has_country_flag = FRA_quebec } 
+		}
+		allow = { 
+			invention = expansionism
+		}
+		effect = { 
+			QUE = { all_core = { add_core = FRA } } 
+			badboy = 3
+			65 = { #Quebec City
+				owner = { 
+					relation = {
+						who = FRA 
+						value = -400
+					}		
+				}
+			}
+		}
+	}
 }
