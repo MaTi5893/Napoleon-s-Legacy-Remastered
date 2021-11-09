@@ -83,10 +83,10 @@ political_decisions = {
 			ai = no
 			NOT = { has_country_flag = ask_france_catalonia }
 			alliance_with = FRA
+			NOT = {owns=498}
 		}
 		allow = {
 			war=no
-			NOT = {owns=498}
 		}
 		effect = {
 			prestige =5
