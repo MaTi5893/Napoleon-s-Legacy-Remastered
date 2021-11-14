@@ -16,7 +16,8 @@ In 1836 the french influence is no longer a thing in Scandinavia and the only th
 
 ## New Decision
 
-The general idea regarding the so called "Northern Lights" is to give them a choice between cooperation or rivality and hugely expanding their importance in game.
+The general idea regarding the so called "Northern Lights" is to give them a choice between cooperation or rivality and hugely expanding their importance in game. 
+For example, Danemrak and Sweden will be more powerful as allies since they both can get two different expansion path but a Scandinavia + britain is a lot more powerful than a Sweden or Danemark with full expansion (the same as Prussia and Austria)
 
 ### Denmark
 
@@ -29,7 +30,13 @@ Denmark has rebuilt it's fleet and will be offered 2 new expansion path incompat
 - Sweden will be given a new expansion path which will beleading to the formation of the baltic empire, adding north german and batltic culture accepted. They will also get a unique event if conquer St  Petersburg and are allied to the Danes giving them huge buff(You'll have too discover that event by yourself)
 - If Sweden was to sphere the nation of Mecklenburg, they will be given the possibility to annex it.
 
-All baltic state will be able to take the path leading to the creation of the batlic empire, even Prussia (exception made for PLC and Russia as their technically not balti state)
+All baltic state will be able to take the path leading to the creation of the batlic empire, even Prussia (exception made for PLC and Russia as their technically not baltic country)
+
+## Scandinavia
+
+Scandinavia will have to choose between two new expansion path : 
+- One which leads to the acceptance and conquest of the british Isles (same as Danemark, possible changes for balance), with the new tech
+- One which gives north German accepted with Latvian and Estonian (same as Sweden, possible changes for balance)
 
 
 ## Territory
@@ -40,3 +47,14 @@ New states will be created in this expansion.
 - The tiny Island of Helligoland will be given to Danemark as a result of the fleeding of the british monarchy
 - The city of Lübeck will be given to Sweden as they were a lot more focus on Germany
 - Sweden will gain core on the province of Stralsund
+
+
+## Other things
+
+- Some pops are going to be more Swedish or Danes (Helligoland and the Faroe Island will be 100% Danes while Lübeck and Stralsund will be more Swedish)
+- If one owns St Petersburg, Copenhagen and every Baltic Isles at the same time, we will be able to select a decision which will increase taxes (to reflect the commercial activity)
+- Denmark and Sweden will start as allies
+- Both Denmark and Sweden will be allied to Westphalia and PLC (to reflect the reality of surveilling Prussia)
+- Danemark will be given one factory of Steamer transport in Sjaelland
+- Danemark will be given the Battleship Column Doctrine tech 
+- Sweden will get the ideological thought tech
