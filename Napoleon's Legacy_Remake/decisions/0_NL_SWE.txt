@@ -8,20 +8,82 @@ political_decisions = {
 		allow = {
 			OR = {
 				AND = {
-					owns=545
-					owns=544
+					
 				}
 				MEC = {is_vassal_of = THIS}
 				MEC = {in_sphere = THIS}
 			}
-			ideological_thought = 1
+			owns = 545
+			owns=544
 		}
 		effect = {
 			add_core = 545
 			add_core = 544
 			MEC = {annex_to =THIS}
-			set_country_flag = reintegrate_illiya 
+			set_country_flag = expand_german_influence 
 		}
 	}
-	
+	baltic_influence = {
+		potential = {
+			tag = SWE
+			NOT = {accepted_culture = estonian}
+		}
+		allow = {
+			owns = 349
+			owns = 350
+			owns = 351
+			owns = 352
+			owns = 353
+			owns = 354
+			owns = 355
+			owns = 356
+			owns = 357
+			owns = 358
+			owns = 359
+		}
+		effect = {
+			add_accepted_culture = estonian
+			add_accepted_culture = latvian
+			prestige = 10
+		}
+	}
+	finnish_influence = {
+		potential =  {
+			tag = SWE
+			NOT = {has_country_flag=finnish_influence}
+		}
+		allow = {
+			FIN = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+		}
+		effect = {
+			prestige = 10
+			set_country_flag=finnish_influence
+		}
+	}
+	expand_german_territory = {
+		potential = {
+			tag = SWE
+			has_country_falg = expand_german_influence
+			NOT = {has_country_flag=expand_german_territory}
+		}
+		allow = {
+			is_greater_power = yes
+			owns = 546
+			owns = 547
+			owns = 679
+			owns = 680
+		}
+		effect = {
+			add_core = 546
+			add_core = 547
+			add_core = 679
+			add_core = 680
+			set_country_flag = expand_german_territory 
+			prestige = 5
+		}
+	}
 }

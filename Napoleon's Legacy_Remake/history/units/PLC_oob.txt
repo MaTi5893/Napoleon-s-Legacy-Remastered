@@ -156,7 +156,7 @@ army = {
 
 army = {
 	name = "Third Army of Poland"
-	location = 365
+	location = 947
 	regiment = {
 		name= "1.1st Division"
 		type = infantry
@@ -166,13 +166,13 @@ army = {
 	regiment = {
 		name= "2.1st Division"
 		type = infantry
-		home = 699
+		home = 716
 	}
 
 	regiment = {
 		name= "3.1st Division"
 		type = infantry
-		home = 699
+		home = 936
 	}
 	
 	regiment = {
@@ -184,7 +184,7 @@ army = {
 	regiment = {
 		name= "5.1st Division"
 		type = hussar
-		home = 718
+		home = 940
 	}
 	
 	regiment = {
@@ -312,7 +312,7 @@ army = {
 	regiment = {
 		name= "5.1st Division"
 		type = hussar
-		home = 364
+		home = 958
 	}
 	
 	regiment = {
@@ -330,13 +330,13 @@ army = {
 	regiment = { 
 		name = "8.1st Division"
 		type = artillery
-		home = 361#
+		home = 364
 	}
 	
 	regiment = { 
 		name = "9.1st Division"
 		type = artillery
-		home = 361
+		home = 364
 	}
 	
 	regiment = { 

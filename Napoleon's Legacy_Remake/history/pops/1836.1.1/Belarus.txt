@@ -580,12 +580,6 @@
         size = 3243
     }
 
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 1034
-    }
-
     farmers = {
         culture = byelorussian
         religion = orthodox
@@ -601,31 +595,25 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 70
+        size = 2000
     }
 
     officers = {
         culture = polish
         religion = catholic
-        size = 211
+        size = 411
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 70
+        size = 2070
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 705
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 94
+        size = 1705
     }
 
     farmers = {
@@ -646,28 +634,16 @@
         size = 47
     }
 
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 23
-    }
-
     farmers = {
         culture = lithuanian
         religion = catholic
-        size = 855
+        size = 3855
     }
 
     aristocrats = {
         culture = russian
         religion = orthodox
         size = 470
-    }
-
-    bureaucrats = {
-        culture = russian
-        religion = orthodox
-        size = 141
     }
 
     officers = {
@@ -688,12 +664,6 @@
         size = 94
     }
 
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 47
-    }
-
     farmers = {
         culture = russian
         religion = orthodox
@@ -712,173 +682,12 @@
         size = 1410
     }
 
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 141
-    }
-
     farmers = {
         culture = ashkenazi
         religion = jewish
         size = 11491
     }
 
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 99
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 207
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 66
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 5084
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 150
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 5
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 14
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 5
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 45
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 6
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 377
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 3
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 2
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 55
-    }
-
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 30
-    }
-
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 9
-    }
-
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 11
-    }
-
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 3
-    }
-
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 6
-    }
-
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 3
-    }
-
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 59
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 8
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 90
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 9
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 734
-    }
 }
 #Lida (192000/48000 POPS)
 938 = {
@@ -1306,12 +1115,6 @@
         size = 1457
     }
 
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 399
-    }
-
     farmers = {
         culture = byelorussian
         religion = orthodox
@@ -1327,7 +1130,7 @@
     clergymen = {
         culture = polish
         religion = catholic
-        size = 70
+        size = 470
     }
 
     artisans = {
@@ -1464,16 +1267,16 @@
         size = 1692
     }
 
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 423
-    }
-
     farmers = {
         culture = byelorussian
         religion = orthodox
         size = 39809
+    }
+
+    bureaucrats = {
+        culture = polish
+        religion = catholic
+        size = 1500
     }
 
     aristocrats = {
@@ -1485,19 +1288,13 @@
     clergymen = {
         culture = polish
         religion = catholic
-        size = 47
+        size = 2447
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 141
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 23
+        size = 1141
     }
 
     farmers = {
@@ -1518,12 +1315,6 @@
         size = 1034
     }
 
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 47
-    }
-
     farmers = {
         culture = ashkenazi
         religion = jewish
@@ -1542,118 +1333,10 @@
         size = 846
     }
 
-    soldiers = {
-        culture = ukrainian
-        religion = orthodox
-        size = 235
-    }
-
     farmers = {
         culture = ukrainian
         religion = orthodox
         size = 21925
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 24
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 108
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 27
-    }
-
-    soldiers = {
-        culture = byelorussian
-        religion = orthodox
-        size = 2541
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 90
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 3
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 9
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 2
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 23
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 5
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 66
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 3
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 233
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = orthodox
-        size = 14
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = orthodox
-        size = 54
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = orthodox
-        size = 15
-    }
-
-    soldiers = {
-        culture = ukrainian
-        religion = orthodox
-        size = 1400
     }
 }
 #Smolensk Region (392000) #see Russia.txt for balance of region

@@ -1,3 +1,49 @@
 political_decisions = {
-    
+    form_ble = {
+        potential = {
+            OR = {
+                tag = PRU
+                tag = SWE
+                tag = FIN
+                tag = EST
+                tag = LET
+            }
+            BLE = {exists = no}
+        }
+        allow = {
+            is_greater_power = yes
+            state_n_government = 1
+            BLE = {
+				all_core = {
+					OR = {
+						OR = {
+							owned_by = THIS
+							owner = {
+								in_sphere = THIS
+							}
+                            owner = {
+                                is_vassal_of = THIS
+                            }
+						}
+					}
+				}
+			}
+        }
+        effect = {
+			prestige = 10
+            add_accepted_culture = estonian
+            add_accepted_culture = swedish
+            add_accepted_culture = latvian
+            add_accepted_culture = north_german
+            add_accepted_culture = finnish
+            add_accepted_culture = sami
+            any_owned = {
+				limit = {
+					is_core = THIS
+				}
+				add_core = BLE
+			}
+			change_tag = BLE
+		}
+    }
 }

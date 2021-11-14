@@ -2,7 +2,7 @@ color = { 15  5  107 }
 graphical_culture = EuropeanGC
 
 party = {
-	name = "BEL_liberal"
+	name = "BLE_liberal"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -16,7 +16,7 @@ party = {
 }
 
 party = {
-	name = "BEL_anarcho_liberal"
+	name = "BLE_anarcho_liberal"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -30,7 +30,7 @@ party = {
 }
 
 party = {
-	name = "BEL_conservative"
+	name = "BLE_conservative"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -44,7 +44,7 @@ party = {
 }
 
 party = {
-	name = "BEL_reactionary"
+	name = "BLE_reactionary"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -58,7 +58,7 @@ party = {
 }
 
 party = {
-	name = "BEL_socialist"
+	name = "BLE_socialist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -72,7 +72,7 @@ party = {
 }
 
 party = {
-	name = "BEL_communist"
+	name = "BLE_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -86,7 +86,7 @@ party = {
 }
 
 party = {
-	name = "BEL_liberal_2"
+	name = "BLE_liberal_2"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -100,7 +100,7 @@ party = {
 }
 
 party = {
-	name = "BEL_liberal_3"
+	name = "BLE_liberal_3"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -114,7 +114,7 @@ party = {
 }
 
 party = {
-	name = "BEL_conservative_2"
+	name = "BLE_conservative_2"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -128,7 +128,7 @@ party = {
 }
 
 party = {
-	name = "BEL_liberal_4"
+	name = "BLE_liberal_4"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -142,7 +142,7 @@ party = {
 }
 
 party = {
-	name = "BEL_fascist"
+	name = "BLE_fascist"
 	start_date = 1905.1.1
 	end_date = 2000.1.1
 
