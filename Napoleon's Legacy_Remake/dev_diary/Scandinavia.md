@@ -5,14 +5,14 @@ Hi everyone, let's talk about the upcoming Scandinavian update.
 
 ## A bit of History
 
-After the destruction of the Danish fleet for the 2nd time by the british during the Copenhagen battle in mid 1807, the Danes tried their best to recover and get their fleets back with financial helps from france who was lacking naval experience and ships following the Trafalgar's defeat. 
-In the meantime, Sweden choosed Bernadotte as it's new king. As a former Napoleon's marshal, he sided with France in the european wars, even though he was mainly focused on Swedish interest. \n
-Thus, both Denmark and Sweden became allies to support Napoleon, one against the United Kingdom, the other against Russia. 
-However, Sweden almost joined the coalition when Napoleon invaded their Germanic Possession of Pomerania. But he promised Sweden that this was only a temporary situation in order to increased it's surveillance of Prussia and secretly offered to help Sweden against Russia to reclaim Finland, using diplomacy first, and if Russia was to be disloyal, with military force.
-So when Russia traded with england, against the continental system and France, it was only too natural for Sweden and Denmark to join France.
+After the destruction of the Danish fleet for the 2nd time by the british during the Copenhagen battle in mid 1807, the Danes tried their best to recover and get their fleets back with financial helps from france who was lacking naval experience and ships following the Trafalgar's defeat. In the meantime, Sweden choosed Bernadotte as it's new king. As a former Napoleon's marshal, he sided with France in the european wars, even though he was mainly focused on Swedish interest. Thus, both Denmark and Sweden became allies to support Napoleon, one against the United Kingdom, the other against Russia. 
+
+However, Sweden almost joined the coalition when Napoleon invaded their Germanic Possession of Pomerania. But he promised Sweden that this was only a temporary situation in order to increased it's surveillance of Prussia and secretly offered to help Sweden against Russia to reclaim Finland, using diplomacy first, and if Russia was to be disloyal, with military force. So when Russia traded with england, against the continental system and France, it was only too natural for Sweden and Denmark to join France.
 
 They kept russia busy in Finland enabling Napoleon to crush a weaker russian army at Borodino and conquering Moscow with ease. The destruction of the Russian army, and the Swedish menace on St Petersburg forced Alexander the First to negociate a humiliating peace treaty with France. Sweden gained Finland back, Russia was forced into the continental system once more and the Duchy of Poland saw itself become a kingdom with considerable gain in the East.
+
 After the English Crisis and the end of the Napoleonic wars, Sweden and Denmark slowly left France's influence to concentrate on a join effort to keep a check on Prussia, enabling Denmark to annex Holstein and Sweden to further it's influence on north Germany.
+
 In 1836 the french influence is no longer a thing in Scandinavia and the only thing remaning from the Napoleonic era is the Bernadotte  family and some territory. The region inhabitant are speaking more and more of a Scandinavian union but Sweden is also looking at the Baltic see with great interest while Denmark has reconstruct it's mighty fleet with the goal to expand it's colonial Empire !
 
 ## New Decision
