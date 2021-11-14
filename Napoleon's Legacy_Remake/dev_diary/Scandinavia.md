@@ -27,7 +27,7 @@ Denmark has rebuilt it's fleet and will be offered 2 new expansion path incompat
 
 - The first is based upon the reconstruction of the Kalmar Union, enabling Denmark to claim Swedish territory and Sweden as an accepted culture and later o, finnish. After the establishment of this union, new decisions will be able to get cores on baltic state as well as their cultures. Finally, they will be able to accept north german if they accept to expand their influence in Germany.
 
-<img src="../picture_markdown/Dev_Scandi/Kalm_1.png" alt="Illustration" width="600" />
+<img src="../picture_markdown/Dev_Scandi/Kalm_1.png" alt="Illustration" width="600" /> (The Cores of the Kalmar Union)
 
 - The secondis based upon the reconquest of the British Isles, former possessions of the glorious vikings.They will be able to form the Norwegian empire, reclaiming lost territory and new techs giving boost for navies and armies.
 
@@ -39,7 +39,7 @@ Denmark has rebuilt it's fleet and will be offered 2 new expansion path incompat
 
 All baltic state will be able to take the path leading to the creation of the batlic empire, even Prussia (exception made for PLC and Russia as their technically not baltic country)
 
-<img src="../picture_markdown/Dev_Scandi/Baltic_1.png" alt="Illustration" width="600" />
+<img src="../picture_markdown/Dev_Scandi/Baltic_1.png" alt="Illustration" width="600" /> (The Cores of the Baltic Empire)
 
 ## Scandinavia
 
