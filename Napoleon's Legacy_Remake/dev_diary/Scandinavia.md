@@ -2,7 +2,7 @@
 
 Hi everyone, let's talk about the upcoming Scandinavian update. 
 
-<img src="picture_markdown/Scandi_1.png" alt="Illustration" width="400"/>
+<img src="../picture_markdown/Scandi_1.png" alt="Illustration" width="400"/>
 
 ## A bit of History
 
@@ -46,27 +46,27 @@ Scandinavia will have to choose between two new expansion path :
 New states will be created in this expansion. 
 - Every Island in the baltic will be their own state, reflecting the fact that those Island would theorically be important port. It will also make their conquest easier as the cost for each of them will be nothing, making them interestic strategic places.
 
-<img src="picture_markdown/Dev_Scandi/Terr_1.png" alt="Illustration" width="100"/>
-<img src="picture_markdown/Dev_Scandi/Terr_2.png" alt="Illustration" width="100"/>
-<img src="picture_markdown/Dev_Scandi/Terr_3.png" alt="Illustration" width="100"/>
+<img src="../picture_markdown/Dev_Scandi/Terr_1.png" alt="Illustration" width="100"/>
+<img src="../picture_markdown/Dev_Scandi/Terr_2.png" alt="Illustration" width="100"/>
+<img src="../picture_markdown/Dev_Scandi/Terr_3.png" alt="Illustration" width="100"/>
 
 - The Faroe Island will be their own state and the scotish one will be given to Danemark.
 
-<img src="picture_markdown/Dev_Scandi/Terr_4.png" alt="Illustration" width="100"/>
+<img src="../picture_markdown/Dev_Scandi/Terr_4.png" alt="Illustration" width="100"/>
 
 - The tiny Island of Helligoland will be given to Danemark as a result of the fleeding of the british monarchy
 
-<img src="picture_markdown/Dev_Scandi/Terr_5.png" alt="Illustration" width="100"/>
+<img src="../picture_markdown/Dev_Scandi/Terr_5.png" alt="Illustration" width="100"/>
 
 - The city of Lübeck will be given to Sweden as they were a lot more focus on Germany
 
-<img src="picture_markdown/Dev_Scandi/Terr_6.png" alt="Illustration" width="100"/>
+<img src="../picture_markdown/Dev_Scandi/Terr_6.png" alt="Illustration" width="100"/>
 
 - Sweden will gain core on the province of Stralsund
 
-<img src="picture_markdown/Dev_Scandi/Den_1.png" alt="Illustration" width="200"/>
+<img src="../picture_markdown/Dev_Scandi/Den_1.png" alt="Illustration" width="200"/>
 
-<img src="picture_markdown/Dev_Scandi/Swe_1.png" alt="Illustration" width="200"/>
+<img src="../picture_markdown/Dev_Scandi/Swe_1.png" alt="Illustration" width="200"/>
 
 ## Other things
 
