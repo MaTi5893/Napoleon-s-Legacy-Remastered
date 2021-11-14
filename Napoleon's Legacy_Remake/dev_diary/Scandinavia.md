@@ -1,9 +1,9 @@
-#The Scandinavian update
+# The Scandinavian update
 
 Hi everyone, let's talk about the upcoming Scandinavian update. 
 
 
-#A bit of History
+## A bit of History
 
 After the destruction of the Danish fleet for the 2nd time by the british during the Copenhagen battle in mid 1807, the Danes tried their best to recover and get their fleets back with financial helps from france who was lacking naval experience and ships following the Trafalgar's defeat. 
 In the meantime, Sweden choosed Bernadotte as it's new king. As a former Napoleon's marshal, he sided with France in the european wars, even though he was mainly focused on Swedish interest. 
@@ -14,25 +14,25 @@ They kept russia busy in Finland enabling Napoleon to crush a weaker russian arm
 After the English Crisis and the end of the Napoleonic wars, Sweden and Denmark slowly left France's influence to concentrate on a join effort to keep a check on Prussia, enabling Denmark to annex Holstein and Sweden to further it's influence on north Germany.
 In 1836 the french influence is no longer a thing in Scandinavia and the only thing remaning from the Napoleonic era is the Bernadotte  family and some territory. The region inhabitant are speaking more and more of a Scandinavian union but Sweden is also looking at the Baltic see with great interest while Denmark has reconstruct it's mighty fleet with the goal to expand it's colonial Empire !
 
-#New Decision
+## New Decision
 
 The general idea regarding the so called "Northern Lights" is to give them a choice between cooperation or rivality and hugely expanding their importance in game.
 
-##Denmark
+### Denmark
 
 Denmark has rebuilt it's fleet and will be offered 2 new expansion path incompatible with the formation of Scandinavia
 
 - The first is based upon the reconstruction of the Kalmar Union, enabling Denmark to claim Swedish territory and Sweden as an accepted culture and later o, finnish. After the establishment of this union, new decisions will be able to get cores on baltic state as well as their cultures. Finally, they will be able to accept north german if they accept to expand their influence in Germany.
 - The secondis based upon the reconquest of the British Isles, former possessions of the glorious vikings.They will be able to form the Norwegian empire, reclaiming lost territory and new techs giving boost for navies and armies.
 
-##Sweden
+### Sweden
 - Sweden will be given a new expansion path which will beleading to the formation of the baltic empire, adding north german and batltic culture accepted. They will also get a unique event if conquer St  Petersburg and are allied to the Danes giving them huge buff(You'll have too discover that event by yourself)
 - If Sweden was to sphere the nation of Mecklenburg, they will be given the possibility to annex it.
 
 All baltic state will be able to take the path leading to the creation of the batlic empire, even Prussia (exception made for PLC and Russia as their technically not balti state)
 
 
-#Territory
+## Territory
 
 New states will be created in this expansion. 
 - Every Island in the baltic will be their own state, reflecting the fact that those Island would theorically be important port. It will also make their conquest easier as the cost for each of them will be nothing, making them interestic strategic places.
