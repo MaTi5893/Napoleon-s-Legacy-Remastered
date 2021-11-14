@@ -1,6 +1,27 @@
 political_decisions = {
 
 	expand_german_influence = {
-		
+		potential = {
+			tag = SWE
+			NOT = {has_country_flag=expand_german_influence}
+		}
+		allow = {
+			OR = {
+				AND = {
+					owns=545
+					owns=544
+				}
+				MEC = {is_vassal_of = THIS}
+				MEC = {in_sphere = THIS}
+			}
+			ideological_thought = 1
+		}
+		effect = {
+			add_core = 545
+			add_core = 544
+			MEC = {annex_to =THIS}
+			set_country_flag = reintegrate_illiya 
+		}
 	}
+	
 }
