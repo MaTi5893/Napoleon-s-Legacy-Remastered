@@ -62,9 +62,9 @@ New states will be created in this expansion.
 
 - Sweden will gain core on the province of Stralsund
 
-<img src="../picture_markdown/Dev_Scandi/Den_1.png" alt="Illustration" width="400"/>
+<img src="../picture_markdown/Dev_Scandi/Den_1.png" alt="Illustration" width="600"/>
 
-<img src="../picture_markdown/Dev_Scandi/Swe_1.png" alt="Illustration" width="400"/>
+<img src="../picture_markdown/Dev_Scandi/Swe_1.png" alt="Illustration" width="600"/>
 
 ## Other things
 
