@@ -156,3 +156,8 @@ INO_fascist;Partai Gerakan Indonesia Raya;;;;;;;x;;;;
 FRA_proletarian_dictatorship;Commune de France;;;;;;;x
 FRA_fascist_dictatorship;Regime de France;;;;;;;x
 FRA_democracy;Deuxieme Republique Francaise;;;;;;;x
+BLE;Baltic Empire;;;;;;;x
+BLE_monarchy;Baltic Empire;;;;;;;x
+BLE_republic;Baltic Republic;;;;;;;x
+BLE_fascist;Baltic State;;;;;;;x
+BLE_communist;Union of Baltics socialists;;;;;;;x
