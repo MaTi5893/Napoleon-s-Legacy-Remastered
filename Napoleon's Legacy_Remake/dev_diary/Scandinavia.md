@@ -1,9 +1,9 @@
 # The Scandinavian update
 
 Hi everyone, let's talk about the upcoming Scandinavian update. 
-
-<img src="../picture_markdown/Dev_Scandi/Scandi_1.png" alt="Illustration" width="600" gravity="center"/>
-
+<palign="center">
+<img src="../picture_markdown/Dev_Scandi/Scandi_1.png" alt="Illustration" width="600" />
+<p>
 ## A bit of History
 
 After the destruction of the Danish fleet for the 2nd time by the british during the Copenhagen battle in mid 1807, the Danes tried their best to recover and get their fleets back with financial helps from france who was lacking naval experience and ships following the Trafalgar's defeat. In the meantime, Sweden choosed Bernadotte as it's new king. As a former Napoleon's marshal, he sided with France in the european wars, even though he was mainly focused on Swedish interest. Thus, both Denmark and Sweden became allies to support Napoleon, one against the United Kingdom, the other against Russia. 
