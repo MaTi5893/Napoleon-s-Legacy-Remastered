@@ -2,7 +2,7 @@
 
 Hi everyone, let's talk about the upcoming Scandinavian update. 
 
-<img src="../picture_markdown/Dev_Scandi/Scandi_1.png" alt="Illustration" width="400" gravity="center"/>
+<img src="../picture_markdown/Dev_Scandi/Scandi_1.png" alt="Illustration" width="600" gravity="center"/>
 
 ## A bit of History
 
