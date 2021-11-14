@@ -1,6 +1,7 @@
 owner = PLC
 controller = PLC
 add_core = UBD
+add_core = BLE
 add_core = LAT
 add_core = LIT
 add_core = PLC

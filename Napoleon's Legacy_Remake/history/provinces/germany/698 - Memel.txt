@@ -4,6 +4,7 @@ add_core = PRU
 add_core = GER
 add_core = LIT
 add_core = PLC
+add_core = BLE
 trade_goods = fish
 life_rating = 40
 fort = 1

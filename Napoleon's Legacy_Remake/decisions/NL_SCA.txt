@@ -76,27 +76,4 @@ political_decisions = {
 			prestige = 20
         }
     }
-    baltic_expansion={
-        potential = {
-            OR = {
-                tag=DEN
-                tag=SCA
-            }
-            has_country_flag=north_england
-            NOT = {has_country_falg=baltic_expansion}
-        }
-        allow = {
-            revolution_n_counterrevolution=1
-            owns = 269
-            owns = 270
-            owns = 271
-            owns = 272
-        }
-        effect = {
-            add_core = 269
-            add_core = 270
-            add_core = 271
-            add_core = 272
-            add_accepted_culture=Scotish
-        }
-    }
+}

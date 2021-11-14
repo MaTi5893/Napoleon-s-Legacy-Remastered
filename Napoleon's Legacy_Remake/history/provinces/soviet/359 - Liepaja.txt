@@ -2,6 +2,7 @@ owner = PLC
 controller = PLC
 add_core = LIT
 add_core = UBD
+add_core = BLE
 add_core = LAT
 add_core = PLC
 trade_goods = grain

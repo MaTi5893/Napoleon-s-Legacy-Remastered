@@ -18,30 +18,6 @@ political_decisions = {
 			change_tag = POL
 		}
 	}
-	
-	#plc_expansion = {
-	#	picture = become_plc
-	#	potential = {
-	#		tag = PLC
-	#		exists = yes
-	#		has_country_falg=all_poles_united
-	#		NOT = { has_country_flag = plc_expansion }
-	#	}
-	#	allow = {
-	#		is_greater_power = yes
-	#		all_core = { owned_by = THIS }
-	#		war_policy = jingoism
-	#	}
-	#	effect = {
-	#		add_core = 943
-	#		add_core = 1007
-	#		add_core = 1016
-	#		add_accepted_culture = byelorussian
-	#		add_accepted_culture = ukrainian
-	#		badboy = 3
-	#		set_country_flag = plc_expansion
-	#	}
-	#}
 
 	create_cop = {
 		picture = duchy_of_warsaw
@@ -83,8 +59,14 @@ political_decisions = {
 			NOT = {has_country_flag=reconquest_of_north_territory}
 		}
 		allow = {
-			owns = PRU_695
-			owns = PRU_690
+			owns=695
+			owns=690
+			owns= 693
+			owns= 691 
+			owns=692
+			owns=697
+			owns= 698
+			owns= 696
 		}
 		effect = {
 			prestige=5
@@ -102,11 +84,17 @@ political_decisions = {
 			NOT = {has_country_flag=unite_poles1}
 		}
 		allow = {
-			owns = PRU_682
+			owns =682
+			owns = 683
+			owns = 684
+			owns = 685
 			state_n_government=1
 		}
 		effect = {
-			add_core = PRU_682
+			add_core =682
+			add_core = 683
+			add_core= 684
+			add_core= 685
 			prestige=5
 			set_country_flag=unite_poles1
 		}
@@ -121,23 +109,32 @@ political_decisions = {
 			NOT = {has_country_flag=unite_poles2}
 		}
 		allow = {
-			owns=AUS_702
-			owns=AUS_662
+			owns=704
+			owns= 705
+			owns= 714
+			owns= 2584
+			owns= 702
+			owns= 951
+			owns= 952
+			owns= 953
 		}
 		effect = {
-			add_core=AUS_702
-			add_core=AUS_662
+			add_core=704 
+			add_core=705
+			add_core= 714
+			add_core= 2584
+			add_core=702
+			add_core= 951
+			add_core= 952
+			add_core= 953
 			prestige=5
 			set_country_flag=unite_poles2
 		}
 	}
 	all_poles_united = {
 		potential = {
-			OR = {
-				tag=PLC
-				tag = POL
-			}
-			NOT = {has_country_flag=all_poles_united}
+			tag=PLC
+			NOT = {accepted_culture=byelorussian}
 		}
 		allow = {
 			POL = {
@@ -146,10 +143,9 @@ political_decisions = {
 				}
 			}
 			is_greater_power=yes
-			nationalism_n_imperialism
 		}
 		effect = {
-			prestige =20
+			prestige = 20
 			all_pop = {
 				limite = {
 					culture=polish
@@ -158,7 +154,6 @@ political_decisions = {
 				consciousness=-2
 			}
 			add_accepted_culture = byelorussian
-			set_country_flag=unite_poles2
 		}
 	}
 }

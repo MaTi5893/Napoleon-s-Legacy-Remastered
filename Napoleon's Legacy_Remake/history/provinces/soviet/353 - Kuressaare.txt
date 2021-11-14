@@ -3,5 +3,6 @@ controller = RUS
 add_core = RUS
 add_core = EST
 add_core = UBD
+add_core = BLE
 trade_goods = grain
 life_rating = 35
