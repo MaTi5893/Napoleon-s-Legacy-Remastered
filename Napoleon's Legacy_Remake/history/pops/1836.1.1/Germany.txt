@@ -287,9 +287,9 @@
 #Heligoland (1600/400 POPS)
 533 = {
 	farmers = {
-		culture = north_german
+		culture = danish
 		religion = protestant
-		size = 400
+		size = 1000
 	}
 
 }
@@ -1094,14 +1094,19 @@
 }
 #Stralsund (157000/39250 POPS)
 548 = {
+	bureaucrats = {
+		culture = swedish
+		religion = protestant
+		size = 100
+	}
 	aristocrats = {
-		culture = north_german
+		culture = swedish
 		religion = protestant
 		size = 200 
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = swedish
 		religion = protestant
 		size = 200 
 	}
@@ -1145,7 +1150,12 @@
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 12250
+		size = 10050
+	}
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 2000
 	}
 
 	clergymen = {

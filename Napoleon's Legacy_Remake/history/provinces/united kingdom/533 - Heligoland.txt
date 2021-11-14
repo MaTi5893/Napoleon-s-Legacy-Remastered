@@ -1,7 +1,8 @@
-owner = GBR
-controller = GBR
-add_core = GBR
+owner = DEN
+controller = DEN
+add_core = DEN
 add_core = ENG
 trade_goods = fish
 life_rating = 35
 terrain = plains
+naval_base = 1

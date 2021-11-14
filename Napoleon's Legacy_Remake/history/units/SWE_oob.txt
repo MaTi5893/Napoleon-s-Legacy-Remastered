@@ -1,3 +1,19 @@
+ENG = {
+	value = 0
+}
+GBR = {
+	value = 0
+}
+
+PRU = {
+	value = -100
+}
+DEN = {
+	value = 100
+}
+FRA = {
+	value = 50
+}
 
 leader = {
 	name = "Carl Nordenskj�ld"
@@ -223,6 +239,35 @@ navy = {
 		name= "Manligheten"
 		type = manowar
 	}
+	ship = {
+		name= "Karl XIII II"
+		type = manowar
+	}
+
+	ship = {
+		name= "Karl XIV Johan II"
+		type = manowar
+	}
+
+	ship = {
+		name= "F�derneslandet II"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten II"
+		type = manowar
+	}
+
+	ship = {
+		name= "F�derneslandet III"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten III"
+		type = manowar
+	}
 
 
 	ship = {
@@ -242,6 +287,34 @@ navy = {
 
 	ship = {
 		name= "Galatea"
+		type = frigate
+	}
+	ship = {
+		name= "Camilla II"
+		type = frigate
+	}
+
+	ship = {
+		name= "Af Chapman II"
+		type = frigate
+	}
+
+	ship = {
+		name= "Eurydice II"
+		type = frigate
+	}
+
+	ship = {
+		name= "Galatea II"
+		type = frigate
+	}
+	ship = {
+		name= "Eurydice III"
+		type = frigate
+	}
+
+	ship = {
+		name= "Galatea III"
 		type = frigate
 	}
 

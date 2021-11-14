@@ -1,9 +1,18 @@
 ENG = {
-	value = 0
+	value = -100
+}
+GBR = {
+	value = -100
 }
 
 PRU = {
-	value = 49
+	value = -50
+}
+SWE = {
+	value = 100
+}
+FRA = {
+	value = 50
 }
 
 leader = {
@@ -122,6 +131,48 @@ navy = {
 		type = manowar
 	}
 	ship = {
+		name= "Danmark II"
+		type = manowar
+	}
+
+	ship = {
+		name= "Dronning Marie II"
+		type = manowar
+	}
+
+	ship = {
+		name= "Frederik den sjette III"
+		type = manowar
+	}
+	ship = {
+		name= "Waldemar III"
+		type = manowar
+	}
+	ship = {
+		name= "Ingolf III"
+		type = manowar
+	}
+	ship = {
+		name= "Skjold III"
+		type = manowar
+	}
+	ship = {
+		name= "Frederik den sjette IV"
+		type = manowar
+	}
+	ship = {
+		name= "Waldemar IV"
+		type = manowar
+	}
+	ship = {
+		name= "Ingolf IV"
+		type = manowar
+	}
+	ship = {
+		name= "Skjold IV"
+		type = manowar
+	}
+	ship = {
 		name= "Bellona"
 		type = frigate
 	}
@@ -192,19 +243,107 @@ navy = {
 		type = frigate
 	}
 	ship = {
-		name= "Stralsund II"
-		type = frigate
-	}
-	ship = {
-		name= "Gefion II"
-		type = frigate
-	}
-	ship = {
 		name= "Stralsund III"
 		type = frigate
 	}
 	ship = {
 		name= "Gefion III"
+		type = frigate
+	}
+	ship = {
+		name= "Stralsund IV"
+		type = frigate
+	}
+	ship = {
+		name= "Gefion IV"
+		type = frigate
+	}
+	
+	
+	ship = {
+		name= "Bellona III"
+		type = frigate
+	}
+
+	ship = {
+		name= "Diana III"
+		type = frigate
+	}
+
+	ship = {
+		name= "Freja III"
+		type = frigate
+	}
+
+	ship = {
+		name= "Fylla III"
+		type = frigate
+	}
+	ship = {
+		name= "Leopard III"
+		type = frigate
+	}
+	ship = {
+		name= "Raae III"
+		type = frigate
+	}
+	ship = {
+		name= "Stralsund V"
+		type = frigate
+	}
+	ship = {
+		name= "Gefion V"
+		type = frigate
+	}
+	ship = {
+		name= "Stralsund VI"
+		type = frigate
+	}
+	ship = {
+		name= "Gefion VI"
+		type = frigate
+	}
+	ship = {
+		name= "Bellona IV"
+		type = frigate
+	}
+
+	ship = {
+		name= "Diana IV"
+		type = frigate
+	}
+
+	ship = {
+		name= "Freja IV"
+		type = frigate
+	}
+
+	ship = {
+		name= "Fylla IV"
+		type = frigate
+	}
+	ship = {
+		name= "Leopard IV"
+		type = frigate
+	}
+	ship = {
+		name= "Raae IV"
+		type = frigate
+	}
+	ship = {
+		name= "Stralsund VII"
+		type = frigate
+	}
+	ship = {
+		name= "Gefion VII"
+		type = frigate
+	}
+	ship = {
+		name= "Stralsund VIII"
+		type = frigate
+	}
+	ship = {
+		name= "Gefion VIII"
 		type = frigate
 	}
 
@@ -252,7 +391,5 @@ navy = {
 		name= "10th Transport Flotilla"
 		type = clipper_transport
 	}
-
-
 }
 

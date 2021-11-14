@@ -8,19 +8,19 @@ RUS = {
 }
 
 FRA = {
-	value = -25
+	value = -50
 }
 
 DEN = {
 
-	value = 49
-	level = 4
-	influence_value = 25
+	value = -50
+}
 
+SWE = {
+
+	value = -100
 }
-CPL = {
-	truce_until = 1840.1.1
-}
+
 
 leader = {
 	name = "Karl von dem Knesebeck"
@@ -41,7 +41,7 @@ leader = {
 	prestige = 0.3
 }
 leader = {
-	name = "Karl von Müffling"
+	name = "Karl von Mï¿½ffling"
 	picture = pru_gen_mueffling
 	date = 1813.1.1
 	type = land
@@ -68,7 +68,7 @@ leader = {
 	prestige = 0.3
 }
 leader = {
-	name = "Otto Rühle von Lilienstern"
+	name = "Otto Rï¿½hle von Lilienstern"
 	picture = pru_gen_lilienstern
 	date = 1819.1.1
 	type = land
@@ -396,7 +396,7 @@ army = {
 }
 
 navy = {
-	name = "Königlich Preußische Marine"
+	name = "Kï¿½niglich Preuï¿½ische Marine"
 	location = 695
 	ship = {
 		name= "1. Klipperflottille"

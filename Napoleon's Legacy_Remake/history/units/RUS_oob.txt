@@ -3,9 +3,7 @@
 
 SWE = {
 
-	value = 125
-	level = 3 	
-	influence_value = 40
+	value = -100 	
 }
 
 SER = {
@@ -15,16 +13,9 @@ SER = {
 	influence_value = 25
 }
 
-GRE = {
-	
-	value = 125
-	level = 4
-	influence_value = 25
-}
-
 
 PLC = {
-	truce_until = 1846.1.1
+	value = -100
 }
 CHI = {
 	value = 75
@@ -58,15 +49,9 @@ USA = {
 	value = 0
 }
 
-PER = {
-	value = 125
-	level = 4
-	influence_value = 45
-}
-
 DEN = {
 	
-	value = 125
+	value = 0
 }
 
 leader = {
@@ -210,7 +195,7 @@ leader = {
 	prestige = 0.2
 }
 leader = {
-	name = "Alexander von Lüders"
+	name = "Alexander von Lï¿½ders"
 	picture = rus_gen_lueders
 	date = 1829.1.1
 	type = land
@@ -826,7 +811,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Smelyï"
+		name= "Smelyï¿½"
 		type = manowar
 	}
 
@@ -841,7 +826,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Chrabryï"
+		name= "Chrabryï¿½"
 		type = manowar
 	}
 
@@ -971,7 +956,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Bystryï"
+		name= "Bystryï¿½"
 		type = frigate
 	}
 
@@ -986,7 +971,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Chtchastlivyï"
+		name= "Chtchastlivyï¿½"
 		type = frigate
 	}
 
