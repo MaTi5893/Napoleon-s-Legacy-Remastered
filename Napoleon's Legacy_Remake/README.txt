@@ -1,3 +1,9 @@
+The lastest dev Diary  : 
+https://github.com/elisandreo/Napoleon-s-Legacy-Remastered/tree/main/Napoleon's%20Legacy_Remake/dev_diary/Scandinavia.md
+
+The lore of the mod : 
+https://github.com/elisandreo/Napoleon-s-Legacy-Remastered/tree/main/Napoleon's%20Legacy_Remake/Napoleon's-Europe.md
+
 Credit to: 
 Abraham Lincoln (and GFM team): letting me use some stuff from their mod
 Nurse Reno: made IGoR PUIR, which this mod was built on 

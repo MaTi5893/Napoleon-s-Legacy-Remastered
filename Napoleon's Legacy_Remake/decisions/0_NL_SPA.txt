@@ -10,8 +10,9 @@ political_decisions = {
 			is_greater_power = yes
 			owns = 502
 			war_policy = jingoism
-			steamers=1
 			battleship_column_doctrine=1
+			owns=SAR_765
+			owns=SAR_763
 		}
 		effect = {
 			set_country_flag=domination_of_western_mediterranean_see
@@ -31,6 +32,12 @@ political_decisions = {
 			war=no
 			war_policy = jingoism
 			state_n_government=1
+			owns=754
+			owns=2567
+			owns=755
+			owns=753
+			owns=757
+			owns=SIC_756
 		}
 		effect = {
 			754 = { add_core = THIS }

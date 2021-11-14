@@ -71,5 +71,92 @@ political_decisions = {
 				}
 			}
 		}
+	}+.
+
+	unite_poles1 = {
+		potential = {
+			OR = {
+				tag=PLC
+				tag = POL
+			}
+			has_country_flag=reconquest_of_north_territory
+			NOT = {has_country_flag=unite_poles1}
+		}
+		allow = {
+			owns = 682
+			owns = 683
+			owns = 684
+			owns = 685
+			state_n_government=1
+		}
+		effect = {
+			add_core = 682
+			add_core = 683
+			add_core = 684
+			add_core = 685
+			prestige=5
+		}
+	}
+	unite_poles2={
+		potential = {
+			OR = {
+				tag=PLC
+				tag = POL
+			}
+			has_country_flag=reconquest_of_north_territory
+			NOT = {has_country_flag=unite_poles2}
+		}
+		allow = {
+			owns=2584
+			owns=714
+			owns=704
+			owns=705
+			owns=702
+			owns=951
+			owns=952
+			owns=953
+		}
+		effect = {
+			owns=2584
+			owns=714
+			owns=704
+			owns=705
+			owns=702
+			owns=951
+			owns=952
+			owns=953
+			prestige=5
+		}
+	}
+	all_poles_united = {
+		potential = {
+			OR = {
+				tag=PLC
+				tag = POL
+			}
+			has_country_flag=reconquest_of_north_territory
+			has_country_flag=unite_poles2
+			has_country_flag=unite_poles1
+			NOT = {has_country_flag=unite_poles2}
+		}
+		allow = {
+			POL = {
+				all_core = {
+					owned_by=THIS
+				}
+			}
+		}
+		effect = {
+			prestige =20
+			all_pop = {
+				limite = {
+					culture=polish
+				}
+				militancy=-2
+				consciousness=-2
+			}
+			set_country_flag=unite_poles2
+
+		}
 	}
 }
