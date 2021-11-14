@@ -39,8 +39,6 @@ repartition_poland_AUS_title;Partition Poland;;;;;;;x
 repartition_poland_AUS_desc;We should repartition Poland again, they can't seem to govern themselves anyway;;;;;;;x
 form_poland_title;Jeszcze Polska nie zginela!;;;;;;;x
 form_poland_desc;We should get rid of the useless title of the "Duchy of Warsaw" and call ourselves for what we are - Poles;;;;;;;x
-plc_expansion_title;Restore the Commonwealth Frontiers;;;;;;;x
-plc_expansion_desc;Ruthenia was once lost to the Russians, but now we'll ensure such a mistake will never happen again;;;;;;;x
 propose_plc_title;Second Union of Lublin;;;;;;;x
 propose_plc_desc;We are weak and surrended by enemies, we should propose to reunite with Lithuania in a peaceful manner;;;;;;;x
 restore_rhineland_title;Restore the lands beyond the Rhine;;;;;;;x
@@ -148,3 +146,11 @@ the_crown_of_Bosnia_title;We reign over the Bosniak crowns!;;;;;;;x
 the_crown_of_Bosnia_desc; With Bosnia under our rule, we can add another crown to the empire of Austria-Hungary!;;;;;;;x
 the_reconquest_of_quebec_title;The Reconquest of Quebec;;;;;;;x
 the_reconquest_of_quebec_desc;Quebec has, for many years, stayed under the control of the English. It is imperative that we take advantage of the current weak state of Canada - let Quebec, and the world, know that we are coming back for what is ours!;;;;;;;x
+reconquest_of_north_territory_title;Reconquest of Prussia !;;;;;;;x
+reconquest_of_north_territory_desc;We have reconquest the region or Prussia, a legitime region og the Polish-Lithuanian Commonwealth !;;;;;;;x
+unite_poles1_title;The Polish Patriot of schlesien;;;;;;;x
+unite_poles1_desc;We have saved the Poles of the Prussian imperialism in Schlesien !;;;;;;;x
+unite_poles2_title;Unite with the Galician Poles !;;;;;;;x
+unite_poles2_desc;East and West galician Poles are finally united under the Polish-Commonwealth flag, they don't need to fear the Austrian black eagle !;;;;;;;x
+all_poles_united_title;All Poles are united ;;;;;;;x
+all_poles_united_desc;We have finally ended the partition that had begun 2 century earlier and reestablish Poland to it's former glory and border !;;;;;;;x
