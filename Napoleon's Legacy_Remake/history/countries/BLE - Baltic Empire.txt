@@ -5,7 +5,7 @@ cutlure = estonian
 cutlure = latvian
 cutlure = finnish
 religion = protestant
-government = absolute_monarchy
+government = hms_government
 plurality = 0.15
 nationalvalue = nv_order
 literacy = 0.87
@@ -29,12 +29,6 @@ health_care = good_health_care
 unemployment_subsidies = low_subsidies
 pensions = good_pensions 
 school_reforms = no_schools
-
-govt_flag = 
-{
-	government = hms_government
-	flag = presidential_dictatorship
-}
 
 ruling_party = BLE_conservative
 upper_house = {

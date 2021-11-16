@@ -2,7 +2,6 @@ owner = DEN
 controller = DEN
 add_core = DEN
 add_core = SCA
-add_core = BLE
 trade_goods = fish
 life_rating = 35
 naval_base = 1

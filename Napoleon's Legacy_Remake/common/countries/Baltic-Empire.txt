@@ -128,20 +128,6 @@ party = {
 }
 
 party = {
-	name = "BLE_liberal_4"
-	start_date = 1830.1.1
-	end_date = 2000.1.1
-
-	ideology = liberal
-
-	economic_policy = interventionism
-	trade_policy = protectionism
-	religious_policy = pluralism
-	citizenship_policy = residency
-	war_policy = jingoism
-}
-
-party = {
 	name = "BLE_fascist"
 	start_date = 1905.1.1
 	end_date = 2000.1.1

@@ -1,7 +1,7 @@
-owner = RUS
+owner = SWE
 
-controller = RUS
-add_core = RUS
+controller = SWE
+add_core = SWE
 
 add_core = LAT
 add_core = BLE

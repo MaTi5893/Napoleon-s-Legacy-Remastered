@@ -156,8 +156,18 @@ INO_fascist;Partai Gerakan Indonesia Raya;;;;;;;x;;;;
 FRA_proletarian_dictatorship;Commune de France;;;;;;;x
 FRA_fascist_dictatorship;Regime de France;;;;;;;x
 FRA_democracy;Deuxieme Republique Francaise;;;;;;;x
-BLE;Baltic Empire;;;;;;;x
-BLE_monarchy;Baltic Empire;;;;;;;x
-BLE_republic;Baltic Republic;;;;;;;x
-BLE_fascist;Baltic State;;;;;;;x
+BLE;The Baltic Empire;;;;;;;x
+BLE_prussian_constitutionalism;The Baltic Empire;;;;;;;x
+BLE_hms_government;The Baltic Empire;;;;;;;x
+BLE_absolute_monarchy;The Baltic Empire;;;;;;;
+BLE_conservative;Conservative party;;;;;;;x
+BLE_conservative_2;Conservative-Liberal party;;;;;;;x
+BLE_reactionary;War party;;;;;;;x
+BLE_monarchy;Baltic King party;;;;;;;x
+BLE_liberal;Baltic Liberal party;;;;;;;x
+BLE_liberal_2;Baltic Republican party;;;;;;;x
+BLE_liberal_3;Baltic Democratic party;;;;;;;x
+BLE_anarcho_liberal;Free Baltic Republic party;;;;;;;x
+BLE_socialist;Union of Baltic people's;;;;;;;x
+BLE_fascist;Great Baltic Empire party;;;;;;;x
 BLE_communist;Union of Baltics socialists;;;;;;;x

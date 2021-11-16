@@ -16,15 +16,13 @@ political_decisions = {
             BLE = {
 				all_core = {
 					OR = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-                            owner = {
-                                is_vassal_of = THIS
-                            }
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
 						}
+                        owner = {
+                             is_vassal_of = THIS
+                        }
 					}
 				}
 			}
@@ -37,6 +35,18 @@ political_decisions = {
             add_accepted_culture = north_german
             add_accepted_culture = finnish
             add_accepted_culture = sami
+            any_country = {
+				limit = {
+					any_owned = {
+                        is_core = BLE
+                    }
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
             any_owned = {
 				limit = {
 					is_core = THIS
