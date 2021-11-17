@@ -36,26 +36,4 @@ political_decisions = {
 			prestige = 10
 		}
 	}
-	expand_german_territory = {
-		potential = {
-			tag = SWE
-			has_country_falg = expand_german_influence
-			NOT = {has_country_flag=expand_german_territory}
-		}
-		allow = {
-			is_greater_power = yes
-			owns = 546
-			owns = 547
-			owns = 679
-			owns = 680
-		}
-		effect = {
-			add_core = 546
-			add_core = 547
-			add_core = 679
-			add_core = 680
-			set_country_flag = expand_german_territory 
-			prestige = 5
-		}
-	}
 }

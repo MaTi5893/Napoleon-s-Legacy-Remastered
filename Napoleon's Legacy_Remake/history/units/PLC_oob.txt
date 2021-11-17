@@ -92,7 +92,7 @@ army = {
 
 army = {
 	name = "Second Army of Poland"
-	location = 958
+	location = 940
 	regiment = {
 		name= "1.1st Division"
 		type = infantry
@@ -156,7 +156,7 @@ army = {
 
 army = {
 	name = "Third Army of Poland"
-	location = 947
+	location = 938
 	regiment = {
 		name= "1.1st Division"
 		type = infantry
@@ -172,7 +172,7 @@ army = {
 	regiment = {
 		name= "3.1st Division"
 		type = infantry
-		home = 936
+		home = 706
 	}
 	
 	regiment = {
@@ -220,7 +220,7 @@ army = {
 
 army = {
 	name = "Fourth Army of Poland"
-	location = 718
+	location = 712
 	regiment = {
 		name= "1.1st Division"
 		type = infantry
@@ -236,7 +236,7 @@ army = {
 	regiment = {
 		name= "3.1st Division"
 		type = infantry
-		home = 694
+		home = 936
 	}
 	
 	regiment = {
@@ -260,7 +260,7 @@ army = {
 	regiment = { 
 		name = "7.1st Division"
 		type = artillery
-		home = 703
+		home = 947
 	}
 	
 	regiment = { 
@@ -284,7 +284,7 @@ army = {
 
 army = {
 	name = "Fifth Army of Poland"
-	location = 957
+	location = 715
 	regiment = {
 		name= "1.1st Division"
 		type = infantry

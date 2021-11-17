@@ -1,0 +1,23 @@
+name = "Russian Conquest of Estonia"
+
+1835.8.24 = {
+	add_attacker = RUS
+	add_defender = SWE
+	
+	war_goal = {
+		casus_belli = acquire_state
+		actor = RUS
+		receiver = SWE
+	}
+	
+	war_goal = {
+		casus_belli = status_quo
+		actor = SWE
+		receiver = RUS
+	}
+}
+
+1783.9.3 = {
+	rem_attacker = USA
+	rem_defender = ENG
+}

@@ -1,5 +1,6 @@
-owner = SAF
-controller = SAF
+owner = ENG
+controller = ENG
+add_core = ENG
 add_core = ORA
 add_core = SAF
 trade_goods = coal

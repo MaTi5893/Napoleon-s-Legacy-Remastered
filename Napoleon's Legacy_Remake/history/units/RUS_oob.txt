@@ -305,7 +305,7 @@ army = {
 
 army = {
 	name = "1. Line Corps"
-	location = 356
+	location = 353
 	regiment = {
 		name= "1.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = hussar
@@ -369,7 +369,7 @@ army = {
 
 army = {
 	name = "2. Line Corps"
-	location = 944
+	location = 962
 	regiment = {
 		name= "1.1-ya Grenaderskaya Diviziya"
 		type = hussar
@@ -551,12 +551,6 @@ army = {
 	}
 
 	regiment = {
-		name= "3.4-ya Kavalerijskaya Diviziya"
-		type = artillery
-		home = 345
-	}
-
-	regiment = {
 		name= "2.Chernomoriya"
 		type = artillery
 		home = 1050
@@ -571,7 +565,7 @@ army = {
 
 army = {
 	name = "5. Line Corps"
-	location = 1048
+	location = 1006
 	regiment = {
 		name= "1.4-ya Pekhotnaya Diviziya"
 		type = hussar
@@ -635,7 +629,7 @@ army = {
 
 army = {
 	name = "6. Line Corps"
-	location = 963
+	location = 969
 	regiment = {
 		name= "1.1. Don Cossacks"
 		type = hussar
@@ -841,41 +835,6 @@ navy = {
 	}
 
 	ship = {
-		name= "Gleb"
-		type = manowar
-	}
-
-	ship = {
-		name= "Severnaya Zvezda"
-		type = manowar
-	}
-
-	ship = {
-		name= "Borei"
-		type = manowar
-	}
-
-	ship = {
-		name= "Orel"
-		type = manowar
-	}
-
-	ship = {
-		name= "Ianuarii"
-		type = manowar
-	}
-
-	ship = {
-		name= "Ioann"
-		type = manowar
-	}
-
-	ship = {
-		name= "Ne Tron Menya"
-		type = manowar
-	}
-
-	ship = {
 		name= "Panteleimon"
 		type = manowar
 	}
@@ -923,65 +882,5 @@ navy = {
 	ship = {
 		name= "Archipelag"
 		type = frigate
-	}
-
-	ship = {
-		name= "Tickvinskaya Bogoroditsa"
-		type = frigate
-	}
-
-	ship = {
-		name= "Tosmanska"
-		type = frigate
-	}
-
-	ship = {
-		name= "Nazareth"
-		type = frigate
-	}
-
-	ship = {
-		name= "Kronstadt"
-		type = frigate
-	}
-
-	ship = {
-		name= "Getoi"
-		type = frigate
-	}
-
-	ship = {
-		name= "Venus"
-		type = frigate
-	}
-
-	ship = {
-		name= "Bystry�"
-		type = frigate
-	}
-
-	ship = {
-		name= "Argus"
-		type = frigate
-	}
-
-	ship = {
-		name= "Feodosii Totemskii"
-		type = frigate
-	}
-
-	ship = {
-		name= "Chtchastlivy�"
-		type = frigate
-	}
-
-	ship = {
-		name= "1. Transportnaya Flotiliya"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "2. Transportnaya Flotiliya"
-		type = clipper_transport
 	}
 }

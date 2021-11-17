@@ -223,7 +223,7 @@ leader = {
 
 army = {
 	name = "I. Armee"
-	location = 642
+	location = 705
 	regiment = {
 		name= "11 Cavaleriedivision"
 		type = hussar
@@ -347,7 +347,7 @@ army = {
 
 army = {
 	name = "III. Armee"
-	location = 619
+	location = 714
 	regiment = {
 		name= "3.1.Cavaleriedivision"
 		type = hussar

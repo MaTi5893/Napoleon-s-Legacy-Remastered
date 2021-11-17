@@ -232,13 +232,13 @@
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 6000
+		size = 10000
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 37825
+		size = 47825
 	}
 }
 #Falun (144000/36000 POPS)

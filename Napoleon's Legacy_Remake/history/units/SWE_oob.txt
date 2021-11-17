@@ -34,12 +34,12 @@ leader = {
 }
 
 leader = {
-	name = "Johan Tawast"
-	date = 1807.1.1
+	name = "Bernadotte"
+	date = 1763.1.26
 	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 0.3
+	personality = defence_2.1
+	background = attack_3.1
+	prestige = 2
 }
 
 leader = {
@@ -89,7 +89,7 @@ leader = {
 
 army = {
 	name = "Svenska Arm�n"
-	location = 322
+	location = 352
 	regiment = {
 		name= "Svea Livgarde"
 		type = artillery
@@ -154,7 +154,7 @@ army = {
 
 army = {
 	name = "Finland Arm�n"
-	location = 343
+	location = 355
 	regiment = {
 		name= "2.Svea Livgarde"
 		type = artillery
@@ -211,6 +211,71 @@ army = {
 
 	regiment = {
 		name= "2.Norrlands Dragonregemente"
+		type = artillery
+		home = 346
+	}
+
+}
+
+army = {
+	name = "Baltics Army"
+	location = 357
+	regiment = {
+		name= "3.1Svea Livgarde"
+		type = artillery
+		home = 349
+	}
+
+	regiment = {
+		name= "3.2S�dermanlands Regemente"
+		type = infantry
+		home = 355
+	}
+
+	regiment = {
+		name= "3.3F�rsta Livgrenadj�rregementet"
+		type = infantry
+		home = 530
+	}
+
+	regiment = {
+		name= "3.4Upplands Regemente"
+		type = infantry
+		home = 548
+	}
+
+	regiment = {
+		name= "3.1�stg�ta Regemente"
+		type = infantry
+		home = 548
+	}
+
+	regiment = {
+		name= "3.2Kalmar Regemente"
+		type = artillery
+		home = 322
+	}
+
+	regiment = {
+		name= "3.3J�nk�pings Regemente"
+		type = artillery
+		home = 329
+	}
+
+	regiment = {
+		name= "3.4S�dra Sk�nska Infanteriregementet"
+		type = artillery
+		home = 343
+	}
+
+	regiment = {
+		name= "3.1Kronprinsens Husarregemente"
+		type = hussar
+		home = 345
+	}
+
+	regiment = {
+		name= "3.5Norrlands Dragonregemente"
 		type = artillery
 		home = 346
 	}
@@ -315,6 +380,104 @@ navy = {
 
 	ship = {
 		name= "Galatea III"
+		type = frigate
+	}
+
+		ship = {
+		name= "Karl XIII III"
+		type = manowar
+	}
+
+	ship = {
+		name= "Karl XIV Johan III"
+		type = manowar
+	}
+
+	ship = {
+		name= "F�derneslandet IV"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten IV"
+		type = manowar
+	}
+	ship = {
+		name= "Karl XIII IV"
+		type = manowar
+	}
+
+	ship = {
+		name= "Karl XIV Johan IV"
+		type = manowar
+	}
+
+	ship = {
+		name= "F�derneslandet V"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten V"
+		type = manowar
+	}
+
+	ship = {
+		name= "F�derneslandet VI"
+		type = manowar
+	}
+
+	ship = {
+		name= "Manligheten VI"
+		type = manowar
+	}
+
+
+	ship = {
+		name= "Camilla III"
+		type = frigate
+	}
+
+	ship = {
+		name= "Af Chapman III"
+		type = frigate
+	}
+
+	ship = {
+		name= "Eurydice IV"
+		type = frigate
+	}
+
+	ship = {
+		name= "Galatea IV"
+		type = frigate
+	}
+	ship = {
+		name= "Camilla IV"
+		type = frigate
+	}
+
+	ship = {
+		name= "Af Chapman IV"
+		type = frigate
+	}
+
+	ship = {
+		name= "Eurydice V"
+		type = frigate
+	}
+
+	ship = {
+		name= "Galatea V"
+		type = frigate
+	}
+	ship = {
+		name= "Eurydice VI"
+		type = frigate
+	}
+
+	ship = {
+		name= "Galatea VI"
 		type = frigate
 	}
 

@@ -581,6 +581,25 @@ navy = {
 		name= "HMS Egmont"
 		type = manowar
 	}
+	ship = {
+		name= "HMS Armada II"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Caledonia II"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Edinburgh II"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Egmont II"
+		type = manowar
+	}
 
 	ship = {
 		name= "HMS Impregnable"
@@ -671,12 +690,30 @@ navy = {
 		name= "HMS Winchester"
 		type = frigate
 	}
+	ship = {
+		name= "HMS Maidstone II"
+		type = frigate
+	}
 
-}
+	ship = {
+		name= "HMS Menelaus II"
+		type = frigate
+	}
 
-navy = {
-	name = "Main Transport Squadron"
-	location = 277
+	ship = {
+		name= "HMS Nymphe II"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Tenedos II"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Madagascar II"
+		type = frigate
+	}
 	ship = {
 		name= "100th Transport Flotilla"
 		type = clipper_transport
@@ -768,6 +805,4 @@ navy = {
 		name= "119th Transport Flotilla"
 		type = clipper_transport
 	}
-
-
-
+}

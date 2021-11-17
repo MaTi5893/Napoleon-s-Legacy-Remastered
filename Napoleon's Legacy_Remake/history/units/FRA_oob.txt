@@ -205,7 +205,7 @@ leader = {
 
 army = {
 	name = "Garde Royale"
-	location = 425
+	location = 738
 	regiment = {
 		name= "1er Regiment de Cavalerie Royale"
 		type = hussar
@@ -269,7 +269,7 @@ army = {
 
 army = {
 	name = "Force d'intervention Espagnole"
-	location = 458
+	location = 575
 	regiment = {
 		name= "1.8eme Division de cavalerie"
 		type = hussar
@@ -334,7 +334,7 @@ army = {
 
 army = {
 	name = "Armee d'Algerie"
-	location = 1700
+	location = 722
 	regiment = {
 		name= "1.4eme Division de Cavalerie"
 		type = hussar
@@ -398,7 +398,7 @@ army = {
 
 army = {
 	name = "1ere Armee"
-	location = 407
+	location = 570
 	regiment = {
 		name= "1ere Division de Cavalerie"
 		type = hussar
@@ -461,7 +461,7 @@ army = {
 }
 army = {
 	name = "2eme Armee"
-	location = 387
+	location = 571
 	regiment = {
 		name= "2eme Division de Cavalerie"
 		type = hussar
@@ -525,7 +525,7 @@ army = {
 
 army = {
 	name = "3eme Armee"
-	location = 435
+	location = 574
 	regiment = {
 		name= "3.1eme Division de cavalerie"
 		type = hussar
@@ -589,7 +589,7 @@ army = {
 
 army = {
 	name = "4eme Armee"
-	location = 720
+	location = 409
 	regiment = {
 		name= "4.1eme Division de cavalerie"
 		type = hussar
@@ -784,7 +784,7 @@ army = {
 
 army = {
 	name = "7eme Armee"
-	location = 451
+	location = 572
 	regiment = {
 		name= "7.1ere Division de cavalerie"
 		type = hussar

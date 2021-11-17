@@ -23,9 +23,86 @@ leader = {
 	background = attack_1.1
 }
 
+leader = {
+	name = "Erik"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "Noah"
+	date = 1836.1.1
+	type = sea
+	personality = defence_2.71
+	background = attack_3.5
+}
+
 army = {
 	name = "Danske Haeren"
 	location = 372
+	regiment = {
+		name= "1.1. Infanteridivision"
+		type = infantry
+		home = 372
+	}
+
+	regiment = {
+		name= "1.2. Infanteridivision"
+		type = infantry
+		home = 372
+	}
+
+	regiment = {
+		name= "1.3. Infanteridivision"
+		type = infantry
+		home = 372
+	}
+	
+	regiment = {
+		name= "1.4. Infanteridivision"
+		type = infantry
+		home = 366
+	}
+
+	regiment = {
+		name= "1.1. Infanteridivision"
+		type = artillery
+		home = 305
+	}
+
+	regiment = {
+		name= "1.2. Infanteridivision"
+		type = artillery
+		home = 366
+	}
+	regiment = {
+		name= "1.3. Infanteridivision"
+		type = artillery
+		home = 366
+	}
+	regiment = {
+		name= "1.4. Infanteridivision"
+		type = artillery
+		home = 310
+	}
+	regiment = {
+		name= "1.5. Infanteridivision"
+		type = artillery
+		home = 309
+	}
+
+	regiment = {
+		name= "1.1. Kavalleridivision"
+		type = hussar
+		home = 373
+	}
+
+}
+army = {
+	name = "Indian army"
+	location = 1309
 	regiment = {
 		name= "1.1. Infanteridivision"
 		type = infantry
@@ -53,28 +130,28 @@ army = {
 	regiment = {
 		name= "2.2. Infanteridivision"
 		type = artillery
-		home = 305
+		home = 373
 	}
 
 	regiment = {
 		name= "3.2. Infanteridivision"
 		type = artillery
-		home = 366
+		home = 1309
 	}
 	regiment = {
 		name= "4.2. Infanteridivision"
 		type = artillery
-		home = 366
+		home = 1310
 	}
 	regiment = {
 		name= "5.2. Infanteridivision"
 		type = artillery
-		home = 310
+		home = 1318
 	}
 	regiment = {
 		name= "6.2. Infanteridivision"
 		type = artillery
-		home = 309
+		home = 1319
 	}
 
 	regiment = {
@@ -86,7 +163,7 @@ army = {
 }
 
 navy = {
-	name = "Royal Navy"
+	name = "Danish First Squadron"
 	location = 372
 	ship = {
 		name= "Danmark"
@@ -159,49 +236,6 @@ navy = {
 	ship = {
 		name= "Frederik den sjette IV"
 		type = manowar
-	}
-	ship = {
-		name= "Waldemar IV"
-		type = manowar
-	}
-	ship = {
-		name= "Ingolf IV"
-		type = manowar
-	}
-	ship = {
-		name= "Skjold IV"
-		type = manowar
-	}
-	ship = {
-		name= "Bellona"
-		type = frigate
-	}
-
-	ship = {
-		name= "Diana"
-		type = frigate
-	}
-
-	ship = {
-		name= "Freja"
-		type = frigate
-	}
-
-	ship = {
-		name= "Fylla"
-		type = frigate
-	}
-	ship = {
-		name= "Leopard"
-		type = frigate
-	}
-	ship = {
-		name= "Raae"
-		type = frigate
-	}
-	ship = {
-		name= "Stralsund"
-		type = frigate
 	}
 	ship = {
 		name= "Gefion"
@@ -392,4 +426,96 @@ navy = {
 		type = clipper_transport
 	}
 }
+
+navy = {
+	name = "Danish Indian Fleet"
+	location = 3251
+	ship = {
+		name= "Waldemar IV"
+		type = manowar
+	}
+	ship = {
+		name= "Ingolf IV"
+		type = manowar
+	}
+	ship = {
+		name= "Skjold IV"
+		type = manowar
+	}
+	ship = {
+		name= "Bellona"
+		type = frigate
+	}
+
+	ship = {
+		name= "Diana"
+		type = frigate
+	}
+
+	ship = {
+		name= "Freja"
+		type = frigate
+	}
+
+	ship = {
+		name= "Fylla"
+		type = frigate
+	}
+	ship = {
+		name= "Leopard"
+		type = frigate
+	}
+	ship = {
+		name= "Raae"
+		type = frigate
+	}
+	ship = {
+		name= "Stralsund"
+		type = frigate
+	}
+
+	ship = {
+		name= "11th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "12th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "13th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "14th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "15th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "16th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "17th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "18th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "19th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "20th Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+
 
