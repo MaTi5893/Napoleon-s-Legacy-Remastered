@@ -1,5 +1,6 @@
-owner = MOL
-controller = MOL
+owner = RUS
+controller = RUS
+add_core = RUS
 add_core = MOL
 add_core = ROM
 trade_goods = fish
