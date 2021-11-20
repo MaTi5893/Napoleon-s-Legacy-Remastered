@@ -681,3 +681,17 @@ save_the_nation5  = {
 	mobilisation_economy_impact = -0.66
 	icon = 9
 }
+
+baltic_dominance = {
+	trigger = {
+		owns = 372
+		owns = 374
+		owns = 331
+		owns = 348
+		owns = 994
+	}
+	tariff_efficiency_modifier = 0.1
+	tax_efficiency = 0.5
+	prestige = 0.01
+	icon = 9
+}
