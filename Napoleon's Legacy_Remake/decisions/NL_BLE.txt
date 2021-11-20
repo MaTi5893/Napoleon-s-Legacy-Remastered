@@ -1,64 +1,4 @@
 political_decisions = {
-    form_ble = {
-        potential = {
-            tag = PRU
-            tag = SWE
-            tag = FIN
-            tag = EST
-            tag = LET
-            tag = DEN
-            BLE = {exists = no}
-        }
-        allow = {
-            is_greater_power = yes
-            nationalism_n_imperialism = 1
-            BLE = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							in_sphere = THIS
-						}
-                        owner = {
-                            is_vassal_of = THIS
-                        }
-					}
-				}
-			}
-        }
-        effect = {
-			prestige = 10
-            add_accepted_culture = estonian
-            add_accepted_culture = swedish
-            add_accepted_culture = latvian
-            add_accepted_culture = north_german
-            add_accepted_culture = finnish
-            add_accepted_culture = sami
-            any_country = {
-				limit = {
-					any_owned = {
-                        is_core = BLE
-                    }
-					OR = {
-						in_sphere = THIS
-						is_vassal_of = THIS
-					}
-					NOT = {
-						tag = THIS
-					}
-				}
-				annex_to = THIS
-			}
-            any_owned = {
-				limit = {
-					is_core = THIS
-				}
-				add_core = BLE
-			}
-			change_tag = BLE
-		}
-    }
-    
 	german_expansion1 = {
 		potential = {
 			tag = BLE
@@ -84,7 +24,7 @@ political_decisions = {
 			add_core = 552
 			add_core = 681
 			prestige = 11
-			add_country_flag =german_expansion1
+			set_country_flag =german_expansion1
 		}
 	}
 	german_expansion2 = {
@@ -129,7 +69,7 @@ political_decisions = {
 			add_core = 536
 			add_core = 537
 			prestige = 15
-			add_country_flag =german_expansion2
+			set_country_flag =german_expansion2
 		}
 	}
 	denmark_ours = {
@@ -189,14 +129,17 @@ political_decisions = {
 			add_core = 997
 			add_core = 1006
 			add_country_flag =expand_in_russia
+			set_country_flag = expand_in_russia
 		}
 	}
 	master_of_baltic = {
 		potential = {
-			tag = BLE
-			tag = DEN
-			tag = SCA
-			tag = SWE
+			OR = {
+				tag = BLE
+				tag = DEN
+				tag = SCA
+				tag = SWE
+			}
 			NOT{has_country_falg = master_of_baltic}
 		}
 		allow = {
@@ -210,9 +153,102 @@ political_decisions = {
 		
 		}
 		effect = {
-			tech_school = spanish_tech_school
+			tech_school = baltic_domination_tech
 			prestige = 2
+			set_country_flag = master_of_baltic
 			add_country_flag =expand_in_russia
+		}
+	}
+	form_ble = {
+        potential = {
+			OR = {
+				tag = PRU
+				tag = SWE
+				tag = FIN
+				tag = EST
+				tag = LET
+				tag = DEN
+				BLE = {exists = no}
+			}
+        }
+        allow = {
+            is_greater_power = yes
+            nationalism_n_imperialism = 1
+            BLE = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+                        owner = {
+                            is_vassal_of = THIS
+                        }
+					}
+				}
+			}
+        }
+        effect = {
+			prestige = 10
+            add_accepted_culture = estonian
+            add_accepted_culture = swedish
+            add_accepted_culture = latvian
+            add_accepted_culture = north_german
+            add_accepted_culture = finnish
+            add_accepted_culture = sami
+            any_owned = {
+				limit = {
+					is_core = THIS
+				}
+				add_core = BLE
+			}
+			any_country = {
+				limit = {
+					OR = {
+						primary_culture = estonian
+						primary_culture = swedish
+						primary_culture = latvian
+						primary_culture = north_german
+						primary_culture = finnish
+						primary_culture = sami
+					}
+					
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			change_tag = BLE
+		}
+    }
+	annex_german_minor = {
+		potential = {
+			OR = {
+				tag=BLE
+				tag = SCA
+			}
+			any_sphere_member = {
+				primary_culture = north_german				
+			}
+		}
+		allow = {
+			nationalism_n_imperialism=1
+			GER = {exists = no}
+			NGF ={exists = no}
+		}
+		effect = {
+			any_country = {
+				limit = {
+					OR = {
+					vassal_of = THIS
+					in_sphere = THIS
+					}
+					primary_culture = north_german
+				}
+				annex_to = THIS
+			}
 		}
 	}
 }
