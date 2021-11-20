@@ -181,9 +181,6 @@ political_decisions = {
 						owner = {
 							in_sphere = THIS
 						}
-                        owner = {
-                            is_vassal_of = THIS
-                        }
 					}
 				}
 			}
@@ -204,18 +201,13 @@ political_decisions = {
 			}
 			any_country = {
 				limit = {
-					OR = {
-						primary_culture = estonian
-						primary_culture = swedish
-						primary_culture = latvian
-						primary_culture = north_german
-						primary_culture = finnish
-						primary_culture = sami
-					}
-					
 					in_sphere = THIS
-					NOT = {
-						tag = THIS
+					OR = {
+						tag = MEC
+						tag = DZG
+						tag = FIN
+						tag = EST
+						tag = LAT
 					}
 				}
 				annex_to = THIS

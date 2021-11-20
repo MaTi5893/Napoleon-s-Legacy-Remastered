@@ -691,7 +691,7 @@ baltic_dominance = {
 		owns = 994
 	}
 	tariff_efficiency_modifier = 0.1
-	tax_efficiency = 0.5
+	tax_efficiency = 0.05
 	prestige = 0.01
 	icon = 9
 }
