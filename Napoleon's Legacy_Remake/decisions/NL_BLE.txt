@@ -10,7 +10,7 @@ political_decisions = {
 		}
 		allow = {
 			is_greater_power=yes
-			state_n_government=1
+			nationalism_n_imperialism=1
 			owns = 528
 			owns = 530
 			owns = 531
@@ -155,7 +155,10 @@ political_decisions = {
 	}
 	expand_in_russia = {
 		potential = {
-			tag = BLE
+			OR = {
+				tag=BLE
+				tag = SCA
+			}
 			NOT={has_country_flag = expand_in_russia}
 		}
 		allow = {
@@ -225,7 +228,6 @@ political_decisions = {
         }
         allow = {
             is_greater_power = yes
-            nationalism_n_imperialism = 1
             BLE = {
 				all_core = {
 					OR = {
@@ -273,6 +275,7 @@ political_decisions = {
 				tag=BLE
 				tag = SCA
 			}
+			accepted_culture = north_german
 			any_sphere_member = {
 				primary_culture = north_german				
 			}
@@ -332,7 +335,11 @@ political_decisions = {
 	}
 	lithuanian_question =  {
 		potential = {
-			tag = BLE
+			OR = {
+				tag = BLE
+				tag = SCA
+			}
+			accepted_culture = latvian
 		}
 		allow = {
 			revolution_n_counterrevolution=1

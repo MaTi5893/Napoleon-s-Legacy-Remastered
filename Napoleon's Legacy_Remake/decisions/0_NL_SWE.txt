@@ -2,7 +2,10 @@ political_decisions = {
 
 	expand_german_influence = {
 		potential = {
-			tag = SWE
+			OR = {
+				tag = SWE
+				tag = SCA
+			}
 			NOT = {has_country_flag=expand_german_influence}
 		}
 		allow = {
@@ -22,17 +25,42 @@ political_decisions = {
 	}
 	baltic_influence = {
 		potential = {
-			tag = SWE
+			OR = {
+				tag = SWE
+				tag = SCA
+			}
 			NOT = {accepted_culture = estonian}
+			NOT = {accepted_culture = Scotish}
 		}
 		allow = {
 			state_n_government=1
 			NOT = {militancy=2}
-			prestige = 50
+			owns = 349
+			owns = 350
+			owns = 351
+			owns = 352
+			owns = 353
+			owns = 354
+			owns = 355
+			owns = 356
+			owns = 357
+			owns = 358
+			owns = 359
 		}
 		effect = {
 			add_accepted_culture = estonian
 			add_accepted_culture = latvian
+			add_core = 349
+			add_core = 350
+			add_core = 351
+			add_core = 352
+			add_core = 353
+			add_core = 354
+			add_core = 355
+			add_core = 356
+			add_core = 357
+			add_core = 358
+			add_core = 359
 			prestige = 10
 		}
 	}
