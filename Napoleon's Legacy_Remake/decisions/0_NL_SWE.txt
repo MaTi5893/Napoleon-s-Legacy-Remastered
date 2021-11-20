@@ -10,11 +10,13 @@ political_decisions = {
 		}
 		allow = {
 			OR = {
-				MEC = {is_vassal_of = THIS}
+				MEC = {vassal_of = THIS}
 				MEC = {in_sphere = THIS}
+				AND = {
+					owns=545
+					owns=544
+				}
 			}
-			owns = 545
-			owns=544
 		}
 		effect = {
 			add_core = 545
@@ -23,6 +25,27 @@ political_decisions = {
 			set_country_flag = expand_german_influence 
 		}
 	}
+	annex_danzig = {
+        potential = {
+			OR = {
+				tag = SWE
+				tag = SCA
+			}
+			NOT = {has_country_flag=annex_danzig}
+		}
+		allow = {
+			OR = {
+				DGZ = {vassal_of = THIS}
+				DGZ = {in_sphere = THIS}
+				owns = 690
+			}
+		}
+		effect = {
+			add_core = 690
+			DGZ = {annex_to =THIS}
+			set_country_flag = annex_danzig 
+		}
+    }
 	baltic_influence = {
 		potential = {
 			OR = {

@@ -54,26 +54,4 @@ political_decisions = {
             add_core = 698
         }   
     }
-    annex_danzig = {
-        potential = {
-			OR = {
-				tag = SWE
-				tag = SCA
-			}
-			NOT = {accepted_culture = Scotish}
-			NOT = {has_country_flag=annex_danzig}
-		}
-		allow = {
-			OR = {
-				DGZ = {is_vassal_of = THIS}
-				DGZ = {in_sphere = THIS}
-			}
-			owns = 690
-		}
-		effect = {
-			add_core = 690
-			DGZ = {annex_to =THIS}
-			set_country_flag = annex_danzig 
-		}
-    }
 }
