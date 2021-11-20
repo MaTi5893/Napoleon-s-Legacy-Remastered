@@ -183,45 +183,8 @@ country_event = {
 	}
 }
 
-country_event = {
-	title = "Second Union of Lublin"
-	desc = "yo let's fuck up everyone"
-	picture = "Celebration"
-
-	id = 157300
-
-	is_triggered_only = yes
-
-	option = {				# Accept inheritance
-		name = "EVTOPTA11103"
-		FROM = {
-			change_tag = PLC
-			all_core = {
-				remove_core = CPL
-			}
-			inherit = THIS
-			add_accepted_culture = lithuanian
-		}
-		prestige = 10
-		ai_chance = {
-			factor = 100
-		}
-	}
-
-	option = {
-		name = "EVTOPTB11103"
-		prestige = 5
-		set_country_flag = does_not_want_to_be_unified
-		ai_chance = {
-			factor = 0
-		}
-		any_pop = {
-			militancy = 2
-		}
-	}
-}
-country_event = {
-	title = "British Empire offers Protection"
+country_event = {		#this does not work, FYI, nothing triggers this
+	title = "The British Commonwealth offers Protection"
 	desc = "yo let's fuck up everyone"
 	picture = "Celebration"
 

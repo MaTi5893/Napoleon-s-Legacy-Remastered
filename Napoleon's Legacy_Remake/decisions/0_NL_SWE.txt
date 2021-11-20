@@ -39,7 +39,7 @@ political_decisions = {
 	expand_german_territory = {
 		potential = {
 			tag = SWE
-			has_country_falg = expand_german_influence
+			has_country_flag = expand_german_influence
 			NOT = {has_country_flag=expand_german_territory}
 		}
 		allow = {

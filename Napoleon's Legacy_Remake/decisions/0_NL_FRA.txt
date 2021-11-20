@@ -68,6 +68,7 @@ political_decisions = {
 			invention = expansionism
 		}
 		effect = { 
+			set_country_flag = FRA_quebec 
 			QUE = { all_core = { add_core = FRA } } 
 			badboy = 3
 			65 = { #Quebec City

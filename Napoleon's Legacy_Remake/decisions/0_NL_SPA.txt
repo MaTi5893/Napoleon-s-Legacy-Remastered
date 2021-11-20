@@ -3,7 +3,7 @@ political_decisions = {
 		potential = {
 			tag = SPA
 			NOT = { has_country_flag = domination_of_western_mediterranean_see }
-			NOT = {	has_country_flag=unification_of_iberia }
+			NOT = {	has_country_flag=form_iberia }
 		}
 		allow = {
 			war=no

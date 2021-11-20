@@ -2,16 +2,6 @@
 # scriptable and usable for event-system below.
 ##################################################################################################
 
-##### Apocalypse 1836 #####
-
-state_of_emergency = {
-	mobilisation_size = 0.05
-	land_organisation = 0.05
-	naval_organisation = 0.05
-	org_regain = 0.1
-	icon = 15
-}
-
 ##### POLITICAL EVENTS ######
 government_sanitarium = {
 	population_growth = 0.005
@@ -149,11 +139,6 @@ loyal_askaris = {
 	pop_consciousness_modifier = -0.05
 	prestige = 0.01
 	icon = 17
-}
-
-china_rp_nerf = {
-	research_points_on_conquer = -1000.0
-	icon = 10
 }
 
 muhammad_alis_reforms = {
@@ -756,12 +741,6 @@ boulevards_of_brussels = {
 	local_factory_throughput = 0.05
 	local_ruling_party_support = -0.2
 	icon = 15
-}
-
-### PUIR-Nepal###
-nepal_boom = {
-	farm_rgo_size = 0.8
-	icon = 19
 }
 
 ### PUIR-Baku###

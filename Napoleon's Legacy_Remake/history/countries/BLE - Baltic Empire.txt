@@ -1,9 +1,9 @@
 capital = 322
 primary_culture = swedish
 culture = north_german
-cutlure = estonian
-cutlure = latvian
-cutlure = finnish
+culture = estonian
+culture = latvian
+culture = finnish
 religion = protestant
 government = hms_government
 plurality = 0.15
