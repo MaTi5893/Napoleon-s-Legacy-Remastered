@@ -251,7 +251,6 @@ ai_boost = {
 			OR = { 
 				has_pop_culture = beifaren
 				has_pop_culture = nanfaren
-				has_pop_culture = yue 
 			}
 		}
 	}

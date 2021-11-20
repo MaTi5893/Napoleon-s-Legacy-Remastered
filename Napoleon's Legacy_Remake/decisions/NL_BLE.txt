@@ -2,7 +2,7 @@ political_decisions = {
 	german_expansion1 = {
 		potential = {
 			tag = BLE
-			NOT = {has_country_falg = german_expansion1}
+			NOT = {has_country_flag = german_expansion1}
 		}
 		allow = {
 			is_greater_power=yes
@@ -30,8 +30,8 @@ political_decisions = {
 	german_expansion2 = {
 		potential = {
 			tag = BLE
-			has_country_falg = german_expansion1
-			NOT = {has_country_falg = german_expansion2}
+			has_country_flag = german_expansion1
+			NOT = {has_country_flag = german_expansion2}
 		}
 		allow = {
 			is_greater_power=yes
@@ -75,7 +75,7 @@ political_decisions = {
 	denmark_ours = {
 		potential = {
 			tag = BLE
-			NOT{accepted_culture=danish}
+			NOT={accepted_culture=danish}
 		}
 		allow =  {
 			is_greater_power=yes
@@ -103,7 +103,7 @@ political_decisions = {
 	expand_in_russia = {
 		potential = {
 			tag = BLE
-			NOT{has_country_falg = expand_in_russia}
+			NOT={has_country_flag = expand_in_russia}
 		}
 		allow = {
 			is_greater_power=yes
@@ -140,7 +140,7 @@ political_decisions = {
 				tag = SCA
 				tag = SWE
 			}
-			NOT{has_country_falg = master_of_baltic}
+			NOT={has_country_flag = master_of_baltic}
 		}
 		allow = {
 			is_greater_power=yes
