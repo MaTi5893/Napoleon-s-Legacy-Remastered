@@ -72,6 +72,7 @@ political_decisions = {
 			owns = 278
 			owns = 279
 			owns = 285
+		}
         effect = {
             add_accepted_culture = british
             add_core = 280

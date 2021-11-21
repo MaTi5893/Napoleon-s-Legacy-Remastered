@@ -4,7 +4,7 @@ political_decisions = {
 			OR = {
 				tag = SWE
 				tag = SCO
-				tag = ICE
+				tag = ICL
 				tag = NOR
 				tag = DEN
 			}
@@ -44,7 +44,7 @@ political_decisions = {
 					OR = {
 						tag = SCO
 						tag = NOR
-						tag = ICE
+						tag = ICL
 						tag = ENG
 						tag = GBR
 					}
