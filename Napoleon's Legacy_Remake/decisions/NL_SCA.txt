@@ -2,13 +2,13 @@ political_decisions = {
     acceptance_of_north_german = {
         potential = {
             OR = {
-                tag = SWE
                 tag = SCA
             }
             NOT = {accepted_culture = north_german}
             NOT = {accepted_culture = Scotish}
         }
         allow = {
+            war = no
             nationalism_n_imperialism = 1
             owns = 369
             owns = 529
@@ -53,5 +53,36 @@ political_decisions = {
             add_core = 597
             add_core = 698
         }   
+    }
+    acceptance_of_british = {
+        potential = {
+                tag = SCA
+            accepted_culture = Scotish
+            NOT = {accepted_culture = british}
+        }
+        allow = {
+            war = no
+            is_greater_power = yes
+            nationalism_n_imperialism = 1
+            owns = 280
+			owns = 281
+			owns = 282
+			owns = 283
+            owns = 277
+			owns = 278
+			owns = 279
+			owns = 285
+        effect = {
+            add_accepted_culture = british
+            add_core = 280
+			add_core = 281
+			add_core = 282
+			add_core = 283
+            add_core = 277
+			add_core = 278
+			add_core = 279
+			add_core = 285
+            prestige = 15
+        }
     }
 }

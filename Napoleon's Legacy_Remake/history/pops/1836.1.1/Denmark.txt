@@ -353,7 +353,7 @@
 	craftsmen = {
 		culture = danish
 		religion = protestant
-		size = 2000
+		size = 6000
 	}
 
 	farmers = {

@@ -14,6 +14,9 @@ DEN = {
 FRA = {
 	value = 50
 }
+PLC = {
+	value = 100
+}
 
 leader = {
 	name = "Carl Nordenskj�ld"

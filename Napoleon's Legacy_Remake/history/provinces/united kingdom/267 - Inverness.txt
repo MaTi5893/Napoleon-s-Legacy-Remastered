@@ -3,6 +3,7 @@ controller = GBR
 add_core = GBR
 add_core = ENG
 add_core = SCO
+add_core = NWE
 trade_goods = sulphur
 life_rating = 35
 naval_base = 1
