@@ -7,6 +7,7 @@ political_decisions = {
             }
             NOT = {accepted_culture = north_german}
             NOT = {accepted_culture = Scotish}
+			has_country_flag = expand_german_territory 
         }
         allow = {
             nationalism_n_imperialism = 1
