@@ -35,14 +35,14 @@ political_decisions = {
 		}
 		allow = {
 			OR = {
-				DGZ = {vassal_of = THIS}
-				DGZ = {in_sphere = THIS}
+				DZG = {vassal_of = THIS}
+				DZG = {in_sphere = THIS}
 				owns = 690
 			}
 		}
 		effect = {
 			add_core = 690
-			DGZ = {annex_to =THIS}
+			DZG = {annex_to =THIS}
 			set_country_flag = annex_danzig 
 		}
     }

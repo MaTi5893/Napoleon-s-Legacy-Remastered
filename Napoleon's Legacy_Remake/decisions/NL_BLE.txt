@@ -184,7 +184,6 @@ political_decisions = {
 			add_core = 996
 			add_core = 997
 			add_core = 1006
-			add_country_flag =expand_in_russia
 			set_country_flag = expand_in_russia
 		}
 	}
@@ -211,7 +210,6 @@ political_decisions = {
 			tech_school = baltic_domination_tech
 			prestige = 2
 			set_country_flag = master_of_baltic
-			add_country_flag =expand_in_russia
 		}
 	}
 	form_ble = {
@@ -221,7 +219,7 @@ political_decisions = {
 				tag = SWE
 				tag = FIN
 				tag = EST
-				tag = LET
+				tag = LAT
 				tag = DEN
 			}
 			BLE = {exists = no}

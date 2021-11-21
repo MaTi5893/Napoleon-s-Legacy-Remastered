@@ -146,8 +146,8 @@ political_decisions = {
 		}
 		effect = {
 			prestige = 20
-			all_pop = {
-				limite = {
+			any_pop = {
+				limit = {
 					culture=polish
 				}
 				militancy=-2
