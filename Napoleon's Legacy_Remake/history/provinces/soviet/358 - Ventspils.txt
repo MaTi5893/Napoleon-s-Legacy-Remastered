@@ -1,8 +1,9 @@
-owner = PLC
-controller = PLC
+owner = SWE
+controller = SWE
 add_core = UBD
+add_core = BLE
 add_core = LAT
 add_core = LIT
-add_core = PLC
+add_core = SWE
 trade_goods = fish
 life_rating = 35

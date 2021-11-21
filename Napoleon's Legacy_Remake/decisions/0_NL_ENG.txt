@@ -148,4 +148,30 @@ political_decisions = {
 			set_country_flag = last_stand
 		}
 	}
+	scotish_acceptance = {
+		potential = {
+			tag=ENG
+			NOT = {has_country_flag=Scotish_acceptance}
+		}
+		allow = {
+			nationalism_n_imperialism=1
+			owns=267
+			owns=268
+			owns=269
+			owns=270
+			owns=271
+			owns=272	
+		}
+		effect = {
+			add_accepted_culture=Scotish
+			any_pop = {
+				limit = {
+					culture=Scotish
+				}
+				militancy=-1
+				consciousness=-1
+			}
+			set_country_flag=Scotish_acceptance
+		}
+	}
 }

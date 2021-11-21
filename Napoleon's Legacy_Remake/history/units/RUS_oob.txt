@@ -3,9 +3,7 @@
 
 SWE = {
 
-	value = 125
-	level = 3 	
-	influence_value = 40
+	value = -100 	
 }
 
 SER = {
@@ -15,16 +13,9 @@ SER = {
 	influence_value = 25
 }
 
-GRE = {
-	
-	value = 125
-	level = 4
-	influence_value = 25
-}
-
 
 PLC = {
-	truce_until = 1846.1.1
+	value = -100
 }
 CHI = {
 	value = 75
@@ -58,15 +49,9 @@ USA = {
 	value = 0
 }
 
-PER = {
-	value = 125
-	level = 4
-	influence_value = 45
-}
-
 DEN = {
 	
-	value = 125
+	value = 0
 }
 
 leader = {
@@ -210,7 +195,7 @@ leader = {
 	prestige = 0.2
 }
 leader = {
-	name = "Alexander von Lüders"
+	name = "Alexander von Lï¿½ders"
 	picture = rus_gen_lueders
 	date = 1829.1.1
 	type = land
@@ -320,7 +305,7 @@ army = {
 
 army = {
 	name = "1. Line Corps"
-	location = 356
+	location = 353
 	regiment = {
 		name= "1.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = hussar
@@ -384,7 +369,7 @@ army = {
 
 army = {
 	name = "2. Line Corps"
-	location = 944
+	location = 962
 	regiment = {
 		name= "1.1-ya Grenaderskaya Diviziya"
 		type = hussar
@@ -566,12 +551,6 @@ army = {
 	}
 
 	regiment = {
-		name= "3.4-ya Kavalerijskaya Diviziya"
-		type = artillery
-		home = 345
-	}
-
-	regiment = {
 		name= "2.Chernomoriya"
 		type = artillery
 		home = 1050
@@ -586,7 +565,7 @@ army = {
 
 army = {
 	name = "5. Line Corps"
-	location = 1048
+	location = 1006
 	regiment = {
 		name= "1.4-ya Pekhotnaya Diviziya"
 		type = hussar
@@ -650,7 +629,7 @@ army = {
 
 army = {
 	name = "6. Line Corps"
-	location = 963
+	location = 969
 	regiment = {
 		name= "1.1. Don Cossacks"
 		type = hussar
@@ -826,7 +805,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Smelyï"
+		name= "Smelyï¿½"
 		type = manowar
 	}
 
@@ -841,7 +820,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Chrabryï"
+		name= "Chrabryï¿½"
 		type = manowar
 	}
 
@@ -852,41 +831,6 @@ navy = {
 
 	ship = {
 		name= "Boleslav"
-		type = manowar
-	}
-
-	ship = {
-		name= "Gleb"
-		type = manowar
-	}
-
-	ship = {
-		name= "Severnaya Zvezda"
-		type = manowar
-	}
-
-	ship = {
-		name= "Borei"
-		type = manowar
-	}
-
-	ship = {
-		name= "Orel"
-		type = manowar
-	}
-
-	ship = {
-		name= "Ianuarii"
-		type = manowar
-	}
-
-	ship = {
-		name= "Ioann"
-		type = manowar
-	}
-
-	ship = {
-		name= "Ne Tron Menya"
 		type = manowar
 	}
 
@@ -938,65 +882,5 @@ navy = {
 	ship = {
 		name= "Archipelag"
 		type = frigate
-	}
-
-	ship = {
-		name= "Tickvinskaya Bogoroditsa"
-		type = frigate
-	}
-
-	ship = {
-		name= "Tosmanska"
-		type = frigate
-	}
-
-	ship = {
-		name= "Nazareth"
-		type = frigate
-	}
-
-	ship = {
-		name= "Kronstadt"
-		type = frigate
-	}
-
-	ship = {
-		name= "Getoi"
-		type = frigate
-	}
-
-	ship = {
-		name= "Venus"
-		type = frigate
-	}
-
-	ship = {
-		name= "Bystryï"
-		type = frigate
-	}
-
-	ship = {
-		name= "Argus"
-		type = frigate
-	}
-
-	ship = {
-		name= "Feodosii Totemskii"
-		type = frigate
-	}
-
-	ship = {
-		name= "Chtchastlivyï"
-		type = frigate
-	}
-
-	ship = {
-		name= "1. Transportnaya Flotiliya"
-		type = clipper_transport
-	}
-
-	ship = {
-		name= "2. Transportnaya Flotiliya"
-		type = clipper_transport
 	}
 }

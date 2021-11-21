@@ -251,7 +251,6 @@ ai_boost = {
 			OR = { 
 				has_pop_culture = beifaren
 				has_pop_culture = nanfaren
-				has_pop_culture = yue 
 			}
 		}
 	}
@@ -679,5 +678,19 @@ save_the_nation5  = {
 	supply_consumption = -0.30
 	mobilization_impact = 1
 	mobilisation_economy_impact = -0.66
+	icon = 9
+}
+
+baltic_dominance = {
+	trigger = {
+		owns = 372
+		owns = 374
+		owns = 331
+		owns = 348
+		owns = 994
+	}
+	tariff_efficiency_modifier = 0.1
+	tax_efficiency = 0.05
+	prestige = 0.01
 	icon = 9
 }

@@ -38,6 +38,7 @@ WUL 		= "countries/Wulzburg.txt"
 LPL 		= "countries/La Plata.txt"
 CEL		= "countries/Celtic Union.txt"
 LCT		= "countries/Liechtenstein.txt"
+BLE		= "countries/Baltic-Empire.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"

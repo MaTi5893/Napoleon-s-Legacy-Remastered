@@ -391,6 +391,7 @@ political_decisions = {
 				tag = PRU
 				tag = GER
 				tag = NGF
+				tag = BLE
 			}
 			owns = 578
 			owns = 2561

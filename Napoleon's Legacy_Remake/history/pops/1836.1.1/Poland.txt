@@ -1181,10 +1181,16 @@
         size = 300
     }
 
+    bureaucrats = {
+        culture = polish
+        religion = catholic
+        size = 1000
+    }
+
     clergymen = {
         culture = polish
         religion = catholic
-        size = 279
+        size = 1279
     }
 
     artisans = {
@@ -1202,7 +1208,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 3056
+        size = 1056
     }
 }
 #East Prussia Region (396000) #see Russia.txt and Lithuania.txt for balance of region
@@ -1310,27 +1316,15 @@
     }
 
     soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 1254
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = catholic
-        size = 602
-    }
-
-    soldiers = {
         culture = polish
         religion = catholic
-        size = 7267
+        size = 4267
     }
 
     farmers = {
         culture = north_german
         religion = protestant
-        size = 13933
+        size = 15933
     }
 
     artisans = {
@@ -1342,7 +1336,7 @@
     farmers = {
         culture = north_german
         religion = catholic
-        size = 5279
+        size = 8279
     }
 
     artisans = {
@@ -1415,15 +1409,15 @@
     }
     
     soldiers = {
-	culture = polish
-	religion = catholic
-	size = 3219  
+	    culture = polish
+	    religion = catholic
+	    size = 3219  
     }
 
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 1473
+    bureaucrats = {
+        culture = polish
+        religion = catholic
+        size = 1500
     }
 
     farmers = {
@@ -1527,6 +1521,12 @@
         size = 651
     }
 
+    bureaucrats = {
+        culture = polish
+        religion = catholic
+        size = 1000
+    }
+
     aristocrats = {
         culture = polish
         religion = catholic
@@ -1536,7 +1536,7 @@
     clergymen = {
         culture = polish
         religion = catholic
-        size = 868
+        size = 1868
     }
 
     artisans = {
@@ -1548,25 +1548,13 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 87965
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 1595
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = catholic
-        size = 388
+        size = 89965
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 9000
+        size = 7000
     }
 }
 #under the rule of Russia in 1836 (496000)
@@ -1581,31 +1569,25 @@
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 94
+        size = 1000
     }
 
     officers = {
         culture = polish
         religion = catholic
-        size = 117
+        size = 200
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 399
+        size = 2399
     }
 
     artisans = {
         culture = polish
         religion = catholic
         size = 1880
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 1222
     }
 
     farmers = {
@@ -1626,16 +1608,11 @@
         size = 470
     }
 
-    soldiers = {
-        culture = polish
-        religion = protestant
-        size = 94
-    }
 
     farmers = {
         culture = polish
         religion = protestant
-        size = 8765
+        size = 9765
     }
 
     clergymen = {
@@ -1648,12 +1625,6 @@
         culture = north_german
         religion = protestant
         size = 188
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 23
     }
 
     farmers = {
@@ -1671,13 +1642,7 @@
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 1880
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 47
+        size = 2880
     }
 
     farmers = {
@@ -1686,119 +1651,6 @@
         size = 2820
     }
 
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 90
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 6
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 8
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 26
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 120
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 78
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 2193
-    }
-
-    soldiers = {
-        culture = polish
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = polish
-        religion = protestant
-        size = 30
-    }
-
-    soldiers = {
-        culture = polish
-        religion = protestant
-        size = 6
-    }
-
-    soldiers = {
-        culture = polish
-        religion = protestant
-        size = 560
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 12
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 222
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 3
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 120
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 3
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 180
-    }
 }
 #Kalicz (252000/63000 POPS)
 717 = {

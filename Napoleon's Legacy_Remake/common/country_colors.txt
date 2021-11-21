@@ -50,6 +50,13 @@ BEL	 = {
     color3= { 107 170 77  }
 }
 
+# Baltic Empire FIXED
+BLE	 = {
+    color1= { 15  5  107  }
+    color2= { 25 50 100  }
+    color3= { 5 25 100  }
+}
+
 
 # Bosnia
 BOS = {
@@ -524,7 +531,7 @@ SIC = {
     color3= { 131 101 85  }
 }
 
-# Siebenbürgen
+# Siebenbï¿½rgen
 SIE = {
     color1= { 75 111 205  }
     color2= { 124 140 162  }

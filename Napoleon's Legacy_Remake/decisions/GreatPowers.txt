@@ -71,12 +71,13 @@ political_decisions = {
 			   tag=GER
 			   tag=KUK
             }
+			PLC = {NOT = {accepted_culture=byelorussian}}
+			NOT = { has_country_flag = poland_is_no_more } 
+        }
+        allow = {
 			PLC = {exists=no}
             POL = {exists=no}
             is_greater_power=yes
-		NOT = { has_country_flag = poland_is_no_more } 
-        }
-        allow = {
         }
         effect = {
 			set_country_flag = poland_is_no_more

@@ -350,6 +350,12 @@
 		size = 15000
 	}
 
+	craftsmen = {
+		culture = danish
+		religion = protestant
+		size = 2000
+	}
+
 	farmers = {
 		culture = danish
 		religion = protestant

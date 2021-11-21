@@ -80,9 +80,9 @@ political_decisions = {
 						OR = {
 							province_id = 370 # Ignore Schleswig
 							province_id = 371 # Ignore Schleswig
-							province_id = 410 # Need not have Elsaß-Lothringen
-							province_id = 409 # Need not have Elsaß-Lothringen
-							province_id = 412 # Need not have Elsaß-Lothringen
+							province_id = 410 # Need not have Elsaï¿½-Lothringen
+							province_id = 409 # Need not have Elsaï¿½-Lothringen
+							province_id = 412 # Need not have Elsaï¿½-Lothringen
 							owned_by = THIS
 							owner = {
 								in_sphere = THIS
@@ -232,6 +232,7 @@ political_decisions = {
 						is_greater_power = yes
 						tag = AUS
 						tag = KUK
+						tag = BLE
 					}
 					is_culture_group = THIS
 					in_sphere = THIS
@@ -353,6 +354,7 @@ political_decisions = {
 			NOT = {
 				exists = SCA
 			}
+			NOT = {tag=BLE}
 			NOT = { has_country_flag = stormaktstiden }
 		}
 		
@@ -476,9 +478,9 @@ political_decisions = {
 				change_province_name = "Kolmar"
 			}
 			409 = {
-				change_province_name = "Straßburg"
+				change_province_name = "Straï¿½burg"
 				state_scope = {
-					change_region_name = "Elsaß-Lothringen"
+					change_region_name = "Elsaï¿½-Lothringen"
 				}
 			}
 			prestige = 5
