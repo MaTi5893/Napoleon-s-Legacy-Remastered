@@ -2,6 +2,7 @@ owner = GBR
 controller = GBR
 add_core = GBR
 add_core = ENG
+add_core = NWE
 trade_goods = coal
 life_rating = 36
 1861.1.1 = { railroad = 3 }

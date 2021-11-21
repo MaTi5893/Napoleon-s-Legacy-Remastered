@@ -39,6 +39,7 @@ LPL 		= "countries/La Plata.txt"
 CEL		= "countries/Celtic Union.txt"
 LCT		= "countries/Liechtenstein.txt"
 BLE		= "countries/Baltic-Empire.txt"
+NWE     = "countries/Norway-Empire.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"

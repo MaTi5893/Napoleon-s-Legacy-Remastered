@@ -11,7 +11,7 @@ plurality = 10
 nationalvalue = nv_equality
 literacy = 0.5
 civilized = yes 
-prestige = 45
+prestige = 30
 schools = traditional_academic
 oob = "UPB_oob.txt"
 

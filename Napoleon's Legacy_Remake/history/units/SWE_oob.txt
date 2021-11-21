@@ -14,9 +14,12 @@ DEN = {
 FRA = {
 	value = 50
 }
+PLC = {
+	value = 100
+}
 
 leader = {
-	name = "Carl Nordenskjold"
+	name = "Carl Nordenskj�ld"
 	date = 1834.1.1
 	type = sea
 	personality = defence_1.1
@@ -43,7 +46,7 @@ leader = {
 }
 
 leader = {
-	name = "Axel Morner"
+	name = "Axel M�rner"
 	date = 1818.1.1
 	type = land
 	personality = defence_1.1
@@ -61,7 +64,7 @@ leader = {
 }
 
 leader = {
-	name = "C. Cederstrom"
+	name = "C. Cederstr�m"
 	date = 1824.1.1
 	type = land
 	personality = defence_1.1
@@ -88,22 +91,22 @@ leader = {
 }
 
 army = {
-	name = "Svenska Armén"
+	name = "Svenska Arm�n"
 	location = 352
 	regiment = {
 		name= "Svea Livgarde"
-		type = guard
+		type = artillery
 		home = 322
 	}
 
 	regiment = {
-		name= "Södermanlands Regemente"
+		name= "S�dermanlands Regemente"
 		type = infantry
 		home = 326
 	}
 
 	regiment = {
-		name= "Första Livgrenadjärregementet"
+		name= "F�rsta Livgrenadj�rregementet"
 		type = infantry
 		home = 325
 	}
@@ -115,26 +118,26 @@ army = {
 	}
 
 	regiment = {
-		name= "Västgöta Regemente"
+		name= "V�stg�ta Regemente"
 		type = infantry
 		home = 330
 	}
 
 	regiment = {
 		name= "Kalmar Regemente"
-		type = infantry
+		type = artillery
 		home = 332
 	}
 
 	regiment = {
-		name= "Jönköpings Regemente"
-		type = infantry
+		name= "J�nk�pings Regemente"
+		type = artillery
 		home = 333
 	}
 
 	regiment = {
-		name= "Södra Skĺnska Infanteriregementet"
-		type = infantry
+		name= "S�dra Sk�nska Infanteriregementet"
+		type = artillery
 		home = 334
 	}
 
@@ -146,12 +149,11 @@ army = {
 
 	regiment = {
 		name= "Norrlands Dragonregemente"
-		type = dragoon
+		type = artillery
 		home = 321
 	}
 
 }
-
 
 army = {
 	name = "Finland Arm�n"

@@ -9,6 +9,7 @@ political_decisions = {
 			NOT = {has_country_flag=expand_german_influence}
 		}
 		allow = {
+			war = no
 			OR = {
 				MEC = {vassal_of = THIS}
 				MEC = {in_sphere = THIS}
@@ -21,31 +22,29 @@ political_decisions = {
 		effect = {
 			add_core = 545
 			add_core = 544
+			prestige = 5
 			MEC = {annex_to =THIS}
 			set_country_flag = expand_german_influence 
 		}
 	}
-	annex_danzig = {
-        potential = {
-			OR = {
-				tag = SWE
-				tag = SCA
-			}
-			NOT = {has_country_flag=annex_danzig}
+	expand_german_territory = {
+		potential = {
+			tag = SWE
+			has_country_flag = expand_german_influence
+			NOT = {has_country_flag=expand_german_territory}
 		}
 		allow = {
-			OR = {
-				DZG = {vassal_of = THIS}
-				DZG = {in_sphere = THIS}
-				owns = 690
-			}
+			war = no
+			owns = 546
+			owns = 547
 		}
 		effect = {
-			add_core = 690
-			DZG = {annex_to =THIS}
-			set_country_flag = annex_danzig 
+			add_core = 546
+			add_core = 547
+			set_country_flag = expand_german_territory 
+			prestige = 5
 		}
-    }
+	}
 	baltic_influence = {
 		potential = {
 			OR = {
@@ -56,8 +55,8 @@ political_decisions = {
 			NOT = {accepted_culture = Scotish}
 		}
 		allow = {
+			war = no
 			state_n_government=1
-			NOT = {militancy=2}
 			owns = 349
 			owns = 350
 			owns = 351
@@ -87,21 +86,27 @@ political_decisions = {
 			prestige = 10
 		}
 	}
-	expand_german_territory = {
-		potential = {
-			tag = SWE
-			has_country_flag = expand_german_influence
-			NOT = {has_country_flag=expand_german_territory}
+	annex_danzig = {
+        potential = {
+			OR = {
+				tag = SWE
+				tag = SCA
+			}
+			NOT = {has_country_flag=annex_danzig}
 		}
 		allow = {
-			owns = 546
-			owns = 547
+			war = no
+			OR = {
+				DZG = {vassal_of = THIS}
+				DZG = {in_sphere = THIS}
+				owns = 690
+			}
 		}
 		effect = {
-			add_core = 546
-			add_core = 547
-			set_country_flag = expand_german_territory 
-			prestige = 5
+			add_core = 690
+			DZG = {annex_to =THIS}
+			prestige =5
+			set_country_flag = annex_danzig 
 		}
-	}
+    }
 }

@@ -226,7 +226,7 @@
 	craftsmen = {
 		culture = swedish
 		religion = protestant
-		size = 4650
+		size = 6650
 	}
 
 	soldiers = {
@@ -264,7 +264,7 @@
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 1650
+		size = 3650
 	}
 
 	farmers = {

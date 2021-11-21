@@ -8,7 +8,7 @@ plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.8
 civilized = yes
-prestige = 15
+prestige = 30
 
 # Political reforms
 slavery = no_slavery

@@ -157,6 +157,7 @@ FRA_proletarian_dictatorship;Commune de France;;;;;;;x
 FRA_fascist_dictatorship;Regime de France;;;;;;;x
 FRA_democracy;Deuxieme Republique Francaise;;;;;;;x
 BLE;The Baltic Empire;;;;;;;x
+BLE_ADJ;Baltics;;;;;;;x
 BLE_prussian_constitutionalism;The Baltic Empire;;;;;;;x
 BLE_hms_government;The Baltic Empire;;;;;;;x
 BLE_absolute_monarchy;The Baltic Empire;;;;;;;
@@ -171,3 +172,19 @@ BLE_anarcho_liberal;Free Baltic Republic party;;;;;;;x
 BLE_socialist;Union of Baltic people's;;;;;;;x
 BLE_fascist;Great Baltic Empire party;;;;;;;x
 BLE_communist;Union of Baltics socialists;;;;;;;x
+NWE;The Norwegian Empire;;;;;;;x
+NWE_ADJ;Norwegian;;;;;;;x
+NWE_prussian_constitutionalism;The Norwegian Empire;;;;;;;x
+NWE_hms_government;The Norwegian Empire;;;;;;;x
+NWE_absolute_monarchy;The Norwegian Empire;;;;;;;
+NWE_conservative;Conservative party;;;;;;;x
+NWE_conservative_2;English crown party;;;;;;;x
+NWE_reactionary;War party;;;;;;;x
+NWE_monarchy;Norwegian Crown party;;;;;;;x
+NWE_liberal;Norwegian Liberal party;;;;;;;x
+NWE_liberal_2;English Merchantile party;;;;;;;x
+NWE_liberal_3;Danish Democratic party;;;;;;;x
+NWE_anarcho_liberal;Free Norwegian Republic party;;;;;;;x
+NWE_socialist;Norwegian socialist party;;;;;;;x
+NWE_fascist;Great North Sea Empire party;;;;;;;x
+NWE_communist;North Sea democratic republic party;;;;;;;x

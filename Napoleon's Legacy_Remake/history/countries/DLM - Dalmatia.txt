@@ -43,7 +43,7 @@ water_wheel_power = 1
 publishing_industry = 1
 
 
-oob = "DLM.txt"
+#oob = "DLM.txt"
 ruling_party = CRO_conservative
 upper_house = {
     fascist = 0
