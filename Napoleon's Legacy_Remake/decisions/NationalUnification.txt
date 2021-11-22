@@ -356,7 +356,7 @@ political_decisions = {
 				exists = SCA
 			}
 			NOT = {tag=BLE}
-			NOT = {tag=SWE}
+			NOT = {tag=NWE}
 			NOT = { has_country_flag = stormaktstiden }
 		}
 		
