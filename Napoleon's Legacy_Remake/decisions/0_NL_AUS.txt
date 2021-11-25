@@ -1,7 +1,7 @@
 political_decisions = {
 	#get_back_our_eastern_claim = {
 	#	potential = {
-	#		tag = AUS
+	#		tag = KUK
 	#		NOT = { has_country_flag = get_back_our_eastern_claim }
 	#	}
 	#	allow = {
