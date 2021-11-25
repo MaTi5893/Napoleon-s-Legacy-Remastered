@@ -114,4 +114,21 @@ political_decisions = {
 			add_accepted_culture=bosniak
 		}
 	}
+	accept_slovak = {
+		potential = {
+			OR = {
+				tag = AUS
+				tag = KUK
+			}
+			NOT = {accepted_culture = slovak}
+		}
+		allow = {
+			state_n_government = 1
+			is_greater_power = yes
+		}
+		effect = {
+			add_accepted_culture = slovak
+			prestige = 5
+		}
+	}
 }

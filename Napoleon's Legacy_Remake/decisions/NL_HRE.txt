@@ -17,6 +17,8 @@ political_decision = {
 		allow  = {
 			is_greater_power = yes
 			nationalism_n_imperialism = 1
+            PRU = {is_greater_power=yes}
+            HAN = {is_greater_power = yes}
 			war = no
 			HRE = {
 				all_core = {

@@ -3,7 +3,6 @@ controller = HAN
 add_core = HAN
 #add_core = BRA #BRA is berg's tag actually, cope about it 
 add_core = GER
-add_core = HRE
 trade_goods = fruit
 life_rating = 40
 1861.1.1 = { railroad = 3 }
