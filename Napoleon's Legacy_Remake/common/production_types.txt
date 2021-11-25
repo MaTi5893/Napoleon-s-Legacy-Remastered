@@ -1323,7 +1323,7 @@ artisan_artillery = {
 		steel = 8		#37.6   total input+maint = 55.6
 	}
 	output_goods = artillery 
-	value = 1.6			#65
+	value = 1.8			#65
 
 	owner = {
 		poptype = artisan 
@@ -1343,7 +1343,7 @@ artisan_clipper = {
 	}
 	output_goods = clipper_convoy 
 	is_coastal = yes
-	value = 6			#175
+	value = 6.3			#175
 	
 	owner = {
 		poptype = artisan 
@@ -1362,7 +1362,7 @@ artisan_small_arms = {
 		steel = 3.0		#14.1		total input+maint = 44.9
 	}
 	output_goods = small_arms 
-	value = 2.6			#50
+	value = 2.8			#50
 
 	owner = {
 		poptype = artisan 
@@ -1399,7 +1399,7 @@ artisan_paper = {
 		timber = 50		#45	total input+maint = 55
 	}
 	output_goods = paper 
-	value = 30			#68
+	value = 27			#68
 	
 	owner = {
 		poptype = artisan 
@@ -1454,7 +1454,7 @@ artisan_ammunition = {
 		iron = 3.7		#12.95	total input+maint = 24.95
 	}
 	output_goods = ammunition 
-	value = 6.3			#30
+	value = 6.5			#30
 	
 	owner = {
 		poptype = artisan 
@@ -1474,7 +1474,7 @@ artisan_canned_food = {
 		fish = 2.5 		#3.75	total input+maint = 24.2
 	}
 	output_goods = canned_food 
-	value = 3.5			#30
+	value = 3.7			#30
 	
 	owner = {
 		poptype = artisan 

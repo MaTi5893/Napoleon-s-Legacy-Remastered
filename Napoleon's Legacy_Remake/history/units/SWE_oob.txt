@@ -19,7 +19,7 @@ PLC = {
 }
 
 leader = {
-	name = "Carl Nordenskj�ld"
+	name = "Carl Nordenskjold"
 	date = 1834.1.1
 	type = sea
 	personality = defence_1.1
@@ -46,7 +46,7 @@ leader = {
 }
 
 leader = {
-	name = "Axel M�rner"
+	name = "Axel Morner"
 	date = 1818.1.1
 	type = land
 	personality = defence_1.1
@@ -64,7 +64,7 @@ leader = {
 }
 
 leader = {
-	name = "C. Cederstr�m"
+	name = "C. Cederstrom"
 	date = 1824.1.1
 	type = land
 	personality = defence_1.1
@@ -91,7 +91,7 @@ leader = {
 }
 
 army = {
-	name = "Svenska Arm�n"
+	name = "Svenska Armén"
 	location = 352
 	regiment = {
 		name= "Svea Livgarde"
@@ -100,13 +100,13 @@ army = {
 	}
 
 	regiment = {
-		name= "S�dermanlands Regemente"
+		name= "Sodermanlands Regemente"
 		type = infantry
 		home = 326
 	}
 
 	regiment = {
-		name= "F�rsta Livgrenadj�rregementet"
+		name= "Forsta Livgrenadjorregementet"
 		type = infantry
 		home = 325
 	}
@@ -118,7 +118,7 @@ army = {
 	}
 
 	regiment = {
-		name= "V�stg�ta Regemente"
+		name= "Vastgota Regemente"
 		type = infantry
 		home = 330
 	}
@@ -130,13 +130,13 @@ army = {
 	}
 
 	regiment = {
-		name= "J�nk�pings Regemente"
+		name= "Jonkopings Regemente"
 		type = artillery
 		home = 333
 	}
 
 	regiment = {
-		name= "S�dra Sk�nska Infanteriregementet"
+		name= "Sodra Skinska Infanteriregementet"
 		type = artillery
 		home = 334
 	}

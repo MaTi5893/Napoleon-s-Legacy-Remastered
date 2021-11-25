@@ -11,6 +11,7 @@ plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.87
 is_releasable_vassal = no
+civilized = yes 
 
 # Political reforms
 slavery = no_slavery
