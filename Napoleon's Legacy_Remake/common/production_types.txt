@@ -514,7 +514,7 @@ luxury_clothes_factory = {
 		silk = 5		#50	total input+maint = 62.825
 	}
 	output_goods = luxury_clothes 
-	value = 2.5			#75
+	value = 2.7			#75
 	bonus = {
 		trigger = { 
 			OR = {
@@ -1264,7 +1264,7 @@ artisan_luxury_clothes = {
 		silk = 5.0		#50	total input+maint = 53
 	}
 	output_goods = luxury_clothes 
-	value = 4.4			#66
+	value = 4.5			#66
 
 
 	owner = {

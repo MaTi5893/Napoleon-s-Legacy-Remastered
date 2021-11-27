@@ -201,7 +201,7 @@ political_decisions = {
 					is_culture_group = scandinavian
 					is_culture_group = italian
 					is_culture_group = arab
-					is_culture_group = west_slavic
+					is_culture_group = south_slavic
 					tag = ECU
 					tag = CLM
 					tag = VNZ
@@ -779,7 +779,7 @@ unite_moldavia_wallachia = {
 						relation = { who = THIS value = 50 }
 					}
 				}
-				country_event = 11108
+				country_event = 11101
 			}
 		}
 
