@@ -90,10 +90,7 @@ political_decisions = {
 	}
 	the_crown_of_Bosnia = {
 		potential = {
-			OR = {
-				tag = AUS
-				tag = KUK
-			}
+			tag = KUK
 			NOT = {accepted_culture = bosniak}
 		}
 		allow = {

@@ -141,7 +141,7 @@ accept_mayan_desc;All Mayan people are reunited under the Mexican flag and it's 
 expand_central_america_title;Expansion in central america;;;;;;;x
 expand_central_america_desc;The weak nation of USCA is unstable and is going through difficult times, we must seize this opportunity to conquer them!;;;;;;;x
 accept_central_america_title;Acceptance of the Central Americans;;;;;;;x
-accept_central_america_des;Now that we have seized Central America, we must keep this population in our country and as a new world nation, the best option is to give them citizenship!;;;;;;;x
+accept_central_america_desc;Now that we have seized Central America, we must keep this population in our country and as a new world nation, the best option is to give them citizenship!;;;;;;;x
 the_crown_of_Bosnia_title;We reign over the Bosniak crowns!;;;;;;;x
 the_crown_of_Bosnia_desc; With Bosnia under our rule, we can add another crown to the empire of Austria-Hungary!;;;;;;;x
 the_reconquest_of_quebec_title;The Reconquest of Quebec;;;;;;;x
@@ -196,3 +196,5 @@ acceptance_of_stotland_title;Acceptance of Scotland!;;;;;;;x
 acceptance_of_stotland_desc;Now that we have reclaim Scotland, it's time to give the local population the same rights as the Danes, and integrate them into the glorious Scandinavian Empire!;;;;;;;x
 accept_slovak_title;Accept the Slova !;;;;;;;x
 accept_slovak_desc;It's been long since we have occupied slovak land and it's time to give them citizenship !;;;;;;;x
+scotish_acceptance_title;Acceptance_of_Scottish !;;;;;;;x
+scotish_acceptance_desc;With the reconquest of the Scottish state, we give them citizenship, as we did in the past !;;;;;;;x

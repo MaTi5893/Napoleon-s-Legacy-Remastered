@@ -139,7 +139,10 @@ political_decisions = {
 			primary_culture = south_german
 			owns = 767 #Maribor
 			NOT = {
-				has_country_flag = slovene_language_at_celje_gymnasium
+				OR = {
+					tag = HRE
+					has_country_flag = slovene_language_at_celje_gymnasium
+				}
 			}
 		}
 		allow = {

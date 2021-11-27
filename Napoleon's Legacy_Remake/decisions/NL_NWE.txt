@@ -97,11 +97,9 @@ political_decisions = {
 			OR = {
 				IRE = {vassal_of = THIS}
 				IRE = {in_sphere = THIS}
-				AND = {
-					IRE = {
-						all_core = {
-							owned_by = THIS
-						}
+				IRE = {
+					all_core = {
+						owned_by = THIS
 					}
 				}
 			}

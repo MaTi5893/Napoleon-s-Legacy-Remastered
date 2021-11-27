@@ -2,6 +2,7 @@ owner = SAX
 controller = SAX
 add_core = SAX
 add_core = GER
+add_core = HRE
 trade_goods = iron
 life_rating = 40
 1861.1.1 = { railroad = 3 }

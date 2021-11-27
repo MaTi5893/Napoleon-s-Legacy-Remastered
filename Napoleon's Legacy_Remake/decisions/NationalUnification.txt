@@ -8,6 +8,7 @@ political_decisions = {
 				exists = GER
 				tag = AUS
 				tag = KUK
+				tag = HRE
 			}
 		}	
 		allow = {
@@ -61,10 +62,7 @@ political_decisions = {
 	
 	austrian_form_south_german_confederation = {
 		potential = {
-			OR = {
-				tag = AUS
-				tag = KUK
-			}
+			tag = AUS
 			is_greater_power = yes
 			primary_culture = south_german
 			NOT = {
@@ -142,6 +140,7 @@ political_decisions = {
 			NOT = {
 				exists = GER
 				exists = NGF
+				exists = HRE
 			}
 		}	
 		allow = {
@@ -205,6 +204,8 @@ political_decisions = {
 					tag = ECU
 					tag = CLM
 					tag = VNZ
+					tag = KUK
+					tag = HRE
 				}
 			}
 		}
@@ -258,6 +259,9 @@ political_decisions = {
 				exists = GER
 				tag = ISR
 				exists = GCF
+				tag = KUK
+				exists = HRE
+				tag = HRE
 			}
 		}
 		
