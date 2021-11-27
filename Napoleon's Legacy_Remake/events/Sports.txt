@@ -17,7 +17,7 @@ province_event = {
 		pop_majority_culture = british
 		NOT = { province_id = 300 }
 		owner = {
-			tag = ENG
+			tag = GBR
 		}
 	}
 	mean_time_to_happen = {
@@ -66,31 +66,5 @@ country_event = {
 			consciousness = -1
 			militancy = -1
 		}
-	}
-}
-
-#Stanley Cup
-country_event = {
-	title = "EVTNAME5002"
-	desc = "EVTDESC5002"
-	news = yes
-	news_desc_long = "EVTDESC5002_NEWS_LONG"
-	news_desc_medium = "EVTDESC5002_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC5002_NEWS_SHORT"
-	id = 5002
-	picture = "stanley_cup"
-	
-	fire_only_once = yes
-	
-	trigger = {
-		tag = CAN
-		year = 1892
-	}
-	mean_time_to_happen = {
-		months = 12
-	}
-	option = {
-		name = "EVTOPTA5002"
-		prestige = 2
 	}
 }

@@ -1109,7 +1109,6 @@ country_event = {
 		any_pop = {
 			consciousness = 1
 		}
-		set_country_flag = JackTheRipper
 	}
 
 	option = {
@@ -1118,7 +1117,6 @@ country_event = {
 		any_pop = {
 			militancy = 1
 		}
-		set_country_flag = JackTheRipper
 	}
 }
 

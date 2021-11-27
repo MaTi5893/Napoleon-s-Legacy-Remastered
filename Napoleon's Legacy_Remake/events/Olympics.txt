@@ -2138,7 +2138,7 @@ country_event = {
 	id = 23438
 
 	trigger = {
-		NOT = { has_global_flag = Host1O0lympiad }
+		NOT = { has_global_flag = Host10Olympiad }
 		has_country_flag = IOCMember
 		NOT = {
 			OR = {

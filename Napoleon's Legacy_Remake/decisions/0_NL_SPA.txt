@@ -76,7 +76,6 @@ political_decisions = {
 		effect = {
 			add_accepted_culture=south_italian
 			prestige = 20
-			set_country_flag=glory_to_the_spanish_empire
 			government = absolute_monarchy
 			any_pop = {
 				militancy = -1

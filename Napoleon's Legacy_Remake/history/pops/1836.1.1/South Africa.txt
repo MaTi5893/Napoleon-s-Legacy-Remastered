@@ -1549,19 +1549,7 @@
     soldiers = {
         culture = boer
         religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
         size = 3
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
     }
 
     soldiers = {
@@ -1585,12 +1573,6 @@
     soldiers = {
         culture = boer
         religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
         size = 35
     }
 
@@ -1604,12 +1586,6 @@
         culture = african_minor
         religion = animist
         size = 1
-    }
-
-    soldiers = {
-        culture = african_minor
-        religion = animist
-        size = 0
     }
 
     soldiers = {
@@ -1630,34 +1606,11 @@
         size = 2
     }
 
-    soldiers = {
-        culture = african_minor
-        religion = protestant
-        size = 0
-    }
 
     soldiers = {
         culture = african_minor
         religion = protestant
         size = 36
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
     }
 
     soldiers = {

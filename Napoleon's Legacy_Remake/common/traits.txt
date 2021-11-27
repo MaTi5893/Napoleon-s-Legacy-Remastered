@@ -810,7 +810,6 @@ personality = {
 		defence = 1
 		reliability = 0.05
 		organisation = 0.025
-		organisation = 0.025
 	}
 	defence_1.159 = {
 		defence = 1

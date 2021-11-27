@@ -360,7 +360,7 @@ country_event = {
 	}
 }
 
-# Cut down/Humiliate
+# Humiliate
 country_event = {
 	id = 90008
 	title = "EVTNAME90008"
@@ -370,10 +370,7 @@ country_event = {
 	trigger = {
 		NOT = { involved_in_crisis = yes }
 		constructing_cb_progress = 10 #10% progress
-		OR = {
-			constructing_cb_type = cut_down_to_size
-			constructing_cb_type = humiliate
-			}
+		constructing_cb_type = humiliate
 		NOT = {
 			OR = {	
 					has_country_modifier = CB_gen_plus
@@ -417,10 +414,7 @@ country_event = {
 	trigger = {
 		NOT = { involved_in_crisis = yes }
 		constructing_cb_progress = 10 #10% progress
-		OR = {
-			constructing_cb_type = cut_down_to_size
-			constructing_cb_type = humiliate
-			}
+		constructing_cb_type = humiliate
 		NOT = {
 			OR = {	
 					has_country_modifier = CB_gen_plus
