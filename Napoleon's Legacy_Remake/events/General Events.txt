@@ -1,31 +1,31 @@
 #If you create a country specific event make sure you add the tag to the list of tags to not get the broad event	#>Reno, the man who made all of Persia Aryan and all of Central Asia Turkic, wasting performance on 40 different John Cena events
 															#mfw
-#country_event = {		#Deleted for an mp campaign, if the game feels worse without it, John Xina may be added back
-#	id = 600000
-#	allow_multiple_instances = yes
-#	trigger = {
-#		ai = no
-#		NOT = {
-#			has_leader = "John Cena"
-#		}
-#	}
-#	mean_time_to_happen = {
-#		days = 1
-#	}
-#	title = "A New General Arrives"
-#	desc = "Our prayers to RNGesus have been answered"
-#	immediate = {
-#		define_general = {
-#			name = "John Cena"
-#			#+1 attack, +1 defence. +10% morale
-#			personality = defence_4.3
-#			#+3 attack, +3 defence
-#			background = attack_4.3
-#		}
-#	}
-#	option = {
-#		name = "It's about time..."		
-#	}
-#}
+country_event = {		#Deleted for an mp campaign, if the game feels worse without it, John Xina may be added back
+	id = 600000
+	allow_multiple_instances = yes
+	trigger = {
+		ai = no
+		NOT = {
+			has_leader = "John Cena"
+		}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A New General Arrives"
+	desc = "Our prayers to RNGesus have been answered"
+	immediate = {
+		define_general = {
+			name = "John Cena"
+			#+3 defence, +15% reliability, +7.5% morale
+			personality = defence_3.3
+			#+3 attack, +15% reliability, -3% attrition
+			background = attack_3.3
+		}
+	}
+	option = {
+		name = "It's about time..."		
+	}
+}
 
 
