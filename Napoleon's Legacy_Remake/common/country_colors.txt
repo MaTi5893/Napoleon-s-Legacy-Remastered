@@ -348,13 +348,6 @@ BRA = {
     color3= { 210 106 47  }
 }
 
-# Bremen FIXED
-BRE = {
-    color1= { 244 56 49  }
-    color2= { 255 255 255  }
-    color3= { 137 183 124  }
-}
-
 # Germany
 GER = {
     color1= { 255 255 255  }
@@ -367,13 +360,6 @@ AUS = {
     color1= { 170 43 21  }
     color2= { 99 137 153  }
     color3= { 17 16 203  }
-}
-
-# Hamburg FIXED
-HAM = {
-    color1= { 244 56 49  }
-    color2= { 87 187 128  }
-    color3= { 69 157 208  }
 }
 
 # Hannover FIXED
@@ -409,13 +395,6 @@ MEI = {
     color1= { 134 224 126  }
     color2= { 255 255 255  }
     color3= { 112 150 105  }
-}
-
-# Oldenburg FIXED
-OLD = {
-    color1= { 244 56 49  }
-    color2= { 69 80 169  }
-    color3= { 104 137 140  }
 }
 
 # Saxony FIXED

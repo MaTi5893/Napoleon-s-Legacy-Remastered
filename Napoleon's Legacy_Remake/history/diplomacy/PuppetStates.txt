@@ -51,18 +51,6 @@ vassal = {
 #Wesflen - german minors
 vassal = {
 	first = HAN
-	second = BRE
-	start_date = 1822.1.1
-	end_date = 1847.7.26
-}
-vassal = {
-	first = HAN
-	second = OLD
-	start_date = 1822.1.1
-	end_date = 1847.7.26
-}
-vassal = {
-	first = HAN
 	second = BRA
 	start_date = 1822.1.1
 	end_date = 1847.7.26

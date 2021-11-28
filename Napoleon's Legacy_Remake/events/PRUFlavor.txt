@@ -502,7 +502,6 @@ country_event = {
 		casus_belli = {
 			target = PRU
 			type = free_peoples
-			country = DZG
 			months = 36
 		}
 		prestige = 5
