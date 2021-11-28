@@ -348,6 +348,7 @@ political_decisions = {
 			add_core = 540
 			add_core = 541
 			prestige = 6
+			set_country_flag = past_the_rhine
 		}
 	}
 	lithuanian_question =  {

@@ -5,7 +5,6 @@ country_event = {
 	picture = "Opiumwar"
 
 	is_triggered_only = yes
-	fire_only_once = yes
 
 	option = {
 		name = "Convert them to Artisans!"
