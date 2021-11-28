@@ -1,5 +1,6 @@
 capital = 263
 primary_culture = irish
+culture = Scotish
 religion = catholic
 government = democracy
 plurality = 0.1
