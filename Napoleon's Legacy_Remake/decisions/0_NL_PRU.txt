@@ -69,6 +69,7 @@ political_decisions = {
 			tag = PRU
 			NOT = { has_country_flag = danzig_coup }
 			DZG = { exists = yes }
+			NOT = { year = 1870 }
 		}
 		allow = {
 			is_greater_power = yes

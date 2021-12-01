@@ -93,7 +93,7 @@ form_celtic_union = {
 				invention = manifest_destiny
 				}
 			effect = {
-				badboy = 8
+				badboy = 7
 				add_core = 299
 				add_core = 304 
 				add_core = 277
