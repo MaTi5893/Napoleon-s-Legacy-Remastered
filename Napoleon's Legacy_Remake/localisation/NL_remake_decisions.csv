@@ -5,8 +5,8 @@ the_true_government_title;The One and True government;;;;;;;x
 the_true_government_desc;The exiled monarchy's status as a 'formidable power', even though a marvellous joke all along, has met it's end. With their influence anywhere wiped out, we can finally circle in and end this traitorous rebellion. For ever.;;;;;;;x
 restore_ottoman_egypt_title;Restore Ottoman rule in Egypt;;;;;;;x
 restore_ottoman_egypt_desc;Egypt has broken away from us after a relatively succesful campaign of Napoleon the Great in land of the pharoes, but the time has come to get it back;;;;;;;x
-magrhreb_domination_title;Domination in the Maghreb;;;;;;;x
-magrhreb_domination_desc;As the sole muslim great power we should protect our brothers in faith in the Maghreb;;;;;;;x
+magrThe Holy Roman Empireb_domination_title;Domination in the MagThe Holy Roman Empireb;;;;;;;x
+magrThe Holy Roman Empireb_domination_desc;As the sole muslim great power we should protect our brothers in faith in the MagThe Holy Roman Empireb;;;;;;;x
 expand_the_confederacy_title;Expand the Confederacy;;;;;;;x
 expand_the_confederacy_desc;Although we have faced setbacks from the British, the time has come to once again reassert our dominion over India;;;;;;;x
 recover_the_empire_title;Restore the Mughal Empire;;;;;;;x
@@ -116,8 +116,8 @@ trent_claim_title;Our Claim on the Trent Region;;;;;;;x
 trent_claim_desc;After the War of the 3rd Coaltion, we were forced to give the Trent region to Bavaria and the Kingdom of Italy. It is time to take it back!;;;;;;;x
 domination_of_western_mediterranean_see_title;Expand our influence in the western Mediterranean Sea;;;;;;;x
 domination_of_western_mediterranean_see_desc;The withdrawal of the British in the western Mediterranean Sea created a power vacuum in the region and we must be the one to fill it!;;;;;;;x
-expension_in_southern_italy_title;Expand in Southern Italy;;;;;;;x
-expension_in_southern_italy_desc;Now that we have secured a hold in Sicily and reestablished ourselves as a regional power, we should expand this influence in southern Italy and seize what was once a part of the glorious Spanish Empire!;;;;;;;x
+Expansion_in_southern_italy_title;Expand in Southern Italy;;;;;;;x
+Expansion_in_southern_italy_desc;Now that we have secured a hold in Sicily and reestablished ourselves as a regional power, we should expand this influence in southern Italy and seize what was once a part of the glorious Spanish Empire!;;;;;;;x
 glory_to_the_spanish_empire_title;Glory to the Spanish Empire!;;;;;;;x
 glory_to_the_spanish_empire_desc;Now that we have recovered all of our lost provinces in south Italy, we can reestablish the Spanish Empire!;;;;;;;x
 ask_france_catalonia_title;Ask for Catalonia;;;;;;;x
@@ -162,9 +162,9 @@ form_ble_title;Form the Baltic Empire!;;;;;;;x
 form_ble_desc;We have united the Baltic people under one nation and we are ready to take our place as a great power!;;;;;;;x
 expand_german_territory_title;Expand our German territory!;;;;;;;x
 expand_german_territory_desc;We must keep our hold on North Germany and pursuit the domination of the Baltic!;;;;;;;x
-german_expansion1_title;Continue the German expension!;;;;;;;x
+german_expansion1_title;Continue the German Expansion!;;;;;;;x
 german_expansion1_desc;Now that we established ourselves as a North German power, we must seek dominance over the whole North German region.;;;;;;;x
-german_expansion2_title;Continue the German expension!;;;;;;;x
+german_expansion2_title;Continue the German Expansion!;;;;;;;x
 german_expansion2_desc;Now that we established ourselves as a North German power, we must seek dominance over the whole North German region.;;;;;;;x
 denmark_ours_title;Denmark is ours!;;;;;;;x
 denmark_ours_desc;We have entire control over the trade that is exiting the Baltic with the submission of Denmark!;;;;;;;x
@@ -194,7 +194,23 @@ acceptance_of_british_title;Acceptance of the British!;;;;;;;x
 acceptance_of_british_desc;Now that we have reclaim north England, it's time to give the local population the same rights as the Danes, and integrate them into the glorious Scandinavian Empire !;;;;;;;x
 acceptance_of_stotland_title;Acceptance of Scotland!;;;;;;;x
 acceptance_of_stotland_desc;Now that we have reclaim Scotland, it's time to give the local population the same rights as the Danes, and integrate them into the glorious Scandinavian Empire!;;;;;;;x
-accept_slovak_title;Accept the Slova !;;;;;;;x
+accept_slovak_title;Accept the Slovak !;;;;;;;x
 accept_slovak_desc;It's been long since we have occupied slovak land and it's time to give them citizenship !;;;;;;;x
 scotish_acceptance_title;Acceptance_of_Scottish !;;;;;;;x
 scotish_acceptance_desc;With the reconquest of the Scottish state, we give them citizenship, as we did in the past !;;;;;;;x
+reintegrate_the_rhineland_title;Reintegrate the Rhineland !;;;;;;;x
+reintegrate_the_rhineland_desc;The Rhineland has always been a part of the The Holy Roman Empire before the Napoleonic wars and we now posses it once more !;;;;;;;x
+expand_to_italy_title;Expansion in Italy !;;;;;;;x
+expand_to_italy_desc;North Italy is rightful The Holy Roman Empire claim and we have to make sure it stays that way !;;;;;;;x
+glory_to_hre_title;Glory to the The Holy Roman Empire !;;;;;;;x
+glory_to_hree_desc;We have united the core territory of the The Holy Roman Empire, it's time to claim all losted land to expand it to it's glorious past border  !;;;;;;;x
+expand_netherlands_title;Expansion in the Netherlands !;;;;;;;x
+expand_netherlands_desc;The Netherlands were historically a part of the The Holy Roman Empire and we have finally recover them !;;;;;;;x
+expand_switzerland_title;Expansion in Switzerland !;;;;;;;x
+expand_switzerland_desc;The swiss are once again a part of the Holy Roman Empire like they should have stayed !;;;;;;;x
+expand_belgium_title;Finnish the Expansion in the Lowlands !;;;;;;;x
+expand_belgium_desc;We have finally recovered the Lowlands, a historical region of the Holy Roman Empire taken by the French during the Revolution !;;;;;;;x
+expand_slovenia_title;Expansion in Slovenia !;;;;;;;x
+expand_slovenia_desc;We have recovered the land loss to the Illigitimate Illyrian Duchy !;;;;;;;x
+form_hre_title;Form the Holy Roman Empire !;;;;;;;x
+form_hre_desc;In 1806, after the battle of Austerliz and the defeat of the Austrian army, the Emperor Francis II dissolved the Holy Roman Empire, having no reality anymore. We have now recover the legitimacy to recreate it again and put Austria at the center !;;;;;;;x
