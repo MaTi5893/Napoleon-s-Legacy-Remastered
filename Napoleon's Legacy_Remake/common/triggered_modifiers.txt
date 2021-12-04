@@ -369,7 +369,7 @@ own_suez_canal = {
 	}
 	icon = 9
 	tariff_efficiency_modifier = 0.1
-	tax_efficiency = 0.5
+	tax_efficiency = 0.05
 	prestige = 0.01
 }
 
@@ -382,7 +382,7 @@ own_panama_canal = {
 	}
 	icon = 9
 	tariff_efficiency_modifier = 0.2
-	tax_efficiency = 0.5
+	tax_efficiency = 0.05
 	prestige = 0.02
 }
 
@@ -689,8 +689,78 @@ baltic_dominance = {
 		owns = 348
 		owns = 994
 	}
+	tariff_efficiency_modifier = 0.01
+	tax_efficiency = 0.05
+	prestige = 0.01
+	icon = 9
+}
+
+west_rhine_bank = {
+	trigger = {
+		owns = 410
+		owns = 409
+		owns = 571
+		owns = 570
+		owns = 574
+		owns = 575
+		owns = 577
+		owns = 379
+		owns = 380
+		owns = 378
+	}
 	tariff_efficiency_modifier = 0.1
 	tax_efficiency = 0.05
+	icon = 9
+}
+
+east_rhine_bank = {
+	trigger = {
+		owns = 376
+		owns = 377
+		owns = 382
+		owns = 581
+		owns = 578
+		owns = 2561
+		owns = 579
+		owns = 565
+		owns = 564
+		owns = 2560
+		owns = 569
+		owns = 586
+		owns = 587
+	}
+	tariff_efficiency_modifier = 0.1
+	tax_efficiency = 0.05
+	icon = 9
+}
+
+full_rhine = {
+	trigger = {
+		owns = 410
+		owns = 409
+		owns = 571
+		owns = 570
+		owns = 574
+		owns = 575
+		owns = 577
+		owns = 379
+		owns = 380
+		owns = 378
+		owns = 376
+		owns = 377
+		owns = 382
+		owns = 581
+		owns = 578
+		owns = 2561
+		owns = 579
+		owns = 565
+		owns = 564
+		owns = 2560
+		owns = 569
+		owns = 586
+		owns = 587
+	}
+	tariff_efficiency_modifier = 0.05
 	prestige = 0.01
 	icon = 9
 }

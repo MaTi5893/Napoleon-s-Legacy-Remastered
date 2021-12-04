@@ -3,6 +3,7 @@ controller = MEC
 add_core = MEC
 add_core = GER
 add_core = BLE
+add_core = HRO
 trade_goods = grain
 life_rating = 40
 1861.1.1 = { railroad = 3 }

@@ -1,9 +1,7 @@
 political_decisions = {
     acceptance_of_north_german = {
         potential = {
-            OR = {
-                tag = SCA
-            }
+            tag = SCA
             NOT = {accepted_culture = north_german}
             NOT = {accepted_culture = Scotish}
         }

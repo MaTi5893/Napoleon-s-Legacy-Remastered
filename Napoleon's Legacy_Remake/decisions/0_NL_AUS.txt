@@ -1,7 +1,7 @@
 political_decisions = {
 	#get_back_our_eastern_claim = {
 	#	potential = {
-	#		tag = AUS
+	#		tag = KUK
 	#		NOT = { has_country_flag = get_back_our_eastern_claim }
 	#	}
 	#	allow = {
@@ -90,10 +90,7 @@ political_decisions = {
 	}
 	the_crown_of_Bosnia = {
 		potential = {
-			OR = {
-				tag = AUS
-				tag = KUK
-			}
+			tag = KUK
 			NOT = {accepted_culture = bosniak}
 		}
 		allow = {
@@ -112,6 +109,23 @@ political_decisions = {
 				}
 			}
 			add_accepted_culture=bosniak
+		}
+	}
+	accept_slovak = {
+		potential = {
+			OR = {
+				tag = AUS
+				tag = KUK
+			}
+			NOT = {accepted_culture = slovak}
+		}
+		allow = {
+			state_n_government = 1
+			is_greater_power = yes
+		}
+		effect = {
+			add_accepted_culture = slovak
+			prestige = 5
 		}
 	}
 }

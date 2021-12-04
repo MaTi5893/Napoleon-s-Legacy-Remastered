@@ -151,10 +151,9 @@ political_decisions = {
 	scotish_acceptance = {
 		potential = {
 			tag=ENG
-			NOT = {has_country_flag=Scotish_acceptance}
+			NOT = {accepted_culture = Scotish}
 		}
 		allow = {
-			nationalism_n_imperialism=1
 			owns=267
 			owns=268
 			owns=269

@@ -23,7 +23,10 @@ political_decisions = {
 				NGF = { exists = yes }
 				GER = { exists = yes }
 				GCF = { exists = yes } 
+				BLE = { exists = yes }
+				HAN = {is_greater_power = yes}
 				is_greater_power = no
+				
 			}
 			nationalism_n_imperialism = 1
 			NOT = {
@@ -136,7 +139,10 @@ political_decisions = {
 			primary_culture = south_german
 			owns = 767 #Maribor
 			NOT = {
-				has_country_flag = slovene_language_at_celje_gymnasium
+				OR = {
+					tag = HRO
+					has_country_flag = slovene_language_at_celje_gymnasium
+				}
 			}
 		}
 		allow = {

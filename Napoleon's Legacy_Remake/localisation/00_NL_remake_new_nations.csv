@@ -179,12 +179,28 @@ NWE_hms_government;The Norwegian Empire;;;;;;;x
 NWE_absolute_monarchy;The Norwegian Empire;;;;;;;
 NWE_conservative;Conservative Party;;;;;;;x
 NWE_conservative_2;English Crown Party;;;;;;;x
-NWE_reactionary;War Party;;;;;;;x
+NWE_reactionary;Imperialist Party;;;;;;;x
 NWE_monarchy;Norwegian Crown Party;;;;;;;x
 NWE_liberal;Norwegian Liberal Party;;;;;;;x
-NWE_liberal_2;English Mercantile Party;;;;;;;x
+NWE_liberal_2;English Merchantile Party;;;;;;;x
 NWE_liberal_3;Danish Democratic Party;;;;;;;x
 NWE_anarcho_liberal;Free Norwegian Republic Party;;;;;;;x
-NWE_socialist;Norwegian socialist Party;;;;;;;x
-NWE_fascist;Great North Sea Empire Party;;;;;;;x
-NWE_communist;North Sea Democratic Republic Party;;;;;;;x
+NWE_socialist;Norwegian Socialist Party;;;;;;;x
+NWE_fascist;Fascist People's Party of the North Sea;;;;;;;x
+NWE_communist;North Sea Communist Party;;;;;;;x
+HRO;The Holy Roman Empire;;;;;;;x
+HRO_ADJ;Holy Roman;;;;;;;x
+HRO_prussian_constitutionalism;The Holy Roman Empire;;;;;;;x
+HRO_hms_government;The Holy Roman Empire;;;;;;;x
+HRO_absolute_monarchy;The Holy Roman Empire;;;;;;;
+HRO_conservative;German Minor Party;;;;;;;x
+HRO_conservative_2;Elector Party;;;;;;;x
+HRO_reactionary;Austrian Party;;;;;;;x
+HRO_monarchy;Holy Empire Union Party;;;;;;;x
+HRO_liberal;Liberal Party;;;;;;;x
+HRO_liberal_2;Merchantile Party;;;;;;;x
+HRO_liberal_3;Ruhr Party;;;;;;;x
+HRO_anarcho_liberal;Free Union of Electors;;;;;;;x
+HRO_socialist;HRE socialist Party;;;;;;;x
+HRO_fascist;Great Germanic Party;;;;;;;x
+HRO_communist;Germanic democratic republic Party;;;;;;;x

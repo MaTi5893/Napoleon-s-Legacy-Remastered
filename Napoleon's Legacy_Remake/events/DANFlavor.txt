@@ -291,9 +291,9 @@ country_event = {
 }
 
 country_event = {
-
+	
 	id = 36205
-
+	fire_only_once = yes
 	trigger = {
 		tag = DEN 
 		year = 1885
@@ -304,7 +304,6 @@ country_event = {
 			}
 		NOT = {
 			year = 1890
-			has_country_flag = CopenhagenFort
 			}
 		}
  
@@ -334,7 +333,6 @@ country_event = {
 
 	option = {
 		name = "EVTOPTA36205" 
-		set_country_flag = CopenhagenFort
 		money = -1000
 		372 = {
 			fort = 1
@@ -351,7 +349,6 @@ country_event = {
 
 	option = {
 		name = "EVTOPTB36205" 
-		set_country_flag = CopenhagenFort
 		officers = {
 			consciousness = 1
 		}
@@ -491,7 +488,7 @@ country_event = {
 }
 
 country_event = {
-
+	fire_only_once = yes 
 	id = 36208
 	trigger = {
 		tag = DEN 
@@ -503,7 +500,6 @@ country_event = {
 			}
 		NOT = {
 			year = 1912
-			has_country_flag = AlberiniAffair
 			}
 		}
  
@@ -533,7 +529,6 @@ country_event = {
 
 	option = {
 		name = "EVTOPTA36207" 
-		set_country_flag = AlberiniAffair
 		election = yes
 		any_pop = {
 			consciousness = 2
