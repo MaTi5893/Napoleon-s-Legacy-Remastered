@@ -1,8 +1,6 @@
 owner = SWI
 controller = SWI
 add_core = SWI
-life_rating = 40
 trade_goods = coal
-1857.1.1 = {
-	remove_core = PRU
-}
+life_rating = 40
+

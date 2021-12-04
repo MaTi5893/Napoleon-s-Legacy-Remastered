@@ -3,6 +3,10 @@ controller = BAV
 add_core=AUS
 add_core = BAV
 add_core = GER
+<<<<<<< HEAD
 add_core = HRE
+=======
+add_core = HRO
+>>>>>>> 21ccc69c95c62393b4dee07a64b44d47dd791efa
 trade_goods = grain
 life_rating = 35

@@ -40,7 +40,7 @@ CEL		= "countries/Celtic Union.txt"
 LCT		= "countries/Liechtenstein.txt"
 BLE		= "countries/Baltic-Empire.txt"
 NWE     = "countries/Norway-Empire.txt"
-HRE     = "countries/Holy-Roman-Empire.txt"
+HRO     = "countries/Holy-Roman-Empire.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"
