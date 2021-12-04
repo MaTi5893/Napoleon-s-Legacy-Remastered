@@ -289,10 +289,14 @@ political_decisions = {
 				tag=BLE
 				tag = SCA
 <<<<<<< HEAD
+<<<<<<< HEAD
 				tag = HRE
 =======
 				tag = HRO
 >>>>>>> 21ccc69c95c62393b4dee07a64b44d47dd791efa
+=======
+				tag = HRO
+>>>>>>> f666afc58bfab8ca9a5984b0ddd0caeb5b75bad5
 			}
 			accepted_culture = north_german
 			any_sphere_member = {
