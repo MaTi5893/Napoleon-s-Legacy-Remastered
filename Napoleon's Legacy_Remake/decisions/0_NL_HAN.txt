@@ -29,47 +29,7 @@ political_decisions = {
 		allow = {
 			has_country_flag = united_westfalen
 			invention = national_fraternity
-			BAV = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
-						}
-					}
-				}
-			}
-			BAD = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
-						}
-					}
-				}
-			}
-			FRM = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
-						}
-					}
-				}
-			}
-			WUR = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
-						}
-					}
-				}
-			}
-			SAX = {
+			RHI = {
 				all_core = {
 					OR = {
 						owned_by = THIS

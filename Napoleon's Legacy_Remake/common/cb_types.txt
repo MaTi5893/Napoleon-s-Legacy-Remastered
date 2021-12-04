@@ -287,8 +287,6 @@ conquest = {
 		# this = { NOT = { badboy = 1 } }
 		NOT = { is_our_vassal = THIS }
 		# only one state or unciv
-		NOT = { number_of_states = 3 }
-		
 		OR = {
 			AND = {
 				civilized = yes
@@ -297,11 +295,11 @@ conquest = {
 			AND = {
 				civilized = no
 				THIS = { civilized = no }
-				NOT = { number_of_states = 2 }
+				NOT = { number_of_states = 5 }
 			}
 			AND = {
 				civilized = no
-				number_of_states = 2
+				NOT = {number_of_states = 3}
 				THIS = {
 					OR = {
 						NOT = { is_greater_power = yes }

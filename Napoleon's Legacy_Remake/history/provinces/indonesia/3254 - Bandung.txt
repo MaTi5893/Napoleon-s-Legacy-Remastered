@@ -4,6 +4,5 @@ add_core = JAV
 trade_goods = tea
 life_rating = 30
 colonial = 2
-terrain = hills
 add_core = INO
 
