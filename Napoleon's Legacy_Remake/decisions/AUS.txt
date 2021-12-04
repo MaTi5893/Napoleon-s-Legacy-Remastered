@@ -140,7 +140,7 @@ political_decisions = {
 			owns = 767 #Maribor
 			NOT = {
 				OR = {
-					tag = HRE
+					tag = HRO
 					has_country_flag = slovene_language_at_celje_gymnasium
 				}
 			}

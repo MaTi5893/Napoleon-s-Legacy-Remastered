@@ -288,7 +288,7 @@ political_decisions = {
 			OR = {
 				tag=BLE
 				tag = SCA
-				tag = HRE
+				tag = HRO
 			}
 			accepted_culture = north_german
 			any_sphere_member = {

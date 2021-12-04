@@ -2,6 +2,6 @@ owner = BAV
 controller = BAV
 add_core = BAV
 add_core = GER
-add_core = HRE
+add_core = HRO
 trade_goods = coal
 life_rating = 40
