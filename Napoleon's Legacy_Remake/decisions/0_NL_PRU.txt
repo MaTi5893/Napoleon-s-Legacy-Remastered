@@ -82,4 +82,33 @@ political_decisions = {
 			set_country_flag = danzig_coup
 		}
 	}
+	declaration_an_mein_volk= {
+		potential = {
+			tag = PRU
+			NOT = {has_country_flag = declaration_an_mein_volk}
+			#NOT = {
+			#	OR = {
+			#		NGF = exists
+			#		GER = exists
+			#		HRO = exists
+			#	}
+			#}
+		}
+		allow = {
+			state_n_government = 1
+			GER = {
+				any_core = {
+					owned_by = FRA
+				}
+			}
+		}
+		effect = {
+			prestige = 10
+			add_country_modifier = {
+				name = an_mein_volk
+				duration = 3650
+			}
+			set_country_flag = declaration_an_mein_volk
+		}
+	}
 }

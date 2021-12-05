@@ -65,8 +65,8 @@ craftsmen_fix_title;Craftsmen Salvage Decision (10 year cooldown);;;;;;;x
 craftsmen_fix_desc;This decision is intended to salvage your country after it has been craftsmen hijacked. It will revert all non-core/non-accepted craftsmen on your cores to artisans so that your core craftsmen will start working. (Think South Germans in Venetia hijacking.) BECAREFUL OF USE.;;;;;;;x
 bureaucrats_fix_title;Non-Accepted Bureaucrats Decision (10 year cooldown);;;;;;;x
 bureaucrats_fix_desc;This decision is intended to convert non-accepted Bureaucrats into Artisans, in both states and colonies, so they stop getting fat off of state admin funding.;;;;;;;x
-britain_sphere_jap_title;Ask The British Empire for Support;;;;;;;x
-britain_sphere_jap_desc;The world's oceans are big enough for the two of us, surely the British Empire will understand then that we require her resources to prosper in our time of need. (Decision only available in 1836);;;;;;;x
+france_sphere_jap_title;Ask The French Empire for Support;;;;;;;x
+france_sphere_jap_desc;While France rule on Europe, we can rule on Asia, making an alliance between our two nations a logical decision. They will understand then that we require her resources to prosper in our time of need. (Decision only available in 1836);;;;;;;x
 usa_sphere_jap_title;Ask the United States for Support;;;;;;;x
 usa_sphere_jap_desc;Clearly we cannot trust other interests in Asia, but we can't fuel this machine on good will. There appears to be a budding nation across the Pacific... they may be able to provide us with markets in our time of need. (Decision only available in 1836);;;;;;;x
 rus_sphere_jap_title;Ask Russian Empire for Support;;;;;;;x

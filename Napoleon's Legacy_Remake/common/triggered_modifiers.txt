@@ -767,3 +767,18 @@ full_rhine = {
 	prestige = 0.01
 	icon = 9
 }
+
+##stuff for later
+#united_against_napoleon = {
+#	trigger = {
+#		OR = {
+#			tag = PRU
+#			tag = RUS
+#			tag = AUS
+#		}
+#	}
+#	tariff_efficiency_modifier = 0.01
+#	tax_efficiency = 0.05
+#	prestige = 0.01
+#	icon = 9
+#}
