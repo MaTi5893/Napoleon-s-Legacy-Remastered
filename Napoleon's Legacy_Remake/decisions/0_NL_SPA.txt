@@ -152,7 +152,6 @@ political_decisions = {
 			add_core = 2134
 			add_core = 2135
 			change_tag = IBR
-			add_accepted_culture=portuguese
 		}
 	}
 	expand_citizenship1 = {
