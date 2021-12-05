@@ -3,7 +3,6 @@ political_decisions = {
 		potential = {
 			tag = SPA
 			NOT = { has_country_flag = domination_of_western_mediterranean_see }
-			NOT = {	has_country_flag=form_iberia }
 		}
 		allow = {
 			war=no
@@ -117,7 +116,6 @@ political_decisions = {
 	form_iberia = {
 		potential = {
 			tag = SPA
-			NOT = { has_country_flag = form_iberia }
 			NOT = { has_country_flag = domination_of_western_mediterranean_see }
 		}
 		allow = {
@@ -153,15 +151,14 @@ political_decisions = {
 			add_core = 527
 			add_core = 2134
 			add_core = 2135
-			set_country_flag=form_iberia
+			change_tag = IBR
 			add_accepted_culture=portuguese
 		}
 	}
 	expand_citizenship1 = {
 		potential = {
-			tag = SPA
+			OR = { tag = SPA tag = IBR }
 			NOT = { accepted_culture = caribeno }
-			NOT = { has_country_flag = form_iberia }
 		}
 		allow = {
 				owns= 2209
@@ -201,7 +198,7 @@ political_decisions = {
 	}
 	spanish_armada = {
 		potential = {
-			tag = SPA
+			OR = { tag = SPA tag = IBR }
 			NOT = { tech_school = spanish_tech_school }
 		}
 		allow = {
