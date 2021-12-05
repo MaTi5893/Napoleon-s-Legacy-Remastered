@@ -1036,3 +1036,11 @@ classless_society_modifier = {
 	leadership_modifier = -0.1
 	icon = 17
 }
+
+an_mein_volk = {
+	morale = 0.15
+	supply_consumption = -0.10
+	mobilisation_size = 0.02
+	mobilisation_economy_impact = -0.10
+	icon = 15
+}
