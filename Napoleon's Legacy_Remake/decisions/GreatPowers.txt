@@ -62,6 +62,7 @@ political_decisions = {
 		}
 	}
 	poland_is_no_more = {
+		picture = decision_no_more_pol
         potential = {
             OR = {
                tag=RUS

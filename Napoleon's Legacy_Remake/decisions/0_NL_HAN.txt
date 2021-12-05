@@ -135,13 +135,20 @@ political_decisions = {
 					add_core = GCF
 				}
 			}
-			PRU = {
-				all_core = {
-					limit = {
-						owned_by = PRU
+			GER = {
+				any_core = {
+					owned_by = {
+						OR = {
+							tag = PRU
+							tag = PLC
+							tag = SWE
+							tag = DEN
+							tag = AUS
+							tag = KUK
+						}
 					}
-					remove_core = GCF
 				}
+				remove_core = GCF
 			}
 			HAN = {
 				all_core = {

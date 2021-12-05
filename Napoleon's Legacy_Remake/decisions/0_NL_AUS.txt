@@ -23,6 +23,7 @@ political_decisions = {
 	#	}
 	#}
 	finish_poland_partition = {
+		picture = duchy_of_warsaw
 		potential = {
 			OR = {
 				tag = AUS
@@ -51,6 +52,7 @@ political_decisions = {
 		}
 	}
 	reintegrate_illiya = {
+		picture = decision_illyria_AUS
 		potential = {
 			OR = {
 				tag = AUS
@@ -72,8 +74,12 @@ political_decisions = {
 		}
 	}
 	trent_claim = {
+		picture = decision_trent_AUS
 		potential = {
-			tag = KUK
+			OR = {
+				tag = KUK
+				tag = AUS
+			}
 			NOT = {has_country_flag=trent_claim}
 		}
 		allow = {
@@ -89,6 +95,7 @@ political_decisions = {
 		}
 	}
 	the_crown_of_Bosnia = {
+		picture = decision_bosnia_KUK
 		potential = {
 			tag = KUK
 			NOT = {accepted_culture = bosniak}
@@ -126,6 +133,41 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = slovak
 			prestige = 5
+		}
+	}
+	reclaim_austria = {
+		picture = decision_austria_AUS
+		potential = {
+			OR = {
+				tag = AUS
+				tag = KUK
+			}
+			NOT = {has_country_flag = reclaim_austria}
+		}
+		allow = {
+			owns = 735
+			owns = 614
+			owns = 612
+			owns = 613
+			owns = 615
+		}
+		effect = {
+			BAV = {
+				remove_core = 735
+				remove_core = 614
+				remove_core = 612
+				remove_core = 613
+				remove_core = 615
+			}
+			GER = {
+				remove_core = 735
+				remove_core = 614
+				remove_core = 612
+				remove_core = 613
+				remove_core = 615
+			}
+			prestige = 5
+			set_country_flag = reclaim_austria
 		}
 	}
 }
