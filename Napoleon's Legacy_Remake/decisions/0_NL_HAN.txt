@@ -135,21 +135,27 @@ political_decisions = {
 					add_core = GCF
 				}
 			}
-			GER = {
-				any_core = {
-					owned_by = {
-						OR = {
-							tag = PRU
-							tag = PLC
-							tag = SWE
-							tag = DEN
-							tag = AUS
-							tag = KUK
-						}
+			GCF = { 
+				all_core = { 
+					limit = { 
+							is_core = GER
+							owner = { 
+								OR = { 
+								tag = PRU
+								tag = PLC
+								tag = SWE
+								tag = DEN
+								tag = AUS
+								tag = KUK
+								tag = FRA
+								tag = DZG
+								}
+							}
 					}
-				}
 				remove_core = GCF
+				}
 			}
+			
 			HAN = {
 				all_core = {
 					add_core = GCF
@@ -162,12 +168,21 @@ political_decisions = {
 				limit = {
 					is_culture_group = germanic
 					in_sphere = THIS
+					NOT = { tag = AUS tag = KUK }
+					OR = { 
+						AND = { 
+							tag = DZG
+							OR = { PRU = { in_sphere = THIS } GCF = { owns = 691 } }				
+						}
+						NOT = { tag = DZG } 
+					}	
 				}
 				annex_to = GCF
 			}
 			GCF = {
 				all_core = {
 					limit = {
+						NOT = { is_core = THIS } 
 						owned_by = THIS
 					}
 					secede_province = GCF

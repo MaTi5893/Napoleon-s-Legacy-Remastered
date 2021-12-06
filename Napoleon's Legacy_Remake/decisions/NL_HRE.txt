@@ -311,8 +311,3 @@ political_decisions = {
         }
     }
 } 
-<<<<<<< HEAD
-    
-=======
-    
->>>>>>> f666afc58bfab8ca9a5984b0ddd0caeb5b75bad5

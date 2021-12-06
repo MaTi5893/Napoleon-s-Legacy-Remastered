@@ -197,7 +197,7 @@ political_decisions = {
 	}
 	spanish_armada = {
 		potential = {
-			OR = { tag = SPA tag = IBR }
+			primary_culture = spanish
 			NOT = { tech_school = spanish_tech_school }
 		}
 		allow = {
