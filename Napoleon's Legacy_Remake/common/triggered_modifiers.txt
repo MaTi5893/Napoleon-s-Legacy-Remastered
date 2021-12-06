@@ -697,6 +697,7 @@ baltic_dominance = {
 
 west_rhine_bank = {
 	trigger = {
+		year = 1837
 		owns = 410
 		owns = 409
 		owns = 571
@@ -715,6 +716,7 @@ west_rhine_bank = {
 
 east_rhine_bank = {
 	trigger = {
+		year = 1837
 		owns = 376
 		owns = 377
 		owns = 382
@@ -736,6 +738,7 @@ east_rhine_bank = {
 
 full_rhine = {
 	trigger = {
+		year = 1837
 		owns = 410
 		owns = 409
 		owns = 571
@@ -764,3 +767,18 @@ full_rhine = {
 	prestige = 0.01
 	icon = 9
 }
+
+##stuff for later
+#united_against_napoleon = {
+#	trigger = {
+#		OR = {
+#			tag = PRU
+#			tag = RUS
+#			tag = AUS
+#		}
+#	}
+#	tariff_efficiency_modifier = 0.01
+#	tax_efficiency = 0.05
+#	prestige = 0.01
+#	icon = 9
+#}

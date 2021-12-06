@@ -8,26 +8,15 @@ political_decisions = {
 		}
 		allow = {
 			owns = 699
-			war_policy = jingoism
-			706 = {
-				owner = {
-					truce_with = THIS
-				}
-			}
-			#owns = 706
+			war=no
+			state_n_government=1
+			is_greater_power=yes
+			PLC = {is_greater_power=no}
+			war_policy=jingoism
 		}
 		effect = {
 			set_country_flag = repartitioned_poland
-			PRU_701 = {
-				add_core = THIS
-			}
 			RUS_706 = {
-				add_core = THIS
-			}
-			719 = {
-				add_core = THIS
-			}
-			362 = {
 				add_core = THIS
 			}
 		}
@@ -45,9 +34,6 @@ political_decisions = {
 		}
 		effect = {
 			set_country_flag = greater_prussia
-			690 = {
-				add_core = THIS
-			}
 			687 = {
 				add_core = THIS
 			}
@@ -80,6 +66,36 @@ political_decisions = {
 		effect = {
 			DZG = { country_event = 181500 } 
 			set_country_flag = danzig_coup
+		}
+	}
+	declaration_an_mein_volk= {
+		picture = decision_volk_PRU
+		potential = {
+			tag = PRU
+			NOT = {has_country_flag = declaration_an_mein_volk}
+			#NOT = {
+			#	OR = {
+			#		NGF = exists
+			#		GER = exists
+			#		HRO = exists
+			#	}
+			#}
+		}
+		allow = {
+			state_n_government = 1
+			GER = {
+				any_core = {
+					owned_by = FRA
+				}
+			}
+		}
+		effect = {
+			prestige = 10
+			add_country_modifier = {
+				name = an_mein_volk
+				duration = 3650
+			}
+			set_country_flag = declaration_an_mein_volk
 		}
 	}
 }

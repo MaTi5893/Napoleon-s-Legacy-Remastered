@@ -2,5 +2,5 @@ owner = JAP
 controller = JAP
 add_core = JAP
 trade_goods = fish
-life_rating = 30
+life_rating = 35
 

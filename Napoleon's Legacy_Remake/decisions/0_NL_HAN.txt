@@ -29,47 +29,7 @@ political_decisions = {
 		allow = {
 			has_country_flag = united_westfalen
 			invention = national_fraternity
-			BAV = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
-						}
-					}
-				}
-			}
-			BAD = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
-						}
-					}
-				}
-			}
-			FRM = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
-						}
-					}
-				}
-			}
-			WUR = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
-						}
-					}
-				}
-			}
-			SAX = {
+			RHI = {
 				all_core = {
 					OR = {
 						owned_by = THIS
@@ -175,14 +135,27 @@ political_decisions = {
 					add_core = GCF
 				}
 			}
-			PRU = {
-				all_core = {
-					limit = {
-						owned_by = PRU
+			GCF = { 
+				all_core = { 
+					limit = { 
+							is_core = GER
+							owner = { 
+								OR = { 
+								tag = PRU
+								tag = PLC
+								tag = SWE
+								tag = DEN
+								tag = AUS
+								tag = KUK
+								tag = FRA
+								tag = DZG
+								}
+							}
 					}
-					remove_core = GCF
+				remove_core = GCF
 				}
 			}
+			
 			HAN = {
 				all_core = {
 					add_core = GCF
@@ -195,12 +168,21 @@ political_decisions = {
 				limit = {
 					is_culture_group = germanic
 					in_sphere = THIS
+					NOT = { tag = AUS tag = KUK }
+					OR = { 
+						AND = { 
+							tag = DZG
+							OR = { PRU = { in_sphere = THIS } GCF = { owns = 691 } }				
+						}
+						NOT = { tag = DZG } 
+					}	
 				}
 				annex_to = GCF
 			}
 			GCF = {
 				all_core = {
 					limit = {
+						NOT = { is_core = THIS } 
 						owned_by = THIS
 					}
 					secede_province = GCF

@@ -6,5 +6,4 @@ add_core = JAN
 add_core = NWE
 trade_goods = fish
 life_rating = 35
-terrain = arctic
 naval_base = 1

@@ -1,7 +1,8 @@
 owner = UPB
 controller = UPB
-add_core = INO add_core = UPB
-add_core = INO add_core = POR
+add_core = INO 
+add_core = UPB
+add_core = POR
 trade_goods = timber
 life_rating = 30
 colonial = 2

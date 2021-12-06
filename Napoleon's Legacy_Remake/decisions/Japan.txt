@@ -1,10 +1,10 @@
 political_decisions = {
-	britain_sphere_jap = {
+	france_sphere_jap = {
 		picture = anglo_jap_alliance
 		potential = {
 			tag = JAP
 			NOT = { has_country_flag = jap_sphere_chosen }
-			NOT = { has_country_flag = jap_asked_britain }
+			NOT = { has_country_flag = jap_asked_france }
 			NOT = { 
 				year = 1837
 			}
@@ -17,8 +17,8 @@ political_decisions = {
 		
 		effect = {
 			set_country_flag = jap_sphere_chosen
-			set_country_flag = jap_asked_britain
-			ENG = {
+			set_country_flag = jap_asked_france
+			FRA = {
 				country_event = 7770001
 			}
 		}
