@@ -518,7 +518,7 @@ acquire_core_state = {
 	
 	on_add = {
 		move_issue_percentage = { 
-			from = jingoism 
+			from = jingoism
 			to = pro_military
 			value = 0.25
 		}
@@ -3901,7 +3901,6 @@ acquire_state_for_puppet = {
 		}
 	}
 }
-
 #Acquire State Midgame For Puppet
 acquire_state_midgame_for_puppet = {
 	sprite_index = 6

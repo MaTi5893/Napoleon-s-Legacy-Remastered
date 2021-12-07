@@ -50,9 +50,12 @@ political_decisions = {
 			OR = {
 				tag = SWE
 				tag = SCA
+				tag = RUS
 			}
 			NOT = {accepted_culture = estonian}
 			NOT = {accepted_culture = Scotish}
+			NOT = {accepted_culture = byelorrusian}
+			NOT = {accepted_culture = ukrainian}
 		}
 		allow = {
 			war = no
