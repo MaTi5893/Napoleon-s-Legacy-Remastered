@@ -1043,13 +1043,10 @@ an_mein_volk = {
 	mobilisation_size = 0.02
 	mobilisation_economy_impact = -0.10
 	icon = 15
-<<<<<<< HEAD
 }
 
 cultural_unification = {
 	assimilation_rate = 1
 	population_growth = 0.001
 	icon = 17
-=======
->>>>>>> d491a42397cb65d7cd252cdeb8c5057759c08238
 }
