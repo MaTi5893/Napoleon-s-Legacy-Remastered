@@ -380,8 +380,9 @@ country_event = {
 country_event = {
 
 	id = 31508 #see PRU34610 and RUS32501 for parallel events
-
+	
 	trigger = {
+		NOT = { exists = PLC } 
 		OR = {
 			owns = 699 # Posen - PRU
 			owns = 706 # Warsaw - RUS
