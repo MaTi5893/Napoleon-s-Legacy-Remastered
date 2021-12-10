@@ -63,11 +63,11 @@ political_decisions = {
 				tag = PLC
 			}
 			NOT = {accepted_culture = czech}
-			UKR = {exists = yes}
 			NOT = {has_country_flag = annex_ukraine}
 			UKR = {vassal_of = THIS}
 		}
 		allow = {
+			war = no
 			UKR = {
 				all_core = {
 					owned_by = UKR
@@ -95,6 +95,7 @@ political_decisions = {
 			NOT = {has_country_flag = acceptance_of_ukraine}
 		}
 		allow = {
+			war = no
 			UKR = {
 				all_core = {
 					owned_by = THIS
@@ -119,6 +120,7 @@ political_decisions = {
 			NOT = {has_country_flag = acceptance_of_byelorus}
 		}
 		allow = {
+			war = no
 			BYE = {
 				all_core = {
 					owned_by = THIS
@@ -130,6 +132,21 @@ political_decisions = {
 			add_accepted_culture = byelorussian
 			prestige = 12
 			set_country_flag = acceptance_of_byelorus
+		}
+	}
+
+	give_ukraine_to_poland = {
+		potential = {
+			tag = RUS
+			UKR = {vassal_of = THIS}
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			prestige = -10
+			release_vassal = UKR
+			PLC = {create_vassal = UKR}
 		}
 	}
 }
