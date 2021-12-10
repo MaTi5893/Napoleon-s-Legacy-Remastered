@@ -64,8 +64,6 @@ repartition_poland_RUS_title;Repartition Lithuania;;;;;;;x
 repartition_poland_RUS_desc;We should repartition Lithuania again, they can't seem to govern themselves anyway;;;;;;;x
 conquer_finland_title;Conquer Finland;;;;;;;x
 conquer_finland_desc;Acquiring Finland is of vital use to us as it protects our exposed capital;;;;;;;x
-conquer_caucases_title;Conquer the Caucasus;;;;;;;x
-conquer_caucases_desc;The Caucasus is full of natural resources that are just waiting for us to use them!;;;;;;;x
 proclaim_second_empire_title;Coronation of Napoleon III;;;;;;;x
 give_up_the_cause_title;Give up the Cause;;;;;;;x
 give_up_the_cause_desc;We have failed to return to our original lands, perhaps we should establish a new Kingdom and begin a new journey to glory?;;;;;;;x
@@ -148,8 +146,8 @@ the_reconquest_of_quebec_title;The Reconquest of Quebec;;;;;;;x
 the_reconquest_of_quebec_desc;Quebec has, for many years, stayed under the control of the English. It is imperative that we take advantage of the current weak state of Canada - let Quebec, and the world, know that we are coming back for what is ours!;;;;;;;x
 reconquest_of_north_territory_title;Reconquest of Prussia !;;;;;;;x
 reconquest_of_north_territory_desc;We have reconquered the region of Prussia, a legitimate region of the Polish-Lithuanian Commonwealth!;;;;;;;x
-unite_poles1_title;The Polish Patriots of Śląsk;;;;;;;x
-unite_poles1_desc;We have saved the Poles from the Prussian imperialism in Śląsk!;;;;;;;x
+unite_poles1_title;The Polish Patriots of Slask;;;;;;;x
+unite_poles1_desc;We have saved the Poles from the Prussian imperialism in Slask!;;;;;;;x
 unite_poles2_title;Unite with the Galician Poles!;;;;;;;x
 unite_poles2_desc;East and West Galician Poles are finally united under the flag of the Polish-Lithuanian Commonwealth, they don't need to fear the Austrian black eagle!;;;;;;;x
 all_poles_united_title;All Poles are united ;;;;;;;x
@@ -226,3 +224,9 @@ form_iberia_UPB_title;Unite Iberia!;;;;;;;x
 form_iberia_UPB_desc;Now that we are united with Spain and that we have reclaimed the entire peninsula, we can finally claim the union of all Iberians under one flag!;;;;;;;x
 reclaim_austria_title;Reclaim Austrian Land !;;;;;;;x
 reclaim_austria_desc;We have reclaimed true austrian land that we lost to Bavaria due to Napoleon. Now, nobody can claim it again !;;;;;;;x
+annex_ukraine_title;Annex Ukraine !;;;;;;;x
+annex_ukraine_desc;After the revolt of 1820, the Ukrainian set themselves free. We are now integrating them to out glorious nation  !;;;;;;;x
+acceptance_of_ukraine_title;Acceptance of ukrainian !;;;;;;;x
+acceptance_of_ukraine_desc;We should give citizenship to the ukrainian people, they are now a part of our country and should be able to live as true citizen !;;;;;;;x
+acceptance_of_byelorus_title;Acceptance of byelorrusian !;;;;;;;x
+acceptance_of_byelorus_desc;We should give citizenship to the byelorussian people, they are now a part of our country and should be able to live as true citizen !;;;;;;;x

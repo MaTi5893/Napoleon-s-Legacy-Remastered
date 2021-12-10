@@ -1,6 +1,7 @@
 political_decisions = {
 	
 	form_poland = {
+		picture = decision_all_POL
 		picture = duchy_of_warsaw
 		potential = {
 			tag = CPL
@@ -51,6 +52,7 @@ political_decisions = {
 	}
 
 	reconquest_of_north_territory = {
+		picture = decision_prussia_POL
 		potential = {
 			OR = {
 				tag=PLC
@@ -75,6 +77,7 @@ political_decisions = {
 	}
 
 	unite_poles1 = {
+		picture = decision_all_POL
 		potential = {
 			OR = {
 				tag=PLC
@@ -88,7 +91,6 @@ political_decisions = {
 			owns = 683
 			owns = 684
 			owns = 685
-			state_n_government=1
 		}
 		effect = {
 			add_core =682
@@ -100,6 +102,7 @@ political_decisions = {
 		}
 	}
 	unite_poles2={
+		picture = decision_all_POL
 		potential = {
 			OR = {
 				tag=PLC
@@ -132,9 +135,13 @@ political_decisions = {
 		}
 	}
 	all_poles_united = {
+		picture = decision_all_POL
 		potential = {
 			tag=PLC
-			NOT = {accepted_culture=byelorussian}
+			NOT = {has_country_flag=all_poles_united}
+			has_country_flag = reconquest_of_north_territory
+			has_country_flag = unite_poles1
+			has_country_flag = unite_poles2
 		}
 		allow = {
 			POL = {
@@ -153,7 +160,21 @@ political_decisions = {
 				militancy=-2
 				consciousness=-2
 			}
-			add_accepted_culture = byelorussian
+			POL = {
+				all_core = {
+					add_province_modifier = {
+						name = cultural_unification
+						duration = 7300
+					}
+					remove_core = AUS
+					remove_core = GER
+					remove_core = NGF
+					remove_core = KUK
+					remove_core = PRU
+					remove_core = UKR
+				}
+			}
+			set_country_flag = all_poles_united
 		}
 	}
 }
