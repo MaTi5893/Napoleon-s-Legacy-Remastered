@@ -193,16 +193,18 @@ HRO_ADJ;Holy Roman;;;;;;;x
 HRO_prussian_constitutionalism;The Holy Roman Empire;;;;;;;x
 HRO_hms_government;The Holy Roman Empire;;;;;;;x
 HRO_absolute_monarchy;The Holy Roman Empire;;;;;;;
-HRE_conservative;German Minor Party;;;;;;;x
-HRE_conservative_2;Elector Party;;;;;;;x
-HRE_reactionary;Austrian Party;;;;;;;x
-HRE_monarchy;Holy Empire Union Party;;;;;;;x
-HRE_liberal;Liberal Party;;;;;;;x
-HRE_liberal_2;Merchantile Party;;;;;;;x
-HRE_liberal_3;Ruhr Party;;;;;;;x
-HRE_anarcho_liberal;Free Union of Electors;;;;;;;x
-HRE_socialist;HRE Socialist Party;;;;;;;x
-HRE_fascist;Great Germanic Party;;;;;;;x
-HRE_communist;Germanic Democratic Republic Party;;;;;;;x
-IBR;Iberia;;;;;;;;;;;;;x
-IBR_ADJ;Iberian;;;;;;;;;;;;;x
+HRO_conservative;German Minor Party;;;;;;;x
+HRO_conservative_2;Elector Party;;;;;;;x
+HRO_reactionary;Austrian Party;;;;;;;x
+HRO_monarchy;Holy Empire Union Party;;;;;;;x
+HRO_liberal;Liberal Party;;;;;;;x
+HRO_liberal_2;Merchantile Party;;;;;;;x
+HRO_liberal_3;Ruhr Party;;;;;;;x
+HRO_anarcho_liberal;Free Union of Electors;;;;;;;x
+HRO_socialist;HRE Socialist Party;;;;;;;x
+HRO_fascist;Great Germanic Party;;;;;;;x
+HRO_communist;Germanic Democratic Republic Party;;;;;;;x
+IBR;Iberia;;;;;;;x
+IBR_ADJ;Iberian;;;;;;;x
+BRG;Burgundy;;;;;;;x
+BRG_ADJ;Burgundian;;;;;;;x
