@@ -204,5 +204,7 @@ HRO_anarcho_liberal;Free Union of Electors;;;;;;;x
 HRO_socialist;HRE Socialist Party;;;;;;;x
 HRO_fascist;Great Germanic Party;;;;;;;x
 HRO_communist;Germanic Democratic Republic Party;;;;;;;x
-IBR;Iberia;;;;;;;;;;;;;x
-IBR_ADJ;Iberian;;;;;;;;;;;;;x
+IBR;Iberia;;;;;;;x
+IBR_ADJ;Iberian;;;;;;;x
+BRG;Burgundy;;;;;;;x
+BRG_ADJ;Burgundian;;;;;;;x
