@@ -11,6 +11,7 @@ God of Cheese: Made GoC PUIR, which IGoR was built on
 Icendoan: Made Icen PUIR, which GoC was built on 
 SighPie: appropriated HFM content may or may not be found in this mod :walterstuff:
 Sveera: Original creator of Napoleon's Legacy
+Bearabia: Creator of Columbia Divided, let me take a tag from him (https://discord.gg/YAE8C29W2n)
 
 
 
