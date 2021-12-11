@@ -31,6 +31,7 @@ political_decisions = {
 	}
 	
 	conquer_finland = {
+		picture = decision_finland
 		potential = {
 			tag = RUS
 			NOT = { has_country_flag = conquered_finland }
@@ -57,6 +58,7 @@ political_decisions = {
 		}
 	}
 	annex_ukraine = {
+		picture = decision_ukraine
 		potential = {
 			OR = {
 				tag = RUS
@@ -86,6 +88,7 @@ political_decisions = {
 	}
 
 	acceptance_of_ukraine = {
+		picture = decision_ukraine
 		potential = {
 			OR = {
 				tag = RUS
@@ -110,7 +113,8 @@ political_decisions = {
 		}
 	}
 	
-	acceptance_of_byelorus = {
+	acceptance_of_belarus = {
+		picture = decision_belarus
 		potential = {
 			OR = {
 				tag = RUS
@@ -136,6 +140,7 @@ political_decisions = {
 	}
 
 	give_ukraine_to_poland = {
+		picture = decision_ukraine
 		potential = {
 			tag = RUS
 			UKR = {vassal_of = THIS}
@@ -147,6 +152,18 @@ political_decisions = {
 			prestige = -10
 			release_vassal = UKR
 			PLC = {create_vassal = UKR}
+			UKR = {
+				all_core = {
+					limit = {
+						OR = {
+							owned_by = UKR
+							owned_by = PLC
+						}
+					}
+					remove_core = RUS
+					add_core = PLC
+				}
+			}
 		}
 	}
 }
