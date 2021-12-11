@@ -43,6 +43,7 @@ NWE    	= "countries/Norway-Empire.txt"
 HRO     = "countries/Holy-Roman-Empire.txt"
 IBR		= "countries/Iberia.txt"
 BRG		= "countries/Burgundy.txt"
+ADU		= "countries/Anglo-Dutch Union.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"
