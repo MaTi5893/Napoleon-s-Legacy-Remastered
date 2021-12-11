@@ -46,13 +46,17 @@ political_decisions = {
 		}
 	}
 	baltic_influence = {
+		picture = decision_baltic_acceptance
 		potential = {
 			OR = {
 				tag = SWE
 				tag = SCA
+				tag = RUS
 			}
 			NOT = {accepted_culture = estonian}
 			NOT = {accepted_culture = Scotish}
+			NOT = {accepted_culture = byelorussian}
+			NOT = {accepted_culture = ukrainian}
 		}
 		allow = {
 			war = no

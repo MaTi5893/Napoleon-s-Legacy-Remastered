@@ -518,7 +518,7 @@ acquire_core_state = {
 	
 	on_add = {
 		move_issue_percentage = { 
-			from = jingoism 
+			from = jingoism
 			to = pro_military
 			value = 0.25
 		}
@@ -1255,7 +1255,7 @@ liberate_country = {
 
 	badboy_factor = 1.3
 	prestige_factor = 1
-	peace_cost_factor = 2
+	peace_cost_factor = 1.2
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -1355,7 +1355,7 @@ liberate_country_midgame = {
 
 	badboy_factor = 1.3
 	prestige_factor = 1
-	peace_cost_factor = 1.35
+	peace_cost_factor = 1.1
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -3901,7 +3901,6 @@ acquire_state_for_puppet = {
 		}
 	}
 }
-
 #Acquire State Midgame For Puppet
 acquire_state_midgame_for_puppet = {
 	sprite_index = 6

@@ -4,3 +4,4 @@ add_core = CAN
 add_core = ENG
 trade_goods = fish
 life_rating = 25
+naval_base = 2

@@ -1,6 +1,7 @@
-owner = RUS
-controller = RUS
+owner = UKR
+controller = UKR
 add_core = RUS
+add_core = UKR
 add_core = MOL
 add_core = ROM
 trade_goods = fruit

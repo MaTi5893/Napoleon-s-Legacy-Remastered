@@ -1,6 +1,6 @@
 political_decisions = {
 	repartition_poland_RUS = {
-		picture = duchy_of_lit
+		picture = duchy_of_warsaw
 		potential = {
 			tag = RUS
 			NOT = { has_country_flag = repartition_poland_RUS }
@@ -31,16 +31,20 @@ political_decisions = {
 	}
 	
 	conquer_finland = {
+		picture = decision_finland
 		potential = {
 			tag = RUS
 			NOT = { has_country_flag = conquered_finland }
+			NOT = {accepted_culture = ukrainian}
+			NOT = {accepted_culture = byelorussian}
 		}
 		allow = {
-			owns = 345
-			owns = 337
-			owns = 958
-			war_policy = jingoism
-			is_greater_power = yes
+			FIN = {
+				all_core = {
+					owned_by = RUS
+				}
+			}
+			state_n_government = 1
 		}
 		effect = {
 			FIN = {
@@ -48,31 +52,118 @@ political_decisions = {
 					add_core = THIS
 				}
 			}
-			362 = { remove_core = THIS }
+			prestige = 5
+			add_accepted_culture = finnish
 			set_country_flag = conquered_finland
 		}
 	}
-	
-	conquer_caucases = {
+	annex_ukraine = {
+		picture = decision_ukraine
 		potential = {
-			tag = RUS
-			NOT = { has_country_flag = conquered_caucases }
+			OR = {
+				tag = RUS
+				tag = PLC
+			}
+			NOT = {accepted_culture = czech}
+			NOT = {has_country_flag = annex_ukraine}
+			UKR = {vassal_of = THIS}
 		}
 		allow = {
-			invention = national_fraternity
-			war_policy = jingoism
+			war = no
+			UKR = {
+				all_core = {
+					owned_by = UKR
+				}
+			}
+			nationalism_n_imperialism=1
 		}
 		effect = {
-			RUS_1090 = {
-				add_core = THIS
+			prestige = 7
+			UKR = {
+				all_core = {add_core = THIS}
 			}
-			RUS_1098 = {
-				add_core = THIS
+			UKR = {annex_to = THIS}
+			set_country_flag = annex_ukraine
+		}
+	}
+
+	acceptance_of_ukraine = {
+		picture = decision_ukraine
+		potential = {
+			OR = {
+				tag = RUS
+				tag = PLC
 			}
-			RUS_1102 = {
-				add_core = THIS
+			NOT = {accepted_culture = czech}
+			NOT = {has_country_flag = acceptance_of_ukraine}
+		}
+		allow = {
+			war = no
+			UKR = {
+				all_core = {
+					owned_by = THIS
+				} 
 			}
-			set_country_flag = conquered_caucases
+			revolution_n_counterrevolution=1
+		}
+		effect = {
+			add_accepted_culture = ukrainian
+			prestige = 12
+			set_country_flag = acceptance_of_ukraine
+		}
+	}
+	
+	acceptance_of_belarus = {
+		picture = decision_belarus
+		potential = {
+			OR = {
+				tag = RUS
+				tag = PLC
+			}
+			NOT = {accepted_culture = czech}
+			NOT = {has_country_flag = acceptance_of_byelorus}
+		}
+		allow = {
+			war = no
+			BYE = {
+				all_core = {
+					owned_by = THIS
+				} 
+			}
+			nationalism_n_imperialism=1
+		}
+		effect = {
+			add_accepted_culture = byelorussian
+			prestige = 12
+			set_country_flag = acceptance_of_byelorus
+		}
+	}
+
+	give_ukraine_to_poland = {
+		picture = decision_ukraine
+		potential = {
+			tag = RUS
+			UKR = {vassal_of = THIS}
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			prestige = -10
+			release_vassal = UKR
+			PLC = {create_vassal = UKR}
+			UKR = {
+				all_core = {
+					limit = {
+						OR = {
+							owned_by = UKR
+							owned_by = PLC
+						}
+					}
+					remove_core = RUS
+					add_core = PLC
+				}
+			}
 		}
 	}
 }

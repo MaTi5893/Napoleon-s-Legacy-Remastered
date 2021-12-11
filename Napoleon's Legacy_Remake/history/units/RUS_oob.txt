@@ -6,6 +6,13 @@ SWE = {
 	value = -100 	
 }
 
+UKR = {
+
+	value = 150
+	level = 5
+	influence_value = 50
+}
+
 SER = {
 	
 	value = 125
@@ -327,19 +334,19 @@ army = {
 	regiment = {
 		name= "4.1-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = infantry
-		home = 978
+		home = 1035
 	}
 
 	regiment = {
 		name= "1.2-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = infantry
-		home = 1008
+		home = 948
 	}
 
 	regiment = {
 		name= "2.2-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = artillery
-		home = 968
+		home = 1051
 	}
 
 	regiment = {
@@ -363,7 +370,7 @@ army = {
 	regiment = {
 		name= "3.Azov Cossacks"
 		type = artillery
-		home = 979
+		home = 1008
 	}
 }
 
@@ -379,19 +386,19 @@ army = {
 	regiment = {
 		name= "2.1-ya Grenaderskaya Diviziya"
 		type = infantry
-		home = 979
+		home = 948
 	}
 
 	regiment = {
 		name= "3.1-ya Grenaderskaya Diviziya"
 		type = infantry
-		home = 962
+		home = 945
 	}
 
 	regiment = {
 		name= "1.2-ya Grenaderskaya Diviziya"
 		type = infantry
-		home = 980
+		home = 977
 	}
 
 	regiment = {
@@ -470,7 +477,7 @@ army = {
 	regiment = {
 		name= "1.3-ya Pekhotnaya Diviziya"
 		type = artillery
-		home = 963
+		home = 1025
 	}
 
 	regiment = {
@@ -488,7 +495,7 @@ army = {
 	regiment = {
 		name= "3.3-ya Pekhotnaya Diviziya"
 		type = artillery
-		home = 945
+		home = 1056
 	}
 
 	regiment = {
@@ -535,7 +542,7 @@ army = {
 	regiment = {
 		name= "3.3-ya Kavalerijskaya Diviziya"
 		type = artillery
-		home = 964
+		home = 1090
 	}
 
 	regiment = {
@@ -685,8 +692,8 @@ army = {
 	}
 	
 	regiment = {
-		name = "3.7-ya Pekhotnaya Diviziya"
-		home = 969
+		name = "3.8-ya Pekhotnaya Diviziya"
+		home = 1029
 		type = artillery
 	}
 }
