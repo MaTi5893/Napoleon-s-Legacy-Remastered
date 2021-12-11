@@ -26,9 +26,18 @@ political_decisions = {
 		potential = {
 			tag = ENG
 			NOT = { has_country_flag = protect_the_natives }
+			NOT = { has_country_flag = ENG_ran_away } #not implemented yet, if canada runs to asia then this can't be done
 		}
 		allow = {
 			war = no
+			ENG = { 
+				all_core = { 
+					OR = { 
+						owned_by = THIS  
+						NOT = { continent = north_america }		
+					} 
+				}
+			}
 			ICF = {
 				exists = yes
 				all_core = {
@@ -152,6 +161,14 @@ political_decisions = {
 		potential = {
 			tag=ENG
 			NOT = {accepted_culture = Scotish}
+			OR = { 
+				owns=267
+				owns=268
+				owns=269
+				owns=270
+				owns=271
+				owns=272
+			}
 		}
 		allow = {
 			owns=267

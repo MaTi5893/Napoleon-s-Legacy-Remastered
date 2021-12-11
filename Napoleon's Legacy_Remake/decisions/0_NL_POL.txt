@@ -2,7 +2,6 @@ political_decisions = {
 	
 	form_poland = {
 		picture = decision_all_POL
-		picture = duchy_of_warsaw
 		potential = {
 			tag = CPL
 			POL = { exists = no }
