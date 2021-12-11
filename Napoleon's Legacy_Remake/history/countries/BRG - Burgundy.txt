@@ -48,9 +48,7 @@ no_standard = 1
 early_classical_theory_and_critique = 1
 freedom_of_trade = 1
 guild_based_production = 1
-piston_steam_engine = 1
 mechanical_production = 1
-hot_blast = 1
 basic_chemistry = 1
 
 ruling_party = FRA_reactionary
@@ -60,33 +58,9 @@ upper_house =
     liberal = 8
     conservative = 86
     reactionary = 6
-    radical = 0
+    anarcho_liberal = 0
     socialist = 0
     communist = 0
 }
 
-# Starting Consciousness
-consciousness = 2
-nonstate_consciousness= 0.14
 
-# Technologies
-basic_chemistry = 1
-bronze_muzzle_loaded_artillery = 1
-classicism_n_early_romanticism = 1
-early_classical_theory_and_critique = 1
-enlightenment_thought = 1
-flintlock_rifles = 1
-freedom_of_trade = 1
-guild_based_production = 1
-late_enlightenment_philosophy = 1
-malthusian_thought = 1
-mechanized_mining = 1
-no_standard = 1
-post_napoleonic_thought = 1
-post_nelsonian_thought = 1
-practical_steam_engine = 1
-private_banks = 1
-publishing_industry = 1
-water_wheel_power = 1
-prestige=9.85577
-oob = "BRG_OOB.txt"
