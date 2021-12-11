@@ -435,11 +435,11 @@ army = {
 		home = 1421
 	}
 	regiment = { 
-		name = "5th Indonesian Artillery
+		name = "5th Indonesian Artillery"
 		type = artillery
 		home = 1420
+	}
 }
-
 navy = {
 	name = "Channel Fleet"
 	location = 71
