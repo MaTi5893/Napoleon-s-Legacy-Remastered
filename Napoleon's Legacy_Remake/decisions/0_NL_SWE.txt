@@ -46,6 +46,7 @@ political_decisions = {
 		}
 	}
 	baltic_influence = {
+		picture = decision_baltic_acceptance
 		potential = {
 			OR = {
 				tag = SWE
