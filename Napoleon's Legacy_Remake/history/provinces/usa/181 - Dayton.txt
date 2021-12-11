@@ -1,5 +1,5 @@
 owner = ICF
-controller = USA
+controller = ICF
 add_core = ICF
 add_core = USA
 trade_goods = grain

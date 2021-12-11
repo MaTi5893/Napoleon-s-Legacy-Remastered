@@ -27,6 +27,46 @@ political_decisions = {
 		}
 	}
 
+	form_burgundy =  { 
+		picture = burgundy
+		potential = { 
+			tag = NET 
+		}
+		allow = { 
+			PRU_575 = { owned_by = THIS } 
+			PRU_572 = { owned_by = THIS } 
+			NET_385 = { owned_by = THIS } 
+			NET_386 = { owned_by = THIS } 
+			NET_379	= { owned_by = THIS } 
+			BEL_390 = { owned_by = THIS } 
+			BEL_394 = { owned_by = THIS } 
+			BEL_395 = { owned_by = THIS } 
+			BEL_387 = { owned_by = THIS }
+			FRA_412 = { owned_by = THIS } 
+			FRA_411 = { owned_by = THIS } 
+			FRA_428 = { owned_by = THIS } 
+			nationalism_n_imperialism = 1 
+		}
+		effect = {
+			change_tag = BRG
+			PRU_575 = { add_core = THIS } 
+			PRU_572 = { add_core = THIS }
+			NET_385 = { add_core = THIS }
+			NET_386 = { add_core = THIS }
+			NET_379 = { add_core = THIS }
+			BEL_390 = { add_core = THIS }
+			BEL_394 = { add_core = THIS }
+			BEL_395 = { add_core = THIS }
+			BEL_387 = { add_core = THIS }
+			FRA_412 = { add_core = THIS }
+			FRA_411 = { add_core = THIS }
+			FRA_428 = { add_core = THIS }
+			add_accepted_culture = french
+			add_accepted_culture = wallonian
+		}
+	}
+
+
 	unite_indonesia = {
         potential = {
             tag = NET

@@ -246,45 +246,6 @@ navy = {
 }
 
 navy = {
-	name = "Koninklijke NI Marine"
-	location = 1413 #Batavia
-	ship = {
-		name= "Admiraal de Ruyter"
-		type = manowar
-	}
-
-	ship = {
-		name= "Verwachting"
-		type = manowar
-	}
-
-	ship = {
-		name= "Aurora"
-		type = frigate
-	}
-
-	ship = {
-		name= "Iris"
-		type = frigate
-	}
-
-	ship = {
-		name= "Fenix"
-		type = frigate
-	}
-
-	ship = {
-		name= "Eendracht"
-		type = frigate
-	}
-
-	ship = {
-		name= "2e Transport Eskader"
-		type = clipper_transport
-	}
-}
-
-navy = {
 	name = "Koninklijke WI Marine"
 	location = 2234 #Curacao
 

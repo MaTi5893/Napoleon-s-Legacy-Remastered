@@ -73,6 +73,8 @@ political_decisions = {
 			primary_culture = portuguese
 			add_accepted_culture = spanish
 			remove_accepted_culture = brazilian
+			add_accepted_culture = basque
+			add_accepted_culture = catalan
 		}
 	}
 }

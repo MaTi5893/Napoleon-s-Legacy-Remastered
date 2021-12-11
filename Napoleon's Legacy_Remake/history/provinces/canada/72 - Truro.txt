@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = USA
+controller = USA
 add_core = CAN
 add_core = ENG
 trade_goods = timber

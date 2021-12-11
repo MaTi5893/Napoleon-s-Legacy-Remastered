@@ -14,10 +14,8 @@ NET = {
 	value = -100
 		#relation
 
-	level = 4
+	level = 2
 		#3=cordial, 4 = friendly, 5 sphere
-
-	influence_value = 25
 
 }
 
@@ -388,7 +386,60 @@ army = {
 	}
 }
 
-
+army = { 
+	name = "The Indonesia Garrison"
+	location = 1413
+	regiment = { 
+		name = "1st Indonesian Infantry"
+		type = infantry
+		home = 1403
+	}
+	regiment = { 
+		name = "2nd Indonesian Infantry"
+		type = infantry
+		home = 1413
+	}
+	regiment = { 
+		name = "3rd Indonesian Infantry"
+		type = infantry
+		home = 1414
+	}
+	regiment = { 
+		name = "4th Indonesian Infantry"
+		type = infantry
+		home = 3254
+	}
+	regiment = { 
+		name = "1st Indonesian Hussars"
+		type = hussar
+		home = 1416
+	}
+	regiment = { 
+		name = "1st Indonesian Artillery"
+		type = artillery
+		home = 1415
+	}
+	regiment = { 
+		name = "2nd Indonesian Artillery"
+		type = artillery
+		home = 1417
+	}
+	regiment = { 
+		name = "3rd Indonesian Artillery"
+		type = artillery
+		home = 1418
+	}
+	regiment = { 
+		name = "4th Indonesian Artillery"
+		type = artillery
+		home = 1421
+	}
+	regiment = { 
+		name = "5th Indonesian Artillery"
+		type = artillery
+		home = 1420
+	}
+}
 navy = {
 	name = "Channel Fleet"
 	location = 71

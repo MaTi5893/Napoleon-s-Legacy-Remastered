@@ -1,5 +1,5 @@
-owner = NET
-controller = NET
+owner = ENG
+controller = ENG
 add_core = INO
 trade_goods = fish
 life_rating = 30
