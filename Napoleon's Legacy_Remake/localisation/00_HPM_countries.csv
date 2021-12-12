@@ -666,11 +666,6 @@ SLW_ADJ;Sulawesian;;;;;;;x
 SLW_absolute_monarchy;Bone Sultanate;;;;;;;x
 SLW_prussian_constitutionalism;Bone Sultanate;;;;;;;x
 SLW_hms_government;Bone Sultanate;;;;;;;x
-SPC;Spain;;;;;;;x
-SPC_absolute_monarchy;The Kingdom of Spain;;;;;;;x
-SPC_prussian_constitutionalism;The Kingdom of Spain;;;;;;;x
-SPC_hms_government;The Kingdom of Spain;;;;;;;x
-SPC_ADJ;Spanish;;;;;;;x
 SUL;Sulu;;;;;;;x
 SUL_ADJ;Sulu;;;;;;;x
 SUL_conservative;Conservatist Faction;;;;;;;x
@@ -695,20 +690,6 @@ SIE;Transylvania;;;;;;;x
 SIE_ADJ;Transylvanian;;;;;;;x
 SXI;Shanxi;Clique de Shanxi;Shanxi-Clique;;;;;;;x
 SXI_presidential_dictatorship;Shanxi Clique;Clique de Shanxi;Shanxi-Clique;;;;;;;x
-TPG;Heavenly Kingdom;;;;;;;x
-TPG_democracy;Taiping Republic;;;;;;;x
-TPG_bourgeois_dictatorship;Taiping Republic;;;;;;;x
-TPG_proletarian_dictatorship;Communist Taiping;;;;;;;x
-TPG_fascist_dictatorship;Taiping;;;;;;;x
-TPG_presidential_dictatorship;Taiping Clique;;;;;;;x
-TPG_ADJ;Taiping;;;;;;;x
-TPG_conservative;West King;;;;;;;x
-TPG_liberal;Yi King;;;;;;;x
-TPG_reactionary;East King;;;;;;;x
-TPG_socialist;North King;;;;;;;x
-TPG_anarcho_liberal;The Radical Faction;;;;;;;x
-TPG_communist;The Communist Faction;;;;;;;x
-TPG_fascist;The Fascist Faction;;;;;;;x
 TRE_reactionary;Monarchici;Monarchici;Monarchici;;Monarchici;;;;;;;x
 TRE_liberal;Intransigenti;Intransigenti;Intransige nti;;Intransigenti;;;;;;;x
 TRE_conservative;Transigenti;Transigenti;Transigen ti;;Transigenti;;;;;;;x
@@ -804,7 +785,6 @@ XBI_conservative_2;Amban Faction;;;;;;;x
 XBI_liberal_2;Reformer Faction;;;;;;;x
 XIN_presidential_dictatorship;Xinjiang Clique;Clique de Xinjiang;Xinjiang-Clique;;;;;;;x
 YNN_presidential_dictatorship;Yunnan Clique;Clique de Yunnan;Yunnan-Clique;;;;;;;x
-### African Kingdoms ###;;;;;;;x
 DEN_absolute_monarchy;Denmark-Norway;;;;;;;x
 DEN_prussian_constitutionalism;Denmark-Norway;;;;;;;x
 DEN_hms_government;Denmark-Norway;;;;;;;x
