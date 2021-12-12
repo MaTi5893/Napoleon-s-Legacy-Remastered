@@ -149,6 +149,7 @@ political_decisions = {
 			prestige = -10
 			release_vassal = UKR
 			PLC = {create_vassal = UKR}
+			PLC = { country_event = 181503 }
 			UKR = {
 				all_core = {
 					limit = {
@@ -162,44 +163,6 @@ political_decisions = {
 				}
 			}
 		}
-		ai_chance = {
-			factor = 0.5
-            modifier = {
-                factor = 0.25
-                relation = { who = PLC value = 50 }
-            }
-            modifier = {
-                factor = 0.5
-                relation = { who = PLC value = 100 }
-            }
-            modifier = {
-                factor = 0.75
-                relation = { who = PLC value = 150 }
-            }
-            modifier = {
-                factor = 1
-                relation = { who = PLC value = 200 }
-            }
-			modifier = {
-                factor = 0
-                relation = { who = PLC value = 0 }
-            }
-			modifier = {
-                factor = -0.25
-                relation = { who = PLC value = -50 }
-            }
-            modifier = {
-                factor = -0.5
-                relation = { who = PLC value = -100 }
-            }
-            modifier = {
-                factor = -0.75
-                relation = { who = PLC value = -150 }
-            }
-            modifier = {
-                factor = -1
-                relation = { who = PLC value = -200 }
-            }
-		}
+		ai_will_do = { factor = 0 }
 	}
 }
