@@ -261,24 +261,14 @@ NORMAL_WAR_ALL_CORES_NAME_USA_MEX;$ORDER$Mexican-American War;;;;;;;x
 AGRESSION_WAR_UNIFICATION_NAME;$ORDER$$FIRST$ Liberation of $STATE$;;;;;;;x
 NORMAL_WAR_UNIFICATION_NAME;$ORDER$$FIRST$ Liberation of $STATE$;;;;;;;x
 AGRESSION_CIVIL_WAR_NAME;$ORDER$$FIRST$ Civil War;$ORDER$guerre civile $FIRST$;$ORDER$$FIRST$ Bürgerkrieg;;;;;;;x
-AGRESSION_CIVIL_WAR_NAME_QNG_TPG;$ORDER$Taiping Rebellion;;;;;;;x
 NORMAL_CIVIL_WAR_NAME;$ORDER$$FIRST$ Civil War;$ORDER$guerre civile $FIRST$;$ORDER$$FIRST$ Bürgerkrieg;;;;;;;x
-NORMAL_CIVIL_WAR_NAME_USA_FSA;$ORDER$American Civil War;$ORDER$guerre de rébellion;$ORDER$Rebellionskrieg;;;;;;;x
 NORMAL_CIVIL_WAR_NAME_NEJ_HAL;$ORDER$War of Arabian Domination;;;;;;;x
 NORMAL_CIVIL_WAR_NAME_HAL_NEJ;$ORDER$War of Arabian Domination;;;;;;;x
-NORMAL_CIVIL_WAR_NAME_QNG_TPG;$ORDER$Taiping Rebellion;;;;;;;x
 AGRESSION_WAR_UNIFICATION_ANNEX_NAME;$ORDER$$FIRST$ Liberation of $SECOND_COUNTRY$;;;;;;;x
 NORMAL_WAR_UNIFICATION_ANNEX_NAME;$ORDER$$FIRST$ Liberation of $SECOND_COUNTRY$;;;;;;;x
 AGRESSION_WAR_RESTORE_ORDER_NAME;$ORDER$$FIRST$ Restoration of Order to the $SECOND$ provinces;;;;;;;x
 AGRESSION_WAR_RESTORE_ORDER_NAME_ARG_ENT;$ORDER$Platine War;;;;;;;x
 NORMAL_WAR_RESTORE_ORDER_NAME;$ORDER$$FIRST$ Restoration of Order to the $SECOND$ provinces;;;;;;;x
-NORMAL_WAR_RESTORE_ORDER_NAME_SHW_GON;Zemene Mesafint;;;;;;;x
-NORMAL_WAR_RESTORE_ORDER_NAME_SHW_TIG;Zemene Mesafint;;;;;;;x
-NORMAL_WAR_RESTORE_ORDER_NAME_GON_SHW;Zemene Mesafint;;;;;;;x
-NORMAL_WAR_RESTORE_ORDER_NAME_GON_TIG;Zemene Mesafint;;;;;;;x
-NORMAL_WAR_RESTORE_ORDER_NAME_TIG_SHW;Zemene Mesafint;;;;;;;x
-NORMAL_WAR_RESTORE_ORDER_NAME_TIG_GON;Zemene Mesafint;;;;;;;x
-NORMAL_WAR_RESTORE_ORDER_NAME_ARG_ENT;$ORDER$Platine War;;;;;;;x
 AGRESSION_WAR_ADD_SPHERE_NAME;$ORDER$War of $SECOND$ Subjugation;$ORDER$guerre de la subjugation $SECOND$;$ORDER$Krieg der $SECOND$ Unterjochung;;;;;;;x
 NORMAL_WAR_ADD_SPHERE_NAME;$ORDER$War of $SECOND$ Submission;$ORDER$guerre de la soumission $SECOND$;$ORDER$Krieg der $SECOND$ Unterwerfung;;;;;;;x
 AGRESSION_UNIFICATION_HUMILIATE_NAME;The $FIRST$-$SECOND$ Brother's War;$FIRST$-$SECOND$ guerre fraternelle ;Der $FIRST$-$SECOND$ Bruderkrieg;;;;;;;x

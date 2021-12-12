@@ -1,48 +1,4 @@
 political_decisions = {
-	#ems_dispatch = {
-	#	potential = {
-	#		NOT = {
-	#			has_country_flag = ems_dispatch_sent
-	#		}
-	#		OR = {
-	#			tag = PRU
-	#			tag = NGF
-	#		}
-	#		exists = FRA
-	#		government = absolute_monarchy
-	#		owns = 570
-	#	}
-	#	
-	#	allow = {
-	#		prestige = 30
-	#		steel_breech_loaded_artillery = 1
-	#		NOT = {
-	#			relation = {
-	#				who = FRA
-	#				value = 0
-	#			}
-	#		}
-	#	}
-	#	
-	#	effect = {
-	#		prestige = 5
-	#		FRA = {
-	#			country_event = { id=19200 days=0 }
-	#		}
-	#		set_country_flag = ems_dispatch_sent
-	#	}
-	#	
-	#	ai_will_do = {
-	#		factor = 1
-	#		modifier = {
-	#			factor = 0
-	#			NOT = {
-	#				war_exhaustion = 1
-	#			}
-	#		}
-	#	}
-	#}
-	
 	construct_germania_werft = {
 		potential = {
 			NOT = {
@@ -107,36 +63,6 @@ political_decisions = {
 			prestige = 5
 		}
 	}	
-	
-	#die_wacht_am_rhein = {
-	#	potential = {
-	#		OR = {
-	#			tag = GER
-	#			tag = NGF
-	#			tag = PRU
-	#		}
-	#		exists = FRA
-	#		FRA = {
-	#			has_country_flag = crisis_on_the_rhine
-	#		}
-	#		NOT = {
-	#			has_country_flag = watching_the_rhine
-	#		}
-	#	}
-	#	allow = {
-	#		NOT = {
-	#			relation = {
-	#				who = FRA
-	#				value = -50
-	#			}
-	#		}
-	#	}
-	#	effect = {
-	#		prestige = 5
-	#		badboy = -1
-	#		set_country_flag = watching_the_rhine
-	#	}
-	#}
 	
 	niederwald_denkmal = {
 		potential = {

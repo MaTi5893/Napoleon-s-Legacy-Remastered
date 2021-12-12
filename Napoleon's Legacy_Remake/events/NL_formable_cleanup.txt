@@ -5,7 +5,6 @@ country_event = { #removes german minor cores when Germany forms
 			desc = "EVT999900DESC"
 				trigger = {
 						tag = GER 
-						has_country_flag = restored_rhineland
 						all_core = { OR = { province_id = 533 owned_by =  THIS } }
 				}
 				option = { 
