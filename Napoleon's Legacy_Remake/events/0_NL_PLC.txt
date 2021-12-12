@@ -1,0 +1,11 @@
+country_event = {
+	id = 181503
+	title = "EVTNAME181503"
+	desc = "EVTDESC181503"
+	picture = "Celebration"
+	is_triggered_only = yes
+
+	option = { 
+		name = "EVTOPTA181503"
+	}
+}
