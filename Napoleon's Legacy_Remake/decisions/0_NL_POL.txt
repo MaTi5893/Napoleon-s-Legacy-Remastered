@@ -139,10 +139,14 @@ political_decisions = {
 	all_poles_united = {
 		picture = decision_all_POL
 		potential = {
+<<<<<<< HEAD
 			OR = {
 				tag=PLC
 				tag =ZAC
 			}
+=======
+			tag=PLC
+>>>>>>> de07d4b92ad0f395752f2e5d59e5834c6c334d49
 			NOT = {has_country_flag=all_poles_united}
 			has_country_flag = reconquest_of_north_territory
 			has_country_flag = unite_poles1

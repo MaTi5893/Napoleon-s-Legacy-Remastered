@@ -167,20 +167,8 @@ political_decisions = {
 			add_core = 527
 			add_core = 2134
 			add_core = 2135
-			SPA_474 = { add_core = THIS }
-			SPA_477 = { add_core = THIS }
-			SPA_492 = { add_core = THIS }
-			SPA_498 = { add_core = THIS }
-			SPA_503 = { add_core = THIS }
-			SPA_487 = { add_core = THIS }
-			SPA_513 = { add_core = THIS }
-			SPA_512 = { add_core = THIS }
-			517 = { add_core = THIS }
+			change_tag = IBR
 			add_accepted_culture = portuguese
-			add_accepted_culture = spanish
-			remove_accepted_culture = brazilian
-			add_accepted_culture = basque
-			add_accepted_culture = catalan
 		}
 	}
 	expand_citizenship1 = {
