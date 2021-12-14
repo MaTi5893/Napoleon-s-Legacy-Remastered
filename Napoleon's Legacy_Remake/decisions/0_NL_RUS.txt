@@ -6,8 +6,21 @@ political_decisions = {
 			NOT = { has_country_flag = repartition_poland_RUS }
 		}
 		allow = {
-			owns = 718
-			war_policy = jingoism
+			LIT = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			owns = 719
+			owns = 957
+			owns = 956
+			owns = 955
+			owns = 959
+			owns = 960
+			owns = 954
+			owns = 961
+			owns = 958
+			owns = 961
 		}
 		effect = {
 			LIT = {
@@ -15,7 +28,7 @@ political_decisions = {
 					add_core = THIS
 				}
 			}
-			362 = { remove_core = THIS }
+			add_core = 719
 			add_core = 957
 			add_core = 956
 			add_core = 955
@@ -24,8 +37,7 @@ political_decisions = {
 			add_core = 954
 			add_core = 961
 			add_core = 958
-			add_core = 354
-			badboy = 10
+			add_core = 961
 			set_country_flag = repartition_poland_RUS
 		}
 	}
@@ -34,9 +46,12 @@ political_decisions = {
 		picture = decision_finland
 		potential = {
 			tag = RUS
-			NOT = { has_country_flag = conquered_finland }
-			NOT = {accepted_culture = ukrainian}
+			NOT = {accepted_culture = finnish}
 			NOT = {accepted_culture = byelorussian}
+			NOT = {accepted_culture = ukrainian}
+			NOT = {accepted_culture = estonian}
+			NOT = {accepted_culture = tatar}
+			NOT = {accepted_culture = turkic}
 		}
 		allow = {
 			FIN = {
@@ -54,7 +69,6 @@ political_decisions = {
 			}
 			prestige = 5
 			add_accepted_culture = finnish
-			set_country_flag = conquered_finland
 		}
 	}
 	annex_ukraine = {
@@ -93,7 +107,11 @@ political_decisions = {
 				tag = RUS
 				tag = PLC
 			}
-			NOT = {has_country_flag = acceptance_of_ukraine}
+			NOT = {has_country_flag = ukrainian}
+			NOT = {accepted_culture = finnish}
+			NOT = {accepted_culture = byelorussian}
+			NOT = {accepted_culture = tatar}
+			NOT = {accepted_culture = azerbaijani}
 		}
 		allow = {
 			war = no
@@ -107,7 +125,6 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = ukrainian
 			prestige = 12
-			set_country_flag = acceptance_of_ukraine
 		}
 	}
 	
@@ -118,7 +135,11 @@ political_decisions = {
 				tag = RUS
 				tag = PLC
 			}
-			NOT = {has_country_flag = acceptance_of_byelorus}
+			NOT = {has_country_flag = byelorussian}
+			NOT = {accepted_culture = finnish}
+			NOT = {accepted_culture = estonian}
+			NOT = {accepted_culture = tatar}
+			NOT = {accepted_culture = azerbaijani}
 		}
 		allow = {
 			war = no
@@ -132,7 +153,6 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = byelorussian
 			prestige = 12
-			set_country_flag = acceptance_of_byelorus
 		}
 	}
 
@@ -164,5 +184,131 @@ political_decisions = {
 			}
 		}
 		ai_will_do = { factor = 0 }
+	}
+	acceptance_of_steppe1 = {
+		picture = hordes_decision
+		potential = {
+			tag = RUS
+			NOT = {accepted_culture = finnish}
+			NOT = {accepted_culture = byelorussian}
+			NOT = {accepted_culture = ukrainian}
+			NOT = {accepted_culture = estonian}
+			NOT = {accepted_culture = azerbaijani}
+		}
+		allow = {
+			state_n_government = 1
+			is_greater_power=yes
+			war = no
+			owns = 1108
+			owns = 1102
+			owns = 967
+		}
+		effect = {
+			add_accepted_culture = tatar
+			add_accepted_culture = north_caucasian
+			add_accepted_culture = azerbaijani
+			prestige = 4
+		}
+	}
+	acceptance_of_steppe2 = {
+		picture = hordes_decision
+		potential = {
+			tag = RUS
+			NOT = {accepted_culture = byelorussian}
+			NOT = {accepted_culture = ukrainian}
+			NOT = {accepted_culture = turkic}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+			is_greater_power=yes
+			war = no
+			BUN = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			KHI = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			KOK = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+		}
+		effect = {
+			add_accepted_culture = turkic
+			prestige = 4
+			BUN = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			KHI = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			KOK = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+		}
+	}
+	southern_expansion = {
+		picture = persian_decision.png
+		potential = {
+			tag = RUS
+			NOT = {accepted_culture = finnish}
+			NOT = {accepted_culture = byelorussian}
+			NOT = {accepted_culture = ukrainian}
+			NOT = {accepted_culture = estonian}
+			NOT = {accepted_culture = tatar}
+			NOT = {accepted_culture = azerbaijani}
+			accepted_culture = turkic
+		}
+		allow = {
+			revolution_n_counterrevolution = 1
+			is_greater_power=yes
+			war = no
+			PER = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			AZB = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+		}
+		effect = {
+			PER = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			AZB = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			KAL = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			MAK = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			add_accepted_culture = aryan
+			add_accepted_culture = azerbaijani
+			prestige = 4
+		}
 	}
 }

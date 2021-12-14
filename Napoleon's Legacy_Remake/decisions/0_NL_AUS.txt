@@ -1,27 +1,4 @@
 political_decisions = {
-	#get_back_our_eastern_claim = {
-	#	potential = {
-	#		tag = KUK
-	#		NOT = { has_country_flag = get_back_our_eastern_claim }
-	#	}
-	#	allow = {
-	#		state_n_government = 1
-	#		is_greater_power = yes
-	#		war_policy = jingoism
-	#	}
-	#	effect = {
-	#		704 = { add_core = THIS }
-	#		2584 = { add_core = THIS }
-	#		714 = { add_core = THIS }
-	#		705 = { add_core = THIS }
-	#		951 = { add_core = THIS }
-	#		702 = { add_core = THIS }
-	#		952 = { add_core = THIS }
-	#		953 = { add_core = THIS }
-	#		badboy=7
-	#		set_country_flag = get_back_our_eastern_claim
-	#	}
-	#}
 	finish_poland_partition = {
 		picture = duchy_of_warsaw
 		potential = {

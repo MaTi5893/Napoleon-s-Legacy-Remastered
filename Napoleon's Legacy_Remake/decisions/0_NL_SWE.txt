@@ -1,5 +1,4 @@
 political_decisions = {
-
 	expand_german_influence = {
 		potential = {
 			OR = {
@@ -57,6 +56,8 @@ political_decisions = {
 			NOT = {accepted_culture = Scotish}
 			NOT = {accepted_culture = byelorussian}
 			NOT = {accepted_culture = ukrainian}
+			NOT = {accepted_culture = tatar}
+			NOT = {accepted_culture = azerbaijani}
 		}
 		allow = {
 			war = no
