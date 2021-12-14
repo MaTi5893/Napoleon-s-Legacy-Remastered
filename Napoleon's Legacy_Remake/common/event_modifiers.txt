@@ -1065,3 +1065,11 @@ russian_comeback2 = {
 	education_efficiency_modifier = 0.05
 	icon = 17
 }
+
+poniatowski_reforms = {
+	research_points_modifier = 0.10
+	industry_tech_research_bonus = 0.05
+	education_efficiency_modifier = 0.05
+	assimilation_rate = 0.05
+	icon = 17
+}

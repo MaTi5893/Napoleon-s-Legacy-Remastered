@@ -1357,6 +1357,12 @@
         size = 658
     }
 
+    craftsmen = {
+        culture = polish
+        religion = catholic
+        size = 2000
+    }
+
     officers = {
         culture = polish
         religion = protestant
@@ -1412,6 +1418,12 @@
 	    culture = polish
 	    religion = catholic
 	    size = 3219  
+    }
+
+    craftsmen = {
+        culture = polish
+        religion = catholic
+        size = 2000
     }
 
     bureaucrats = {
@@ -2462,7 +2474,7 @@
     craftsmen = {
 	    culture = polish
 	    religion = catholic
-	    size = 4423
+	    size = 8423
     }
 
     clergymen = {
@@ -2761,6 +2773,11 @@
         culture = north_german
         religion = protestant
         size = 2529
+    }
+    craftsmen = {
+        culture = polish
+        religion = catholic
+        size = 2000
     }
 }
 #Lomza (200000/50000 POPS)
