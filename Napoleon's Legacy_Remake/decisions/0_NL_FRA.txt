@@ -11,12 +11,17 @@ political_decisions = {
 			}
 			invention = expansionism
 			is_greater_power = yes
-			300 = {
-				owner = {
-					is_greater_power = no
+			and = { 
+				GBR = { is_greater_power = no } 
+				ADU = { OR = { is_greater_power = no primary_culture = dutch } }
+				ENG = { 
+					OR = { 
+						is_greater_power = no 
+						NOT = { any_owned_province = { continent = europe }  }
+					}
 				}
 			}
-			NOT = { any_greater_power = { any_owned_province = { owner = { is_culture_group = germanic } } } }
+			NOT = { any_greater_power = { OR = { primary_culture = north_german primary_culture = south_german } } }
 		}
 		effect = {
 			badboy = 25

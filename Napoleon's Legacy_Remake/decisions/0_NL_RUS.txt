@@ -109,8 +109,7 @@ political_decisions = {
 			}
 			NOT = {has_country_flag = ukrainian}
 			NOT = {accepted_culture = finnish}
-			NOT = {accepted_culture = byelorussian}
-			NOT = {accepted_culture = tatar}
+			NOT = {accepted_culture = estonian}
 			NOT = {accepted_culture = azerbaijani}
 		}
 		allow = {
@@ -135,10 +134,9 @@ political_decisions = {
 				tag = RUS
 				tag = PLC
 			}
-			NOT = {has_country_flag = byelorussian}
+			NOT = {accepted_culture = byelorussian}
 			NOT = {accepted_culture = finnish}
 			NOT = {accepted_culture = estonian}
-			NOT = {accepted_culture = tatar}
 			NOT = {accepted_culture = azerbaijani}
 		}
 		allow = {
