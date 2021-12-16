@@ -18,7 +18,6 @@ political_decisions = {
 			owns = 959
 			owns = 960
 			owns = 954
-			owns = 961
 			owns = 958
 			owns = 961
 		}
@@ -35,7 +34,6 @@ political_decisions = {
 			add_core = 959
 			add_core = 960
 			add_core = 954
-			add_core = 961
 			add_core = 958
 			add_core = 961
 			set_country_flag = repartition_poland_RUS
