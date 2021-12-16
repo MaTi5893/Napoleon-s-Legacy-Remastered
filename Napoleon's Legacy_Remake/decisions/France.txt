@@ -189,57 +189,7 @@ political_decisions = {
 			set_global_flag = brazzaville_formed
 		}
 	}
-	
-	#the_rhine_crisis = {
-	#	potential = {
-	#		tag = FRA
-	#		exists = PRU
-	#		PRU = {
-	#			owns = 572
-	#			owns = 575
-	#		}
-	#		NOT = {
-	#			has_country_flag = crisis_on_the_rhine
-	#		}
-	#	}
-	#	
-	#	allow = {
-	#		ideological_thought = 1
-	#	}
-	#	
-	#	effect = {
-	#		any_country = {
-	#			limit = {
-	#				OR = {
-	#					primary_culture = north_german
-	#					primary_culture = south_german
-	#				}
-	#			}
-	#			relation = {
-	#				who = THIS
-	#				value = -100
-	#			}
-	#		}
-	#		casus_belli = {
-	#			target = PRU
-	#			type = acquire_state
-	#			months = 12
-	#		}
-	#		prestige = 10
-	#		badboy = 4
-	#		set_country_flag = crisis_on_the_rhine
-	#	}
-	#	ai_will_do = {
-	#		factor = 1
-	#		modifier = {
-	#			factor = 0
-	#			NOT = {
-	#				badboy = 0.5
-	#			}
-	#		}
-	#	}
-	#}
-	
+
 	build_the_eiffel_tower = {
 		potential = {
 			tag = FRA
@@ -292,47 +242,6 @@ political_decisions = {
 			set_country_flag = extreme_home_makeover
 		}
 	}
-
-	#claim_savoy = {
-	#	picture = form_italy
-	#	potential = {
-	#		tag = FRA
-	#		is_greater_power = yes
-	#		NOT = {
-	#			465 = { is_core = FRA }
-	#		}
-	#	}
-	#	
-	#	allow = {
-	#		OR = {
-	#			war_policy = jingoism
-	#			war_policy = pro_military
-	#		}
-	#		NOT = { alliance_with = ITA }
-	#		NOT = { 
-	#			relation = {
-	#				who = ITA
-	#				value = 50
-	#			}
-	#		}
-	#		ITA = {
-	#			exists = yes
-	#			NOT = { in_sphere = FRA } 
-	#		}
-	#	}
-	#	
-	#	effect = {
-	#		set_country_flag = claimed_savoy
-	#		badboy = 3
-	#		465 = { add_core = FRA }
-	#		466 = { add_core = FRA }
-	#		472 = { add_core = FRA }
-	#		random_country = {
-	#			limit = { owns = 465 }
-	#			relation = { who = THIS value = -100 }
-	#		}
-	#	}
-	#}
 
 	annex_new_caledonia = {
 		picture = dreams_of_empire

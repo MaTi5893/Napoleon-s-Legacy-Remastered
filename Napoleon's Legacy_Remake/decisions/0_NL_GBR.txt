@@ -91,6 +91,7 @@ political_decisions = {
 		}
 	}
 	form_anglo_dutch = { 
+		picture = anglodutch
 		potential = { 
 			OR = { tag = GBR tag = NET } 
 		}

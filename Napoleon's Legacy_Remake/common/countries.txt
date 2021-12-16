@@ -44,6 +44,10 @@ HRO     = "countries/Holy-Roman-Empire.txt"
 IBR		= "countries/Iberia.txt"
 BRG		= "countries/Burgundy.txt"
 ADU		= "countries/Anglo-Dutch Union.txt"
+SPC 	= "countries/Hispanic Commonwealth.txt" 
+ZAC		= "countries/Zachadia.txt"
+SPC 	= "countries/Hispanic Commonwealth.txt" 
+ZAC		= "countries/Zachadia.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"
@@ -270,8 +274,6 @@ BYZ		="countries/Byzantium.txt"
 ICL		="countries/Iceland.txt"
 BAB		="countries/Babylonia.txt"
 
-#new for AHD
-TPG		="countries/Taiping.txt"
 
 #AHD 2.3
 ARA		="countries/Arabia.txt"

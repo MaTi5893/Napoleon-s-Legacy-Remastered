@@ -1,4 +1,4 @@
-capital = 958
+capital = 963
 primary_culture = ukrainian
 culture = russian
 culture = byelorussian

@@ -195,59 +195,6 @@ political_decisions = {
 		}
 	}
 
-#	mediate_belgian_independence = {
-#		picture = sign_treaty_of_london
-#		potential = {
-#			tag = ENG
-#			is_greater_power = yes
-#			BEL = { 
-#				exists = yes
-#				in_sphere = ENG
-#				NOT = { country_event = 36716 }
-#			}
-#			NET = {
-#				exists = yes
-#				NOT = { any_owned_province = { is_core = BEL } }
-#				NOT = { has_country_flag = signed_treaty_of_london }
-#			}
-#			NOT = { has_country_flag = mediated_belgian_independence }
-#		}
-#		
-#		allow = {
-#			NET = {
-#				war = no
-#				is_greater_power = no
-#			}
-#			BEL = {
-#				war = no
-#			}
-#			OR = { 
-#				relation = {
-#					who = NET
-#					value = 100
-#				}
-#				diplomatic_influence = {
-#					who = NET
-#					value = 60
-#				}
-#			}
-#		}
-#		
-#		effect = {
-#			set_country_flag = mediated_belgian_independence
-#			prestige = 10
-#			NET = { country_event = 36709 }
-#		}
-#		
-#		ai_will_do = {
-#			factor = 1
-#			modifier = {
-#				factor = 0
-#				NOT = { year = 1839 }
-#			}
-#		}
-#	}
-
 	aden_protectorate = {
 		picture = map_arabia
 		potential = {
@@ -275,55 +222,6 @@ political_decisions = {
 			prestige = 5
 			1412 = { secede_province = ENG }
 			create_vassal = YEM
-		}
-	}
-
-	gold_coast_treaty = {
-		picture = treaty_signing
-		potential = {
-			is_greater_power = yes
-			owns = 1908 #Cape Coast
-			OR = {
-				is_canal_enabled = 2
-				year = 1874
-			}
-			NET = {
-				owns = 1909 		#Sekondi
-				owns = 1413		#Batavia
-				NOT = { owns = 1910 }	#Kumassi
-			}
-			NOT = {
-				has_country_flag = gold_coast_treaty
-			}
-		}
-		
-		allow = {
-			war = no
-			money = 20000
-			NET = {
-				war = no
-				owns = 1909 #Sekondi
-			}
-		}
-		
-		effect = {
-			set_country_flag = gold_coast_treaty
-			treasury = -20000
-			NET = { country_event = 36960 }
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				truce_with = NET
-			}
-			modifier = {
-				factor = 0
-				NOT = {
-					relation = { who = NET value = 50 }
-				}
-			}
 		}
 	}
 }

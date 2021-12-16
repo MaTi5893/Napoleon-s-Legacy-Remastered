@@ -13,28 +13,10 @@ political_decisions = {
 			ai = no
 		}
 		effect = {
-#			prestige = -5
 			country_event = {id = 100000 days = 0}
 		}
 
 	}
-
-#	will_not_receive = {
-#		alert = no
-#		potential = {
-#			ai = no
-#			has_country_flag = will_receive_grants
-#			}
-#		
-#		allow = { 
-#			has_country_flag = will_receive_grants
-#			}
-#		effect = {
-#			clr_country_flag = will_receive_grants 
-#
-#		}
-#
-#	}
 
 	will_give = {
 		alert = no

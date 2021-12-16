@@ -10,6 +10,12 @@ name = "Russian Conquest of Estonia"
 		actor = RUS
 		receiver = SWE
 	}
+	war_goal = { 
+		casus_belli = acquire_state
+		state_province_id = 354
+		actor = RUS 
+		receiver = SWE
+	}
 }
 
 1783.9.3 = {
