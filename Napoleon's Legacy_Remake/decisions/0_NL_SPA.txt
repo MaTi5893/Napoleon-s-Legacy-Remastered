@@ -154,7 +154,6 @@ political_decisions = {
 		}
 		effect = {
 			prestige =10
-			change_tag = IBR
 			add_core = 518
 			add_core = 519
 			add_core = 520
