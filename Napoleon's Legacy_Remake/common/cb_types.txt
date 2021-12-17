@@ -1984,7 +1984,7 @@ demand_concession_casus_belli_china = {
 	
 	badboy_factor = 1.0
 	prestige_factor = 0.1
-	peace_cost_factor = 2
+	peace_cost_factor = 1.5
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -3153,7 +3153,7 @@ demand_concession_casus_belli_player_early = {
 	
 	badboy_factor = 0.5
 	prestige_factor = 0.1
-	peace_cost_factor = 2
+	peace_cost_factor = 1.5
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -3452,7 +3452,7 @@ demand_concession_casus_belli_player_early_for_puppet = {
 		
 	badboy_factor = 0.5
 	prestige_factor = 1
-	peace_cost_factor = 2
+	peace_cost_factor = 1.35
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -3812,7 +3812,7 @@ acquire_state_for_puppet = {
 
 	badboy_factor = 1.1
 	prestige_factor = 1.5
-	peace_cost_factor = 2
+	peace_cost_factor = 1.35
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -3910,7 +3910,7 @@ acquire_state_midgame_for_puppet = {
 
 	badboy_factor = 1.1
 	prestige_factor = 1
-	peace_cost_factor = 1.35
+	peace_cost_factor = 1.1
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -4158,7 +4158,7 @@ take_capital_for_puppet = {
 	
 	badboy_factor = 1.5
 	prestige_factor = 10
-	peace_cost_factor = 2
+	peace_cost_factor = 1.35
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -4261,7 +4261,7 @@ take_capital_midgame_for_puppet = {
 	
 	badboy_factor = 1.5
 	prestige_factor = 10
-	peace_cost_factor = 1.35
+	peace_cost_factor = 1.1
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1

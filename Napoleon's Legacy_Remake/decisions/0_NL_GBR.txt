@@ -130,6 +130,7 @@ political_decisions = {
 			add_accepted_culture = british
 			add_accepted_culture = dutch
 			add_accepted_culture = Scotish
+			add_accepted_culture = flemish
 		}
 	}
 }
