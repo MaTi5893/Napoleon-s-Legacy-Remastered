@@ -83,7 +83,10 @@ political_decisions = {
 			war = no
 			UKR = {
 				all_core = {
-					owned_by = UKR
+					OR = { 
+						owned_by = UKR 
+						owned_by = THIS 
+					}
 				}
 			}
 			nationalism_n_imperialism=1
