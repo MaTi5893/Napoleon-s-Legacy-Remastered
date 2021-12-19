@@ -155,7 +155,7 @@ all_poles_united_desc;We have finally ended the partition that begun two centuri
 expand_german_influence_title;Expand our Germanic influence!;;;;;;;x
 expand_german_influence_desc;The pressure we put on Prussia gave us possibility to expand our influence in Germany;;;;;;;x
 baltic_influence_title;Expand our influence in the Baltic!;;;;;;;x
-baltic_influence_desc;We have subjugated the Baltics, we should give it's people citizenship to avoid revolts!;;;;;;;x
+baltic_influence_desc;We have subjugated the Baltics, we should give it's people citizenship to avoid revolts !;;;;;;;x
 form_ble_title;Form the Baltic Empire!;;;;;;;x
 form_ble_desc;We have united the Baltic people under one nation and we are ready to take our place as a great power!;;;;;;;x
 expand_german_territory_title;Expand our German territory!;;;;;;;x
@@ -236,15 +236,13 @@ give_ukraine_to_poland_title;Give Ukraine to Poland!;;;;;;;x
 give_ukraine_to_poland_desc;Even if we have claimed Ukraine for centuries, we have to accept the new reality and make peace with Poland. Ukraine is unstable and will never be russians states. However, this does open new expansion route...;;;;;;;x
 form_anglo_dutch_title;Unite the English and Dutch people!;;;;;;;x
 form_anglo_dutch_desc;Even though our people have long been seperated, there is a great bond between us. The only way to solidify this bond is to unite the two countries into a great Union.;;;;;;;x
-acceptance_of_steppe1_title;Acceptance of the southern tribes!;;;;;;;x
-acceptance_of_steppe1_desc;After invading our homes centuries ago, nomadic tribes settled down in Caucasia. Now , we rule over them but instead of showing them cruelty for the crimes they commited centuries ago, may be it's time to make peace with them and accept them as a part of our Empire!;;;;;;;x
-acceptance_of_steppe2_title;Acceptance of the eastern tribes!;;;;;;;x
-acceptance_of_steppe2_desc;The Eastern tribes have always been a problem to ous, but when they collapsed 400 years ago, we didn't stop expanding east. It's time now to accept them as part of our Empire!;;;;;;;x
-southern_expansion_title;Push to the south!;;;;;;;x
-southern_expansion_desc;Since Peter the Great, we're looking to get access to warm water. We had Sebastopol in Crimea, but now we have the Persian port. However, they will never be ours if the local population isn't accepted and feels a part of our empire. That's why we should accept them! ;;;;;;;x
-form_zachadia_title;Form Zachadia!;;;;;;;x
-form_zachadia_desc;WE have finally united all western slavs, it's time to form the glorious kingdom of Zachadia! ;;;;;;;x
-hungarian_subjugation_title;Hungarian Subjugation!;;;;;;;x
-hungarian_subjugation_desc;We should accept the Hungarian people, they too have suffered in the hands of the Austrians!;;;;;;;x
-magrhreb_domination_title;Domination of the Maghreb!;;;;;;;x
-magrhreb_domination_desc;Now that we've done away with 'Egypt', we have a clear path - from Ankara to Tlemcen - and it'd be a shame not to follow it!;;;;;;;x
+acceptance_of_steppe1_title;Acceptance of the southern tribes !;;;;;;;x
+acceptance_of_steppe1_desc;After invading our homes centuries ago, nomadic tribes settled down in Caucasia. Now , we rule over them but instead of showing them cruelty for the crimes they commited centuriez ago, may be it's time to make peace with them and accept them as a part of our Empire !;;;;;;;x
+acceptance_of_steppe2_title;Acceptance of the eastern tribes !;;;;;;;x
+acceptance_of_steppe2_desc;The Eastern tribes have always been a problem to ous, but when they collapsed 400 years ago, we didn't stop expanding east. It's time now to accept them as part of our Empire !;;;;;;;x
+southern_expansion_title;Push to the south !;;;;;;;x
+southern_expansion_desc;Since Peter the Great, we're looking to get access to warm water. We had Sebastopol in Crimea, but now we have the persian port. However, they will never be ours if the local population isn't accepted and feels a part of our empire. That's why we should accept them ! ;;;;;;;x
+form_zachadia_title;Form Zachadia !;;;;;;;x
+form_zachadia_desc;WE have finally united all western slavs, it's time to form the glorious kingdom of Zachadia ! ;;;;;;;x
+hungarian_subjugation_title;Hungarian Subjugation !;;;;;;;x
+hungarian_subjugation_desc;We should accept the hungarian people, they too have suffered in the hands of the Austrians !;;;;;;;x
