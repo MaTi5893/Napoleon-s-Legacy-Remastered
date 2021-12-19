@@ -17,8 +17,3 @@ name = "Mr. Madison's War"
 	}
 
 }
-1835.10.2 = { 
-	rem_attacker = USA
-	rem_defender = ENG
-	rem_defender = ICF
-}

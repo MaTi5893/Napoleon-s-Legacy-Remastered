@@ -107,7 +107,6 @@ political_decisions = {
 			TUR_805 = { owned_by = THIS } #Macedonia
 			TUR_860 = { owned_by = THIS } #Thrace
 			TUR_863 = { owned_by = THIS } #Hudavendigar
-			TUR_869 = { owned_by = THIS } #Aydin
 			TUR_884 = { owned_by = THIS } #Trabzon			
 		}
 		effect = {
