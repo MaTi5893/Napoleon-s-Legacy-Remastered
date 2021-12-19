@@ -1054,8 +1054,7 @@ cultural_unification = {
 russian_comeback1 = {
 	global_population_growth = 0.001
 	mobilisation_size = 0.02
-	farm_rgo_eff = 0.10
-	education_efficiency_modifier = 0.10
+	farm_rgo_eff = 0.15
 	icon = 17
 }
 

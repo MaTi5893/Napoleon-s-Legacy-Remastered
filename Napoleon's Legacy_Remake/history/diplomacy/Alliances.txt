@@ -49,6 +49,20 @@ alliance=
 	}
 alliance=
 	{
+		first="PLC"
+		second="TUR"
+		end_date="1936.1.1"
+		start_date="1836.1.1"
+	}
+alliance=
+	{
+		first="PLC"
+		second="DEN"
+		end_date="1936.1.1"
+		start_date="1836.1.1"
+	}		
+alliance=
+	{
 		first="FRA"
 		second="HAN"
 		end_date="1936.1.1"
