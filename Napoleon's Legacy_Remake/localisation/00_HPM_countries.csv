@@ -22,7 +22,7 @@ USA_conservative_2;Bourbon Democrats;;;;;;;x
 USA_conservative_4;Democrats;;;;;;;x
 YUG_fascist;ZBOR;;;;;;;x
 YUG_ADJ;Yugoslav;;;;;;;x
-AUS_fascist;Vaterländische Front;;;;;;;x
+AUS_fascist;Vaterlandische Front;;;;;;;x
 SWI_liberal;Freisinnig-Demokratische Partei;;;;;;;x
 GCO_communist;Partido Communista;;;;;;;x
 GCO_fascist;Partido Fascista;;;;;;;x
@@ -85,7 +85,7 @@ CAN_liberal_2;Liberal Party of Canada;;;;;;;x
 DAI;Vietnam;;;;;;;x
 DAI_communist;Viet Nam Cong san Ðang;;;;;;;x
 ENG_communist;Communist Party of Great Britain;;;;;;;x
-FIN_fascist;Isänmaallinen kansanliike;;;;;;;x
+FIN_fascist;Isanmaallinen kansanliike;;;;;;;x
 MEX_socialist;Partido Laborista Mexicano;;;;;;;x
 MEX_communist;Partido Socialista Obrero;;;;;;;x
 MEX_fascist;Union Nacional Sinarquista;;;;;;;x
@@ -107,8 +107,8 @@ SER_socialist;Samostalna Radikalna Stranka;;;;;;;x
 SER_liberal;Liberalna Stranka;;;;;;;x
 SER_liberal_2;Narodna Radikalna Stranka;;;;;;;x
 SER_anarcho_liberal;Anarho-Liberalno Stranka;;;;;;;x
-GRE_communist;Kommounistiko Komma Elládas;;;;;;;x
-GRE_socialist;Sosialistiko Komma Elládas;;;;;;;x
+GRE_communist;Kommounistiko Komma Elladas;;;;;;;x
+GRE_socialist;Sosialistiko Komma Elladas;;;;;;;x
 GRE_fascist;Ethniki Enosis Ellados;;;;;;;x
 GRE_anarcho_liberal;Ethnikon Rizospastikon Komma;;;;;;;x
 GRE_reactionary;Komma ton Napaion;;;;;;;x
@@ -140,8 +140,8 @@ UBD_reactionary;Royalist Faction;;;;;;;x
 UBD_conservative;German Landtag;;;;;;;x
 EST_fascist;Vabadussõjalased;;;;;;;x
 EST_communist;Eestimaa Kommunistlik Partei;;;;;;;x
-EST_socialist;Eesti Sotsialistlik Tööliste Partei;;;;;;;x
-EST_socialist_2;Eesti Tööerakond;;;;;;;x
+EST_socialist;Eesti Sotsialistlik Tooliste Partei;;;;;;;x
+EST_socialist_2;Eesti Tooerakond;;;;;;;x
 EST_anarcho_liberal;Radikaal-Demokraatlik Erakond;;;;;;;x
 EST_liberal;Asunikkude Partei;;;;;;;x
 EST_conservative;Põllumeeste Kogud;;;;;;;x
@@ -256,14 +256,14 @@ BRZ_liberal_2;Partido Republicano Carioca;;;;;;;x
 BRZ_anarcho_liberal;Partido Anarquista;;;;;;;x
 BRZ_socialist;Partido Socialista;;;;;;;x
 BRZ_communist;Partido Comunista;;;;;;;x
-BRZ_fascist;Ação Integralista Brasileira;;;;;;;x
+BRZ_fascist;Acao Integralista Brasileira;;;;;;;x
 PNB;Pernambuco;;;;;;;x
 PNB_ADJ;Pernambucano;;;;;;;x
 SWI_communist;Kommunistische Partei;;;;;;;x
 SWI_fascist;Nationale Front;;;;;;;x
 FRA_fascist;Parti Franciste;;;;;;;x
 FRA_reactionary_2;Droite Nationaliste;;;;;;;x
-FRA_anarcho_liberal;Républicain Radical;;;;;;;x
+FRA_anarcho_liberal;Republicain Radical;;;;;;;x
 GER_fascist;NSDAP;;;;;;;x
 POL_fascist;ONR-Falanga;;;;;;;x
 HAI_conservative;Parti National;;;;;;;x
@@ -289,10 +289,10 @@ CRO_anarcho_liberal;Anarhisticki Partija;;;;;;;x
 CRO_socialist;Socijalisticka Partija;;;;;;;x
 CRO_communist;Komunisticka Partija;;;;;;;x
 CRO_fascist;Ustasha;;;;;;;x
-D01;$REGION$;;Das Königreich von $REGION$;;;;;;;x
-D01_ADJ;$REGION$;;königstreu;;;;;;;x
-D02;The Confederation of $REGION$;;Die Konföderation von $REGION$;;;;;;;x
-D02_ADJ;$REGION$;;konföderiert;;;;;;;x
+D01;$REGION$;;Das Konigreich von $REGION$;;;;;;;x
+D01_ADJ;$REGION$;;konigstreu;;;;;;;x
+D02;The Confederation of $REGION$;;Die Konfoderation von $REGION$;;;;;;;x
+D02_ADJ;$REGION$;;konfoderiert;;;;;;;x
 D03;Commonwealth of $REGION$;;Commonwealth von $REGION$;;;;;;;x
 D03_ADJ;Commonwealth;;Commonwealth-;;;;;;;x
 D04;$REGION$;;Die Republik von $REGION$;;;;;;;x
@@ -303,48 +303,48 @@ D06;$REGION$;;Die Volksrepublik von $REGION$;;;;;;;x
 D06_ADJ;$REGION$;;republikanisch;;;;;;;x
 D07;The Free State of $REGION$;;Der Freistaat von $REGION$;;;;;;;x
 D07_ADJ;$REGION$;;freistaatlich;;;;;;;x
-D08;$REGION$;;Der Großstaat von $REGION$;;;;;;;x
-D08_ADJ;$REGION$;;großstaatlich;;;;;;;x
+D08;$REGION$;;Der Grossstaat von $REGION$;;;;;;;x
+D08_ADJ;$REGION$;;grossstaatlich;;;;;;;x
 D09;$REGION$;;Der Staat von $REGION$;;;;;;;x
 D09_ADJ;$REGION$;;staatlich;;;;;;;x
-D10;$REGION$;;Das Fürstentum von $REGION$;;;;;;;x
-D10_ADJ;$REGION$;;fürstlich;;;;;;;x
+D10;$REGION$;;Das Furstentum von $REGION$;;;;;;;x
+D10_ADJ;$REGION$;;furstlich;;;;;;;x
 D11;$REGION$;;Die Demokratische Republik von $REGION$;;;;;;;x
 D11_ADJ;$REGION$;;depublikanisch;;;;;;;x
 D12;The $REGION$ Union;;Die $REGION$-Union;;;;;;;x
 D12_ADJ;$REGION$;;Unions-;;;;;;;x
-D13;$REGION$;;Das $REGION$-Königreich;;;;;;;x
-D13_ADJ;$REGION$;;königstreu;;;;;;;x
+D13;$REGION$;;Das $REGION$-Konigreich;;;;;;;x
+D13_ADJ;$REGION$;;konigstreu;;;;;;;x
 D14;The Dominion of $REGION$;;Das Dominion von $REGION$;;;;;;;x
 D14_ADJ;Dominion;;Dominions-;;;;;;;x
-D15;$REGION$;;Das Großherzogtum von $REGION$;;;;;;;x
-D15_ADJ;$REGION$;;großherzogstreu;;;;;;;x
+D15;$REGION$;;Das Grossherzogtum von $REGION$;;;;;;;x
+D15_ADJ;$REGION$;;grossherzogstreu;;;;;;;x
 D16;The $REGION$ Commonwealth;;Die $REGION$-Nation;;;;;;;x
 D16_ADJ;$REGION$;;national;;;;;;;x
-D17;The $REGION$ Federation;;Die $REGION$-Föderation;;;;;;;x
-D17_ADJ;$REGION$;;Föderations-;;;;;;;x
+D17;The $REGION$ Federation;;Die $REGION$-Foderation;;;;;;;x
+D17_ADJ;$REGION$;;Foderations-;;;;;;;x
 D18;The United States of $REGION$;;Die Vereinigten Staaten von $REGION$;;;;;;;x
 D18_ADJ;$REGION$;;Unions-;;;;;;;x
 D19;The Union of $REGION$;;Die Demokratische Union von $REGION$;;;;;;;x
 D19_ADJ;$REGION$;;Unions-;;;;;;;x
-D20;$REGION$;;Das Fürstentum von $REGION$;;;;;;;x
-D20_ADJ;$REGION$;;fürstlich;;;;;;;x
+D20;$REGION$;;Das Furstentum von $REGION$;;;;;;;x
+D20_ADJ;$REGION$;;furstlich;;;;;;;x
 D21;$REGION$;;Die Union von $REGION$;;;;;;;x
 D21_ADJ;$REGION$;;Unions-;;;;;;;x
 D22;$REGION$;;Die Demokratische Volksrepublik von $REGION$;;;;;;;x
 D22_ADJ;$REGION$;;demokratisch-republikanisch;;;;;;;x
 D23;$REGION$;;Das $REGION$-Gebiet;;;;;;;x
-D23_ADJ;$REGION$;;ortsansässig;;;;;;;x
+D23_ADJ;$REGION$;;ortsansassig;;;;;;;x
 D24;$REGION$;;Die Glorreiche Union von $REGION$;;;;;;;x
 D24_ADJ;$REGION$;;glorreich;;;;;;;x
-D25;$REGION$;;Das mächtige Gebiet von $REGION$;;;;;;;x
-D25_ADJ;$REGION$;;mächtig;;;;;;;x
+D25;$REGION$;;Das machtige Gebiet von $REGION$;;;;;;;x
+D25_ADJ;$REGION$;;machtig;;;;;;;x
 D26;The $REGION$ Free State;;Der $REGION$-Freistaat;;;;;;;x
 D26_ADJ;$REGION$;;freistaatlich;;;;;;;x
 D27;The $REGION$ Commonwealth;;$REGION$-Commonwealth;;;;;;;x
 D27_ADJ;Commonwealth;;Commonwealth-;;;;;;;x
-D28;The $REGION$ Confederacy;;Die $REGION$-Konföderation;;;;;;;x
-D28_ADJ;Confederate;;konföderiert;;;;;;;x
+D28;The $REGION$ Confederacy;;Die $REGION$-Konfoderation;;;;;;;x
+D28_ADJ;Confederate;;konfoderiert;;;;;;;x
 D29;$REGION$;;Das Freie Volk von $REGION$;;;;;;;x
 D29_ADJ;$REGION$;;frei;;;;;;;x
 D30;$REGION$;;Die $REGION$-Republik;;;;;;;x
@@ -353,14 +353,14 @@ D31;$REGION$;;Die Heilige Union von $REGION$;;;;;;;x
 D31_ADJ;$REGION$;;zelotisch;;;;;;;x
 D32;Union of $REGION$;;Die Volks-Union von $REGION$;;;;;;;x
 D32_ADJ;$REGION$;;Unions-;;;;;;;x
-D33;$REGION$ Federation;;Die Föderationsstaaten von $REGION$;;;;;;;x
-D33_ADJ;Federation;;Föderations-;;;;;;;x
-D34;$REGION$;;Der $REGION$-Föderationsstaat;;;;;;;x
-D34_ADJ;$REGION$;;Föderations-;;;;;;;x
-D35;The $REGION$ Confederation;;Die $REGION$-Konföderation;;;;;;;x
-D35_ADJ;$REGION$;;konföderiert;;;;;;;x
-D36;The $REGION$ Federation;;Die $REGION$-Föderation;;;;;;;x
-D36_ADJ;$REGION$;;Föderations-;;;;;;;x
+D33;$REGION$ Federation;;Die Foderationsstaaten von $REGION$;;;;;;;x
+D33_ADJ;Federation;;Foderations-;;;;;;;x
+D34;$REGION$;;Der $REGION$-Foderationsstaat;;;;;;;x
+D34_ADJ;$REGION$;;Foderations-;;;;;;;x
+D35;The $REGION$ Confederation;;Die $REGION$-Konfoderation;;;;;;;x
+D35_ADJ;$REGION$;;konfoderiert;;;;;;;x
+D36;The $REGION$ Federation;;Die $REGION$-Foderation;;;;;;;x
+D36_ADJ;$REGION$;;Foderations-;;;;;;;x
 D37;The $REGION$ Union;;Die Fromme Union von $REGION$;;;;;;;x
 D37_ADJ;$REGION$;;fromm;;;;;;;x
 D38;$REGION$;;$REGION$-Land;;;;;;;x
@@ -379,8 +379,8 @@ ABU_proletarian_dictatorship;People's Arabic Republic;;;;;;;x
 ABU_proletarian_dictatorship_ADJ;Arabic;;;;;;;x
 AKH;Astrakhan;;;;;;;x
 AKH_ADJ;Astrakhan;;;;;;;x
-AKH_conservative;The Conservatives;Faction royale;Königsfraktion;;;;;;;x
-AKH_liberal;The Liberals;Faction libérale;Die liberale Fraktion;;;;;;;x
+AKH_conservative;The Conservatives;Faction royale;Konigsfraktion;;;;;;;x
+AKH_liberal;The Liberals;Faction liberale;Die liberale Fraktion;;;;;;;x
 AKH_reactionary;The Khanate Faction;Faction nationaliste;Die nationalistische Fraktion;;;;;;;x
 AKH_anarcho_liberal;The Libertains;Faction radicale;Die radikale Fraktion;;;;;;;x
 AKH_socialist;The Socialists;Faction socialiste;Die sozialistische Fraktion;;;;;;;x
@@ -449,13 +449,13 @@ CSA_fascist_dictatorship;The Confederacy;;;;;;;x
 CSA_proletarian_dictatorship;The People's Confederacy;;;;;;;x
 DLM;Illyria;;;;;;;x
 DLM_ADJ;Illyrian;;;;;;;x
-FRA_liberal;Républicain;Républicain;Républicain;;Républicain;;;;;;;x
-FRA_liberal_2;Union libérale;;;;;;;x
-FRA_liberal_3;Républicain libérale;;;;;;;x
-FRA_conservative;Orléaniste;Orléaniste;Orléaniste;;Orléaniste;;;;;;;x
+FRA_liberal;Republicain;Republicain;Republicain;;Republicain;;;;;;;x
+FRA_liberal_2;Union liberale;;;;;;;x
+FRA_liberal_3;Republicain liberale;;;;;;;x
+FRA_conservative;Orleaniste;Orleaniste;Orleaniste;;Orleaniste;;;;;;;x
 FRA_conservative_2;Bonapartiste;Bonapartiste;Bonapartiste;;Bonapartiste;;;;;;;x
-FRA_conservative_3;Républicain modéré;Républicain modéré;Républicain modéré;;Républicain modéré;;;;;;;x
-FRA_conservative_4;Orléaniste;Orléaniste;Orléaniste;;Orléaniste;;;;;;;x
+FRA_conservative_3;Republicain modere;Republicain modere;Republicain modere;;Republicain modere;;;;;;;x
+FRA_conservative_4;Orleaniste;Orleaniste;Orleaniste;;Orleaniste;;;;;;;x
 FRA_conservative_5;Royaliste;Royaliste;Royaliste;;Royaliste;;;;;;;x
 GCO;Gran Colombia;;;;;;;x
 GCO_ADJ;Colombian;;;;;;;x
@@ -489,10 +489,10 @@ ITA_proletarian_dictatorship_ADJ;Italian;;;;;;;x
 JAP_absolute_monarchy;Imperial Japan;;;;;;;x
 JAP_reactionary;Handoutou;Faction Shogunate;Shogunate Faction;;;;;;;x
 JAP_conservative;Rikken Teiseitou;Faction de la cour;Court Faction;;;;;;;x
-JAP_conservative_2;Rikken Kaishintou;Faction impérialiste;Imperialist Faction;;;;;;;x
+JAP_conservative_2;Rikken Kaishintou;Faction imperialiste;Imperialist Faction;;;;;;;x
 JAP_reactionary_2;Handoutou;Faction nationaliste;Nationalistische Fraktion;;;;;;;x
 JAP_conservative_3;Tachiagare Nippon;Faction conservatrice;Conservative Faction;;;;;;;x
-JAP_liberal;Aikokusha;Faction libérale;Liberal Faction;;;;;;;x
+JAP_liberal;Aikokusha;Faction liberale;Liberal Faction;;;;;;;x
 JAP_socialist;Shakaitou;Faction marxiste;Marxist Faction;;;;;;;x
 JAP_anarcho_liberal;Ishin Seito Shimpu;;;;;;;x
 JAP_communist;Kyousantou;Faction communiste;Kommunistische Fraktion;;;;;;;x
@@ -567,7 +567,7 @@ NOR_communist_3;Norges Kommunistiske Parti;;;;;;;x
 NOR_fascist;Nationalists;;;;;;;x
 NOR_fascist_2;Nasjonal Samling;;;;;;;x
 CZH_fascist;Vlajka;;;;;;;x
-SLV_fascist;Slovenská Ludová Strana;;;;;;;x
+SLV_fascist;Slovenska Ludova Strana;;;;;;;x
 BEL_fascist;Parti Rexiste;;;;;;;x
 YEM_proletarian_dictatorship;People's Republic of Yemen;;;;;;;x
 PAP_ADJ_democracy;Roman;;;;;;;x
@@ -620,7 +620,7 @@ CHI_conservative_4;Kuomintang;;;;;;;x
 CHI_conservative_5;Minzhudang;;;;;;;x
 CHI_liberal;Gai Liang Pai;;;;;;;x
 CHI_liberal_2;Xingzhonghui;;;;;;;x
-CHI_liberal_3;Zhongguo Minzhu Tongméng;;;;;;;x
+CHI_liberal_3;Zhongguo Minzhu Tongmeng;;;;;;;x
 CHI_liberal_4;Yang Wu Pai;;;;;;;x
 CHI_reactionary;Kongjiào Yundong;;;;;;;x
 CHI_reactionary_2;Jìnbùdang;;;;;;;x
@@ -628,8 +628,8 @@ CHI_anarcho_liberal;Zhongguo Minzhu Jiànguo Huì;;;;;;;x
 CHI_socialist;Zhongguo Guojia Shèhuì Dang;;;;;;;x
 CHI_communist;Zhongguo Gòngchandang;;;;;;;x
 CHI_fascist;Kai-tsu P'ai;;;;;;;x
-RHI;Rhineland;Rhénanie;Rheinland;;Rhineland;;;;;;;x
-RHI_ADJ;Rhinelander;Rhénan;Rheinlander;;Rhinelander;;;;;;;x
+RHI;Rhineland;Rhenanie;Rheinland;;Rhineland;;;;;;;x
+RHI_ADJ;Rhinelander;Rhenan;Rheinlander;;Rhinelander;;;;;;;x
 RHI_liberal;Liberaldem. Partei;Liberaldem. Partei;Liberaldem. Partei;;;;;;;x
 RHI_conservative;Zentrumspartei;Zentrumspartei;Zentrumspartei;;;;;;;x
 RHI_liberal_2;Nationalliberale ;Nationalliberale ;Nationalliberale ;;;;;;;x
@@ -679,8 +679,8 @@ SWK;Sarawak;;;;;;;x
 SWK_ADJ;Sarawakian;;;;;;;x
 SWK_fascist_dictatorship;Borneo Republic;;;;;;;x
 SWK_fascist_dictatorship_ADJ;Bornean;;;;;;;x
-SWK_conservative;Rajah Faction;Faction royale;Königsfraktion;;Faccion real;;;;;;;x
-SWK_liberal;The Liberal Faction;Faction libérale;Die liberale Fraktion;;La faccion liberal;;;;;;;x
+SWK_conservative;Rajah Faction;Faction royale;Konigsfraktion;;Faccion real;;;;;;;x
+SWK_liberal;The Liberal Faction;Faction liberale;Die liberale Fraktion;;La faccion liberal;;;;;;;x
 SWK_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;La faccion nacionalista;;;;;;;x
 SWK_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;La faccion radical;;;;;;;x
 SWK_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;La faccion socialista;;;;;;;x
@@ -717,25 +717,25 @@ TUR_proletarian_dictatorship;Turkish Socialist Republic;;;;;;;x
 TUR_proletarian_dictatorship_ADJ;Turkish;;;;;;;x
 TUR_reactionary;Nizam-i Alem;;;;;;;x
 TUR_reactionary_2;Ittihad-i Muhammedi Firkasi;;;;;;;x
-TUR_reactionary_3;Halâskâr Zabitân;;;;;;;x
+TUR_reactionary_3;Halaskar Zabitan;;;;;;;x
 TUR_reactionary_4;Fedailer Cemiyeti;;;;;;;x
-TUR_conservative;Hükumet-i Hümayun;;;;;;;x
+TUR_conservative;Hukumet-i Humayun;;;;;;;x
 TUR_conservative_2;Selamet-i Osmaniye;;;;;;;x
-TUR_conservative_3;Hürriyet ve Itilâf Firkasi;;;;;;;x
+TUR_conservative_3;Hurriyet ve Itilaf Firkasi;;;;;;;x
 TUR_liberal_2;Tanzimat Firkasi;;;;;;;x
 TUR_liberal_4;Osmanli Demokrat Firkasi;;;;;;;x
 TUR_liberal_5;Halk Firkasi;;;;;;;x
-TUR_socialist;Osmanli Köylü ve Amele Firkasi;;;;;;;x
+TUR_socialist;Osmanli Koylu ve Amele Firkasi;;;;;;;x
 TUR_socialist_3;Sosyalist Firka;;;;;;;x
 TUR_communist;Ihtilalci Avam Firkasi;;;;;;;x
-TUR_communist_2;Komünist Firka;;;;;;;x
+TUR_communist_2;Komunist Firka;;;;;;;x
 TUR_communist_3;Halk Istirakiyun Firkasi;;;;;;;x
 TUR_liberal;Ittihat ve Terakki Firkasi;;;;;;;x
 TUR_liberal_3;Yeni Osmanlilar Cemiyeti;;;;;;;x
 TUR_socialist_2;Osmanli Ahali Firkasi;;;;;;;x
 TUR_anarcho_liberal;Osmanli Ahrar Firkasi;;;;;;;x
 TUR_fascist;Ittihat ve Terakki Firkasi;;;;;;;x
-TUR_fascist_2;Türk Ocagi;;;;;;;x
+TUR_fascist_2;Turk Ocagi;;;;;;;x
 TUR_fascist_3;Milli Firka;;;;;;;x
 TUS_reactionary;Restaurazionisti;Restaurazionisti;Restaurazionisti;;Restaurazionis ti;;;;;;;x
 TUS_conservative;Moderati ;Moderati ;Moderati;;Moderati ;;;;;;;x

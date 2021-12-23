@@ -115,7 +115,7 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Ulrik Christian Gyldenløve" København Århus Ålborg Odense Fredriksberg Esbjerg "Nørrejyske Ø" Fyn Jótlandshaf 
+		"Ulrik Christian Gyldenløve" København Århus Ålborg Odense Fredriksberg Esbjerg "Nørrejyske Ø" Fyn Jotlandshaf 
 	}
 	ironclad = {
 		Helgoland Danmark Gorm Lindormen Odin "Rolf Krake" Tordenskjold "Peder Skram" Dannebrog Gorm "Olfert Fischer" Absalon 
@@ -141,6 +141,6 @@ unit_names = {
 
 	}
 	commerce_raider = {
-		"Esbern Snare" Fylla Færøerne Grønland Víkingr "Harald Klak" "Svend Tveskæg" Kattegat Øresund Silkeborg
+		"Esbern Snare" Fylla Færøerne Grønland Vikingr "Harald Klak" "Svend Tveskæg" Kattegat Øresund Silkeborg
 	}
 }

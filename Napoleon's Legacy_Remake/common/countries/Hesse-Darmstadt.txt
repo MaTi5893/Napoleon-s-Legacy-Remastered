@@ -185,25 +185,25 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		Hessen "Großherzog Ludwig" Mainz Darmstadt Gießen Landgraf Worms "Von Gagern" "Philipp der Großmütige" Fridericus
+		Hessen "Grossherzog Ludwig" Mainz Darmstadt Giessen Landgraf Worms "Von Gagern" "Philipp der Grossmutige" Fridericus
 		
 	}
 	ironclad = {
-		Hessen "Großherzog Ludwig" Mainz Darmstadt Gießen Landgraf Worms "Von Gagern" "Philipp der Großmütige" Fridericus
+		Hessen "Grossherzog Ludwig" Mainz Darmstadt Giessen Landgraf Worms "Von Gagern" "Philipp der Grossmutige" Fridericus
 		
 	}
 	manowar = {
-		Hessen "Großherzog Ludwig" Mainz Darmstadt Gießen Landgraf Worms "Von Gagern" "Philipp der Großmütige" Fridericus
+		Hessen "Grossherzog Ludwig" Mainz Darmstadt Giessen Landgraf Worms "Von Gagern" "Philipp der Grossmutige" Fridericus
 	}
 	cruiser = {
-		Hessen "Großherzog Ludwig" Mainz Darmstadt Gießen Landgraf Worms "Von Gagern" "Philipp der Großmütige" Fridericus
+		Hessen "Grossherzog Ludwig" Mainz Darmstadt Giessen Landgraf Worms "Von Gagern" "Philipp der Grossmutige" Fridericus
 		
 	}
 	frigate = {
-		Hessen "Großherzog Ludwig" Mainz Darmstadt Gießen Landgraf Worms "Von Gagern" "Philipp der Großmütige" Fridericus
+		Hessen "Grossherzog Ludwig" Mainz Darmstadt Giessen Landgraf Worms "Von Gagern" "Philipp der Grossmutige" Fridericus
 	}
 	monitor = {
-		Hessen "Großherzog Ludwig" Mainz Darmstadt Gießen Landgraf Worms "Von Gagern" "Philipp der Großmütige" Fridericus
+		Hessen "Grossherzog Ludwig" Mainz Darmstadt Giessen Landgraf Worms "Von Gagern" "Philipp der Grossmutige" Fridericus
 	}
 	clipper_transport = {
 		
@@ -212,7 +212,7 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		Hessen "Großherzog Ludwig" Mainz Darmstadt Gießen Landgraf Worms "Von Gagern" "Philipp der Großmütige" Fridericus	
+		Hessen "Grossherzog Ludwig" Mainz Darmstadt Giessen Landgraf Worms "Von Gagern" "Philipp der Grossmutige" Fridericus	
 		
 	}
 }

@@ -115,30 +115,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Alto Perú" Bolivia Charcas "Cristo de la Concordia" "General Sucre" Iscanahuaya Samapaita "Seis de Agosto" "Simón Bolivar" Tricolor
+		"Alto Peru" Bolivia Charcas "Cristo de la Concordia" "General Sucre" Iscanahuaya Samapaita "Seis de Agosto" "Simon Bolivar" Tricolor
 	}
 	ironclad = {
-		Altiplano Andes Independencia Júpiter Neptuno Occidental Oriental Plutón Real Republiquetas
+		Altiplano Andes Independencia Jupiter Neptuno Occidental Oriental Pluton Real Republiquetas
 	}
 	manowar = {
-		Confederación Congreso "La Fállete" Libertad "María Luisa" Morro "San Bartolomé" "San Francisco" "Santo Tomás" Yanacocha
+		Confederacion Congreso "La Fallete" Libertad "Maria Luisa" Morro "San Bartolome" "San Francisco" "Santo Tomas" Yanacocha
 	}
 	cruiser = {
-		Cobija Desaguadero Illampu Illimani Madera Mamore "Nevado Sajada" Poopó Titicaca Trinidad
+		Cobija Desaguadero Illampu Illimani Madera Mamore "Nevado Sajada" Poopo Titicaca Trinidad
 	}
 	frigate = {
-		Antofagasta Beni Chuquisaca Cochabamba "La Paz" Oruro Pando Potosí "Santa Cruz" Tarija
+		Antofagasta Beni Chuquisaca Cochabamba "La Paz" Oruro Pando Potosi "Santa Cruz" Tarija
 	}
 	monitor = {
-		Constitución "Gran Chaco" Inca Libertador Mercurio Saturno Tihauano Urano Vulcano Yungas
+		Constitucion "Gran Chaco" Inca Libertador Mercurio Saturno Tihauano Urano Vulcano Yungas
 	}
 	clipper_transport = { 
-		"Águila Roja" Ana Aymara Beatriz Carmen "Cóndor Negro" María Marta Raquel Salomé
-		"San Antonio" "San Judas" "San Pablo" Sirena Tahuamanu Tetis Tritón Vencedora Victoria Voladora
+		"Aguila Roja" Ana Aymara Beatriz Carmen "Condor Negro" Maria Marta Raquel Salome
+		"San Antonio" "San Judas" "San Pablo" Sirena Tahuamanu Tetis Triton Vencedora Victoria Voladora
 	}
 	steam_transport = { 
-		"Águila Roja" Ana Aymara Beatriz Carmen "Cóndor Negro" María Marta Raquel Salomé
-		"San Antonio" "San Judas" "San Pablo" Sirena Tahuamanu Tetis Tritón Vencedora Victoria Voladora
+		"Aguila Roja" Ana Aymara Beatriz Carmen "Condor Negro" Maria Marta Raquel Salome
+		"San Antonio" "San Judas" "San Pablo" Sirena Tahuamanu Tetis Triton Vencedora Victoria Voladora
 	}
 	commerce_raider = {
 		Audaz "Castro Rojas" Destructora Fortaleza "Madre de Dios" Manoa Manu Pando Sorata Temor

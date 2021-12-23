@@ -104,7 +104,7 @@ unit_names = {
 		"Arend Dickmann" "Boleslaw I Chrobry" "Jan Kostka" "Michal Figenow" "Mateusz Schapring" "Jakob Mora" "Jan III Sobieski" 
 	}
 	ironclad = {
-		Kraków Warszawa Lódz Poznan Wroclaw Lwów Gdansk 
+		Krakow Warszawa Lodz Poznan Wroclaw Lwow Gdansk 
 	}
 	manowar = {
 		Wisla Odra Warta Narew San Notec Bug 

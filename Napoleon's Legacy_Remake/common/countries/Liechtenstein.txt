@@ -187,22 +187,22 @@ party = {
 
 unit_names = {
 	dreadnought = {
-			"Werner Stauffacher" "Walter Fürst" "Arnold von Melchtal" "Wilhelm Tell"	
+			"Werner Stauffacher" "Walter Furst" "Arnold von Melchtal" "Wilhelm Tell"	
 	}
 	ironclad = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Leman Linth Lugano Luzern Oberland Ratien Santis Schaffhausen Solothurn Thurgau Waldstatte Wallis Zurich
 	}
 	manowar = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Leman Linth Lugano Luzern Oberland Ratien Santis Schaffhausen Solothurn Thurgau Waldstatte Wallis Zurich
 	}
 	cruiser = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich 
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Leman Linth Lugano Luzern Oberland Ratien Santis Schaffhausen Solothurn Thurgau Waldstatte Wallis Zurich 
 	}
 	frigate = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich 
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Leman Linth Lugano Luzern Oberland Ratien Santis Schaffhausen Solothurn Thurgau Waldstatte Wallis Zurich 
 	}
 	monitor = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich 
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Leman Linth Lugano Luzern Oberland Ratien Santis Schaffhausen Solothurn Thurgau Waldstatte Wallis Zurich 
 	}
 	clipper_transport = { 
 			
@@ -211,6 +211,6 @@ unit_names = {
 			
 	}
 	commerce_raider = {
-			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Léman Linth Lugano Luzern Oberland Rätien Säntis Schaffhausen Solothurn Thurgau Waldstätte Wallis Zürich 
+			Aargau Baden Basel Bellinzona Bern Freiburg Fricktal Leman Linth Lugano Luzern Oberland Ratien Santis Schaffhausen Solothurn Thurgau Waldstatte Wallis Zurich 
 	}
 }

@@ -157,32 +157,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Antonio Maceo" "Bartolomé Masó" "Carlos M. de Céspedes" "Carlos Roloff" "Héroes de Cuba" "José Martí" "Máximo Gómez" "Salvador Cisneros" "Serafín Sánchez" "Tomás Estrada"
+		"Antonio Maceo" "Bartolome Maso" "Carlos M. de Cespedes" "Carlos Roloff" "Heroes de Cuba" "Jose Marti" "Maximo Gomez" "Salvador Cisneros" "Serafin Sanchez" "Tomas Estrada"
 	}
 	ironclad = {
-		Baconao Buenavista Cauto "Diego Velázquez" "Isla de Pinos" Máximo "Sierra Cristal" "Sierra del Rosario" Toa Turquino
+		Baconao Buenavista Cauto "Diego Velazquez" "Isla de Pinos" Maximo "Sierra Cristal" "Sierra del Rosario" Toa Turquino
 	}
 	manowar = {
-		Alísio "Estrella de los Mares" Guerrera "San Carlos" "San Fernando" "San Juan" Santiago Valentía Ventura Victoria
+		Alisio "Estrella de los Mares" Guerrera "San Carlos" "San Fernando" "San Juan" Santiago Valentia Ventura Victoria
 	}
 	cruiser = {
-		Caribe Cuba Florida Guajiro "Isla Fernandina" "Isla Juana" "José Antonio Aponte" "Joya del Caribe" "Nicolás Morales" Patria
+		Caribe Cuba Florida Guajiro "Isla Fernandina" "Isla Juana" "Jose Antonio Aponte" "Joya del Caribe" "Nicolas Morales" Patria
 	}
 	frigate = {
-		"Calixto García" Constitución "Félix Varela" "Grito de Yara" Independencia "Joaquín Infante" "José F. Lemus" "José Mª Heredia" Libertad República
+		"Calixto Garcia" Constitucion "Felix Varela" "Grito de Yara" Independencia "Joaquin Infante" "Jose F. Lemus" "Jose Mª Heredia" Libertad Republica
 	}
 	monitor = {
-		Camagüey Cienfuegos Guantánamo Júpiter Marte Neptuno Plutón "Santa Clara" "Santiago de Cuba" Vulcano
+		Camaguey Cienfuegos Guantanamo Jupiter Marte Neptuno Pluton "Santa Clara" "Santiago de Cuba" Vulcano
 	}
 	clipper_transport = {
-		Ambición Baltasar Caoba Cocodrilo Coral Defensora Deseada Estrella Ferminia Garza
-		Gaspar Grande Mambi Manzanillo Melchor Perla "San José" "Santa María" Teca Tocororo
+		Ambicion Baltasar Caoba Cocodrilo Coral Defensora Deseada Estrella Ferminia Garza
+		Gaspar Grande Mambi Manzanillo Melchor Perla "San Jose" "Santa Maria" Teca Tocororo
 	}
 	steam_transport = {
-		Ambición Baltasar Caoba Cocodrilo Coral Defensora Deseada Estrella Ferminia Garza
-		Gaspar Grande Mambi Manzanillo Melchor Perla "San José" "Santa María" Teca Tocororo
+		Ambicion Baltasar Caoba Cocodrilo Coral Defensora Deseada Estrella Ferminia Garza
+		Gaspar Grande Mambi Manzanillo Melchor Perla "San Jose" "Santa Maria" Teca Tocororo
 	}
 	commerce_raider = {
-		Agramonte Araña "Diez de Octubre" Guaimaro Habana Matanzas "Pilar del Río" Tarántula "Veinticuatro de Febrero" Yara
+		Agramonte Arana "Diez de Octubre" Guaimaro Habana Matanzas "Pilar del Rio" Tarantula "Veinticuatro de Febrero" Yara
 	}
 }

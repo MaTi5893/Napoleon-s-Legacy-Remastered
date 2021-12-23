@@ -89,7 +89,7 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		Áss Vanr Álfr Jötunn
+		Ass Vanr Alfr Jotunn
 	}
 	ironclad = {
 		Ellida Sleipner Viking Frithjof Rjukan Sarpen Lougen Glommen 

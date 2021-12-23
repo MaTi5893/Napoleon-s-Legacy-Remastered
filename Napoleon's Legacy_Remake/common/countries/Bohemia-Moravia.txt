@@ -107,16 +107,16 @@ unit_names = {
 		Praha Brno Ostrava Plzen Liberec 
 	}
 	manowar = {
-		Milešovka Lovos Hazmburk Koštálov "Ceské Stredohorí" 
+		Milešovka Lovos Hazmburk Koštalov "Ceske Stredohori" 
 	}
 	cruiser = {
 		Jizera Metuje Morava Svratka Olza  
 	}
 	frigate = {
-		"Jan Dismas Zelenka" "Šimon Brixi" "František Tuma" "Antonín Kraft" "František Xaver Dušek" 
+		"Jan Dismas Zelenka" "Šimon Brixi" "František Tuma" "Antonin Kraft" "František Xaver Dušek" 
 	}
 	monitor = {
-		"Petr Brandl" "Václav Hollar" "Jan Jahn" "Jan Kupecký" "Karel Škréta" 
+		"Petr Brandl" "Vaclav Hollar" "Jan Jahn" "Jan Kupecký" "Karel Škreta" 
 	}
 	clipper_transport = {
 		

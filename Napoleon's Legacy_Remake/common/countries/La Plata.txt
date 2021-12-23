@@ -198,43 +198,43 @@ party = {
 
 unit_names = {
     dreadnought = {
-        "Alvear" "Argentina" "General Rosas" "Moreno" "Paz" "Presidente Avellaneda" "Río de la Plata" "Rivadavia" "San Martín" "Urquiza"
+        "Alvear" "Argentina" "General Rosas" "Moreno" "Paz" "Presidente Avellaneda" "Rio de la Plata" "Rivadavia" "San Martin" "Urquiza"
         "Yrigoyen"
     }
     ironclad = {
-        "Almirante Brown" "Bouchard" "Campichuelo" "Cepeda" "De las Heras" "Federación" "Huamitá" "Independencia" "Júpiter" "Lavalle"
-        "Libertad" "Marte" "Mercurio" "Neptuno" "Pavón" "Plutón" "Salado" "Salta" "Suipacha" "Thomas"
+        "Almirante Brown" "Bouchard" "Campichuelo" "Cepeda" "De las Heras" "Federacion" "Huamita" "Independencia" "Jupiter" "Lavalle"
+        "Libertad" "Marte" "Mercurio" "Neptuno" "Pavon" "Pluton" "Salado" "Salta" "Suipacha" "Thomas"
     }
     manowar = {
-        "América" "Aquíles" "Argentina" "Argonauta" "Furor" "Héroe" "Libertador" "Navegante" "Perla Negra" "Río de la Plata"
-        "Salvador" "San Bernardo" "San Claudio" "San Honorato" "San Joaquín" "Santa Ana" "Santa María" "Santiago" "Terror" "Victoriosa"
+        "America" "Aquiles" "Argentina" "Argonauta" "Furor" "Heroe" "Libertador" "Navegante" "Perla Negra" "Rio de la Plata"
+        "Salvador" "San Bernardo" "San Claudio" "San Honorato" "San Joaquin" "Santa Ana" "Santa Maria" "Santiago" "Terror" "Victoriosa"
     }
     cruiser = {
-        "Almirante Brown" "Álvarez Jonte" "Belgrano" "Buenos Aires" "Castelli" "Chichlana" "Garibaldi" "Güemes" "Liniers" "Matheu"
-        "Mitre" "Nueve de Julio" "Paso" "Patagonia" "Patria" "Pueyrredón" "Roca" "San Martín" "Sarratea" "Veinticinco de Mayo"
+        "Almirante Brown" "Alvarez Jonte" "Belgrano" "Buenos Aires" "Castelli" "Chichlana" "Garibaldi" "Guemes" "Liniers" "Matheu"
+        "Mitre" "Nueve de Julio" "Paso" "Patagonia" "Patria" "Pueyrredon" "Roca" "San Martin" "Sarratea" "Veinticinco de Mayo"
     }
     frigate = {
-        "Azopardo" "Cervantes" "Espora" "Garay" "Hércules" "Heroína" "La Argentina" "La Libertad" "Murillo" "Parker"
-        "Piedra Buena" "Presidente Sarmiento" "República" "Robinson" "Rondeau" "Rosales" "Saavedra" "Santísima Trinidad" "Sarandí" "Spiro"
+        "Azopardo" "Cervantes" "Espora" "Garay" "Hercules" "Heroina" "La Argentina" "La Libertad" "Murillo" "Parker"
+        "Piedra Buena" "Presidente Sarmiento" "Republica" "Robinson" "Rondeau" "Rosales" "Saavedra" "Santisima Trinidad" "Sarandi" "Spiro"
     }
     monitor = {
         "El Plata" "Formosa" "Gran Chaco" "La Pampa" "Lago Argentino" "Los Andes" "Mesopotamia" "Posadas" "Rawson" "Resistencia"
-        "San Fernando del Valle" "San Miguel" "San Salvador" "Santa Rosa" "Sirena" "Somuncurá" "Tetis" "Tritón" "Viedma" "Vulcano"
+        "San Fernando del Valle" "San Miguel" "San Salvador" "Santa Rosa" "Sirena" "Somuncura" "Tetis" "Triton" "Viedma" "Vulcano"
     }
     clipper_transport = {
-        "Águila" "Apolo" "Atlántida" "Audaz" "Ceres" "Cóndor" "Cruel" "Delfín" "Eolo" "Esperanza"
-        "Fénix" "Fidela" "Flora" "Hera" "Iris" "Lanza" "Minerva" "Minotauro" "Movimiento" "Odisea"
-        "Platense" "Proserpina" "Providencia" "Prueba" "Puma" "Rayo" "Relámpago" "Salvadora" "San José" "San Juan Bautista"
-        "Santa María" "Servidora" "Temeraria" "Tiburón" "Tranquila" "Triunfo" "Ulíses" "Veloz" "Victoria" "Voladora"
+        "Aguila" "Apolo" "Atlantida" "Audaz" "Ceres" "Condor" "Cruel" "Delfin" "Eolo" "Esperanza"
+        "Fenix" "Fidela" "Flora" "Hera" "Iris" "Lanza" "Minerva" "Minotauro" "Movimiento" "Odisea"
+        "Platense" "Proserpina" "Providencia" "Prueba" "Puma" "Rayo" "Relampago" "Salvadora" "San Jose" "San Juan Bautista"
+        "Santa Maria" "Servidora" "Temeraria" "Tiburon" "Tranquila" "Triunfo" "Ulises" "Veloz" "Victoria" "Voladora"
     }
     steam_transport = {
-        "Águila" "Apolo" "Atlántida" "Audaz" "Ceres" "Cóndor" "Cruel" "Delfín" "Eolo" "Esperanza"
-        "Fénix" "Fidela" "Flora" "Hera" "Iris" "Lanza" "Minerva" "Minotauro" "Movimiento" "Odisea"
-        "Platense" "Proserpina" "Providencia" "Prueba" "Puma" "Rayo" "Relámpago" "Salvadora" "San José" "San Juan Bautista"
-        "Santa María" "Servidora" "Temeraria" "Tiburón" "Tranquila" "Triunfo" "Ulíses" "Veloz" "Victoria" "Voladora"
+        "Aguila" "Apolo" "Atlantida" "Audaz" "Ceres" "Condor" "Cruel" "Delfin" "Eolo" "Esperanza"
+        "Fenix" "Fidela" "Flora" "Hera" "Iris" "Lanza" "Minerva" "Minotauro" "Movimiento" "Odisea"
+        "Platense" "Proserpina" "Providencia" "Prueba" "Puma" "Rayo" "Relampago" "Salvadora" "San Jose" "San Juan Bautista"
+        "Santa Maria" "Servidora" "Temeraria" "Tiburon" "Tranquila" "Triunfo" "Ulises" "Veloz" "Victoria" "Voladora"
     }
     commerce_raider = {
-        "Bermejo" "Catamarca" "Constitución" "Córdoba" "Corrientes" "Entrerríos" "Jujuy" "La Plata" "La Rioja" "Mendoza"
-        "Misiones" "Paraná" "Pilcomayo" "Rosario" "San Juan" "San Luis" "Santa Cruz" "Sol Argentino" "Tucumán" "Uruguay"
+        "Bermejo" "Catamarca" "Constitucion" "Cordoba" "Corrientes" "Entrerrios" "Jujuy" "La Plata" "La Rioja" "Mendoza"
+        "Misiones" "Parana" "Pilcomayo" "Rosario" "San Juan" "San Luis" "Santa Cruz" "Sol Argentino" "Tucuman" "Uruguay"
     }
 }

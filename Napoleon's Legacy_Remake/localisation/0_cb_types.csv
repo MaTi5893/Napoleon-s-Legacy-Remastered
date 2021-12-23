@@ -2,10 +2,10 @@ chungus;Sus;;;;;;;x
 NORMAL_WAR_REMOVE_WMDS_NAME;$ORDER$War to Prevent $SECOND_COUNTRY$'s Crime Against Humanity;;;;;;;x
 NORMAL_TOTAL_WAR_CONQUEST_NAME;$FIRST_COUNTRY$'s Total War against $SECOND_COUNTRY$;Grande Guerre $ORDER$$FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Gr?er Krieg;Baza;Base:;Base:;Alap:;Z?ladna:;;;;;;;x
 NORMAL_TOTAL_WAR_TAKE_NAME;$FIRST_COUNTRY$'s Total War against $SECOND_COUNTRY$;Grande Guerre $ORDER$$FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Gr?er Krieg;Baza;Base:;Base:;Alap:;Z?ladna:;;;;;;;x
-dismantle_factories_desc;Dismantle factories and cancel all constructions and recruitments.\n\n§YNOTE: §RBecause of coding limitations this CB only works with one country at a time, if you are going to add it for more than one country then make sure to peace out separately.§W;;Reißt Forts und Marinestützpunkte ab.;;;;;;;x
-dismantle_factories;Dismantle Industry;;Reißt Forts ab;;;;;;;x
-dismantle_factories_short;Dismantle industry in $STATE$;;Reißt Bauten in $STATE$ ab;;;;;;;x
-dismantle_factories_setup;Dismantle factories and cancel all constructions and recruitments in $STATE$;;Reißt Forts und Marinestützpunkte in $STATE$ ab;;;;;;;x
+dismantle_factories_desc;Dismantle factories and cancel all constructions and recruitments.\n\n§YNOTE: §RBecause of coding limitations this CB only works with one country at a time, if you are going to add it for more than one country then make sure to peace out separately.§W;;Reisst Forts und Marinestutzpunkte ab.;;;;;;;x
+dismantle_factories;Dismantle Industry;;Reisst Forts ab;;;;;;;x
+dismantle_factories_short;Dismantle industry in $STATE$;;Reisst Bauten in $STATE$ ab;;;;;;;x
+dismantle_factories_setup;Dismantle factories and cancel all constructions and recruitments in $STATE$;;Reisst Forts und Marinestutzpunkte in $STATE$ ab;;;;;;;x
 total_war_conquest;Total War of Conquest;;;;;;;x
 total_war_conquest_short;Wipe $RECIPIENT$ from the annals of history;;;;;;;x
 total_war_conquest_desc;Annex the entirety of an enemy country's colony for 0 infamy.;;;;;;;x
@@ -18,156 +18,156 @@ take_capital;Take Capital;;;;;;;x
 minor_conquest;Minor Conquest;;;;;;;x
 negotiated_transfer;Negotiated Transfer;;;;;;;x
 dismantle_cb;Dismantle Nation;Grande Guerre;Gesamtkrieg;;;;;;;x
-dismantle_cb_short;Force $RECIPIENT$ to dismantle their empire;Réduire $RECIPIENT$;Reduzieren Sie die Größe von $RECIPIENT$;;;;;;;x
-dismantle_cb_desc;Force an enemy §Ygreat power§W to dismantle their empire and pay reparations;Obliger un autre §Ypays§W à se désarmer et à nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrüstung und zu Reparationszahlungen an uns.;;;;;;;x
-dismantle_cb_setup;Force $RECIPIENT$ to dismantle their empire;Réduire $RECIPIENT$;Reduzieren Sie die Größe von $RECIPIENT$;;;;;;;x
-dismantle_cb_add;Dismantle Nation;Grande Guerre;Größer Krieg;;;;;;;x
-dismantle_cb_add_short;Force $RECIPIENT$ to dismantle their empire;Réduire $RECIPIENT$;Reduzieren Sie die Größe von $RECIPIENT$;;;;;;;x
-dismantle_cb_add_desc;Force an enemy §Ygreat power§W to dismantle their empire and pay reparations;Obliger un autre §Ypays§W à se désarmer et à nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrüstung und zu Reparationszahlungen an uns.;;;;;;;x
-dismantle_cb_add_setup;Force $RECIPIENT$ to dismantle their empire;Réduire $RECIPIENT$;Reduzieren Sie die Größe von $RECIPIENT$;;;;;;;x
-dismantle_cb_add_new;Dismantle Nation;Grande Guerre;Größer Krieg;;;;;;;x
-dismantle_cb_add_new_short;Force $RECIPIENT$ to dismantle their empire;Réduire $RECIPIENT$;Reduzieren Sie die Größe von $RECIPIENT$;;;;;;;x
-dismantle_cb_add_new_desc;Force an enemy §Ygreat power§W to dismantle their empire and pay reparations;Obliger un autre §Ypays§W à se désarmer et à nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrüstung und zu Reparationszahlungen an uns.;;;;;;;x
-dismantle_cb_add_new_setup;Force $RECIPIENT$ to dismantle their empire;Réduire $RECIPIENT$;Reduzieren Sie die Größe von $RECIPIENT$;;;;;;;x
-acquire_core_state;Acquire core;Prendre territoire clé;Kernprovinz erwerben;;;;;;;x
+dismantle_cb_short;Force $RECIPIENT$ to dismantle their empire;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;x
+dismantle_cb_desc;Force an enemy §Ygreat power§W to dismantle their empire and pay reparations;Obliger un autre §Ypays§W à se desarmer et à nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrustung und zu Reparationszahlungen an uns.;;;;;;;x
+dismantle_cb_setup;Force $RECIPIENT$ to dismantle their empire;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;x
+dismantle_cb_add;Dismantle Nation;Grande Guerre;Grosser Krieg;;;;;;;x
+dismantle_cb_add_short;Force $RECIPIENT$ to dismantle their empire;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;x
+dismantle_cb_add_desc;Force an enemy §Ygreat power§W to dismantle their empire and pay reparations;Obliger un autre §Ypays§W à se desarmer et à nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrustung und zu Reparationszahlungen an uns.;;;;;;;x
+dismantle_cb_add_setup;Force $RECIPIENT$ to dismantle their empire;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;x
+dismantle_cb_add_new;Dismantle Nation;Grande Guerre;Grosser Krieg;;;;;;;x
+dismantle_cb_add_new_short;Force $RECIPIENT$ to dismantle their empire;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;x
+dismantle_cb_add_new_desc;Force an enemy §Ygreat power§W to dismantle their empire and pay reparations;Obliger un autre §Ypays§W à se desarmer et à nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrustung und zu Reparationszahlungen an uns.;;;;;;;x
+dismantle_cb_add_new_setup;Force $RECIPIENT$ to dismantle their empire;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;x
+acquire_core_state;Acquire core;Prendre territoire cle;Kernprovinz erwerben;;;;;;;x
 acquire_core_state_short;Acquire $STATE$;;;;;;;x
-acquire_core_state_desc;Aquire an enemy §Ystate§W where we have §Ycore provinces§W;Prendre un §YÉtat§W ennemi où nous avons des §Yprovinces principales§W;Erobern Sie einen feindlichen §YStaat§W, in dem wir §YKernprovinzen§W haben.;;;;;;;x
-acquire_core_state_setup;Acquire core $STATE$ from $RECIPIENT$;Prendre État clé $STATE$ de $RECIPIENT$;Kern-$STATE$ von $RECIPIENT$ erwerben;;;;;;;x
+acquire_core_state_desc;Aquire an enemy §Ystate§W where we have §Ycore provinces§W;Prendre un §YEtat§W ennemi où nous avons des §Yprovinces principales§W;Erobern Sie einen feindlichen §YStaat§W, in dem wir §YKernprovinzen§W haben.;;;;;;;x
+acquire_core_state_setup;Acquire core $STATE$ from $RECIPIENT$;Prendre Etat cle $STATE$ de $RECIPIENT$;Kern-$STATE$ von $RECIPIENT$ erwerben;;;;;;;x
 acquire_all_cores;Acquire All Cores;;;;;;;x
 acquire_all_cores_short;Acquire all cores from $RECIPIENT$;;;;;;;x
 acquire_all_cores_desc;Aquire all enemy §Ystates§W where we have §Ycore provinces§W;;;;;;;x
 acquire_all_cores_setup;Acquire all core provinces from $RECIPIENT$;;;;;;;x
 unification_casus_belli;War of Unification;Guerre d'unification;Vereinigungskrieg;;;;;;;x
-unification_casus_belli_short;Liberate $STATE$ ;Libérer $STATE$ ;Befreien Sie $STATE$;;;;;;;x
-unification_casus_belli_desc;Liberate core territory of our §YCultural Union§W;Libérer un territoire clé de notre §Yunion culturelle§W;Befreien Sie das Kerngebiet unserer §YKulturunion§W;;;;;;;x
-unification_casus_belli_setup;Liberate core territory of our §YCultural Union§W.;Libérez un territoire clé de notre §Yunion culturelle§W.;Befreien Sie das Kerngebiet unserer §YKulturunion§W;;;;;;;x
-civil_war;Civil War;Guerre civile;Bürgerkrieg;;;;;;;x
+unification_casus_belli_short;Liberate $STATE$ ;Liberer $STATE$ ;Befreien Sie $STATE$;;;;;;;x
+unification_casus_belli_desc;Liberate core territory of our §YCultural Union§W;Liberer un territoire cle de notre §Yunion culturelle§W;Befreien Sie das Kerngebiet unserer §YKulturunion§W;;;;;;;x
+unification_casus_belli_setup;Liberate core territory of our §YCultural Union§W.;Liberez un territoire cle de notre §Yunion culturelle§W.;Befreien Sie das Kerngebiet unserer §YKulturunion§W;;;;;;;x
+civil_war;Civil War;Guerre civile;Burgerkrieg;;;;;;;x
 civil_war_short;Unite the nation;Unifier la nation;Einen Sie die Nation!;;;;;;;x
-civil_war_desc;Your nation is in a state of civil war;Votre nation est en guerre civile;Ihre Nation befindet sich in einem Bürgerkrieg.;;;;;;;x
-civil_war_setup;End the war by reuniting our nation under a common banner again.;Mettez fin à la guerre en réunifiant notre nation sous une même bannière.;Beenden Sie den Krieg durch die Wiedervereinigung unserer Nation unter einer gemeinsamen Flagge.;;;;;;;x
+civil_war_desc;Your nation is in a state of civil war;Votre nation est en guerre civile;Ihre Nation befindet sich in einem Burgerkrieg.;;;;;;;x
+civil_war_setup;End the war by reuniting our nation under a common banner again.;Mettez fin à la guerre en reunifiant notre nation sous une même bannière.;Beenden Sie den Krieg durch die Wiedervereinigung unserer Nation unter einer gemeinsamen Flagge.;;;;;;;x
 unification_annex_casus_belli;War of Unification;Guerre d'unification;Vereinigungskrieg;;;;;;;x
 unification_annex_casus_belli_short;Annexation of $RECIPIENT$;;;;;;;;;x
-unification_annex_casus_belli_desc;Liberate core territory of our §YCultural Union§W.;Libérez un territoire clé de notre §Yunion culturelle§W.;Befreien Sie das Kerngebiet unserer §YKulturunion§W;;;;;;;x
-unification_annex_casus_belli_setup;Liberate core territory of our §YCultural Union§W.;Libérez un territoire clé de notre §Yunion culturelle§W.;Befreien Sie das Kerngebiet unserer §YKulturunion§W;;;;;;;x
-annex_core_country;Restore Order;Rétablir l'ordre;Stellen Sie die Ordnung wieder her;;;;;;;x
+unification_annex_casus_belli_desc;Liberate core territory of our §YCultural Union§W.;Liberez un territoire cle de notre §Yunion culturelle§W.;Befreien Sie das Kerngebiet unserer §YKulturunion§W;;;;;;;x
+unification_annex_casus_belli_setup;Liberate core territory of our §YCultural Union§W.;Liberez un territoire cle de notre §Yunion culturelle§W.;Befreien Sie das Kerngebiet unserer §YKulturunion§W;;;;;;;x
+annex_core_country;Restore Order;Retablir l'ordre;Stellen Sie die Ordnung wieder her;;;;;;;x
 annex_core_country_short;Annex $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;;;;;;x
-annex_core_country_desc;Annex a foreign §Ycountry§W all provinces of which are your cores.;Annexez un §Ypays§W étranger dont toutes les provinces sont vos territoires clés.;Annektieren Sie alle Provinzen eines ausländischen §YLandes§W, die zu Ihren Kernprovinzen gehören.;;;;;;;x
+annex_core_country_desc;Annex a foreign §Ycountry§W all provinces of which are your cores.;Annexez un §Ypays§W etranger dont toutes les provinces sont vos territoires cles.;Annektieren Sie alle Provinzen eines auslandischen §YLandes§W, die zu Ihren Kernprovinzen gehoren.;;;;;;;x
 annex_core_country_setup;Annex $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;;;;;;x
-add_to_sphere;Add to Sphere;ajouter à la sphère;In Einflusssphäre aufnehmen;;;;;;;x
+add_to_sphere;Add to Sphere;ajouter à la sphère;In Einflusssphare aufnehmen;;;;;;;x
 add_to_sphere_short;Add $RECIPIENT$ to Sphere of Influence;;;;;;;x
-add_to_sphere_desc;Add country to our §YSphere of Influence§W;Ajouter un pays à notre §Ysphère d'influence§W;Fügen Sie das Land Ihrer §YEinflusssphäre§W hinzu.;;;;;;;x
+add_to_sphere_desc;Add country to our §YSphere of Influence§W;Ajouter un pays à notre §Ysphère d'influence§W;Fugen Sie das Land Ihrer §YEinflusssphare§W hinzu.;;;;;;;x
 add_to_sphere_setup;Add $RECIPIENT$ to Sphere of Influence;;;;;;;x
-unification_humiliate_cb;Assert Hegemony;Imposer l'hégémonie;Vorherrschaft durchsetzen;;;;;;;x
-unification_humiliate_cb_short;Admit Hegemony;Admettre l'hégémonie;Vorherrschaft anerkennen;;;;;;;x
-unification_humiliate_cb_desc;Force another Great Power to concede your leadership over your common cultural union. All his influence over countries in the area will be lost.;Force une autre Grande Puissance à vous concéder la primauté dans votre union culturelle commune. Toute son influence sur les pays de la zone sera perdue.;Zwingen Sie eine andere Großmacht, Ihre Führung Ihrer gemeinsamen Kulturunion zu akzeptieren. Der Einfluss der anderen Macht über Länder in dieser Region geht dadurch verloren.;;;;;;;x
-unification_humiliate_cb_setup;Force another Great Power to concede your leadership over your common cultural union.;Force une autre Grande Puissance à vous concéder la primauté dans votre union culturelle commune.;Zwingen Sie eine andere Großmacht, Ihre Führung Ihrer gemeinsamen Kulturunion zu akzeptieren.;;;;;;;x
+unification_humiliate_cb;Assert Hegemony;Imposer l'hegemonie;Vorherrschaft durchsetzen;;;;;;;x
+unification_humiliate_cb_short;Admit Hegemony;Admettre l'hegemonie;Vorherrschaft anerkennen;;;;;;;x
+unification_humiliate_cb_desc;Force another Great Power to concede your leadership over your common cultural union. All his influence over countries in the area will be lost.;Force une autre Grande Puissance à vous conceder la primaute dans votre union culturelle commune. Toute son influence sur les pays de la zone sera perdue.;Zwingen Sie eine andere Grossmacht, Ihre Fuhrung Ihrer gemeinsamen Kulturunion zu akzeptieren. Der Einfluss der anderen Macht uber Lander in dieser Region geht dadurch verloren.;;;;;;;x
+unification_humiliate_cb_setup;Force another Great Power to concede your leadership over your common cultural union.;Force une autre Grande Puissance à vous conceder la primaute dans votre union culturelle commune.;Zwingen Sie eine andere Grossmacht, Ihre Fuhrung Ihrer gemeinsamen Kulturunion zu akzeptieren.;;;;;;;x
 unification_GP_humiliate;Unification Humiliate;;;;;;;x
 unification_GP_humiliate_short;Humiliate $RECIPIENT$;;;;;;;x
-unification_GP_humiliate_desc;Show our military might by humiliating an enemy §Ygreater power of our culture group§W, thus increasing our §Yprestige§W while lowering theirs;Afficher notre puissance militaire en humiliant un §Ypays§W ennemi et en augmentant notre §Yprestige§W tout en réduisant le leur;Zeigen Sie unsere Militärmacht durch Erniedrigung eines feindlichen §YLandes§W, wodurch Sie unser §YPrestige§W steigern und ihres verringern.;;Demostrar nuestro poder militar humillando a un §Ypaís§W enemigo, para aumentar nuestro §Yprestigio§W y reducir el suyo;;;;;;;x
+unification_GP_humiliate_desc;Show our military might by humiliating an enemy §Ygreater power of our culture group§W, thus increasing our §Yprestige§W while lowering theirs;Afficher notre puissance militaire en humiliant un §Ypays§W ennemi et en augmentant notre §Yprestige§W tout en reduisant le leur;Zeigen Sie unsere Militarmacht durch Erniedrigung eines feindlichen §YLandes§W, wodurch Sie unser §YPrestige§W steigern und ihres verringern.;;Demostrar nuestro poder militar humillando a un §Ypais§W enemigo, para aumentar nuestro §Yprestigio§W y reducir el suyo;;;;;;;x
 unification_GP_humiliate_setup;Humiliate $RECIPIENT$;;;;;;;x
 unification_add_to_sphere;Unification Add to Sphere;;;;;;;x
 unification_add_to_sphere_short;Add $RECIPIENT$ to Sphere of Influence;;;;;;;x
-unification_add_to_sphere_desc;Add country §Yof our culture group§W to our §YSphere of Influence§W;Ajouter un pays à notre §Ysphère d'influence§W;Fügen Sie das Land Ihrer §YEinflusssphäre§W hinzu.;;;;;;;x
+unification_add_to_sphere_desc;Add country §Yof our culture group§W to our §YSphere of Influence§W;Ajouter un pays à notre §Ysphère d'influence§W;Fugen Sie das Land Ihrer §YEinflusssphare§W hinzu.;;;;;;;x
 unification_add_to_sphere_setup;Add $RECIPIENT$ to Sphere of Influence;;;;;;;x
-take_from_sphere;Take from sphere of influence;Prendre à la sphère d'influence;Aus Einflusssphäre entfernen;;;;;;;x
+take_from_sphere;Take from sphere of influence;Prendre à la sphère d'influence;Aus Einflusssphare entfernen;;;;;;;x
 take_from_sphere_short;Take $THIRD$ from sphere of influence;;;;;;;x
 take_from_sphere_desc;Remove a country from someone's §YSphere of Influence§W and add it to our own;;;;;;;x
-take_from_sphere_setup;Take $THIRD$ from $RECIPIENT$'s sphere of influence;Prendre $THIRD$ à la sphère d'influence de $RECIPIENT$;$THIRD$ aus Einflusssphäre von $RECIPIENT$ entfernen;;;;;;;x
+take_from_sphere_setup;Take $THIRD$ from $RECIPIENT$'s sphere of influence;Prendre $THIRD$ à la sphère d'influence de $RECIPIENT$;$THIRD$ aus Einflusssphare von $RECIPIENT$ entfernen;;;;;;;x
 free_peoples;Free People Early;;;;;;;x
 free_peoples_short;$THIRD$ acquires $STATE$;;;;;;;x
-free_peoples_desc;Liberate a §Ycountry§W's state from its oppressors;Libérer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdrückern.;;;;;;;x
+free_peoples_desc;Liberate a §Ycountry§W's state from its oppressors;Liberer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdruckern.;;;;;;;x
 free_peoples_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;;;;;;;x
 free_peoples_midgame;Free People Midgame;;;;;;;x
 free_peoples_midgame_short;$THIRD$ acquires $STATE$.;;;;;;;x
-free_peoples_midgame_desc;Liberate a §Ycountry§W's state from its oppressors for 33% less warscore.;Libérer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdrückern.;;;;;;;x
+free_peoples_midgame_desc;Liberate a §Ycountry§W's state from its oppressors for 33% less warscore.;Liberer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdruckern.;;;;;;;x
 free_peoples_midgame_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;;;;;;;x
 free_peoples_lategame;Free People Lategame;;;;;;;x
 free_peoples_lategame_short;$THIRD$ acquires $STATE$.;;;;;;;x
-free_peoples_lategame_desc;Liberate a §Ycountry§W's state from its oppressors for 55% less warscore.;Libérer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdrückern.;;;;;;;x
+free_peoples_lategame_desc;Liberate a §Ycountry§W's state from its oppressors for 55% less warscore.;Liberer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdruckern.;;;;;;;x
 free_peoples_lategame_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;;;;;;;x
 liberate_country;Liberate Country;;Befreit das Land;;;;;;;x
 liberate_country_short;$THIRD$ acquires $STATE$;;;;;;;x
-liberate_country_desc;Liberate an §Yentire country§W from its oppressors;;Befreit ein §Yganzes Land§W von seinen Unterdrückern;;;;;;;x
-liberate_country_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;Prendre $STATE$ à $RECIPIENT$ pour le rendre à $THIRD$;Gebt $STATE$ an $THIRD$ von $RECIPIENT$ zurück;;Arrebatar el estado de $STATE$ de manos de $RECIPIENT$ y devolvérselo a $THIRD$;;;;;;;x
+liberate_country_desc;Liberate an §Yentire country§W from its oppressors;;Befreit ein §Yganzes Land§W von seinen Unterdruckern;;;;;;;x
+liberate_country_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;Prendre $STATE$ à $RECIPIENT$ pour le rendre à $THIRD$;Gebt $STATE$ an $THIRD$ von $RECIPIENT$ zuruck;;Arrebatar el estado de $STATE$ de manos de $RECIPIENT$ y devolverselo a $THIRD$;;;;;;;x
 liberate_country_midgame;Liberate Country Midgame;;Befreit das Land;;;;;;;x
 liberate_country_midgame_short;$THIRD$ acquires $STATE$;;;;;;;x
-liberate_country_midgame_desc;Liberate an §Yentire country§W from its oppressors for 33% less.;;Befreit ein §Yganzes Land§W von seinen Unterdrückern;;;;;;;x
-liberate_country_midgame_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;Prendre $STATE$ à $RECIPIENT$ pour le rendre à $THIRD$;Gebt $STATE$ an $THIRD$ von $RECIPIENT$ zurück;;Arrebatar el estado de $STATE$ de manos de $RECIPIENT$ y devolvérselo a $THIRD$;;;;;;;x
+liberate_country_midgame_desc;Liberate an §Yentire country§W from its oppressors for 33% less.;;Befreit ein §Yganzes Land§W von seinen Unterdruckern;;;;;;;x
+liberate_country_midgame_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;Prendre $STATE$ à $RECIPIENT$ pour le rendre à $THIRD$;Gebt $STATE$ an $THIRD$ von $RECIPIENT$ zuruck;;Arrebatar el estado de $STATE$ de manos de $RECIPIENT$ y devolverselo a $THIRD$;;;;;;;x
 liberate_country_late;Liberate Country Lategame;;Befreit das Land;;;;;;;x
 liberate_country_late_short;$THIRD$ acquires $STATE$;;;;;;;x
-liberate_country_late_desc;Liberate an §Yentire country§W from its oppressors for 55% less.;;Befreit ein §Yganzes Land§W von seinen Unterdrückern;;;;;;;x
-liberate_country_late_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;Prendre $STATE$ à $RECIPIENT$ pour le rendre à $THIRD$;Gebt $STATE$ an $THIRD$ von $RECIPIENT$ zurück;;Arrebatar el estado de $STATE$ de manos de $RECIPIENT$ y devolvérselo a $THIRD$;;;;;;;x
+liberate_country_late_desc;Liberate an §Yentire country§W from its oppressors for 55% less.;;Befreit ein §Yganzes Land§W von seinen Unterdruckern;;;;;;;x
+liberate_country_late_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;Prendre $STATE$ à $RECIPIENT$ pour le rendre à $THIRD$;Gebt $STATE$ an $THIRD$ von $RECIPIENT$ zuruck;;Arrebatar el estado de $STATE$ de manos de $RECIPIENT$ y devolverselo a $THIRD$;;;;;;;x
 liberate_country_verylate;Liberate Country Very-Lategame;;Befreit das Land;;;;;;;x
 liberate_country_verylate_short;$THIRD$ acquires $STATE$;;;;;;;x
-liberate_country_verylate_desc;Liberate an §Yentire country§W from its oppressors for 55% less, and now also allows for bigger releaseable countries like India or Ukraine.;;Befreit ein §Yganzes Land§W von seinen Unterdrückern;;;;;;;x
-liberate_country_verylate_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;Prendre $STATE$ à $RECIPIENT$ pour le rendre à $THIRD$;Gebt $STATE$ an $THIRD$ von $RECIPIENT$ zurück;;Arrebatar el estado de $STATE$ de manos de $RECIPIENT$ y devolvérselo a $THIRD$;;;;;;;x
+liberate_country_verylate_desc;Liberate an §Yentire country§W from its oppressors for 55% less, and now also allows for bigger releaseable countries like India or Ukraine.;;Befreit ein §Yganzes Land§W von seinen Unterdruckern;;;;;;;x
+liberate_country_verylate_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;Prendre $STATE$ à $RECIPIENT$ pour le rendre à $THIRD$;Gebt $STATE$ an $THIRD$ von $RECIPIENT$ zuruck;;Arrebatar el estado de $STATE$ de manos de $RECIPIENT$ y devolverselo a $THIRD$;;;;;;;x
 free_allied_cores;Free Allied Cores;;;;;;;x
 free_allied_cores_short;$THIRD$ acquires $STATE$;;;;;;;x
-free_allied_cores_desc;Liberate cores belonging to an §Yallied country§W in your sphere;Libérer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdrückern.;;;;;;;x
+free_allied_cores_desc;Liberate cores belonging to an §Yallied country§W in your sphere;Liberer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdruckern.;;;;;;;x
 free_allied_cores_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;;;;;;;x
-release_puppet;Release Puppet;Libérer un État fantoche;Marionettenstaat entlassen;;;;;;;x
-release_puppet_short;$THIRD$ is released;$THIRD$ est libéré;$THIRD$ wurde entlassen;;;;;;;x
-release_puppet_desc;Release a §Ycountry§W from its sovereign nation;Libérer un §Ypays§W de sa nation souveraine;Entlassen Sie ein §YLand§W von seinem Herrenland.;;;;;;;x
-release_puppet_setup;Release $THIRD$ from $RECIPIENT$;Libérer $THIRD$ de $RECIPIENT$;Entlassen Sie $THIRD$ aus $RECIPIENT$;;;;;;;x
-release_puppet_AI;Release Puppet;Libérer un État fantoche;Marionettenstaat entlassen;;;;;;;x
-release_puppet_AI_short;$THIRD$ is released;$THIRD$ est libéré;$THIRD$ wurde entlassen;;;;;;;x
-release_puppet_AI_desc;Release a §Ycountry§W from its sovereign nation;Libérer un §Ypays§W de sa nation souveraine;Entlassen Sie ein §YLand§W von seinem Herrenland.;;;;;;;x
-release_puppet_AI_setup;Release $THIRD$ from $RECIPIENT$;Libérer $THIRD$ de $RECIPIENT$;Entlassen Sie $THIRD$ aus $RECIPIENT$;;;;;;;x
-cut_down_to_size_boxer;Cut down to size;Réduire;Größe reduzieren;;;;;;;x
-cut_down_to_size_boxer_short;Cut $RECIPIENT$ down to size;Réduire $RECIPIENT$;Reduzieren Sie die Größe von $RECIPIENT$;;;;;;;x
-cut_down_to_size_boxer_desc;Force another §Ycountry§W to disarm and pay reparations to us;Obliger un autre §Ypays§W à se désarmer et à nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrüstung und zu Reparationszahlungen an uns.;;;;;;;x
-cut_down_to_size_boxer_setup;Cut $RECIPIENT$ down to size;Réduire $RECIPIENT$;Reduzieren Sie die Größe von $RECIPIENT$;;;;;;;x
+release_puppet;Release Puppet;Liberer un Etat fantoche;Marionettenstaat entlassen;;;;;;;x
+release_puppet_short;$THIRD$ is released;$THIRD$ est libere;$THIRD$ wurde entlassen;;;;;;;x
+release_puppet_desc;Release a §Ycountry§W from its sovereign nation;Liberer un §Ypays§W de sa nation souveraine;Entlassen Sie ein §YLand§W von seinem Herrenland.;;;;;;;x
+release_puppet_setup;Release $THIRD$ from $RECIPIENT$;Liberer $THIRD$ de $RECIPIENT$;Entlassen Sie $THIRD$ aus $RECIPIENT$;;;;;;;x
+release_puppet_AI;Release Puppet;Liberer un Etat fantoche;Marionettenstaat entlassen;;;;;;;x
+release_puppet_AI_short;$THIRD$ is released;$THIRD$ est libere;$THIRD$ wurde entlassen;;;;;;;x
+release_puppet_AI_desc;Release a §Ycountry§W from its sovereign nation;Liberer un §Ypays§W de sa nation souveraine;Entlassen Sie ein §YLand§W von seinem Herrenland.;;;;;;;x
+release_puppet_AI_setup;Release $THIRD$ from $RECIPIENT$;Liberer $THIRD$ de $RECIPIENT$;Entlassen Sie $THIRD$ aus $RECIPIENT$;;;;;;;x
+cut_down_to_size_boxer;Cut down to size;Reduire;Grosse reduzieren;;;;;;;x
+cut_down_to_size_boxer_short;Cut $RECIPIENT$ down to size;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;x
+cut_down_to_size_boxer_desc;Force another §Ycountry§W to disarm and pay reparations to us;Obliger un autre §Ypays§W à se desarmer et à nous verser des compensations;Zwischen Sie ein anderes §YLand§W zur Abrustung und zu Reparationszahlungen an uns.;;;;;;;x
+cut_down_to_size_boxer_setup;Cut $RECIPIENT$ down to size;Reduire $RECIPIENT$;Reduzieren Sie die Grosse von $RECIPIENT$;;;;;;;x
 humiliate;Humiliate;Humilier;Erniedrigen;;;;;;;x
 humiliate_short;Humiliate $RECIPIENT$;Humilier $RECIPIENT$;$RECIPIENT$ erniedrigen;;;;;;;x
-humiliate_desc;Show our military might by humiliating an enemy §Ycountry§W, thus increasing our §Yprestige§W while lowering theirs;Afficher notre puissance militaire en humiliant un §Ypays§W ennemi et en augmentant notre §Yprestige§W tout en réduisant le leur;Zeigen Sie unsere Militärmacht durch Erniedrigung eines feindlichen §YLandes§W, wodurch Sie unser §YPrestige§W steigern und ihres verringern.;;;;;;;x
+humiliate_desc;Show our military might by humiliating an enemy §Ycountry§W, thus increasing our §Yprestige§W while lowering theirs;Afficher notre puissance militaire en humiliant un §Ypays§W ennemi et en augmentant notre §Yprestige§W tout en reduisant le leur;Zeigen Sie unsere Militarmacht durch Erniedrigung eines feindlichen §YLandes§W, wodurch Sie unser §YPrestige§W steigern und ihres verringern.;;;;;;;x
 humiliate_setup;Humiliate $RECIPIENT$;Humilier $RECIPIENT$;$RECIPIENT$ erniedrigen;;;;;;;x
 place_in_the_sun;Place in the sun;Une place au soleil;Ein Platz an der Sonne;;;;;;;x
 place_in_the_sun_short;Acquire $STATE$;;;;;;;x
-place_in_the_sun_desc;Aquire an enemy §Ycolonial state§W;Prendre un §YÉtat colonial§W ennemi;Erobern Sie einen feindlichen §YKolonialstaat§W.;;;;;;;x
+place_in_the_sun_desc;Aquire an enemy §Ycolonial state§W;Prendre un §YEtat colonial§W ennemi;Erobern Sie einen feindlichen §YKolonialstaat§W.;;;;;;;x
 place_in_the_sun_setup;Acquire colony $STATE$ from $RECIPIENT$;;;;;;;x
 place_in_the_sun_late;Place in the Sun Lategame;Une place au soleil;Ein Platz an der Sonne;;;;;;;x
 place_in_the_sun_late_short;Acquire $STATE$;;;;;;;x
-place_in_the_sun_late_desc;Aquire an enemy §Ycolonial state§W for 20% less.;Prendre un §YÉtat colonial§W ennemi;Erobern Sie einen feindlichen §YKolonialstaat§W.;;;;;;;x
+place_in_the_sun_late_desc;Aquire an enemy §Ycolonial state§W for 20% less.;Prendre un §YEtat colonial§W ennemi;Erobern Sie einen feindlichen §YKolonialstaat§W.;;;;;;;x
 place_in_the_sun_late_setup;Acquire colony $STATE$ from $RECIPIENT$ for 20% less.;;;;;;;x
-china_acquire_state;Chinese Reunification;Prendre État;$STATE$ erwerben;;;;;;;x
+china_acquire_state;Chinese Reunification;Prendre Etat;$STATE$ erwerben;;;;;;;x
 china_acquire_state_short;Acquire $STATE$;;;;;;;x
 china_acquire_state_desc;Aquire a Chinese §Ystate§W;;;;;;;x
 china_acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;x
-china_conquest;Chinese Reunification;Prendre État;$STATE$ erwerben;;;;;;;x
+china_conquest;Chinese Reunification;Prendre Etat;$STATE$ erwerben;;;;;;;x
 china_conquest_short;Annex $RECIPIENT$;;;;;;;x
 china_conquest_desc;Annex a Chinese rival;;;;;;;x
 china_conquest_setup;Annex $RECIPIENT$;;;;;;;x
-china_acquire_state_2;Chinese Reunification;Prendre État;$STATE$ erwerben;;;;;;;x
+china_acquire_state_2;Chinese Reunification;Prendre Etat;$STATE$ erwerben;;;;;;;x
 china_acquire_state_2_short;Acquire $STATE$;;;;;;;x
 china_acquire_state_2_desc;Aquire a Chinese §Ystate§W;;;;;;;x
 china_acquire_state_2_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;x
 demand_concession_casus_belli;Demand Concession;Demande de concession;Konzession verlangen;;;;;;;x
 demand_concession_casus_belli_short;Demand $STATE$;Demander $STATE$;Fordern Sie $STATE$;;;;;;;x
-demand_concession_casus_belli_desc;Force an §Yuncivilized country§W to secede territory to form a colonial concession.;Obligez un §Ypays non civilisé§W à faire sécession d'un territoire pour former une concession coloniale.;Zwingen Sie ein §Yunzivilisiertes Land§W, Gebiete zur Gründung einer Kolonialkonzession abzuspalten.;;;;;;;x
-demand_concession_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;Demandez à ce que $RECIPIENT$ fasse sécession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Gründung einer Kolonialkonzession abspaltet.;;;;;;;x
+demand_concession_casus_belli_desc;Force an §Yuncivilized country§W to secede territory to form a colonial concession.;Obligez un §Ypays non civilise§W à faire secession d'un territoire pour former une concession coloniale.;Zwingen Sie ein §Yunzivilisiertes Land§W, Gebiete zur Grundung einer Kolonialkonzession abzuspalten.;;;;;;;x
+demand_concession_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;Demandez à ce que $RECIPIENT$ fasse secession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Grundung einer Kolonialkonzession abspaltet.;;;;;;;x
 demand_concession_casus_belli_player_early;Demand Concession Early;Demande de concession;Konzession verlangen;;;;;;;x
 demand_concession_casus_belli_player_early_short;Demand $STATE$ for 100% more warscore.;Demander $STATE$;Fordern Sie $STATE$;;;;;;;x
-demand_concession_casus_belli_player_early_desc;Force the §Yuncivilized country§W to secede territory to form a colonial concession for 100% more warscore.;Obligez un §Ypays non civilisé§W à faire sécession d'un territoire pour former une concession coloniale.;Zwingen Sie ein §Yunzivilisiertes Land§W, Gebiete zur Gründung einer Kolonialkonzession abzuspalten.;;;;;;;x
-demand_concession_casus_belli_ai_early_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;Demandez à ce que $RECIPIENT$ fasse sécession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Gründung einer Kolonialkonzession abspaltet.;;;;;;;x
+demand_concession_casus_belli_player_early_desc;Force the §Yuncivilized country§W to secede territory to form a colonial concession for 100% more warscore.;Obligez un §Ypays non civilise§W à faire secession d'un territoire pour former une concession coloniale.;Zwingen Sie ein §Yunzivilisiertes Land§W, Gebiete zur Grundung einer Kolonialkonzession abzuspalten.;;;;;;;x
+demand_concession_casus_belli_ai_early_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;Demandez à ce que $RECIPIENT$ fasse secession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Grundung einer Kolonialkonzession abspaltet.;;;;;;;x
 demand_concession_casus_belli_ai_early;Demand Concession Early;Demande de concession;Konzession verlangen;;;;;;;x
 demand_concession_casus_belli_ai_early_short;Demand $STATE$ for 10% more warscore.;Demander $STATE$;Fordern Sie $STATE$;;;;;;;x
-demand_concession_casus_belli_ai_early_desc;Force the §Yuncivilized country§W to secede territory to form a colonial concession for 100% more warscore.;Obligez un §Ypays non civilisé§W à faire sécession d'un territoire pour former une concession coloniale.;Zwingen Sie ein §Yunzivilisiertes Land§W, Gebiete zur Gründung einer Kolonialkonzession abzuspalten.;;;;;;;x
-demand_concession_casus_belli_player_early_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;Demandez à ce que $RECIPIENT$ fasse sécession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Gründung einer Kolonialkonzession abspaltet.;;;;;;;x
+demand_concession_casus_belli_ai_early_desc;Force the §Yuncivilized country§W to secede territory to form a colonial concession for 100% more warscore.;Obligez un §Ypays non civilise§W à faire secession d'un territoire pour former une concession coloniale.;Zwingen Sie ein §Yunzivilisiertes Land§W, Gebiete zur Grundung einer Kolonialkonzession abzuspalten.;;;;;;;x
+demand_concession_casus_belli_player_early_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;Demandez à ce que $RECIPIENT$ fasse secession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Grundung einer Kolonialkonzession abspaltet.;;;;;;;x
 demand_concession_NI_casus_belli;Demand Concession;Demande de concession;Konzession verlangen;;;;;;;x
 demand_concession_NI_casus_belli_short;Demand $STATE$;Demander $STATE$;Fordern Sie $STATE$;;;;;;;x
-demand_concession_NI_casus_belli_desc;Force an §Yuncivilized country§W to secede territory to form a colonial concession.;Obligez un §Ypays non civilisé§W à faire sécession d'un territoire pour former une concession coloniale.;Zwingen Sie ein §Yunzivilisiertes Land§W, Gebiete zur Gründung einer Kolonialkonzession abzuspalten.;;;;;;;x
-demand_concession_NI_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;Demandez à ce que $RECIPIENT$ fasse sécession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Gründung einer Kolonialkonzession abspaltet.;;;;;;;x
+demand_concession_NI_casus_belli_desc;Force an §Yuncivilized country§W to secede territory to form a colonial concession.;Obligez un §Ypays non civilise§W à faire secession d'un territoire pour former une concession coloniale.;Zwingen Sie ein §Yunzivilisiertes Land§W, Gebiete zur Grundung einer Kolonialkonzession abzuspalten.;;;;;;;x
+demand_concession_NI_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;Demandez à ce que $RECIPIENT$ fasse secession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Grundung einer Kolonialkonzession abspaltet.;;;;;;;x
 demand_concession_BC_casus_belli;Demand Concession;Demande de concession;Konzession verlangen;;;;;;;x
 demand_concession_BC_casus_belli_short;Demand $STATE$;Demander $STATE$;Fordern Sie $STATE$;;;;;;;x
-demand_concession_BC_casus_belli_desc;Force an §Yuncivilized country§W to secede territory to form a colonial concession.;Obligez un §Ypays non civilisé§W à faire sécession d'un territoire pour former une concession coloniale.;Zwingen Sie ein §Yunzivilisiertes Land§W, Gebiete zur Gründung einer Kolonialkonzession abzuspalten.;;;;;;;x
-demand_concession_BC_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;Demandez à ce que $RECIPIENT$ fasse sécession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Gründung einer Kolonialkonzession abspaltet.;;;;;;;x
+demand_concession_BC_casus_belli_desc;Force an §Yuncivilized country§W to secede territory to form a colonial concession.;Obligez un §Ypays non civilise§W à faire secession d'un territoire pour former une concession coloniale.;Zwingen Sie ein §Yunzivilisiertes Land§W, Gebiete zur Grundung einer Kolonialkonzession abzuspalten.;;;;;;;x
+demand_concession_BC_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;Demandez à ce que $RECIPIENT$ fasse secession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Grundung einer Kolonialkonzession abspaltet.;;;;;;;x
 rude_boy;Containment;Confinement;Beherrschung;;;;;;;x
 rude_boy_short;Contain $RECIPIENT$;Contenir $RECIPIENT$;Halten Sie $RECIPIENT$ in Schach.;;;;;;;x
-rude_boy_desc;Force another §Ycountry§W, which has thrown off all pretenses of civilized conduct in the realm of international affairs, to vastly reduce its ambitions.;Obligez un autre §Ypays§W, qui s'est débarrassé de tout faux-semblant de conduite civilisée au royaume des affaires internationales, à limiter considérablement ses ambitions.;Zwingen Sie ein anderes §YLand§W, das bezüglich internationaler Beziehungen sämtliche Vortäuschungen zivilisierten Benehmens über Bord geworfen hat, seine Ambitionen drastisch zu reduzieren.;;;;;;;x
-rude_boy_setup;Contain $RECIPIENT$ by reducing their territory, prestige and military.;Confinez $RECIPIENT$ en réduisant son territoire, son prestige et son armée.;Halten Sie $RECIPIENT$ in Schach, indem Sie ihr Territorium, Prestige und Militär reduzieren.;;;;;;;x
+rude_boy_desc;Force another §Ycountry§W, which has thrown off all pretenses of civilized conduct in the realm of international affairs, to vastly reduce its ambitions.;Obligez un autre §Ypays§W, qui s'est debarrasse de tout faux-semblant de conduite civilisee au royaume des affaires internationales, à limiter considerablement ses ambitions.;Zwingen Sie ein anderes §YLand§W, das bezuglich internationaler Beziehungen samtliche Vortauschungen zivilisierten Benehmens uber Bord geworfen hat, seine Ambitionen drastisch zu reduzieren.;;;;;;;x
+rude_boy_setup;Contain $RECIPIENT$ by reducing their territory, prestige and military.;Confinez $RECIPIENT$ en reduisant son territoire, son prestige et son armee.;Halten Sie $RECIPIENT$ in Schach, indem Sie ihr Territorium, Prestige und Militar reduzieren.;;;;;;;x
 conquest;Conquest;Conquête;Annektieren;;;;;;;x
 conquest_short;Annex $RECIPIENT$;Annexer $RECIPIENT$;$RECIPIENT$ annektieren;;;;;;;x
-conquest_desc;Annex a single-state §Ycountry§W;Annexer un §Ypays§W à un seul État;Annektieren Sie ein Einzelstaat-§YLand§W;;;;;;;x
+conquest_desc;Annex a single-state §Ycountry§W;Annexer un §Ypays§W à un seul Etat;Annektieren Sie ein Einzelstaat-§YLand§W;;;;;;;x
 conquest_setup;Annex $RECIPIENT$;Annexer $RECIPIENT$;$RECIPIENT$ annektieren;;;;;;;x
 annex_africa;Scramble for Africa;;;;;;;x
 annex_africa_short;Demand that $RECIPIENT$ secede territory according to rules set at the Conference of Great Powers;;;;;;;x
@@ -177,15 +177,15 @@ annex_africa_full;Scramble for Africa - Annex;;;;;;;x
 annex_africa_full_short;Annex $RECIPIENT$;;;;;;;x
 annex_africa_full_desc;Force an §Yuncivilized country§W to become a protectorate according to rules set at the Conference of Great Powers;;;;;;;x
 annex_africa_full_setup;Annex $RECIPIENT$ according to rules set at the Conference of Great Powers;;;;;;;x
-establish_protectorate_casus_belli;Establish Protectorate;Établir un protectorat;Protektorat gründen;;;;;;;x
+establish_protectorate_casus_belli;Establish Protectorate;Etablir un protectorat;Protektorat grunden;;;;;;;x
 establish_protectorate_casus_belli_short;Annex $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;;;;;;x
 establish_protectorate_casus_belli_desc;Annex an §Yuncivilized country§W by forcing them to become a protectorate of ours.;;;;;;;x
 establish_protectorate_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;;;;;;;x
-establish_protectorate_NI_casus_belli;Establish Protectorate;Établir un protectorat;Protektorat gründen;;;;;;;x
+establish_protectorate_NI_casus_belli;Establish Protectorate;Etablir un protectorat;Protektorat grunden;;;;;;;x
 establish_protectorate_NI_casus_belli_short;Annex $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;;;;;;x
 establish_protectorate_NI_casus_belli_desc;Annex an §Yuncivilized country§W by forcing them to become a protectorate of ours.;;;;;;;x
 establish_protectorate_NI_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;;;;;;;x
-establish_protectorate_BC_casus_belli;Establish Protectorate;Établir un protectorat;Protektorat gründen;;;;;;;x
+establish_protectorate_BC_casus_belli;Establish Protectorate;Etablir un protectorat;Protektorat grunden;;;;;;;x
 establish_protectorate_BC_casus_belli_short;Annex $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;;;;;;x
 establish_protectorate_BC_casus_belli_desc;Annex an §Yuncivilized country§W by forcing them to become a protectorate of ours.;;;;;;;x
 establish_protectorate_BC_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;;;;;;;x
@@ -222,10 +222,10 @@ call_allies_cb;Call Allies;;;;;;;x
 call_allies_cb_short;Call Allies;;;;;;;x
 call_allies_cb_desc;Call Allies;;;;;;;x
 call_allies_cb_setup;Call Allies;;;;;;;x
-acquire_any_state;Acquire State;Prendre territoire clé;Kernprovinz erwerben;;;;;;;x
+acquire_any_state;Acquire State;Prendre territoire cle;Kernprovinz erwerben;;;;;;;x
 acquire_any_state_short;Acquire $STATE$;;;;;;;x
-acquire_any_state_desc;Aquire an enemy §Ystate§W;Prendre un §YÉtat§W ennemi où nous avons des §Yprovinces principales§W;Erobern Sie einen feindlichen §YStaat§W, in dem wir §YKernprovinzen§W haben.;;;;;;;x
-acquire_any_state_setup;Acquire $STATE$ from $RECIPIENT$;Prendre État clé $STATE$ de $RECIPIENT$;Kern-$STATE$ von $RECIPIENT$ erwerben;;;;;;;x
+acquire_any_state_desc;Aquire an enemy §Ystate§W;Prendre un §YEtat§W ennemi où nous avons des §Yprovinces principales§W;Erobern Sie einen feindlichen §YStaat§W, in dem wir §YKernprovinzen§W haben.;;;;;;;x
+acquire_any_state_setup;Acquire $STATE$ from $RECIPIENT$;Prendre Etat cle $STATE$ de $RECIPIENT$;Kern-$STATE$ von $RECIPIENT$ erwerben;;;;;;;x
 conquest_any;Conquest;;;;;;;x
 conquest_any_short;Annex $RECIPIENT$;;;;;;;x
 conquest_any_desc;Conquer an §Yenemy country§W;;;;;;;x
@@ -260,8 +260,8 @@ NORMAL_WAR_ALL_CORES_NAME;$ORDER$War of $FIRST$ Liberation;;;;;;;x
 NORMAL_WAR_ALL_CORES_NAME_USA_MEX;$ORDER$Mexican-American War;;;;;;;x
 AGRESSION_WAR_UNIFICATION_NAME;$ORDER$$FIRST$ Liberation of $STATE$;;;;;;;x
 NORMAL_WAR_UNIFICATION_NAME;$ORDER$$FIRST$ Liberation of $STATE$;;;;;;;x
-AGRESSION_CIVIL_WAR_NAME;$ORDER$$FIRST$ Civil War;$ORDER$guerre civile $FIRST$;$ORDER$$FIRST$ Bürgerkrieg;;;;;;;x
-NORMAL_CIVIL_WAR_NAME;$ORDER$$FIRST$ Civil War;$ORDER$guerre civile $FIRST$;$ORDER$$FIRST$ Bürgerkrieg;;;;;;;x
+AGRESSION_CIVIL_WAR_NAME;$ORDER$$FIRST$ Civil War;$ORDER$guerre civile $FIRST$;$ORDER$$FIRST$ Burgerkrieg;;;;;;;x
+NORMAL_CIVIL_WAR_NAME;$ORDER$$FIRST$ Civil War;$ORDER$guerre civile $FIRST$;$ORDER$$FIRST$ Burgerkrieg;;;;;;;x
 NORMAL_CIVIL_WAR_NAME_NEJ_HAL;$ORDER$War of Arabian Domination;;;;;;;x
 NORMAL_CIVIL_WAR_NAME_HAL_NEJ;$ORDER$War of Arabian Domination;;;;;;;x
 AGRESSION_WAR_UNIFICATION_ANNEX_NAME;$ORDER$$FIRST$ Liberation of $SECOND_COUNTRY$;;;;;;;x
@@ -276,10 +276,10 @@ NORMAL_UNIFICATION_HUMILIATE_NAME;The $FIRST$-$SECOND$ Brother's War;$FIRST$-$SE
 AGRESSION_WAR_TAKE_SPHERE_NAME;$ORDER$$FIRST$-$SECOND$ War over $COUNTRY$;$ORDER$guerre $FIRST$-$SECOND$ pour $COUNTRY$;$ORDER$$FIRST$-$SECOND$ Krieg um $COUNTRY$;;;;;;;x
 NORMAL_WAR_TAKE_SPHERE_NAME;$ORDER$$COUNTRY$ War;$ORDER$guerre de $COUNTRY$;$ORDER$$COUNTRY$ Krieg;;;;;;;x
 AGRESSION_WAR_FREE_NAME;$ORDER$$FIRST$ War of Propping up $COUNTRY$;$ORDER$$FIRST$ guerre de soutien de $COUNTRY$;$ORDER$$FIRST$ Krieg zur Absicherung von $COUNTRY$;;;;;;;x
-NORMAL_WAR_FREE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;$ORDER$$FIRST$ guerre de la liberté $COUNTRY_ADJ$;$ORDER$$FIRST$ $COUNTRY_ADJ$ Freiheitskrieg;;;;;;;x
+NORMAL_WAR_FREE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;$ORDER$$FIRST$ guerre de la liberte $COUNTRY_ADJ$;$ORDER$$FIRST$ $COUNTRY_ADJ$ Freiheitskrieg;;;;;;;x
 AGRESSION_WAR_FREE_ALLIED_CORE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Restoration;;;;;;;x
 NORMAL_WAR_FREE_ALLIED_CORE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Restoration;;;;;;;x
-AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME;$ORDER$War of $FIRST$ Aggression;$ORDER$$FIRST$ guerre d'aggression;$ORDER$$FIRST$er Angriffskrieg;Wojna $ORDER$$FIRST$-$SECOND$;$ORDER$Guerra de $FIRST$ agresión;$ORDER$Guerra $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ háború;$ORDER$$FIRST$-$SECOND$ válka;;;;;;
+AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME;$ORDER$War of $FIRST$ Aggression;$ORDER$$FIRST$ guerre d'aggression;$ORDER$$FIRST$er Angriffskrieg;Wojna $ORDER$$FIRST$-$SECOND$;$ORDER$Guerra de $FIRST$ agresion;$ORDER$Guerra $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ haboru;$ORDER$$FIRST$-$SECOND$ valka;;;;;;
 AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME_RUS_TUR;$ORDER$Crimean War;;;;;;;x
 NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME;$ORDER$$FIRST$-$SECOND$ War;;;;;;;x
 NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME_RUS_TUR;$ORDER$Crimean War;;;;;;;x
@@ -299,9 +299,9 @@ NORMAL_EARLY_WAR_CONCESSION_NAME;$ORDER$War of The $STATE$ Concession;$ORDER$Gue
 AGRESSION_WAR_RUDEBOI_NAME;$ORDER$$FIRST$ of $SECOND$ Containment;$ORDER$$FIRST$ guerre de confinement $SECOND$;$ORDER$$FIRST$ Krieg der $SECOND$ Beherrschung;;;;;;;x
 NORMAL_WAR_RUDEBOI_NAME;$ORDER$$FIRST$ War of $SECOND$ Containment;$ORDER$$FIRST$ guerre de confinement $SECOND$;$ORDER$$FIRST$ Krieg der $SECOND$ Beherrschung;;;;;;;x
 AGRESSION_WAR_CONQUEST_NAME;$ORDER$War of $FIRST$ Aggression against $SECOND_COUNTRY$;$ORDER$guerre de l'aggression $FIRST$ sur $SECOND$;$ORDER$Krieg der $FIRST$ Aggression gegen $SECOND$;;;;;;;x
-AGRESSION_WAR_PROTECTORATE_NAME;$ORDER$Acquisition of $FIRST$ $SECOND_COUNTRY$;$ORDER$$FIRST$ acquisition de $SECOND_COUNTRY$;$ORDER$Übernahme von $FIRST$ $SECOND_COUNTRY$;;;;;;;x
-NORMAL_WAR_PROTECTORATE_NAME;$ORDER$$FIRST$ Acquisition of $SECOND_COUNTRY$;$ORDER$$FIRST$ acquisition de $SECOND_COUNTRY$;$ORDER$Übernahme von $FIRST$ $SECOND_COUNTRY$;;;;;;;x
-AGRESSION_WAR_PUPPET_NAME;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;$ORDER$guerre de $FIRST$ pour le contrôle de $SECOND_COUNTRY$;$ORDER$Krieg um die Kontrolle von $FIRST$ über $SECOND_COUNTRY$;;;;;;;x
+AGRESSION_WAR_PROTECTORATE_NAME;$ORDER$Acquisition of $FIRST$ $SECOND_COUNTRY$;$ORDER$$FIRST$ acquisition de $SECOND_COUNTRY$;$ORDER$Ubernahme von $FIRST$ $SECOND_COUNTRY$;;;;;;;x
+NORMAL_WAR_PROTECTORATE_NAME;$ORDER$$FIRST$ Acquisition of $SECOND_COUNTRY$;$ORDER$$FIRST$ acquisition de $SECOND_COUNTRY$;$ORDER$Ubernahme von $FIRST$ $SECOND_COUNTRY$;;;;;;;x
+AGRESSION_WAR_PUPPET_NAME;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;$ORDER$guerre de $FIRST$ pour le contrôle de $SECOND_COUNTRY$;$ORDER$Krieg um die Kontrolle von $FIRST$ uber $SECOND_COUNTRY$;;;;;;;x
 AGRESSION_WAR_PUPPET_NAME_TUR_ROM;$ORDER$Romanian War of Independence;;;;;;;x
 NORMAL_WAR_PUPPET_NAME_TUR_EGY;$ORDER$Oriental Crisis;;;;;;;x
 NORMAL_WAR_PUPPET_NAME_TUR_ROM;$ORDER$Romanian War of Independence;;;;;;;x

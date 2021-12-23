@@ -143,32 +143,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Cara de Dios" Ecuador Flores "García Moreno" Illingworth Inca Libertador Rocafuerte Stagg Veintemilla
+		"Cara de Dios" Ecuador Flores "Garcia Moreno" Illingworth Inca Libertador Rocafuerte Stagg Veintemilla
 	}
 	ironclad = {
-		Cormorán "El Oro" Guayas Imbabura "León Marino" "Los Ríos" Manabí Marcismo Pingüino Tortuga
+		Cormoran "El Oro" Guayas Imbabura "Leon Marino" "Los Rios" Manabi Marcismo Pinguino Tortuga
 	}
 	manowar = {
-		Alcance Chimborazo Colombia Diligencia "Gracia del Guayas" Guayaquileña Pichincha "San Francisco" "San Juan" "Santa Marina"
+		Alcance Chimborazo Colombia Diligencia "Gracia del Guayas" Guayaquilena Pichincha "San Francisco" "San Juan" "Santa Marina"
 	}
 	cruiser = {
-		Amazonía Bolívar Galápagos Libertad "Luz de América" Mestizo Orellana Oriente Patria "Santa Elena"
+		Amazonia Bolivar Galapagos Libertad "Luz de America" Mestizo Orellana Oriente Patria "Santa Elena"
 	}
 	frigate = {
-		Constitución Cuenca Cuero Esmeraldas Espejo Guayaquil Montufar Quito República Zamora
+		Constitucion Cuenca Cuero Esmeraldas Espejo Guayaquil Montufar Quito Republica Zamora
 	}
 	monitor = {
-		Coca Cotopaxi Huancavilca Illiniza Manteño Napo Pastaza Putumayo Shyri Tunguraha 
+		Coca Cotopaxi Huancavilca Illiniza Manteno Napo Pastaza Putumayo Shyri Tunguraha 
 	}
 	clipper_transport = {
-		Audaz Cuencana Darwin Indestructible Ingapirca Intrépido "Lago Agrio" Marina Orellana Portoviejo
-		Puyeña Quiteña "San Gregorio" "San José" "San Miguel" "Santa María" Santiago "Santo Domingo" Tena Veloz
+		Audaz Cuencana Darwin Indestructible Ingapirca Intrepido "Lago Agrio" Marina Orellana Portoviejo
+		Puyena Quitena "San Gregorio" "San Jose" "San Miguel" "Santa Maria" Santiago "Santo Domingo" Tena Veloz
 	}
 	steam_transport = { 
-		Audaz Cuencana Darwin Indestructible Ingapirca Intrépido "Lago Agrio" Marina Orellana Portoviejo
-		Puyeña Quiteña "San Gregorio" "San José" "San Miguel" "Santa María" Santiago "Santo Domingo" Tena Veloz
+		Audaz Cuencana Darwin Indestructible Ingapirca Intrepido "Lago Agrio" Marina Orellana Portoviejo
+		Puyena Quitena "San Gregorio" "San Jose" "San Miguel" "Santa Maria" Santiago "Santo Domingo" Tena Veloz
 	}
 	commerce_raider = {
-		Atacazo Babahoyo Cayambe Corazón Filocorrales Ibarra Machala Puyo Reventador Tulcán
+		Atacazo Babahoyo Cayambe Corazon Filocorrales Ibarra Machala Puyo Reventador Tulcan
 	}
 }

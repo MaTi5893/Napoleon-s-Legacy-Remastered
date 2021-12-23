@@ -171,30 +171,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Almirante Montt" Antofagasta Atacama Iquique Latorre O'Higgins República "San Martín" "Santiago de Chile" Valparaíso
+		"Almirante Montt" Antofagasta Atacama Iquique Latorre O'Higgins Republica "San Martin" "Santiago de Chile" Valparaiso
 	}
 	ironclad = {
-		"Almirante Williams" Austral Blanco "Blanco Encalada" "Capitán Prat" Cochrane "Isla de Pascua" "Norte Chico" "Norte Grande" "Ojos del Salado"
+		"Almirante Williams" Austral Blanco "Blanco Encalada" "Capitan Prat" Cochrane "Isla de Pascua" "Norte Chico" "Norte Grande" "Ojos del Salado"
 	}
 	manowar = {
-		Abtao Águila Araucano Chacabuco Fortunata Galvarino Lautaro O'Higgins Potrillo "San Martín" 
+		Abtao Aguila Araucano Chacabuco Fortunata Galvarino Lautaro O'Higgins Potrillo "San Martin" 
 	}
 	cruiser = {
-		Aguamarina Diamante "Director Eyzaguirre" "Director Freire" Esmeralda Llullaillaco Parinacota "Presidente Errázuriz" "Presidente Pinto" Tupungato
+		Aguamarina Diamante "Director Eyzaguirre" "Director Freire" Esmeralda Llullaillaco Parinacota "Presidente Errazuriz" "Presidente Pinto" Tupungato
 	}
 	frigate = {
-		Aisén Araucania Arica Biobío Coquimbo "Los Lagos" "Los Ríos" Maule Tarapacá Valdivia
+		Aisen Araucania Arica Biobio Coquimbo "Los Lagos" "Los Rios" Maule Tarapaca Valdivia
 	}
 	monitor = {
-		Anganemon Butapichón Colo-Colo Curiñancu Guaiquimilla Huáscar Lientur "Pedro de Valdivia" Pelantaru Vilumilla
+		Anganemon Butapichon Colo-Colo Curinancu Guaiquimilla Huascar Lientur "Pedro de Valdivia" Pelantaru Vilumilla
 	}
 	clipper_transport = { 
-		 Coihaique Concepción Copiapo "Del Toro" Iquique "La Serena" "Laguna Blanca" "Puerto Montt" "Punta Arenas" Rancagua
-		"San José" "San Pedro" "San Rafael" "Santa Inés" "Santa María" Santiago Sarmiento Talca Temuco Yulton
+		 Coihaique Concepcion Copiapo "Del Toro" Iquique "La Serena" "Laguna Blanca" "Puerto Montt" "Punta Arenas" Rancagua
+		"San Jose" "San Pedro" "San Rafael" "Santa Ines" "Santa Maria" Santiago Sarmiento Talca Temuco Yulton
 	}
 	steam_transport = { 
-		Coihaique Concepción Copiapo "Del Toro" Iquique "La Serena" "Laguna Blanca" "Puerto Montt" "Punta Arenas" Rancagua
-		"San José" "San Pedro" "San Rafael" "Santa Inés" "Santa María" Santiago Sarmiento Talca Temuco Yulton
+		Coihaique Concepcion Copiapo "Del Toro" Iquique "La Serena" "Laguna Blanca" "Puerto Montt" "Punta Arenas" Rancagua
+		"San Jose" "San Pedro" "San Rafael" "Santa Ines" "Santa Maria" Santiago Sarmiento Talca Temuco Yulton
 	}
 	commerce_raider = {
 		"Almirante Condell" "Almirante Lynch" Angamos Aquiles Casma Chacabuco Chipana Covadonga Magallanes Orompello
