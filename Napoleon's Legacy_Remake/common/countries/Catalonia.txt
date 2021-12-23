@@ -155,17 +155,17 @@ unit_names = {
 		"Ateneu de Grandesa" "Cibeles" "Consolat del Mar" "Diana" "Juno" "Minerva" "Quadribarrada" "Sang sobre Or" "Senyera" "Tirant lo Blanch"
 	}
 	frigate = {
-		"Barcelona" "Cristòfor Despuig" "Girona" "Joanot Martorell" "Jupiter" "Lleida" "Neptu" "Pere Serafi" "Pluto" "Tarragona"
+		"Barcelona" "Cristofor Despuig" "Girona" "Joanot Martorell" "Jupiter" "Lleida" "Neptu" "Pere Serafi" "Pluto" "Tarragona"
 	}
 	monitor = {
-		"Comtat de Barcelona" "Comtat d'Empuries" "Comtat d'Urgell" "Dues Sicilies" "Hèrcules" "Mallorca" "Nèmesi" "Sardenya" "València" "Vulcano"
+		"Comtat de Barcelona" "Comtat d'Empuries" "Comtat d'Urgell" "Dues Sicilies" "Hercules" "Mallorca" "Nemesi" "Sardenya" "Valencia" "Vulcano"
 	}
 	clipper_transport = { 
-		"Àguila Negra" "Drac Vermell" "Estrella" "Fama" "Fidel" "Fletxa" "Glòria" "Ibera" "Lleo de Montpellier" "Mare de Deu de Montserrat"
+		"Àguila Negra" "Drac Vermell" "Estrella" "Fama" "Fidel" "Fletxa" "Gloria" "Ibera" "Lleo de Montpellier" "Mare de Deu de Montserrat"
 		"Mercuri" "Nimfa" "Sant Antoni" "Santa Anna" "Saturn" "Sirena" "Sorpresa" "Tetis" "Trito" "Unicorn"
 	}
 	steam_transport = { 
-		"Àguila Negra" "Drac Vermell" "Estrella" "Fama" "Fidel" "Fletxa" "Glòria" "Ibera" "Lleo de Montpellier" "Mare de Deu de Montserrat"
+		"Àguila Negra" "Drac Vermell" "Estrella" "Fama" "Fidel" "Fletxa" "Gloria" "Ibera" "Lleo de Montpellier" "Mare de Deu de Montserrat"
 		"Mercuri" "Nimfa" "Sant Antoni" "Santa Anna" "Saturn" "Sirena" "Sorpresa" "Tetis" "Trito" "Unicorn"
 	}
 	commerce_raider = {

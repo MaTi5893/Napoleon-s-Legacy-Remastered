@@ -44,7 +44,7 @@ unification_casus_belli_setup;Liberate core territory of our §YCultural Union§W.
 civil_war;Civil War;Guerre civile;Burgerkrieg;;;;;;;x
 civil_war_short;Unite the nation;Unifier la nation;Einen Sie die Nation!;;;;;;;x
 civil_war_desc;Your nation is in a state of civil war;Votre nation est en guerre civile;Ihre Nation befindet sich in einem Burgerkrieg.;;;;;;;x
-civil_war_setup;End the war by reuniting our nation under a common banner again.;Mettez fin à la guerre en reunifiant notre nation sous une même bannière.;Beenden Sie den Krieg durch die Wiedervereinigung unserer Nation unter einer gemeinsamen Flagge.;;;;;;;x
+civil_war_setup;End the war by reuniting our nation under a common banner again.;Mettez fin à la guerre en reunifiant notre nation sous une même banniere.;Beenden Sie den Krieg durch die Wiedervereinigung unserer Nation unter einer gemeinsamen Flagge.;;;;;;;x
 unification_annex_casus_belli;War of Unification;Guerre d'unification;Vereinigungskrieg;;;;;;;x
 unification_annex_casus_belli_short;Annexation of $RECIPIENT$;;;;;;;;;x
 unification_annex_casus_belli_desc;Liberate core territory of our §YCultural Union§W.;Liberez un territoire cle de notre §Yunion culturelle§W.;Befreien Sie das Kerngebiet unserer §YKulturunion§W;;;;;;;x
@@ -53,9 +53,9 @@ annex_core_country;Restore Order;Retablir l'ordre;Stellen Sie die Ordnung wieder
 annex_core_country_short;Annex $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;;;;;;x
 annex_core_country_desc;Annex a foreign §Ycountry§W all provinces of which are your cores.;Annexez un §Ypays§W etranger dont toutes les provinces sont vos territoires cles.;Annektieren Sie alle Provinzen eines auslandischen §YLandes§W, die zu Ihren Kernprovinzen gehoren.;;;;;;;x
 annex_core_country_setup;Annex $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;;;;;;x
-add_to_sphere;Add to Sphere;ajouter à la sphère;In Einflusssphare aufnehmen;;;;;;;x
+add_to_sphere;Add to Sphere;ajouter à la sphere;In Einflusssphare aufnehmen;;;;;;;x
 add_to_sphere_short;Add $RECIPIENT$ to Sphere of Influence;;;;;;;x
-add_to_sphere_desc;Add country to our §YSphere of Influence§W;Ajouter un pays à notre §Ysphère d'influence§W;Fugen Sie das Land Ihrer §YEinflusssphare§W hinzu.;;;;;;;x
+add_to_sphere_desc;Add country to our §YSphere of Influence§W;Ajouter un pays à notre §Ysphere d'influence§W;Fugen Sie das Land Ihrer §YEinflusssphare§W hinzu.;;;;;;;x
 add_to_sphere_setup;Add $RECIPIENT$ to Sphere of Influence;;;;;;;x
 unification_humiliate_cb;Assert Hegemony;Imposer l'hegemonie;Vorherrschaft durchsetzen;;;;;;;x
 unification_humiliate_cb_short;Admit Hegemony;Admettre l'hegemonie;Vorherrschaft anerkennen;;;;;;;x
@@ -67,12 +67,12 @@ unification_GP_humiliate_desc;Show our military might by humiliating an enemy §Y
 unification_GP_humiliate_setup;Humiliate $RECIPIENT$;;;;;;;x
 unification_add_to_sphere;Unification Add to Sphere;;;;;;;x
 unification_add_to_sphere_short;Add $RECIPIENT$ to Sphere of Influence;;;;;;;x
-unification_add_to_sphere_desc;Add country §Yof our culture group§W to our §YSphere of Influence§W;Ajouter un pays à notre §Ysphère d'influence§W;Fugen Sie das Land Ihrer §YEinflusssphare§W hinzu.;;;;;;;x
+unification_add_to_sphere_desc;Add country §Yof our culture group§W to our §YSphere of Influence§W;Ajouter un pays à notre §Ysphere d'influence§W;Fugen Sie das Land Ihrer §YEinflusssphare§W hinzu.;;;;;;;x
 unification_add_to_sphere_setup;Add $RECIPIENT$ to Sphere of Influence;;;;;;;x
-take_from_sphere;Take from sphere of influence;Prendre à la sphère d'influence;Aus Einflusssphare entfernen;;;;;;;x
+take_from_sphere;Take from sphere of influence;Prendre à la sphere d'influence;Aus Einflusssphare entfernen;;;;;;;x
 take_from_sphere_short;Take $THIRD$ from sphere of influence;;;;;;;x
 take_from_sphere_desc;Remove a country from someone's §YSphere of Influence§W and add it to our own;;;;;;;x
-take_from_sphere_setup;Take $THIRD$ from $RECIPIENT$'s sphere of influence;Prendre $THIRD$ à la sphère d'influence de $RECIPIENT$;$THIRD$ aus Einflusssphare von $RECIPIENT$ entfernen;;;;;;;x
+take_from_sphere_setup;Take $THIRD$ from $RECIPIENT$'s sphere of influence;Prendre $THIRD$ à la sphere d'influence de $RECIPIENT$;$THIRD$ aus Einflusssphare von $RECIPIENT$ entfernen;;;;;;;x
 free_peoples;Free People Early;;;;;;;x
 free_peoples_short;$THIRD$ acquires $STATE$;;;;;;;x
 free_peoples_desc;Liberate a §Ycountry§W's state from its oppressors;Liberer un §Ypays§W de ses oppresseurs;Befreien Sie ein §YLand§W von seinen Unterdruckern.;;;;;;;x

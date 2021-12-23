@@ -130,28 +130,28 @@ party = {
 unit_names = {
 	dreadnought = {
 		Quebec Montreal Acadie Canada Cartier Montcalm "De la Salle" Detroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		"Trois-Rivieres" Champlain Richelieu 
 		
 	}
 	ironclad = {
 		Quebec Montreal Acadie Canada Cartier Montcalm "De la Salle" Detroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu
+		"Trois-Rivieres" Champlain Richelieu
 	}
 	manowar = {
 		Quebec Montreal Acadie Canada Cartier Montcalm "De la Salle" Detroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		"Trois-Rivieres" Champlain Richelieu 
 	}
 	cruiser = {
 		Quebec Montreal Acadie Canada Cartier Montcalm "De la Salle" Detroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		"Trois-Rivieres" Champlain Richelieu 
 	}
 	frigate = {
 		Quebec Montreal Acadie Canada Cartier Montcalm "De la Salle" Detroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		"Trois-Rivieres" Champlain Richelieu 
 	}
 	monitor = {
 		Quebec Montreal Acadie Canada Cartier Montcalm "De la Salle" Detroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		"Trois-Rivieres" Champlain Richelieu 
 	}
 	clipper_transport = {
 		
@@ -161,6 +161,6 @@ unit_names = {
 	}
 	commerce_raider = {
 		Quebec Montreal Acadie Canada Cartier Montcalm "De la Salle" Detroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		"Trois-Rivieres" Champlain Richelieu 
 	}
 }

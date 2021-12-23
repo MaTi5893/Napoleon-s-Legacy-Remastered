@@ -255,7 +255,7 @@ unit_names = {
         "Conde" "Turenne" "Montebello" "Austerlitz" "Souverain" "Navarin" "Ulm" "Wagram"
         "Algesiras" "Arcole" "Friedland" "Imperial" "Eylau" "Tilsitt" "Jena" "Auerstadt"
         "Marengo" "Toulon" "Bellone" "Glorieuse" "Gracieuse" "Audacieuse" "Impetueuse" "Ardente"
-        "Victoire" "GuerriËre" "Temeraire" "Triomphant" "Tigre" "Perseverante" "Vigilant"
+        "Victoire" "Guerriere" "Temeraire" "Triomphant" "Tigre" "Perseverante" "Vigilant"
         "Tenace" "Elan" "Duguay Trouin" "Lamotte-Picquet" "Primaguet" "Duquesne" "Tourville"
         "Colbert" "Foch" "Algerie" "Jeanne D'Arc" "Maroc" "Lafayette" "Davout" "Suchet" "Forbin"
         "Surcouf" "Cosmao" "Lalande" "Galilee" "Lavoisier" "Linois" "La Galissionere"
@@ -264,7 +264,7 @@ unit_names = {
         "Amiral Cecille" "Davout" "Suchet" "Coelogon" "Forbin" "Surcouf" "Cosmao" "Lalande"
         "Troude" "Galilee" "Lavoisier" "Linois" "TunisiÅ" "Isly" "Bugeaud" "Chasseloup-Laubat"
         "Friant" "Descartes" "Pascal" "Cassard" "D'Assas" "Du Chayla" "Catinat" "Protet"
-        "D'Entrecasteaux" "Guichen" "Chateaurenault" "D'Estreese" "Infernet" "Jurien de la GraviËre"
+        "D'Entrecasteaux" "Guichen" "Chateaurenault" "D'Estreese" "Infernet" "Jurien de la Graviere"
         "Pluton" "Emile Bertin" "Dupuy de Lome" "Admiral Charner" "Bruix" "Chanzy" "Latouche-Treville"
         "Pothau" "Dupetit-Thouars" "Gueydon" "Montcalm" "Desaix" "Dupleix" "Kleber"
         "Amiral Aube" "Conde" "Sully" "Leon Gambetta" "Victor Hugo" "Jules Michelet"
@@ -287,7 +287,7 @@ unit_names = {
         "Asmodee" "Gomer" "Darien" "Labrador" "Ulloa" "Cacique" "Canada" "Christophe Colomb"
         "Eldorado" "Magellan" "Montezuma" "Orenoque" "Panama" "Albatros" "Descartes" "Vauban"
         "Caffarelli" "Mogador" "Pomone" "Isly" "Bellone" "Foudre" "Imperatrice Eugenie"
-        "Souveraine" "Audacieuse" "Impetueuse" "Ardente" "Victoire" "GuerriËre" "Renommee"
+        "Souveraine" "Audacieuse" "Impetueuse" "Ardente" "Victoire" "Guerriere" "Renommee"
         "Danae" "Pandore" "Zenobie" "Clorinde" "Astree"
     }
 }
