@@ -171,32 +171,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Banda Oriental" Cisplatina Constitución "Coronel Gómez" "General Artigas" "General Santos" "General Suárez" Larrañaga "Presidente Flores" "República Oriental"
+		"Banda Oriental" Cisplatina Constitucion "Coronel Gomez" "General Artigas" "General Santos" "General Suarez" Larranaga "Presidente Flores" "Republica Oriental"
 	}
 	ironclad = {
-		"Cerro Catedral" "Cerro de las Ánimas" "Cerro Pan de Azúcar" "Cerros de San Juan" "Cuchilla Grande" "General Artigas" "General Oribe" "General Rivera" "Río de la Plata" "Sierra Carapé"
+		"Cerro Catedral" "Cerro de las Animas" "Cerro Pan de Azucar" "Cerros de San Juan" "Cuchilla Grande" "General Artigas" "General Oribe" "General Rivera" "Rio de la Plata" "Sierra Carape"
 	}
 	manowar = {
-		Bonanza Fortuna Intrépido "República Oriental" "San Antonio" "San Esteban" "San Fernando" Supremo Temerario Valiente
+		Bonanza Fortuna Intrepido "Republica Oriental" "San Antonio" "San Esteban" "San Fernando" Supremo Temerario Valiente
 	}
 	cruiser = {
-		"Cabo Polonia" Gaucho "Laguna de Castillos" "Laguna de Garzón" "Laguna de Rocha" Mate Montevideo "Quebrada de los Cuervos" "Santa Teresa" "Valle de Lunarejo"
+		"Cabo Polonia" Gaucho "Laguna de Castillos" "Laguna de Garzon" "Laguna de Rocha" Mate Montevideo "Quebrada de los Cuervos" "Santa Teresa" "Valle de Lunarejo"
 	}
 	frigate = {
 		Artigas Carmelo "Delta del Tigre" Dolores "Las Piedras" Oriental Progreso Rivera "San Carlos" Uruguay
 	}
 	monitor = {
-		"Colonia del Sacramento" "Fray Bentos" Marín Melo Mercedes Minas "Paso del Palmar" "Rincón del Bonete" "Río de la Plata" Trinidad
+		"Colonia del Sacramento" "Fray Bentos" Marin Melo Mercedes Minas "Paso del Palmar" "Rincon del Bonete" "Rio de la Plata" Trinidad
 	}
 	clipper_transport = { 
-		"Barón de Rio Branco" Beatriz Canelones "Cerro Largo" Durazno Flores Florida Inmaculada Lavallejo Maldonado
-		María Rápido Rocha Salto "San José" Soriano Tacarembó "Treinta y Tres" Vanguardia Vigoroso
+		"Baron de Rio Branco" Beatriz Canelones "Cerro Largo" Durazno Flores Florida Inmaculada Lavallejo Maldonado
+		Maria Rapido Rocha Salto "San Jose" Soriano Tacarembo "Treinta y Tres" Vanguardia Vigoroso
 	}
 	steam_transport = { 
-		"Barón de Rio Branco" Beatriz Canelones "Cerro Largo" Durazno Flores Florida Inmaculada Lavallejo Maldonado
-		María Rápido Rocha Salto "San José" Soriano Tacarembó "Treinta y Tres" Vanguardia Vigoroso
+		"Baron de Rio Branco" Beatriz Canelones "Cerro Largo" Durazno Flores Florida Inmaculada Lavallejo Maldonado
+		Maria Rapido Rocha Salto "San Jose" Soriano Tacarembo "Treinta y Tres" Vanguardia Vigoroso
 	}
 	commerce_raider = {
-		Audaz Colonia "Dieciocho de Julio" Fortuna Heroína Paysandú "Quince de Noviembre" "Río Negro" Temerario "Veinticinco de Agosto"
+		Audaz Colonia "Dieciocho de Julio" Fortuna Heroina Paysandu "Quince de Noviembre" "Rio Negro" Temerario "Veinticinco de Agosto"
 	}
 }

@@ -199,28 +199,28 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Afonso de Albuquerque" "Antónia Rodrigues" "Diogo Cão" "Duarte Pacheco Pereira" "Duarte de Almeida" "João da Nova" "Lopo Barriga" "Mem Moniz de Gandarei" "Munio Viegas" "Nuno Álvares Pereira" "Vasco da Gama"
+		"Afonso de Albuquerque" "Antonia Rodrigues" "Diogo Cao" "Duarte Pacheco Pereira" "Duarte de Almeida" "Joao da Nova" "Lopo Barriga" "Mem Moniz de Gandarei" "Munio Viegas" "Nuno Alvares Pereira" "Vasco da Gama"
 	}
 	ironclad = {
-		"Beira" "Ibo" "Chaimite" "Limpopo" "Lúrio" "Save" "Açor" "Tavira" "Faro" "Lagos"
+		"Beira" "Ibo" "Chaimite" "Limpopo" "Lurio" "Save" "Acor" "Tavira" "Faro" "Lagos"
 	}
 	manowar = {
-		"Príncipe Real" "Príncipe do Brazil" "Rainha de Portugal" "Afonso de Albuquerque" "Princesa da Beira" "Infante Dom Pedro" Medusa Belém "Maria Primeira" "São Sebastião" "Santo António" "Príncipe Regente" Teresa Golfinho Amazónia Pérola
+		"Principe Real" "Principe do Brazil" "Rainha de Portugal" "Afonso de Albuquerque" "Princesa da Beira" "Infante Dom Pedro" Medusa Belem "Maria Primeira" "Sao Sebastiao" "Santo Antonio" "Principe Regente" Teresa Golfinho Amazonia Perola
 	}
 	cruiser = {
-		"D. Carlos I" "S. Gabriel" "S. Rafael" "Adamastor" "Rainha D. Amélia" "Almirante Reis" "República" "Pedro Nunes" "Gil Eannes"
+		"D. Carlos I" "S. Gabriel" "S. Rafael" "Adamastor" "Rainha D. Amelia" "Almirante Reis" "Republica" "Pedro Nunes" "Gil Eannes"
 	}
 	frigate = {
-		"Fénix" "Amazona" "Cisne" "Minerva" "N.Sra. da Graça" "Pérola" "Princesa Carlota" "Princesa" "Príncipe da Beira" "Tristão" "Ulisses" "Vénus" "Golfinho" "S. João Príncipe" "Thétis" "Activa" "Dom Fernando II e Glória" "Princesa de Abiena" Andorinha "Real Fonsor" "BoaVentura" Serpente Diligente Gaivota "Real Fonza" Benjamim Tritão
+		"Fenix" "Amazona" "Cisne" "Minerva" "N.Sra. da Graca" "Perola" "Princesa Carlota" "Princesa" "Principe da Beira" "Tristao" "Ulisses" "Venus" "Golfinho" "S. Joao Principe" "Thetis" "Activa" "Dom Fernando II e Gloria" "Princesa de Abiena" Andorinha "Real Fonsor" "BoaVentura" Serpente Diligente Gaivota "Real Fonza" Benjamim Tritao
 	}
 	monitor = {
-		"Tâmega" "Sado" "Rio Lima" "Tejo" "Douro" "Quanza" "Bengo" "Mandovi" "Rio Ave" "Guadiana" "Tavira" "Faro" "Lagos" 
+		"Tamega" "Sado" "Rio Lima" "Tejo" "Douro" "Quanza" "Bengo" "Mandovi" "Rio Ave" "Guadiana" "Tavira" "Faro" "Lagos" 
 	}
 	clipper_transport = {
 	}
 	steam_transport = { 
 	}
 	commerce_raider = {
-		"Bartolomeu Dias" "Estefânia" "Duque da Terceira" "Sá da Bandeira" "Rainha de Portugal" "Mindelo";
+		"Bartolomeu Dias" "Estefania" "Duque da Terceira" "Sa da Bandeira" "Rainha de Portugal" "Mindelo"
 	}
 }

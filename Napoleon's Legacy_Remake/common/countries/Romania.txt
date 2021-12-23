@@ -159,43 +159,43 @@ unit_names = {
 	dreadnought = {
 		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" 	
 
-		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Râul Prut" Suceava 
-		"Târgul Moldovei" Vaslui
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Raul Prut" Suceava 
+		"Targul Moldovei" Vaslui
 		
 	}
 	ironclad = {
 		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" 	
 
-		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Râul Prut" Suceava 
-		"Târgul Moldovei" Vaslui
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Raul Prut" Suceava 
+		"Targul Moldovei" Vaslui
 		
 	}
 	manowar = {
 		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" 	
 
-		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Râul Prut" Suceava 
-		"Târgul Moldovei" Vaslui
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Raul Prut" Suceava 
+		"Targul Moldovei" Vaslui
 		
 	}
 	cruiser = {
 		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" 	
 
-		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Râul Prut" Suceava 
-		"Târgul Moldovei" Vaslui
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Raul Prut" Suceava 
+		"Targul Moldovei" Vaslui
 		
 	}
 	frigate = {
 		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" 	
 
-		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Râul Prut" Suceava 
-		"Târgul Moldovei" Vaslui
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Raul Prut" Suceava 
+		"Targul Moldovei" Vaslui
 		
 	}
 	monitor = {
 		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" 	
 
-		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Râul Prut" Suceava 
-		"Târgul Moldovei" Vaslui
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Raul Prut" Suceava 
+		"Targul Moldovei" Vaslui
 		
 	}
 	clipper_transport = {
@@ -207,8 +207,8 @@ unit_names = {
 	commerce_raider = {
 		Romania "Stefan cel Mare" "Tudor Vladimirescu" Moldova "Mihail Sturdza" Dracul Viteazul "Putera mari" Sperietoaria "Frumuseatsa valurilor" 	
 
-		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Râul Prut" Suceava 
-		"Târgul Moldovei" Vaslui
+		Posada Calugareni Rovine Sirmium "Atacul de noapte" Litovoi "Athleta Christi" Baia "Bogdan I" Iuga Moldova "Raul Prut" Suceava 
+		"Targul Moldovei" Vaslui
 		
 	}
 }

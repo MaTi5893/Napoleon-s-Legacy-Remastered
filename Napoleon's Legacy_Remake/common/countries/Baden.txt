@@ -185,22 +185,22 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		Baden Zähringen Markgraf "Großherzog Leopold" "Großherzog Karl Friedrich" Türkenlouis Reichsgraf Durlach Sausenberg Hachberg
+		Baden Zahringen Markgraf "Grossherzog Leopold" "Grossherzog Karl Friedrich" Turkenlouis Reichsgraf Durlach Sausenberg Hachberg
 	}
 	ironclad = {
-		Baden Zähringen Markgraf "Großherzog Leopold" "Großherzog Karl Friedrich" Türkenlouis Reichsgraf Durlach Sausenberg Hachberg
+		Baden Zahringen Markgraf "Grossherzog Leopold" "Grossherzog Karl Friedrich" Turkenlouis Reichsgraf Durlach Sausenberg Hachberg
 	}
 	manowar = {
-		Baden Zähringen Markgraf "Großherzog Leopold" "Großherzog Karl Friedrich" Türkenlouis Reichsgraf Durlach Sausenberg Hachberg
+		Baden Zahringen Markgraf "Grossherzog Leopold" "Grossherzog Karl Friedrich" Turkenlouis Reichsgraf Durlach Sausenberg Hachberg
 	}
 	cruiser = {
-		Baden Zähringen Markgraf "Großherzog Leopold" "Großherzog Karl Friedrich" Türkenlouis Reichsgraf Durlach Sausenberg Hachberg
+		Baden Zahringen Markgraf "Grossherzog Leopold" "Grossherzog Karl Friedrich" Turkenlouis Reichsgraf Durlach Sausenberg Hachberg
 	}
 	frigate = {
-		Baden Zähringen Markgraf "Großherzog Leopold" "Großherzog Karl Friedrich" Türkenlouis Reichsgraf Durlach Sausenberg Hachberg
+		Baden Zahringen Markgraf "Grossherzog Leopold" "Grossherzog Karl Friedrich" Turkenlouis Reichsgraf Durlach Sausenberg Hachberg
 	}
 	monitor = {
-		Baden Zähringen Markgraf "Großherzog Leopold" "Großherzog Karl Friedrich" Türkenlouis Reichsgraf Durlach Sausenberg Hachberg
+		Baden Zahringen Markgraf "Grossherzog Leopold" "Grossherzog Karl Friedrich" Turkenlouis Reichsgraf Durlach Sausenberg Hachberg
 	}
 	clipper_transport = {
 		Adler Albatross Amazone Bremse Brummer Donau Drache Feldberg Frauenlob Greif Karlsruhe Natter Neckar Salamander Seeadler Rhein 
@@ -209,6 +209,6 @@ unit_names = {
 		Adler Albatross Amazone Bremse Brummer Donau Drache Feldberg Frauenlob Greif Karlsruhe Natter Neckar Salamander Seeadler Rhein 
 	}
 	commerce_raider = {
-		Baden Zähringen Markgraf "Großherzog Leopold" "Großherzog Karl Friedrich" Türkenlouis Reichsgraf Durlach Sausenberg Hachberg
+		Baden Zahringen Markgraf "Grossherzog Leopold" "Grossherzog Karl Friedrich" Turkenlouis Reichsgraf Durlach Sausenberg Hachberg
 	}
 }

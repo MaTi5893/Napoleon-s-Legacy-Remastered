@@ -101,32 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Cristóbal Colón" Diriangén "Emiliano Chamorro" "Fruto Chamorro" "José Núñez" Libertad "Manuel de la Cerda" Nicaragua Nicarao "Patricio Rivas"
+		"Cristobal Colon" Diriangen "Emiliano Chamorro" "Fruto Chamorro" "Jose Nunez" Libertad "Manuel de la Cerda" Nicaragua Nicarao "Patricio Rivas"
 	}
 	ironclad = {
-		Caribe Cocibolca Coco Escondido "Hernández de Córdoba" Intendencia Prinzapolka "Río Grande" "San Juan" Xolotlán
+		Caribe Cocibolca Coco Escondido "Hernandez de Cordoba" Intendencia Prinzapolka "Rio Grande" "San Juan" Xolotlan
 	}
 	manowar = {
-		Avance Colón Florida Navegante "Sagrada Familia" "San José" "Santa María" Santiago Ventoso Ventura
+		Avance Colon Florida Navegante "Sagrada Familia" "San Jose" "Santa Maria" Santiago Ventoso Ventura
 	}
 	cruiser = {
-		Caribí Chorotega Descubridor Dirián Matagalpa Miskito Nagrandano Niquirano Rama Sumo
+		Caribi Chorotega Descubridor Dirian Matagalpa Miskito Nagrandano Niquirano Rama Sumo
 	}
 	frigate = {
-		Boaco Carazo Estelí Granada Jinotega León Madriz Managua Masaya "San Carlos"
+		Boaco Carazo Esteli Granada Jinotega Leon Madriz Managua Masaya "San Carlos"
 	}
 	monitor = {
-		Concepción Consiguina "Las Lajas" "Las Pilas" Maderas Mombacho Momotombo Rota "San Cristóbal" Telica
+		Concepcion Consiguina "Las Lajas" "Las Pilas" Maderas Mombacho Momotombo Rota "San Cristobal" Telica
 	}
 	clipper_transport = {
 		Beatriz Centroamericana Chocoyo Fauna Flora Guardabarranco Indesplazable Inmaculada Jaguar Laura
-		"Mono Araña" Nicaragüita Ocelote Patricia Raquel Salvaje Sirena Titánico Tortuga Tucán
+		"Mono Arana" Nicaraguita Ocelote Patricia Raquel Salvaje Sirena Titanico Tortuga Tucan
 	}
 	steam_transport = {
 		Beatriz Centroamericana Chocoyo Fauna Flora Guardabarranco Indesplazable Inmaculada Jaguar Laura
-		"Mono Araña" Nicaragüita Ocelote Patricia Raquel Salvaje Sirena Titánico Tortuga Tucán
+		"Mono Arana" Nicaraguita Ocelote Patricia Raquel Salvaje Sirena Titanico Tortuga Tucan
 	}
 	commerce_raider = {
-		Destructor Feroz Invencible Mortal Neptuno Nicaragüense República Sirena Terremoto Tritón
+		Destructor Feroz Invencible Mortal Neptuno Nicaraguense Republica Sirena Terremoto Triton
 	}
 }

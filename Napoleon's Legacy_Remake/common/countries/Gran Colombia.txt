@@ -143,55 +143,55 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Almirante Padilla" Buenaventura "Cartagena de Indias" Colombia "Cristóbal Colón" "Fco. de Paula Santander" "Gran Colombia" Independiente "Nueva Granada" "Simón Bolívar"
-		"Almirante Brión" "Francisco de Miranda" "General Falcón" "General Páez" "General Zamora" Guaicaipuro "Mariscal Sucre" Tamanaco Venezuela
-		"Cara de Dios" Ecuador Flores "García Moreno" Illingworth Inca Libertador Rocafuerte Stagg Veintemilla
+		"Almirante Padilla" Buenaventura "Cartagena de Indias" Colombia "Cristobal Colon" "Fco. de Paula Santander" "Gran Colombia" Independiente "Nueva Granada" "Simon Bolivar"
+		"Almirante Brion" "Francisco de Miranda" "General Falcon" "General Paez" "General Zamora" Guaicaipuro "Mariscal Sucre" Tamanaco Venezuela
+		"Cara de Dios" Ecuador Flores "Garcia Moreno" Illingworth Inca Libertador Rocafuerte Stagg Veintemilla
 	}
 	ironclad = {
-		Andrómeda Águila Casiopea Centauro Dragón Fénix Perseo Polaris Regulus Vela
-		Bolívar Carabobo "General Soublette" "General Urdaneta" Maraparari Monagas Totumo Trópico "Veintitres de Mayo"
-		Cormorán "El Oro" Guayas Imbabura "León Marino" "Los Ríos" Manabí Marcismo Pingüino Tortuga
+		Andromeda Aguila Casiopea Centauro Dragon Fenix Perseo Polaris Regulus Vela
+		Bolivar Carabobo "General Soublette" "General Urdaneta" Maraparari Monagas Totumo Tropico "Veintitres de Mayo"
+		Cormoran "El Oro" Guayas Imbabura "Leon Marino" "Los Rios" Manabi Marcismo Pinguino Tortuga
 	}
 	manowar = {
-		Aventina Confianza Emprendedora Espartana Fama "Gran Bolívar" Independencia Leona Marina Marte
-		Brión Colombiana Conejo Eclipse Feliz Independencia Intrépido Mariño Piar Rita
-		Alcance Chimborazo Colombia Diligencia "Gracia del Guayas" Guayaquileña Pichincha "San Francisco" "San Juan" "Santa Marina"
+		Aventina Confianza Emprendedora Espartana Fama "Gran Bolivar" Independencia Leona Marina Marte
+		Brion Colombiana Conejo Eclipse Feliz Independencia Intrepido Marino Piar Rita
+		Alcance Chimborazo Colombia Diligencia "Gracia del Guayas" Guayaquilena Pichincha "San Francisco" "San Juan" "Santa Marina"
 	}
 	cruiser = {
-		Bogotá Bolívar Cali Córdoba Cúcuta Cundinamarca Medellin Pasto Santander Sucre
-		Aragua Caroní Casiquiare Cumaná "General Salom" Maracaibo Orinoco Restaurador Sucre Zulia
-		Amazonía Bolívar Galápagos Libertad "Luz de América" Mestizo Orellana Oriente Patria "Santa Elena"
+		Bogota Bolivar Cali Cordoba Cucuta Cundinamarca Medellin Pasto Santander Sucre
+		Aragua Caroni Casiquiare Cumana "General Salom" Maracaibo Orinoco Restaurador Sucre Zulia
+		Amazonia Bolivar Galapagos Libertad "Luz de America" Mestizo Orellana Oriente Patria "Santa Elena"
 	}
 	frigate = {
-		Antioquía Caldas Cartagena Espartana "José Mª García y Toledo" "Juan Nepomuceno Eslava" Quitasueño República "Santa Marta" "Valle del Cauca"
-		Caribe Cojedes Lara Mérida Monagas "Nueva Esparta" Portuguesa Trujillo Warao Yecuana
-		Constitución Cuenca Cuero Esmeraldas Espejo Guayaquil Montufar Quito República Zamora
+		Antioquia Caldas Cartagena Espartana "Jose Mª Garcia y Toledo" "Juan Nepomuceno Eslava" Quitasueno Republica "Santa Marta" "Valle del Cauca"
+		Caribe Cojedes Lara Merida Monagas "Nueva Esparta" Portuguesa Trujillo Warao Yecuana
+		Constitucion Cuenca Cuero Esmeraldas Espejo Guayaquil Montufar Quito Republica Zamora
 	}
 	monitor = {
-		Amazonas Andes Caribe "Ciénaga Grande" Meta "Nevado del Huila" Orinoquía Pacífico "San Juan" "Sierra Nevada"
-		Cacique Carreño "Diego de Losada" "Gran Colombia" Gual Guayana Narvate "Nueva Andalucía" Tovar Villegas
-		Coca Cotopaxi Huancavilca Illiniza Manteño Napo Pastaza Putumayo Shyri Tunguraha
+		Amazonas Andes Caribe "Cienaga Grande" Meta "Nevado del Huila" Orinoquia Pacifico "San Juan" "Sierra Nevada"
+		Cacique Carreno "Diego de Losada" "Gran Colombia" Gual Guayana Narvate "Nueva Andalucia" Tovar Villegas
+		Coca Cotopaxi Huancavilca Illiniza Manteno Napo Pastaza Putumayo Shyri Tunguraha
 	}
 	clipper_transport = {
-		Amenazante Arauca Auspicio Barranquilla Caquetá Catatumbo Chocó Estrella Florencia Guainía
-		Huila Indestructible "La Guajira" Leticia Manizales Montería Nariño Natividad Salvador Vaupés
-		Diligente Móvil Navegante Neptuno Poderoso Reivindicador Remolcador República "San Juan" "San Lucas"
-		"San Marcos" "San Mateo" "San Pablo" "San Pedro" Sirena Tormenta Tritón Veloz Ventoso Zamora
-		Audaz Cuencana Darwin Indestructible Ingapirca Intrépido "Lago Agrio" Marina Orellana Portoviejo
-		Puyeña Quiteña "San Gregorio" "San José" "San Miguel" "Santa María" Santiago "Santo Domingo" Tena Veloz
+		Amenazante Arauca Auspicio Barranquilla Caqueta Catatumbo Choco Estrella Florencia Guainia
+		Huila Indestructible "La Guajira" Leticia Manizales Monteria Narino Natividad Salvador Vaupes
+		Diligente Movil Navegante Neptuno Poderoso Reivindicador Remolcador Republica "San Juan" "San Lucas"
+		"San Marcos" "San Mateo" "San Pablo" "San Pedro" Sirena Tormenta Triton Veloz Ventoso Zamora
+		Audaz Cuencana Darwin Indestructible Ingapirca Intrepido "Lago Agrio" Marina Orellana Portoviejo
+		Puyena Quitena "San Gregorio" "San Jose" "San Miguel" "Santa Maria" Santiago "Santo Domingo" Tena Veloz
 	}
 	steam_transport = { 
-		Amenazante Arauca Auspicio Barranquilla Caquetá Catatumbo Chocó Estrella Florencia Guainía
-		Huila Indestructible "La Guajira" Leticia Manizales Montería Nariño Natividad Salvador Vaupés
-		Diligente Móvil Navegante Neptuno Poderoso Reivindicador Remolcador República "San Juan" "San Lucas"
-		"San Marcos" "San Mateo" "San Pablo" "San Pedro" Sirena Tormenta Tritón Veloz Ventoso Zamora
-		Audaz Cuencana Darwin Indestructible Ingapirca Intrépido "Lago Agrio" Marina Orellana Portoviejo
-		Puyeña Quiteña "San Gregorio" "San José" "San Miguel" "Santa María" Santiago "Santo Domingo" Tena Veloz
+		Amenazante Arauca Auspicio Barranquilla Caqueta Catatumbo Choco Estrella Florencia Guainia
+		Huila Indestructible "La Guajira" Leticia Manizales Monteria Narino Natividad Salvador Vaupes
+		Diligente Movil Navegante Neptuno Poderoso Reivindicador Remolcador Republica "San Juan" "San Lucas"
+		"San Marcos" "San Mateo" "San Pablo" "San Pedro" Sirena Tormenta Triton Veloz Ventoso Zamora
+		Audaz Cuencana Darwin Indestructible Ingapirca Intrepido "Lago Agrio" Marina Orellana Portoviejo
+		Puyena Quitena "San Gregorio" "San Jose" "San Miguel" "Santa Maria" Santiago "Santo Domingo" Tena Veloz
 
 	}
 	commerce_raider = {
 		"Antonia Manuela" Aventina Chitty Emprendedora Guaviare Magdalena Ornico Peacock Putumayo
-		Aragua Constitución Federación "General Crespo" Independencia Libertad Marcay Maturín Miranda Patria
-		Atacazo Babahoyo Cayambe Corazón Filocorrales Ibarra Machala Puyo Reventador Tulcán
+		Aragua Constitucion Federacion "General Crespo" Independencia Libertad Marcay Maturin Miranda Patria
+		Atacazo Babahoyo Cayambe Corazon Filocorrales Ibarra Machala Puyo Reventador Tulcan
 	}
 }

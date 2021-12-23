@@ -8,7 +8,7 @@ germanic = {
 		color = { 90 60 60 }
 		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
 		Eduard Edwin Erwin Erich Ernst Ewald Felix Florian Franz Friedrich Fritz Georg G�nther
-		Gustav Hans Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Julius J�rgen Karl
+		Gustav Hans Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Julius Jurgen Karl
 		Konrad Kurt Leonhard Leopold Lothar Ludwig Lukas Manfred Maximilian Michael Nikolaus Oskar Otto
 		Pascal Paul Peter Reinhard Rudolf Ruprecht Stefan Theodor Walther Wilhelm Wolfgang }
 		
@@ -83,7 +83,7 @@ beneluxian = {
 			Nikolaas
 			Pauwel Paul Pieter
 			Quinten
-			Rafa�l Ruben Rudolf Roeland Rogier Rutger
+			Rafael Ruben Rudolf Roeland Rogier Rutger
 			Stefan Simon
 			Thomas
 			Victor Willem Vincent

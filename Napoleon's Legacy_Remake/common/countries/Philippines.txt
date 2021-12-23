@@ -101,32 +101,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		Davao "Emilio Aguinaldo" Filipinas Independencia "José Rizal" Lapu-Lapu Libertad Manila "Mariano Álvarez" Tagalo
+		Davao "Emilio Aguinaldo" Filipinas Independencia "Jose Rizal" Lapu-Lapu Libertad Manila "Mariano Alvarez" Tagalo
 	}
 	ironclad = {
-		Agusan Akean Cagua Dagohoy Pampanga Pásig Pule Ragang Silang Sumuroy
+		Agusan Akean Cagua Dagohoy Pampanga Pasig Pule Ragang Silang Sumuroy
 	}
 	manowar = {
-		Indigena Liberación Nacional "Rey Felipe" Salvador "San Lázaro" "San Miguel" "Santa Cruz" "Santa María" "Santísima Trinidad"
+		Indigena Liberacion Nacional "Rey Felipe" Salvador "San Lazaro" "San Miguel" "Santa Cruz" "Santa Maria" "Santisima Trinidad"
 	}
 	cruiser = {
-		Cebú Iloílo Leyte Luzón Mindanao Mindoro "Negros Occidental" Palawan Pangasinan
+		Cebu Iloilo Leyte Luzon Mindanao Mindoro "Negros Occidental" Palawan Pangasinan
 	}
 	frigate = {
-		"Apolinario Mabini" "Artemio Ricarte" "Datu Bantilan" "Datu Marikudo" "Emilio Jacinto" "Magat Salamat" "Miguel Malvar" "Pedro Paterno" "Rajá Humabon" "Sultán Kudarat"
+		"Apolinario Mabini" "Artemio Ricarte" "Datu Bantilan" "Datu Marikudo" "Emilio Jacinto" "Magat Salamat" "Miguel Malvar" "Pedro Paterno" "Raja Humabon" "Sultan Kudarat"
 	}
 	monitor = {
-		"Fernando de Magallanes" "Indias Orientales" "Juan Sebastián Elcano" "Miguel López de Legazpi" "Rajá de Butuán" "Rajá de Cebú" "Rajá de Manila" "Rajá de Tondo" "Sultán de Maguindanao" "Sultán de Sulu"
+		"Fernando de Magallanes" "Indias Orientales" "Juan Sebastian Elcano" "Miguel Lopez de Legazpi" "Raja de Butuan" "Raja de Cebu" "Raja de Manila" "Raja de Tondo" "Sultan de Maguindanao" "Sultan de Sulu"
 	}
 	clipper_transport = {
-		Alam Basa Batangas Berde Burghaw "Compañía de Filipinas" Delikadesa Demokrasya Guerra Hilaga
+		Alam Basa Batangas Berde Burghaw "Compania de Filipinas" Delikadesa Demokrasya Guerra Hilaga
 		Itik Kursonada Pamilya "San Juan" "San Marino" "Stella Maris" Subic Tablas Timog Zamboanga
 	}
 	steam_transport = {
-		Alam Basa Batangas Berde Burghaw "Compañía de Filipinas" Delikadesa Demokrasya Guerra Hilaga
+		Alam Basa Batangas Berde Burghaw "Compania de Filipinas" Delikadesa Demokrasya Guerra Hilaga
 		Itik Kursonada Pamilya "San Juan" "San Marino" "Stella Maris" Subic Tablas Timog Zamboanga
 	}
 	commerce_raider = {
-		Apo Balayán Bilirán Bulusán Hibok-Hibok Mayón Pinatubo "Purísima Concepción" Taal Taaleño
+		Apo Balayan Biliran Bulusan Hibok-Hibok Mayon Pinatubo "Purisima Concepcion" Taal Taaleno
 	}
 }

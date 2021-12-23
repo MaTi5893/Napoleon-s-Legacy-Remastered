@@ -185,32 +185,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		Bayern "Von der Tann" Wittelsbach "Prinzregent Luitpold" Welf Nibelungen Walküre Babenberg Baden Zähringen Markgraf "Großherzog Leopold" 
-		"Großherzog Karl Friedrich" Türkenlouis Reichsgraf Durlach Sausenberg Hachberg
+		Bayern "Von der Tann" Wittelsbach "Prinzregent Luitpold" Welf Nibelungen Walkure Babenberg Baden Zahringen Markgraf "Grossherzog Leopold" 
+		"Grossherzog Karl Friedrich" Turkenlouis Reichsgraf Durlach Sausenberg Hachberg
 	}
 	ironclad = {
-		"Maximilian Joseph" "Ludwig I" "Maximilian II" "Graf Montgelas" "Graf von Horn" "Von der Mark" "Von Le Suire" "Von Wrede" Baden Zähringen Markgraf 
-		"Großherzog Leopold" "Großherzog Karl Friedrich" Türkenlouis Reichsgraf Durlach Sausenberg Hachberg Württemberg Schwaben "König Friedrich" 
-		"Königin Charlotte" "König Wilhelm" "Prinz Albrecht" Alemania "Herzog von Urach" "Von Zeppelin" 
+		"Maximilian Joseph" "Ludwig I" "Maximilian II" "Graf Montgelas" "Graf von Horn" "Von der Mark" "Von Le Suire" "Von Wrede" Baden Zahringen Markgraf 
+		"Grossherzog Leopold" "Grossherzog Karl Friedrich" Turkenlouis Reichsgraf Durlach Sausenberg Hachberg Wurttemberg Schwaben "Konig Friedrich" 
+		"Konigin Charlotte" "Konig Wilhelm" "Prinz Albrecht" Alemania "Herzog von Urach" "Von Zeppelin" 
 	}
 	manowar = {
-		Graf Herzog König Kaiser Kurfürst Pfalzgraf Prinz Odin Wotan Balder Donar Baden Zähringen Markgraf "Großherzog Leopold" "Großherzog Karl Friedrich" 
-		Türkenlouis Reichsgraf Durlach Sausenberg Hachberg Württemberg Schwaben "König Friedrich" "Königin Charlotte" "König Wilhelm" "Prinz Albrecht" 
+		Graf Herzog Konig Kaiser Kurfurst Pfalzgraf Prinz Odin Wotan Balder Donar Baden Zahringen Markgraf "Grossherzog Leopold" "Grossherzog Karl Friedrich" 
+		Turkenlouis Reichsgraf Durlach Sausenberg Hachberg Wurttemberg Schwaben "Konig Friedrich" "Konigin Charlotte" "Konig Wilhelm" "Prinz Albrecht" 
 		Alemania "Herzog von Urach" "Von Zeppelin" 
 	}
 	cruiser = {
-		Ansbach Augsburg Bamberg Bayreuth Fürth Ingoldstadt München Nürnberg Passau Regensburg  Baden Zähringen Markgraf "Großherzog Leopold" 
-		"Großherzog Karl Friedrich" Türkenlouis Reichsgraf Durlach Sausenberg Hachberg Württemberg Schwaben "König Friedrich" "Königin Charlotte" 
-		"König Wilhelm" "Prinz Albrecht" Alemania "Herzog von Urach" "Von Zeppelin" 
+		Ansbach Augsburg Bamberg Bayreuth Furth Ingoldstadt Munchen Nurnberg Passau Regensburg  Baden Zahringen Markgraf "Grossherzog Leopold" 
+		"Grossherzog Karl Friedrich" Turkenlouis Reichsgraf Durlach Sausenberg Hachberg Wurttemberg Schwaben "Konig Friedrich" "Konigin Charlotte" 
+		"Konig Wilhelm" "Prinz Albrecht" Alemania "Herzog von Urach" "Von Zeppelin" 
 	}
 	frigate = {
-		Fuchs Hyäna Leopard Löwe Luchs Marder Panther Tiger Wolf Baden Zähringen Markgraf "Großherzog Leopold" "Großherzog Karl Friedrich" 
-		Türkenlouis Reichsgraf Durlach Sausenberg Hachberg Württemberg Schwaben "König Friedrich" "Königin Charlotte" "König Wilhelm" "Prinz Albrecht" Alemania 
+		Fuchs Hyana Leopard Lowe Luchs Marder Panther Tiger Wolf Baden Zahringen Markgraf "Grossherzog Leopold" "Grossherzog Karl Friedrich" 
+		Turkenlouis Reichsgraf Durlach Sausenberg Hachberg Wurttemberg Schwaben "Konig Friedrich" "Konigin Charlotte" "Konig Wilhelm" "Prinz Albrecht" Alemania 
 		"Herzog von Urach" "Von Zeppelin" 
 	}
 	monitor = {
-		Höchstädt Landshut Lechfeld "Herzog Albrecht" "Prinz Ludwig" "Von Utzschneider" Steinheil Baden Zähringen Markgraf "Großherzog Leopold" 
-		"Großherzog Karl Friedrich" Türkenlouis Reichsgraf Durlach Sausenberg Hachberg Württemberg Schwaben "König Friedrich" "Königin Charlotte" "König Wilhelm"
+		Hochstadt Landshut Lechfeld "Herzog Albrecht" "Prinz Ludwig" "Von Utzschneider" Steinheil Baden Zahringen Markgraf "Grossherzog Leopold" 
+		"Grossherzog Karl Friedrich" Turkenlouis Reichsgraf Durlach Sausenberg Hachberg Wurttemberg Schwaben "Konig Friedrich" "Konigin Charlotte" "Konig Wilhelm"
 		"Prinz Albrecht" Alemania "Herzog von Urach" "Von Zeppelin" 
 	}
 	clipper_transport = {
@@ -222,8 +222,8 @@ unit_names = {
 		Adler Albatross Amazone Bremse Brummer Donau Drache Feldberg Frauenlob Greif Karlsruhe Natter Neckar Salamander Seeadler Rhein 
 	}
 	commerce_raider = {
-	    Siegfried Kriemhild Gunther Gernot Giselher Siegmund Alberich Brünhild Hagen Baden Zähringen Markgraf "Großherzog Leopold" "Großherzog Karl Friedrich" 
-		Türkenlouis Reichsgraf Durlach Sausenberg Hachberg Württemberg Schwaben "König Friedrich" "Königin Charlotte" "König Wilhelm" "Prinz Albrecht" 
+	    Siegfried Kriemhild Gunther Gernot Giselher Siegmund Alberich Brunhild Hagen Baden Zahringen Markgraf "Grossherzog Leopold" "Grossherzog Karl Friedrich" 
+		Turkenlouis Reichsgraf Durlach Sausenberg Hachberg Wurttemberg Schwaben "Konig Friedrich" "Konigin Charlotte" "Konig Wilhelm" "Prinz Albrecht" 
 		Alemania "Herzog von Urach" "Von Zeppelin" 
 	}
 }
