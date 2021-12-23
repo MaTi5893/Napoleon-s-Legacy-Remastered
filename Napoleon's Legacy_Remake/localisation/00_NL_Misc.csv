@@ -54,5 +54,6 @@ russian_comeback2;After the difficult time that followed the invasion of our glo
 russian_comeback2_desc;After the difficult time that followed the invasion of our glorious nation by the french, we are finally recovering!;;;;;;;x
 poniatowski_reforms;Poniatoswki Reforms;;;;;;;x
 poniatowski_reforms_desc;The effects of Poniatowski's reforms are showing.;;;;;;;x
-polish_law_respect;We respect the Poniatowski law of 120 000 soldier !;;;;;;;x
-polish_law_no_respect;We don't respect the Poniatowski law of 120 000 soldier !;;;;;;;x
+polish_law_respect;We respect the Poniatowski law of 120 000 active soldiers!;;;;;;;x
+polish_law_no_respect;We don't respect the Poniatowski law of 120 000 active soldiers!;;;;;;;x
+EVTDESC90005;Although we only want to help $CB_TARGET_NAME$ by adding them to our sphere of influence they have gotten very worked up about it. While unseemly to all involved, their behaviour has rather turned international opinion against forcefully requesting they join us in our prosperity.;;;;;;;x
