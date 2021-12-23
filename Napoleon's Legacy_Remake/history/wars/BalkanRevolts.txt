@@ -1,0 +1,24 @@
+name = "Balkans revolts"
+
+1835.1.1 = {
+	add_attacker = TUR
+	add_defender = SER
+    add_defender = MON
+    add_defender = BOS
+	
+	war_goal = {
+		casus_belli = conquest
+		actor = TUR
+		receiver = BOS
+	}
+	war_goal = {
+		casus_belli = conquest
+		actor = TUR
+		receiver = SER
+	}
+	war_goal = {
+		casus_belli = conquest
+		actor = TUR
+		receiver = MON
+	}
+}

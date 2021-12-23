@@ -856,19 +856,13 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 650
+		size = 2650
 	}
 
 	clerks = {
 		culture = french
 		religion = catholic
 		size = 100
-	}
-
-	craftsmen = {
-		culture = french
-		religion = catholic
-		size = 2000
 	}
 	
 	farmers = {
@@ -936,17 +930,11 @@
 		religion = catholic
 		size = 50
 	}
-
-	craftsmen = {
-		culture = south_german
-		religion = catholic
-		size = 500
-	}
 	
 	soldiers = {
 		culture = south_german
 		religion = catholic
-		size = 200
+		size = 700
 	}
 
 	farmers = {
@@ -1276,13 +1264,13 @@
 	clerks = {
 		culture = french
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 
 	craftsmen = {
 		culture = french
 		religion = catholic
-		size = 13000
+		size = 3000
 	}
 	
 	soldiers = {
@@ -1294,7 +1282,7 @@
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 107600
+		size = 109600
 	}
 }
 #St Brieuc (604000/151000 POPS)

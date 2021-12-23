@@ -10,9 +10,6 @@ nationalvalue = nv_order
 literacy = 0.55
 civilized = yes
 set_country_flag = new_world_nation
-#GreaterPowers = prestige
-prestige = 25
-
 
 # Political reforms
 slavery = no_slavery

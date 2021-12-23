@@ -227,6 +227,7 @@ political_decisions = {
 			add_accepted_culture = greek
 			add_accepted_culture = serb
 			add_accepted_culture = bulgarian
+			add_accepted_culture = bosniak
 			GRE = {
 				all_core = {
 					add_core = TUR

@@ -102,11 +102,11 @@ political_decisions = {
 			tag = SPA
 			ai = no
 			NOT = { has_country_flag = ask_france_catalonia }
-			alliance_with = FRA
 			NOT = {owns=498}
 		}
 		allow = {
 			war=no
+			alliance_with = FRA
 		}
 		effect = {
 			prestige =5

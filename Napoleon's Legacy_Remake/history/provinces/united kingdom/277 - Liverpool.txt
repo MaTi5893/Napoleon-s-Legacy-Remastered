@@ -11,11 +11,6 @@ state_building = {
 	building = clipper_shipyard
 	upgrade = yes
 }
-state_building = {
-	level = 1
-	building = regular_clothes_factory
-	upgrade = yes
-}
 naval_base = 2
 1861.1.1 = { 
 	railroad = 3 

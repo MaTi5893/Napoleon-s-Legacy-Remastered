@@ -1,0 +1,12 @@
+name = "Greek revolts"
+
+1835.1.1 = {
+	add_attacker = TUR
+	add_defender = GRE
+
+	war_goal = {
+		casus_belli = conquest
+		actor = TUR
+		receiver = GRE
+	}
+}

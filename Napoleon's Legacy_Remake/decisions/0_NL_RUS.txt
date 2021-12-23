@@ -77,13 +77,17 @@ political_decisions = {
 				tag = PLC
 			}
 			NOT = {has_country_flag = annex_ukraine}
-			UKR = {vassal_of = THIS}
 		}
 		allow = {
+			is_greater_power = yes
+			OR = {
+				UKR = {vassal_of = THIS}
+				UKR = {in_sphere = THIS}
+			}
 			war = no
 			UKR = {
 				all_core = {
-					OR = { 
+					OR = {
 						owned_by = UKR 
 						owned_by = THIS 
 					}
@@ -108,7 +112,7 @@ political_decisions = {
 				tag = RUS
 				tag = PLC
 			}
-			NOT = {has_country_flag = ukrainian}
+			NOT = {accepted_culture = ukrainian}
 			NOT = {accepted_culture = finnish}
 			NOT = {accepted_culture = estonian}
 			NOT = {accepted_culture = azerbaijani}
@@ -172,14 +176,10 @@ political_decisions = {
 			UKR = {
 				all_core = {
 					limit = {
-						OR = {
-							owned_by = UKR
-							owned_by = PLC
-						}
+						owned_by = PLC
 					}
-					remove_core = RUS
-					add_core = PLC
 				}
+				remove_core = UKR
 			}
 		}
 		ai_will_do = { factor = 0 }
