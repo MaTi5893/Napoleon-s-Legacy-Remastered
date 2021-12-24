@@ -1,8 +1,12 @@
 political_decisions = {
     accept_bulgar = {
+        picture = bulgaria_decision  
         potential = {
             tag = ROM
             NOT = {accepted_culture = bulgarian}
+            all_core = {
+                owned_by = THIS
+            }
         }
         allow = {
             war = no
@@ -24,9 +28,13 @@ political_decisions = {
         }
     }
     accept_hungarian = {
+        picture = hungary_decision
         potential = {
             tag = ROM
             NOT = {accepted_culture = hungarian}
+            all_core = {
+                owned_by = THIS
+            }
         }
         allow = {
             war = no

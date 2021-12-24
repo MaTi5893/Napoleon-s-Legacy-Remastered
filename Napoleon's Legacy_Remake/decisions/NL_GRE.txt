@@ -1,5 +1,6 @@
 political_decisions = {
     reclaim_constantinople = {
+        picture = constantinople_decision
         potential = {
             OR = {
                 tag = GRE
@@ -26,6 +27,7 @@ political_decisions = {
         }
     }
     reform_byzantinium = {
+        picture = byzantinium_decision
         potential = {
             tag = GRE
             owns = 860
@@ -70,6 +72,7 @@ political_decisions = {
         }
     }
     rejoice_with_bulgar = {
+        picture = bulgaria_decision
         potential = {
             tag = BYZ
             NOT = {accepted_culture = bulgarian}
@@ -94,6 +97,7 @@ political_decisions = {
         }
     }
     rejoice_with_albanian = {
+        picture = albania_decision
         potential = {
             tag = BYZ
             NOT = {accepted_culture = albanian}
@@ -118,6 +122,7 @@ political_decisions = {
         }
     }
     double_down_in_the_balkans = {
+        picture = balkans_decision
 		potential = {
 			tag = BYZ
             NOT = { has_country_flag = the_conquest_of_southern_italy }
@@ -165,6 +170,7 @@ political_decisions = {
 		}
 	}
     the_conquest_of_southern_italy = {
+        picture = south_italy_decision
 		potential = {
 			tag = BYZ
             NOT = { has_country_flag = the_conquest_of_southern_italy }
@@ -209,6 +215,7 @@ political_decisions = {
 		}
 	}
     the_conquest_of_anatolia = {
+        picture = anatolia_decision
 		potential = {
 			tag = BYZ
             NOT = { has_country_flag = the_conquest_of_southern_italy }
@@ -245,6 +252,7 @@ political_decisions = {
 		}
 	}
     the_christian_kingdom = {
+        picture = christian_kingdom_decision_BYZ
         potential = {
             tag = BYZ
             has_country_flag = the_conquest_of_anatolia
@@ -280,6 +288,7 @@ political_decisions = {
         }
     }
     the_pentarchy = {
+        picture = pentarchy_decision_BYZ
         potential = {
             tag = BYZ
             NOT = {has_country_flag = pentarchy}
@@ -322,6 +331,7 @@ political_decisions = {
         }
     }
     anatolia_reconquered = {
+        picture = anatolia_decision
         potential = {
             tag = BYZ
             NOT = {has_country_flag = anatolia_reconquered}
@@ -349,6 +359,7 @@ political_decisions = {
         }
     }
     levant_reconquered = {
+        picture = levant_decision
         potential = {
             tag = BYZ
             NOT = {has_country_flag = levant_reconquered}
@@ -372,6 +383,7 @@ political_decisions = {
         }
     }
     north_africa_reconquered = {
+        picture = north_africa_decision
         potential = {
             tag = BYZ
             NOT = {has_country_flag = north_africa_reconquered}
@@ -401,6 +413,7 @@ political_decisions = {
         }
     }
     south_italy_reconquered = {
+        picture = south_italy_decision
         potential = {
             tag = BYZ
             NOT = {has_country_flag = south_italy_reconquered}
@@ -430,6 +443,7 @@ political_decisions = {
         }
     }
     balkans_reconquered = {
+        picture = balkans_decision
         potential = {
             tag = BYZ
             NOT = {has_country_flag = balkans_reconquered}

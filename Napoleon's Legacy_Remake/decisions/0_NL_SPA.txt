@@ -1,6 +1,6 @@
 political_decisions = {
 	domination_of_western_mediterranean_see = {
-		picture = mediterranean
+		picture = western_mediterranean_see_decision
 		potential = {
 			tag = SPA
 			NOT = { has_country_flag = domination_of_western_mediterranean_see }
@@ -27,6 +27,7 @@ political_decisions = {
 		}
 	}
 	expension_in_southern_italy = {
+		picture = south_italy_decision
 		potential = {
 			tag = SPA
 			NOT = { has_country_flag = expension_in_southern_italy }
@@ -98,6 +99,7 @@ political_decisions = {
 		}
 	}
 	ask_france_catalonia = {
+		picture = catalonia_decision
 		potential = {
 			tag = SPA
 			ai = no
@@ -171,6 +173,7 @@ political_decisions = {
 		}
 	}
 	expand_citizenship1 = {
+		picture = cuba_decision
 		potential = {
 			OR = { tag = SPA tag = IBR }
 			NOT = { accepted_culture = caribeno }
@@ -186,12 +189,12 @@ political_decisions = {
 					add_core=THIS
 					}
 			}
-			badboy = 5
 			add_accepted_culture=caribeno
 			add_accepted_culture=afro_caribeno
 		}
 	} 
 	expand_citizenship2 = {
+		picture = philipines_decision
 		potential = {
 			tag = SPA
 			NOT = { accepted_culture = filipino}
@@ -207,7 +210,9 @@ political_decisions = {
 		}
 		effect = {
 			prestige = 5
-			badboy=10
+			add_core = SPA_1463
+			add_core = SPA_1455
+			add_core = SPA_1459
 			add_accepted_culture = filipino
 		}
 	}
