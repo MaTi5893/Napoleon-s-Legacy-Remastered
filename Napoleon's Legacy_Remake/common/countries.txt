@@ -48,7 +48,7 @@ SPC 	= "countries/Hispanic Commonwealth.txt"
 ZAC		= "countries/Zachadia.txt"
 SPC 	= "countries/Hispanic Commonwealth.txt" 
 ZAC		= "countries/Zachadia.txt"
-ZAC		= "countries/United States of Greater Austria.txt"
+USG		= "countries/United States of Greater Austria.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"
