@@ -52,4 +52,29 @@ political_decisions = {
             add_accepted_culture = hungarian
         }
     }
+
+    romania_united = {
+        picture = romania_decision
+        potential = {
+            tag = ROM
+            NOT = {
+                has_country_flag = romania_united
+            }
+        }
+        allow = {
+            all_core = {
+                owned_by = THIS
+            }
+            war = no
+        }
+        effect = {
+            all_core = {
+                add_province_modifier = {
+					name = cultural_unification
+					duration = 7300
+				}
+            }
+            set_country_flag = romania_united
+        }
+    }
 }

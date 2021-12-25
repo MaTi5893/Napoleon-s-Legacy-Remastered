@@ -472,4 +472,73 @@ political_decisions = {
             set_country_flag = balkans_reconquered
         }
     }
+
+    north_italy_reconquered = {
+        picture = north_italy_decision
+        potential = {
+            tag = BYZ
+            NOT = {has_country_flag = north_italy_reconquered}
+        }
+        allow = {
+            nationalism_n_imperialism = 1
+            owns = SAR_720
+            owns = AUS_726
+            owns = AUS_729
+            owns = PAP_741
+            owns = TUS_744
+        }
+        effect = {
+            add_core = SAR_720
+            add_core = AUS_726
+            add_core = AUS_729
+            add_core = PAP_741
+            add_core = TUS_744
+            add_country_modifier = {
+                name = balkans
+                duration = 36500
+		    }
+            prestige = 15
+            set_country_flag = north_italy_reconquered
+        }
+    }
+
+    east_roman_united = {
+        picture = east_mediteranean_see_decision
+        potential = {
+            tag = BYZ
+            NOT = {has_country_flag = east_roman_united}
+            has_country_flag = anatolia_reconquered
+            has_country_flag = levant_reconquered
+            has_country_flag = north_africa_reconquered
+            has_country_flag = south_italy_reconquered
+            has_country_flag = balkans_reconquered
+            has_country_flag = north_italy_reconquered
+        }
+        allow = {
+            revolution_n_counterrevolution = 1
+            all_core = {
+                owned_by = THIS
+            }
+        }
+        effect = {
+            add_accepted_culture = north_italian
+            add_accepted_culture = south_italian
+            add_accepted_culture = romanian
+            add_accepted_culture = croat
+            add_accepted_culture = bosniak
+            add_accepted_culture = serb
+            add_accepted_culture = slovene
+            add_accepted_culture = turkish
+            add_accepted_culture = kurdish
+            add_accepted_culture = armenian
+            all_core = {
+                add_province_modifier = {
+                    name = cultural_unification
+                    duration = 3650
+                }
+            }
+            prestige = 15
+            set_country_flag = east_roman_united
+        }
+    }
 }

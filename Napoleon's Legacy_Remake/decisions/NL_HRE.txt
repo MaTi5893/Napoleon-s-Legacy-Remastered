@@ -219,6 +219,9 @@ political_decisions = {
             NOT = {has_country_flag = glory_to_HRE}
         }
         allow = {
+            all_core = {
+                owned_by = THIS
+            }
             revolution_n_counterrevolution = 1
             is_greater_power = yes
             prestige = 200
