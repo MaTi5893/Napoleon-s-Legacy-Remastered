@@ -6,7 +6,8 @@ democracy = { 115 135 190 } #AoE color
 #bourgeois_dictatorship = { 0 49 82 }	#prussian blue
 #bourgeois_dictatorship = { 79 151 163 } #turkish blue
 bourgeois_dictatorship = { 79 81 109 } #independence
-proletarian_dictatorship = { 229 0 39 }	#France's communist party color
+#proletarian_dictatorship = { 229 0 39 }	#France's communist party color
+proletarian_dictatorship = { 237 40 57 }	#Imperial Red
 fascist_dictatorship = { 12 0 45 }		#Took this color from anon's hfm submod, looks nice
 graphical_culture = FrenchGC
 
