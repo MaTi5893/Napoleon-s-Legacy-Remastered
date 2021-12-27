@@ -187,48 +187,54 @@ political_decisions = {
 			prestige = 25
 			badboy = 5
 			add_accepted_culture = south_italian
-            SAR_765 = any_owned = {
+            SAR_765 = { any_owned = {
 				limit = {
 					continent = europe
 					NOT = { life_rating = 36 }
 				}
 				life_rating = 2
 			}
-            SIC_763 = any_owned = {
+		}
+            SIC_763 = { any_owned = {
 				limit = {
 					continent = europe
 					NOT = { life_rating = 36 }
 				}
 				life_rating = 2
 			}
-            PAP_752 = any_owned = {
+		}
+            PAP_752 = { any_owned = {
 				limit = {
 					continent = europe
 					NOT = { life_rating = 36 }
 				}
 				life_rating = 2
 			}
-            ITA_753 = any_owned = {
+		}
+            ITA_753 = { any_owned = {
 				limit = {
 					continent = europe
 					NOT = { life_rating = 36 }
 				}
 				life_rating = 2
 			}
-            PAP_752 = any_owned = {
+		}
+            PAP_752 = { any_owned = {
 				limit = {
 					continent = europe
 					NOT = { life_rating = 36 }
 				}
 				life_rating = 2
 			}
-            SIC_756 = any_owned = {
+		}
+            SIC_756 = { any_owned = {
 				limit = {
 					continent = europe
 					NOT = { life_rating = 36 }
 				}
 				life_rating = 3
 			}
+		}
             SAR_765 = {add_core = THIS}
             SIC_763 = {add_core = THIS}
             PAP_752 = {add_core = THIS}

@@ -166,7 +166,7 @@ political_decisions = {
 			mass_politics = 1
 			is_greater_power = yes
 			war = no
-			NOT = {militancy = 2}
+			NOT = {average_militancy = 2}
 			KUK = {
 				all_core = {
 					owned_by = THIS
