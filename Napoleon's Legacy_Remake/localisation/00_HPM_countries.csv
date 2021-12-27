@@ -83,7 +83,7 @@ CAN_reactionary;Tories;;;;;;;x
 CAN_liberal_1;Red Party;;;;;;;x
 CAN_liberal_2;Liberal Party of Canada;;;;;;;x
 DAI;Vietnam;;;;;;;x
-DAI_communist;Viet Nam Cong san Ðang;;;;;;;x
+DAI_communist;Viet Nam Cong san ï¿½ang;;;;;;;x
 ENG_communist;Communist Party of Great Britain;;;;;;;x
 FIN_fascist;Isanmaallinen kansanliike;;;;;;;x
 MEX_socialist;Partido Laborista Mexicano;;;;;;;x
@@ -138,13 +138,13 @@ UBD_liberal;Progressive Union;;;;;;;x
 UBD_conservative_2;Union of Landowners and Farmers;;;;;;;x
 UBD_reactionary;Royalist Faction;;;;;;;x
 UBD_conservative;German Landtag;;;;;;;x
-EST_fascist;Vabadussõjalased;;;;;;;x
+EST_fascist;Vabadussï¿½jalased;;;;;;;x
 EST_communist;Eestimaa Kommunistlik Partei;;;;;;;x
 EST_socialist;Eesti Sotsialistlik Tooliste Partei;;;;;;;x
 EST_socialist_2;Eesti Tooerakond;;;;;;;x
 EST_anarcho_liberal;Radikaal-Demokraatlik Erakond;;;;;;;x
 EST_liberal;Asunikkude Partei;;;;;;;x
-EST_conservative;Põllumeeste Kogud;;;;;;;x
+EST_conservative;Pï¿½llumeeste Kogud;;;;;;;x
 EST_conservative_2;Kristlik Rahvaerakond;;;;;;;x
 EST_reactionary;Eesti Rojalistlik Partei;;;;;;;x
 EST_reactionary_2;Isamaaliit;;;;;;;x
@@ -156,7 +156,7 @@ LIV_anarcho_liberal;Latvijas Radikaldemokratu Partija;;;;;;;x
 LIV_liberal_2;Blodnieka Partija;;;;;;;x
 LIV_liberal;Demokratiskais Centrs;;;;;;;x
 LIV_conservative_2;Kristigo Zemnieku un Katolu Partija;;;;;;;x
-LIV_conservative;Latviešu Zemnieku Savieniba;;;;;;;x
+LIV_conservative;Latvieï¿½u Zemnieku Savieniba;;;;;;;x
 LIV_reactionary_2;Nacionala Apvieniba;;;;;;;x
 LIV_reactionary;Rojalistu Partija;;;;;;;x
 URU_liberal_2;Colorados;;;;;;;x
@@ -166,12 +166,12 @@ LIT_reactionary;Monarchizmas Frakcija;;;;;;;x
 LIT_reactionary_2;Lietuviu Tautininku Sajunga;;;;;;;x
 LIT_conservative;Lietuvos Darbo Federacija;;;;;;;x
 LIT_conservative_2;LKDP;;;;;;;x
-LIT_anarcho_liberal;Tautos Pažangos Partija;;;;;;;x
+LIT_anarcho_liberal;Tautos Paï¿½angos Partija;;;;;;;x
 LIT_liberal;Lietuviu Demokratu Partij;;;;;;;x
 LIT_liberal_2;Lietuvos Valstieciu Liaudininku Sajunga;;;;;;;x
 LIT_socialist;LSDP;;;;;;;x
 LIT_communist;Lietuvos Komunistu Partija;;;;;;;x
-LIT_fascist;Lietuvos Šauliu Sajunga;;;;;;;x
+LIT_fascist;Lietuvos ï¿½auliu Sajunga;;;;;;;x
 EGY_democracy;The Republic of Egypt;;;;;;;x
 QUE_ADJ;Quebecois;;;;;;;x
 LIB_conservative;Republican Party;;;;;;;x
@@ -274,7 +274,7 @@ HAI_socialist;Parti Socialiste;;;;;;;x
 HAI_communist;Parti Communiste Haitien;;;;;;;x
 HAI_fascist;Parti Fasciste;;;;;;;x
 CHK;Champassak;Champassak;Champassak;Champasak;Champasak;Champassak;Champassak;Champassak;;;;;;;x
-CHK_ADJ;Champassaki;champassak;Champassaki;Champasak;Champassak;Champassaki;Champassakijský;;;;;;;x
+CHK_ADJ;Champassaki;champassak;Champassaki;Champasak;Champassak;Champassaki;Champassakijskï¿½;;;;;;;x
 CHK_conservative;Royal Faction;;;;;;;x
 CHK_liberal;The Liberal Faction;;;;;;;x
 CHK_reactionary;The Nationalist Faction;;;;;;;x
@@ -552,7 +552,7 @@ NEJ_fascist;Al-Hizb al-Fashy;;;;;;;x
 NOR_liberal;Liberals;;;;;;;x
 NOR_liberal_2;Venstre;;;;;;;x
 NOR_conservative;Conservatives;;;;;;;x
-NOR_conservative_2;Høyre;;;;;;;x
+NOR_conservative_2;Hï¿½yre;;;;;;;x
 NOR_conservative_3;Moderate Venstre;;;;;;;x
 NOR_conservative_4;Samlingspartiet;;;;;;;x
 NOR_conservative_5;Frisinnede Venstre;;;;;;;x
@@ -622,9 +622,9 @@ CHI_liberal;Gai Liang Pai;;;;;;;x
 CHI_liberal_2;Xingzhonghui;;;;;;;x
 CHI_liberal_3;Zhongguo Minzhu Tongmeng;;;;;;;x
 CHI_liberal_4;Yang Wu Pai;;;;;;;x
-CHI_reactionary;Kongjiào Yundong;;;;;;;x
-CHI_reactionary_2;Jìnbùdang;;;;;;;x
-CHI_anarcho_liberal;Zhongguo Minzhu Jiànguo Huì;;;;;;;x
+CHI_reactionary;Kongjiï¿½o Yundong;;;;;;;x
+CHI_reactionary_2;Jï¿½nbï¿½dang;;;;;;;x
+CHI_anarcho_liberal;Zhongguo Minzhu Jiï¿½nguo Huï¿½;;;;;;;x
 CHI_socialist;Zhongguo Guojia Shehui Dang;;;;;;;x
 CHI_communist;Zhongguo Gongchandang;;;;;;;x
 CHI_fascist;Kai-tsu P'ai;;;;;;;x
@@ -698,12 +698,12 @@ TRE_communist;Rivoluzionari;Rivoluzionari;Rivoluzionari;;Rivoluzio nari;;;;;;;x
 TRE_reactionary_2;Cattolici;Cattolici;Cattolici;;C attolici;;;;;;;x
 TRE_anarcho_liberal;Radicali;Radicali;Radicali;;Radicali;;;;;;;x
 TRE_fascist;Fascisti;Fascisti;Fascisti;;Fascisti;;;;;;;x
-BYZ;The Greek Empire;;;;;;;x
-BYZ_ADJ;Greek;;;;;;;x
-BYZ_democracy;The Greek Federation;;;;;;;x
-BYZ_presidential_dictatorship;The Greek Federation;;;;;;;x
-BYZ_bourgeois_dictatorship;The Greek Federation;;;;;;;x
-BYZ_proletarian_dictatorship;The Socialist Greek Union;;;;;;;x
+BYZ;Byzantine Empire;;;;;;;x
+BYZ_ADJ;Byzantine;;;;;;;x
+BYZ_democracy;The Byzantine Federation;;;;;;;x
+BYZ_presidential_dictatorship;The Byzantine Federation;;;;;;;x
+BYZ_bourgeois_dictatorship;The Byzantine Federation;;;;;;;x
+BYZ_proletarian_dictatorship;The Socialist Byzantine Union;;;;;;;x
 TUR;Turkey;;;;;;;x
 TUR_ADJ;Turkish;;;;;;;x
 TUR_absolute_monarchy;The Ottoman Empire;;;;;;;x

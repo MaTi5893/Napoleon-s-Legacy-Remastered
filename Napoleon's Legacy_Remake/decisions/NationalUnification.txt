@@ -744,7 +744,6 @@ unite_moldavia_wallachia = {
 				country_event = 11101
 			}
 		}
-
 		ai_will_do = {
 			factor = 1
 		}

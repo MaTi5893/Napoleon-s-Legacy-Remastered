@@ -1133,7 +1133,7 @@ anatolia = {
 
 levant = {
 	commerce_tech_research_bonus = 0.05
-	global_population_growth = -0.1
+	global_population_growth = 0.001
 	tariff_efficiency_modifier = 0.1
 }
 
@@ -1150,7 +1150,13 @@ south_italy = {
 }
 
 balkans = {
-	culture_tech_research_bonus = 0.05
+	industry_tech_research_bonus = 0.05
 	global_assimilation_rate = 0.1
 	mine_rgo_size = 0.1
+}
+
+north_italy = {
+	culture_tech_research_bonus = 0.05
+	prestige = 0.1
+	education_efficiency_modifier = 0.1
 }
