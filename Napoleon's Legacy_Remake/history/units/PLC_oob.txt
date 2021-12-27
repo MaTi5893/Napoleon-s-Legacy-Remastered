@@ -1,7 +1,16 @@
 FRA = {
 	value = 125
 }
+TUR = {
+	value = 100
+}
 
+SWE = {
+	value = 100
+}
+DEN = {
+	value = 100
+}
 leader = {
 	name = "Girard Lipinski"
 	type = land
@@ -11,19 +20,27 @@ leader = {
 }
 
 leader = {
+	name = "Napoleon Poniatowsky"
+	type = land
+	date = 1805.1.1
+	personality = defence_4.1
+	background = attack_2.1
+}
+
+leader = {
 	name = "Piotr Askenazy"
 	type = land
 	date = 1836.1.1
-	personality = defence_1.1
+	personality = defence_2.1
 	background = attack_1.1
 }
 
 leader = { 
-	name = "Izydor Krasi�ski"
+	name = "Izydor Krasiaski"
 	type = land
 	date = 1836.1.1
-	personality = defence_1.1
-	background = attack_1.1
+	personality = defence_.1
+	background = attack_2.1
 }
 
 army = {

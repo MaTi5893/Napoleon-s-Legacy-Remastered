@@ -1095,7 +1095,6 @@ balkans_war_aftermath_victory = {
 }
 
 balkans_war_aftermath_defeat = {
-	education_efficiency_modifier = 0.1
 	mobilisation_size = 0.01
 	army_tech_research_bonus = 0.1
 	icon = 17

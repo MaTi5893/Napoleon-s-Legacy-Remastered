@@ -51,23 +51,24 @@ leader = {
 	date = 1786.1.1
 	type = land
 	personality = defence_3.4
-	background = attack_4.2
+	background = attack_4.1
 	prestige = 1
 }
+
 leader = {
 	name = "Mehmet Namik Pasha"
 	picture = tur_gen_mehmetnamik
 	date = 1832.1.1
 	type = land
 	personality = defence_1.1
-	background = attack_1.1
+	background = attack_2.1
 }
 leader = {
 	name = "Halil Rifat Pasha"
 	picture = tur_adm_halilrifat
 	date = 1830.1.1
 	type = sea
-	personality = defence_1.1
+	personality = defence_2.1
 	background = attack_1.1
 	prestige = 0.1
 }
@@ -121,7 +122,7 @@ leader = {
 
 army = {
 	name = "Imperial Guards"
-	location = 860
+	location = 829
 	regiment = {
 		name= "1. Bostancy-yy Hassa"
 		type = hussar
@@ -187,27 +188,27 @@ army = {
 	
 army = {
 	name = "Army of Anatolia"
-	location = 878
+	location = 902
 	regiment = {
-		name= "5. Piyade T�meni"
+		name= "5. Piyade Tameni"
 		type = hussar
 		home = 882
 	}
 
 	regiment = {
-		name= "6. Piyade T�meni"
+		name= "6. Piyade Tameni"
 		type = infantry
 		home = 873
 	}
 
 	regiment = {
-		name= "7. Piyade T�meni"
+		name= "7. Piyade Tameni"
 		type = infantry
 		home = 869
 	}
 
 	regiment = {
-		name= "8. Piyade T�meni"
+		name= "8. Piyade Tameni"
 		type = infantry
 		home = 863
 	}
@@ -252,7 +253,7 @@ army = {
 
 army = {
 	name = "Army of Silistria"
-	location = 818
+	location = 809
 	regiment = {
 		name= "4. Sipahis"
 		type = hussar
@@ -272,19 +273,19 @@ army = {
 	}
 
 	regiment = {
-		name= "9. Piyade T�meni"
+		name= "9. Piyade Tameni"
 		type = infantry
 		home = 870
 	}
 
 	regiment = {
-		name= "10. Piyade T�meni"
+		name= "10. Piyade Tameni"
 		type = infantry
 		home = 873
 	}
 
 	regiment = {
-		name= "11. Piyade T�meni"
+		name= "11. Piyade Tameni"
 		type = artillery
 		home = 878
 	}
@@ -319,29 +320,25 @@ army = {
 	name = "Army of Arabia"
 	location = 1733
 	regiment = {
-		name= "12. Piyade T�meni"
+		name= "12. Piyade Tameni"
 		type = hussar
 		home = 893
 	}
-
 	regiment = {
-		name= "13. Piyade T�meni"
+		name= "13. Piyade Tameni"
 		type = infantry
 		home = 899
 	}
-
 	regiment = {
-		name= "14. Piyade T�meni"
+		name= "14. Piyade Tameni"
 		type = infantry
 		home = 926
 	}
-
 	regiment = {
 		name= "1. Redif Halab"
 		type = infantry
 		home = 890
 	}
-
 	regiment = {
 		name= "2. Redif Halab"
 		type = infantry
@@ -353,44 +350,95 @@ army = {
 		type = artillery
 		home = 923
 	}
-
 	regiment = {
 		name= "7. Sipahis"
 		type = artillery
 		home = 1733
 	}
-
 	regiment = {
 		name= "8. Sipahis"
 		type = artillery
 		home = 1731
 	}
-
 	regiment = {
-		name= "1. Ask�ris"
+		name= "1. Askaris"
 		type = artillery
 		home = 1735
 	}
-
 	regiment = {
-		name= "2. Ask�ris"
+		name= "2. Askaris"
 		type = artillery
 		home = 1734
+	}
+}
+
+army = {
+	name = "Army of the Levant"
+	location = 860
+	regiment = {
+		name= "40. Piyade Tameni"
+		type = hussar
+		home = 863
+	}
+
+	regiment = {
+		name= "40. Piyade Tameni"
+		type = infantry
+		home = 868
+	}
+
+	regiment = {
+		name= "41. Piyade Tameni"
+		type = infantry
+		home = 886
+	}
+
+	regiment = {
+		name= "42. Redif Halab"
+		type = infantry
+		home = 894
+	}
+
+	regiment = {
+		name= "43. Redif Halab"
+		type = infantry
+		home = 896
+	}
+
+	regiment = {
+		name= "40. Redif Halab"
+		type = artillery
+		home = 806
+	}
+
+	regiment = {
+		name= "41. Sipahis"
+		type = artillery
+		home = 807
+	}
+
+	regiment = {
+		name= "42. Sipahis"
+		type = artillery
+		home = 807
+	}
+
+	regiment = {
+		name= "43. Askaris"
+		type = artillery
+		home = 845
+	}
+
+	regiment = {
+		name= "44. Askaris"
+		type = artillery
+		home = 860
 	}
 }
 
 navy = {
 	name = "Ottoman Navy"
 	location = 860
-	ship = {
-		name= "Masudiya"
-		type = manowar
-	}
-
-	ship = {
-		name= "Sadd al Bahri"
-		type = manowar
-	}
 
 	ship = {
 		name= "Ankay i Barhi"
@@ -506,6 +554,37 @@ navy = {
 		name= "3rd Transport Flotilla"
 		type = clipper_transport
 	}
+	ship = {
+		name= "4th Transport Flotilla"
+		type = clipper_transport
+	}
 
+	ship = {
+		name= "5th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "7th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "8th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10th Transport Flotilla"
+		type = clipper_transport
+	}
 }
 

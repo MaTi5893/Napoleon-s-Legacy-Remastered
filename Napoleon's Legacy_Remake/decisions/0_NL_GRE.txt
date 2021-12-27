@@ -357,7 +357,7 @@ political_decisions = {
             }
             add_country_modifier = {
                 name = the_pentarchy
-                duration = 36500
+                duration = -1
 		    }
             set_country_flag = pentarchy
         }
@@ -384,7 +384,7 @@ political_decisions = {
             TUR_889 = {add_core = THIS}
             add_country_modifier = {
                 name = anatolia
-                duration = 36500
+                duration = -1
 		    }
             prestige = 15
             set_country_flag = anatolia_reconquered
@@ -408,7 +408,7 @@ political_decisions = {
             EGY_1756 = {add_core = THIS}
             add_country_modifier = {
                 name = levant
-                duration = 36500
+                duration = -1
 		    }
             prestige = 15
             set_country_flag = levant_reconquered
@@ -438,7 +438,7 @@ political_decisions = {
             1755 = {add_core = THIS}
             add_country_modifier = {
                 name = north_africa
-                duration = 36500
+                duration = -1
 		    }
             prestige = 15
             set_country_flag = north_africa_reconquered
@@ -468,7 +468,7 @@ political_decisions = {
             SIC_756 = {add_core = THIS}
             add_country_modifier = {
                 name = south_italy
-                duration = 36500
+                duration = -1
 		    }
             prestige = 15
             set_country_flag = south_italy_reconquered
@@ -498,7 +498,7 @@ political_decisions = {
             TUR_810 = {add_core = THIS}
             add_country_modifier = {
                 name = balkans
-                duration = 36500
+                duration = -1
 		    }
             prestige = 15
             set_country_flag = balkans_reconquered
@@ -527,7 +527,7 @@ political_decisions = {
             TUS_744 = {add_core = THIS}
             add_country_modifier = {
                 name = north_italy
-                duration = 36500
+                duration = -1
             }
             prestige = 15
             set_country_flag = north_italy_reconquered
