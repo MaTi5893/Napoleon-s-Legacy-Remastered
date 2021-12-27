@@ -36,14 +36,14 @@ baltic_domination_tech;Baltic Domination Tech;;;;;;;x
 baltic_dominance;Domination of the Baltic Sea;;;;;;;x
 Scotish;Scottish;;;;;;;x
 british;English;;;;;;;x
-PROV2126;R�union;;;;;;;x
+PROV2126;Reunion;;;;;;;x
 west_rhine_bank;Control Over the West Rhine Bank;;;;;;;x
 east_rhine_bank;Control Over the East Rhine Bank;;;;;;;x
 full_rhine;Control Over The Entire Rhine;;;;;;;x
 an_mein_volk;An Mein Folk;;;;;;;x
-an_mein_volk_desc;We have call all german to unite against the french rule !;;;;;;;x
+an_mein_volk_desc;We have call all german to unite against the french rule!;;;;;;;x
 cultural_unification;Cultural Unification;;;;;;;x
-cultural_unification_desc;We have united all our culture !;;;;;;;x
+cultural_unification_desc;We have united all our culture!;;;;;;;x
 new_world_nation;New World Nation;;;;;;;x
 EVTNAME181503;Russia gives up Ukraine?!;;;;;;;x
 EVTDESC181503;News have reached us that the Tsar of Russia has offered to give up the puppet state of Ukraine for us... by his own will.;;;;;;;x
@@ -54,30 +54,32 @@ russian_comeback2;After the difficult time that followed the invasion of our glo
 russian_comeback2_desc;After the difficult time that followed the invasion of our glorious nation by the french, we are finally recovering!;;;;;;;x
 poniatowski_reforms;Poniatoswki Reforms;;;;;;;x
 poniatowski_reforms_desc;The effects of Poniatowski's reforms are showing.;;;;;;;x
-polish_law_respect;We respect the Poniatowski law of 120 000 soldier !;;;;;;;x
-polish_law_no_respect;We don't respect the Poniatowski law of 120 000 soldier !;;;;;;;x
-metternich_way;The Way Of Metternich !;;;;;;;x
-metternich_way_desc;Our Minister of Forgeign Affairs paved the way for the return of Austria as a great power !;;;;;;;x
-balkans_war;Balkans WAR !;;;;;;;x
-balkans_war;The War for the Independace of the different Balkans states has been fought for over a year, the population is supporting us !;;;;;;;x
+polish_law_respect;We respect the Poniatowski law of 120 000 soldier!;;;;;;;x
+polish_law_no_respect;We don't respect the Poniatowski law of 120 000 soldier!;;;;;;;x
+metternich_way;The Way Of Metternich!;;;;;;;x
+metternich_way_desc;Our Minister of Forgeign Affairs paved the way for the return of Austria as a great power!;;;;;;;x
+balkans_war;Balkans WAR!;;;;;;;x
+balkans_war;The War for the Independace of the different Balkans states has been fought for over a year, the population is supporting us!;;;;;;;x
 balkans_war_aftermath_victory;The Aftermath of the Balkan war;;;;;;;x
 balkans_war_aftermath_victory_desc;We have won the Balkan war, now we must recover from it, trying to accept the populations that revolted to prevent any future war.;;;;;;;x
 EVTDESC90005;Although we only want to help $CB_TARGET_NAME$ by adding them to our sphere of influence they have gotten very worked up about it. While unseemly to all involved, their behaviour has rather turned international opinion against forcefully requesting they join us in our prosperity.;;;;;;;x
 balkans_war_aftermath_defeat;The Aftermath of the Balkan war;;;;;;;x
-balkans_war_aftermath_defeat_desc;We have lost the Balkan war, now we must recover from it, trying to prevent others revolts in differents par of the empire and may be become a great power again !;;;;;;;x
-golden_eagle_restoration;Byzantine Restoration !;;;;;;;x
-golden_eagle_restoration_desc;We have reclaimed the lost titled of the Byzantine empire !;;;;;;;x
+balkans_war_aftermath_defeat_desc;We have lost the Balkan war, now we must recover from it, trying to prevent others revolts in differents par of the empire and may be become a great power again!;;;;;;;x
+golden_eagle_restoration;Byzantine Restoration!;;;;;;;x
+golden_eagle_restoration_desc;We have reclaimed the lost titled of the Byzantine empire!;;;;;;;x
 the_pentarchy;We have united the Pentarchy;;;;;;;x
-the_pentarchy_desc;After a millenia of differences with wersern chrisitanity, we have finally reunited all 5 holy sites of christianity, putting orthodox faith above all others !;;;;;;;x
+the_pentarchy_desc;After a millenia of differences with wersern chrisitanity, we have finally reunited all 5 holy sites of christianity, putting orthodox faith above all others!;;;;;;;x
 anatolia;Anatolia;;;;;;;x
-anatolia_desc;We have reconquered Anatolia !;;;;;;;x
+anatolia_desc;We have reconquered Anatolia!;;;;;;;x
 levant;Levant;;;;;;;x
-levant_desc;We have reconquered the Levant !;;;;;;;x
+levant_desc;We have reconquered the Levant!;;;;;;;x
 north_africa;North Africa;;;;;;;x
-north_africa_desc;We have reconquered North Africa !;;;;;;;x
+north_africa_desc;We have reconquered North Africa!;;;;;;;x
 south_italy;South Italy;;;;;;;x
 south_italy_desc;We have reconquered South Italy !;;;;;;;x
 balkans;Balkans;;;;;;;x
 balkans_desc;We have reconquered the Balkans !;;;;;;;x
 north_italy;North Italy;;;;;;;x
 north_italy_desc;We have reconquered North Italy !;;;;;;;x
+PRU_701;Wielkopolskie;;;;;;;x
+RUS_710;Malopolskie;;;;;;;x

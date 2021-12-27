@@ -166,7 +166,7 @@ political_decisions = {
 			mass_politics = 1
 			is_greater_power = yes
 			war = no
-			NOT = {militancy = 2}
+			NOT = {average_militancy = 2}
 			KUK = {
 				all_core = {
 					owned_by = THIS
@@ -196,8 +196,14 @@ political_decisions = {
 			}
 			change_tag = USG
 			prestige = 20
-			militancy = -1
-			government = hms_government
+			any_pop = { militancy = -1 } 
+			AUS = { 
+				any_country = { limit = { 
+					tag = USG
+					OR = { government = absolute_monarchy government = prussian_constitutionalism } }
+				government = hms_government
+				}
+			}
 		}
 	}
 	ask_bavaria_tirol = {
