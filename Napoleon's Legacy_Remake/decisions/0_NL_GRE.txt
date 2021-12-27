@@ -12,7 +12,7 @@ political_decisions = {
         allow = {
             ideological_thought = 1
             war = no
-            is_secondary_power = yes
+            OR = { is_secondary_power = yes is_greater_power = yes }
             all_core = {
                 owned_by = THIS
             }
