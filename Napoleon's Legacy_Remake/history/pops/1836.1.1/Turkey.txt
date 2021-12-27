@@ -379,7 +379,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 4500
+		size = 7000
 	}
 
 	farmers = {
@@ -517,7 +517,7 @@
 	craftsmen = {
 		culture = turkish
 		religion = sunni
-		size = 2500
+		size = 4000
 	}
 
 	craftsmen = {
@@ -729,7 +729,7 @@
 	soldiers = {
 		culture = turkish
 		religion = sunni
-		size = 2000
+		size = 4000
 	}
 
 	farmers = {
@@ -772,6 +772,12 @@
 		culture = armenian
 		religion = orthodox
 		size = 2500
+	}
+
+	craftsmen = {
+		culture = turkish
+		religion = sunni
+		size = 1000
 	}
 
 	farmers = {

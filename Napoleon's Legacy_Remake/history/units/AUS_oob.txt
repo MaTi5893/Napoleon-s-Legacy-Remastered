@@ -91,15 +91,6 @@ leader = {
 	picture = aus_gen_radetzky
 	date = 1805.1.1
 	type = land
-	personality = defence_1.1
-	background = attack_1.1
-	prestige = 1
-}
-leader = {
-	name = "Josef Radetzky"
-	picture = aus_gen_radetzky
-	date = 1805.1.1
-	type = land
 	personality = defence_2.1
 	background = attack_4.2
 	prestige = 0.3
