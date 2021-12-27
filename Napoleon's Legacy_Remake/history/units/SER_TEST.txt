@@ -5,10 +5,9 @@ leader = {
 	personality = defence_2.1
 	background = attack_2.1
 }
-
 army = {
 	name = "Army of the Principality of Serbia"
-	location = 794
+	location = 795
 	regiment = {
 		name= "1st Serbian Infantry"
 		type = infantry
@@ -30,7 +29,7 @@ army = {
 		home = 794
 	}
 	regiment = {
-		name= "1sh Serbian Cavalry"
+		name= "1st Serbian Cavalry"
 		type = hussar
 		home = 797
 	}
