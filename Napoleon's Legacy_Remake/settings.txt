@@ -6,7 +6,7 @@ shadowSize=2048
 multi_sampling=0
 anisotropic_filtering=0
 }
-sound_fx_volume=100.000000
-music_volume=100.000000
-master_volume=100.000000
-ambient_volume=100.000000
+sound_fx_volume=40.000000
+music_volume=40.000000
+master_volume=40.000000
+ambient_volume=40.000000
