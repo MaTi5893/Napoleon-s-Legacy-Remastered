@@ -1,0 +1,56 @@
+country_event = {
+	id = 600005
+    title = "EVTNAME600005"
+	desc = "EVTDESC600005"
+
+    is_triggered_only = yes
+
+option = {
+        name = "Give them Tirol !"
+        AUS_612 = { secede_province = AUS } 
+        735 = { secede_province = AUS } 
+        badboy = -3
+        ai_chance = {
+			factor = 0.6
+            modifier = {
+                factor = 0.25
+                relation = { who = AUS value = 50 }
+            }
+            modifier = {
+                factor = 0.5
+                relation = { who = AUS value = 100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = AUS value = 150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = AUS value = 200 }
+            }
+		}
+    }
+option = {
+        name = "Tirol will stay a Bavarian province !"
+        prestige =5
+	    ai_chance = {
+		factor = 0.4
+    		modifier = {
+                factor = 0.25
+                relation = { who = AUS value = -50 }
+            }
+            modifier = {
+              	factor = 0.5
+                relation = { who = AUS value = -100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = AUS value = -150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = AUS value = -200 }
+            }
+		}
+    }
+}

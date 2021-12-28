@@ -129,32 +129,32 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Capitán Cabral" "Capitán Ortíz" Haumaitá Itaipú Nanawa Paraguya "Rodríguez de Francia" Tebicuary "Teniente Fariña" Yhaguy
+		"Capitan Cabral" "Capitan Ortiz" Haumaita Itaipu Nanawa Paraguya "Rodriguez de Francia" Tebicuary "Teniente Farina" Yhaguy
 	}
 	ironclad = {
-		"General Yegros" Jejuí "Márquez de Olinda" Paraguarí Pirabebé "Francisco Solano López" Salto Tacuarí Ygurey Yporá
+		"General Yegros" Jejui "Marquez de Olinda" Paraguari Pirabebe "Francisco Solano Lopez" Salto Tacuari Ygurey Ypora
 	}
 	manowar = {
-		Encarnación "San José" "San Juan" "San Juan Bautista" "San Lorenzo" "San Pedro" "Santa Ana" "Santa María" "Santa Marta" "Santísima Trinidad"
+		Encarnacion "San Jose" "San Juan" "San Juan Bautista" "San Lorenzo" "San Pedro" "Santa Ana" "Santa Maria" "Santa Marta" "Santisima Trinidad"
 	}
 	cruiser = {
-		Areguá Asunción Caaguazú "Cerro Peró" "Ciudad del Este" Concepción "Fuerte Olimpo" Itauguá Ñeembucú Villarica
+		Aregua Asuncion Caaguazu "Cerro Pero" "Ciudad del Este" Concepcion "Fuerte Olimpo" Itaugua Neembucu Villarica
 	}
 	frigate = {
-		"Alto Paraguay" "Bajo Paraguay" Boquerón Constitución "Gran Chaco" Independencia Libertad "Patria Paraguaya" "Presidente Hayes" República
+		"Alto Paraguay" "Bajo Paraguay" Boqueron Constitucion "Gran Chaco" Independencia Libertad "Patria Paraguaya" "Presidente Hayes" Republica
 	}
 	monitor = {
-		"Carlos Antonio López" Guaraní Jopará Nivaclé Paraná Pilcomayo "Río Paraguay" "Salto de Guairá" "San Francisco Javier" "San Ignacio de Loyola"
+		"Carlos Antonio Lopez" Guarani Jopara Nivacle Parana Pilcomayo "Rio Paraguay" "Salto de Guaira" "San Francisco Javier" "San Ignacio de Loyola"
 	}
 	clipper_transport = { 
-		Angostura "Estrella de los Mares" Gigante Intrépida Júpiter Libre Marte Neptuno Plutón Reducción
-		"San Honorato" "San Lucas" "San Marcos" "San Mateo" "Santa Isabel" "Santa Mónica" Saturno Sirena Tetis Veloz
+		Angostura "Estrella de los Mares" Gigante Intrepida Jupiter Libre Marte Neptuno Pluton Reduccion
+		"San Honorato" "San Lucas" "San Marcos" "San Mateo" "Santa Isabel" "Santa Monica" Saturno Sirena Tetis Veloz
 	}
 	steam_transport = { 
-		Angostura "Estrella de los Mares" Gigante Intrépida Júpiter Libre Marte Neptuno Plutón Reducción
-		"San Honorato" "San Lucas" "San Marcos" "San Mateo" "Santa Isabel" "Santa Mónica" Saturno Sirena Tetis Veloz
+		Angostura "Estrella de los Mares" Gigante Intrepida Jupiter Libre Marte Neptuno Pluton Reduccion
+		"San Honorato" "San Lucas" "San Marcos" "San Mateo" "Santa Isabel" "Santa Monica" Saturno Sirena Tetis Veloz
 	}
 	commerce_raider = {
-		Azote Destructor Fervor Héroe Relámpago Tempestad Terror Triunfo Trueno Victoria
+		Azote Destructor Fervor Heroe Relampago Tempestad Terror Triunfo Trueno Victoria
 	}
 }

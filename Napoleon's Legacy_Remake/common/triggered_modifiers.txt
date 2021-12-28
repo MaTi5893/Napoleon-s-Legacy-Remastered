@@ -782,3 +782,31 @@ full_rhine = {
 #	prestige = 0.01
 #	icon = 9
 #}
+
+# Not working for some reason
+polish_law_respect = {
+	trigger = {
+		tag = PLC
+		total_amount_of_divisions = 40
+		NOT = {year = 1850}
+		year = 1837
+	}
+	diplomatic_points_modifier = 0.05
+	mobilisation_size = 0.01
+	icon = 9
+}
+
+polish_law_no_respect = {
+	trigger = {
+		tag = PLC
+		NOT = {total_amount_of_divisions = 40}
+		NOT = {year = 1850}
+		year = 1837
+	}
+	diplomatic_points_modifier = -0.1
+	mobilisation_size = -0.02
+	tax_efficiency = -0.05
+	mobilisation_economy_impact = 0.1
+	farm_rgo_eff = -0.1
+	icon = 9
+}

@@ -171,30 +171,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"O’Faolain" "Caomhánach" "Mannion" "Corcaigh" "Gaillimh"
+		"O’Faolain" "Caomhanach" "Mannion" "Corcaigh" "Gaillimh"
 	}
 	ironclad = {
-		"Baile Átha Cliath" "Cúige Laighean" "Ulaidh" "An Mhumhain" "Connachta"
+		"Baile Atha Cliath" "Cuige Laighean" "Ulaidh" "An Mhumhain" "Connachta"
 	}
 	manowar = {
-		"Port Láirge" "Dún na nGall" "Loingsech" "Ó’Conghaile" "An Cóbh"
+		"Port Lairge" "Dun na nGall" "Loingsech" "O’Conghaile" "An Cobh"
 	}
 	cruiser = {
-		"Michelle" "Peigi" "Máire" "Róisín" "Esther"
+		"Michelle" "Peigi" "Maire" "Roisin" "Esther"
 	}
 	frigate = {
-		"Fort Rannoch" "Cliona" "Maev" "Macha" "an Cóbh"
+		"Fort Rannoch" "Cliona" "Maev" "Macha" "an Cobh"
 	}
 	monitor = {
-		"Muirchú" "Réabhlóid" "Dónal Ó Conaill" "Emmet"
+		"Muirchu" "Reabhloid" "Donal O Conaill" "Emmet"
 	}
 	clipper_transport = {
-		"Parnell" "Oileáin Árann" "an Chláir" "Mhaigh Eo" "Mairead"
+		"Parnell" "Oileain Arann" "an Chlair" "Mhaigh Eo" "Mairead"
 	}
 	steam_transport = {
 		"Lady Wicklow" "Robin" "Adele" "Aontroim" "Fionn Radharc"
 	}
 	commerce_raider = {
-		"Dún Droma" "Marino" "Baile Bocht" "Béal Feirste" "Frongoch"
+		"Dun Droma" "Marino" "Baile Bocht" "Beal Feirste" "Frongoch"
 	}
 }

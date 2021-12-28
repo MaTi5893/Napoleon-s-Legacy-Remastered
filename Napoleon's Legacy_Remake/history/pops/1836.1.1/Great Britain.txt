@@ -569,16 +569,10 @@
 		size = 1750
 	}
 
-	craftsmen = {
-		culture = british
-		religion = protestant
-		size = 30000
-	}
-
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 10000
+		size = 15000
 	}
 
 	artisans = {
@@ -602,7 +596,7 @@
 	labourers = {
 		culture = british
 		religion = protestant
-		size = 138850
+		size = 163850
 	}
 
 	clergymen = {
@@ -2140,12 +2134,6 @@
 		size = 400
 	}
 	
-	craftsmen = {
-		culture = british
-		religion = protestant
-		size = 4100
-	}
-	
 	artisans = {
 		culture = british
 		religion = protestant
@@ -2161,19 +2149,13 @@
 	labourers = {
 		culture = british
 		religion = protestant
-		size = 85375
-	}
-
-	craftsmen = {
-		culture = irish
-		religion = catholic
-		size = 100
+		size = 89475
 	}
 	
 	artisans = {
 		culture = irish
 		religion = catholic
-		size = 1100
+		size = 1200
 	}
 }
 #Brighton (404000/101000 POPS)
@@ -2217,7 +2199,7 @@
 	labourers = {
 		culture = british
 		religion = protestant
-		size = 84500
+		size = 91300
 	}
 }
 #Southampton (332000/83000 POPS)

@@ -1,20 +1,37 @@
 #Sphere of Influence
-
+SER = {
+	value = 75		#relation
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
+MOL = {
+	value = 75
+	level = 3
+	influence_value = 25
+}
+MON = {
+	value = 100
+	level = 3
+	influence_value = 25
+}
+BOS = {
+	value = 100
+	level = 4
+	influence_value = 25
+}
 SAX = {
 	value = 125
 	level = 5
 	influence_value = 25
 }
-
+BAV = {
+	value = 125		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 25
+}
 KRA = {
 	value = 125
 	level = 5
-	influence_value = 25
-}
-
-SER = {
-	value = 75
-	level = 2
 	influence_value = 25
 }
 
@@ -74,8 +91,8 @@ leader = {
 	picture = aus_gen_radetzky
 	date = 1805.1.1
 	type = land
-	personality = defence_1.1
-	background = attack_1.1
+	personality = defence_2.1
+	background = attack_4.2
 	prestige = 0.3
 }
 leader = {

@@ -185,36 +185,36 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		Hannover Victoria "König Georg" Askanian Welf "Heinrich der Löwe" "Ernst August" Emden Wittekind Stade Lüneburg Hildesheim Osnabrück 
+		Hannover Victoria "Konig Georg" Askanian Welf "Heinrich der Lowe" "Ernst August" Emden Wittekind Stade Luneburg Hildesheim Osnabruck 
 
 Aurich
 	}
 	ironclad = {
-		Hannover Victoria "König Georg" Askanian Welf "Heinrich der Löwe" "Ernst August" Emden Wittekind Stade Lüneburg Hildesheim Osnabrück 
+		Hannover Victoria "Konig Georg" Askanian Welf "Heinrich der Lowe" "Ernst August" Emden Wittekind Stade Luneburg Hildesheim Osnabruck 
 
 Aurich
 		
 	}
 	manowar = {
-		Hannover Victoria "König Georg" Askanian Welf "Heinrich der Löwe" "Ernst August" Emden Wittekind Stade Lüneburg Hildesheim Osnabrück 
+		Hannover Victoria "Konig Georg" Askanian Welf "Heinrich der Lowe" "Ernst August" Emden Wittekind Stade Luneburg Hildesheim Osnabruck 
 
 Aurich
 		
 	}
 	cruiser = {
-		Hannover Victoria "König Georg" Askanian Welf "Heinrich der Löwe" "Ernst August" Emden Wittekind Stade Lüneburg Hildesheim Osnabrück 
+		Hannover Victoria "Konig Georg" Askanian Welf "Heinrich der Lowe" "Ernst August" Emden Wittekind Stade Luneburg Hildesheim Osnabruck 
 
 Aurich
 		
 	}
 	frigate = {
-		Hannover Victoria "König Georg" Askanian Welf "Heinrich der Löwe" "Ernst August" Emden Wittekind Stade Lüneburg Hildesheim Osnabrück 
+		Hannover Victoria "Konig Georg" Askanian Welf "Heinrich der Lowe" "Ernst August" Emden Wittekind Stade Luneburg Hildesheim Osnabruck 
 
 Aurich
 		
 	}
 	monitor = {
-		Hannover Victoria "König Georg" Askanian Welf "Heinrich der Löwe" "Ernst August" Emden Wittekind Stade Lüneburg Hildesheim Osnabrück 
+		Hannover Victoria "Konig Georg" Askanian Welf "Heinrich der Lowe" "Ernst August" Emden Wittekind Stade Luneburg Hildesheim Osnabruck 
 
 Aurich
 		
@@ -226,7 +226,7 @@ Aurich
 		
 	}
 	commerce_raider = {
-		Hannover Victoria "König Georg" Askanian Welf "Heinrich der Löwe" "Ernst August" Emden Wittekind Stade Lüneburg Hildesheim Osnabrück 
+		Hannover Victoria "Konig Georg" Askanian Welf "Heinrich der Lowe" "Ernst August" Emden Wittekind Stade Luneburg Hildesheim Osnabruck 
 
 Aurich
 		

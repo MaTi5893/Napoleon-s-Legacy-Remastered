@@ -1,7 +1,5 @@
-owner = DLM
-controller = DLM
+owner = AUS
+controller = AUS
 add_core = AUS
-add_core = DLM
-add_core = HRO
 trade_goods = coal
 life_rating = 35

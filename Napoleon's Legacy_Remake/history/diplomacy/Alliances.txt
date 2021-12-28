@@ -14,13 +14,6 @@ alliance=
 	}
 alliance=
 	{
-		first="SWE"
-		second="DEN"
-		end_date="1936.1.1"
-		start_date="1836.1.1"
-	}
-alliance=
-	{
 		first="PLC"
 		second="SWE"
 		end_date="1936.1.1"
@@ -46,7 +39,7 @@ alliance=
 		second="PLC"
 		end_date="1936.1.1"
 		start_date="1836.1.1"
-	}
+	}	
 alliance=
 	{
 		first="FRA"
@@ -58,13 +51,6 @@ alliance=
 	{
 		first="AUS"
 		second="RUS"
-		end_date="1936.1.1"
-		start_date="1836.1.1"
-	}
-alliance=
-	{
-		first="AUS"
-		second="PRU"
 		end_date="1936.1.1"
 		start_date="1836.1.1"
 	}

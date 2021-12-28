@@ -101,22 +101,22 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Greiwemaacher Dideleng Ëlwen Maertert "Sankt Maximin"  
 	}
 	ironclad = {
-		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Greiwemaacher Dideleng Ëlwen Maertert "Sankt Maximin"  
 	}
 	manowar = {
-		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Greiwemaacher Dideleng Ëlwen Maertert "Sankt Maximin"  
 	}
 	cruiser = {
-		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Greiwemaacher Dideleng Ëlwen Maertert "Sankt Maximin"  
 	}
 	frigate = {
-		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Greiwemaacher Dideleng Ëlwen Maertert "Sankt Maximin"  
 	}
 	monitor = {
-		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Greiwemaacher Dideleng Ëlwen Maertert "Sankt Maximin"  
 	}
 	clipper_transport = {
 		
@@ -125,6 +125,6 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Gréiwemaacher Dideleng Ëlwen Mäertert "Sankt Maximin"  
+		Lëtzebuerg "Groussherzog Wëllem" Siegfried "Heng de Blannen" Dikrech Greiwemaacher Dideleng Ëlwen Maertert "Sankt Maximin"  
 	}
 }

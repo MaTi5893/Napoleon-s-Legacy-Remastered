@@ -3,7 +3,7 @@ controller = AUS
 add_core = AUS
 add_core = BOH
 add_core = CZH
-add_core = HRO
+
 trade_goods = iron
 life_rating = 40
 state_building = {

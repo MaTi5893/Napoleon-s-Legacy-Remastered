@@ -42,12 +42,6 @@ vassal = {
 	end_date = 1937.1.1
 }
 substate = {
-	first = TUR
-	second = EGY
-	start_date = 1836.1.1
-	end_date = 1937.1.1 
-}
-substate = {
 	first = RUS
 	second = UKR
 	start_date = 1836.1.1
@@ -100,26 +94,11 @@ vassal = {
 	end_date = 1847.7.26
 }
 
-# France-Ionian Islands
-vassal = {
-	first = FRA
-	second = ION
-	start_date = 1815.11.9
-	end_date = 1864.1.1
-}
 
 # Ottoman Empire-Wallachia
 vassal = {
 	first = TUR
 	second = WAL
-	start_date = 1836.1.1
-	end_date = 1859.1.24	# Reunification of Wallachia and Moldavia
-}
-
-# Ottoman Empire-Moldavia
-vassal = {
-	first = TUR
-	second = MOL
 	start_date = 1836.1.1
 	end_date = 1859.1.24	# Reunification of Wallachia and Moldavia
 }

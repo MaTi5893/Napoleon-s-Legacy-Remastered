@@ -157,26 +157,26 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Râul Prut" Suceava "Târgul Moldovei" Vaslui
+		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Raul Prut" Suceava "Targul Moldovei" Vaslui
 		
 	}
 	ironclad = {
-		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Râul Prut" Suceava "Târgul Moldovei" Vaslui
+		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Raul Prut" Suceava "Targul Moldovei" Vaslui
 	}
 	manowar = {
-		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Râul Prut" Suceava "Târgul Moldovei" Vaslui
+		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Raul Prut" Suceava "Targul Moldovei" Vaslui
 		
 	}
 	cruiser = {
-		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Râul Prut" Suceava "Târgul Moldovei" Vaslui
+		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Raul Prut" Suceava "Targul Moldovei" Vaslui
 		
 	}
 	frigate = {
-		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Râul Prut" Suceava "Târgul Moldovei" Vaslui
+		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Raul Prut" Suceava "Targul Moldovei" Vaslui
 		
 	}
 	monitor = {
-		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Râul Prut" Suceava "Târgul Moldovei" Vaslui
+		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Raul Prut" Suceava "Targul Moldovei" Vaslui
 		
 	}
 	clipper_transport = {
@@ -186,7 +186,7 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Râul Prut" Suceava "Târgul Moldovei" Vaslui
+		Moldova "Stefan cel Mare" "Mihail Sturdza" "Athleta Christi" Baia "Bogdan I" Iuga "Raul Prut" Suceava "Targul Moldovei" Vaslui
 		
 	}
 }

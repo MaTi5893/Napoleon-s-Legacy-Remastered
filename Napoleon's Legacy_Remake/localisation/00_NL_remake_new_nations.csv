@@ -142,8 +142,8 @@ BRA_ADJ;Berg;;;;;;;x
 CEL;Celtic Union;;;;;;;x
 CEL_adj;Celtic Union;;;;;;;x
 IRE_fascist_dictatorship;Big Chungus Ethnostate;;;;;;;x
-INO;Indonesia;Indonésie;Indonesien;;Indonesia;;;;;;;x
-INO_ADJ;Indonesian;Indonésienne;Indonesisch;;Indonesio;;;;;;;x
+INO;Indonesia;Indonesie;Indonesien;;Indonesia;;;;;;;x
+INO_ADJ;Indonesian;Indonesienne;Indonesisch;;Indonesio;;;;;;;x
 INO_conservative;Partai Golongan Karya;;;;;;;x;;;;
 INO_liberal;Partai Majelis Syuro Muslimin Indonesia;;;;;;;x;;;;
 INO_liberal_2;Partai Demokrat;;;;;;;x;;;;
@@ -215,3 +215,5 @@ SPC_absolute_monarchy;Hispanic Empire;;;;;;;x
 SPC_prussian_constitutionalism;Hispanic Commonwealth;;;;;;;x
 SPC_hms_government;Hispanic Commonwealth;;;;;;;x
 SPC_ADJ;Hispanic;;;;;;;x
+USG;The United States of Greater Austria;;;;;;;x
+USG_ADJ;Danubian;;;;;;;x

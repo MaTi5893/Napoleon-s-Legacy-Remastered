@@ -48,6 +48,7 @@ SPC 	= "countries/Hispanic Commonwealth.txt"
 ZAC		= "countries/Zachadia.txt"
 SPC 	= "countries/Hispanic Commonwealth.txt" 
 ZAC		= "countries/Zachadia.txt"
+USG		= "countries/United States of Greater Austria.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"
@@ -105,7 +106,6 @@ VEN		= "countries/Venice.txt"
 
 # Eastern Europe
 BOH		= "countries/Bohemia-Moravia.txt"
-KRA		= "countries/Krakow.txt"
 CRI		= "countries/Crimea.txt"
 EST		= "countries/Estonia.txt"
 HUN		= "countries/Hungary.txt"
@@ -127,7 +127,6 @@ CRE		="countries/Crete.txt"
 CRO		="countries/Croatia.txt"
 CYP		="countries/Cyprus.txt"
 GRE		="countries/Greece.txt"
-ION		="countries/Ionian Islands.txt"
 MOL		="countries/Moldavia.txt"
 MON		="countries/Montenegro.txt"
 ROM		="countries/Romania.txt"

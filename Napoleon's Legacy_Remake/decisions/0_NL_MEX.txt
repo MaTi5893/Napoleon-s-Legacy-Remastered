@@ -166,6 +166,7 @@ political_decisions = {
         }
     }
 	acquire_cuba = {
+        picture = cuba_decision
 		potential = {
 			tag = MEX
 			NOT = { accepted_culture = caribeno } 

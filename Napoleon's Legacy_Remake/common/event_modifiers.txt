@@ -1054,8 +1054,7 @@ cultural_unification = {
 russian_comeback1 = {
 	global_population_growth = 0.001
 	mobilisation_size = 0.02
-	farm_rgo_eff = 0.10
-	education_efficiency_modifier = 0.10
+	farm_rgo_eff = 0.15
 	icon = 17
 }
 
@@ -1072,4 +1071,91 @@ poniatowski_reforms = {
 	education_efficiency_modifier = 0.05
 	assimilation_rate = 0.05
 	icon = 17
+}
+
+metternich_way = {
+	diplomatic_points_modifier = 0.20
+	commerce_tech_research_bonus = 0.05
+	education_efficiency_modifier = 0.05
+	icon = 17
+}
+
+liberation_war = {
+	mobilisation_economy_impact = -0.3
+	mobilisation_size = 0.1
+	icon = 17
+}
+
+balkans_war_aftermath_victory = {
+	education_efficiency_modifier = 0.05
+	farm_rgo_eff = 0.1
+	assimilation_rate = 0.1
+	culture_tech_research_bonus = 0.05
+	icon = 17
+}
+
+balkans_war_aftermath_defeat = {
+	mobilisation_size = 0.01
+	army_tech_research_bonus = 0.1
+	icon = 17
+}
+
+liberation_war_aftermath = {
+	education_efficiency_modifier = 0.1
+	mobilisation_size = 0.02
+	farm_rgo_eff = 0.1
+	assimilation_rate = 0.1
+	global_population_growth = 0.001
+	army_tech_research_bonus = 0.05
+	prestige = 0.1
+	icon = 17
+}
+
+golden_eagle_restoration = {
+	culture_tech_research_bonus = 0.1
+	farm_rgo_eff = 0.1
+	education_efficiency_modifier = 0.1
+	mobilisation_size = 0.02
+}
+
+the_pentarchy = {
+	culture_tech_research_bonus = 0.05
+	mobilisation_size = 0.01
+	tax_efficiency = 0.1
+}
+
+anatolia = {
+	army_tech_research_bonus = 0.05
+	mobilisation_size = 0.01
+	tax_efficiency = 0.1
+}
+
+levant = {
+	commerce_tech_research_bonus = 0.05
+	global_population_growth = 0.001
+	tariff_efficiency_modifier = 0.1
+}
+
+north_africa = {
+	industry_tech_research_bonus = 0.05
+	farm_rgo_size = 0.01
+	farm_rgo_eff = 0.1
+}
+
+south_italy = {
+	navy_tech_research_bonus = 0.05
+	naval_organisation = 0.1
+	supply_consumption = -0.1
+}
+
+balkans = {
+	industry_tech_research_bonus = 0.05
+	global_assimilation_rate = 0.1
+	mine_rgo_size = 0.1
+}
+
+north_italy = {
+	culture_tech_research_bonus = 0.05
+	prestige = 0.1
+	education_efficiency_modifier = 0.1
 }

@@ -129,29 +129,29 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		Quebec Montreal Acadie Canada Cartier Montcalm "De la Salle" Detroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
+		"Trois-Rivieres" Champlain Richelieu 
 		
 	}
 	ironclad = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu
+		Quebec Montreal Acadie Canada Cartier Montcalm "De la Salle" Detroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
+		"Trois-Rivieres" Champlain Richelieu
 	}
 	manowar = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		Quebec Montreal Acadie Canada Cartier Montcalm "De la Salle" Detroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
+		"Trois-Rivieres" Champlain Richelieu 
 	}
 	cruiser = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		Quebec Montreal Acadie Canada Cartier Montcalm "De la Salle" Detroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
+		"Trois-Rivieres" Champlain Richelieu 
 	}
 	frigate = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		Quebec Montreal Acadie Canada Cartier Montcalm "De la Salle" Detroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
+		"Trois-Rivieres" Champlain Richelieu 
 	}
 	monitor = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		Quebec Montreal Acadie Canada Cartier Montcalm "De la Salle" Detroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
+		"Trois-Rivieres" Champlain Richelieu 
 	}
 	clipper_transport = {
 		
@@ -160,7 +160,7 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		Québec Montréal Acadie Canada Cartier Montcalm "De la Salle" Détroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
-		"Trois-Rivières" Champlain Richelieu 
+		Quebec Montreal Acadie Canada Cartier Montcalm "De la Salle" Detroit Vaudreuil Frontenac Chevalier "Saint-Laurent" 
+		"Trois-Rivieres" Champlain Richelieu 
 	}
 }

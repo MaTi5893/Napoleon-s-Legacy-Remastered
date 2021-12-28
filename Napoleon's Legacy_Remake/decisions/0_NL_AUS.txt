@@ -46,6 +46,7 @@ political_decisions = {
 			}
 		}
 		effect = {
+			add_accepted_culture = slovene
 			DLM = {annex_to =THIS}
 			set_country_flag = reintegrate_illiya 
 		}
@@ -145,6 +146,87 @@ political_decisions = {
 			}
 			prestige = 5
 			set_country_flag = reclaim_austria
+		}
+	}
+
+	form_usga = {
+		picture = USG_decision
+		potential = {
+			tag = KUK
+		}
+		allow = {
+			NOT = {
+				GER = {
+					any_core = {
+						owned_by = KUK
+					}
+				}
+			}
+			citizenship_policy = full_citizenship
+			mass_politics = 1
+			is_greater_power = yes
+			war = no
+			NOT = {average_militancy = 2}
+			KUK = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			BOS = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			SER = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+		}
+		effect = {
+			add_accepted_culture = romanian
+			add_accepted_culture = bosniak
+			add_accepted_culture = croat
+			add_accepted_culture = slovak
+			add_accepted_culture = polish
+			add_accepted_culture = slovene
+			add_accepted_culture = serb
+			all_core = {
+				add_core = USG
+			}
+			change_tag = USG
+			prestige = 20
+			any_pop = { militancy = -1 } 
+			AUS = { 
+				any_country = { limit = { 
+					tag = USG
+					OR = { government = absolute_monarchy government = prussian_constitutionalism } }
+				government = hms_government
+				}
+			}
+		}
+	}
+	ask_bavaria_tirol = {
+		picture = decision_austria_AUS
+		potential = {
+			OR = {
+				tag = AUS
+				tag = KUK
+			}
+			ai = no
+			NOT = { has_country_flag = ask_bavaria_tirol }
+			NOT = {owns=615}
+			NOT = {owns=735}
+		}
+		allow = {
+			war=no
+			ideological_thought = 1
+			BAV = {in_sphere = THIS}
+		}
+		effect = {
+			prestige =5
+			BAV = {country_event = 600005}
+			set_country_flag=ask_bavaria_tirol
 		}
 	}
 }

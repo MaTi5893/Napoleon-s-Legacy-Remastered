@@ -29,29 +29,3 @@ country_event = {
 	}
 	
 }
-
-#Brazillians defect, in 1839 a brazilian company of men defected from Misones to Ytapua
-#country_event = {
-#	id = 40101
-#	
-#	trigger = {
-#		tag = PRG
-#	}
-#	
-#	mean_time_to_happen = {
-#		days = 1
-#	}
-#	
-#	title = "No one can reach us."
-#	desc = "We are so far away that no one can reach us."
-#	immediate = {
-#		add_country_modifier = {
-#			name = Hazardous_Journey
-#			duration = -1
-#		}
-#	}
-#	option = {
-#		name = "better start looking for hobbits."		
-#	}
-#	
-#}
