@@ -9,8 +9,6 @@ Execute_Bab_title;B�b Execution;;;;;;;x
 Execute_Bab_desc;The B�b, leader of the Babist movement has for some time been in our possession. Due to recent unrest among the followers of Babism, powerful figures in our court wish to execute him. This will hopefully restore unity to the empire, but might cause short term turmoil.;;;;;;;x
 Bonus_Immigration;Bonus Immigration;;;;;;;x
 Bonus_Immigration_desc;This country is a target for immigration. It should expect more immigrants than comparable countries.;;;;;;;x
-Hazardous_Journey;Hazardous Journey;;;;;;;x
-Hazardous_Journey_desc;To reach this country requires a hazardous Journey which few people is willing to take. As a result, this nation should expect fewer immigrants than comparable countries.;;;;;;;x
 EVTNAME999100;Cape Horn;;;;;;;x
 EVTDESC999100;Our country is located on the wrong side of the Andes Mountains, which means that for migrants from europe to be able to reach our shores, they will need to traverse the treacherous Cape Horn. The waters around Cape Horn are particularly hazardous, owing to strong winds, large waves, strong currents and icebergs. These dangers have made it notorious as a sailors graveyard. For these reasons, we should not expect many migrants will journey to our country.;;;;;;;x
 EVTOPTA999100;We will prosper regardless!;;;;;;;x

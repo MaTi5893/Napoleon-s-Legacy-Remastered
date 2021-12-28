@@ -331,7 +331,7 @@ political_decisions = {
 				factor = 1
 			}
 	}
-#	the_union_of_south_africa = {	#sorry bro it's dutch lol 
+#	the_union_of_south_africa = {	
 #			potential = {
 #				tag = ENG
 #				NOT = {
@@ -1313,55 +1313,46 @@ political_decisions = {
 			set_country_flag = confederate_leaders
 			define_general = {
 				name = "Robert E. Lee"
-				picture = csa_gen_lee
 				personality = defence_3.1
 				background = attack_3.1
 			}
 			define_general = {
 				name = "Thomas Jackson"
-				picture = csa_gen_jackson
 				personality = defence_3.1
 				background = attack_3.1
 			}
 			define_general = {
 				name = "P.G.T. Beauregard"
-				picture = csa_gen_beauregard
 				personality = defence_3.1
 				background = attack_3.1
 			}
 			define_general = {
 				name = "Joseph E. Johnston"
-				picture = csa_gen_johnstonjoseph
 				personality = defence_3.1
 				background = attack_3.1
 			}
 			define_general = {
 				name = "Braxton Bragg"
-				picture = csa_gen_bragg
 				personality = defence_3.1
 				background = attack_3.1
 			}
 			define_general = {
 				name = "Earl van Dorn"
-				picture = csa_gen_vandorn
 				personality = defence_3.1
 				background = attack_3.1
 			}
 			define_general = {
 				name = "E. Kirby Smith"
-				picture = csa_gen_smith
 				personality = defence_3.1
 				background = attack_3.1
 			}
 			define_general = {
 				name = "James Longstreet"
-				picture = csa_gen_longstreet
 				personality = defence_3.1
 				background = attack_3.1
 			}
 			define_general = {
 				name = "J.E.B. Stuart"
-				picture = csa_gen_stuart
 				personality = defence_3.1
 				background = attack_3.1
 			}
