@@ -1,6 +1,7 @@
 political_decisions = {
 
 	will_receive = {
+		picture = grant
 		alert = no
 		potential = {
 		civilized = yes

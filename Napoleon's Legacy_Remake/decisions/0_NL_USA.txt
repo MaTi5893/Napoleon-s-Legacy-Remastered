@@ -1,5 +1,6 @@
 political_decisions = { 
 	reclaim_louisiana = {
+		picture = louisiana
 		potential = { 
 			tag = USA 
 			NOT = { has_country_flag = USAlouisiana }

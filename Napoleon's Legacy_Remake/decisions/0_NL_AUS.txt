@@ -97,6 +97,7 @@ political_decisions = {
 		}
 	}
 	accept_slovak = {
+		picture = slovaks
 		potential = {
 			OR = {
 				tag = AUS

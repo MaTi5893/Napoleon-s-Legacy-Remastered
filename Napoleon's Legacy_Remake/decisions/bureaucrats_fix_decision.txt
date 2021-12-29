@@ -1,5 +1,6 @@
 political_decisions = {
     bureaucrats_fix = {
+	picture = bureaucrats
         potential = {
             ai = no
             NOT = { has_country_modifier = bureaucrats_fix_cooldown }
