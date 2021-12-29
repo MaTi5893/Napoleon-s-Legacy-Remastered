@@ -1,23 +1,4 @@
 political_decisions = {
-	form_poland = {
-		picture = decision_all_POL
-		potential = {
-			tag = CPL
-			POL = { exists = no }
-		}
-		allow = {
-			prestige = 30
-			state_n_government = 1
-		}
-		effect = {
-			all_core = {
-				add_core = POL
-				remove_core = CPL
-			}
-			change_tag = POL
-		}
-	}
-
 	create_cop = {
 		picture = duchy_of_warsaw
 		potential = {
