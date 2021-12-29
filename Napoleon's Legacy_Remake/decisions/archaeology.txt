@@ -71,10 +71,7 @@ political_decisions = {
 			civilized = yes
 			revolution_n_counterrevolution = 1
 			847 = {
-				OR = {
-					owned_by = CRE
 					owned_by = GRE
-				}
 			}
 			NOT = {
 				owns = 847

@@ -501,30 +501,6 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	enosis_with_crete = {
-		picture = map_crete
-		potential = {
-			tag = GRE
-			NOT = {
-				has_country_flag = enosis_with_crete
-			}
-		}
-		
-		allow = {
-			owns = 847 #Chania
-			owns = 848 #Iraklion
-		}
-		
-		effect = {
-			847 = { 
-				remove_core = CRE
-			}
-			848 = { 
-				remove_core = CRE
-			}
-			set_country_flag = enosis_with_crete
-		}
-	}
 	call_berne_conference = {
 		picture = postal_union
 		potential = {

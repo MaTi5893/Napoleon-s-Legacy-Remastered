@@ -26,7 +26,6 @@ political_decisions = {
 		potential = {
 			tag = ENG
 			NOT = { has_country_flag = protect_the_natives }
-			NOT = { has_country_flag = ENG_ran_away } #not implemented yet, if canada runs to asia then this can't be done
 		}
 		allow = {
 			war = no
