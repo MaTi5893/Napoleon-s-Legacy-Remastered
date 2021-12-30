@@ -2710,9 +2710,6 @@ acquire_treaty_port = {
 
 	can_use = {
 		# this = { NOT = { badboy = 1 } }
-		THIS = {
-			
-		}
 
 
 		NOT = { is_our_vassal = THIS }
