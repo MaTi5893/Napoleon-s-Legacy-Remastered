@@ -1,0 +1,14 @@
+chung;English;;;;;;;x
+transfer_vassalage_title;AI: Vassal Transfer Start;;;;;;;x
+transfer_vassalage_desc;AI event to transfer vassalage;;;;;;;x
+EVTNAME6016824;The Vassalization of $FROMCOUNTRY$;;;;;;;x
+EVTDESC6016824;As result of a recent war, $FROMCOUNTRY$ was transferred to us in vassalage. Officials in $CAPITAL$ are finishing the preparations to welcome the $FROMCOUNTRY_ADJ$ people in the $COUNTRY_ADJ$ empire.;;;;;;;x
+EVT6016824OPTA;We welcome the $FROMCOUNTRY_ADJ$;;;;;;;x
+EVTNAME6016823;The New $FROMCOUNTRY_ADJ$ Masters;;;;;;;x
+EVTDESC6016823;With the union of our old masters in the greater country of $FROMCOUNTRY$, our new overlords started to make the arrangements for our renewed vassalage to the $FROMCOUNTRY_ADJ$ government.;;;;;;;x
+EVT6016823OPTA;We have no choice in this matter.;;;;;;;x
+take_puppet;Take Puppet;;;;;;;x
+take_puppet_desc;Become a vassal nation's new ovelord;;;;;;;x
+take_puppet_short;$THIRD$ is taken;;;;;;;x
+take_puppet_setup;Take $THIRD$ from $RECIPIENT$;;;;;;;x
+core_when_done;They'll get the cores back in a second!;;;;;;;x

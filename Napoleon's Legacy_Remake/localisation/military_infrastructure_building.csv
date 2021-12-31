@@ -24,4 +24,4 @@ build_fort_upto_level_4_desc;Will upgrade the levels of all forts that exist by 
 build_fort_upto_level_5_desc;Will upgrade the levels of all forts that exist by 1, and will build level 5 forts in any province currently without a fort.\n\nNOTE: This is a ONE TIME USE decision as the game cannot determine the level of a fort once built.;;;;;;;x
 build_fort_upto_level_6_desc;Build level 6 forts in all owned provinces. This decision will always be available.;;;;;;;x
 fort_constructions;Ongoing Constructions;;;;;;;x
-fort_constructions_desc;Our national ressources are currently used for construction projects.;;;;;;;x
+fort_constructions_desc;Our national resources are currently used for construction projects.;;;;;;;x

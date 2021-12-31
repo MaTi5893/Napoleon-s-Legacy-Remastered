@@ -20,7 +20,7 @@ leader = {
 }
 
 leader = {
-	name = "Napoleon Poniatowsky"
+	name = "Napoleon Poniatowski"
 	type = land
 	date = 1805.1.1
 	personality = defence_4.1
@@ -36,7 +36,7 @@ leader = {
 }
 
 leader = { 
-	name = "Izydor Krasiaski"
+	name = "Izydor Krasinski"
 	type = land
 	date = 1836.1.1
 	personality = defence_.1

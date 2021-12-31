@@ -1159,3 +1159,7 @@ north_italy = {
 	prestige = 0.1
 	education_efficiency_modifier = 0.1
 }
+
+core_when_done = {
+	icon = 17
+}

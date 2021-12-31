@@ -327,10 +327,6 @@ country_event = {
 	
 	option = {
 		name = "Bring them home"
-		relation = {
-			who = CRE
-			value = -20
-		}
 		clr_global_flag = minoan_excavation_rights
 		ai_chance = {
 			factor = 50

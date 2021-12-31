@@ -29,21 +29,21 @@ naval_schools_two;Naval academies;;;;;;;x
 naval_schools_two_desc;Our captains are instructed in advanced naval tactics before leading men into battle;;;;;;;x
 foreign_navies_two;Advanced warships;;;;;;;x
 foreign_navies_two_desc;We can construct our own modern warships;;;;;;;x
-desperate_nation;Desperate Nation;Nation microscopique;Mikroskopische Nation;;Naci�n microsc�pica;;;;;;;x
-microscopic_nation;Microscopic Nation;Nation microscopique;Mikroskopische Nation;;Naci�n microsc�pica;;;;;;;x
-tiny_nation;Tiny Nation;Tr�s petite Nation;Sehr kleine Nation;;Muy peque�a naci�n;;;;;;;x
-small_nation;Small Nation;Petite Nation;Kleine Nation;;Peque�a naci�n;;;;;;;x
-medium_nation;Medium Nation;Nation moyenne;Mittlere Nation;;Medio pa�s;;;;;;;x
-average_nation;Average Nation;Nation r�guli�re;Durchschnittsgr��e Nation;;Pa�s promedio;;;;;;;x
-large_nation;Large Nation;Grande Nation;Gro�es Nation;;Naci�n grande;;;;;;;x
-empire;Empire;Empire;Reich;;Imperio;;;;;;;x
-medium_empire;Medium Empire;Moyen Empire;Mittleres Reich;;Imperio medio;;;;;;;x
-large_empire; Large Empire;Grand Empire;Gro�e Reich;;Gran imperio;;;;;;;x
-insane_empire; Insane Empire;L'Empire de fou;Das wahnsinnig Reich;;El Imperio loco;;;;;;;x
-insane_empire2; Insane Empire;L'Empire de fou;Das wahnsinnig Reich;;El Imperio loco;;;;;;;x
-ai_boost;AI Boost;AI Boost;AI Boost;;AI Boost;;;;;;;x
-gorkha_kingdom;Gorkha Kingdom;Royaume de Gorkha;Gorkha K�nigreich;;Reino de Gorkha;;;;;;;x
-fairer_taxation;Taxation Relief;All�gement de la fiscalit�;Besteuerung Relief;;Alivio de impuestos;;;;;;;x
+desperate_nation;Desperate Nation;;;;;;;x
+microscopic_nation;Microscopic Nation;;;;;;;x
+tiny_nation;Tiny Nation;;;;;;;x
+small_nation;Small Nation;;;;;;;x
+medium_nation;Medium Nation;;;;;;;x
+average_nation;Average Nation;;;;;;;x
+large_nation;Large Nation;;;;;;;x
+empire;Empire;;;;;;;x
+medium_empire;Medium Empire;;;;;;;x
+large_empire; Large Empire;;;;;;;x
+insane_empire; Insane Empire;;;;;;;x
+insane_empire2; Insane Empire;;;;;;;x
+ai_boost;AI Boost;;;;;;;x
+gorkha_kingdom;Gorkha Kingdom;;;;;;;x
+fairer_taxation;Taxation Relief;;;;;;;x
 policestate_modifier;The Police State;;;;;;;x
 one_party_state_modifier;The One Party State;;;;;;;x
 totalitarianism_modifier;Totalitarianism;;;;;;;x
@@ -132,11 +132,11 @@ lombard_and_holts_continuous_track_desc;"Alvin Lombard patented an effective con
 mercerization;Mercerization;;;;;;;x
 mercerization_desc;Mercerization is a chemical process developed by Englishman John Mercer in 1844. He developed a chemical treatment for cotton using sodium hydroxide. Mercerization strengthened the fibres and made them easier to dye. H.A. Lowe modernized and popularized Mercer's treatment in the 1890s, producing cotton fabric with a lustrous appearance.;;;;;;;x
 rosendale_cement;Rosendale Cement;;;;;;;x
-rosendale_cement_desc;"Rosendale cement generally refers to a type of natural cement that was produced in and around Rosendale,New York from argillaceous limestone,but is a term that has had different definitions at different times. The fast-setting Rosendale natural cement mortars proved to be more efficient than the mortars based on lime and sand. Because of its reputation,""""""Rosendale Cement"""" has also been used as both a trade name and as a generic term referring to natural hydraulic cements produced elsewhere.";;;;;;;x"x"",,,,";;;;;;;x
+rosendale_cement_desc;"Rosendale cement generally refers to a type of natural cement that was produced in and around Rosendale,New York from argillaceous limestone,but is a term that has had different definitions at different times. The fast-setting Rosendale natural cement mortars proved to be more efficient than the mortars based on lime and sand. Because of its reputation,""""""Rosendale Cement"""" has also been used as both a trade name and as a generic term referring to natural hydraulic cements produced elsewhere.";;;"x""x"""",,,,""";;;;;;;x;
 vacuum_distillation;Vacuum Distillation;;;;;;;x
 vacuum_distillation_desc;Vacuum distillation is a process for separating hydrocarbons using pressure. The liquid hydrocarbons are channeled into the lower portion of the distillation column at a temperature no greater than 370 degrees Celsius at an absolute pressure. The pressure in the column increases gradually from the top of the column to the bottom. The hydrocarbons evaporate and are piped out at various levels whenever the atmospheric pressure above the hydrocarbon to be distilled is lower than its vapor pressure. Vacuum distillation increases the relative volatility of the components, making the separation process quicker.;;;;;;;x
 fractional_distillation;Fractional Distillation;;;;;;;x
-fractional_distillation_desc;Fractional Distillation is a process of separating crude oil into various fractions of hydrocarbons. The Crude Oil is heated to a temperature between 350 and 370 degrees Celsius which causes vaporization. The gas is then fed into a fractional distillation column, which is made up of several trays and outflowing channels. As the vapour rises, it cools according to its boiling point. The fractions with high boiling points condense into the lower trays; those with lower boiling points condense in the upper trays.;;;;;;;x
+fractional_distillation_desc;Fractional Distillation is a process of separating crude oil into various fractions of hydrocarbons. The Crude Oil is heated to a temperature between 350 and 370 degrees Celsius which causes vaporization. The gas is then fed into a fractional distillation column, which is made up of several trays and outflowing channels. As the vapour rises, it cools according to its boiling point. The fractions with high boiling points condense into the lower trays;;;;x;;;;;;;
 fluid_catalytic_cracking;Fluid Catalytic Cracking;;;;;;;x
 fluid_catalytic_cracking_desc;Fluid Catalytic Cracking is the most significant of the refining processes. It converts the high-boiling components of heavy crude oils into low-boiling, high-octane components such as gasoline and aviation fuels.;;;;;;;x
 bergius_process;Bergius Process;;;;;;;x
@@ -154,9 +154,9 @@ improved_ship_building_R&D_desc;With advanced warships came advanced supply outp
 late_colonial_ships;Late Colonial Ships;;;;;;;x
 late_colonial_ships_desc;Ships with ever increasing naval ranges meant new methods of supply manufacture had to be devised.;;;;;;;x
 early_modern_oil_ship;Early Modern Oil Ship;;;;;;;x
-early_modern_oil_ship_desc;New advances in mobile refueling soon gave way to new advances in naval supply production.;;;;;;;x, too!;;;;;;;x
+early_modern_oil_ship_desc;New advances in mobile refueling soon gave way to new advances in naval supply production.;;;x, too!;;;;;;;x;
 ship_artillery_making;Ship Artillery Production;;;;;;;x
-ship_artillery_making_desc;The massive cannons required on warships ultimately led to more improvements in artillery production overall.;;;;;;;x, resulting in more stable and fruitful marital unions.;;;;;;;x
+ship_artillery_making_desc;The massive cannons required on warships ultimately led to more improvements in artillery production overall.;;;x, resulting in more stable and fruitful marital unions.;;;;;;;x;
 ship_cannon_building;Ship Cannon Building;;;;;;;x
 ship_cannon_building_desc;As naval weaponry became larger and larger, so did its means of production.;;;;;;;x
 late_colonial_armaments_industry;Late Colonial Armaments Industry;;;;;;;x
@@ -206,7 +206,7 @@ cesare_beccaria_desc;Cesare Marquis Beccaria-Bonesana was an Italian jurist and 
 thomas_jefferson;Thomas Jefferson;;;;;;;x
 thomas_jefferson_desc;"Thomas Jefferson was one of the 'Founding Fathers' of the United States of America. Jefferson wrote the Declaration of Independence in 1776, in which he asserted that all men had ""certain inalienable rights."" He believed in the paramount importance of individual liberties, and argued that liberty should only be limited insofar as it infringed upon the equal rights and liberties of others. Jefferson served as the Third President of the United States from 1801 to 1809 and worked to limit the power of the federal government, favouring decentralisation and protecting the rights of individuals. Jefferson promoted science and education and believed in a wall of separation between church and state.";;;;;;;x
 william_hamilton;William Hamilton;;;;;;;x
-william_hamilton_desc;"William Hamilton was a Scottish philosopher and professor at Edinburgh University who wrote on the concepts of metaphysics and psychology. A follower of the ideas of Kant, Hamilton emphasized the science of psychology over metaphysical ideas. He stated that ""every object is known only in virtue of its relations to other objects."" Human thought is finite, and yet demands an understanding of the infinite"; ergo, the basis for faith and the faculty of theology is established and conditioned.;;;;;;;x
+william_hamilton_desc;"William Hamilton was a Scottish philosopher and professor at Edinburgh University who wrote on the concepts of metaphysics and psychology. A follower of the ideas of Kant, Hamilton emphasized the science of psychology over metaphysical ideas. He stated that ""every object is known only in virtue of its relations to other objects."" Human thought is finite, and yet demands an understanding of the infinite";;;;x;;;;;;;
 soren_kierkegaard;S�ren Kierkegaard;;;;;;;x
 soren_kierkegaard_desc;"S�ren Aabye Kierkegaard was a Danish philosopher,"" theologian and religious author interested in human psychology. He strongly criticized many modern philosophers and the Christianity of the State Church versus the Free Church. Much of his philosophical work deals with the issues of how one lives as a """"single individual"""""", giving priority to concrete human reality over abstract thinking, and highlighting the importance of personal choice and commitment.";;;;;;;x
 alexander_bain;Alexander Bain;;;;;;;x
@@ -214,7 +214,7 @@ alexander_bain_desc;An associate of J.S. Mill, Alexander Bain added connections 
 thomas_brown;Thomas Brown;;;;;;;x
 thomas_brown_desc;Thomas Brown was an associationist of the Scottish School, he added a secondary set of laws to complete the associationist philosophy. He built upon earlier work by broadening associationism to consider it as an active process of an active mind. This active process considered the effects of other associations, temperament and state of mind of the individual, the state of health of the body, as well as the circumstances of the moment.;;;;;;;x
 psychological_intelligence;Psychological Intelligence;;;;;;;x
-psychological_intelligence_desc;This is the concurrent development to Experimental Psychology that focuses on the use of measurement and mathematics to classify individuals by their development. Beginning with Sir Francis Galton and continuing through Alfred Binet, Charles Spearman, and others, the study of intelligence would produce many different ways of measuring the mental abilities of people. Intelligence theorists would propose methods by which individuals and society could improve itself; they also inspired darker movements such as the Nazis to try to eliminate those considered unfit. Today's IQ test is the direct legacy of intelligence measurement in psychology.;;;;;;;x
+psychological_intelligence_desc;This is the concurrent development to Experimental Psychology that focuses on the use of measurement and mathematics to classify individuals by their development. Beginning with Sir Francis Galton and continuing through Alfred Binet, Charles Spearman, and others, the study of intelligence would produce many different ways of measuring the mental abilities of people. Intelligence theorists would propose methods by which individuals and society could improve itself;;;;x;;;;;;;
 francis_galton;Francis Galton;;;;;;;x
 francis_galton_desc;"Sir Francis Galton was a British aristocrat who wrote extensively on the measurement of an individual's mental abilities using sensory and motor tests. His 1869 work ""Hereditary Genius:  An Inquiry into its Laws and Consequences"" argued that the children of geniuses tended to become geniuses themselves. He surveyed thousands of fellow academics, publishing in 1874 his findings that intelligence was primarily a heritable trait, although there was some necessity for environmental nurturance of that trait. He was the first to use identical and fraternal twins to measure the effects of nature versus nurture, and established in 1888 the theoretical basis for correlation, scatterplots, and regression as measurement tools.";;;;;;;x
 alfred_binet;Alfred Binet;;;;;;;x
@@ -224,13 +224,13 @@ charles_spearman_desc;Charles Spearman was a British psychologist and mathematic
 eugenics;Eugenics;;;;;;;x
 eugenics_desc;An outgrowth from Darwinistic ideas on natural selection and trait theories and from the studies in intelligence measurement, Eugenics was concerned with the mental and physical traits found in society and a response to the weaknesses found. Positive eugenics encouraged family programs, social welfare, and the importance of education in the desirability of breeding to increase the appearance of positive traits. Negative eugenics argued for the need to remove weak traits by removing undesirable elements, leading to sterilization and even extermination of target groups.;;;;;;;x
 wilhelm_wundt;Wilhelm Wundt;;;;;;;x
-wilhelm_wundt_desc;Wilhelm Wundt was a German physiologist who opened the first university-based psychological laborator in Leipzig in 1879. Wundt published the first textbook to identify psychology as a science; his 'two reaction-time' tasks demonstrated that complex sequences are the combination of more elementary processes. This was the foundation of Cognitive Psychology.;;;;;;;x
+wilhelm_wundt_desc;Wilhelm Wundt was a German physiologist who opened the first university-based psychological laborator in Leipzig in 1879. Wundt published the first textbook to identify psychology as a science;;;;x;;;;;;;
 edward_titchener;Edward Titchener;;;;;;;x
 edward_titchener_desc;Edward Titchener was an English psychologist who studied under Wundt at Leipzig. Titchener headed the psychology department at Cornell University and founded the Structuralist school, which relied heavily on introspection to perform analysis on the structure of the mind. His attempts to break down experiences into four basic elements was discredited because it was possible for different subjects to identify different elements from the same experiences.;;;;;;;x
 william_james;William James;;;;;;;x
 william_james_desc;William James was an American psychologist and philosopher at Harvard University. James emphasized the the study of the purposes and functions of the mind, rather than its structure. James is considered the founder of the Functionalist school. He used experiments and introspection, but disclaimed introspection as scientific proof.;;;;;;;x
 gs_hall;G. Stanley Hall;;;;;;;x
-gs_hall_desc;G. Stanley Hall was the first President of the American Psychological Association. Hall founded the American Journal of Psychology in 1887. His research focused on educational psychology and adolescence; he adapted the term 'Storm and Stress' to characterize the period of adolescence. Hall believed in the heritability of behavior and supported the Eugenics program. His views on child development were later largely refuted by Piaget and Vygotsky.;;;;;;;x
+gs_hall_desc;G. Stanley Hall was the first President of the American Psychological Association. Hall founded the American Journal of Psychology in 1887. His research focused on educational psychology and adolescence;;;;x;;;;;;;
 hermann_ebbinghaus;Hermann Ebbinghaus;;;;;;;x
 hermann_ebbinghaus_desc;Hermann Ebbinghaus was a German psychologist who pioneered studies in memory. Ebbinghaus used himself as subject in thousands of repetitions of his 'nonsense syllables.' Among his contributions to the field were the learning curve, the forgetting curve, and the serial position effect, which demonstrated that individuals remember the most recent information first presented. He documented 'savings': information relearned a second time is memorized faster.;;;;;;;x
 mary_calkins;Mary Calkins;;;;;;;x
@@ -250,7 +250,7 @@ ivan_pavlov_desc;Ivan Pavlov was a Russian physiologist and winner of the Nobel 
 el_thorndike;Edward L. Thorndike;;;;;;;x
 el_thorndike_desc;Edward Lee Thorndike was an American researcher who also conducted experiments in animal learning. He was known for his puzzle-box procedure (1898), in which a hungry cat was placed inside a small cage and observed to see how long it took the cat to learn to pull the lever and escape, where food was waiting. He observed that after 20-30 trials, the cats had become efficient at escaping almost instantaneously. Thorndike formulated the law of effect, stating that responses producing a positive effect became more likely to occur again, and those producing discomfort were less likely to occur again. These observations were later transformed by B.F. Skinner into the concept of operant conditioning in psychology.;;;;;;;x
 jb_watson;John B. Watson;;;;;;;x
-jb_watson_desc;John Broadus Watson was an American psychologist who studied Pavlovian conditioning in humans. Watson's most famous experiment involved conditioning an 11-year old child named Albert to associate a conditioned stimulus (fear of rats) to an unconditioned stimulus (fear of a loud hammering sound). Watson's research later led to clinical treatments extinguishing irrational fears in people. After being dismissed from Harvard over an affair and marriage with a graduate student, Watson brought his research experience to a prominent advertising firm; modern advertising owed much to behaviorist psychology and conditioning concepts.;;;;;;;x
+jb_watson_desc;John Broadus Watson was an American psychologist who studied Pavlovian conditioning in humans. Watson's most famous experiment involved conditioning an 11-year old child named Albert to associate a conditioned stimulus (fear of rats) to an unconditioned stimulus (fear of a loud hammering sound). Watson's research later led to clinical treatments extinguishing irrational fears in people. After being dismissed from Harvard over an affair and marriage with a graduate student, Watson brought his research experience to a prominent advertising firm;;;;x;;;;;;;
 ec_tolman;Edward C. Tolman;;;;;;;x
 ec_tolman_desc;Edward C. Tolman was another prominent American psychologist in the field of Behaviorism. Tolman performed maze experiments to demonstrate latent learning in animals. He showed that a rat could run the maze on the first try, if it was previously allowed to explore the maze while not hungry. Tolman evinced that the subject learned useful stimulus information about the world without reference to a reinforcing stimulus (the food). The ability to run the maze correctly on trial one demonstrated flexibility in the use of the learned information. Tolman's stimulus-stimulus (S-S) learning was opposed by the stimulus-response (S-R) orthodoxy of Skinner.;;;;;;;x
 cinematographic_propaganda;Cinematographic Propaganda;;;;;;;x
@@ -260,7 +260,7 @@ auguste_comte_desc;Isidore Auguste Marie Fran�ois Xavier Comte was a french ph
 th_huxley;Thomas Henry Huxley;;;;;;;x
 th_huxley_desc;Thomas Henry Huxley was an English biologist, nautral scientist and social thinker. Huxley became a passionate adherent and defender of Charles Darwin and the concept of Evolution after reading Darwin's 'Origin of Species.' He famously defeated Archbishop Samuel Wilberforce in an 1860 debate on the Theory of Evolution. Huxley promoted the development of scientific education over religious traditions, coining the term 'agnostic' for his beliefs. He founded the X-Club in 1869 with a group of likeminded scientists and researchers. The X-Club would go on to found the scientific journal Nature in 1869, which still publishes today.;;;;;;;x
 franz_boas;Franz Boas;;;;;;;x
-franz_boas_desc;"Franz Boas was a German-American anthropologist,"" a pioneer of modern anthropology who has been called the """"Father of Modern Anthropology"""". He applied the scientific method to the study of human cultures and societies. Previously this discipline was based on the formulation of grand theories around anecdotal knowledge.";;;;;;;x"x"",,,,,,";;;;;;;x
+franz_boas_desc;"Franz Boas was a German-American anthropologist,"" a pioneer of modern anthropology who has been called the """"Father of Modern Anthropology"""". He applied the scientific method to the study of human cultures and societies. Previously this discipline was based on the formulation of grand theories around anecdotal knowledge.";;;"x""x"""",,,,,,""";;;;;;;x;
 marcel_mauss;Marcel Mauss;;;;;;;x
 marcel_mauss_desc;Marcel Mauss was a French sociologst. Mauss' academic work traversed the boundaries between sociology and anthropology. Today, he is perhaps better recognised for his influence on the latter discipline, particularly with respect to his analyses of topics such as magic, sacrifice and gift exchange in primitive cultures.;;;;;;;x
 branislaw_malinowski;Bronislaw Malinowski;;;;;;;x
@@ -278,7 +278,7 @@ heinrich_schliemann_desc;Heinrich Schliemann was a German businessman and archae
 emile_dirkheim;Emile Durkheim;;;;;;;x
 emile_dirkheim_desc;David Emile Durkheim was a French sociologist. He formally established the academic discipline and, with Karl Marx and Max Weber, is commonly cited as the principal architect of modern social science.;;;;;;;x
 max_weber;Max Weber;;;;;;;x
-max_weber_desc;"Karl Emil Maximilian Weber was a German sociologist and political economist who profoundly influenced social theory, social research,"" and the discipline of sociology itself. Weber's major works dealt with the rationalization and """"disenchantment"""" he associated with the rise of capitalism and modernity.";;;;;;;x"x"",,,,,";;;;;;;x
+max_weber_desc;"Karl Emil Maximilian Weber was a German sociologist and political economist who profoundly influenced social theory, social research,"" and the discipline of sociology itself. Weber's major works dealt with the rationalization and """"disenchantment"""" he associated with the rise of capitalism and modernity.";;;"x""x"""",,,,,""";;;;;;;x;
 ferdinand_de_saussure;Ferdinand de Saussure;;;;;;;x
 ferdinand_de_saussure_desc;Ferdinand de Saussure was a Swiss linguist whose ideas laid a foundation for many significant developments in linguistics in the 20th century. Saussure is widely considered to be one of the fathers of modern linguistics.;;;;;;;x
 nitrate_extraction_process;Nitrate Extraction Process;;;;;;;x
@@ -294,15 +294,15 @@ modern_mine_hoists_desc;These are hoists with cables and framing made from steel
 conveyor_belt;Conveyor Belt;;;;;;;x
 conveyor_belt_desc;The conveyor belt consisted of two pulleys with a continuous loop of material, powered by a motor transmission. The engineering firm Sandvik of Sweden was producing steel conveyor belts by 1891. Thomas Robins developed a conveyor belt that replaced expensive steel with rubber. In 1905, Thomas Sutcliffe patented the first conveyor belt for use underground. The conveyor belt made it easy to transport ores out of the mines, and was soon adopted by Henry Ford in his new assembly line factories.;;;;;;;x
 pneumatic_drill;Pneumatic Drill;;;;;;;x
-pneumatic_drill_desc;The pneumatic drill is a mechanical drill driven by compressed air. Reciprocating pistons drive the compressed air upwards and down, propelling the drill bit into a surface and then drawing it out again. Pneumatic tools became preferred in the construction and operation of mining shafts and tunnels. Earlier tools had required steam power, and steam power required fire which was too dangerous due to the risk of igniting flammable gases underground. Larger pneumatic drilling machines utilized an external air compressor which could also help to ventilate the underground mines.;;;;;;;x;;;;;;;x
+pneumatic_drill_desc;The pneumatic drill is a mechanical drill driven by compressed air. Reciprocating pistons drive the compressed air upwards and down, propelling the drill bit into a surface and then drawing it out again. Pneumatic tools became preferred in the construction and operation of mining shafts and tunnels. Earlier tools had required steam power, and steam power required fire which was too dangerous due to the risk of igniting flammable gases underground. Larger pneumatic drilling machines utilized an external air compressor which could also help to ventilate the underground mines.;;;x;;;;;;;x;
 steam_shovel;Steam Shovel;;;;;;;x
 steam_shovel_desc;The steam shovel was the first powered excavating machine. Willia Otis patented an original design in 1839. Early steam shovels were 'partial-swing,' meaning the boom and winch could not rotate a full 360 degrees. Steam shovels became more widespread in the last half of the nineteenth century with the development of steel cables and a full-swing design. Steam shovels operated on railways until the invention of caterpillar tracks, and were heavily involved in the development of large-scale,open-pit mining. 102 steam shovels were employed to excavate the Panama Canal.;;;;;;;x
 mine_cutting_machines;Mine Cutting Machines;;;;;;;x
-mine_cutting_machines_desc;The introduction of electricity to mining at the turn of the century permitted the development of new machines that could cut into or along mineral seams. These machines facilitated the extraction of resources by miners. Cutting machines later became sophisticated enough to displace much of the extraction work itself, formerly done by hand mining.;;;;;;;x;;;;;;;x
+mine_cutting_machines_desc;The introduction of electricity to mining at the turn of the century permitted the development of new machines that could cut into or along mineral seams. These machines facilitated the extraction of resources by miners. Cutting machines later became sophisticated enough to displace much of the extraction work itself, formerly done by hand mining.;;;x;;;;;;;x;
 artficial_nitrates;Artificial Nitrates;;;;;;;x
 artficial_nitrates_desc;Our understanding of chemistry has led to the development of artificial nitrates, reducing our dependency on naturally-extracted nitrates in sulphur production.;;;;;;;x
-minie_ball;Mini� Ball;;;;;;;x
-minie_ball_desc;The Mini� ball is a conical-shaped bullet made of iron and soft lead. It was developed in 1849 by French army captain Claude-Etienne Mini� based on the work of Henri-Gustave Delvigne. The Mini� bullet solved the problem of designing ammunition for the new muzzle-loaded rifles. The bullet expanded to fit the tight rifling grooves when fired, allowing for a greater muzzle velocity and range of accuracy. The greater speed and weight of the Mini� ball meant wounds were more severe and required more amputations as the bullets would tear straight through and shatter muscles, tendons, and bones;;;;;;;x
+minie_ball;Minie Ball;;;;;;;x
+minie_ball_desc;The Minie ball is a conical-shaped bullet made of iron and soft lead. It was developed in 1849 by French army captain Claude-Etienne Mini� based on the work of Henri-Gustave Delvigne. The Mini� bullet solved the problem of designing ammunition for the new muzzle-loaded rifles. The bullet expanded to fit the tight rifling grooves when fired, allowing for a greater muzzle velocity and range of accuracy. The greater speed and weight of the Mini� ball meant wounds were more severe and required more amputations as the bullets would tear straight through and shatter muscles, tendons, and bones;;;;;;;x
 barbed_wire;Barbed Wire;;;;;;;x
 barbed_wire_desc;Barbed Wire was a late-nineteenth century American invention, used originally to keep herds of cattle fenced in. Barbed Wire became integrated with the trench systems of World War One as it was relatively easy to string up and often survived artillery bombardments and machine gun fire. The sharp barbs caused injury to attacking infantry. Emplacing rows of barbed wire in front of the trench line gave the machine gunners and field batteries time to decimate an attack while it was stuck cutting the wire.;;;;;;;x
 concrete_pillboxes;Concrete Pillboxes;;;;;;;x
@@ -355,7 +355,7 @@ quadruple_expansion;Quadruple-Expansion Steam Engines;;;;;;;x
 quadruple_expansion_desc;Adding yet another expansion chamber to a triple-expansion steam engine gave another marginal increase in power and efficiency to steam engines.;;;;;;;x
 geared_turbine_propulsion;Geared Turbine Propulsion;;;;;;;x
 geared_turbine_propulsion_desc;Geared turbines are more fuel-efficient, though more expensive, than regular turbines. The first capital ship to feature all-turbine propulsion was HMS Dreadnought.;;;;;;;x
-levee_en_masse;Lev�e en Masse;;;;;;;x
+levee_en_masse;Levee en Masse;;;;;;;x
 levee_en_masse_desc;This was a term coined during the French Revolution to describe the mass conscription of able-bodied men in the defense of France. Mass mobilisation was not a new idea in historical terms, but the Lev�e was a modern application of the Enlightenment idea of the national citizen replacing that of the royal subject. The Lev�e heralded the dramatic expansion of armies in the nineenth and twentieth centuries.;;;;;;;x
 railroad_mobilisation_timetables;Railroad Mobilisation Timetables;;;;;;;x
 railroad_mobilisation_timetables_desc;These were precise plans for using the national railroad system to mobilize a country's reserves of fighting men at designated places according to schedule.;;;;;;;x
@@ -384,9 +384,9 @@ the_one_party_state_desc;Politically, while a varying amount of factionalism and
 totalitarianism;Totalitarianism;;;;;;;x
 totalitarianism_desc;The suppression of the basic institutions and rights of a democratic society became one of the first goals of Fascist and Communist states. Parliaments were abolished or made rubber stamps for state decrees and programs. Elections and Plebiscites (if held at all) were no longer secret-ballot: any citizens who opposed were virtually forced to vote the party line, or face punishment in prison or even in Gulags/Concentration Camps. The Press was censored, or more often became another state organ for the dissemination of propaganda extolling the regime's virtues and demonizing its enemies. Freedom of expression in academia, in the world of culture and in the public sphere was curtailed. Professors, scientists and professionals were willingly or unwillingly conscripted to serve the state's priorities. Many intellectuals became emigres and moved to other democratic nations, because to stay and refuse to serve meant incarceration or death.;;;;;;;x
 the_leadership_principle;The Leadership Principle;;;;;;;x
-the_leadership_principle_desc;Fascism rejected assumptions that all were born with the ability to be leaders through popular revolution or election to democratic office. The 'Leadership Principle' affirmed that the state would be led by a group of individuals who were 'gifted to rule.' This introduced an appointed hierarchy in civil society which resembled that of the military. An Italian essay on the 'Doctrine of Fascism' stated: 'the conception of the State is all-embracing; outside of it no human or spiritual values can exist, much less have value. Thus understood, Fascism is totalitarian, and the Fascist State 'a synthesis and a unit inclusive of all values' interprets, develops, and potentiates the whole life of a people.' This hierarchical organization demanded total obedience to those above the individual. Fascism typically gave rise to one supreme leader who would assume a special title, such as that of Fuhrer or Duce. This rule by decree often led to instability and inefficiency, as those most loyal might be chosen over those most able. Those who broke with the hierarchical structure and created their own organizations and leadership power in the state might even recieve attention and praise in the Fascist appreciation for the constant national struggle.;;;;;;;x
+the_leadership_principle_desc;Fascism rejected assumptions that all were born with the ability to be leaders through popular revolution or election to democratic office. The 'Leadership Principle' affirmed that the state would be led by a group of individuals who were 'gifted to rule.' This introduced an appointed hierarchy in civil society which resembled that of the military. An Italian essay on the 'Doctrine of Fascism' stated: 'the conception of the State is all-embracing;;;;x;;;;;;;
 ultranationalism_n_the_volk;Ultranationalism and The Volk;;;;;;;x
-ultranationalism_n_the_volk_desc;Ultranationalism encouraged a form of collectivism that unlike Marxism, emphasized national unity through ethnicity or 'race.' Fascists believed in a state free of class struggle, National organizations were formed for the various economic classes, who all worked for the benefit of the nation. This was known as Corporatism. National Socialist variants rejected definitions based on mere national 'feeling' or 'myth.' Their definitions of belonging were based on the lines of racial protectionism or racial supremacy; This concept of the 'Volk' stated that traditional definitions of who belonged to the national state were inadequate. A German whose ancestors had lived in Germany and spoke German for centuries could be excluded from the national community if they were Jewish, joined the political opposition, or had ancestors from 'inferior' nationalities. Italian and other variants emphasized the concept of humankind as in constant struggle, and some conquered peoples could be assimilated into the nation. National Socialism emphasized a racial imperialism, whereby new territory was to be conquered, cleansed of inferior peoples, and colonized by the 'Volk.';;;;;;;x
+ultranationalism_n_the_volk_desc;Ultranationalism encouraged a form of collectivism that unlike Marxism, emphasized national unity through ethnicity or 'race.' Fascists believed in a state free of class struggle, National organizations were formed for the various economic classes, who all worked for the benefit of the nation. This was known as Corporatism. National Socialist variants rejected definitions based on mere national 'feeling' or 'myth.' Their definitions of belonging were based on the lines of racial protectionism or racial supremacy;;;;x;;;;;;;
 collectivisation;Collectivisation;;;;;;;x
 collectivisation_desc;Marxist doctrine emphasized the 'dictatorship of the proletariat' whereby the workers would take control of the means of the production and ulimately own their own factories and farms in a utopian socialist vision of collectivism. The architects of Communist state ideology were inevitably unable to deliver this utopian vision. What resulted instead was a dramatic expansion of state economic planning and central control over all industries and industrial production. Housing and infrastructure projects also became state-owned and directed. Heavy industry was to be emphasized above consumer goods. Private ownership of land was largely ended, and early attempts at land redistribution became massive collectivization projects whereby huge farms were organized in a factory-like manner. As with factories, delivery of raw materials and production quotas were set by central planning agencies. In all of these areas, the inherent problems of deficiencies and impossible targets came to the fore.;;;;;;;x
 the_classless_society;The Classless Society;;;;;;;x
@@ -396,7 +396,7 @@ nationalist_agitation;Nationalist Agitation;;;;;;;x
 generalised_debt_default;Debt Default;;;;;;;x
 debt_default_to;Debt Defaulted To;;;;;;;x
 has_siege;Has Siege;;;;;;;x
-STRONGER_ARMY_THAN;has a stronger army than;a une arm�e plus forte que;hat st�rkere Armee als;;tiene el ej�rcito m�s fuerte que;;;;;;;x
+STRONGER_ARMY_THAN;has a stronger army than;;;;;;;x
 acquire_treaty_port;Acquire Treaty Port;;;;;;;x
 acquire_treaty_port_desc;Acquire a treaty port concession by force from China;;;;;;;x
 acquire_treaty_port_setup;Acquire the treaty port of $STATE$ from $RECIPIENT$;;;;;;;x
@@ -411,12 +411,12 @@ conquest_low_setup;Annex minor nation of $RECIPIENT$;;;;;;;x
 conquest_low_short;Annex $RECIPIENT$;;;;;;;x
 establish_colonial_protectorate_casus_belli;Annex African nation;;;;;;;x
 establish_colonial_protectorate_casus_belli_desc;Establish a protectorate over an African nation that has been blocked from early annexation;;;;;;;x
-establish_colonial_protectorate_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;;Anexionar $RECIPIENT$ estableciendo un protectorado sobre ellos.;;;;;;;x
-establish_colonial_protectorate_casus_belli_short;Annex $RECIPIENT$;Annexer $RECIPIENT$;Annektieren Sie $RECIPIENT$;;Anexionar $RECIPIENT$;;;;;;;x
+establish_colonial_protectorate_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;;;;;x;;;;;;
+establish_colonial_protectorate_casus_belli_short;Annex $RECIPIENT$;;;;;;;x
 demand_colonial_concession_casus_belli;Demand African concession;;;;;;;x
 demand_colonial_concession_casus_belli_desc;Demand a colonial concession from African nation that could not be attacked early;;;;;;;x
-demand_colonial_concession_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;Demandez � ce que $RECIPIENT$ fasse s�cession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Gr�ndung einer Kolonie abspaltet.;;Exigir que $RECIPIENT$ escinda territorio para formar una concesi�n colonial.;;;;;;;x
-demand_colonial_concession_casus_belli_short;Demand $STATE$;Demande $STATE$;Fordern Sie $STATE$;;Exigir $STATE$;;;;;;;x
+demand_colonial_concession_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;;;;x
+demand_colonial_concession_casus_belli_short;Demand $STATE$;;;;;;;x
 initialize_africa_title;Initalize Africa;;;;;;;x
 initialize_africa_desc;Enacting this decision prevents the conquest of Sokoto, Benin, and Oyo before 1865;;;;;;;x
 colonial_40;Offlimits until 1840;;;;;;;x
@@ -450,7 +450,7 @@ integrate_the_duchies_title;Integrate the Duchies;;;;;;;x
 integrate_the_duchies_desc;The new nationalistic liberal government issued several reforms to bind Slesvig-Holstein closer to the motherland. It was determined that only full integration of the Duchies into Denmark would stop the loss of these provinces to a future German state.;;;;;;;x
 proclaim_second_empire_title;Proclaim Second French Empire;;;;;;;x
 proclaim_second_empire_desc;As Louis Napoleon grasped dictatorial power and introduced a harsh constitution he took the next step and held a referendum for the reintroduction of the Empire. Nearly 8 million Frenchmen voted yes and he became French Emperor under the name Napoleon III..;;;;;;;x
-louis_napoleon_iii;Louis-Napol�on Bonaparte;;;;;;;x
+louis_napoleon_iii;Louis-Napoleon Bonaparte;;;;;;;x
 desc_louis_napoleon_iii;Nephew and heir of Napoleon I, he is a man of the people and carries with him a legacy that makes him seemingly invincible-- even if, at times, his decisions are reckless and of questionable military value.;;;;;;;x
 bardo_treaty_title;Enforce the Bardo Treaty;;;;;;;x
 bardo_treaty_desc;On May 12,1881, the reigning Bey of Tunisia signed the Treaty of Kasser Said, known also as the Bardo Treaty, which acknowledged Tunisia to be a French protectorate. This marked the effective end of Tunisian independence.;;;;;;;x
@@ -460,8 +460,6 @@ return_to_athens_title;Return to Athens;;;;;;;x
 return_to_athens_desc;We have recaptured Athens and thus we may restore it as the capital of Greece.;;;;;;;x
 greece_capital_change_title;Move to Constantinople!;;;;;;;x
 greece_capital_change_desc;In the aftermath of the great victory over the hated Turks, we have recovered the holy city of Constantinople. Those who support the Megali Idea suggest that we should move our capital from Athens;;;;;;;x
-enosis_with_crete_title;Proclaim Enosis with Crete;;;;;;;x
-enosis_with_crete_desc;With the dejure annexation of Crete completed, we should intergrate it fully into the Hellenic state and thus remove the potential for meddling by the Great Powers.;;;;;;;x
 claim_the_adriatic_title;Claim the Adriatic;;;;;;;x
 claim_the_adriatic_desc;The Adriatic Sea, a region that is historically Italian, is within our grasp and many Italians live in the lands around it to this day. It's time to assert our hegemony on the territory around it, safeguarding the Italians that still live there.;;;;;;;x
 begin_cultuurstelsel_title;Begin the cultuurstelsel;;;;;;;x
@@ -592,18 +590,18 @@ latin_monetary_union_GRE_title;Join Latin Monetary Union;;;;;;;x
 latin_monetary_union_GRE_desc;In 1865, the Latin Monetary Union was formed by France, Belgium, Switzerland and Italy. Greece joined in 1868. The Union standardized the size, weight, denomination, and silver and gold content of the coins of member countries and it also favoured free trade. From then on, the currency of a member country was also valid in another member country.;;;;;;;x
 latin_monetary_union;Latin Monetary Union;;;;;;;x
 desc_latin_monetary_union;Our country is a member of the Latin Monetary Union. We have standardized the weights and measures of our currencies as well as the precious metals content.;;;;;;;x
-die_groot_trek_ora_title;Die Groot Trek;Die Groot Trek;Die Groot Trek;;Die Groot Trek;;;;;;;x
-die_groot_trek_ora_desc;The Great Trek was an exodus of South African farmers of primarily Dutch descent - Boers - from the British controlled Cape Colony to lands beyond the Orange and Vaal rivers, and to the 'Boer republics' established by their kinsmen in the South African hinterland.;"Le Grand Trek d�signe l'exode des fermiers sud-africains blancs de langue n�erlandaise, les Boers, de la colonie britannique du Cap vers les fleuves Orange et Vaal ainsi que vers les ""r�publiques boers"" �tablies par leurs parents dans l'int�rieur du pays.";Der Gro�e Trek war ein Exodus s�dafrikanischer Farmer von haupts�chlich holl�ndischer Abstammung - Buren - aus der britisch kontrollierten Kapkolonie in L�nder jenseits der Fl�sse Orange und Vaal, und zu den 'Burenrepubliken', die ihre Landsleute im s�dafrikanischen Hinterland errichtet hatten.;;La Gran expedici�n fue un �xodo de campesinos sudafricanos de ascendencia mayoritariamente holandesa -los boers- desde la colonia del Cabo, controlada por los brit�nicos, hasta las tierras situadas m�s all� de los r�os Orange y Vaal y a las 'rep�blicas boers' establecidas por sus compatriotas en el hinterland sudafricano.;;;;;;;x
-die_groot_trek_trn_title;Die Groot Trek;Die Groot Trek;Die Groot Trek;;Die Groot Trek;;;;;;;x
-die_groot_trek_trn_desc;The Great Trek was an exodus of South African farmers of primarily Dutch descent - Boers - from the British controlled Cape Colony to lands beyond the Orange and Vaal rivers, and to the 'Boer republics' established by their kinsmen in the South African hinterland.;"Le Grand Trek d�signe l'exode des fermiers sud-africains blancs de langue n�erlandaise, les Boers, de la colonie britannique du Cap vers les fleuves Orange et Vaal ainsi que vers les ""r�publiques boers"" �tablies par leurs parents dans l'int�rieur du pays.";Der Gro�e Trek war ein Exodus s�dafrikanischer Farmer von haupts�chlich holl�ndischer Abstammung - Buren - aus der britisch kontrollierten Kapkolonie in L�nder jenseits der Fl�sse Orange und Vaal, und zu den 'Burenrepubliken', die ihre Landsleute im s�dafrikanischen Hinterland errichtet hatten.;;La Gran expedici�n fue un �xodo de campesinos sudafricanos de ascendencia mayoritariamente holandesa -los boers- desde la colonia del Cabo, controlada por los brit�nicos, hasta las tierras situadas m�s all� de los r�os Orange y Vaal y a las 'rep�blicas boers' establecidas por sus compatriotas en el hinterland sudafricano.;;;;;;;x
-sign_the_geneva_convention_title;Sign the Geneva Convention;Signer la convention de Gen�ve;Genfer Konvention unterschreiben.;;Firmar la Convenci�n de Ginebra;;;;;;;x
-sign_the_geneva_convention_desc;Our country has not yet signed the Geneva convention, delimiting and defining justified conduct of war and the treatment of war wounded. We can still sign it, of course. Signing it will make our POPs less likely to support Jingoism as an issue;Notre pays n'a pas encore sign� la convention de Gen�ve qui d�finit des r�gles internationales de protection des personnes lors des conflits arm�s. Nous pouvons encore la signer, �videmment.;Unser Land hat die Genfer Konvention noch nicht unterschrieben, die die Kriegsf�hrung und die Versorgung der Verwundeten abgrenzt und definiert. Nat�rlich k�nnen wir sie auch noch nachtr�glich unterschreiben.;;Nuestro pa�s a�n no ha firmado la Convenci�n de Ginebra, que delimita y define las conductas b�licas justificadas y el tratamiento de los heridos de guerra. Por supuesto, a�n estamos a tiempo de firmarla.;;;;;;;x
-#############################################;;;;;;;x
-#Localisations for POD Historical Decisions;;;;;;;x
-#Ordered by Continent Europe-Asia-Africa-Americas;;;;;;;x
-#Sub-ordered alphabetically by nation;;;;;;;x
-#############################################;;;;;;;x
-##### Austria #####;;;;;;;x
+die_groot_trek_ora_title;Die Groot Trek;;;;;;;x
+die_groot_trek_ora_desc;The Great Trek was an exodus of South African farmers of primarily Dutch descent - Boers - from the British controlled Cape Colony to lands beyond the Orange and Vaal rivers, and to the 'Boer republics' established by their kinsmen in the South African hinterland.;;;;;;;x
+die_groot_trek_trn_title;Die Groot Trek;;;;;;;x
+die_groot_trek_trn_desc;The Great Trek was an exodus of South African farmers of primarily Dutch descent - Boers - from the British controlled Cape Colony to lands beyond the Orange and Vaal rivers, and to the 'Boer republics' established by their kinsmen in the South African hinterland.;;;;;;;x
+sign_the_geneva_convention_title;Sign the Geneva Convention;;;;;;;x
+sign_the_geneva_convention_desc;Our country has not yet signed the Geneva convention, delimiting and defining justified conduct of war and the treatment of war wounded. We can still sign it, of course. Signing it will make our POPs less likely to support Jingoism as an issue;;;;;;;x
+#############################################;;;;;;;x;
+#Localisations for POD Historical Decisions;;;;;;;x;
+#Ordered by Continent Europe-Asia-Africa-Americas;;;;;;;x;
+#Sub-ordered alphabetically by nation;;;;;;;x;
+#############################################;;;;;;;x;
+##### Austria #####;;;;;;;x;
 slovene_language_at_celje_gymnasium_title;Allow Slovene Language at Celje Gymnasium;;;;;;;x
 slovene_language_at_celje_gymnasium_desc;Beginning in 1888 Slovene deputies in the Reichsrat raised demands for the introduction of Slovene classes at the Gymnasium in Celje, a town in Lower Styria historically German but demographicaly with a Slovene majority. German deputies ralied against the proposal and a fierce debate began in Austria regarding language use in historically German towns experiencing growing settlement of Slavs.;;;;;;;x
 the_final_abolishment_of_serfdom_title;Complete the Final Abolishment of Serfdom;;;;;;;x
@@ -612,25 +610,25 @@ embrace_slovene_minority_title;Embrace the Slovene Minority;;;;;;;x
 embrace_slovene_minority_desc;We shall embrace our Slovene citizens, and elevate them to the status shared by that of the Hungarians.;;;;;;;x
 embrace_croat_minority_title;Embrace the Croat Minority;;;;;;;x
 embrace_croat_minority_desc;We shall embrace our Croat citizens, and elevate them to the status shared by that of the Hungarians.;;;;;;;x
-##### Belgium #####;;;;;;;x
+##### Belgium #####;;;;;;;x;
 colonial_destiny_title;Embrace Colonial Destiny;;;;;;;x
 colonial_destiny_desc;It is the destiny of the Belgian people to civilize the last remaining wilds of the world. To Africa!;;;;;;;x
 force_publique;Force Publique;;;;;;;x
 force_publique_title;Form the Force Publique;;;;;;;x
 force_publique_desc;The Force Publique was the official armed force of the Belgian-controlled Congo Free State. Though ostensibly formed to combat Arab Slavers, the soldiers were often used to enforce economic quotas with brutal punishment.;;;;;;;x
-##### France #####;;;;;;;x
+##### France #####;;;;;;;x;
 annex_new_caledonia_title;Annex New Caledonia;;;;;;;x
 annex_new_caledonia_desc;There is some interest within the French government of creating a penal colony-- somewhere that enemies of the monarchy could be sent, allowing them to be far away from the continent where they can do no harm. Admiral Febvrier Despointes reports that the island of New Caledonia, off the coast of Australia, might do just the trick. Considering the British have used Australia for the same purpose, who could object to us doing similarly?;;;;;;;x
 claim_savoy_title;Claim Savoy;;;;;;;x
 claim_savoy_desc;Our condition for allowing the unification of Italy was control over Savoie. We cannot, after all, permit the Italians to have control over the passes through the Alps-- not unless they are under our influence. Seeing as that is not the case, me must press our claims to Nice and Savoie even if it means war with a united Italy.;;;;;;;x
 form_french_indochina_title;French Indochina;;;;;;;x
 form_french_indochina_desc;With the colonial government taking form in Saigon, French administrators have advised elevating the region to a full department-- clearly with eyes on expanding French colonial rule to neighbors in Southeast Asia.;;;;;;;x
-##### Germany #####;;;;;;;x
+##### Germany #####;;;;;;;x;
 appoint_von_bismarck_title;Appoint Otto von Bismarck;;;;;;;x
 appoint_von_bismarck_desc;Our naton needs a great statesman as its Chancellor, and we have just the man. Otto von Bismarck is currently the country's First Minister, but appointed as the leader of our nation he could see it transformed on the world stage.;;;;;;;x
 otto_von_bismarck;Otto von Bismarck;;;;;;;x
 otto_von_bismarck_desc;The current Chancellor of our nation, von Bismarck is a remarkable statesman� perhaps one of the finest our nation will ever know.;;;;;;;x
-##### Ottoman Empire #####;;;;;;;x
+##### Ottoman Empire #####;;;;;;;x;
 tanzimat_era;Tanzimat Reforms;;;;;;;x
 tanzimat_era_desc;The Tanzimat era was a period of reform in the Ottoman Empire, characterized by an increasing drive towards westernization and multiculturalism. This was supported by the Young Ottomans, an intellectual class who saw reform as the only way to prevent the ultimate breakup of a decaying power.;;;;;;;x
 move_capital_to_ankara_title;Move Capital to Ankara;;;;;;;x
@@ -639,30 +637,30 @@ the_holy_city_title;The Holy City;;;;;;;x
 the_holy_city_desc;Mecca is the center of all Islam. To hold it is to stand above all others, and prove to them that the fate of all Islam lies in our hands.;;;;;;;x
 holy_city;The Holy City;;;;;;;x
 holy_city_desc;Mecca is the center of all Islam. To hold it is to stand above all others, and prove to them that the fate of all Islam lies in our hands.;;;;;;;x
-##### Portugal #####;;;;;;;x
+##### Portugal #####;;;;;;;x;
 flores_sale_title;Sell Flores;;;;;;;x
 flores_sale_desc;The Indonesian islands are almost worthless to us, but might be of value to the neighbouring colonial administration in Timor. We should consider selling them for a tidy profit.;;;;;;;x
 portuguese_civil_code_title;Enact Portuguese Civil Code;;;;;;;x
-portuguese_civil_code_desc;The Portuguese Civil Code was unique for European civil codes, in its characterization of laws in terms of the person and property; it was divided into four sections: the person, the acquisition of goods, goods, and the defense of those goods or rights.;;;;;;;x,;;;;;;;x;
-##### Russia #####;;;;;;;x
+portuguese_civil_code_desc;The Portuguese Civil Code was unique for European civil codes, in its characterization of laws in terms of the person and property;;;;x,;;;;;;;x
+##### Russia #####;;;;;;;x;
 found_the_imperial_academy_title;Found the Imperial Academy;;;;;;;x
 found_the_imperial_academy_desc;In many ways, our army has become a relic of an older age. The Russian Imperial Academy will enable our military to stay strong and the equal of any power in Europe.;;;;;;;x
 russian_sakhalin_title;Restore Russian Sakhalin;;;;;;;x
 russian_sakhalin_desc;With the hated Japanese finally driven out of Sakhalin and Russia in full control of the islands, Russian administration and names can at last be restored.;;;;;;;x
-##### Sardinia #####;;;;;;;x
+##### Sardinia #####;;;;;;;x;
 recognize_argentinas_independence_title;Recognize Argentina's Independence;;;;;;;x
 recognize_argentinas_independence_desc;Our court is analyzing the decision of visiting Argentina. This act will strenghten our relations with the South American countries and could open new areas of trade for us. Of course, Spain will not see this as a 'good' decision.;;;;;;;x
-##### Serbia/Balkans #####;;;;;;;x
+##### Serbia/Balkans #####;;;;;;;x;
 establish_panslavism_title;Establish Pan-Slavism;;;;;;;x
 establish_panslavism_desc;The Orthodox Christians of the Balkans have lived under the boot of Muslim oppression for too long. The time has come to call on them to rise up against their oppressors. All Yugoslavia must unite!;;;;;;;x
 form_yugoslavia_title;Form Yugoslavia;;;;;;;x
 form_yugoslavia_desc;The Slavic peoples of the Balkans must be united under a single banner: ours. It is the only way to keep us free of rule from European powers.;;;;;;;x
-##### Spain #####;;;;;;;x
+##### Spain #####;;;;;;;x;
 education_decree_1863_title;Issue Filipino Education Decree;;;;;;;x
 education_decree_1863_desc;Through the Education Decree of 1863, Queen Isabella II decreed the establishment of a free public shool system in the Phillipines that used Spanish as the language of instruction, leading to an increasing number of educated Filipinos. This would be the first in a number of colonial initiatives that rendered the Phillipines as one of the few places in the world where it was said to have visibly improved and prospered under colonial rule.;;;;;;;x
 moret_law_title;Pass the Moret Law;;;;;;;x
 moret_law_desc;The Moret Law granted freedom to slaves in Puerto Rico born after 1868, slaves who served in the Spanish Army, slaves over 60 years old, and slaves who were owned by the Spanish government. It was the first in a series of reforms that saw slavery ended in Peurto Rico, well before it was ended in other Spanish colonies.;;;;;;;x
-##### Switzerland #####;;;;;;;x
+##### Switzerland #####;;;;;;;x;
 declare_neutrality_title;Declare Swiss Neutrality;;;;;;;x
 declare_neutrality_desc;The Swiss have little interest in the wars of Europe.;;;;;;;x
 abandon_neutrality_title;Abandon Swiss Neutrality;;;;;;;x
@@ -671,20 +669,20 @@ neutrality;Political Neutrality;;;;;;;x
 neutrality_desc;Our country deliberately takes no sides. We do not go to war, even against those the world universally reviles, and thus expect that no one shall go to war against us. This means we will likely never achieve recognition as a 'mover and shaker', but it also protects us. We shall not abandon our principles for the sake of power and influence.;;;;;;;x
 violate_neutrality_title;Violate Swiss Neutrality;;;;;;;x
 violate_neutrality_desc;The Swiss may have declared themselves 'neutral', but if they believe that will stop us-- if they believe the opinion of any of their allies will stop us-- then they are sorely mistaken.;;;;;;;x
-##### Two Sicilies #####;;;;;;;x
+##### Two Sicilies #####;;;;;;;x;
 the_vesuvius_observatory_title;Build The Vesuvius Observatory;;;;;;;x
 the_vesuvius_observatory_desc;An observatory was founded by Ferdinand II Bourbon for the study of the volcanic activity of Mt. Vesuvius. As director of the Vesuvius Observatory, Luigi Palmieri first adapted the seismograph to as a means to record and forecast volcanic eruptions.;;;;;;;x
-##### United Kingdom #####;;;;;;;x
+##### United Kingdom #####;;;;;;;x;
 mediate_belgian_independence_title;Mediate Belgian Independence;;;;;;;x
 mediate_belgian_independence_desc;While Belgium's de facto independence from The Netherlands had been established by force of arms during the Belgian revolution of 1831, it has not been confirmed de jure by The Netherlands and technically a state of war still exists between the two nations. The idea has arisen that the British Empire should step in and mediate a settlement, demanding the Dutch give up their claims in return for guarantees of Belgian independence and control over Luxembourg. With the powers of Europe at the table, it seems unlikely the Dutch would refuse.;;;;;;;x
 aden_protectorate_title;The Aden Protectorate;;;;;;;x
 aden_protectorate_desc;With enough influence among the sheiks of southern Yemen, a treaty could be signed that would force them to acknowledge us as their sovereign. We cede them Aden, and in return they would agree enter into no relationships with other nations without our express permission. Our continued influence over the Arabian peninsula would be secured.;;;;;;;x
 gold_coast_treaty_title;Gold Coast Treaty;;;;;;;x
 gold_coast_treaty_desc;With the construction of the Suez Canal, the importance of Sekondi to the Dutch has dwindled. We might be able to convince them to sell the colony to us, solidifying our hold on the Gold Coast, in exchange for reducing our influence in the East Indies.;;;;;;;x
-##### India #####;;;;;;;x
+##### India #####;;;;;;;x;
 move_capital_to_delhi_title;Move Capital to Delhi;;;;;;;x
 move_capital_to_delhi_desc;Now that India has unified, we should consider moving the capital to a more central-- and traditional-- city. Delhi: the heart of India.;;;;;;;x
-##### Japan #####;;;;;;;x
+##### Japan #####;;;;;;;x;
 fukoku_kyohei_title;Adopt Fukoku Kyohei;;;;;;;x
 fukoku_kyohei_desc;Meaning 'Enrich the country, strengthen the military', this must become the objective of a unified Japan if we are to catch up with the technological advantage held by the West. We must face these barbarians at their own game, and be better at it.;;;;;;;x
 iwakura_mission_title;Send Iwakura Mission;;;;;;;x
@@ -697,24 +695,24 @@ bonin_administration_title;Organise Japanese Bonin;;;;;;;x
 bonin_administration_desc;Japan now controls the archipelago, and our modern administration will get rid of Gaijin names and change them accordingly.;;;;;;;x
 japanese_sakhalin_title;Organise Japanese Sakhalin;;;;;;;x
 japanese_sakhalin_desc;With Japan now in full control of Sakhalin and the Kurils, the world must recognize that these islands are essentially part of the Japanese archipelago and know them by their Japanese names.;;;;;;;x
-##### Persia #####;;;;;;;x
+##### Persia #####;;;;;;;x;
 reclaim_herat_title;Reclaim Herat;;;;;;;x
 reclaim_herat_desc;Persia had lost control of Herat, and of Afghanistan in general to the Durranis in the later eighteenth century. In 1837, the new Shah Mohammad Qajar considered launching an expedition to reclaim Herat;;;;;;;x
-##### Panjab #####;;;;;;;x
+##### Panjab #####;;;;;;;x;
 rangit_singh_title;Rule of the Maharajah;;;;;;;x
 rangit_singh_desc;The Maharajah Ranjit Singh has united the Panjabi misls under a single flag. He has formed a secular and tolerant state, one that has thrown off the Afghan yoke and resisted the encroaching imperialists. The future of the Sikh Empire is bright!;;;;;;;x
 shastar_vidya;Shastar Vidiya;;;;;;;x
 shastar_vidya_desc;From the Sanskrit 'sastravidya' or 'knowledge of the sword', this was the Sikh martial art that used swordplay from horseback, and made the Sikh mounted forces a terror feared even by the more modern armies of the United Kingdom.;;;;;;;x
-##### Algeria #####;;;;;;;x
+##### Algeria #####;;;;;;;x;
 move_capital_to_algiers_title;Move Capital to Algiers;;;;;;;x
 move_capital_to_algiers_desc;Algiers now belongs to us. It is time to move our government back to its proper place!;;;;;;;x
-##### Ethiopia #####;;;;;;;x
+##### Ethiopia #####;;;;;;;x;
 build_addis_ababa_title;Build Addis Ababa;;;;;;;x
 build_addis_ababa_desc;Founded in 1886 by Emperor Menelik II, Addis Ababa would become the capital of Ethiopia and the site of the Imperial Palace.;;;;;;;x
-##### Sokoto #####;;;;;;;x
+##### Sokoto #####;;;;;;;x;
 become_hausaland_title;Become Hausaland;;;;;;;x
 become_hausaland_desc;The Hausa have come to increasingly dominate the Caliphate and its court, and it is time Sokoto reflected that fact.;;;;;;;x
-##### Canada #####;;;;;;;x
+##### Canada #####;;;;;;;x;
 form_the_rcmp_title;Form the R.C.M.P.;;;;;;;x
 form_the_rcmp_desc;With the acquisition of Rupert's Land and the North-West Territories it has become increasingly obvious that a new force is required to patrol those lands and keep order.;;;;;;;x
 rcmp;R.C.M.P.;;;;;;;x
@@ -723,13 +721,13 @@ build_the_cnr_title;Build the Canadian National Railway;;;;;;;x
 build_the_cnr_desc;One railway, linking the Pacific and Atlantic coasts, is a dream that will ensure the unity of Canada-- though it is an expensive dream, to be sure.;;;;;;;x
 join_confederation_title;Join Confederation;;;;;;;x
 join_confederation_desc;Our position on the North American continent, and our traditional cultural ties to Canada, make it likely that Canada would be willing to negotiate our entrance into confederation. Doing this means our country will be annexed by Canada.;;;;;;;x
-##### USA #####;;;;;;;x
+##### USA #####;;;;;;;x;
 treaty_of_guadalupe_hidalgo_title;Treaty of Guadalupe Hidalgo;;;;;;;x
 treaty_of_guadalupe_hidalgo_desc;Should we get a convincing enough victory over the Mexicans, we will be able to force them to the negotiating table in order to discuss their surrendering of all claims to land north of the Rio Grande-- in exchange for a fair price, of course.;;;;;;;x
-##### Mexico #####;;;;;;;x
+##### Mexico #####;;;;;;;x;
 refute_manifest_destiny_title;Refute Manifest Destiny;;;;;;;x
 refute_manifest_destiny_desc;The American claims to our frontier have proven to be little more than empty air and bluster. Those lands belong to Mexico, and no other.;;;;;;;x
-##### Argentina #####;;;;;;;x
+##### Argentina #####;;;;;;;x;
 banda_oriental_title;Restore Banda Oriental;;;;;;;x
 banda_oriental_desc;The Banda Oriental del Uruguay was argentinean once, and shall be argentinean again!;;;;;;;x
 banda_oriental_is_ours;The Banda Oriental is ours;;;;;;;x
@@ -742,26 +740,26 @@ our_brothers_the_gauchos_desc;It's time to free our brothers, the Gauchos, from 
 a_telegraph_line_to_uruguay_title;Lay A Telegraph Line to Uruguay;;;;;;;x
 a_telegraph_line_to_uruguay_desc;The laying of a telegraph line to connect Buenos Aires with Montevideo has been proposed. This would greatly improve communications and relations between the two countries.;;;;;;;x
 found_the_school_of_military_aviation_title;Found the School of Military Aviation;;;;;;;x
-found_the_school_of_military_aviation_desc;The School of Military Aviation (Escuela de Aviaci�n Militar, EAM) was founded in 1912 under president Roque Saenz Pe�a, who named colonel Arenales Antonio Uriburu as its first head. This represents a desire to learn and put into practice the newest theories on modern air warfare.;;;;;;;x
-##### Brazil #####;;;;;;;x
+found_the_school_of_military_aviation_desc;The School of Military Aviation (Escuela de Aviacion Militar, EAM) was founded in 1912 under president Roque Saenz Pena, who named colonel Arenales Antonio Uriburu as its first head. This represents a desire to learn and put into practice the newest theories on modern air warfare.;;;;;;;x
+##### Brazil #####;;;;;;;x;
 the_golden_law_title;Enact Lei Aurea;;;;;;;x
-the_golden_law_desc;Lei Aurea, or the Golden Law, abolished slavery once and for all throughout Brazil. The law contained only two artices; Slavery was to be abolished, and any previous ruling contradicting the first article was now void.;;;;;;;x
+the_golden_law_desc;Lei Aurea, or the Golden Law, abolished slavery once and for all throughout Brazil. The law contained only two artices;;;;x;;;;;;;
 provincia_cisplatina_title;Reclaim Provincia Cisplatina;;;;;;;x
 provincia_cisplatina_desc;The Provincia Cisplatina was brazilian once, and shall be brazilian again!;;;;;;;x
 cisplatina_is_ours;The Cisplatina is ours;;;;;;;x
-##### Chile #####;;;;;;;x
+##### Chile #####;;;;;;;x;
 annex_easter_island_title;Annex Easter Island;;;;;;;x
 annex_easter_island_desc;The native population of Easter Island has suffered many devastations in recent years, from attacks by Peruvian pirates to a tuberculosis epidemic. A colonist has operated a sheep ranch there for some years, and recently offered to sell to our government. Considering his ranch covers a large portion of the island, we would be well within our rights to claim sovereignty over it.;;;;;;;x
 valparaiso_harbor_title;The Jewel of the Pacific;;;;;;;x
 valparaiso_harbor_desc;Valparaiso has became a required stopover for ships crossing between the Atlantic and Pacific oceans. In its role as a major seaport, Valparaiso receives immigrants from many European countries, but this could change if a new route was to open.;;;;;;;x
 gateway_to_harbor;Gateway to a New Land;;;;;;;x
 gateway_to_harbor_desc;Many immigrants from around the world will pass through our great city, and a great number of them will remain.;;;;;;;x
-##### Ecuador #####;;;;;;;x
-establish_the_observatorio_astronomico_title;Establish the Observatorio Astron�mico;;;;;;;x
+##### Ecuador #####;;;;;;;x;
+establish_the_observatorio_astronomico_title;Establish the Observatorio Astronomico;;;;;;;x
 establish_the_observatorio_astronomico_desc;Quito's location high in the Andes and straddling the Equator has long encouraged scientists to visit the city to study the stars. With the support of the Jesuits and support from British, French, American and German scientific groups, it has been proposed that the Ecuadorian government help fund the construction of a new observatory based on the use of the latest scientific methods and tools. Should we support the project?;;;;;;;x
-#############################################;;;;;;;x
-#Localisations for POD Archaeological Excavation Decisions;;;;;;;x
-#############################################;;;;;;;x
+#############################################;;;;;;;x;
+#Localisations for POD Archaeological Excavation Decisions;;;;;;;x;
+#############################################;;;;;;;x;
 mycenaean_excavations;Mycenaean Excavations;;;;;;;x
 mycenaean_excavations_title;Mycenaean Excavations;;;;;;;x
 mycenaean_excavations_desc;The secrets of Ancient Greece await!;;;;;;;x
@@ -772,58 +770,37 @@ minoan_excavations_title;Minoan Excavations;;;;;;;x
 minoan_excavations_desc;The secrets of the ancient Minoan civilization await!;;;;;;;x
 forced_minoan_excavations_title;Forced Minoan Excavations;;;;;;;x
 forced_minoan_excavations_desc;We shall not allow a few misguided locals prevent us from unlocking the secrets of history.;;;;;;;x
-#############################################;;;;;;;x
+#############################################;;;;;;;x;
 #Localisations for Slayzer's Historical Decisions;GAMING;;;;;;;x
-#############################################;;;;;;;x
+#############################################;;;;;;;x;
 vuk_karadzic_reform_title;Launch Vuk Karadzic's Reforms;;;;;;;x
 vuk_karadzic_reform_desc;In 1850 Karadzic reformed Serbian language making it different from church Slavonic making it closer to common folk speech and easier to learn.;;;;;;;x
 karadzic_reforms;Karadzic Reforms;;;;;;;x
 desc_karadzic_reforms;Vuk Karadzic has reformed language education in our schools. Our children can now learn the Serbian language more easily than before.;;;;;;;x
-#############################################;;;;;;;x
-#Localisations for HPM Historical Decisions;;;;;;;x
-#############################################;;;;;;;x
+#############################################;;;;;;;x;
+#Localisations for HPM Historical Decisions;;;;;;;x;
+#############################################;;;;;;;x;
 accademia_della_crusca_title;Accademia della Crusca;;;;;;;x
 accademia_della_crusca_desc;The Academy of the Crusca, the most prestigious center of study for the Italian language, would gladly appreciate an economic help from your majesty to keep on with the good work on Italian literature's history... and to pay those new paintings for the main hall;;;;;;;x
 unite_with_tuscany_title;Unite with Tuscany;;;;;;;x
-unite_with_tuscany_desc;For the good of Italian reunification, the time has come for Lucca to unite with our Tuscan neighbours to the south.;;;;;;;x;;;;;;;x
-#############################################;;;;;;;x
-#Localisations for new tech schools from POD;;;;;;;x
-#############################################;;;;;;;x
+unite_with_tuscany_desc;For the good of Italian reunification, the time has come for Lucca to unite with our Tuscan neighbours to the south.;;;x;;;;;;;x;
+#############################################;;;;;;;x;
+#Localisations for new tech schools from POD;;;;;;;x;
+#############################################;;;;;;;x;
 russian_tech_school;Russian Imperial Academy;;;;;;;x
 japanese_tech_school;Fukoku Kyohei;;;;;;;x
-#############################################;;;;;;;x
-#Localisations for country TAGS;;;;;;;x
-#############################################;;;;;;;x
-LCT;Liechtenstein;Liechtenstein;Liechtenstein;;Liechtenstein;;;;;;;x
-LCT_ADJ;Liechtensteiner;Liechtensteiner;Liechtensteiner;;Liechtensteiner;;;;;;;x
-LCT_liberal;Freisinnige Fraktion;Freisinnige Fraktion;Freisinnige Fraktion;;Freisinnige Fraktion;;;;;;;x
-LCT_reactionary;Haus von Liechtenstein;Konservative Fraktion;Konservative Fraktion;;Konservative Fraktion;;;;;;;x
-LCT_conservative;Konservative Fraktion;Konservative;Konservative;;Konservative;;;;;;;x
-LCT_socialist;Sozialistische Fraktion;Sozialistische Fraktion;Sozialistische Fraktion;;Sozialist Fraktion;;;;;;;x
-LCT_anarcho_liberal;Radikale Fraktion;Radikale Fraktion;Radikale Fraktion;;Radical Fraktion;;;;;;;x
-LCT_communist;Communist Fraktion;Communist Fraktion;Kommunistische Fraktion;;Communist Fraktion;;;;;;;x
-LCT_fascist;VDBL;VDBL;VDBL;;VDBL;;;;;;;x
-ASM;Assam;;;;;;;x
-ASM_ADJ;Assamese;;;;;;;x
-ASM_fascist_dictatorship;Assamese Republic;;;;;;;x
-ASM_presidential_dictatorship;Assamese Republic;;;;;;;x
-ASM_bourgeois_dictatorship;Assamese Republic;;;;;;;x
-ASM_conservative;Royal Faction;;;;;;;x
-ASM_liberal;The Liberal Faction;;;;;;;x
-ASM_reactionary;The Nationalist Faction;;;;;;;x
-ASM_anarcho_liberal;The Radical Faction;;;;;;;x
-ASM_socialist;The Socialist Faction;;;;;;;x
-ASM_communist;The Communist Faction;;;;;;;x
-ASM_fascist;The Fascist Faction;;;;;;;x
-BEN;Benin;B�nin;Benin;;Ben�n;;;;;;;x
-BEN_ADJ;Beninese;B�ninois;Benin;;;;;;;x
-BEN_conservative;Oba's Faction;Faction Obo;Oba Fraktion;;;;;;;x
-BEN_liberal;Reform Faction;Faction de r�forme;Verbesserung Fraktion;;;;;;;x
-BEN_reactionary;Military Faction;Faction militaire;Milit�rische Fraktion;;;;;;;x
-BEN_anarcho_liberal;Radical Faction;Faction radicale;Die radikale Fraktion;;;;;;;x
-BEN_socialist;People's Faction;Faction populaire;Volk Fraktion;;;;;;;x
-BEN_communist;Communist Faction;Faction communiste;Die kommunistische Fraktion;;;;;;;x
-BEN_fascist;Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;x
+#############################################;;;;;;;x;
+#Localisations for country TAGS;;;;;;;x;
+#############################################;;;;;;;x;
+LCT;Liechtenstein;;;;;;;x
+LCT_ADJ;Liechtensteiner;;;;;;;x
+LCT_liberal;Freisinnige Fraktion;;;;;;;x
+LCT_reactionary;Haus von Liechtenstein;;;;;;;x
+LCT_conservative;Konservative Fraktion;;;;;;;x
+LCT_socialist;Sozialistische Fraktion;;;;;;;x
+LCT_anarcho_liberal;Radikale Fraktion;;;;;;;x
+LCT_communist;Communist Fraktion;;;;;;;x
+LCT_fascist;VDBL;;;;;;;x
 BIH;Bihar;;;;;;;x
 BIH_ADJ;Bihari;;;;;;;x
 BIH_proletarian_dictatorship;Bihari People's Republic;;;;;;;x
@@ -834,33 +811,6 @@ BIH_anarcho_liberal;Bihari Radical Party;;;;;;;x
 BIH_socialist;Janata Dal;;;;;;;x
 BIH_communist;Bihari Communist Party;;;;;;;x
 BIH_fascist;Bihari Fascist Party;;;;;;;x
-BNG;Bengal;;;;;;;x
-BNG_ADJ;Bengali;;;;;;;x
-BNG_proletarian_dictatorship;Bengali People's Republic;;;;;;;x
-BNG_conservative;Awami League;;;;;;;x
-BNG_liberal;Liberal Democratic Party;;;;;;;x
-BNG_reactionary;Jamaat-e-Islami;;;;;;;x
-BNG_anarcho_liberal;The Radical Faction;;;;;;;x
-BNG_socialist;Jatiyo Samajtantrik Dal;;;;;;;x
-BNG_communist;Bengali Communist Party;;;;;;;x
-BNG_fascist;Jatiya Party;;;;;;;x
-KRN;Karnatak;;;;;;;x
-KRN_ADJ;Karnatak;;;;;;;x
-KRN_democracy;Tamil Nadu;;;;;;;x
-KRN_democracy_ADJ;Tamil;;;;;;;x
-KRN_fascist_dictatorship;Tamil Nadu;;;;;;;x
-KRN_fascist_dictatorship_ADJ;Tamil;;;;;;;x
-KRN_bourgeois_dictatorship;Tamil Nadu;;;;;;;x
-KRN_bourgeois_dictatorship_ADJ;Tamil;;;;;;;x
-KRN_proletarian_dictatorship;Republic of the Carnatic;;;;;;;x
-KRN_proletarian_dictatorship_ADJ;Carnatic;;;;;;;x
-KRN_conservative;Royal Faction;Faction royale;K�nigsfraktion;;;;;;;x
-KRN_liberal;The Liberal Faction;Faction lib�rale;Die liberale Fraktion;;;;;;;x
-KRN_reactionary;The Nationalist Faction;Faction nationaliste;Die nationalistische Fraktion;;;;;;;x
-KRN_anarcho_liberal;The Radical Faction;Faction radicale;Die radikale Fraktion;;;;;;;x
-KRN_socialist;The Socialist Faction;Faction socialiste;Die sozialistische Fraktion;;;;;;;x
-KRN_communist;The Communist Faction;Faction communiste;Die kommunistische Fraktion;;;;;;;x
-KRN_fascist;The Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;x
 MAH;Maharashtra;;;;;;;x
 MAH_ADJ;Maharashtran;;;;;;;x
 MAH_conservative;Royal Faction;;;;;;;x
@@ -870,77 +820,24 @@ MAH_anarcho_liberal;The Radical Faction;;;;;;;x
 MAH_socialist;The Socialist Faction;;;;;;;x
 MAH_communist;Communist Faction;;;;;;;x
 MAH_fascist;The Fascist Faction;;;;;;;x
-CIR;Circassia;;;;;;;x
-CIR_ADJ;Circassian;;;;;;;x
-CIR_liberal;Pro-Western Faction;;;;;;;x
-CIR_conservative;Islamic Faction;;;;;;;x
-CIR_socialist;Popular Faction;;;;;;;x
-CIR_reactionary;Imamate Faction;;;;;;;x
-CIR_anarcho_liberal;Radical Faction;;;;;;;x
-CIR_communist;Communist Front;;;;;;;x
-CIR_fascist;Caucasian National Front;;;;;;;x
-PER_democracy;Iran;Iran;Iran;;Ir�n;;;;;;;x
-PER_hms_government;Iran;Iran;Iran;;Ir�n;;;;;;;x
-PER_fascist_dictatorship;Iran;Iran;Iran;;Ir�n;;;;;;;x
-PER_democracy_ADJ;Iranian;Iranien;Iranische;;Iran�;;;;;;;x
-PER_hms_government_ADJ;Iranian;Iranien;Iranische;;Iran�;;;;;;;x
-PER_fascist_dictatorship;Iranian;Iranien;Iranische;;Iran�;;;;;;;x
-CPL;Congress Poland;Royaume du Congres;Kongresspolen;;Zarato de Polonia;;;;;;;x
-CPL_ADJ;Polish;Polonais;Polnisch;;Polaca;;;;;;;x
-CSA_proletarian_dictatorship;The People's Confederacy;�tats conf�d�r�s d'Am�rique;CSA;;EE CC;;;;;;;x
-USA_democracy;The United States;�tats-Unis;USA;;EE UU;;;;;;;x
-CSA_democracy;The Confederate States;�tats conf�d�r�s d'Am�rique;CSA;;EE CC;;;;;;;x
-PBA;Portugal-Brazil;Royaume du Portugal et le Br�sil;K�nigreich von Portugal und Brasilien;;Reino de Portugal y Brasil;;;;;;;x
-PBA_fascist_dictatorship;Portugal-Brazil;;;;;;;x
-PBA_presidential_dictatorship;Republic of Portugal and Brazil;;;;;;;x
-PBA_bourgeois_dictatorship;Republic of Portugal and Brazil;;;;;;;x
-PBA_proletarian_dictatorship;People's Republic of Portugal and Brazil;;;;;;;x
-PBA_democracy;Federal Republic of Portugal and Brazil;;;;;;;x
-PBA_hms_government;Portugal-Brazil;;;;;;;x
-PBA_prussian_constitutionalism;United Kingdom of Portugal and Brazil;;;;;;;x
-PBA_absolute_monarchy;United Kingdom of Portugal and Brazil;;;;;;;x
-PBA_ADJ;Portuguese-Brazilian;Portugais-br�silien;Portugiesisch-Brasilianisch;;Portugu�s-Brasile�o;;;;;;;x
-PRI;Puerto Rico;Puerto Rico;Puerto Rico;;Puerto Rico;;;;;;;x
-PRI_ADJ;Puerto Rican;Puerto Ricain;;;;;;;x
-PRI_liberal;Partido Liberal;Partido Liberal;Partido Liberal;;;;;;;x
-PRI_socialist;Partido Socialista;Partido Socialista;Partido Socialista;;;;;;;x
-PRI_conservative;Partido Estadista Republicano;Partido Estadista Republicano;Partido Estadista Republicano;;;;;;;x
-PRI_anarcho_liberal;Partido Anarchista;Partido Anarchista;Partido Anarchista;;;;;;;x
-PRI_communist;Partido Comunista;Partido Comunista;Partido Comunista;;;;;;;x
-PRI_fascist;Partido Nacionalista;Partido Nacionalista;Partido Nacionalista;;;;;;;x
-PRI_reactionary;Uni�n Republicana;Uni�n Republicana;Uni�n Republicana;;;;;;;x
-RPL;Rupert's Land;;;;;;;x
-RPL_ADJ;Northwestern;;;;;;;x
-RPL_democracy;Assiniboia;;;;;;;x
-RPL_democracy_ADJ;Assiniboian;;;;;;;x
-RPL_conservative;Hudson's Bay Company;;;;;;;x
-WIF;West Indies Federation;;;;;;;x
-WIF_ADJ;Caribbean;;;;;;;x
-WIF_liberal;Federal Democratic Party;;;;;;;x
-WIF_conservative;Conservative Party;;;;;;;x
-WIF_socialist;West Indies Labour Party;;;;;;;x
-WIF_anarcho_liberal;Caribbean Radicals;;;;;;;x
-WIF_fascist;National Socialist Party;;;;;;;x
-WIF_communist;Caribbean Communist Party;;;;;;;x
-WIF_reactionary;Plantation Owners;;;;;;;x
-YUC;Yucatan;;;;;;;x
-YUC_ADJ;Yucatecan;;;;;;;x
-YUC_conservative;Partido Conservador;Partido Conservador;Partido Conservador;;;;;;;x
-YUC_liberal;Partido Liberal;Partido Liberal;Partido Liberal;;;;;;;x
-YUC_reactionary;Partido Nationalist;Partido nationaliste;Partido Nationalist;;;;;;;x
-YUC_anarcho_liberal;Partido Radical;Partido Radical;Partido Radical;;;;;;;x
-YUC_socialist;Partido Socialista;Partido socialiste;Partido Socialista;;;;;;;x
-YUC_communist;Partido Communista;Partido communiste;Partido Communista;;;;;;;x
-YUC_fascist;Partido Fascist;Partido fasciste;Partido Fascist;;;;;;;x
-OYO;Oyo;Oyo;Oyo;;Oyo;;;;;;;x
-OYO_ADJ;Oyo;Oyo;Oyo;;;;;;;x
-OYO_conservative;Alaafin's Faction;Faction Alaafin;Alaafin Fraktion;;;;;;;x
-OYO_liberal;Reform Faction;Faction de r�forme;Verbesserung Fraktion;;;;;;;x
-OYO_reactionary;Military Faction;Faction militaire;Milit�rische Fraktion;;;;;;;x
-OYO_anarcho_liberal;Radical Faction;Faction radicale;Die radikale Fraktion;;;;;;;x
-OYO_socialist;People's Faction;Faction populaire;Volk Fraktion;;;;;;;x
-OYO_communist;Communist Faction;Faction communiste;Die kommunistische Fraktion;;;;;;;x
-OYO_fascist;Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;x
+PER_democracy;Iran;;;;;;;x
+PER_hms_government;Iran;;;;;;;x
+PER_fascist_dictatorship;Iran;;;;;;;x
+PER_democracy_ADJ;Iranian;;;;;;;x
+PER_hms_government_ADJ;Iranian;;;;;;;x
+PER_fascist_dictatorship;Iranian;;;;;;;x
+CSA_proletarian_dictatorship;The People's Confederacy;;;;;;;x
+USA_democracy;The United States;;;;;;;x
+CSA_democracy;The Confederate States;;;;;;;x
+PRI;Puerto Rico;;;;;;;x
+PRI_ADJ;Puerto Rican;;;;x;;;;;;;
+PRI_liberal;Partido Liberal;;;;;x;;;;;;
+PRI_socialist;Partido Socialista;;;;;x;;;;;;
+PRI_conservative;Partido Estadista Republicano;;;;;x;;;;;;
+PRI_anarcho_liberal;Partido Anarchista;;;;;x;;;;;;
+PRI_communist;Partido Comunista;;;;;x;;;;;;
+PRI_fascist;Partido Nacionalista;;;;;x;;;;;;
+PRI_reactionary;Uni�n Republicana;;;;;x;;;;;;
 SYR;Syria;;;;;;;x
 SYR_ADJ;Syrian;;;;;;;x
 SYR_liberal;Hizb al-Islah al-Suriy;;;;;;;x
@@ -950,25 +847,8 @@ SYR_reactionary;Haraka al-Ahd al-Watani;;;;;;;x
 SYR_anarcho_liberal;Hizb al-Wataniyyin al-Ahrar;;;;;;;x
 SYR_communist;Al-hizb ash-Shuyu'i as-Suri;;;;;;;x
 SYR_fascist;Hizb al-Ba'ath;;;;;;;x
-SRI;Sri Lanka;;;;;;;x
-SRI_ADJ;Sri Lankan;;;;;;;x
-SRI_absolute_monarchy;Ceylon;;;;;;;x
-SRI_prussian_constitutionalism;Ceylon;;;;;;;x
-SRI_hms_government;Ceylon;;;;;;;x
-SRI_absolute_monarchy_ADJ;Ceylonian;;;;;;;x
-SRI_prussian_constitutionalism_ADJ;Ceylonian;;;;;;;x
-SRI_hms_government_ADJ;Ceylonian;;;;;;;x
-SRI_conservative;United National Party;;;;;;;x
-SRI_liberal;Liberal Party;;;;;;;x
-SRI_reactionary;Royal Party;;;;;;;x
-SRI_anarcho_liberal;Radical Party;;;;;;;x
-SRI_socialist;Freedom Socialist Party;;;;;;;x
-SRI_communist;Lanka Equal Society Party;;;;;;;x
-SRI_fascist;National Heritage Party;;;;;;;x
-DJA;Jambi;;;;;;;x
-DJA_ADJ;Jambi;;;;;;;x
-INO;Indonesia;Indon�sie;Indonesien;;Indonesia;;;;;;;x
-INO_ADJ;Indonesian;Indon�sienne;Indonesisch;;Indonesio;;;;;;;x
+INO;Indonesia;;;;;;;x
+INO_ADJ;Indonesian;;;;;;;x
 INO_conservative;Partai konservatif;;;;;;;x
 INO_liberal;Partai liberal;;;;;;;x
 INO_reactionary;Pihak kerajaan;;;;;;;x
@@ -982,117 +862,33 @@ SAK;Siak;;;;;;;x
 SAK_ADJ;Siak;;;;;;;x
 SLW;Sulawesi;;;;;;;x
 SLW_ADJ;Sulawesian;;;;;;;x
-FIJ;Fiji;Fiji;Fiji;;;;;;;x
-FIJ_ADJ;Fijian;Fijian;Fijian;;;;;;;x
-TGA;Tonga;;;;;;;x
-TGA_ADJ;Tongan;;;;;;;x
-TGA_conservative;Council of Chiefs;;;;;;;x
-TGA_conservative_2;Council of Chiefs;;;;;;;x
-TGA_liberal;Progressive Party;;;;;;;x
-TGA_reactionary;National Party;;;;;;;x
-TGA_anarcho_liberal;Warriors League;;;;;;;x
-TGA_socialist;Equality Party;;;;;;;x
-TGA_communist;Revolutionary Party;;;;;;;x
-TGA_fascist;Renovation Party;;;;;;;x
 CHI_presidential_dictatorship;Beiyang China;;;;;;;x
 CHI_proletarian_dictatorship;People's Republic of China;;;;;;;x
 CHI_democracy;Republic of China;;;;;;;x
 CHI_hms_government;The Chinese Empire;;;;;;;x
 CHI_prussian_constitutionalism;The Chinese Empire;;;;;;;x
 CHI_absolute_monarchy;Qing Empire;;;;;;;x
-FSM_liberal;Liberal Party;Liberal Party;Liberal Party;;;;;;;x
-FSM_conservative;Conservative Party;Conservative Party;Conservative Party;;;;;;;x
-FSM_reactionary;Royal Party;Royal Party;Royal Party;;;;;;;x
-FSM_socialist;Labour Party;Labour Party;Labour Party;;;;;;;x
-FSM_anarcho_liberal;Radical Party;Radical Party;Radical Party;;;;;;;x
-FSM_communist;Communist Party;Communist Party;Communist Party;;;;;;;x
-FSM_fascist;Fascist Party;Fascist Party;Fascist Party;;;;;;;x
-FJN;Fujian;;;;;;;x
-FJN_ADJ;Fujian;;;;;;;x
-FJN_presidential_dictatorship;Fujian Clique;;;;;;;x
-FJN_fascist_dictatorship;Min Republic;;;;;;;x
-FJN_fascist_dictatorship_ADJ;Min;;;;;;;x
-FJN_reactionary;Beiyang Faction;Faction Rongting;Rongting-Fraktion;;;;;;;x
-FJN_socialist;Socialist Party;Parti socialiste;Sozialistische Partei;;;;;;;x
-FJN_communist;Chinese Communist Party;Parti communiste chinois;Kommunistische Partei China;;;;;;;x
-FJN_liberal;Liberal Party;Parti lib�ral;Liberale Partei;;;;;;;x
-FJN_conservative;Kuomintang Faction;Faction Kuomintang;Guomintang-Fraktion;;;;;;;x
-FJN_fascist;Min Party;Parti fasciste;Faschistische Partei;;;;;;;x
-FJN_anarcho_liberal;Freedom Party;Parti de la libert�;Freiheitspartei;;;;;;;x
 GNG;Guangdong;;;;;;;x
 GNG_ADJ;Guangdong;;;;;;;x
 GNG_presidential_dictatorship;Guangdong Clique;;;;;;;x
-GNG_reactionary;Beiyang Faction;Faction Rongting;Rongting-Fraktion;;;;;;;x
-GNG_socialist;Socialist Party;Parti socialiste;Sozialistische Partei;;;;;;;x
-GNG_communist;Chinese Communist Party;Parti communiste chinois;Kommunistische Partei China;;;;;;;x
-GNG_liberal;Liberal Party;Parti lib�ral;Liberale Partei;;;;;;;x
-GNG_conservative;Kuomintang Faction;Faction Kuomintang;Guomintang-Fraktion;;;;;;;x
-GNG_fascist;Fascist Party;Parti fasciste;Faschistische Partei;;;;;;;x
-GNG_anarcho_liberal;Freedom Party;Parti de la libert�;Freiheitspartei;;;;;;;x
-GXI_presidential_dictatorship;Guangxi Clique;Clique de Guangxi;Guangxi-Clique;;;;;;;x
-HNN;Hunan;;;;;;;x
-HNN_ADJ;Hunan;;;;;;;x
-HNN_presidential_dictatorship;Hunan Clique;;;;;;;x
-HNN_reactionary;Beiyang Faction;Faction Rongting;Rongting-Fraktion;;;;;;;x
-HNN_socialist;Socialist Party;Parti socialiste;Sozialistische Partei;;;;;;;x
-HNN_communist;Chinese Communist Party;Parti communiste chinois;Kommunistische Partei China;;;;;;;x
-HNN_liberal;Liberal Party;Parti lib�ral;Liberale Partei;;;;;;;x
-HNN_conservative;Kuomintang Faction;Faction Kuomintang;Guomintang-Fraktion;;;;;;;x
-HNN_fascist;Fascist Party;Parti fasciste;Faschistische Partei;;;;;;;x
-HNN_anarcho_liberal;Freedom Party;Parti de la libert�;Freiheitspartei;;;;;;;x
-HUI;Anhui;;;;;;;x
-HUI_ADJ;Anhui;;;;;;;x
-HUI_presidential_dictatorship;Anhui Clique;;;;;;;x
-HUI_reactionary;Beiyang Faction;Faction Rongting;Rongting-Fraktion;;;;;;;x
-HUI_socialist;Socialist Party;Parti socialiste;Sozialistische Partei;;;;;;;x
-HUI_communist;Chinese Communist Party;Parti communiste chinois;Kommunistische Partei China;;;;;;;x
-HUI_liberal;Liberal Party;Parti lib�ral;Liberale Partei;;;;;;;x
-HUI_conservative;Kuomintang Faction;Faction Kuomintang;Guomintang-Fraktion;;;;;;;x
-HUI_fascist;Fascist Party;Parti fasciste;Faschistische Partei;;;;;;;x
-HUI_anarcho_liberal;Freedom Party;Parti de la libert�;Freiheitspartei;;;;;;;x
+GNG_reactionary;Beiyang Faction;;;;;x;;;;;;
+GNG_socialist;Socialist Party;;;;;x;;;;;;
+GNG_communist;Chinese Communist Party;;;;;x;;;;;;
+GNG_liberal;Liberal Party;;;;;x;;;;;;
+GNG_conservative;Kuomintang Faction;;;;;x;;;;;;
+GNG_fascist;Fascist Party;;;;;x;;;;;;
+GNG_anarcho_liberal;Freedom Party;;;;;x;;;;;;
+GXI_presidential_dictatorship;Guangxi Clique;;;;;x;;;;;;
 SXI_presidential_dictatorship;Shanxi Clique;;;;;;;x
-SZC;Sichuan;;;;;;;x
-SZC_ADJ;Sichuan;;;;;;;x
-SZC_presidential_dictatorship;Sichuan Clique;;;;;;;x
-SZC_reactionary;Beiyang Faction;Faction Rongting;Rongting-Fraktion;;;;;;;x
-SZC_socialist;Socialist Party;Parti socialiste;Sozialistische Partei;;;;;;;x
-SZC_communist;Chinese Communist Party;Parti communiste chinois;Kommunistische Partei China;;;;;;;x
-SZC_liberal;Liberal Party;Parti lib�ral;Liberale Partei;;;;;;;x
-SZC_conservative;Kuomintang Faction;Faction Kuomintang;Guomintang-Fraktion;;;;;;;x
-SZC_fascist;Fascist Party;Parti fasciste;Faschistische Partei;;;;;;;x
-SZC_anarcho_liberal;Freedom Party;Parti de la libert�;Freiheitspartei;;;;;;;x
-#############################################;;;;;;;x
+#############################################;;;;;;;x;
 #Localisations for Events;GAMING;;;;;;;x
-#############################################;;;;;;;x
+#############################################;;;;;;;x;
 EVTNAME12341234;Infamy Limit Violated!;;;;;;;x
 EVTDESC12341234;You're the worst scum of the earth and you deserve what's coming for you;;;;;;;x
 badboymod;Over Infamy Limit;;;;;;;x
 desc_badboymod;We have violated international law by breaching the infamy limit. The nation suffers greatly for the misbehaviour of our Leader!;;;;;;;x
 EVTNAME123412345;You're below infamy limit once again!;;;;;;;x
 EVTDESC123412345;Good boy. Here's a cookie.;;;;;;;x
-EVTNAME1234121;Status of Alaska;;;;;;;x
-EVTDESC1234121;The question has arisen regarding what to do with our colony in Alaska, now that Canada has achieved independence.;;;;;;;x
-EVTOPTA1234121;Allow Alaska to join Canada;;;;;;;x
-EVTOPTB1234121;It shall remain a $COUNTRY_ADJ$ colony;;;;;;;x
-EVTNAME1234122;Status of Washington;;;;;;;x
-EVTDESC1234122;The question has arisen regarding what to do with our colony in Washington, now that Canada has achieved independence.;;;;;;;x
-EVTOPTA1234122;Allow Washington to join Canada;;;;;;;x
-EVTNAME1234123;Status of Oregon;;;;;;;x
-EVTDESC1234123;The question has arisen regarding what to do with our colony in Oregon, now that Canada has achieved independence.;;;;;;;x
-EVTOPTA1234123;Allow Oregon to join Canada;;;;;;;x
-EVTNAME1234124;Status of Idaho;;;;;;;x
-EVTDESC1234124;The question has arisen regarding what to do with our colony in Idaho, now that Canada has achieved independence.;;;;;;;x
-EVTOPTA1234124;Allow Idaho to join Canada;;;;;;;x
-EVTNAME1234125;Status of New England;;;;;;;x
-EVTDESC1234125;The question has arisen regarding what to do with our colony in New England, now that Canada has achieved independence.;;;;;;;x
-EVTOPTA1234125;Allow New England to join Canada;;;;;;;x
-EVTNAME1234126;Status of Montana;;;;;;;x
-EVTDESC1234126;The question has arisen regarding what to do with our colony in Montana, now that Canada has achieved independence.;;;;;;;x
-EVTOPTA1234126;Allow Montana to join Canada;;;;;;;x
-EVTNAME1234127;Growth of Kathmandu;;;;;;;x
-EVTDESC1234127;A rapid rise in population brings the clearing of all land possibe for future Nepali habitation.;;;;;;;x
-EVTOPTA1234127;Ok;;;;;;;x
-EVTNAME1234128;Growth of Jumla;;;;;;;x
 EVTNAME200001;Anglo-Boer Tensions;;;;;;;x
 EVTDESC200001;For some years now, the Boers have left our South African colonies and formed states of their own. We regard these 'Boer Republics' as being in our sphere of influence and control.The Boer populations however have a fierce streak of independence and resist all foreign attempts to influence them. Lingering issues over the treatment and political rights of non-Boer whites in these republics is a perennial source of tension between the Adminstration in Capetown and the Boer leaders.;;;;;;;x
 EVTOPTA200001;Trouble in South Africa!;;;;;;;x
@@ -1207,26 +1003,20 @@ nepal_boom;Nepali Boom;;;;;;;x
 desc_nepal_boom;An expected boom in the population leads to efforts to clear further land for habitation and use.;;;;;;;x
 oil_metropolis;Oil Boom in Baku;;;;;;;x
 desc_oil_metropolis;Experts are predicting that Baku will become a major world producer of Oil in the future.;;;;;;;x
-#############################################;;;;;;;x
-#Localisations for New Culture Groups or Cultures;;;;;;;x
-#############################################;;;;;;;x
-sri_lankan;Sri Lankan;Sri-lankaise;Sri-Lankan;;Sri-Lanka;;;;;;;x
-itsekari;Ijaw;;;;;;;x
-kuba;Bashong;;;;;;;x
-#############################################;;;;;;;x
-#Localisations for New/Modified Parties;;;;;;;x
-#############################################;;;;;;;x
+#############################################;;;;;;;x;
+#Localisations for New/Modified Parties;;;;;;;x;
+#############################################;;;;;;;x;
 BEL_liberal_2;Liberale Partij;;;;;;;x
 BEL_liberal_3;Progressieve Partij;;;;;;;x
 BEL_liberal_4;Progressieve Partij;;;;;;;x
-DAN_conservative_2;Konservative Folkeparti;Konservative Folkeparti;Konservative Folkeparti;;Konservative Folkeparti;;;;;;;x
-DAN_liberal_3;Radikale-Venstre;Radikale-Venstre;Radikale-Venstre;;Radikale-Venstre;;;;;;;x
-DAN_liberal_4;Danmarks Retsforbund;Danmarks Retsforbund;Danmarks Retsforbund;;Danmarks Retsforbund;;;;;;;x
-FRA_anarcho_liberal_2;Conf�d�ration G�n�rale du Travail;Conf�d�ration G�n�rale du Travail;Conf�d�ration G�n�rale du Travail;;Conf�d�ration G�n�rale du Travail;;;;;;;x
-FRA_conservative_6;Action Lib�rale;;;;;;;x
-FRA_liberal_4;Parti R�publicain Radical;;;;;;;x
-FRA_liberal_5;Alliance R�publicaine D�mocratique;;;;;;;x
-FRA_conservative_7;F�d�ration R�publicain;;;;;;;x
+DAN_conservative_2;Konservative Folkeparti;;;;;;;x
+DAN_liberal_3;Radikale-Venstre;;;;;;;x
+DAN_liberal_4;Danmarks Retsforbund;;;;;;;x
+FRA_anarcho_liberal_2;Confederation Generale du Travail;;;;;;;x
+FRA_conservative_6;Action Liberale;;;;;;;x
+FRA_liberal_4;Parti Republicain Radical;;;;;;;x
+FRA_liberal_5;Alliance Republicaine Democratique;;;;;;;x
+FRA_conservative_7;Federation Republicain;;;;;;;x
 GRE_reactionary_2;Basiliko Komma;;;;;;;x
 GRE_liberal_3;Phileleuthero Komma;;;;;;;x
 GRE_conservative_3;Laikon Komma;;;;;;;x
@@ -1249,100 +1039,100 @@ ITA_anarcho_liberal;Partito d'Azione;;;;;;;x
 ITA_anarcho_liberal_2;Partito Radicale;;;;;;;x
 POR_conservative_3;Novo Partido Progressista;;;;;;;x
 POR_conservative_4;Partido Conservador;;;;;;;x
-SPA_conservative;Partido Moderado;Partido Moderado;Partido Moderado;;Partido Moderado;;;;;;;x
-SPA_liberal;Partido Progresista;Partido Progresista;Partido Progresista;;Partido Progresista;;;;;;;x
-SPA_conservative_2;Uni�n Liberal;Uni�n Liberal;Uni�n Liberal;;Uni�n Liberal;;;;;;;x
-SPA_reactionary;Comuni�n Carlista;Comuni�n Carlista;Comuni�n Carlista;;Comuni�n Carlista;;;;;;;x
-SPA_liberal_2;Republicano Federal;Republicano Federal;Republicano Federal;;Republicano Federal;;;;;;;x
-SPA_liberal_3;Republicano Unitario;Republicano Unitario;Republicano Unitario;;Republicano Unitario;;;;;;;x
-SPA_socialist;Partido Socialista;Partido Socialista;Partido Socialista;;Partido Socialista;;;;;;;x
-SPA_liberal_4;Radical Republicano;Radical Republicano;Radical Republicano;;Radical Republicano;;;;;;;x
-SPA_liberal_5;Uni�n Republicana;Uni�n Republicana;Uni�n Republicana;;Uni�n Republicana;;;;;;;x
-SPA_communist;Federaci�n Regional;Federaci�n Regional;Federaci�n Regional;;Federaci�n Regional;;;;;;;x
-SPA_liberal_6;Republicano Reformista;Republicano Reformista;Republicano Reformista;;Republicano Reformista;;;;;;;x
-SPA_conservative_3;Lliga Regionalista Cat.;Lliga Regionalista Cat.;Lliga Regionalista Cat.;;Liga Regionalista Cat.;;;;;;;x
-SPA_liberal_7;Solidaridad Catalana;Solidaridad Catalana;Solidaridad Catalana;;Solidaridad Catalana;;;;;;;x
-SPA_conservative_4;Nacionalista Vasco;Nacionalista Vasco;Nacionalista Vasco;;Nacionalista Vasco;;;;;;;x
-SPA_conservative_5;Uni�n Nacional;Uni�n Nacional;Uni�n Nacional;;Uni�n Nacional;;;;;;;x
-SPA_anarcho_liberal;Partido Democratico;Partido Democratico;Partido Democratico;;Partido Democratico;;;;;;;x
-SPA_anarcho_liberal_2;Republicano Federal;Republicano Federal;Republicano Federal;;Republicano Federal;;;;;;;x
-SPA_anarcho_liberal_3;Radical Republicano;Radical Republicano;Radical Republicano;;Radical Republicano;;;;;;;x
-SPA_fascist;Falange;Falange;Falange;;Falange;;;;;;;x
-TUR_reactionary;Nizam-i Alem;Nizam-i Alem;Nizam-i Alem;;Nizam-i Alem;;;;;;;x
-TUR_reactionary_2;Firka-yi Muhammediye;Firka-yi Muhammediye;Firka-yi Muhammediye;;Firka-yi Muhammediye;;;;;;;x
-TUR_conservative;H�kumet-i H�mayun;H�kumet-i H�mayun;H�kumet-i H�mayun;;H�kumet-i H�mayun;;;;;;;x
-TUR_conservative_2;Hurriyet ve Itilaf Firkasi;Hurriyet ve Itilaf Firkasi;Hurriyet ve Itilaf Firkasi;;Hurriyet ve Itilaf Firkasi;;;;;;;x
-TUR_conservative_3;Adem-i Merkeziyet Firkasi;Adem-i Merkeziyet Firkasi;Adem-i Merkeziyet Firkasi;;Adem-i Merkeziyet Firkasi;;;;;;;x
-TUR_conservative_4;Terakkiperver Cumhuriyet Firkasi;Terakkiperver Cumhuriyet Firkasi;Terakkiperver Cumhuriyet Firkasi;;Terakkiperver Cumhuriyet Firkasi;;;;;;;x
-TUR_liberal;J�n Osmanlilar;J�n Osmanlilar;J�n Osmanlilar;;J�n Osmanlilar;;;;;;;x
-TUR_liberal_2;Halk Birligi;Halk Birligi;Halk Birligi;;Halk Birligi;;;;;;;x
-TUR_liberal_3;Osmanli Ahrar Firkasi;Osmanli Ahrar Firkasi;Osmanli Ahrar Firkasi;;Osmanli Ahrar Firkasi;;;;;;;x
-TUR_liberal_4;Ittihad ve Terakki Firkasi (CUP);Ittihad ve Terakki Firkasi (CUP);Ittihad ve Terakki Firkasi (CUP);;Ittihad ve Terakki Firkasi (CUP);;;;;;;x
-TUR_liberal_5;Cumhuriyet Halk Firkasi;Cumhuriyet Halk Firkasi;Cumhuriyet Halk Firkasi;;Cumhuriyet Halk Firkasi;;;;;;;x
-TUR_socialist;Demokratik a�ik;Demokratik a�ik;Demokratik a�ik;;Demokratik a�ik;;;;;;;x
-TUR_socialist_2;Osmanli K�yl� ve Amele Firkasi;Osmanli K�yl� ve Amele Firkasi;Osmanli K�yl� ve Amele Firkasi;;Osmanli K�yl� ve Amele Firkasi;;;;;;;x
-TUR_communist;Ihtilalci Avam Firkasi;Ihtilalci Avam Firkasi;Ihtilalci Avam Firkasi;;Ihtilalci Avam Firkasi;;;;;;;x
-TUR_anarcho_liberal;Radikal parti;Radikal parti;Radikal parti;;Radikal parti;;;;;;;x
-TUR_fascist;Bozkurtlar;Bozkurtlar;Bozkurtlar;;Bozkurtlar;;;;;;;x
-USA_conservative;Democrats;Democrats;Democrats;;Democrats;;;;;;;x
-USA_conservative_2;Democratic Party;Parti d�mocrate;Democratic Party;;Partido Dem�crata;;;;;;;x
-USA_conservative_3;Constitutional Union Party;Parti de l'union constitutionnelle;Constitutional Union Party;;Partido de la Uni�n Constitucionalista;;;;;;;x
-USA_conservative_4;Republican Party;Parti r�publicain;Republican Party;;Partido Republicano;;;;;;;x
-USA_conservative_5;Republican Party;Parti r�publicain;Republican Party;;Partido Republicano;;;;;;;x
-USA_conservative_6;Greenback Party;Partie du billet vert;Greenback Party;;Dolar partido;;;;;;;x
-USA_conservative_7;Prohibition Party;Parti de la prohibition;Prohibition Party;;Partido Prohibici�n;;;;;;;x
-USA_liberal;Republican Party;Parti r�publicain;Republican Party;;Partido Republicano;;;;;;;x
-USA_liberal_2;Whigs;Whigs;Whigs;;Whigs;;;;;;;x
-USA_liberal_3;Democratic Party;Parti d�mocrate;Democratic Party;;Partido Dem�crata;;;;;;;x
-USA_liberal_4;Democratic Party;Parti d�mocrate;Democratic Party;;Partido Dem�crata;;;;;;;x
-USA_liberal_5;Populist Party;Parti populiste;Populist Party;;Partido Populista;;;;;;;x
-USA_liberal_6;Progressive Party;Parti progressiste;Progressive Party;;Partido Progresista;;;;;;;x
-USA_reactionary_2;American Party;Parti Am�ricain;American Party;;Partido Americano;;;;;;;x
-USA_socialist;Socialist Party;Parti socialiste;Socialist Party;;Partido Socialista;;;;;;;x
-USA_anarcho_liberal;Liberty Party;Parti de la libert�;Liberty Party;;Partido libertad;;;;;;;x
-USA_anarcho_liberal_2;Free Soil Party;Parti du sol libre;Free Soil Party;;Partido del suelo libre;;;;;;;x
-USA_anarcho_liberal_3;Revolutionary Party;Parti r�volutionnaire;Revolutionary Party;;Partido revolucionario;;;;;;;x
-USA_communist;American Marxist Party;Parti Marxiste am�ricain;American Marxist Party;;Partido Marxista americano;;;;;;;x
-USA_communist_2;Communist Party;Parti communiste ;Communist Party;;Partido Comunista;;;;;;;x
-USA_fascist;Silver Legion;Legion argent�e;Silver Legion;;Legi�n de plata;;;;;;;x
-#############################################;;;;;;;x
-#Localisations for Parties with changed TAGs;;;;;;;x
-#############################################;;;;;;;x
-PHL;Philippines;Philippines;Philippinen;;;;;;;x
-PHL_ADJ;Philippine;Philippine;Philippinisch;;;;;;;x
-PHL_reactionary;Partido Tradicionalista;Partido Tradicionalista;Partido Tradicionalista;;;;;;;x
-PHL_socialist;Partido Demokratiko;Partido Demokratiko;Partido Demokratiko;;;;;;;x
-PHL_communist;Partido Komunista;Partido Komunista;Partido Komunista;;;;;;;x
-PHL_liberal;Partido Liberal;Partido Liberal;Partido Liberal;;;;;;;x
-PHL_anarcho_liberal;Partido Libertad;Partido Libertad;Partido Libertad;;;;;;;x
-PHL_conservative;Partido Nacionalista;Partido Nacionalista;Partido Nacionalista;;;;;;;x
-PHL_fascist;Partido Fascista;Partido Fascista;Partido Fascista;;;;;;;x
-PNJ;Panjab;Pendjab;Pandschab;;Punjab;;;;;;;x
-PNJ_ADJ;Panjabi;Penjabi;Pundschabisch;;;;;;;x
-PNJ_conservative;Shahi Panchayata;Faction royale;K�nigsfraktion;;;;;;;x
-PNJ_conservative_2;Shahi Panchayata;Faction royale;K�nigsfraktion;;;;;;;x
-PNJ_liberal;Pragatishila Panchayata;Faction lib�rale;Die liberale Fraktion;;;;;;;x
-PNJ_reactionary;Paramparavadi Panchayata;Faction nationaliste;Die nationalistische Fraktion;;;;;;;x
-PNJ_anarcho_liberal;Krantikari Panchayata;Faction radicale;Die radikale Fraktion;;;;;;;x
-PNJ_socialist;Samajatantravadi Panchayata;Faction socialiste;Die sozialistische Fraktion;;;;;;;x
-PNJ_communist;Samyavadi Panchayata;Faction communiste;Die kommunistische Fraktion;;;;;;;x
-PNJ_fascist;Punarjanana Panchayata;Faction fasciste;Die faschistische Fraktion;;;;;;;x
+SPA_conservative;Partido Moderado;;;;;;;x
+SPA_liberal;Partido Progresista;;;;;;;x
+SPA_conservative_2;Union Liberal;;;;;;;x
+SPA_reactionary;Comunion Carlista;;;;;;;x
+SPA_liberal_2;Republicano Federal;;;;;;;x
+SPA_liberal_3;Republicano Unitario;;;;;;;x
+SPA_socialist;Partido Socialista;;;;;;;x
+SPA_liberal_4;Radical Republicano;;;;;;;x
+SPA_liberal_5;Union Republicana;;;;;;;x
+SPA_communist;Federacion Regional;;;;;;;x
+SPA_liberal_6;Republicano Reformista;;;;;;;x
+SPA_conservative_3;Lliga Regionalista Cat.;;;;;;;x
+SPA_liberal_7;Solidaridad Catalana;;;;;;;x
+SPA_conservative_4;Nacionalista Vasco;;;;;;;x
+SPA_conservative_5;Union Nacional;;;;;;;x
+SPA_anarcho_liberal;Partido Democratico;;;;;;;x
+SPA_anarcho_liberal_2;Republicano Federal;;;;;;;x
+SPA_anarcho_liberal_3;Radical Republicano;;;;;;;x
+SPA_fascist;Falange;;;;;;;x
+TUR_reactionary;Nizam-i Alem;;;;;;;x
+TUR_reactionary_2;Firka-yi Muhammediye;;;;;;;x
+TUR_conservative;Hakumet-i Humayun;;;;;;;x
+TUR_conservative_2;Hurriyet ve Itilaf Firkasi;;;;;;;x
+TUR_conservative_3;Adem-i Merkeziyet Firkasi;;;;;;;x
+TUR_conservative_4;Terakkiperver Cumhuriyet Firkasi;;;;;;;x
+TUR_liberal;Jon Osmanlilar;;;;;;;x
+TUR_liberal_2;Halk Birligi;;;;;;;x
+TUR_liberal_3;Osmanli Ahrar Firkasi;;;;;;;x
+TUR_liberal_4;Ittihad ve Terakki Firkasi (CUP);;;;;;;x
+TUR_liberal_5;Cumhuriyet Halk Firkasi;;;;;;;x
+TUR_socialist;Demokratik acik;;;;;;;x
+TUR_socialist_2;Osmanli Koylu ve Amele Firkasi;;;;;;;x
+TUR_communist;Ihtilalci Avam Firkasi;;;;;;;x
+TUR_anarcho_liberal;Radikal parti;;;;;;;x
+TUR_fascist;Bozkurtlar;;;;;;;x
+USA_conservative;Democrats;;;;;;;x
+USA_conservative_2;Democratic Party;;;;;;;x
+USA_conservative_3;Constitutional Union Party;;;;;;;x
+USA_conservative_4;Republican Party;;;;;;;x
+USA_conservative_5;Republican Party;;;;;;;x
+USA_conservative_6;Greenback Party;;;;;;;x
+USA_conservative_7;Prohibition Party;;;;;;;x
+USA_liberal;Republican Party;;;;;;;x
+USA_liberal_2;Whigs;;;;;;;x
+USA_liberal_3;Democratic Party;;;;;;;x
+USA_liberal_4;Democratic Party;;;;;;;x
+USA_liberal_5;Populist Party;;;;;;;x
+USA_liberal_6;Progressive Party;;;;;;;x
+USA_reactionary_2;American Party;;;;;;;x
+USA_socialist;Socialist Party;;;;;;;x
+USA_anarcho_liberal;Liberty Party;;;;;;;x
+USA_anarcho_liberal_2;Free Soil Party;;;;;;;x
+USA_anarcho_liberal_3;Revolutionary Party;;;;;;;x
+USA_communist;American Marxist Party;;;;;;;x
+USA_communist_2;Communist Party;;;;;;;x
+USA_fascist;Silver Legion;;;;;;;x
+#############################################;;;;;;;x;
+#Localisations for Parties with changed TAGs;;;;;;;x;
+#############################################;;;;;;;x;
+PHL;Philippines;;;;;x;;;;;;
+PHL_ADJ;Philippine;;;;;x;;;;;;
+PHL_reactionary;Partido Tradicionalista;;;;;x;;;;;;
+PHL_socialist;Partido Demokratiko;;;;;x;;;;;;
+PHL_communist;Partido Komunista;;;;;x;;;;;;
+PHL_liberal;Partido Liberal;;;;;x;;;;;;
+PHL_anarcho_liberal;Partido Libertad;;;;;x;;;;;;
+PHL_conservative;Partido Nacionalista;;;;;x;;;;;;
+PHL_fascist;Partido Fascista;;;;;x;;;;;;
+PNJ;Panjab;;;;;;;x
+PNJ_ADJ;Panjabi;;;;;x;;;;;;
+PNJ_conservative;Shahi Panchayata;;;;;x;;;;;;
+PNJ_conservative_2;Shahi Panchayata;;;;;x;;;;;;
+PNJ_liberal;Pragatishila Panchayata;;;;;x;;;;;;
+PNJ_reactionary;Paramparavadi Panchayata;;;;;x;;;;;;
+PNJ_anarcho_liberal;Krantikari Panchayata;;;;;x;;;;;;
+PNJ_socialist;Samajatantravadi Panchayata;;;;;x;;;;;;
+PNJ_communist;Samyavadi Panchayata;;;;;x;;;;;;
+PNJ_fascist;Punarjanana Panchayata;;;;;x;;;;;;
 PNJ_absolute_monarchy;Sikh Empire;;;;;;;x
 PNJ_prussian_constitutionalism;Sikh Empire;;;;;;;x
 PNJ_absolute_monarchy_ADJ;Sikh;;;;;;;x
 PNJ_prussian_constitutionalism_ADJ;Sikh;;;;;;;x
 PNJ_fascist_dictatorship;Khalistan;;;;;;;x
 PNJ_fascist_dictatorship_ADJ;Khalistani;;;;;;;x
-#############################################;;;;;;;x
-#Localisations for New Provinces;;;;;;;x
-#############################################;;;;;;;x
-PROV12;Red Deer;Red Deer;Red Deer;;Red Deer;;;;;;;x
-PROV2595;Peace River;Peace River;Peace River;;Peace River;;;;;;;x
-PROV2629;Kamloops;Kamloops;Kamloops;;Kamloops;;;;;;;x
-PROV3249;Guangzhouwan;Guangzhouwan;Guangzhouwan;;Guangzhouwan;;;;;;;x
-PROV3250;Ceuta;Ceuta;Ceuta;;Ceuta;;;;;;;x
-PROV3251;Trankebar;Trankebar;Trankebar;;Trankebar;;;;;;;x
-PROV3252;Vaduz;Vaduz;Vaduz;;Vaduz;;;;;;;x
-PROV3253;Diu;Diu;Diu;;Diu;;;;;;;x
-PROV3254;Bandung;Bandung;Bandung;;Bandung;;;;;;;x
-PROV3255;Cuneo;Cuneo;Cuneo;;Cuneo;;;;;;;x
+#############################################;;;;;;;x;
+#Localisations for New Provinces;;;;;;;x;
+#############################################;;;;;;;x;
+PROV12;Red Deer;;;;;;;x
+PROV2595;Peace River;;;;;;;x
+PROV2629;Kamloops;;;;;;;x
+PROV3249;Guangzhouwan;;;;;;;x
+PROV3250;Ceuta;;;;;;;x
+PROV3251;Trankebar;;;;;;;x
+PROV3252;Vaduz;;;;;;;x
+PROV3253;Diu;;;;;;;x
+PROV3254;Bandung;;;;;;;x
+PROV3255;Cuneo;;;;;;;x

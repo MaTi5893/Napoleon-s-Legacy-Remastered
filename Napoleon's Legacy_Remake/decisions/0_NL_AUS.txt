@@ -97,6 +97,7 @@ political_decisions = {
 		}
 	}
 	accept_slovak = {
+		picture = slovaks
 		potential = {
 			OR = {
 				tag = AUS
@@ -155,13 +156,15 @@ political_decisions = {
 			tag = KUK
 		}
 		allow = {
-			NOT = {
-				GER = {
-					any_core = {
-						owned_by = KUK
-					}
-				}
-			}
+			NOT = { 
+				any_owned_province = { 
+					is_core = GER 
+					NOT = { 
+						region = AUS_612 
+						region = AUS_734 
+					} 
+				} 
+			} 
 			citizenship_policy = full_citizenship
 			mass_politics = 1
 			is_greater_power = yes

@@ -5,8 +5,8 @@ the_true_government_title;The One and True government;;;;;;;x
 the_true_government_desc;The exiled monarchy's status as a 'formidable power', even though a marvellous joke all along, has met it's end. With their influence anywhere wiped out, we can finally circle in and end this traitorous rebellion. For ever.;;;;;;;x
 restore_ottoman_egypt_title;Restore Ottoman rule in Egypt;;;;;;;x
 restore_ottoman_egypt_desc;Egypt has broken away from us after a relatively succesful campaign of Napoleon the Great in land of the pharoes, but the time has come to get it back;;;;;;;x
-magrThe Holy Roman Empireb_domination_title;Domination in the MagThe Holy Roman Empireb;;;;;;;x
-magrThe Holy Roman Empireb_domination_desc;As the sole muslim great power we should protect our brothers in faith in the MagThe Holy Roman Empireb;;;;;;;x
+magrhreb_domination_title;Domination in the Maghreb;;;;;;;x
+magrhreb_domination_desc;As the sole muslim great power we should protect our brothers in faith in the Maghreb;;;;;;;x
 expand_the_confederacy_title;Expand the Confederacy;;;;;;;x
 expand_the_confederacy_desc;Although we have faced setbacks from the British, the time has come to once again reassert our dominion over India;;;;;;;x
 recover_the_empire_title;Restore the Mughal Empire;;;;;;;x
@@ -118,6 +118,8 @@ Expansion_in_southern_italy_title;Expand in Southern Italy;;;;;;;x
 Expansion_in_southern_italy_desc;Now that we have secured a hold in Sicily and reestablished ourselves as a regional power, we should expand this influence in southern Italy and seize what was once a part of the glorious Spanish Empire!;;;;;;;x
 glory_to_the_spanish_empire_title;Glory to the Spanish Empire!;;;;;;;x
 glory_to_the_spanish_empire_desc;Now that we have recovered all of our lost provinces in south Italy, we can reestablish the Spanish Empire!;;;;;;;x
+ask_france_catalonia_title;Ask for Catalonia;;;;;;;x
+ask_france_catalonia_desc;Now that we have peaceful relations with France and that we are a power to be reckoned with, we should ask for France to give back Catalonia;;;;;;;x
 form_iberia_title;Unite Iberia!;;;;;;;x
 form_iberia_desc;Now that we are united with Portugal and that we have reclaimed Catalonia, we can finally claim the union of all Iberians under one flag!;;;;;;;x
 expand_citizenship1_title;Give citizenship to the Caraibes;;;;;;;x
