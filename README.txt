@@ -19,9 +19,11 @@ Bearabia: Creator of Columbia Divided, let me take a tag from him (https://disco
 Info: 
 	This is a 'what if Napoleon won?' alternate history scenario, based on IGoR PUIR (an mp mod you can find here https://github.com/Nurse-Reno/IGoR_puir)
 	Some of the more interesting countries to play would be:  
-	Westphalia
-	Royaume d'Italie (Napoleonic Italy)
         Mexico
+	Spain
+	Austria
+	the United States of America
+	
 
 Links:
 	https://discord.gg/G5jGFgCbEg - This mod's discord
