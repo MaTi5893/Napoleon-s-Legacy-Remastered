@@ -1868,31 +1868,31 @@
     }
 
     aristocrats = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 900
     }
@@ -1900,31 +1900,31 @@
 #Billings (12000/3000 POPS)
 116 = {
     aristocrats = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 900
     }
@@ -1964,31 +1964,31 @@
 #Bismarck (8000/2000 POPS)
 117 = {
     aristocrats = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 1800
     }
@@ -1996,31 +1996,31 @@
 #Minot (8000/2000 POPS)
 118 = {
     aristocrats = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 900
     }
@@ -2058,31 +2058,31 @@
 #Dickinson (8000/2000 POPS)
 119 = {
     aristocrats = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 900
     }
@@ -2122,31 +2122,31 @@
 #Sioux Falls (8000/2000 POPS)
 120 = {
     aristocrats = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 900
     }
@@ -2184,31 +2184,31 @@
 #Dupree (8000/2000 POPS)
 121 = {
     aristocrats = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 1800
     }
@@ -2216,31 +2216,31 @@
 #Rapid City (8000/2000 POPS)
 122 = {
     aristocrats = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 900
     }
@@ -2280,31 +2280,31 @@
 #Omaha (8000/2000 POPS)
 123 = {
     aristocrats = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 900
     }
@@ -4060,31 +4060,31 @@
 #Sioux City (8000/2000 POPS)
 154 = {
     aristocrats = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 1800
     }
@@ -4094,31 +4094,31 @@
 #Minneapolis (8000/2000 POPS)
 155 = {
     aristocrats = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 15
     }
 
     farmers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 900
     }
@@ -4156,31 +4156,31 @@
 #Granite Falls (8000/2000 POPS)
 156 = {
     aristocrats = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 1800
     }
@@ -4188,31 +4188,31 @@
 #Moorhead (8000/2000 POPS)
 157 = {
     aristocrats = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 9
     }
 
     clergymen = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 22
     }
 
     artisans = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 45
     }
 
     soldiers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 13
     }
 
     farmers = {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 810
     }
@@ -4248,31 +4248,31 @@
     }
 
     soldiers= {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 1
     }
 
     soldiers= {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 3
     }
 
     soldiers= {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 5
     }
 
     soldiers= {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 2
     }
 
     soldiers= {
-        culture = dakota
+        culture = african_minor
         religion = animist
         size = 90
     }

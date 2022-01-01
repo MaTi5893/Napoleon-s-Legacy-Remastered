@@ -139,28 +139,6 @@ political_decisions = {
 		}
 	}
 	
-	custers_expedition = {
-		potential = {
-			tag = USA
-			NOT = {
-				has_country_flag = custers_expedition_sent
-			}
-			owns = 122
-			year = 1874
-		}
-		
-		allow = {
-			122 = {
-				units_in_province = 1
-			}
-		}
-		
-		effect = {
-			prestige = 1
-			set_country_flag = custers_expedition_sent
-		}
-	}
-	
 	enact_the_homestead_act = {
 		potential = {
 			tag = USA

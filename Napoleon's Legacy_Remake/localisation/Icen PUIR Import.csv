@@ -1,18 +1,18 @@
 #############################################;;;;;;;x
 #New Triggered Modifiers;;;;;;;x
 #############################################;;;;;;;x
-desperate_nation;Desperate Nation;Nation microscopique;Mikroskopische Nation;;Nación microscópica;;;;;;;x
-microscopic_nation;Microscopic Nation;Nation microscopique;Mikroskopische Nation;;Nación microscópica;;;;;;;x
-tiny_nation;Tiny Nation;Très petite Nation;Sehr kleine Nation;;Muy pequeña nación;;;;;;;x
-small_nation;Small Nation;Petite Nation;Kleine Nation;;Pequeña nación;;;;;;;x
-medium_nation;Medium Nation;Nation moyenne;Mittlere Nation;;Medio país;;;;;;;x
-average_nation;Average Nation;Nation régulière;Durchschnittsgröße Nation;;País promedio;;;;;;;x
-large_nation;Large Nation;Grande Nation;Großes Nation;;Nación grande;;;;;;;x
-empire;Empire;Empire;Reich;;Imperio;;;;;;;x
-medium_empire;Medium Empire;Moyen Empire;Mittleres Reich;;Imperio medio;;;;;;;x
-large_empire; Large Empire;Grand Empire;Große Reich;;Gran imperio;;;;;;;x
-insane_empire; Insane Empire;L'Empire de fou;Das wahnsinnig Reich;;El Imperio loco;;;;;;;x
-insane_empire2; Large Insane Empire;L'Empire de fou;Das wahnsinnig Reich;;El Imperio loco;;;;;;;x
+desperate_nation;Desperate Nation;;;;;;;x
+microscopic_nation;Microscopic Nation;;;;;;;x
+tiny_nation;Tiny Nation;;;;;;;x
+small_nation;Small Nation;;;;;;;x
+medium_nation;Medium Nation;;;;;;;x
+average_nation;Average Nation;;;;;;;x
+large_nation;Large Nation;;;;;;;x
+empire;Empire;;;;;;;x
+medium_empire;Medium Empire;;;;;;;x
+large_empire; Large Empire;;;;;;;x
+insane_empire; Insane Empire;;;;;;;x
+insane_empire2; Large Insane Empire;;;;;;;x
 #############################################;;;;;;;x
 #New CBs;;;;;;;x
 #############################################;;;;;;;x
@@ -62,24 +62,24 @@ demand_concession_casus_belli_china;Chinese Concession;;;;;;;x
 demand_concession_casus_belli_china_short;Demand Concession from China;;;;;;;x
 demand_concession_casus_belli_china_desc;Force China to concede territory.;;;;;;;x
 demand_concession_casus_belli_china_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;x
-demand_concession_casus_belli_player_early_for_puppet;Demand Concession Early for Puppet;Demande de concession;Konzession verlangen;;;;;;;x
-demand_concession_casus_belli_player_early_for_puppet_short;Demand $STATE$ for a puppet for 100% more warscore.;Demander $STATE$;Fordern Sie $STATE$;;;;;;;x
-demand_concession_casus_belli_player_early_for_puppet_desc;Force the §Yuncivilized country§W to secede territory to your puppet for 100% more warscore.;Obligez un §Ypays non civilisé§W ?faire sécession d'un territoire pour former une concession coloniale.;Zwingen Sie ein §Yunzivilisiertes Land§W, Gebiete zur Gründung einer Kolonialkonzession abzuspalten.;;;;;;;x
-demand_concession_casus_belli_player_early_for_puppet_setup;Demand that $RECIPIENT$ secede territory to a puppet.;Demandez ?ce que $RECIPIENT$ fasse sécession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Gründung einer Kolonialkonzession abspaltet.;;;;;;;x
-demand_concession_casus_belli_ai_early_for_puppet;Demand Concession Early for Puppet;Demande de concession;Konzession verlangen;;;;;;;x
-demand_concession_casus_belli_ai_early_for_puppet_short;Demand $STATE$ for a puppet for 10% more warscore.;Demander $STATE$;Fordern Sie $STATE$;;;;;;;x
-demand_concession_casus_belli_ai_early_for_puppet_desc;Force the §Yuncivilized country§W to secede territory to your puppet for 100% more warscore.;Obligez un §Ypays non civilisé§W ?faire sécession d'un territoire pour former une concession coloniale.;Zwingen Sie ein §Yunzivilisiertes Land§W, Gebiete zur Gründung einer Kolonialkonzession abzuspalten.;;;;;;;x
-demand_concession_casus_belli_for_puppet;Demand Concession for a Puppet;Demande de concession;Konzession verlangen;;;;;;;x
-demand_concession_casus_belli_for_puppet_short;Demand $STATE$ for a puppet.;Demander $STATE$;Fordern Sie $STATE$;;;;;;;x
-demand_concession_casus_belli_for_puppet_desc;Force an §Yuncivilized country§W to secede territory to your puppet.;Obligez un §Ypays non civilisé§W ?faire sécession d'un territoire pour former une concession coloniale.;Zwingen Sie ein §Yunzivilisiertes Land§W, Gebiete zur Gründung einer Kolonialkonzession abzuspalten.;;;;;;;x
-demand_concession_casus_belli_for_puppet_setup;Demand that $RECIPIENT$ secede territory to a puppet.;Demandez ?ce que $RECIPIENT$ fasse sécession d'un territoire pour former une concession coloniale.;Verlangen Sie, dass $RECIPIENT$ Gebiete zur Gründung einer Kolonialkonzession abspaltet.;;;;;;;x
-place_in_the_sun_for_puppet;Place in the sun for a Puppet;Une place au soleil;Ein Platz an der Sonne;;;;;;;x
+demand_concession_casus_belli_player_early_for_puppet;Demand Concession Early for Puppet;;;;;x;;
+demand_concession_casus_belli_player_early_for_puppet_short;Demand $STATE$ for a puppet for 100% more warscore.;;;;;x;;
+demand_concession_casus_belli_player_early_for_puppet_desc;Force the §Yuncivilized country§W to secede territory to your puppet for 100% more warscore.;;;;;x;;
+demand_concession_casus_belli_player_early_for_puppet_setup;Demand that $RECIPIENT$ secede territory to a puppet.;;;;;x;;
+demand_concession_casus_belli_ai_early_for_puppet;Demand Concession Early for Puppet;;;;;x;;
+demand_concession_casus_belli_ai_early_for_puppet_short;Demand $STATE$ for a puppet for 10% more warscore.;;;;;x;;
+demand_concession_casus_belli_ai_early_for_puppet_desc;Force the §Yuncivilized country§W to secede territory to your puppet for 100% more warscore.;;;;;x;;
+demand_concession_casus_belli_for_puppet;Demand Concession for a Puppet;;;;;x;;
+demand_concession_casus_belli_for_puppet_short;Demand $STATE$ for a puppet.;;;;;x;;
+demand_concession_casus_belli_for_puppet_desc;Force an §Yuncivilized country§W to secede territory to your puppet.;;;;;x;;
+demand_concession_casus_belli_for_puppet_setup;Demand that $RECIPIENT$ secede territory to a puppet.;;;;;x;;
+place_in_the_sun_for_puppet;Place in the sun for a Puppet;;;;;x;;
 place_in_the_sun_for_puppet_short;Acquire $STATE$ for a puppet.;;;;;;;x
-place_in_the_sun_for_puppet_desc;Aquire an enemy §Ycolonial state§W for a puppet.;Prendre un §YÉtat colonial§W ennemi;Erobern Sie einen feindlichen §YKolonialstaat§W.;;;;;;;x
+place_in_the_sun_for_puppet_desc;Aquire an enemy §Ycolonial state§W for a puppet.;;;;;x;;
 place_in_the_sun_for_puppet_setup;Acquire colony $STATE$ from $RECIPIENT$ for a puppet.;;;;;;;x
-place_in_the_sun_late_for_puppet;Place in the sun for a Puppet;Une place au soleil;Ein Platz an der Sonne;;;;;;;x
+place_in_the_sun_late_for_puppet;Place in the sun for a Puppet;;;;;x;;
 place_in_the_sun_late_for_puppet_short;Acquire $STATE$ 20% less for a puppet.;;;;;;;x
-place_in_the_sun_late_for_puppet_desc;Aquire an enemy §Ycolonial state§W 20% less for a puppet.;Prendre un §YÉtat colonial§W ennemi;Erobern Sie einen feindlichen §YKolonialstaat§W.;;;;;;;x
+place_in_the_sun_late_for_puppet_desc;Aquire an enemy §Ycolonial state§W 20% less for a puppet.;;;;;x;;
 place_in_the_sun_late_for_puppet_setup;Acquire colony $STATE$ 20% cheaper from $RECIPIENT$ for a puppet.;;;;;;;x
 acquire_state_for_puppet;Acquire State Earlygame for Puppet;;;;;;;x
 acquire_state_for_puppet_desc;Acquire the state of a §Ycountry§W for a puppet.;;;;;;;x
@@ -102,7 +102,7 @@ total_war_place_in_the_sun_for_puppet_short;The time has come to wipe the very i
 total_war_place_in_the_sun_for_puppet_desc;Acquire an enemy country's colony for a puppet costing 0 warscore & 0 infamy.;;;;;;;x
 total_war_place_in_the_sun_for_puppet_setup;The peoples of $RECIPIENT$$ stand in the way of a better world;;;;;;;x
 negotiated_transfer_for_puppet;Negotiated Transfer for Puppet;;;;;;;x
-negotiated_transfer_for_puppet_desc;Transfer a state or colonial region to another country's puppet for low inamy, 0 prestige, no jingoism;;;;;;;x
+negotiated_transfer_for_puppet_desc;Transfer a state or colonial region to another country's puppet for low infamy, 0 prestige, no jingoism;;;;;;;x
 negotiated_transfer_for_puppet_short;$RECIPIENT$ receives $STATE$ from us;;;;;;;x
 negotiated_transfer_for_puppet_setup;Transfer $STATE$ to $RECIPIENT$;;;;;;;x
 take_capital_for_puppet;Take Capital for Puppet;;;;;;;x
@@ -120,44 +120,44 @@ take_capital_late_for_puppet_short;Takes Capital from $RECIPIENT$;;;;;;;x
 #############################################;;;;;;;x
 #More Inventions;;;;;;;x
 #############################################;;;;;;;x
-sanitation;Sanitation;;;;;;;x,
+sanitation;Sanitation;;;;;;;x
 sanitation_desc;It was not until the development of sanitation that the presence of waste and sewage in cities was even considered to be a health issue. Once methods were introduced to remove waste and keep the streets clean, it became possible for rodent infestations to be reduced in size and for cities to rapidly grow.;;;;;;;x
-antitoxins;Antitoxins;;;;;;;x,
-antitoxins_desc;The development of antitoxins is an advance that not only allows the medical field to combat poisons, but also to develop and further their understanding of how to kill bacteria and other microorganisms which are responsible for many afflictions.;;;;;;;x,
-child_welfare;Child Welfare;;;;;;;x,
+antitoxins;Antitoxins;;;;;;;x
+antitoxins_desc;The development of antitoxins is an advance that not only allows the medical field to combat poisons, but also to develop and further their understanding of how to kill bacteria and other microorganisms which are responsible for many afflictions.;;;;;;;x
+child_welfare;Child Welfare;;;;;;;x
 child_welfare_desc;The quaint new idea of basic care & legal rights for children has been established.;;;;;;;x
 #############################################;;;;;;;x
 #Save The Nation;;;;;;;x
 #############################################;;;;;;;x
-save_the_nation0.5;Moderate Patriotism;;;;;;;x,
-save_the_nation0.5_desc;Moderate Patriotism;;;;;;;x,
-save_the_nation1;Patriotism;;;;;;;x,
-save_the_nation1_desc;Patriotism;;;;;;;x,
-save_the_nation1.5;Moderate Naionalism;;;;;;;x,
-save_the_nation1.5_desc;Moderate Nationalism;;;;;;;x,
-save_the_nation2;Heightened Naionalism;;;;;;;x,
-save_the_nation2_desc;Heightened Nationalism;;;;;;;x,
-save_the_nation2.5;Limited Desperate Defense;;;;;;;x,
-save_the_nation2.5_desc;Limited Desperate Defense;;;;;;;x,
-save_the_nation3;Full Desperate Defense;;;;;;;x,
-save_the_nation3_desc;Full Desperate Defense;;;;;;;x,
-save_the_nation3.5;Nearing the Final Hour;;;;;;;x,
-save_the_nation3.5_desc;Nearing the Final Hour;;;;;;;x,
-save_the_nation4;Final Hour;;;;;;;x,
-save_the_nation4_desc;Final Hour;;;;;;;x,
-save_the_nation4.5;Somewhat Spiteful Resistance;;;;;;;x,
-save_the_nation4.5_desc;Somewhat Spiteful Resistance;;;;;;;x,
-save_the_nation5;Spiteful Resistance;;;;;;;x,
-save_the_nation5_desc;Spiteful Resistance;;;;;;;x,
+save_the_nation0.5;Moderate Patriotism;;;;;;;x
+save_the_nation0.5_desc;Moderate Patriotism;;;;;;;x
+save_the_nation1;Patriotism;;;;;;;x
+save_the_nation1_desc;Patriotism;;;;;;;x
+save_the_nation1.5;Moderate Naionalism;;;;;;;x
+save_the_nation1.5_desc;Moderate Nationalism;;;;;;;x
+save_the_nation2;Heightened Naionalism;;;;;;;x
+save_the_nation2_desc;Heightened Nationalism;;;;;;;x
+save_the_nation2.5;Limited Desperate Defense;;;;;;;x
+save_the_nation2.5_desc;Limited Desperate Defense;;;;;;;x
+save_the_nation3;Full Desperate Defense;;;;;;;x
+save_the_nation3_desc;Full Desperate Defense;;;;;;;x
+save_the_nation3.5;Nearing the Final Hour;;;;;;;x
+save_the_nation3.5_desc;Nearing the Final Hour;;;;;;;x
+save_the_nation4;Final Hour;;;;;;;x
+save_the_nation4_desc;Final Hour;;;;;;;x
+save_the_nation4.5;Somewhat Spiteful Resistance;;;;;;;x
+save_the_nation4.5_desc;Somewhat Spiteful Resistance;;;;;;;x
+save_the_nation5;Spiteful Resistance;;;;;;;x
+save_the_nation5_desc;Spiteful Resistance;;;;;;;x
 #############################################;;;;;;;x
 #Decisions;;;;;;;x
 #############################################;;;;;;;x
-romanians_integrated_title;Integrate the Romanians;;;;;;;x,
-romanians_integrated;Integrate the Romanians;;;;;;;x,
-romanians_integrated_desc;The time has come for the Romanian peoples to accept the crown of Hungary.;;;;;;;x,
-spanish_expansion_maghreb_title;Proclaim Spanish Dominion over Maghreb;;;;;;;x,
-spanish_expansion_maghreb;Proclaim Spanish Dominion over Maghreb;;;;;;;x,
-spanish_expansion_maghreb_desc;After taking over Western Aragonese Maghreb, and annexing the local natives we have gained total dominion over North-West Africa.;;;;;;;x,
+romanians_integrated_title;Integrate the Romanians;;;;;;;x
+romanians_integrated;Integrate the Romanians;;;;;;;x
+romanians_integrated_desc;The time has come for the Romanian peoples to accept the crown of Hungary.;;;;;;;x
+spanish_expansion_maghreb_title;Proclaim Spanish Dominion over Maghreb;;;;;;;x
+spanish_expansion_maghreb;Proclaim Spanish Dominion over Maghreb;;;;;;;x
+spanish_expansion_maghreb_desc;After taking over Western Aragonese Maghreb, and annexing the local natives we have gained total dominion over North-West Africa.;;;;;;;x
 mesopotamian_excavations_decision_title;The Cradle of Civilization;;;;;;;x
 mesopotamian_excavations_decision_desc;Mesopotamia: the onetime home of Babylonia, Akkadia and Assyria holds great promise for archaeological discovery. We've moved beyond the old methods of tomb-raiding and amateur excavations--- we should outfit a modern expedition and seek permission to explore these lands. We might bring back a few trophies for the museum... and learn something along the way.;;;;;;;x
 minoan_excavations_decision_title;Minoan Excavations;;;;;;;x

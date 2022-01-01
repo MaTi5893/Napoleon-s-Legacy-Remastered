@@ -8,7 +8,10 @@ political_decisions = {
 		allow = {
 			LIT = {
 				all_core = {
-					owned_by = THIS
+					OR = {
+						owned_by = THIS
+						province_id = 698
+					}
 				}
 			}
 			owns = 719
@@ -24,6 +27,9 @@ political_decisions = {
 		effect = {
 			LIT = {
 				all_core = {
+					limit = { 
+						NOT = { province_id = 698 } 
+					}
 					add_core = THIS
 				}
 			}
