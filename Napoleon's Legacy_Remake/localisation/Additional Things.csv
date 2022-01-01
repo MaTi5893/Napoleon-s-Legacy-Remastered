@@ -17,10 +17,6 @@ rgo_change_mining_title;Change Mining RGO;;;;;;;x
 rgo_change_mining_desc;Allows the switching of a single RGO province of the following types: Coal, Iron, Sulphur, or Precious Metal into Coal, Iron, or Sulphur. Causes a cooldown of 25 years.;;;;;;;x
 rgo_change_agriculture_title;Change Agriculture RGO;;;;;;;x
 rgo_change_agriculture_desc;Allows the switching of a single RGO province of the following types: Grain, Fruit, Fish, Cattle, Wool, Cotton, Timber, or Precious Goods into Grain, Fruit, Fish, Cattle, Wool, Cotton, or Timber. Causes a cool down of 12.5 years.;;;;;;;x
-infamy_for_growth_selector_title;Commence a Population Growth Campaign;;;;;;;x
-infamy_for_growth_selector_desc;Start a campaign to trade infamy & tax-effiency reduction in-exchange for more overall pop-growth.;;;;;;;x
-infamy_for_growth_modifier_removal_title;Stop the ongoing Population Campaign;;;;;;;x
-infamy_for_growth_modifier_removal_desc;Cancel the current ongoing growth campaign.;;;;;;;x
 #############################################;;;;;;;x
 #Additional Events;;;;;;;x
 #############################################;;;;;;;x
@@ -50,7 +46,7 @@ EVT199937OPTE;Change a province to produce Fish.;;;;;;;x
 EVT199937OPTF;Change a province to produce Fruit.;;;;;;;x
 EVT199937OPTG;Change a province to produce Grain.;;;;;;;x
 EVT199937OPTH;I'd rather not change anything.;;;;;;;x
-EVTNAME776801;Colonial Tech Inheiritance;;;;;;;x
+EVTNAME776801;Colonial Tech Inheritance;;;;;;;x
 EVTDESC776801;Uncivilized Puppets gain basic industrial techs to further the out-sourcing of resources.;;;;;;;x
 EVTOPTA776801;Isn't this just exploitation of our natural resources?;;;;;;;x
 776901;Forced Unsphereing of China;;;;;;;x
