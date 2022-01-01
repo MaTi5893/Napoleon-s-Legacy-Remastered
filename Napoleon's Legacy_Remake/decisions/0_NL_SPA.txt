@@ -119,11 +119,7 @@ political_decisions = {
 	form_iberia = {
 		picture = iberia
 		potential = {
-			OR = { 
-				tag = SPA 
-				tag = UPB 
-				tag = POR 
-			}
+			tag = SPA 
 			NOT = { has_country_flag = domination_of_western_mediterranean_see }
 		}
 		allow = {

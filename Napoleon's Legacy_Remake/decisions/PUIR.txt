@@ -558,104 +558,6 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	the_regenerador = {
-		potential = {
-			tag = POR
-			NOT = { has_country_flag = portuguese_regeneration }
-			year = 1851
-			NOT = { year = 1875 }
-		}
-		allow = {
-			OR = {
-				average_militancy = 3
-				any_owned_province = {
-					average_militancy = 5
-				}
-				521 = { controlled_by_rebels = yes } #Lisbon
-				518 = { controlled_by_rebels = yes } #Oporto
-				522 = { controlled_by_rebels = yes } #Coimbra
-				519 = { controlled_by_rebels = yes } #Vila Real
-				520 = { controlled_by_rebels = yes } #Covilha
-				525 = { controlled_by_rebels = yes } #Evora
-				empiricism = 1
-			}
-			OR = {
-				AND = {
-					ruling_party = POR_conservative_2
-					state_n_government = 1
-				}
-				NOT = { ruling_party = POR_conservative_2 }
-			}
-					
-					
-		}
-		effect = {
-			set_country_flag = portuguese_regeneration
-			ruling_party_ideology = conservative
-			nationalvalue = nv_liberty
-			any_pop = {
-				limit = {
-					culture = portuguese
-				}
-					militancy = -3
-			}
-			define_general = {
-				name = "Joao Carlos de Saldanha"
-				#picture = por_gen_saldanha
-				personality = defence_3.1
-				background = attack_3.1
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	instituto_industrial_de_lisboa = {
-		potential = {
-			has_country_flag = portuguese_regeneration
-			NOT = { has_country_flag = portuguese_regeneration2 }
-		}
-		allow = {
-			money = 3000
-		}
-		effect = {
-			set_country_flag = portuguese_regeneration2
-			treasury = -3000
-			prestige = 5
-			POR_521 = { 
-				infrastructure = 1
-			}
-			add_country_modifier = {
-				name = instituto_industrial_lisboa
-				duration = 7300
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	escola_industrial_do_porto = {
-		potential = {
-			has_country_flag = portuguese_regeneration
-			NOT = { has_country_flag = portuguese_regeneration3 }
-		}
-		allow = {
-			money = 3000
-		}
-		effect = {
-			set_country_flag = portuguese_regeneration3
-			treasury = -3000
-			prestige = 5
-			research_points = 300
-			add_country_modifier = {
-				name = escola_industrial_porto
-				duration = 7300
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
 	sign_bowring_treaty = {
 		potential = {
 			tag = SIA
@@ -1029,11 +931,6 @@ political_decisions = {
 	}
 	pursue_unification = {
 		potential = {
-			NOT = {
-				exists = ROM
-			}
-			NOT = { has_country_flag = romanian_dream }
-			OR = {
 			AND = {
 				tag = MOL
 				NOT = {
@@ -1048,6 +945,11 @@ political_decisions = {
 				ai = no
 				MOL = { ai = yes }
 			}
+			NOT = {
+				exists = ROM
+			}
+			NOT = { has_country_flag = romanian_dream }
+			OR = {
 			}
 		}
 		
@@ -1505,37 +1407,6 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	cover_the_senne = {
-		potential = {
-			OR = { 
-				tag = BEL
-				tag = FLA
-			}
-			capital = 387
-			NOT = { has_country_flag = cover_the_senne }
-		}
-		
-		allow = {
-			war = no
-			invention = sanitation
-			invention = portland_cement
-		}
-
-		effect = {
-			set_country_flag = cover_the_senne
-			prestige = 20
-			387 = {
-				add_province_modifier = {
-					name = boulevards_of_brussels
-					duration = -1
-				}
-				life_rating = 2
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
 	appoint_lin_zexu = {
 		potential = {
 			tag = CHI
@@ -1693,92 +1564,6 @@ political_decisions = {
 
 		}
 	}
-	
-
-	form_pba = {
-		potential = {
-			tag = POR
-			NOT = { exists = UPB }
-		}
-		
-		allow = {
-			war = no
-			#BRZ = { exists = no }
-			POR = { 
-				all_core = {
-					owned_by = THIS
-				}
-			}
-			BRZ = {
-				#any_core = {
-				#	OR = {
-				#		culture = brazilian
-				#		culture = afro_brazilian
-				#	}
-				#	NOT = {
-				#		OR = { 
-				#			is_core = BOL
-				#			is_core = PRG
-				#			is_core = CLM
-				#			is_core = URU
-				#		}
-				#	}
-				#	owned_by = THIS
-				#}
-				is_greater_power = no
-				#OR = {
-				#	NOT = { part_of_sphere = yes }
-				#	in_sphere = POR
-				#}
-			}
-			owns = 2447 #Rio De Janeiro
-			owns = 2436 #Salvador De Bahia
-			owns = 2432 #Recife
-			
-		}
-		effect = {
-			change_tag = UPB
-			#set_country_flag = new_world_nation
-			capital = 2447
-			any_owned = {
-				limit = {
-					is_core = POR
-				}
-				add_core = UPB
-			}
-			BRZ = {
-				all_core = {
-					add_core = UPB
-				}
-			}
-			#any_owned = {
-			#	limit = {
-			#		is_core = BRZ
-			#	}
-			#	add_core = UPB
-			#}
-			prestige = 50
-			add_accepted_culture = brazilian
-			add_accepted_culture = afro_brazilian
-			any_pop = {
-				limit = { is_primary_culture = yes }
-				ideology = {
-					value = reactionary
-					factor = 0.15
-				}
-				ideology = {
-					value = anarcho_liberal
-					factor = 0.15
-				}
-				consciousness = 3
-				militancy = 3
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
 	hawaiian_constitution = {
 		potential = {
 			tag = HAW
