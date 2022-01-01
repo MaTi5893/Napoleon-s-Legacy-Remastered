@@ -5,7 +5,6 @@
 capital = 171
 primary_culture = native_american_minor
 culture = cherokee
-culture = dakota
 religion = animist
 government = democracy
 plurality = 10

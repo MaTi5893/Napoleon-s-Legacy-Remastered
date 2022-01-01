@@ -15,6 +15,10 @@ Bearabia: Creator of Columbia Divided, let me take a tag from him (https://disco
 
 
 
+###The NLR Low Res submod changes the terrain textures to be smaller, therefore saving on performance and RAM usage, while still looking... passable, to me.###
+##You need to enable both the submod and NLR itself in the launcher.##
+#I'm not sure if there will be any further submods, this one is just a thing because I know some people might not like that the terrain looks worse.#
+
 
 Info: 
 	This is a 'what if Napoleon won?' alternate history scenario, based on IGoR PUIR (an mp mod you can find here https://github.com/Nurse-Reno/IGoR_puir)
