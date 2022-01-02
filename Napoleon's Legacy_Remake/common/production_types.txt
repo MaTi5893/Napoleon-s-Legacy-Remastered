@@ -424,7 +424,7 @@ machine_parts_factory = {
 		coal = 5		#11.5  total input+maint = 66
 	}
 	output_goods = machine_parts 
-	value = 2			#73
+	value = 2.4			#73
 	bonus = {
 		trigger = { has_building = steel_factory }
 		value = 0.125
@@ -580,7 +580,7 @@ artillery_factory = {
 		steel = 6.5		#30.55   total input+maint = 62.9
 	}
 	output_goods = artillery 
-	value = 1.3			#65
+	value = 1.6			#65
 	bonus = {
 		trigger = { has_building = steel_factory }
 		value = 0.15
@@ -626,7 +626,7 @@ small_arms_factory = {
 		steel = 3.0		#14.1		total input+maint = 48.925
 	}
 	output_goods = small_arms 
-	value = 2.4			#60
+	value = 2.65			#60
 	bonus = {
 		trigger = { has_building = steel_factory }
 		value = 0.15
@@ -1318,7 +1318,7 @@ artisan_steel = {
 
 artisan_artillery = {       
 	input_goods = { 
-		explosives = 1		#18
+		explosives = 0.9		#18
 		steel = 8		#37.6   total input+maint = 55.6
 	}
 	output_goods = artillery 
