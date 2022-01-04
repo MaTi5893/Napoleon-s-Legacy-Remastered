@@ -1264,16 +1264,6 @@ southeast_asian = {
                
 		}
 	}
-	moluccan = {
-		color = {90 132 76}
-		first_names = { Ellyas Ignacio Jordao Michael Sonny Denny Mohammad Edinho Jos Levi
-			
-		}
-		
-		last_names = { Leiwakabessy Mainaky Weisapy Bouma Palyama Pattinama Pelmelay Lilipaly Hafiedz
-               
-		}
-	}
 	thai = {
 		color = {76 99 150}
 		first_names = { Nangklao Mongkut Rama Chulalongkorn Chao Vajiravudh Prajadhipok Naritsaranuwatiwong Phya Plaek
@@ -1430,20 +1420,6 @@ oceanic = {
 		last_names = { Wherowhero Kenena Raouparah Herangi Ataarangikaahu 
 		}
 	}
-	aborigine = {
-		color = {78 24 92}
-		first_names = { Nemarluk Umbarra Wylie Yagan Tollamareena Pemulwy Mokare Derrimut Bennelong Billibellary
-		}
-		last_names = { Bunurong Lanne Noongar Mullagh Windich Wonga
-		}
-	}
-	melanesian = {
-		color = {187 42 167}
-		first_names = { Ti-Toorou Ti-Quatchium Kaoua Kanendjo Samuel Ti-Abel  Seru Epenisa Tamavunisa Yavala Ralulu Raivalita Rasolo Lubati Taltai Eroni
-		}
-		last_names = { Hortense Vendegou Cakobau Cokanauto Qaraniqio Banuve Loganimoce Tupou Lakeba
-		}
-	}
 	micronesian = {
 		color = {68 213 88}
 		first_names = { Tem Makiatia Takahihi Tikoro Hakana Hakapeke Wekeia Poiaka Maehua Tawehi
@@ -1464,23 +1440,6 @@ native_american = {
 		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
 		Curruchic Ixquiac Lopez Manzanero Mas Menchu Merida Mes Osorio Pek
 		Poot Pop Puk Shal Sho Tecu Teul Tuyuc Xicara Xiloj }
-	}
-	patagonian = {
-		color = {88 99 133}
-		first_names = { Agustin Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
-		Felix Fernando Francisco Gerardo Gregorio Hugo Ignacio Jose Juan Luis
-		Manuel Marcos Martin Maximo Melchor Pedro Ramon Raul Santiago Victor }
-
-		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
-		Huichaman Ilwen Kayupi Kumlafken Kvlapi Levi�anco Lincoman Marifil Melifilu Millakoyam
-		Millapani Nahuel �anku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
-	}
-	dakota = {
-		color = {66 78 134}
-		first_names = { Sinte Thaoyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi Tamaha Inkpaduta
-		}
-		last_names = { Gleska Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
-		}
 	}
 	cherokee = {
 		color = {136 114 173}
@@ -1561,13 +1520,6 @@ neo_european_cultures = {
 		last_names = { Cilliers Botha Joubert Kruger Duquesne Potgieter "van Rensburg" "de la Rey" Theron "de Wet" Pretorius Retief "de Beer" Uys 
 		}
 		radicalism = 10
-	}
-	australian = {
-		color = {87 113 174}
-		first_names = { John Alf Adrian Louis Hallam Henry Shane Stafford William Frederick Thomas Ronald Lawrence Bruce Ray Stuart Brian Bob Scott Guy
-		}
-		last_names = { Hope Tennyson Northcote War Thesinger Denman Forster Baird Issac Stewart Fisher Cook Davis Armstrong Anderson Mitchell MacKenzie
-		}	
 	}
 	anglo_canadian = {
 		color = {248 165 255}
@@ -1673,14 +1625,14 @@ latin_american_cultures = {
 		color = {0 112 66}
 		first_names = { Afonso Antonio Artur Augusto Aurelio Benjamin Candido Carlos Celso Custodio
 		Delfim Deodoro Eduardo Emilio Epitacio Ernesto Fabio Fernando Filipe Floriano
-		"Francisco de Paula" "Francisco Xavier" Federico Gaspar Gast�o Getulio Henrique Hermes Humberto Isaias
-		Jo�o Joaquim Jose Julio Juscelino Luis Manuel "Marco Antonio" Mario Miguel
+		"Francisco de Paula" "Francisco Xavier" Federico Gaspar Gastao Getulio Henrique Hermes Humberto Isaias
+		Joao Joaquim Jose Julio Juscelino Luis Manuel "Marco Antonio" Mario Miguel
 		Nereu Nilo Paulo Pedro Prudente Silviano Tancredo Urbano Venceslau Vital
 		}
 
-		last_names = { Barreto Bernardes Bittencourt Brand�o Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"
-		"da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragan�a" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
-		"de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galv�o Jord�o
+		last_names = { Barreto Bernardes Bittencourt Brandao Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"
+		"da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Braganca" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
+		"de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvao Jordao
 		Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osorio Peixoto
 		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
 		}

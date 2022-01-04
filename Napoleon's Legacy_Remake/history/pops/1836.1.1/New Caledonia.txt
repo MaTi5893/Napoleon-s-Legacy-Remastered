@@ -3,31 +3,31 @@
 #New Caledonia (24000/6000 POPS) 
 1097 = {
 	aristocrats = {
-		culture = melanesian
+		culture = malay
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = melanesian
+		culture = malay
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = melanesian
+		culture = malay
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = melanesian
+		culture = malay
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = melanesian
+		culture = malay
 		religion = animist
 		size = 5475
 	}

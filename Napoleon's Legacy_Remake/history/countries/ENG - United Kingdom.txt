@@ -2,7 +2,6 @@ capital = 57
 primary_culture = anglo_canadian
 culture = british
 culture = french_canadian
-culture = australian
 religion = protestant
 government = hms_government
 plurality = 30

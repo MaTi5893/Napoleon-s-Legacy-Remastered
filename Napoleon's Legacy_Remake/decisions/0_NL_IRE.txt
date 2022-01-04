@@ -3,11 +3,11 @@ political_decisions = {
 form_celtic_union = {
 		picture = celtic_nations
 		potential = {
-			NOT = { exists = CEL }
 			OR = { 
 			       tag = IRE
 			       tag = SCO
 			}
+			NOT = { exists = CEL }
 			is_independant = yes 
 		}	
 		allow = {
@@ -64,13 +64,13 @@ form_celtic_union = {
 						province_id = 274
 						province_id = 275
 						province_id = 276
-
+					}
 				}
-			}
 			add_core = CEL
 			remove_core = GBR		#remove GBR cores to remove the assimilation debuff 
-		}
-		    change_tag = CEL
+			}
+			change_tag = CEL
+			add_accepted_culture = Scotish
 		}
 		ai_will_do = {
 			factor = 1

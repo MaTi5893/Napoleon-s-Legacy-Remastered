@@ -258,7 +258,6 @@ political_decisions = {
 			prestige = 50
 			badboy = -4 #-10
 			release_vassal = AST
-			remove_accepted_culture = australian
 			any_pop = {
 				limit = {
 					is_primary_culture = yes
