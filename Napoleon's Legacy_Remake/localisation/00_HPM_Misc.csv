@@ -3,22 +3,22 @@ oceanic;Pacific Islander;;;;;;;x
 levantine;Greco-Caucasian;;;;;;;x
 turko_semitic;Turkic;;;;;;;x
 polish_culture_group;Western Slavic;;;;;;;x
-BRIGADES_COMPARE_GREATER;Brigades comparison factor of two countries is at least ï¿½Y$VAL$ï¿½!\n;;;;;;;x!;;;;;;;x
-BRIGADES_COMPARE_SMALLER;Brigades comparison factor of two countries is less than ï¿½Y$VAL$ï¿½!\n;;;;;;;x
+BRIGADES_COMPARE_GREATER;Brigades comparison factor of two countries is at least §Y$VAL$§!\n;;;;;;;x!;;;;;;;x
+BRIGADES_COMPARE_SMALLER;Brigades comparison factor of two countries is less than §Y$VAL$§!\n;;;;;;;x
 jewish_group;Jewish;;;;;;;x
 muslim;Muslim;;;;;;;x
 christian;Christian;;;;;;;x
 eastern;Eastern Religions;;;;;;;x
 pagan;Pagans;;;;;;;x
-jefferson_method_desc;The Jefferson Method is a highest averages method for allocating seats, and is thus a type of party-list proportional representation. Proportional representation systems aim to allocate seats to parties approximately in proportion to the number of votes received. For example, if a party wins one-third of the votes then it should gain about one-third of the seats. In general, exact proportionality is not possible because these divisions produce fractional numbers of seats. As a result, several methods have been devised which ensure that the parties' seat allocations, which are of course whole numbers, are as proportional as possible. In comparison with the Sainte-Lague method, ï¿½Ythe Jefferson Method slightly favours large parties and coalitions over scattered small partiesï¿½W.;;;;;;;x
+jefferson_method_desc;The Jefferson Method is a highest averages method for allocating seats, and is thus a type of party-list proportional representation. Proportional representation systems aim to allocate seats to parties approximately in proportion to the number of votes received. For example, if a party wins one-third of the votes then it should gain about one-third of the seats. In general, exact proportionality is not possible because these divisions produce fractional numbers of seats. As a result, several methods have been devised which ensure that the parties' seat allocations, which are of course whole numbers, are as proportional as possible. In comparison with the Sainte-Lague method, §Ythe Jefferson Method slightly favours large parties and coalitions over scattered small parties§W.;;;;;;;x
 precious_goods;Precious Goods;;;;;;;x
 precious_goods_RGO_SIZE;Precious Goods Market Size;;;;;;;x
-PARTY_LOYALTY_EFFECT_DESC;Loyalty towards ï¿½Y$PARTY$ï¿½W in ï¿½Y$PROV$ï¿½W will be changed by ï¿½Y$VALUE$ï¿½W.\n;;;;;;;x
-MODIFY_RELATION_EFFECT;ï¿½Y$SOURCE$ï¿½!'s relation with ï¿½Y$TARGET$ï¿½! changed with a value of $VALUE$.\n;;;;;;;x
+PARTY_LOYALTY_EFFECT_DESC;Loyalty towards §Y$PARTY$§W in §Y$PROV$§W will be changed by §Y$VALUE$§W.\n;;;;;;;x
+MODIFY_RELATION_EFFECT;§Y$SOURCE$§!'s relation with §Y$TARGET$§! changed with a value of $VALUE$.\n;;;;;;;x
 IS_NOT_ACCEPTED_CULTURE;Is NOT an accepted culture.;;;;;;;x
 canned_food_factory;Cannery;;;;;;;x
 ALL_CORE_PROVINCE_THAT;For all core provinces \n;;;;;;;x
-TOPBAR_POPULATION;Our adult male population is $CURR$. Our adult male population has changed by $CHANGE$ in the last ï¿½Y$DAYS$ï¿½! days.;;;;;;;x
+TOPBAR_POPULATION;Our adult male population is $CURR$. Our adult male population has changed by $CHANGE$ in the last §Y$DAYS$§! days.;;;;;;;x
 precious_metal;Precious Metals;;;;;;;x
 precious_metal_RGO_SIZE;Precious Metals Mine Size;;;;;;;x
 cattle;Livestock;;;;;;;x
@@ -28,7 +28,7 @@ RULE_RICH_ONLY;\nRich Only;;;;;;;x
 RULE_SAME_AS_RULING_PARTY;\nSame As Ruling Party;;;;;;;x
 RULE_STATE_VOTE;\nState Vote;;;;;;;x
 RULE_POPULATION_VOTE;\nPopulation Vote;;;;;;;x
-ISSUE_MOVE_EFFECT;ï¿½Y$PERCENTAGE$%ï¿½W of pops move from ï¿½YFROMï¿½W to ï¿½YTOï¿½W\n;;;;;;;x
+ISSUE_MOVE_EFFECT;§Y$PERCENTAGE$%§W of pops move from §YFROM§W to §YTO§W\n;;;;;;;x
 social_policy;Welfare Policy;;;;;;;x
 colonial_spending_policy;Colonial;;;;;;;x
 colonial_spending_policy_l;Colonial;;;;;;;x
@@ -80,11 +80,11 @@ POLITICS_IN_FAVOR_TOOLTIP;($PERCENT$% of the Upper House in favor of reforms);;;
 POLITICS_UPPERHOUSE_CHART_TOOLTIP;$PERCENT$% of the Upper House are $IDEOLOGY$\n;;;;;;;x
 POLITICS_UPPERHOUSE;Upper House;;;;;;;x
 HAVE_INDUSTRIAL_SCORE_LESS_THAN;Have less Industrial Score than: ;;;;;;;x
-CHANGE_GOODS;Change trade goods in ï¿½Y$PROV$ï¿½W to ï¿½Y$GOOD$ï¿½W.\n;;;;;;;x
+CHANGE_GOODS;Change trade goods in §Y$PROV$§W to §Y$GOOD$§W.\n;;;;;;;x
 HAVE_LESS_TOTAL_PORTS_THAN;Have equal or less ports than: ;;;;;;;x
 HAVE_MORE_TOTAL_PORTS_THAN;Have equal or more ports than: ;;;;;;;x
-TOTAL_AMOUNT_OF_SHIPS;Total amount of ships: ï¿½Y$COUNT$ï¿½W \n;;;;;;;x
-LESS_AMOUNT_OF_SHIPS;Less amount of ships than: ï¿½Y$COUNT$ï¿½W \n;;;;;;;x
+TOTAL_AMOUNT_OF_SHIPS;Total amount of ships: §Y$COUNT$§W \n;;;;;;;x
+LESS_AMOUNT_OF_SHIPS;Less amount of ships than: §Y$COUNT$§W \n;;;;;;;x
 ibadi;Ibadi;;;;;;;x
 HAS_RECENTLY_LOST_WAR;Have lost a war in the last five years.;;;;;;;x
 NOT_IN_ELECTION_CAMPAIGN;is NOT in an election campaign.;;;;;;;x
@@ -93,23 +93,23 @@ PEACE_WE_ACCEPT_2;We have accepted a peace offer from;;;;;;;x
 CALCULATED_WARSCORE;Peace offer value: $VAL$;;;;;;;x
 CRISIS_BACK_DOWN_WE_DECLINE_2;We have declined the peace offer from;;;;;;;x
 HAVE_LESS_VASSALS_THAN;Have less vassals than ;;;;;;;x
-BUDGET_ADMIN_EFFICIENCY_DESC2;Our ï¿½Ycountry administrative efficiencyï¿½W determines the effectiveness of social reforms and tariffs. Our total spending also increases the ability to fight organized crime.;;;;;;;x
+BUDGET_ADMIN_EFFICIENCY_DESC2;Our §Ycountry administrative efficiency§W determines the effectiveness of social reforms and tariffs. Our total spending also increases the ability to fight organized crime.;;;;;;;x
 ADM_DESC;Spending on administration allows your bureaucrats to run and maintain a healthy bureaucracy, increasing our tariff efficiency and the rate of pop promotion.;;;;;;;x
 NO_POPS_OF_TYPE;There are no pops of this type in our country.;;;;;;;x
 NAT_STOCK_DESC;Costs of trade to fill our national stockpile. Includes spending with construction, naval supplies, land units supplies and overseas maintenance.;;;;;;;x
 IND_SUP_DESC;Costs of government subsidizing of factories. National cash reserves will be used to help factories buy goods needed and pay worker salaries.;;;;;;;x
 DIST_DEFENCE;Military Spending;;;;;;;x
 DEFENCE_DESC;The military spending goes towards paying your soldiers and officers.;;;;;;;x
-SOCIAL_DESC2;The social spending budget goes towards funding your enacted social reforms. The amount of money to distribute depends on your ï¿½Ycountry administrative efficiencyï¿½W.;;;;;;;x
+SOCIAL_DESC2;The social spending budget goes towards funding your enacted social reforms. The amount of money to distribute depends on your §Ycountry administrative efficiency§W.;;;;;;;x
 TAX_MIDDLE_DESC;This controls how much of the middle strata's income will be collected as tax. Too heavy taxation will leave them less money to spend on their own needs or businesses.;;;;;;;x
 TARIFFS_DESC;Tariffs impose an extra cost on imported goods, with the proceeds going to the national treasury. Negative tariffs can be used to help subsidize imports for anyone in your nation.;;;;;;;x
 precious_metal_desc;Gold, silver, diamonds, pearls and other precious goods are not sold as normal goods but are directly converted to money.;;;;;;;x
 GOLD;Precious Goods;;;;;;;x
 BUDGET_GOLD_INCOME_DESC;Income from precious goods.;;;;;;;x
-BUDGET_GOLD;Precious Goods: ï¿½Y$VAL$ï¿½W;;;;;;;x
+BUDGET_GOLD;Precious Goods: §Y$VAL$§W;;;;;;;x
 EDU_DESC;The education budget is used to pay the intellectuals and influence literacy.;;;;;;;x
 MIL_COST_DESC;Supply costs for your military, Army and Navy, not including construction costs, salaries or overseas maintenance of provinces.;;;;;;;x
-STOCKPILE_COST_ESTIMATED;The National Stockpile consists of the expenses with the Army, Navy, construction budget and the maintenance of overseas provinces.\nWe ï¿½Yestimateï¿½! tomorrow's stockpile purchases will cost:;;;;;;;x
+STOCKPILE_COST_ESTIMATED;The National Stockpile consists of the expenses with the Army, Navy, construction budget and the maintenance of overseas provinces.\nWe §Yestimate§! tomorrow's stockpile purchases will cost:;;;;;;;x
 BUDGET_OVERSEAS;Overseas Maintenance;;;;;;;x
 BUDGET_CONSUMED_OVERSEAS;Overseas Maintenance expenses are calculated with the National Stockpile and can't be lowered.\nEstimated cost of last day's overseas goods consumption:;;;;;;;x
 BUDGET_CONSUMED_MILITARY;Estimated cost of last day's military goods consumption:;;;;;;;x
@@ -120,7 +120,7 @@ SATELLITE_OF_NOCOLOR;Satellite of;;;;;;;x
 SUBSTATE_OF_NOCOLOR;Substate of;;;;;;;x
 HAVE_MORE_NATIONAL_PROVINCES_OCCUPIED_THAN;The percentage of occupied national provinces is greater than: ;;;;;;;x
 HAVE_LESS_NATIONAL_PROVINCES_OCCUPIED_THAN;The percentage of occupied national provinces is less than: ;;;;;;;x
-NEED_POSITIVE_WARSCORE;The war is not going well enough. ï¿½RIn wars were you are not the war leader, contribution is calculated individually. Even though the total warscore might be positive, what allows you to add or not war goals is your individual warscore - your individual contribution - in this war.ï¿½W;;;;;;;x
+NEED_POSITIVE_WARSCORE;The war is not going well enough. §RIn wars were you are not the war leader, contribution is calculated individually. Even though the total warscore might be positive, what allows you to add or not war goals is your individual warscore - your individual contribution - in this war.§W;;;;;;;x
 WARGOAL_LACK_JINGO;We require $REQUIRED$ support for jingoism in our country, but have only $VALUE$. Jingoism represents the Ruler or the Upper House will to extend the war. The higher the jingoism, the more the chances that the necessary actors have the will and/or support to extend the war.;;;;;;;x 
 admin_spen;AI Administration Spending;;;;;;;x
 educational_spen;AI Educational Spending;;;;;;;x
@@ -160,10 +160,10 @@ control_3_desc;Obsolescence is the state of being which occurs when an object, s
 control_4;Obsolete Steam Turbines;;;;;;;x
 control_4_desc;Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order. It occurs that Steam Turbines have become rather obsolete and lost some of their advantages.;;;;;;;x
 acceptable_subsidies_l;Extended Subsidies;;;;;;;x
-MONEY_IS_ATLEAST_TRIGGER;Money is at least ï¿½Y$VALUE$ï¿½Wï¿½.\n;;;;;;;x
-EFFECT_BUILD_IN_CAPITAL_DESC;ï¿½Y$BLD$ï¿½! construction will take place in: ï¿½Y$PROVS$ï¿½!\n;;;;;;;x
-ADD_WARGOAL_PRESTIGE;If we achieve this war goal, we will gain $COST$ ï¿½Yprestigeï¿½W;;;;;;;x
-ADD_WARGOAL_MILITANCY;If we fail to achieve this war goal, our entire population will gain $MILITANCY$ ï¿½YMilitancyï¿½W;;;;;;;x
+MONEY_IS_ATLEAST_TRIGGER;Money is at least §Y$VALUE$§W§.\n;;;;;;;x
+EFFECT_BUILD_IN_CAPITAL_DESC;§Y$BLD$§! construction will take place in: §Y$PROVS$§!\n;;;;;;;x
+ADD_WARGOAL_PRESTIGE;If we achieve this war goal, we will gain $COST$ §Yprestige§W;;;;;;;x
+ADD_WARGOAL_MILITANCY;If we fail to achieve this war goal, our entire population will gain $MILITANCY$ §YMilitancy§W;;;;;;;x
 ADD_WARGOAL_EFFECT;When we add this war goal, we will gain:;;;;;;;x
 ADD_WARGOAL_SUCCESS;If we achieve this war goal, we will gain:;;;;;;;x
 ADD_WARGOAL_FAILURE;If we fail to achieve this war goal, we will gain:;;;;;;;x
@@ -227,12 +227,12 @@ NOT_IN_SOCIAL_MOVEMENT;not in social movement\n;;;;;;;x
 IN_POLITICAL_MOVEMENT;in political movement\n;;;;;;;x
 NOT_IN_POLITICAL_MOVEMENT;not in political movement\n;;;;;;;x	
 NEUTRALITY_EFFECT;The nation becomes neutral, dissolving all alliances and setting all satellites free.;;;;;;;x
-INFLUENCE_CHANGE;ï¿½Y$ACTIVE$ï¿½W influence with ï¿½Y$PASSIVE$ï¿½W changes by $MUCH$.\n;;;;;;;x
+INFLUENCE_CHANGE;§Y$ACTIVE$§W influence with §Y$PASSIVE$§W changes by $MUCH$.\n;;;;;;;x
 THE_CAPITAL_IS_NOT;The Capital Is Not ;;;;;;;x
 ENDGAME_DESC;One hundred momentous years have passed and we have entered the modern age. The world is a radically different place, how did your country do?;;;;;;;x
 DIPLOMACY_FILTER_NORTH_AMERICA;North America;;;;;;;x
 DIPLOMACY_FILTER_OCEANIA;Near East;;;;;;;x
-DIPLOMACY_FILTER_OCEANIA_TOOLTIP;List ï¿½YNear Easternï¿½W countries;;;;;;;x
+DIPLOMACY_FILTER_OCEANIA_TOOLTIP;List §YNear Eastern§W countries;;;;;;;x
 north_america;North America;;;;;;;x
 oceania;Near East;;;;;;;x
 siberian;Siberian Minor;;;;;;;x
@@ -260,7 +260,7 @@ public_illumination;Public Illumination;;;;;;;x
 IS_NOT_IN_A_SPHERE;Not in a sphere of influence.;;;;;;;x
 NATIONALIZE_INDUSTRY_EFFECT;Perform Nationalization\n;;;;;;;x
 2nd_caucasian_war;Second Caucasian War;;;;;;;x
-RELEASE;Release ï¿½Y$WHO$ï¿½W as an independent state.\n;;;;;;;x
+RELEASE;Release §Y$WHO$§W as an independent state.\n;;;;;;;x
 modern_central_bank_system_invented;Modern Central Banking System Invented;;;;;;;x
 PEACE_WE_ACCEPT_2;We have accepted a peace offer from;;;;;;;x
 administrative_efficiency_modifier;Administrative Efficiency;;;;;;;x
@@ -285,8 +285,8 @@ house_of_saud_exiled;House of Saud Exiled;;;;;;;x
 early_electrical_telegraph;Early Electrical Telegraph;;;;;;;x
 early_electrical_telegraph_desc;The first commercial electrical telegraph was co-developed by Sir William Fothergill Cooke and Charles Wheatstone. This was a five-needle, six-wire system. The cables were originally installed underground in a steel conduit. However, the cables soon began to fail as a result of deteriorating insulation and were replaced with uninsulated wires on poles. As an interim measure, a two-needle system was used with three of the remaining working underground wires, which despite using only two needles had a greater number of codes.;;;;;;;x
 telegraph;Telegraph;;;;;;;x
-REMOVE_MONEY_EFFECT;Lose ï¿½R$VALUE$ï¿½ï¿½W.\n;;;;;;;x
-MONEY_EFFECT;Funds ï¿½R$VALUE$ï¿½Wï¿½ï¿½W.\n;;;;;;;x
+REMOVE_MONEY_EFFECT;Lose §R$VALUE$§§W.\n;;;;;;;x
+MONEY_EFFECT;Funds §R$VALUE$§W§§W.\n;;;;;;;x
 theocracy_ruler;Your Holiness;;;;;;;x
 proletarian_dictatorship_ruler;Chairman;;;;;;;x
 presidential_dictatorship_ruler;President;;;;;;;x
@@ -342,9 +342,9 @@ BUDGET_TAX_RICH;Taxes (Upper Class);;;;;;;x
 BUDGET_TAX_MIDDLE;Taxes (Middle Class);;;;;;;x
 BUDGET_TAX_POOR;Taxes (Lower Class);;;;;;;x
 NATIONAL_BANK;National Bank;;;;;;;x
-immigration_focus_desc;Migrants ï¿½Y$VAL$ï¿½W% more likely to choose this state. This focus makes immigrants more likely to settle in this state, it doesn't make more likely for them to choose our country.;;;;;;;x
+immigration_focus_desc;Migrants §Y$VAL$§W% more likely to choose this state. This focus makes immigrants more likely to settle in this state, it doesn't make more likely for them to choose our country.;;;;;;;x
 emigration_focus;Encourage Emigration;;;;;;;x
-emigration_focus_desc;Pops will be ï¿½Y$VAL$ï¿½W% more likely to leave this region.;;;;;;;x
+emigration_focus_desc;Pops will be §Y$VAL$§W% more likely to leave this region.;;;;;;;x
 not_AI;Not AI;;;;;;;x
 harassment_l;Harassed Parties;;;;;;;x
 land_reform;Land Reform;;;;;;;x
@@ -625,7 +625,7 @@ movement_child_labor_illegal;Child Labor Abolition League;;;;;;;x
 debt_law;Debt Law;;;;;;;x
 serfdom;Serfdom;;;;;;;x
 serfdom_l;Serfdom;;;;;;;x
-serfdom_desc;Serfs are bound to the land and subject to the will of its owner and forced to work the fields under a feudal system.\nï¿½RThis reform affects POP promotion chance - promotion will be slower.ï¿½W\nï¿½YThis reform enables Serfs - poor POPs will demote to Serfs and won't come out of Serfdom until it's abolished.ï¿½W;;;;;;;x
+serfdom_desc;Serfs are bound to the land and subject to the will of its owner and forced to work the fields under a feudal system.\n§RThis reform affects POP promotion chance - promotion will be slower.§W\n§YThis reform enables Serfs - poor POPs will demote to Serfs and won't come out of Serfdom until it's abolished.§W;;;;;;;x
 movement_serfdom;Pro Serfdom League;;;;;;;x
 peonage;Peonage;;;;;;;x
 peonage_l;Peonage;;;;;;;x
@@ -633,7 +633,7 @@ peonage_desc;Peonage is a debt system under which the debtor is forced to work o
 movement_peonage;Campaign for the Abolition of Serfdom;;;;;;;x
 debtors_prisons;Debtor's Prisons;;;;;;;x
 debtors_prisons_l;Debtor's Prisons;;;;;;;x
-debtors_prisons_desc;Debtors are confined to jail until such time as their debt is resolved.\nï¿½YThis reform is neutral - no effects.ï¿½W;;;;;;;x
+debtors_prisons_desc;Debtors are confined to jail until such time as their debt is resolved.\n§YThis reform is neutral - no effects.§W;;;;;;;x
 movement_debtors_prisons;Abolition of Peonage Movement;;;;;;;x
 bankruptcy;Bankruptcy;;;;;;;x
 bankruptcy_l;Bankruptcy;;;;;;;x
@@ -647,11 +647,11 @@ penal_system;Penal System;;;;;;;x
 penal_system_l;Penal System;;;;;;;x
 colonial_transportation;Transportation;;;;;;;x
 colonial_transportation_l;Transportation;;;;;;;x
-colonial_transportation_desc;Prisoners are sent to either far away or inhospitable places in the mother-country or to its colonies. This, however, increases the load on the bureaucracy.\nï¿½YThis reform will increase colonial migration but it will also increase the necessity of bureaucrats.ï¿½W;;;;;;;x
+colonial_transportation_desc;Prisoners are sent to either far away or inhospitable places in the mother-country or to its colonies. This, however, increases the load on the bureaucracy.\n§YThis reform will increase colonial migration but it will also increase the necessity of bureaucrats.§W;;;;;;;x
 movement_colonial_transportation;Campaign for the Abolition of Capital Punishment;;;;;;;x
 incarceration;Incarceration;;;;;;;x
 incarceration_l;Incarceration;;;;;;;x
-incarceration_desc;Convicts are imprisoned with the intent of removing undesirables from society, though they aren't used for hard manual labor most of the times.\nï¿½YThis reform is neutral - no effects.ï¿½W;;;;;;;x
+incarceration_desc;Convicts are imprisoned with the intent of removing undesirables from society, though they aren't used for hard manual labor most of the times.\n§YThis reform is neutral - no effects.§W;;;;;;;x
 movement_incarceration;Movement for the Abolition of Penal Colonies;;;;;;;x
 rehabilitation;Rehabilitation;;;;;;;x
 rehabilitation_l;Rehabilitation;;;;;;;x

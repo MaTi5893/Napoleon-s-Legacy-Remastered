@@ -37,10 +37,14 @@ leader = {
 
 leader = { 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	name = "Izydor Krasiaski"
 =======
 	name = "Izydor Krasinski"
 >>>>>>> 00811745c67a9bd415d177e340c4922dd6c6c0cd
+=======
+	name = "Izydor Krasinski"
+>>>>>>> 924ca465a526a0b1d1282c6724c5475c0cd416a5
 	type = land
 	date = 1836.1.1
 	personality = defence_.1

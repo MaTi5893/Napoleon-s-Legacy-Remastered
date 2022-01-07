@@ -186,7 +186,6 @@ country_event = {
 	
 	trigger = {
 		year = 1874
-		has_country_flag = custers_expedition_sent
 	}
 	
 	mean_time_to_happen = {

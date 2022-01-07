@@ -1,0 +1,655 @@
+country_event = {		#Original by Eidur(?)
+	id = 999001
+	title = "Nice reforms, bro."
+	desc = "This event is for making sure that you keep all your techs after you westernize. This event doesn't instantly trigger after a reform, so make sure it triggers before you westernize."
+	picture = "Unite"
+	allow_multiple_instances = yes
+	trigger = { 
+	civilized = no
+	OR = { 			#Event-stacking https://forum.paradoxplaza.com/forum/threads/if-emulation-bringing-the-if-scope-to-pre-eu4-paradox-game-code.1478104/
+	AND = { 	
+		foreign_training = yes_foreign_training
+		NOT = { has_country_flag = foreign_tactics_flag }
+	}
+	AND = { 
+		foreign_training = foreign_training_two
+		NOT = { has_country_flag = foreign_tactics2_flag }
+	}
+	AND = { 
+		foreign_weapons = yes_foreign_weapons
+		NOT = { has_country_flag = foreign_weapons_flag }
+	}
+	AND = { 
+		foreign_weapons = foreign_weapons_two
+		NOT = { has_country_flag = foreign_weapons2_flag }
+	}
+	AND = { 
+		military_constructions = yes_military_constructions
+		NOT = { has_country_flag = mil_con_flag }
+	}
+	AND = { 
+		military_constructions = military_constructions_two
+		NOT = { has_country_flag = mil_con2_flag }
+	}
+	AND = { 
+		foreign_officers = yes_foreign_officers
+		NOT = { has_country_flag = fo_flag }
+	}
+	AND = { 
+		foreign_officers = foreign_officers_two
+		NOT = { has_country_flag = fo2_flag }
+	}
+	AND = {
+		army_schools = yes_army_schools
+		NOT = { has_country_flag = at_flag }
+	}
+	AND = { 
+		army_schools = army_schools_two
+		NOT = { has_country_flag = at2_flag }
+	}
+	AND = { 
+		foreign_naval_officers = yes_foreign_naval_officers
+		NOT = { has_country_flag = no_flag }
+	}
+	AND = { 
+		foreign_naval_officers = foreign_naval_officers_two
+		NOT = { has_country_flag = no2_flag }
+	}
+	AND = { 
+		foreign_navies = yes_foreign_navies
+		NOT = { has_country_flag = nu_flag }
+	}
+	AND = { 
+		foreign_navies = foreign_navies_two
+		NOT = { has_country_flag = nu2_flag }
+	}
+	AND = { 
+		naval_schools = naval_schools_two
+		NOT = { has_country_flag = nsch_flag }
+	}
+	AND = { 
+		land_reform = yes_land_reform
+		NOT = { has_country_flag = landr_flag }
+	}
+	AND = { 
+		land_reform = land_reform_two
+		NOT = { has_country_flag = landr2_flag }
+	}
+	AND = { 
+		admin_reform = yes_admin_reform
+		NOT = { has_country_flag = adm_flag }
+	}
+	AND = { 
+		admin_reform = admin_reform_two
+		NOT = { has_country_flag = adm2_flag }
+	}
+	AND = { 
+		finance_reform = yes_finance_reform
+		NOT = { has_country_flag = fref_flag }
+	}
+	AND = { 
+		finance_reform = finance_reform_two
+		NOT = { has_country_flag = fref2_flag }
+	}
+	AND = { 
+		education_reform = yes_education_reform
+		NOT = { has_country_flag = edu_flag }
+	}
+	AND = { 
+		education_reform = education_reform_two
+		NOT = { has_country_flag = edu2_flag }
+	}
+	AND = { 
+		transport_improv = yes_transport_improv
+		NOT = { has_country_flag = tran_flag }
+	}
+	AND = { 
+		transport_improv = transport_improv_two
+		NOT = { has_country_flag = tran2_flag }
+	}
+	AND = { 
+		pre_indust = yes_pre_indust
+		NOT = { has_country_flag = earlyid_flag }
+	}
+	AND = { 
+		pre_indust = yes_industrial_construction
+		NOT = { has_country_flag = earlyid2_flag }
+	}
+	AND = { 
+		industrial_construction = yes_western_science
+		NOT = { has_country_flag = indc_flag }
+	}
+	AND = { 
+		industrial_construction = western_science_two
+		NOT = { has_country_flag = indc2_flag }
+	}	
+	}
+	} 
+	option = {
+		name = "Ok" 
+		LCT = {
+			any_country = { 
+				limit = { 
+					tag = THIS
+					foreign_training = yes_foreign_training
+					NOT = { has_country_flag = foreign_tactics_flag } 
+				} 
+			set_country_flag = foreign_tactics_flag
+			} 
+			any_country = { 
+				limit = { 
+					tag = THIS
+					foreign_training = foreign_training_two
+					NOT = { has_country_flag = foreign_tactics2_flag }
+				} 
+			set_country_flag = foreign_tactics2_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS					
+					foreign_weapons = yes_foreign_weapons
+					NOT = { has_country_flag = foreign_weapons_flag }
+				} 
+			set_country_flag = foreign_weapons_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					foreign_weapons = foreign_weapons_two
+					NOT = { has_country_flag = foreign_weapons2_flag }
+				} 
+			set_country_flag = foreign_weapons2_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					military_constructions = yes_military_constructions
+					NOT = { has_country_flag = mil_con_flag }
+				} 
+			set_country_flag = mil_con_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					military_constructions = military_constructions_two
+					NOT = { has_country_flag = mil_con2_flag }
+				} 
+			set_country_flag = mil_con2_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					foreign_officers = yes_foreign_officers
+					NOT = { has_country_flag = fo_flag }
+				} 
+			set_country_flag = fo_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					foreign_officers = foreign_officers_two
+					NOT = { has_country_flag = fo2_flag }
+				} 
+			set_country_flag = fo2_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					army_schools = yes_army_schools
+					NOT = { has_country_flag = at_flag }
+				} 
+			set_country_flag = at_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					army_schools = army_schools_two
+					NOT = { has_country_flag = at2_flag }
+				} 
+			set_country_flag = at2_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					foreign_naval_officers = yes_foreign_naval_officers
+					NOT = { has_country_flag = no_flag }
+				} 
+			set_country_flag = no_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					foreign_naval_officers = foreign_naval_officers_two
+					NOT = { has_country_flag = no2_flag }
+				} 
+			set_country_flag = no2_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					foreign_navies = yes_foreign_navies
+					NOT = { has_country_flag = nu_flag }
+				} 
+			set_country_flag = nu_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					foreign_navies = yes_foreign_navies
+					NOT = { has_country_flag = nu_flag }
+				} 
+			set_country_flag = nu_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					foreign_navies = foreign_navies_two
+					NOT = { has_country_flag = nu2_flag }
+				} 
+			set_country_flag = nu2_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS
+			
+					naval_schools = naval_schools_two
+					NOT = { has_country_flag = nsch_flag }
+				} 
+			set_country_flag = nsch_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					land_reform = yes_land_reform
+					NOT = { has_country_flag = landr_flag }
+				} 
+			set_country_flag = landr_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					land_reform = land_reform_two
+					NOT = { has_country_flag = landr2_flag }
+				} 
+			set_country_flag = landr2_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS
+			
+					admin_reform = yes_admin_reform
+					NOT = { has_country_flag = adm_flag }
+				} 
+			set_country_flag = adm_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					admin_reform = admin_reform_two
+					NOT = { has_country_flag = adm2_flag }
+				} 
+			set_country_flag = adm2_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS
+			
+					finance_reform = yes_finance_reform
+					NOT = { has_country_flag = fref_flag }
+				} 
+			set_country_flag = fref_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					finance_reform = finance_reform_two
+					NOT = { has_country_flag = fref2_flag }
+				} 
+			set_country_flag = fref2_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					education_reform = yes_education_reform
+					NOT = { has_country_flag = edu_flag }
+				} 
+			set_country_flag = edu_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					education_reform = education_reform_two
+					NOT = { has_country_flag = edu2_flag }
+				} 
+			set_country_flag = edu2_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS		
+					transport_improv = yes_transport_improv
+					NOT = { has_country_flag = tran_flag }
+				} 
+			set_country_flag = tran_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS		
+					transport_improv = transport_improv_two
+					NOT = { has_country_flag = tran2_flag }
+				} 
+			set_country_flag = tran2_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS
+			
+					pre_indust = yes_pre_indust
+					NOT = { has_country_flag = earlyid_flag }
+				} 
+			set_country_flag = earlyid_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					pre_indust = yes_industrial_construction
+					NOT = { has_country_flag = earlyid2_flag }
+				} 
+			set_country_flag = earlyid2_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS			
+					industrial_construction = yes_western_science
+					NOT = { has_country_flag = indc_flag }
+				} 
+			set_country_flag = indc_flag
+			}  
+			any_country = { 
+				limit = { 
+					tag = THIS
+					industrial_construction = western_science_two
+					NOT = { has_country_flag = indc2_flag }
+				} 
+			set_country_flag = indc2_flag
+			}  			 
+	} 
+	}
+}
+
+################################################################################################################
+
+country_event = { 
+	id = 999002
+	allow_multiple_instances = yes 
+	is_triggered_only = yes
+	title = "Post-Westernization Tech Activation"
+	desc = "You'll now get all the techs you got before you westernized."	
+	
+	trigger = { 
+
+	}
+	option = {
+		name = "ok bro"
+		LCT = {
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = foreign_tactics_flag
+				}
+					clear_country_flag = foreign_tactics_flag
+					activate_technology = post_napoleonic_thought
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = foreign_tactics2_flag
+				}
+					clear_country_flag = foreign_tactics2_flag
+					activate_technology = strategic_mobility
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = foreign_weapons_flag
+				}
+					clear_country_flag = foreign_weapons_flag
+					activate_technology = flintlock_rifles
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = foreign_weapons2_flag
+				}
+					clear_country_flag = foreign_weapons2_flag
+					activate_technology = muzzle_loaded_rifles
+				}		
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = mil_con_flag
+				}
+					clear_country_flag = mil_con_flag
+					activate_technology = bronze_muzzle_loaded_artillery
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = mil_con2_flag
+				}
+					clear_country_flag = mil_con2_flag
+					activate_technology = iron_muzzle_loaded_artillery
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = fo_flag
+				}
+					clear_country_flag = fo_flag
+					activate_technology = army_command_principle
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = fo2_flag
+				}
+					clear_country_flag = fo2_flag
+					activate_technology = army_professionalism
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = at_flag
+				}
+					clear_country_flag = at_flag
+					activate_technology = military_staff_system
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = at2_flag
+				}
+					clear_country_flag = at2_flag
+					activate_technology = military_plans
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = no_flag
+				}
+					clear_country_flag = no_flag
+					activate_technology = post_nelsonian_thought
+					activate_technology = alphabetic_flag_signaling
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = no2_flag
+				}
+					clear_country_flag = no2_flag
+					activate_technology = battleship_column_doctrine
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = nu_flag
+				}
+					clear_country_flag = nu_flag
+					activate_technology = naval_design_bureaus
+					activate_technology = clipper_design
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = nu2_flag
+				}
+					clear_country_flag = nu2_flag
+					activate_technology = steamers
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = nsch_flag
+				}
+					clear_country_flag = nsch_flag
+					activate_technology = the_command_principle
+					activate_technology = naval_professionalism
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = landr_flag
+				}
+					clear_country_flag = landr_flag
+					activate_technology = mechanized_mining
+					activate_technology = water_wheel_power
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = landr2_flag
+				}
+					clear_country_flag = landr2_flag
+					activate_technology = freedom_of_trade
+					activate_technology = practical_steam_engine
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = adm_flag
+				}
+					clear_country_flag = adm_flag
+					activate_technology = no_standard
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = adm2_flag
+				}
+					clear_country_flag = adm2_flag
+					activate_technology =ad_hoc_money_bill_printing
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = fref_flag
+				}
+					clear_country_flag = fref_flag
+					activate_technology = private_banks
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = fref2_flag
+				}
+					clear_country_flag = fref2_flag
+					activate_technology = stock_exchange
+					activate_technology = early_classical_theory_and_critique
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = edu_flag
+				}
+					clear_country_flag = edu_flag
+					activate_technology = malthusian_thought
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = edu2_flag
+				}
+					clear_country_flag = edu2_flag
+					activate_technology = positivism
+					activate_technology = enlightenment_thought
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = tran_flag
+				}
+					clear_country_flag = tran_flag
+					activate_technology = experimental_railroad
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = tran2_flag
+				}
+					clear_country_flag = tran2_flag
+					activate_technology = early_railroad
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = earlyid_flag
+				}
+					clear_country_flag = earlyid_flag
+					activate_technology = guild_based_production
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = earlyid2_flag
+				}
+					clear_country_flag = earlyid2_flag
+					activate_technology = organized_factories
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = indc_flag
+				}
+					clear_country_flag = indc_flag
+					activate_technology = late_enlightenment_philosophy
+					activate_technology = basic_chemistry
+				}
+			any_country = { 
+				limit = { 
+					tag = THIS 
+					has_country_flag = indc2_flag
+				}
+					clear_country_flag = indc2_flag
+					activate_technology = medicine
+				}
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

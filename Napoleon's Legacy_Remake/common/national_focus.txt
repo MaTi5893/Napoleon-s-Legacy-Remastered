@@ -26,25 +26,6 @@ immigration_focus =
 	}
 }
 
-diplomatic_focus =
-{
-	increase_tension =
-	{
-		icon = 4
-		has_flashpoint = yes
-		own_provinces = no
-
-		flashpoint_tension = 0.2
-
-		limit = {
-			is_core = THIS
-			THIS = {
-				is_greater_power = no
-			}
-		}
-	}
-}
-
 promotion_focus =
 {
 	promote_aristocrats =
