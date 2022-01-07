@@ -1,22 +1,4 @@
-CPL_ADJ;Polish;Polish;Polish;;;;;;;x
-CPL;Congress Poland;Congress Poland;Congress Poland;;;;;;;x
-CPL_proletarian_dictatorship;Poland;Poland;Poland;;;;;;;x
-CPL_presidential_dictatorship;Poland;Poland;Poland;;;;;;;x
-CPL_bourgeois_dictatorship;Poland;Poland;Poland;;;;;;;x
-CPL_fascist_dictatorship;Poland;Poland;Poland;;;;;;;x
-CPL_absolute_monarchy;Duchy of Warsaw;Duchy of Warsaw;Duchy of Warsaw;;;;;;;x
-CPL_prussian_constitutionalism;Duchy of Warsaw;Duchy of Warsaw;Duchy of Warsaw;;;;;;;x
-CPL_hms_government;Duchy of Warsaw;Duchy of Warsaw;Duchy of Warsaw;;;;;;;x
-CPL_democracy;Poland;Poland;Poland;;;;;;;x
-CPL_conservative_92;Conservatives;Conservatives;Conservatives;;;;;;;x
-CPL_liberal_79;Liberals;Liberals;Liberals;;;;;;;x
-CPL_liberal_87;National Liberals;National Liberals;National Liberals;;;;;;;x
-CPL_socialist_85;Socialists;Socialists;Socialists;;;;;;;x
-CPL_socialist_99;National Socialists;National Socialists;National Socialists;;;;;;;x
-CPL_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;;;;;;x
-CPL_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;x
-CPL_communist_86;Communists;Communists;Communists;;;;;;;x
-CPL_fascist_72;Fascists;Fascists;Fascists;;;;;;;x
+key;Chungus;;;;;;;x
 GBR_ADJ;British;British;British;;;;;;;x
 GBR;Great Britain;Great Britain;Great Britain;;;;;;;x
 GBR_proletarian_dictatorship;British Commonwealth;British Commonwealth;British Commonwealth;;;;;;;x
@@ -217,3 +199,5 @@ SPC_hms_government;Hispanic Commonwealth;;;;;;;x
 SPC_ADJ;Hispanic;;;;;;;x
 USG;The United States of Greater Austria;;;;;;;x
 USG_ADJ;Danubian;;;;;;;x
+BUR_absolute_monarchy;The Konbaung Dynasty;;;;;;;x
+BUR_prussian_constitutionalism;The Konbaung Dynasty;;;;;;;x

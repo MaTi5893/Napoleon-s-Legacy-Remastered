@@ -47,7 +47,7 @@ political_decisions = {
         effect = {
             860 = { change_province_name = "Constantinople" }
 			828 = { change_province_name = "Adrianople" }
-			858 = { change_province_name = "Saranta Ekklisi�s" }
+			858 = { change_province_name = "Saranta Ekklisies" }
 			861 = { change_province_name = "Skoutarion" }
             prestige = 20
             badboy = -10

@@ -1,6 +1,7 @@
 political_decisions = {
 
 	craftsmen_fix = {
+		picture = craftsmen
 		alert = no
 		potential = {
 			ai = no

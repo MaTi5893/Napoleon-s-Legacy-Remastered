@@ -1,4 +1,7 @@
-color = { 0 0 102 }		#non-absolute monarchies
+#color = { 0 0 102 }		#non-absolute monarchies
+#color = { 13 42 86 }		#napoleonic blue?
+color = { 23 42 85 }		#navy blue or something
+#color = { 45  45  97 }		#GFM Argentine Confederation
 absolute_monarchy = { 0 0 128 }	#navy
 presidential_dictatorship = { 17 30 108 } #royal
 #democracy = { 114 133 165 }	#pigeon

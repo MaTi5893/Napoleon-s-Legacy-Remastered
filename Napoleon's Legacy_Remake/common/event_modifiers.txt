@@ -1158,4 +1158,12 @@ north_italy = {
 	culture_tech_research_bonus = 0.05
 	prestige = 0.1
 	education_efficiency_modifier = 0.1
+<<<<<<< HEAD
 }
+=======
+}
+
+core_when_done = {
+	icon = 17
+}
+>>>>>>> 00811745c67a9bd415d177e340c4922dd6c6c0cd

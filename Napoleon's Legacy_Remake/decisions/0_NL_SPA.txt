@@ -81,7 +81,7 @@ political_decisions = {
 			is_greater_power = yes
 			nationalism_n_imperialism=1
 			war=no
-			any_core = {  
+			all_core = {  
 				OR = { 
 					owned_by = THIS 
 					NOT = { is_core = ITA }
@@ -119,11 +119,7 @@ political_decisions = {
 	form_iberia = {
 		picture = iberia
 		potential = {
-			OR = { 
-				tag = SPA 
-				tag = UPB 
-				tag = POR 
-			}
+			tag = SPA 
 			NOT = { has_country_flag = domination_of_western_mediterranean_see }
 		}
 		allow = {

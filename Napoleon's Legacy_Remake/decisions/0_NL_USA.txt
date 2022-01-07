@@ -1,5 +1,6 @@
 political_decisions = { 
 	reclaim_louisiana = {
+		picture = louisiana
 		potential = { 
 			tag = USA 
 			NOT = { has_country_flag = USAlouisiana }
@@ -31,7 +32,7 @@ political_decisions = {
 		}
 		allow = { 
 			war_policy = jingoism 
-			all_core = { owned_by = THIS }
+			all_core = { OR = { owned_by = THIS empty = yes} }
 			OR = { 	
 				NOT = { 
 					relation = { 
@@ -50,7 +51,7 @@ political_decisions = {
 		effect = { 
 			CAN = { all_core = { add_core = USA } }
 			add_accepted_culture = anglo_canadian
-			badboy = 15
+			badboy = 10
 			prestige = 20 
 		}
 	}

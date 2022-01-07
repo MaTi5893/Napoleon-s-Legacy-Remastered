@@ -49,9 +49,9 @@ desc_country_distribution_channels;Establishment of complex distribution channel
 country_machine_tools;Mechanized Production;;;;;;;x
 desc_country_machine_tools;Mechanized production has arrived in this country, which facilitates an increase in raw resource production and industrial throughput.;;;;;;;x
 equatoria_expedition_ARA_title;Launch Equatoria Expedition;;;;;;;x
-equatoria_expedition_ARA_desc;The Khedive of Egypt, Isma'il I commissioned an expedition to explore the Equatoria region south of the Sudan, and to organize a new Egyptian province there. A British explorer and engineer named Samuel White Baker who had led an expedition down the Nile in 1865 was contracted by the Khedive to lead the Egyptian forces and to be the first Governor-General of the new territory..;;;;;;;x
+equatoria_expedition_ARA_desc;The Khedive of Egypt, Ismail I commissioned an expedition to explore the Equatoria region south of the Sudan, and to organize a new Egyptian province there. A British explorer and engineer named Samuel White Baker who had led an expedition down the Nile in 1865 was contracted by the Khedive to lead the Egyptian forces and to be the first Governor-General of the new territory..;;;;;;;x
 conquest_of_darfur_ARA_title;Begin Conquest of Darfur;;;;;;;x
-conquest_of_darfur_ARA_desc;An expansionist Khedive, Isma'il I moved to incorporate the territory of Darfur into the Egyptian Sudan in 1874.;;;;;;;x
+conquest_of_darfur_ARA_desc;An expansionist Khedive, Ismail I moved to incorporate the territory of Darfur into the Egyptian Sudan in 1874.;;;;;;;x
 craftsmen_fix_cooldown;Craftsmen Fix Cooldown;;;;;;;x
 craftsmen_fix_cooldown_desc;Craftsmen Fix Cooldown is 10 years.;;;;;;;x
 bureaucrats_fix_cooldown;Non-Accepted Bureaucrats Fix Cooldown;;;;;;;x
@@ -62,7 +62,7 @@ EVT2600OPTA;Integrate Them.;;;;;;;x
 EVT2600OPTB;Reject Them.;;;;;;;x
 EVT2605OPTA;Hurrah!;;;;;;;x
 craftsmen_fix_title;Craftsmen Salvage Decision (10 year cooldown);;;;;;;x
-craftsmen_fix_desc;This decision is intended to salvage your country after it has been craftsmen hijacked. It will revert all non-core/non-accepted craftsmen on your cores to artisans so that your core craftsmen will start working. (Think South Germans in Venetia hijacking.) BECAREFUL OF USE.;;;;;;;x
+craftsmen_fix_desc;This decision is intended to salvage your country after it has been craftsmen hijacked. It will revert all non-core/non-accepted craftsmen on your cores to artisans so that your core craftsmen will start working. (Think South Germans in Venetia hijacking.) BE CAREFUL OF USE.;;;;;;;x
 bureaucrats_fix_title;Non-Accepted Bureaucrats Decision (10 year cooldown);;;;;;;x
 bureaucrats_fix_desc;This decision is intended to convert non-accepted Bureaucrats into Artisans, in both states and colonies, so they stop getting fat off of state admin funding.;;;;;;;x
 france_sphere_jap_title;Ask The French Empire for Support;;;;;;;x
@@ -77,8 +77,6 @@ change_tech_school_off_title;Change Tech School (Showing);;;;;;;x
 change_tech_school_off_desc;Hide Tech School Decisions;;;;;;;x
 player_alliances_title;Ally All Player Nations;;;;;;;x
 player_alliances_desc;Automatically allies all player nations. DO NOT SPAM.;;;;;;;x
-fuck_ai_immigration_title;Fuck AI Immigration;;;;;;;x
-fuck_ai_immigration_desc;This decision removes AI nations from immigration priority entirely. Immigrants will only go to player nations.;;;;;;;x
 assert_on_steppe_title;Assert Ourselves in Central Asia;;;;;;;x
 assert_on_steppe_desc;The Major Powers chaffing at our periphery is inclining us to attempt projecting into the steppe, but who could possibly own such a vast region with land ownership? The real value is the people themselves.;;;;;;;x
 enact_the_homestead_act_mexico_title;The Mexican Homestead Act;;;;;;;x
@@ -143,7 +141,7 @@ turkic;Turkic;;;;;;;x
 #############################################;;;;;;;x
 #Additional Generic Fixes and Additions;;;;;;;x
 #############################################;;;;;;;x
-UNIT_BUILD_TIME_IW;$VAL$ days.;$VAL$ jours.;$VAL$ Tage.;;$VAL$ d僘s.;;;;;;;x
+UNIT_BUILD_TIME_IW;$VAL$ days.;;;;;;;x
 #############################################;;;;;;;x
 #Additional Inventions;;;;;;;x
 #############################################;;;;;;;x

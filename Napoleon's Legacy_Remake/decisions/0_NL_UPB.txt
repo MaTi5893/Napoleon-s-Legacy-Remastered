@@ -46,6 +46,7 @@ political_decisions = {
 		}
 	}
 	form_iberia_UPB = {
+		picture = iberia
 		potential = {
 			OR = { tag = UPB tag = POR } 
 		}

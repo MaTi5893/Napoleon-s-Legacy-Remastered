@@ -17,7 +17,6 @@ IRE_communist;Communist Party of Ireland;;;;;;;x
 IRE_conservative;Irish Conservative Party;;;;;;;x
 AST_fascist;New Guard;;;;;;;x
 SGF_ADJ;South German;;;;;;;x
-alaskan;Alaskan;;;;;;;x
 USA_conservative_2;Bourbon Democrats;;;;;;;x
 USA_conservative_4;Democrats;;;;;;;x
 YUG_fascist;ZBOR;;;;;;;x
@@ -28,27 +27,6 @@ GCO_communist;Partido Communista;;;;;;;x
 GCO_fascist;Partido Fascista;;;;;;;x
 MNP;Manipur;;;;;;;x
 MNP_ADJ;Manipuri;;;;;;;x
-BDK_absolute_monarchy;Kunduz;;;;;;;x
-BDK;Badakhshan;;;;;;;x
-BDK_ADJ;Badakhshani;;;;;;;x
-guajiro;Wayuu;;;;;;;x
-lendu;Lendu;;;;;;;x
-ruanda;Banyarwanda;;;;;;;x
-kingwana;Kingwana;;;;;;;x
-chokwe;Chokwe;;;;;;;x
-CNG;The Congo;;;;;;;x
-CNG_absolute_monarchy;The Congo Free State;;;;;;;x
-CNG_prussian_constitutionalism;The Congo Free State;;;;;;;x
-CNG_hms_government;The Congo Free State;;;;;;;x
-CNG_presidential_dictatorship;Zaire;;;;;;;x
-CNG_democracy;Republic of the Congo;;;;;;;x
-CNG_liberal_2;Alliance of Bakongo;;;;;;;x
-CNG_conservative_2;Congolese National Movement;;;;;;;x
-CNG_socialist;African Solidarity Party;;;;;;;x
-CNG_reactionary_2;Popular Movement of the Revolution;;;;;;;x
-CNG_anarcho_liberal;Common Front;;;;;;;x
-CNG_communist;Congolese National Union;;;;;;;x
-CNG_fascist;Party of National Unity;;;;;;;x
 GEO_conservative;Demokratiuli Modzraoba;;;;;;;x
 GEO_liberal;Sakartvelos Respublikuri;;;;;;;x
 GEO_reactionary;Natsionaluri Modzraoba;;;;;;;x
@@ -83,7 +61,7 @@ CAN_reactionary;Tories;;;;;;;x
 CAN_liberal_1;Red Party;;;;;;;x
 CAN_liberal_2;Liberal Party of Canada;;;;;;;x
 DAI;Vietnam;;;;;;;x
-DAI_communist;Viet Nam Cong san �ang;;;;;;;x
+DAI_communist;Dang Cong san Viet Nam;;;;;;;x
 ENG_communist;Communist Party of Great Britain;;;;;;;x
 FIN_fascist;Isanmaallinen kansanliike;;;;;;;x
 MEX_socialist;Partido Laborista Mexicano;;;;;;;x
@@ -138,13 +116,13 @@ UBD_liberal;Progressive Union;;;;;;;x
 UBD_conservative_2;Union of Landowners and Farmers;;;;;;;x
 UBD_reactionary;Royalist Faction;;;;;;;x
 UBD_conservative;German Landtag;;;;;;;x
-EST_fascist;Vabaduss�jalased;;;;;;;x
+EST_fascist;Vabadussojalased;;;;;;;x
 EST_communist;Eestimaa Kommunistlik Partei;;;;;;;x
 EST_socialist;Eesti Sotsialistlik Tooliste Partei;;;;;;;x
 EST_socialist_2;Eesti Tooerakond;;;;;;;x
 EST_anarcho_liberal;Radikaal-Demokraatlik Erakond;;;;;;;x
 EST_liberal;Asunikkude Partei;;;;;;;x
-EST_conservative;P�llumeeste Kogud;;;;;;;x
+EST_conservative;Pollumeeste Kogud;;;;;;;x
 EST_conservative_2;Kristlik Rahvaerakond;;;;;;;x
 EST_reactionary;Eesti Rojalistlik Partei;;;;;;;x
 EST_reactionary_2;Isamaaliit;;;;;;;x
@@ -156,7 +134,7 @@ LIV_anarcho_liberal;Latvijas Radikaldemokratu Partija;;;;;;;x
 LIV_liberal_2;Blodnieka Partija;;;;;;;x
 LIV_liberal;Demokratiskais Centrs;;;;;;;x
 LIV_conservative_2;Kristigo Zemnieku un Katolu Partija;;;;;;;x
-LIV_conservative;Latvie�u Zemnieku Savieniba;;;;;;;x
+LIV_conservative;Latviesu Zemnieku Savieniba;;;;;;;x
 LIV_reactionary_2;Nacionala Apvieniba;;;;;;;x
 LIV_reactionary;Rojalistu Partija;;;;;;;x
 URU_liberal_2;Colorados;;;;;;;x
@@ -166,12 +144,12 @@ LIT_reactionary;Monarchizmas Frakcija;;;;;;;x
 LIT_reactionary_2;Lietuviu Tautininku Sajunga;;;;;;;x
 LIT_conservative;Lietuvos Darbo Federacija;;;;;;;x
 LIT_conservative_2;LKDP;;;;;;;x
-LIT_anarcho_liberal;Tautos Pa�angos Partija;;;;;;;x
+LIT_anarcho_liberal;Tautos Pazangos Partija;;;;;;;x
 LIT_liberal;Lietuviu Demokratu Partij;;;;;;;x
 LIT_liberal_2;Lietuvos Valstieciu Liaudininku Sajunga;;;;;;;x
 LIT_socialist;LSDP;;;;;;;x
 LIT_communist;Lietuvos Komunistu Partija;;;;;;;x
-LIT_fascist;Lietuvos �auliu Sajunga;;;;;;;x
+LIT_fascist;Lietuvos Sauliu Sajunga;;;;;;;x
 EGY_democracy;The Republic of Egypt;;;;;;;x
 QUE_ADJ;Quebecois;;;;;;;x
 LIB_conservative;Republican Party;;;;;;;x
@@ -273,8 +251,8 @@ HAI_anarcho_liberal;Parti Radical;;;;;;;x
 HAI_socialist;Parti Socialiste;;;;;;;x
 HAI_communist;Parti Communiste Haitien;;;;;;;x
 HAI_fascist;Parti Fasciste;;;;;;;x
-CHK;Champassak;Champassak;Champassak;Champasak;Champasak;Champassak;Champassak;Champassak;;;;;;;x
-CHK_ADJ;Champassaki;champassak;Champassaki;Champasak;Champassak;Champassaki;Champassakijsk�;;;;;;;x
+CHK;Champassak;;;;;;;x
+CHK_ADJ;Champassaki;;;;;;;x
 CHK_conservative;Royal Faction;;;;;;;x
 CHK_liberal;The Liberal Faction;;;;;;;x
 CHK_reactionary;The Nationalist Faction;;;;;;;x
@@ -552,7 +530,7 @@ NEJ_fascist;Al-Hizb al-Fashy;;;;;;;x
 NOR_liberal;Liberals;;;;;;;x
 NOR_liberal_2;Venstre;;;;;;;x
 NOR_conservative;Conservatives;;;;;;;x
-NOR_conservative_2;H�yre;;;;;;;x
+NOR_conservative_2;Hoyre;;;;;;;x
 NOR_conservative_3;Moderate Venstre;;;;;;;x
 NOR_conservative_4;Samlingspartiet;;;;;;;x
 NOR_conservative_5;Frisinnede Venstre;;;;;;;x
@@ -622,22 +600,22 @@ CHI_liberal;Gai Liang Pai;;;;;;;x
 CHI_liberal_2;Xingzhonghui;;;;;;;x
 CHI_liberal_3;Zhongguo Minzhu Tongmeng;;;;;;;x
 CHI_liberal_4;Yang Wu Pai;;;;;;;x
-CHI_reactionary;Kongji�o Yundong;;;;;;;x
-CHI_reactionary_2;J�nb�dang;;;;;;;x
-CHI_anarcho_liberal;Zhongguo Minzhu Ji�nguo Hu�;;;;;;;x
+CHI_reactionary;Kongjiao Yundong;;;;;;;x
+CHI_reactionary_2;Jenbudang;;;;;;;x
+CHI_anarcho_liberal;Zhongguo Minzhu Jianguo Hue;;;;;;;x
 CHI_socialist;Zhongguo Guojia Shehui Dang;;;;;;;x
 CHI_communist;Zhongguo Gongchandang;;;;;;;x
 CHI_fascist;Kai-tsu P'ai;;;;;;;x
-RHI;Rhineland;Rhenanie;Rheinland;;Rhineland;;;;;;;x
-RHI_ADJ;Rhinelander;Rhenan;Rheinlander;;Rhinelander;;;;;;;x
-RHI_liberal;Liberaldem. Partei;Liberaldem. Partei;Liberaldem. Partei;;;;;;;x
-RHI_conservative;Zentrumspartei;Zentrumspartei;Zentrumspartei;;;;;;;x
-RHI_liberal_2;Nationalliberale ;Nationalliberale ;Nationalliberale ;;;;;;;x
-RHI_liberal_3;Freisinnige Partei;Freisinnige Partei;Freisinnige Partei;;;;;;;x
-RHI_socialist;Deutscher Arbeiterverein;Deutscher Arbeiterverein;Deutscher Arbeiterverein;;;;;;;x
-RHI_socialist_2;Sozialdem. Arbeiterpartei ;Sozialdem. Arbeiterpartei ;Sozialdem. Arbeiterpartei ;;;;;;;x
-RHI_socialist_3;Sozial. Arbeiterpartei ;Sozial. Arbeiterpartei ;Sozial. Arbeiterpartei ;;;;;;;x
-RHI_reactionary;Nationale Partei;Nationale Partei;Nationale Partei;;;;;;;x
+RHI;Rhineland;;;;;;;;x
+RHI_ADJ;Rhinelander;;;;;;;x
+RHI_liberal;Liberaldem. Partei;;;;;;;x
+RHI_conservative;Zentrumspartei;;;;;;;;x
+RHI_liberal_2;Nationalliberale;;;;;;;;x
+RHI_liberal_3;Freisinnige Partei;i;;;;;;;x
+RHI_socialist;Deutscher Arbeiterverein;;;;;;;;x
+RHI_socialist_2;Sozialdem. Arbeiterpartei;;;;;;;;x
+RHI_socialist_3;Sozial. Arbeiterpartei;;;;;;;;x
+RHI_reactionary;Nationale Partei;;;;;;;;x
 RHI_conservative_2;Konservative Partei;Konservative Partei;Konservative Partei;;;;;;;x
 RHI_conservative_3;Christsoz. Arbeiterpartei;Christsoz. Arbeiterpartei;Christsoz. Arbeiterpartei;;;;;;;x
 RHI_anarcho_liberal;Radical Arbeiterpartei;Arbeiterpartei radical;Radikale Arbeiterpartei;;;;;;;x
