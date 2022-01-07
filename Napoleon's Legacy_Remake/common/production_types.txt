@@ -732,15 +732,7 @@ ammunition_factory = {
 canned_food_factory = {       
 	template = cheap_military_factory_template
 	input_goods = { 
-<<<<<<< HEAD
-<<<<<<< HEAD
-		wool = 1.8		#1.8
-=======
 		wool = 1.8 		#1.8
->>>>>>> 00811745c67a9bd415d177e340c4922dd6c6c0cd
-=======
-		wool = 1.8 		#1.8
->>>>>>> 924ca465a526a0b1d1282c6724c5475c0cd416a5
 		cattle = 3.5 		#7
 		grain = 3.5 		#7.7
 		fish = 2.5 		#3.75	total input+maint = 24.2

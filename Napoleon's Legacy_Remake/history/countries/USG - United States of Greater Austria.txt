@@ -1,14 +1,6 @@
 capital = 619
 primary_culture = south_german
-<<<<<<< HEAD
-<<<<<<< HEAD
-primary_culture = serb
-=======
 culture = serb
->>>>>>> 00811745c67a9bd415d177e340c4922dd6c6c0cd
-=======
-culture = serb
->>>>>>> 924ca465a526a0b1d1282c6724c5475c0cd416a5
 culture = hungarian
 culture = romanian
 culture = bosniak

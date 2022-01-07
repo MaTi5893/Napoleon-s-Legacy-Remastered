@@ -4,37 +4,37 @@
 1700 = {
 	aristocrats = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 25
 	}
 
 	artisans = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 2000
 	}
 
 	farmers = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 225
 	}
 
@@ -310,37 +310,37 @@
 1704 = {
 	aristocrats = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 50
 	}
 
 	bureaucrats = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 25
 	}
 
 	artisans = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 800
 	}
 
 	soldiers = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 875
 	}
 
 	farmers = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 200
 	}
 
@@ -622,37 +622,37 @@
 1709 = {
 	aristocrats = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 25
 	}
 
 	bureaucrats = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 25
 	}
 
 	artisans = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 600
 	}
 
 	soldiers = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
 		culture = maghrebi
-		religion = masunnighrebi
+		religion = sunni
 		size = 200
 	}
 
