@@ -1,6 +1,7 @@
-owner = URU
-controller = URU
+owner = ARG
+controller = ARG
 add_core = URU
+add_core = ARG
 trade_goods = wool
 life_rating = 35
 

@@ -208,52 +208,6 @@ country_event = {
 	}
 }
 
-country_event = {
-
-	id = 36608
-
-	trigger = {
-		tag = SWE
-		exists = NOR
-		year = 1865
-		NOT = {
-			year = 1875
-			}
-		329 = {
-			has_building = railroad
-		}
-		316 = {
-			has_building = railroad
-		}
-	}
-	
-	fire_only_once = yes
- 
-	mean_time_to_happen =  {
-		months = 5
-
-		modifier = {
-			factor = 0.75 #increase likelihood to happen
-			year = 1867
-		}
-
-
-		modifier = {
-			factor = 0.95 #increase likelihood to happen
-			year = 1870
-		}
-	}
-
-	title = "EVTNAME36608"
-	desc = "EVTDESC36608"
-	picture = "railroad"
-
-	option = {
-		name = "EVTOPTA36607"
-		relation = { who = NOR value = 20 }
-	}
-
-}
 
 country_event = {
 
