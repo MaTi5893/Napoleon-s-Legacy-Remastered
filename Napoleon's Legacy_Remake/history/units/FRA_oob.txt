@@ -44,11 +44,12 @@ DLM = {
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 25
 }
-PAP = {
+NIT = {
 	value = 125		#relation
 	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 25
 }
+
 SIC = {
 	value = 125		#relation
 	level = 3		#3=cordial, 4 = friendly, 5 sphere
@@ -56,7 +57,7 @@ SIC = {
 }
 SWI = {
 	value = 125		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 25
 }
 SAR = {
@@ -205,7 +206,7 @@ leader = {
 
 army = {
 	name = "Garde Royale"
-	location = 738
+	location = 577
 	regiment = {
 		name= "1er Regiment de Cavalerie Royale"
 		type = hussar
@@ -333,7 +334,7 @@ army = {
 }
 
 army = {
-	name = "Armee d'Algerie"
+	name = "Armee d'Italie"
 	location = 722
 	regiment = {
 		name= "1.4eme Division de Cavalerie"
@@ -392,7 +393,7 @@ army = {
 	regiment = {
 		name= "1.1eme  Division d'artillerie"
 		type = artillery
-		home = 1700
+		home = 387
 	}
 }
 

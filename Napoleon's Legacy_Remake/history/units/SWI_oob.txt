@@ -48,7 +48,7 @@ army = {
 }
 army = {
 	name = "Landwehr II"
-	location = 607
+	location = 605
 	regiment = {
 		name= "5. Brigade"
 		type = infantry

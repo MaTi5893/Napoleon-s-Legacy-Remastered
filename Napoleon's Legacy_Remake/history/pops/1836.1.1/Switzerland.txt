@@ -429,7 +429,7 @@
 		size = 100
 	}
 	aristocrats = {
-		culture = french
+		culture = swiss
 		religion = catholic
 		size = 50
 	}
@@ -440,7 +440,7 @@
 		size = 120
 	}
 	clergymen = {
-		culture = french
+		culture = swiss
 		religion = catholic
 		size = 55
 	}
@@ -451,7 +451,7 @@
 		size = 700
 	}
 	artisans = {
-		culture = french
+		culture = swiss
 		religion = catholic
 		size = 400
 	}
@@ -462,7 +462,7 @@
 		size = 600
 	}
 	soldiers = {
-		culture = french
+		culture = swiss
 		religion = catholic
 		size = 500
 	}
@@ -473,7 +473,7 @@
 		size = 10000
 	}
 	farmers = {
-		culture = french
+		culture = swiss
 		religion = catholic
 		size = 5675
 	}

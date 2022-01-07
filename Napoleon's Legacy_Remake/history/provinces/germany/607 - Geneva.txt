@@ -1,5 +1,5 @@
-owner = SWI
-controller = SWI
+owner = FRA
+controller = FRA
 add_core = SWI
 trade_goods = grain
 life_rating = 40

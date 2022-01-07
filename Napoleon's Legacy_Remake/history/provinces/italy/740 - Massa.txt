@@ -1,5 +1,5 @@
-owner = NIT
-controller = NIT
+owner = FRA
+controller = FRA
 add_core = NIT
 add_core = MOD
 add_core = ITA

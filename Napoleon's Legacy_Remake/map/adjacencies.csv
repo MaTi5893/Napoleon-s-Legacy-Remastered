@@ -34,10 +34,10 @@
 #
 254;271;sea;2737;0;Irish Strait
 324;348;sea;2706;0;Aland Strait #Uppsala to Aland #these were in V1
-334;372;sea;2711;0;Öresund
-335;374;sea;2710;0;Bornholmsfärjan
+334;372;sea;2711;0;ï¿½resund
+335;374;sea;2710;0;Bornholmsfï¿½rjan
 348;345;sea;2706;0;Aland Strait #Aland to Turku 
-353;349;sea;2709;0;Öselsund
+353;349;sea;2709;0;ï¿½selsund
 353;358;sea;2709;0;Strait of Riga
 372;373;sea;2711;0;Fyn-Sjaelland
 371;373;sea;2711;0;Fyn-Jylland
@@ -54,6 +54,8 @@
 759;763;sea;2760;0;Strait of Messina
 759;763;sea;2757;0;Strait of Messina
 837;827;sea;2765;0;Ionian Islands Strait
+842;827;sea;2765;0;Ionian Islands-Patras Strait
+837;842;sea;2765;0;Strat of Patras
 966;1049;sea;2776;0;Strait of Azov
 3250;517;sea;2746;0;Strait of Gibraltar
 301;400;sea;2724;0;Calais-Canterbury
@@ -93,6 +95,7 @@
 #1643;1087;sea;2831;0;Sakhalin Strait #removed
 1664;1666;sea;2843;0;Matsuyama Strait
 1667;1659;sea;2843;0;Setto Strait
+1635;1637;sea;2829;0;Kwangju Strait #Kwangju to Cheju
 1661;1637;sea;2829;0;Tsushima Strait #Nagasaki to Cheju
 #Philippines
 1455;1458;sea;2848;0;Isla Verde passages #Manila to Mindoro
@@ -133,6 +136,9 @@
 3252;614;impassable;0;0;Host Nation
 3252;603;impassable;0;0;Host Nation
 3252;611;impassable;0;0;Host Nation
+
+#Caucase
+885;1099;impassable;0;0;scary mountain
 
 #Hengduan Mountains
 1339;1593;impassable;0;0;Haka-Tawang
@@ -178,6 +184,7 @@
 611;612;impassable;0;0;Chur-Innsbruck
 611;614;impassable;0;0;Chur-Bregenz
 609;465;impassable;0;0;Sitten-Annecy
+607;465;impassable;0;0;Geneva-Annecy
 
 #Pyrenees
 

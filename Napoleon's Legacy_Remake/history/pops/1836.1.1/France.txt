@@ -3716,13 +3716,13 @@
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = french
 		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = french
 		religion = catholic
 		size = 1500
 	}
@@ -3740,7 +3740,7 @@
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = french
 		religion = catholic
 		size = 41800
 	}

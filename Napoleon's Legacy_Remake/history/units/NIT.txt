@@ -62,7 +62,7 @@ leader = {
 
 army = {
 	name = "Arma dei Carabinieri"
-	location = 726
+	location = 744
 	regiment = {
 		name= "1.Carabinieri"
 		type = hussar
@@ -114,7 +114,7 @@ army = {
 	regiment = {
 		name= "2.Granatieri di Sardegna"
 		type = artillery
-		home = 740
+		home = 747
 	}
 
 	regiment = {

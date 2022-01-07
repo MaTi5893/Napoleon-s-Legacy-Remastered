@@ -1,5 +1,5 @@
-owner = SYC
-controller = SYC
+owner = NAP
+controller = NAP
 add_core = SYC
 add_core = NAP
 add_core = ITA
