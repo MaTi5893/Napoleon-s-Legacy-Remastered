@@ -204,10 +204,7 @@ political_decisions = {
 		potential = {
 			tag = ETH
 			government = absolute_monarchy
-			NOT = {
-				ETH_1864 = { is_core = ETH } 
-				ITA_1848 = { is_core = ETH }
-			}
+			NOT = { has_country_flag = negusa_nagast }
 		}
 		
 		allow = {
@@ -223,6 +220,7 @@ political_decisions = {
 			}
 			prestige = 2
 			years_of_research = 4
+			set_country_flag = negusa_nagast
 			ETH_1864 = {
 				add_core = ETH
 			}

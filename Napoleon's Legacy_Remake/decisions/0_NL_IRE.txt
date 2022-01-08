@@ -80,13 +80,7 @@ form_celtic_union = {
 			picture = cornwallandmann
 			potential = { 
 				tag = CEL
-				NOT = { 
-					AND = { 
-						is_core = 299
-						is_core = 304
-						is_core = 277
-				}
-			}
+				NOT = { has_country_flag = cornwallandmann }
 		}
 			allow = { 
 				has_unclaimed_cores = no 
@@ -97,6 +91,7 @@ form_celtic_union = {
 				add_core = 299
 				add_core = 304 
 				add_core = 277
+				set_country_flag = cornwallandmann
 				}
 			}
 		
@@ -104,15 +99,7 @@ form_celtic_union = {
 			picture = brittany
 			potential = {
 				tag = CEL
-				NOT = { 
-					AND = {
-						is_core = 420
-						is_core = 421
-						is_core = 423
-						is_core = 424
-						is_core = 422
-					}
-				}	
+				NOT = { has_country_flag = recover_brittany }	
 			}
 			allow = { 
 				revolution_n_counterrevolution = 1
@@ -124,6 +111,7 @@ form_celtic_union = {
 				add_core = 423
 				add_core = 424
 				add_core = 422
+				set_country_flag = recover_brittany
 			}
 	}
 }

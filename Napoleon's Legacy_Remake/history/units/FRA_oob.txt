@@ -136,7 +136,7 @@ leader = {
 	prestige = 0.3
 }
 leader = {
-	name = "Guy-Victor Duperr�"
+	name = "Guy-Victor Duperre"
 	picture = fra_adm_duperre
 	date = 1811.1.1
 	type = sea
@@ -877,12 +877,12 @@ navy = {
 	}
 
 	ship = {
-		name= "Trocadero�"
+		name= "Trocadero"
 		type = manowar
 	}
 
 	ship = {
-		name= "Z�landais"
+		name= "Zelandais"
 		type = manowar
 	}
 
@@ -902,12 +902,12 @@ navy = {
 	}
 
 	ship = {
-		name= "R�publique Fran�aise"
+		name= "Republique Francaise"
 		type = manowar
 	}
 
 	ship = {
-		name= "Conqu�rant"
+		name= "Conquerant"
 		type = manowar
 	}
 
@@ -932,12 +932,12 @@ navy = {
 	}
 
 	ship = {
-		name= "Th�tis"
+		name= "Thetis"
 		type = frigate
 	}
 
 	ship = {
-		name= "Astr�e"
+		name= "Astree"
 		type = frigate
 	}
 
@@ -977,7 +977,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Sir�ne"
+		name= "Sirene"
 		type = frigate
 	}
 
@@ -992,7 +992,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Iphig�nie"
+		name= "Iphigenie"
 		type = frigate
 	}
 
@@ -1047,7 +1047,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Montebello�"
+		name= "Montebello"
 		type = manowar
 	}
 
@@ -1062,7 +1062,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Duc d�Angouleme"
+		name= "Duc d'Angouleme"
 		type = manowar
 	}
 
@@ -1072,7 +1072,7 @@ navy = {
 	}
 
 	ship = {
-		name= "G�nereux"
+		name= "Genereux"
 		type = manowar
 	}
 
@@ -1097,7 +1097,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Royal Louis�"
+		name= "Royal Louis"
 		type = manowar
 	}
 
@@ -1112,7 +1112,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Arth�mise"
+		name= "Arthemise"
 		type = frigate
 	}
 
@@ -1137,7 +1137,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Melpom�ne"
+		name= "Melpomene"
 		type = frigate
 	}
 
@@ -1147,12 +1147,12 @@ navy = {
 	}
 
 	ship = {
-		name= "Androm�de"
+		name= "Andromede"
 		type = frigate
 	}
 
 	ship = {
-		name= "Jeanne d�Arc"
+		name= "Jeanne d'Arc"
 		type = frigate
 	}
 

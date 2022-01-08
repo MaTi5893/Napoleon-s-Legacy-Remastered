@@ -243,7 +243,7 @@ recover_homeland = {
 	prestige_factor = 1
 	peace_cost_factor = 1
 	penalty_factor = 1
-	is_civil_war = yes #this is a civil war
+	is_civil_war = no #this is NOT a civil war
 
 	break_truce_prestige_factor = 5
 	break_truce_infamy_factor = 2
@@ -4477,7 +4477,7 @@ the_true_government = {
 	prestige_factor = 1
 	peace_cost_factor = 0.80
 	penalty_factor = 1
-	is_civil_war = yes #this is a civil war
+	is_civil_war = no #this is NOT a civil war
 
 	break_truce_prestige_factor = 5
 	break_truce_infamy_factor = 2
