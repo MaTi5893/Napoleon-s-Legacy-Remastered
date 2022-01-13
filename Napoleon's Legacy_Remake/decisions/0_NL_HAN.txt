@@ -29,7 +29,47 @@ political_decisions = {
 		allow = {
 			has_country_flag = united_westfalen
 			invention = national_fraternity
-			RHI = {
+			BAV = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { 
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+			BAD = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { 
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+			FRM = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { 
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+			WUR = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = { 
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+			SAX = {
 				all_core = {
 					OR = {
 						owned_by = THIS
@@ -88,66 +128,6 @@ political_decisions = {
 					}
 				}
 			}
-			WUL = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
-						}
-					}
-				}
-			}
-			BRA = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
-						}
-					}
-				}
-			}
-			ANH = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
-						}
-					}
-				}
-			}
-			MEI = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
-						}
-					}
-				}
-			}
-			WEI = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
-						}
-					}
-				}
-			}
-			COB = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
-						}
-					}
-				}
-			}
 			BAD = {
 				all_core = {
 					OR = {
@@ -168,37 +148,7 @@ political_decisions = {
 					}
 				}
 			}
-			FRM = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
-						}
-					}
-				}
-			}
 			WUR = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
-						}
-					}
-				}
-			}
-			HES = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
-						}
-					}
-				}
-			}
-			MEC = {
 				all_core = {
 					OR = {
 						owned_by = THIS

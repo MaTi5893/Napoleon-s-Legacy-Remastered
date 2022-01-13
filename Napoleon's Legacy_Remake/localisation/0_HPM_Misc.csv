@@ -285,8 +285,8 @@ house_of_saud_exiled;House of Saud Exiled;;;;;;;x
 early_electrical_telegraph;Early Electrical Telegraph;;;;;;;x
 early_electrical_telegraph_desc;The first commercial electrical telegraph was co-developed by Sir William Fothergill Cooke and Charles Wheatstone. This was a five-needle, six-wire system. The cables were originally installed underground in a steel conduit. However, the cables soon began to fail as a result of deteriorating insulation and were replaced with uninsulated wires on poles. As an interim measure, a two-needle system was used with three of the remaining working underground wires, which despite using only two needles had a greater number of codes.;;;;;;;x
 telegraph;Telegraph;;;;;;;x
-REMOVE_MONEY_EFFECT;Lose §R$VALUE$§§W.\n;;;;;;;x
-MONEY_EFFECT;Funds §R$VALUE$§W§§W.\n;;;;;;;x
+REMOVE_MONEY_EFFECT;Lose §R$VALUE$§!.\n;;;;;;;x
+MONEY_EFFECT;Funds §R$VALUE$§!.\n;;;;;;;x
 theocracy_ruler;Your Holiness;;;;;;;x
 proletarian_dictatorship_ruler;Chairman;;;;;;;x
 presidential_dictatorship_ruler;President;;;;;;;x
