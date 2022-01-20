@@ -402,11 +402,11 @@ acquire_treaty_port_desc;Acquire a treaty port concession by force from China;;;
 acquire_treaty_port_setup;Acquire the treaty port of $STATE$ from $RECIPIENT$;;;;;;;x
 acquire_treaty_port_short;Acquires concession of $STATE$;;;;;;;x
 take_capital;Take Capital;;;;;;;x
-take_capital_desc;Take the Capital region of a §Ycountry§W and force them to move their capital elsewhere;;;;;;;x
+take_capital_desc;Take the Capital region of a ï¿½Ycountryï¿½W and force them to move their capital elsewhere;;;;;;;x
 take_capital_setup;Take Capital region $STATE$ of $RECIPIENT$;;;;;;;x
 take_capital_short;Takes Capital from $RECIPIENT$;;;;;;;x
 conquest_low;Minor Conquest;;;;;;;x
-conquest_low_desc;Annex a §Ycountry§W of small size and population by conquest;;;;;;;x
+conquest_low_desc;Annex a ï¿½Ycountryï¿½W of small size and population by conquest;;;;;;;x
 conquest_low_setup;Annex minor nation of $RECIPIENT$;;;;;;;x
 conquest_low_short;Annex $RECIPIENT$;;;;;;;x
 establish_colonial_protectorate_casus_belli;Annex African nation;;;;;;;x
@@ -433,13 +433,13 @@ negotiated_transfer_setup;Transfer $STATE$ from $RECIPIENT$ to our country;;;;;;
 NORMAL_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $FIRST_COUNTRY$;;;;;;;x
 AGRESSION_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $FIRST_COUNTRY$;;;;;;;x
 demand_for_allies;Demand for Ally;;;;;;;x
-demand_for_allies_desc;Demand that an enemy nation cede a state to another §Ycountry§W in the game;;;;;;;x
+demand_for_allies_desc;Demand that an enemy nation cede a state to another ï¿½Ycountryï¿½W in the game;;;;;;;x
 demand_for_allies_short;$THIRD$ acquires $STATE$;;;;;;;x
 demand_for_allies_setup;Demand the cession of $STATE$ from $RECIPIENT$ for $THIRD$;;;;;;;x
 NORMAL_WAR_FORALLIES_NAME;$ORDER$$FIRST$ Conquest of $STATE$ for $COUNTRY$;;;;;;;x
 AGRESSION_WAR_FORALLIES_NAME;$ORDER$$FIRST$ Conquest of $STATE$ for $COUNTRY$;;;;;;;x
 demand_colony_for_allies;Demand Colony for Ally;;;;;;;x
-demand_colony_for_allies_desc;Demand that an enemy nation cede a colonial region to another §Ycountry§W in the game;;;;;;;x
+demand_colony_for_allies_desc;Demand that an enemy nation cede a colonial region to another ï¿½Ycountryï¿½W in the game;;;;;;;x
 demand_colony_for_allies_short;$THIRD$ acquires $STATE$;;;;;;;x
 demand_colony_for_allies_setup;Demand the cession of $STATE$ from $RECIPIENT$ for $THIRD$;;;;;;;x
 cover_the_senne_title;Cover the Senne River;;;;;;;x

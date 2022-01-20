@@ -47,34 +47,34 @@ political_decisions = {
 		}
 	}
 	
-	form_two_sic = {
-		potential = {
-			tag = SYC
-			SIC = { exists = no }
-		}
-		allow = {
-			is_our_vassal = NAP
-		}
-		effect = {
-			any_country = {
-				limit = {
-					tag = NAP
-					vassal_of = THIS
-				}
-				annex_to = THIS
-			}
-			754 = { add_core = THIS }
-			2567 = { add_core = THIS }
-			755 = { add_core = THIS }
-			753 = { add_core = THIS }
-			757 = { add_core = THIS }
-			SAR_765 = { add_core = THIS }
-			SIC_756 = { add_core = THIS }
-			all_core = {
-				add_core = SIC
-				remove_core = THIS
-			}
-			change_tag = SIC
-		}
-	}
+	#form_two_sic = {
+	#	potential = {
+	#		tag = SYC
+	#		SIC = { exists = no }
+	#	}
+	#	allow = {
+	#		is_our_vassal = NAP
+	#	}
+	#	effect = {
+	#		any_country = {
+	#			limit = {
+	#				tag = NAP
+	#				vassal_of = THIS
+	#			}
+	#			annex_to = THIS
+	#		}
+	#		754 = { add_core = THIS }
+	#		2567 = { add_core = THIS }
+	#		755 = { add_core = THIS }
+	#		753 = { add_core = THIS }
+	#		757 = { add_core = THIS }
+	#		SAR_765 = { add_core = THIS }
+	#		SIC_756 = { add_core = THIS }
+	#		all_core = {
+	#			add_core = SIC
+	#			remove_core = THIS
+	#		}
+	#		change_tag = SIC
+	#	}
+	#}
 }

@@ -16,8 +16,8 @@ Bearabia: Creator of Columbia Divided, let me take a tag from him (https://disco
 
 
 ###The NLR Low Res submod changes the terrain textures to be smaller, therefore saving on performance and RAM usage, while still looking... passable, to me.###
-##You need to enable both the submod and NLR itself in the launcher.##
-#I'm not sure if there will be any further submods, this one is just a thing because I know some people might not like that the terrain looks worse.#
+##You need to enable both the submod and NLR itself in the launcher. The submod does not affect the checksum.						    ##
+#I'm not sure if there will be any further submods, this one is just a thing because I know some people might not like that the terrain looks worse.	    #
 
 
 Info: 
@@ -26,7 +26,8 @@ Info:
         Mexico
 	Spain
 	Austria
-	the United States of America
+	Greece
+	
 	
 
 Links:

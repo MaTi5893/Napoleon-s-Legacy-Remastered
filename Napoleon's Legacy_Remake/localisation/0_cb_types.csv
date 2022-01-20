@@ -1,5 +1,5 @@
 chungus;Sus;;;;;;;x
-dismantle_factories_desc;Dismantle factories and cancel all constructions and recruitments.\n\n§YNOTE: §RBecause of coding limitations this CB only works with one country at a time, if you are going to add it for more than one country then make sure to peace out separately.§W;;;;;;;x
+dismantle_factories_desc;Dismantle factories and cancel all constructions and recruitments.\n\nï¿½YNOTE: ï¿½RBecause of coding limitations this CB only works with one country at a time, if you are going to add it for more than one country then make sure to peace out separately.ï¿½W;;;;;;;x
 dismantle_factories;Dismantle Industry;;;;;;;x
 dismantle_factories_short;Dismantle industry in $STATE$;;;;;;;x
 dismantle_factories_setup;Dismantle factories and cancel all constructions and recruitments in $STATE$;;;;;;;x
@@ -8,31 +8,31 @@ minor_conquest;Minor Conquest;;;;;;;x
 negotiated_transfer;Negotiated Transfer;;;;;;;x
 acquire_core_state;Acquire core;;;;;;;x
 acquire_core_state_short;Acquire $STATE$;;;;;;;x
-acquire_core_state_desc;Aquire an enemy §Ystate§W where we have §Ycore provinces§W;;;;;;;x
+acquire_core_state_desc;Aquire an enemy ï¿½Ystateï¿½W where we have ï¿½Ycore provincesï¿½W;;;;;;;x
 acquire_core_state_setup;Acquire core $STATE$ from $RECIPIENT$;;;;;;;x
 acquire_all_cores;Acquire All Cores;;;;;;;x
 acquire_all_cores_short;Acquire all cores from $RECIPIENT$;;;;;;;x
-acquire_all_cores_desc;Aquire all enemy §Ystates§W where we have §Ycore provinces§W;;;;;;;x
+acquire_all_cores_desc;Aquire all enemy ï¿½Ystatesï¿½W where we have ï¿½Ycore provincesï¿½W;;;;;;;x
 acquire_all_cores_setup;Acquire all core provinces from $RECIPIENT$;;;;;;;x
 unification_casus_belli;War of Unification;;;;;;;x
 unification_casus_belli_short;Liberate $STATE$ ;;;;;;;x
-unification_casus_belli_desc;Liberate core territory of our §YCultural Union§W;;;;;;;x
-unification_casus_belli_setup;Liberate core territory of our §YCultural Union§W.;;;;;;;x
+unification_casus_belli_desc;Liberate core territory of our ï¿½YCultural Unionï¿½W;;;;;;;x
+unification_casus_belli_setup;Liberate core territory of our ï¿½YCultural Unionï¿½W.;;;;;;;x
 civil_war;Civil War;;;;;;;x
 civil_war_short;Unite the nation;;;;;;;x
 civil_war_desc;Your nation is in a state of civil war;;;;;;;x
 civil_war_setup;End the war by reuniting our nation under a common banner again.;;;;;;;x
 unification_annex_casus_belli;War of Unification;;;;;;;x
 unification_annex_casus_belli_short;Annexation of $RECIPIENT$;;;;;;;x
-unification_annex_casus_belli_desc;Liberate core territory of our §YCultural Union§W.;;;;;;;x
-unification_annex_casus_belli_setup;Liberate core territory of our §YCultural Union§W.;;;;;;;x
+unification_annex_casus_belli_desc;Liberate core territory of our ï¿½YCultural Unionï¿½W.;;;;;;;x
+unification_annex_casus_belli_setup;Liberate core territory of our ï¿½YCultural Unionï¿½W.;;;;;;;x
 annex_core_country;Restore Order;;;;;;;x
 annex_core_country_short;Annex $RECIPIENT$;;;;;;;x
-annex_core_country_desc;Annex a foreign §Ycountry§W all provinces of which are your cores.;;;;;;;x
+annex_core_country_desc;Annex a foreign ï¿½Ycountryï¿½W all provinces of which are your cores.;;;;;;;x
 annex_core_country_setup;Annex $RECIPIENT$;;;;;;;x
 add_to_sphere;Add to Sphere;;;;;;;x
 add_to_sphere_short;Add $RECIPIENT$ to Sphere of Influence;;;;;;;x
-add_to_sphere_desc;Add country to our §YSphere of Influence§W;;;;;;;x
+add_to_sphere_desc;Add country to our ï¿½YSphere of Influenceï¿½W;;;;;;;x
 add_to_sphere_setup;Add $RECIPIENT$ to Sphere of Influence;;;;;;;x
 unification_humiliate_cb;Assert Hegemony;;;;;;;x
 unification_humiliate_cb_short;Admit Hegemony;;;;;;;x
@@ -40,75 +40,75 @@ unification_humiliate_cb_desc;Force another Great Power to concede your leadersh
 unification_humiliate_cb_setup;Force another Great Power to concede your leadership over your common cultural union.;;;;;;;x
 unification_GP_humiliate;Unification Humiliate;;;;;;;x
 unification_GP_humiliate_short;Humiliate $RECIPIENT$;;;;;;;x
-unification_GP_humiliate_desc;Show our military might by humiliating an enemy §Ygreater power of our culture group§W, thus increasing our §Yprestige§W while lowering theirs;;;;;;;x;;;
+unification_GP_humiliate_desc;Show our military might by humiliating an enemy ï¿½Ygreater power of our culture groupï¿½W, thus increasing our ï¿½Yprestigeï¿½W while lowering theirs;;;;;;;x;;;
 unification_GP_humiliate_setup;Humiliate $RECIPIENT$;;;;;;;x
 unification_add_to_sphere;Unification Add to Sphere;;;;;;;x
 unification_add_to_sphere_short;Add $RECIPIENT$ to Sphere of Influence;;;;;;;x
-unification_add_to_sphere_desc;Add country §Yof our culture group§W to our §YSphere of Influence§W;;;;;;;x
+unification_add_to_sphere_desc;Add country ï¿½Yof our culture groupï¿½W to our ï¿½YSphere of Influenceï¿½W;;;;;;;x
 unification_add_to_sphere_setup;Add $RECIPIENT$ to Sphere of Influence;;;;;;;x
 take_from_sphere;Take from sphere of influence;;;;;;;x
 take_from_sphere_short;Take $THIRD$ from sphere of influence;;;;;;;x
-take_from_sphere_desc;Remove a country from someone's §YSphere of Influence§W and add it to our own;;;;;;;x
+take_from_sphere_desc;Remove a country from someone's ï¿½YSphere of Influenceï¿½W and add it to our own;;;;;;;x
 take_from_sphere_setup;Take $THIRD$ from $RECIPIENT$'s sphere of influence;;;;;;;x
 free_peoples;Free People Early;;;;;;;x
 free_peoples_short;$THIRD$ acquires $STATE$;;;;;;;x
-free_peoples_desc;Liberate a §Ycountry§W's state from its oppressors;;;;;;;x
+free_peoples_desc;Liberate a ï¿½Ycountryï¿½W's state from its oppressors;;;;;;;x
 free_peoples_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;;;;;;;x
 free_peoples_midgame;Free People Midgame;;;;;;;x
 free_peoples_midgame_short;$THIRD$ acquires $STATE$.;;;;;;;x
-free_peoples_midgame_desc;Liberate a §Ycountry§W's state from its oppressors for 33% less warscore.;;;;;;;x
+free_peoples_midgame_desc;Liberate a ï¿½Ycountryï¿½W's state from its oppressors for 33% less warscore.;;;;;;;x
 free_peoples_midgame_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;;;;;;;x
 free_peoples_lategame;Free People Lategame;;;;;;;x
 free_peoples_lategame_short;$THIRD$ acquires $STATE$.;;;;;;;x
-free_peoples_lategame_desc;Liberate a §Ycountry§W's state from its oppressors for 55% less warscore.;;;;;;;x
+free_peoples_lategame_desc;Liberate a ï¿½Ycountryï¿½W's state from its oppressors for 55% less warscore.;;;;;;;x
 free_peoples_lategame_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;;;;;;;x
 liberate_country;Liberate Country;;;;;;;x
 liberate_country_short;$THIRD$ acquires $STATE$;;;;;;;x
-liberate_country_desc;Liberate an §Yentire country§W from its oppressors;;;;;;;x
+liberate_country_desc;Liberate an ï¿½Yentire countryï¿½W from its oppressors;;;;;;;x
 liberate_country_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;;;;;;;x;;;
 liberate_country_midgame;Liberate Country Midgame;;;;;;;x
 liberate_country_midgame_short;$THIRD$ acquires $STATE$;;;;;;;x
-liberate_country_midgame_desc;Liberate an §Yentire country§W from its oppressors for 33% less.;;;;;;;x
+liberate_country_midgame_desc;Liberate an ï¿½Yentire countryï¿½W from its oppressors for 33% less.;;;;;;;x
 liberate_country_midgame_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;;;;;;;x;;;
 liberate_country_late;Liberate Country Lategame;;;;;;;x
 liberate_country_late_short;$THIRD$ acquires $STATE$;;;;;;;x
-liberate_country_late_desc;Liberate an §Yentire country§W from its oppressors for 55% less.;;;;;;;x
+liberate_country_late_desc;Liberate an ï¿½Yentire countryï¿½W from its oppressors for 55% less.;;;;;;;x
 liberate_country_late_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;;;;;;;x;;;
 liberate_country_verylate;Liberate Country Very-Lategame;;;;;;;x
 liberate_country_verylate_short;$THIRD$ acquires $STATE$;;;;;;;x
-liberate_country_verylate_desc;Liberate an §Yentire country§W from its oppressors for 55% less, and now also allows for bigger releaseable countries like India or Ukraine.;;;;;;;x
+liberate_country_verylate_desc;Liberate an ï¿½Yentire countryï¿½W from its oppressors for 55% less, and now also allows for bigger releaseable countries like India or Ukraine.;;;;;;;x
 liberate_country_verylate_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;;;;;;;x;;;
 free_allied_cores;Free Allied Cores;;;;;;;x
 free_allied_cores_short;$THIRD$ acquires $STATE$;;;;;;;x
-free_allied_cores_desc;Liberate cores belonging to an §Yallied country§W in your sphere;;;;;;;x
+free_allied_cores_desc;Liberate cores belonging to an ï¿½Yallied countryï¿½W in your sphere;;;;;;;x
 free_allied_cores_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;;;;;;;x
 release_puppet;Release Puppet;;;;;;;x
 release_puppet_short;$THIRD$ is released;;;;;;;x
-release_puppet_desc;Release a §Ycountry§W from its sovereign nation;;;;;;;x
+release_puppet_desc;Release a ï¿½Ycountryï¿½W from its sovereign nation;;;;;;;x
 release_puppet_setup;Release $THIRD$ from $RECIPIENT$;;;;;;;x
 release_puppet_AI;Release Puppet;;;;;;;x
 release_puppet_AI_short;$THIRD$ is released;;;;;;;x
-release_puppet_AI_desc;Release a §Ycountry§W from its sovereign nation;;;;;;;x
+release_puppet_AI_desc;Release a ï¿½Ycountryï¿½W from its sovereign nation;;;;;;;x
 release_puppet_AI_setup;Release $THIRD$ from $RECIPIENT$;;;;;;;x
 cut_down_to_size_boxer;Cut down to size;;;;;;;x
 cut_down_to_size_boxer_short;Cut $RECIPIENT$ down to size;;;;;;;x
-cut_down_to_size_boxer_desc;Force another §Ycountry§W to disarm and pay reparations to us;;;;;;;x
+cut_down_to_size_boxer_desc;Force another ï¿½Ycountryï¿½W to disarm and pay reparations to us;;;;;;;x
 cut_down_to_size_boxer_setup;Cut $RECIPIENT$ down to size;;;;;;;x
 humiliate;Humiliate;;;;;;;x
 humiliate_short;Humiliate $RECIPIENT$;;;;;;;x
-humiliate_desc;Show our military might by humiliating an enemy §Ycountry§W, thus increasing our §Yprestige§W while lowering theirs;;;;;;;x
+humiliate_desc;Show our military might by humiliating an enemy ï¿½Ycountryï¿½W, thus increasing our ï¿½Yprestigeï¿½W while lowering theirs;;;;;;;x
 humiliate_setup;Humiliate $RECIPIENT$;;;;;;;x
 place_in_the_sun;Place in the sun;;;;;;;x
 place_in_the_sun_short;Acquire $STATE$;;;;;;;x
-place_in_the_sun_desc;Aquire an enemy §Ycolonial state§W;;;;;;;x
+place_in_the_sun_desc;Aquire an enemy ï¿½Ycolonial stateï¿½W;;;;;;;x
 place_in_the_sun_setup;Acquire colony $STATE$ from $RECIPIENT$;;;;;;;x
 place_in_the_sun_late;Place in the Sun Lategame;;;;;;;x
 place_in_the_sun_late_short;Acquire $STATE$;;;;;;;x
-place_in_the_sun_late_desc;Aquire an enemy §Ycolonial state§W for 20% less.;;;;;;;x
+place_in_the_sun_late_desc;Aquire an enemy ï¿½Ycolonial stateï¿½W for 20% less.;;;;;;;x
 place_in_the_sun_late_setup;Acquire colony $STATE$ from $RECIPIENT$ for 20% less.;;;;;;;x
 china_acquire_state;Chinese Reunification;;;;;;;x
 china_acquire_state_short;Acquire $STATE$;;;;;;;x
-china_acquire_state_desc;Aquire a Chinese §Ystate§W;;;;;;;x
+china_acquire_state_desc;Aquire a Chinese ï¿½Ystateï¿½W;;;;;;;x
 china_acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;x
 china_conquest;Chinese Reunification;;;;;;;x
 china_conquest_short;Annex $RECIPIENT$;;;;;;;x
@@ -116,84 +116,84 @@ china_conquest_desc;Annex a Chinese rival;;;;;;;x
 china_conquest_setup;Annex $RECIPIENT$;;;;;;;x
 china_acquire_state_2;Chinese Reunification;;;;;;;x
 china_acquire_state_2_short;Acquire $STATE$;;;;;;;x
-china_acquire_state_2_desc;Aquire a Chinese §Ystate§W;;;;;;;x
+china_acquire_state_2_desc;Aquire a Chinese ï¿½Ystateï¿½W;;;;;;;x
 china_acquire_state_2_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;x
 demand_concession_casus_belli;Demand Concession;;;;;;;x
 demand_concession_casus_belli_short;Demand $STATE$;;;;;;;x
-demand_concession_casus_belli_desc;Force an §Yuncivilized country§W to secede territory to form a colonial concession.;;;;;;;x
+demand_concession_casus_belli_desc;Force an ï¿½Yuncivilized countryï¿½W to secede territory to form a colonial concession.;;;;;;;x
 demand_concession_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;;;;x
 demand_concession_casus_belli_player_early;Demand Concession Early;;;;;;;x
 demand_concession_casus_belli_player_early_short;Demand $STATE$ for 100% more warscore.;;;;;;;x
-demand_concession_casus_belli_player_early_desc;Force the §Yuncivilized country§W to secede territory to form a colonial concession for 100% more warscore.;;;;;;;x
+demand_concession_casus_belli_player_early_desc;Force the ï¿½Yuncivilized countryï¿½W to secede territory to form a colonial concession for 100% more warscore.;;;;;;;x
 demand_concession_casus_belli_ai_early_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;;;;x
 demand_concession_casus_belli_ai_early;Demand Concession Early;;;;;;;x
 demand_concession_casus_belli_ai_early_short;Demand $STATE$ for 10% more warscore.;;;;;;;x
-demand_concession_casus_belli_ai_early_desc;Force the §Yuncivilized country§W to secede territory to form a colonial concession for 100% more warscore.;;;;;;;x
+demand_concession_casus_belli_ai_early_desc;Force the ï¿½Yuncivilized countryï¿½W to secede territory to form a colonial concession for 100% more warscore.;;;;;;;x
 demand_concession_casus_belli_player_early_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;;;;x
 demand_concession_NI_casus_belli;Demand Concession;;;;;;;x
 demand_concession_NI_casus_belli_short;Demand $STATE$;;;;;;;x
-demand_concession_NI_casus_belli_desc;Force an §Yuncivilized country§W to secede territory to form a colonial concession.;;;;;;;x
+demand_concession_NI_casus_belli_desc;Force an ï¿½Yuncivilized countryï¿½W to secede territory to form a colonial concession.;;;;;;;x
 demand_concession_NI_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;;;;x
 demand_concession_BC_casus_belli;Demand Concession;;;;;;;x
 demand_concession_BC_casus_belli_short;Demand $STATE$;;;;;;;x
-demand_concession_BC_casus_belli_desc;Force an §Yuncivilized country§W to secede territory to form a colonial concession.;;;;;;;x
+demand_concession_BC_casus_belli_desc;Force an ï¿½Yuncivilized countryï¿½W to secede territory to form a colonial concession.;;;;;;;x
 demand_concession_BC_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;;;;x
 rude_boy;Containment;;;;;;;x
 rude_boy_short;Contain $RECIPIENT$;;;;;;;x
-rude_boy_desc;Force another §Ycountry§W, which has thrown off all pretenses of civilized conduct in the realm of international affairs, to vastly reduce its ambitions.;;;;;;;x
+rude_boy_desc;Force another ï¿½Ycountryï¿½W, which has thrown off all pretenses of civilized conduct in the realm of international affairs, to vastly reduce its ambitions.;;;;;;;x
 rude_boy_setup;Contain $RECIPIENT$ by reducing their territory, prestige and military.;;;;;;;x
 conquest;Conquest;;;;;;;x
 conquest_short;Annex $RECIPIENT$;;;;;;;x
-conquest_desc;Annex a single-state §Ycountry§W;;;;;;;x
+conquest_desc;Annex a single-state ï¿½Ycountryï¿½W;;;;;;;x
 conquest_setup;Annex $RECIPIENT$;;;;;;;x
 annex_africa;Scramble for Africa;;;;;;;x
 annex_africa_short;Demand that $RECIPIENT$ secede territory according to rules set at the Conference of Great Powers;;;;;;;x
-annex_africa_desc;Force an §Yuncivilized country§W to secede territory according to rules set at the Conference of Great Powers;;;;;;;x
+annex_africa_desc;Force an ï¿½Yuncivilized countryï¿½W to secede territory according to rules set at the Conference of Great Powers;;;;;;;x
 annex_africa_setup;Demand that $RECIPIENT$ secede territory according to rules set at the Conference of Great Powers;;;;;;;x
 annex_africa_full;Scramble for Africa - Annex;;;;;;;x
 annex_africa_full_short;Annex $RECIPIENT$;;;;;;;x
-annex_africa_full_desc;Force an §Yuncivilized country§W to become a protectorate according to rules set at the Conference of Great Powers;;;;;;;x
+annex_africa_full_desc;Force an ï¿½Yuncivilized countryï¿½W to become a protectorate according to rules set at the Conference of Great Powers;;;;;;;x
 annex_africa_full_setup;Annex $RECIPIENT$ according to rules set at the Conference of Great Powers;;;;;;;x
 establish_protectorate_casus_belli;Establish Protectorate;;;;;;;x
 establish_protectorate_casus_belli_short;Annex $RECIPIENT$;;;;;;;x
-establish_protectorate_casus_belli_desc;Annex an §Yuncivilized country§W by forcing them to become a protectorate of ours.;;;;;;;x
+establish_protectorate_casus_belli_desc;Annex an ï¿½Yuncivilized countryï¿½W by forcing them to become a protectorate of ours.;;;;;;;x
 establish_protectorate_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;;;;;;;x
 establish_protectorate_NI_casus_belli;Establish Protectorate;;;;;;;x
 establish_protectorate_NI_casus_belli_short;Annex $RECIPIENT$;;;;;;;x
-establish_protectorate_NI_casus_belli_desc;Annex an §Yuncivilized country§W by forcing them to become a protectorate of ours.;;;;;;;x
+establish_protectorate_NI_casus_belli_desc;Annex an ï¿½Yuncivilized countryï¿½W by forcing them to become a protectorate of ours.;;;;;;;x
 establish_protectorate_NI_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;;;;;;;x
 establish_protectorate_BC_casus_belli;Establish Protectorate;;;;;;;x
 establish_protectorate_BC_casus_belli_short;Annex $RECIPIENT$;;;;;;;x
-establish_protectorate_BC_casus_belli_desc;Annex an §Yuncivilized country§W by forcing them to become a protectorate of ours.;;;;;;;x
+establish_protectorate_BC_casus_belli_desc;Annex an ï¿½Yuncivilized countryï¿½W by forcing them to become a protectorate of ours.;;;;;;;x
 establish_protectorate_BC_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;;;;;;;x
-demand_reperations_desc;Demand that a §Ycountry§W pay us §Ywar reparations§W;;;;;;;x
+demand_reperations_desc;Demand that a ï¿½Ycountryï¿½W pay us ï¿½Ywar reparationsï¿½W;;;;;;;x
 status_quo;Status Quo;;;;;;;x
 status_quo_short;Status Quo;;;;;;;x
-status_quo_desc;Attempt to intervene in a war, neglecting any side to fulfill their §Ywargoals§W;;;;;;;x
+status_quo_desc;Attempt to intervene in a war, neglecting any side to fulfill their ï¿½Ywargoalsï¿½W;;;;;;;x
 status_quo_setup;All we ask is to be left alone;;;;;;;x
 great_war_install_democracy;Install Democracy;;;;;;;x
 great_war_install_democracy_short;Install a friendly democracy in $RECIPIENT$;;;;;;;x
-great_war_install_democracy_desc;Install a §Yfriendly democracy§W in the country's capital;;;;;;;x
+great_war_install_democracy_desc;Install a ï¿½Yfriendly democracyï¿½W in the country's capital;;;;;;;x
 great_war_install_democracy_setup;Install a friendly democracy in $RECIPIENT$;;;;;;;x
 great_war_install_fascism;Install Fascism;;;;;;;x
 great_war_install_fascism_short;Install a fascist government in $RECIPIENT$;;;;;;;x
-great_war_install_fascism_desc;Install a §Yfriendly fascist government§W in the country's capital;;;;;;;x
+great_war_install_fascism_desc;Install a ï¿½Yfriendly fascist governmentï¿½W in the country's capital;;;;;;;x
 great_war_install_fascism_setup;Install a fascist government in $RECIPIENT$;;;;;;;x
 great_war_install_communism;Install Communism;;;;;;;x
 great_war_install_communism_short;Install a communist government in $RECIPIENT$;;;;;;;x
-great_war_install_communism_desc;Install a §Yfriendly communist government§W in the country's capital;;;;;;;x
+great_war_install_communism_desc;Install a ï¿½Yfriendly communist governmentï¿½W in the country's capital;;;;;;;x
 great_war_install_communism_setup;Install a communist government in $RECIPIENT$;;;;;;;x
 install_democracy;Install Democracy;;;;;;;x
 install_democracy_short;Install a friendly democracy in $RECIPIENT$;;;;;;;x
-install_democracy_desc;Install a §Yfriendly democracy§W in the country's capital;;;;;;;x
+install_democracy_desc;Install a ï¿½Yfriendly democracyï¿½W in the country's capital;;;;;;;x
 install_democracy_setup;Install a friendly democracy in $RECIPIENT$;;;;;;;x
 install_fascism;Install Fascism;;;;;;;x
 install_fascism_short;Install a fascist government in $RECIPIENT$;;;;;;;x
-install_fascism_desc;Install a §Yfriendly fascist government§W in the country's capital;;;;;;;x
+install_fascism_desc;Install a ï¿½Yfriendly fascist governmentï¿½W in the country's capital;;;;;;;x
 install_fascism_setup;Install a fascist government in $RECIPIENT$;;;;;;;x
 install_communism;Install Communism;;;;;;;x
 install_communism_short;Install a communist government in $RECIPIENT$;;;;;;;x
-install_communism_desc;Install a §Yfriendly communist government§W in the country's capital;;;;;;;x
+install_communism_desc;Install a ï¿½Yfriendly communist governmentï¿½W in the country's capital;;;;;;;x
 install_communism_setup;Install a communist government in $RECIPIENT$;;;;;;;x
 call_allies_cb;Call Allies;;;;;;;x
 call_allies_cb_short;Call Allies;;;;;;;x
@@ -201,11 +201,11 @@ call_allies_cb_desc;Call Allies;;;;;;;x
 call_allies_cb_setup;Call Allies;;;;;;;x
 acquire_any_state;Acquire State;;;;;;;x
 acquire_any_state_short;Acquire $STATE$;;;;;;;x
-acquire_any_state_desc;Aquire an enemy §Ystate§W;;;;;;;x
+acquire_any_state_desc;Aquire an enemy ï¿½Ystateï¿½W;;;;;;;x
 acquire_any_state_setup;Acquire $STATE$ from $RECIPIENT$;;;;;;;x
 conquest_any;Conquest;;;;;;;x
 conquest_any_short;Annex $RECIPIENT$;;;;;;;x
-conquest_any_desc;Conquer an §Yenemy country§W;;;;;;;x
+conquest_any_desc;Conquer an ï¿½Yenemy countryï¿½W;;;;;;;x
 conquest_any_setup;Annex $RECIPIENT$;;;;;;;x
 hre_unification;Imperial Authority;;;;;;;x
 hre_unification_short;Liberate the Imperial lands from $RECIPIENT$;;;;;;;x
@@ -216,11 +216,11 @@ hre_unification2_short;Liberate the Imperial lands from $RECIPIENT$;;;;;;;x
 hre_unification2_desc;We have to beat our ennemies and unify the HRE under our authority !;;;;;;;x
 hre_unification2_setup;Liberate the Imperial lands from $RECIPIENT$;;;;;;;x
 annex_india_AI;Scramble for India - Demand State;;;;;;;x
-annex_india_AI_desc;Force an §Yuncivilized country§W to secede territory according to rules set at the Conference of Great Powers;;;;;;;x
+annex_india_AI_desc;Force an ï¿½Yuncivilized countryï¿½W to secede territory according to rules set at the Conference of Great Powers;;;;;;;x
 annex_india_AI_setup;Demand that $RECIPIENT$ secede territory according to rules set at the Conference of Great Powers;;;;;;;x
 annex_india_AI_short;Demand $STATE$;;;;;;;x
 annex_india_full_AI;Scramble for India - Annex;;;;;;;x
-annex_india_full_AI_desc;Force an §Yuncivilized country§W to become a protectorate according to rules set at the Conference of Great Powers;;;;;;;x
+annex_india_full_AI_desc;Force an ï¿½Yuncivilized countryï¿½W to become a protectorate according to rules set at the Conference of Great Powers;;;;;;;x
 annex_india_full_AI_setup;Annex $RECIPIENT$ according to rules set at the Conference of Great Powers;;;;;;;x
 annex_india_full_AI_short;Annex $RECIPIENT$;;;;;;;x
 AGRESSION_WAR_DISMANTLE_NAME;$ORDER$War of $FIRST$ Aggression;;;;;;;x

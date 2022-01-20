@@ -243,7 +243,7 @@ recover_homeland = {
 	prestige_factor = 1
 	peace_cost_factor = 1
 	penalty_factor = 1
-	is_civil_war = yes #this is a civil war
+	is_civil_war = no #this is NOT a civil war
 
 	break_truce_prestige_factor = 5
 	break_truce_infamy_factor = 2
@@ -523,6 +523,9 @@ acquire_core_state = {
 			to = pro_military
 			value = 0.25
 		}
+	}
+	on_po_accepted = {
+		country_event =	2650	# Territorial Loss event
 	}
 }
 
@@ -1243,6 +1246,9 @@ free_peoples = {
 			to = pro_military
 			value = 0.25
 		}
+	}
+	on_po_accepted = {
+		country_event =	2651	# Territorial Loss event
 	}
 }
 
@@ -3350,6 +3356,9 @@ free_peoples_midgame = {
 			value = 0.25
 		}
 	}
+	on_po_accepted = {
+		country_event =	2651	# Territorial Loss event
+	}
 }
 
 free_peoples_lategame = {
@@ -3437,6 +3446,9 @@ free_peoples_lategame = {
 			to = pro_military
 			value = 0.25
 		}
+	}
+	on_po_accepted = {
+		country_event =	2651	# Territorial Loss event
 	}
 }
 
@@ -4477,7 +4489,7 @@ the_true_government = {
 	prestige_factor = 1
 	peace_cost_factor = 0.80
 	penalty_factor = 1
-	is_civil_war = yes #this is a civil war
+	is_civil_war = no #this is NOT a civil war
 
 	break_truce_prestige_factor = 5
 	break_truce_infamy_factor = 2

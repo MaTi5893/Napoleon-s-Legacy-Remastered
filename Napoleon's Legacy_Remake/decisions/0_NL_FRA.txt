@@ -21,7 +21,7 @@ political_decisions = {
 					}
 				}
 			}
-			NOT = { any_greater_power = { OR = { primary_culture = north_german primary_culture = south_german } } }
+			NOT = { any_greater_power = { OR = { primary_culture = north_german primary_culture = south_german primary_culture = rhenish } } }
 		}
 		effect = {
 			badboy = 25
@@ -71,17 +71,16 @@ political_decisions = {
 		}
 		allow = { 
 			invention = expansionism
+			ENG_58 = { owned_by = THIS } 
 		}
 		effect = { 
 			set_country_flag = FRA_quebec 
 			QUE = { all_core = { add_core = FRA } } 
-			badboy = 3
-			65 = { #Quebec City
-				owner = { 
-					relation = {
-						who = FRA 
-						value = -400
-					}		
+			#badboy = 3
+			ENG = { 
+				relation = {
+					who = FRA 
+					value = -400						
 				}
 			}
 		}

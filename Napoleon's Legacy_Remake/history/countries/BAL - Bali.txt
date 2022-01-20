@@ -1,6 +1,5 @@
 capital = 1438
 primary_culture = malay
-culture = moluccan
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

@@ -2,7 +2,6 @@ owner = FRA
 controller = FRA
 add_core = SAR
 add_core = FRA
-add_core = ITA
 trade_goods = coal
 life_rating = 33
 state_building = {

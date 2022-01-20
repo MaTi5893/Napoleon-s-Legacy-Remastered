@@ -6,7 +6,7 @@ HAS_NOT_GOODS;produces ;;;;;;;x
 IS_IN_REGION; is in the region ;;;;;;;x
 TRIGMOD_HEADER;The $MONARCHTITLE$ reports that;;;;;;;x
 TRIGMODLOST_HEADER;The $MONARCHTITLE$ reports that;;;;;;;x
-TRIGGER_CIV_PROGRESS_LESS;Civilization progress: §Y50§W%;;;;;;;x
+TRIGGER_CIV_PROGRESS_LESS;Civilization progress: ï¿½Y50ï¿½W%;;;;;;;x
 had_liberal_revolution;Liberal Revolution has ended;;;;;;;x
 attending_berlin_congress;Attending the Congress;;;;;;;x
 oriental_crisis_support_OE;Supports the Ottomans;;;;;;;x

@@ -25,21 +25,11 @@ political_decisions = {
 		picture = indiaboaposter #Random pic I found online of an Indian man kicking the Portuguese out of Boa 
 		potential = {
 			tag = HND
-			NOT = { 						#Took me way too long to realize that I can just NOT = [ the AND = [ instead of doing AND = [ NOT = [ NOT = [ NOT = [
-				AND = {						#Anyway, if you have all of these cored (via manual coring events), the decision will not show up
-					is_core = 1303			#If you have atleast one not cored, it will show up
-					is_core = 1312		
-					is_core = 1320		
-					is_core = 1325		
-					is_core = 2128	
-					is_core = 3251	 
-					is_core = 3253 	
-					} 
-				}         
-			}
+			NOT = { has_country_flag = india_treaty_ports }         
+		}
 		allow = {
 			HND = { all_core = { owned_by = HND } }                                            
-	}
+		}
 		effect = {
 			prestige = 30
 			badboy = 5
@@ -50,10 +40,7 @@ political_decisions = {
 			2128 = { add_core = HND } # Diego Garcia
 			3251 = { add_core = HND } # Trankebar
 			3253 = { add_core = HND } # Diu
-		}
-		
-		ai_will_do = {
-			factor = 1
+			set_country_flag = india_treaty_ports
 		}
 	}
 }

@@ -782,8 +782,6 @@ full_rhine = {
 #	prestige = 0.01
 #	icon = 9
 #}
-
-# Not working for some reason
 #polish_law_respect = {
 #	trigger = {
 #		tag = PLC
@@ -795,7 +793,6 @@ full_rhine = {
 #	mobilisation_size = 0.01
 #	icon = 9
 #}
-
 #polish_law_no_respect = {
 #	trigger = {
 #		tag = PLC

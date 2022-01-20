@@ -1,7 +1,10 @@
 political_decisions = {
 	autonomy_to_irishman = {
 		potential = {
-			tag = GBR
+			OR = {
+				tag = GBR
+				tag = ENG
+			}
 			NOT = { accepted_culture = irish } 
 		}
 		allow = {
