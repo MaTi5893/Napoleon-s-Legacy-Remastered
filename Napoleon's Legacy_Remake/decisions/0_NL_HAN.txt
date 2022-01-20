@@ -101,7 +101,11 @@ political_decisions = {
 			PRU = {
 				all_core = {
 					limit = {
-						owned_by = PRU
+						OR = { 
+							owned_by = PRU
+							owned_by = PLC
+							owned_by = PRU
+						}
 					}
 					remove_core = GCF
 				}

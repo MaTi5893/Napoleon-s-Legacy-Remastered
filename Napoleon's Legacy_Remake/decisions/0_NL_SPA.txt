@@ -232,6 +232,7 @@ political_decisions = {
 			prestige = 5
 		}
 	}
+}
 #	spain_south_america = { 
 #		picture = conquistadors
 #		potential = { 

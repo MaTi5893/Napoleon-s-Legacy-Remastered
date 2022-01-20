@@ -1868,7 +1868,6 @@ red_shirts = {
 			country = {
 				OR = {
 					is_greater_power = yes
-					tag = SAR
 					is_cultural_union = THIS
 				}
 			}
@@ -1891,7 +1890,8 @@ red_shirts = {
 					OR = {
 						is_core = LOM
 						is_core = SAR
-						is_core = SIC
+						is_core = SYC
+						is_core = NAP
 						is_core = PAP
 						is_core = MOD
 						is_core = LUC

@@ -732,25 +732,25 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = rhenish
 		religion = protestant
 		size = 112
 	}
 
 	artisans = {
-		culture = north_german
+		culture = rhenish
 		religion = protestant
 		size = 525
 	}
 	
 	soldiers = {
-		culture = north_german
+		culture = rhenish
 		religion = protestant
 		size = 150
 	}
 
 	farmers = {
-		culture = north_german
+		culture = rhenish
 		religion = protestant
 		size = 12712
 	}
