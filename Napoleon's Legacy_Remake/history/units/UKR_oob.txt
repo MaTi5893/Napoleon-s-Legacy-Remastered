@@ -1,6 +1,6 @@
 leader = {
 	name = "Illarion Vasil"
-	picture = ukr_gen_vasil
+	#picture = ukr_gen_vasil
 	date = 1811.1.1
 	type = land
 	personality = defence_1.1
@@ -9,7 +9,7 @@ leader = {
 }
 leader = {
 	name = "Ivan Pasich"
-	picture = ukr_gen_pasich
+	#picture = ukr_gen_pasich
 	date = 1812.1.1
 	type = land
 	personality = defence_1.1

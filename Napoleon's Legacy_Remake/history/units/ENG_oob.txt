@@ -48,7 +48,7 @@ COL = {				#Columbia if released
 
 leader = {
 	name = "Thomas Cochrane"
-	picture = eng_adm_cochrane
+	#picture = eng_adm_cochrane
 	date = 1831.1.1
 	type = sea
 	personality = defence_1.1
@@ -57,7 +57,7 @@ leader = {
 }
 leader = {
 	name = "Hugh Gough"
-	picture = eng_gen_goughhugh
+	#picture = eng_gen_goughhugh
 	date = 1830.1.1
 	type = land
 	personality = defence_1.1
@@ -66,7 +66,7 @@ leader = {
 }
 leader = {
 	name = "Edward Codrington"
-	picture = eng_adm_codrington
+	#picture = eng_adm_codrington
 	date = 1836.1.1
 	type = sea
 	personality = defence_1.1
@@ -75,7 +75,7 @@ leader = {
 }
 leader = {
 	name = "George Cockburn"
-	picture = eng_adm_cockburn
+	#picture = eng_adm_cockburn
 	date = 1812.1.1
 	type = sea
 	personality = defence_1.1
@@ -84,7 +84,7 @@ leader = {
 }
 leader = {
 	name = "John Colborne"
-	picture = eng_gen_seaton
+	#picture = eng_gen_seaton
 	date = 1825.1.1
 	type = land
 	personality = defence_1.1
@@ -93,7 +93,7 @@ leader = {
 }
 leader = {
 	name = "Harry Smith"
-	picture = eng_gen_smith
+	#picture = eng_gen_smith
 	date = 1834.1.1
 	type = land
 	personality = defence_1.1
@@ -102,7 +102,7 @@ leader = {
 }
 leader = {
 	name = "FitzRoy Somerset"
-	picture = eng_gen_raglan
+	#picture = eng_gen_raglan
 	date = 1825.1.1
 	type = land
 	personality = defence_1.1
@@ -110,7 +110,7 @@ leader = {
 }
 leader = {
 	name = "Henry Hardinge"
-	picture = eng_gen_hardinge
+	#picture = eng_gen_hardinge
 	date = 1815.1.1
 	type = land
 	personality = defence_1.1
@@ -119,7 +119,7 @@ leader = {
 }
 leader = {
 	name = "James Hawkins-Whitshed"
-	picture = eng_adm_hawkinswhitshed
+	#picture = eng_adm_hawkinswhitshed
 	date = 1799.1.1
 	type = sea
 	personality = defence_1.1
@@ -128,7 +128,7 @@ leader = {
 }
 leader = {
 	name = "David Milne"
-	picture = eng_adm_milnedavid
+	#picture = eng_adm_milnedavid
 	date = 1814.1.1
 	type = sea
 	personality = defence_1.1
@@ -137,7 +137,7 @@ leader = {
 }
 leader = {
 	name = "Robert Stopford"
-	picture = eng_adm_stopford
+	#picture = eng_adm_stopford
 	date = 1808.1.1
 	type = sea
 	personality = defence_1.1
@@ -146,7 +146,7 @@ leader = {
 }
 leader = {
 	name = "Henry Paget"
-	picture = eng_gen_paget
+	#picture = eng_gen_paget
 	date = 1802.1.1
 	type = land
 	personality = defence_1.1
@@ -155,7 +155,7 @@ leader = {
 }
 leader = {
 	name = "Charles Rowley"
-	picture = eng_adm_rowley
+	#picture = eng_adm_rowley
 	date = 1814.1.1
 	type = sea
 	personality = defence_1.1
@@ -164,7 +164,7 @@ leader = {
 }
 leader = {
 	name = "Rowland Hill"
-	picture = eng_gen_hill
+	#picture = eng_gen_hill
 	date = 1803.1.1
 	type = land
 	personality = defence_1.1
@@ -173,7 +173,7 @@ leader = {
 }
 leader = {
 	name = "George Murray"
-	picture = eng_gen_murray
+	#picture = eng_gen_murray
 	date = 1813.1.1
 	type = land
 	personality = defence_1.1
@@ -182,7 +182,7 @@ leader = {
 }
 leader = {
 	name = "Stapleton Cotton"
-	picture = eng_gen_cotton
+	#picture = eng_gen_cotton
 	date = 1805.1.1
 	type = land
 	personality = defence_1.1
@@ -191,7 +191,7 @@ leader = {
 }
 leader = {
 	name = "Hussey Vivian"
-	picture = eng_gen_vivian
+	#picture = eng_gen_vivian
 	date = 1813.1.1
 	type = land
 	personality = defence_1.1
@@ -200,7 +200,7 @@ leader = {
 }
 leader = {
 	name = "Edward Blakeney"
-	picture = eng_gen_blakeney
+	#picture = eng_gen_blakeney
 	date = 1825.1.1
 	type = land
 	personality = defence_1.1
@@ -209,7 +209,7 @@ leader = {
 }
 leader = {
 	name = "William Parker"
-	picture = eng_adm_parker
+	#picture = eng_adm_parker
 	date = 1830.1.1
 	type = sea
 	personality = defence_1.1
@@ -218,7 +218,7 @@ leader = {
 }
 leader = {
 	name = "Charles Cathcart"
-	picture = eng_gen_cathcart
+	#picture = eng_gen_cathcart
 	date = 1830.1.1
 	type = land
 	personality = defence_1.1
@@ -227,7 +227,7 @@ leader = {
 }
 leader = {
 	name = "Peregrine Maitland"
-	picture = eng_gen_maitland
+	#picture = eng_gen_maitland
 	date = 1813.1.1
 	type = land
 	personality = defence_1.1
@@ -236,7 +236,7 @@ leader = {
 }
 leader = {
 	name = "Benjamin d'Urban"
-	picture = eng_gen_durban
+	#picture = eng_gen_durban
 	date = 1812.1.1
 	type = land
 	personality = defence_1.1
@@ -246,7 +246,7 @@ leader = {
 
 leader = {
 	name = "James Dundas"
-	picture = eng_adm_dundasjames
+	#picture = eng_adm_dundasjames
 	date = 1836.1.1
 	type = sea
 	personality = defence_1.1

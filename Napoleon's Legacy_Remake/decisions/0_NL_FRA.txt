@@ -21,7 +21,7 @@ political_decisions = {
 					}
 				}
 			}
-			NOT = { any_greater_power = { OR = { primary_culture = north_german primary_culture = south_german } } }
+			NOT = { any_greater_power = { OR = { primary_culture = north_german primary_culture = south_german primary_culture = rhenish } } }
 		}
 		effect = {
 			NET = {

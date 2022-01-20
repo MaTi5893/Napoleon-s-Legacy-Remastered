@@ -206,9 +206,9 @@ political_decisions = {
 		}
 		effect = {
 			prestige = 5
-			add_core = THIS_1463
-			add_core = THIS_1455
-			add_core = THIS_1459
+			add_core = SPA_1463
+			add_core = SPA_1455
+			add_core = SPA_1459
 			add_accepted_culture = filipino
 		}
 	}
@@ -232,6 +232,7 @@ political_decisions = {
 			prestige = 5
 		}
 	}
+}
 #	spain_south_america = { 
 #		picture = conquistadors
 #		potential = { 

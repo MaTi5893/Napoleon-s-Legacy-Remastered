@@ -504,97 +504,97 @@
 #Strasbourg (552000/138000 POPS)
 409 = {
 	aristocrats = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 300
 	}
 
 	officers = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 60
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 375
 	}
 
 	artisans = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 5500
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 350
 	}
 
 	farmers = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 36165
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = rhenish
 		religion = protestant
 		size = 400
 	}
 
 	officers = {
-		culture = south_german
+		culture = rhenish
 		religion = protestant
 		size = 60
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = rhenish
 		religion = protestant
 		size = 200
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = rhenish
 		religion = protestant
 		size = 400
 	}
 
 	artisans = {
-		culture = south_german
+		culture = rhenish
 		religion = protestant
 		size = 6000
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = rhenish
 		religion = protestant
 		size = 400
 	}
 
 	farmers = {
-		culture = south_german
+		culture = rhenish
 		religion = protestant
 		size = 42040
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = rhenish
 		religion = jewish
 		size = 25
 	}
 
 	artisans = {
-		culture = south_german
+		culture = rhenish
 		religion = jewish
 		size = 1475
 	}
@@ -644,67 +644,67 @@
 #Mulhausen (424000/106000 POPS)
 410 = {
 	aristocrats = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 300
 	}
 
 	artisans = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 27600
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = rhenish
 		religion = protestant
 		size = 350
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = rhenish
 		religion = protestant
 		size = 375
 	}
 
 	artisans = {
-		culture = south_german
+		culture = rhenish
 		religion = protestant
 		size = 2500
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = rhenish
 		religion = protestant
 		size = 400
 	}
 
 	farmers = {
-		culture = south_german
+		culture = rhenish
 		religion = protestant
 		size = 41375
 	}
 
 	artisans = {
-		culture = south_german
+		culture = rhenish
 		religion = jewish
 		size = 1100
 	}
@@ -798,37 +798,37 @@
 	}
 
 	craftsmen = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 1000
 	}
 
 	farmers = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 500
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = rhenish
 		religion = jewish
 		size = 100
 	}
 
 	artisans = {
-		culture = south_german
+		culture = rhenish
 		religion = jewish
 		size = 900
 	}
@@ -872,73 +872,73 @@
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = rhenish
 		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = rhenish
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = south_german
+		culture = rhenish
 		religion = protestant
 		size = 3500
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = rhenish
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = south_german
+		culture = rhenish
 		religion = protestant
 		size = 6275
 	}
 
 	artisans = {
-		culture = south_german
+		culture = rhenish
 		religion = jewish
 		size = 1500
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 2500
 	}
 
 	clerks = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 50
 	}
 	
 	soldiers = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 700
 	}
 
 	farmers = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 27225
 	}
@@ -982,25 +982,25 @@
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 1400
 	}
 
 	craftsmen = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 100
 	}
 
 	labourers = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 1200
 	}
@@ -1044,25 +1044,25 @@
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 1100
 	}
 
 	craftsmen = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 100
 	}
 	
 	labourers = {
-		culture = south_german
+		culture = rhenish
 		religion = catholic
 		size = 700
 	}

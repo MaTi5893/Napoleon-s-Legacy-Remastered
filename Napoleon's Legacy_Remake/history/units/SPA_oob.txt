@@ -48,7 +48,7 @@ ALD = {
 
 leader = {
 	name = "Baldomero Espartero"
-	picture = spa_gen_espartero
+	#picture = spa_gen_espartero
 	type = land
 	date="1834.1.1"
 	personality = defence_1.1
@@ -57,7 +57,7 @@ leader = {
 }
 leader = {
 	name = "Francisco Serrano"
-	picture = spa_gen_serrano
+	#picture = spa_gen_serrano
 	type = land
 	date="1833.1.1"
 	personality = defence_1.1
@@ -66,7 +66,7 @@ leader = {
 }
 leader = {
 	name = "Ram�n Mar�a Narv�ez"
-	picture = spa_gen_narvaez
+	#picture = spa_gen_narvaez
 	type = land
 	date="1835.1.1"
 	personality = defence_1.1
@@ -74,7 +74,7 @@ leader = {
 }
 leader = {
 	name = "Leopoldo O'Donnell"
-	picture = spa_gen_odonnell
+	#picture = spa_gen_odonnell
 	type = land
 	date="1836.1.1"
 	personality = defence_1.1
@@ -82,7 +82,7 @@ leader = {
 }
 leader = {
 	name = "Ger�nimo Vald�s"
-	picture = spa_gen_valdes
+	#picture = spa_gen_valdes
 	type = land
 	date="1836.1.1"
 	personality = defence_1.1
@@ -90,7 +90,7 @@ leader = {
 }
 leader = {
 	name = "Juan Van Halen"
-	picture = spa_gen_vanhalen
+	#picture = spa_gen_vanhalen
 	type = land
 	date="1823.1.1"
 	personality = defence_1.1
@@ -99,7 +99,7 @@ leader = {
 }
 leader = {
 	name = "Juan Ram�n Rodil"
-	picture = spa_gen_rodil
+	#picture = spa_gen_rodil
 	type = land
 	date="1824.1.1"
 	personality = defence_1.1
@@ -108,7 +108,7 @@ leader = {
 }
 leader = {
 	name = "Luis Fern�ndez de C�rdova"
-	picture = spa_gen_luiscordova
+	#picture = spa_gen_luiscordova
 	type = land
 	date="1833.1.1"
 	personality = defence_1.1
@@ -116,7 +116,7 @@ leader = {
 }
 leader = {
 	name = "Gaspar de J�uregui"
-	picture = spa_gen_jauregui
+	#picture = spa_gen_jauregui
 	type = land
 	date="1833.1.1"
 	personality = defence_1.1
@@ -125,7 +125,7 @@ leader = {
 }
 leader = {
 	name = "Francisco Javier de Uriarte"
-	picture = spa_adm_uriarte
+	#picture = spa_adm_uriarte
 	type = sea
 	date="1802.1.1"
 	personality = defence_1.1
@@ -134,7 +134,7 @@ leader = {
 }
 leader = {
 	name = "Jos� Primo de Rivera"
-	picture = spa_adm_primorivera
+	#picture = spa_adm_primorivera
 	type = sea
 	date="1827.1.1"
 	personality = defence_1.1
@@ -143,7 +143,7 @@ leader = {
 }
 leader = {
 	name = "Francisco Javier de Ulloa"
-	picture = spa_adm_ulloa
+	#picture = spa_adm_ulloa
 	type = sea
 	date="1825.1.1"
 	personality = defence_1.1
@@ -152,7 +152,7 @@ leader = {
 }
 leader = {
 	name = "Casimiro Vigodet"
-	picture = spa_adm_vigodet
+	#picture = spa_adm_vigodet
 	type = sea
 	date="1836.1.1"
 	personality = defence_1.1

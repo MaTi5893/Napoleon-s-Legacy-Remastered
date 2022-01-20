@@ -97,6 +97,10 @@ country_event = {
 			limit = { has_pop_culture = south_german }
 			consciousness = 1
 		}	
+		any_pop = {
+			limit = { has_pop_culture = rhenish }
+			consciousness = 1
+		}	
 	}
 }
 
@@ -454,6 +458,10 @@ country_event = {
 		}	
 		any_pop = {
 			limit = { has_pop_culture = south_german }
+			consciousness = 1
+		}	
+		any_pop = {
+			limit = { has_pop_culture = rhenish }
 			consciousness = 1
 		}	
 	}	
