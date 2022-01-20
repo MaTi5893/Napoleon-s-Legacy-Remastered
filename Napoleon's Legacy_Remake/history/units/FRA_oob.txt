@@ -92,7 +92,7 @@ UPB = {
 
 leader = {
 	name = "Jean-Baptiste Drouet"
-	picture = fra_gen_drouet
+	#picture = fra_gen_drouet
 	date = 1803.1.1
 	type = land
 	personality = defence_1.1
@@ -101,7 +101,7 @@ leader = {
 }
 leader = {
 	name = "Bertrand Clauzel"
-	picture = fra_gen_clauzel
+	#picture = fra_gen_clauzel
 	date = 1803.1.1
 	type = land
 	personality = defence_1.1
@@ -110,7 +110,7 @@ leader = {
 }
 leader = {
 	name = "Honore Reille"
-	picture = fra_gen_reille
+	#picture = fra_gen_reille
 	date = 1807.1.1
 	type = land
 	personality = defence_1.1
@@ -119,7 +119,7 @@ leader = {
 }
 leader = {
 	name = "Louis-Isidore Harispe"
-	picture = fra_gen_harispe
+	#picture = fra_gen_harispe
 	date = 1836.1.1
 	type = land
 	personality = defence_1.1
@@ -128,7 +128,7 @@ leader = {
 }
 leader = {
 	name = "Guillaume Dode"
-	picture = fra_gen_dode
+	#picture = fra_gen_dode
 	date = 1809.1.1
 	type = land
 	personality = defence_1.1
@@ -137,7 +137,7 @@ leader = {
 }
 leader = {
 	name = "Guy-Victor Duperre"
-	picture = fra_adm_duperre
+	#picture = fra_adm_duperre
 	date = 1811.1.1
 	type = sea
 	personality = defence_1.1
@@ -146,7 +146,7 @@ leader = {
 }
 leader = {
 	name = "Jacques Achard"
-	picture = fra_gen_achard
+	#picture = fra_gen_achard
 	date = 1823.1.1
 	type = land
 	personality = defence_1.1
@@ -155,7 +155,7 @@ leader = {
 }
 leader = {
 	name = "Henri de Castelanne"
-	picture = fra_gen_castelanne
+	#picture = fra_gen_castelanne
 	date = 1823.1.1
 	type = land
 	personality = defence_1.1
@@ -164,7 +164,7 @@ leader = {
 }
 leader = {
 	name = "Jean-Baptiste Vaillant"
-	picture = fra_gen_vaillant
+	#picture = fra_gen_vaillant
 	date = 1832.1.1
 	type = land
 	personality = defence_1.1
@@ -173,7 +173,7 @@ leader = {
 }
 leader = {
 	name = "Bernard Magnan"
-	picture = fra_gen_magnan
+	#picture = fra_gen_magnan
 	date = 1835.1.1
 	type = land
 	personality = defence_1.1
@@ -181,7 +181,7 @@ leader = {
 }
 leader = {
 	name = "Thomas Bugeaud"
-	picture = fra_gen_bugeaud
+	#picture = fra_gen_bugeaud
 	date = 1836.1.1
 	type = land
 	personality = defence_1.1
@@ -189,7 +189,7 @@ leader = {
 }
 leader = {
 	name = "Louis Baraguey d'Hilliers"
-	picture = fra_gen_baraguey
+	#picture = fra_gen_baraguey
 	date = 1836.1.1
 	type = land
 	personality = defence_1.1
@@ -197,7 +197,7 @@ leader = {
 }
 leader = {
 	name = "Charles Baudin"
-	picture = fra_adm_baudin
+	#picture = fra_adm_baudin
 	date = 1836.1.1 #1838
 	type = sea
 	personality = defence_1.1

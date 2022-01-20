@@ -25,7 +25,7 @@ SWE = {
 }
 leader = {
 	name = "Bernard Joachim"
-	picture = pru_gen_knesebeck
+	#picture = pru_gen_knesebeck
 	date = 1813.1.1
 	type = land
 	personality = defence_2.1
@@ -34,7 +34,7 @@ leader = {
 }
 leader = {
 	name = "Helmuth Karl Bernhard von Moltke"
-	picture = pru_gen_boyen
+	#picture = pru_gen_boyen
 	date = 1800.1.1
 	type = land
 	personality = defence_1.1
@@ -43,7 +43,7 @@ leader = {
 }
 leader = {
 	name = "Heinrich von Pfuel"
-	picture = pru_gen_pfuel
+	#picture = pru_gen_pfuel
 	date = 1813.1.1
 	type = land
 	personality = defence_1.1
@@ -52,7 +52,7 @@ leader = {
 }
 leader = {
 	name = "Karl von Grolman"
-	picture = pru_gen_grolman
+	#picture = pru_gen_grolman
 	date = 1815.1.1
 	type = land
 	personality = defence_1.1
@@ -61,7 +61,7 @@ leader = {
 }
 leader = {
 	name = "Otto R�hle von Lilienstern"
-	picture = pru_gen_lilienstern
+	#picture = pru_gen_lilienstern
 	date = 1819.1.1
 	type = land
 	personality = defence_1.1
@@ -70,7 +70,7 @@ leader = {
 }
 leader = {
 	name = "Friedrich von Wrangel"
-	picture = pru_gen_wrangel
+	#picture = pru_gen_wrangel
 	date = 1823.1.1
 	type = land
 	personality = defence_1.1
@@ -79,7 +79,7 @@ leader = {
 }
 leader = {
 	name = "Prinz Karl"
-	picture = pru_gen_prinzkarl
+	#picture = pru_gen_prinzkarl
 	date = 1824.1.1
 	type = land
 	personality = defence_1.1

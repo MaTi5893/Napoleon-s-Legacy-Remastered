@@ -1,6 +1,6 @@
 leader = {
 	name = "Leopoldo di Borbone"
-	picture = sic_gen_leopoldo
+	#picture = sic_gen_leopoldo
 	date = 1809.1.1
 	type = land
 	personality = defence_1.1
@@ -9,7 +9,7 @@ leader = {
 }
 leader = {
 	name = "Francesco Emanuele Pinto"
-	picture = sic_gen_pinto
+	#picture = sic_gen_pinto
 	date = 1815.1.1
 	type = land
 	personality = defence_1.1
@@ -18,7 +18,7 @@ leader = {
 }
 leader = {
 	name = "Ferdinando II di Borbone"
-	picture = sic_gen_ferdinando
+	#picture = sic_gen_ferdinando
 	date = 1830.1.1
 	type = land
 	personality = defence_1.1
@@ -27,7 +27,7 @@ leader = {
 }
 leader = {
 	name = "Carlo Filangieri"
-	picture = sic_gen_filangieri
+	#picture = sic_gen_filangieri
 	date = 1831.1.1
 	type = land
 	personality = defence_1.1
