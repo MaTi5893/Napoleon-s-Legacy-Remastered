@@ -1158,18 +1158,15 @@ north_italy = {
 	culture_tech_research_bonus = 0.05
 	prestige = 0.1
 	education_efficiency_modifier = 0.1
-<<<<<<< HEAD
-<<<<<<< HEAD
 }
-=======
-=======
->>>>>>> 924ca465a526a0b1d1282c6724c5475c0cd416a5
-}
+
+ napoleon_death ={
+	prestige = -0.1
+	mobilisation_size = -0.01
+	pop_militancy_modifier = 0.01
+	army_tech_research_bonus = -0.05
+ }
 
 core_when_done = {
 	icon = 17
 }
-<<<<<<< HEAD
->>>>>>> 00811745c67a9bd415d177e340c4922dd6c6c0cd
-=======
->>>>>>> 924ca465a526a0b1d1282c6724c5475c0cd416a5
