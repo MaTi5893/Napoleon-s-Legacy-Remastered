@@ -1887,17 +1887,7 @@ red_shirts = {
 			factor = 0
 			location = {
 				NOT = {
-					OR = {
-						is_core = LOM
-						is_core = SAR
-						is_core = SYC
-						is_core = NAP
-						is_core = PAP
-						is_core = MOD
-						is_core = LUC
-						is_core = TUS
-						is_core = VEN
-					}
+					is_core = ITA
 				}
 			}
 		}

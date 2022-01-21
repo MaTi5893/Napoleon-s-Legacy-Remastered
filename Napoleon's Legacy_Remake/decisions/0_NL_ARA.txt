@@ -1,0 +1,35 @@
+political_decisions = { 
+	ARA_south_italy_cores = { 		
+		potential = { 
+			tag = ARA
+			NOT = { has_country_flag = ARA_south_italy_cores } 
+		}
+		allow = { 
+			owns = 762
+		}
+		effect = { 
+			NPL = { 
+				all_core = { add_core = THIS } 
+			}
+			set_country_flag = ARA_south_italy_cores
+			badboy = 6 
+		}
+	}
+	ARA_south_italy_culture = { 
+		potential = { 
+			tag = ARA 
+			has_country_flag = ARA_south_italy_cores
+			NOT = { accepted_culture = south_italian } 
+		}
+		allow = { 
+			NPL = { all_core = { owned_by = THIS } }
+			NIT = { is_greater_power = no } 
+			PAP = { is_greater_power = no } 
+			NPL = { is_greater_power = no }
+		}
+		effect = { 
+			add_accepted_culture = south_italian
+			badboy = 4
+		}
+	}
+}
