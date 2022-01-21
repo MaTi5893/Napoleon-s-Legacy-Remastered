@@ -1,6 +1,5 @@
 
 country_event = {
-
 	id = 37201
 	news = yes
 	news_desc_long = "EVTDESC37201_NEWS_LONG"
