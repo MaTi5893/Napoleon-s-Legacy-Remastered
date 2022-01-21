@@ -34,7 +34,7 @@ political_decisions = {
 					add_core = THIS
 				}
 			}
-			badboy = 15
+			badboy = 10
 			set_country_flag = forced_peru
 		}
 	}
@@ -72,7 +72,7 @@ political_decisions = {
 			}
 			#add_accepted_culture = south_andean
 			add_accepted_culture = platinean
-			badboy = 15
+			badboy = 12
 			set_country_flag = forced_south_america
 		}
 	}

@@ -1,5 +1,6 @@
 political_decisions = { 
 	take_peru = { 
+	picture = take_peru_pic
 		potential = {	
 			OR = { tag = ARG tag = LPL }
 			NOT = { has_country_flag = take_peru_arg } 
@@ -16,6 +17,7 @@ political_decisions = {
 		}
 	}
 	ARG_andean_accepted = { 
+	picture = colombia_map
 		potential = { 
 			has_country_flag = take_peru_arg	
 			NOT = { accepted_culture = andean } 
@@ -28,7 +30,7 @@ political_decisions = {
 		}
 		effect = { 
 			add_accepted_culture = andean
-			badboy = 7
+			badboy = 12
 		}
 	}
 }

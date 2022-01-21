@@ -12,7 +12,7 @@ political_decisions = {
 				all_core = { add_core = THIS } 
 			}
 			set_country_flag = ARA_south_italy_cores
-			badboy = 6 
+			badboy = 7
 		}
 	}
 	ARA_south_italy_culture = { 
@@ -29,7 +29,7 @@ political_decisions = {
 		}
 		effect = { 
 			add_accepted_culture = south_italian
-			badboy = 4
+			badboy = 8
 		}
 	}
 }
