@@ -1,14 +1,3 @@
-#assimilation_focus_header =
-#{
-#	assimilation_focus =
-#	{
-#		assimilation_rate = 5.0
-#		icon = 3
-#		limit = { 
-#			nationalvalue = nv_equality 
-#		}
-#	}
-#}
 
 immigration_focus = 
 {

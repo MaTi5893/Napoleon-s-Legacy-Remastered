@@ -21,11 +21,11 @@ oob = "GBR.txt"
 ruling_party = GBR_liberal_79
 upper_house = {
 fascist = 0
-reactionary = 0
-conservative = 34
-socialist = 33
+reactionary = 20
+conservative = 60
+socialist = 0
 communist = 0
-liberal = 33
+liberal = 20
 anarcho_liberal = 0
 }
 slavery = no_slavery

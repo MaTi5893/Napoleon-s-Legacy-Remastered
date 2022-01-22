@@ -20,11 +20,11 @@ oob = "NIT.txt"
 ruling_party = NIT_conservative_92
 upper_house = {
 fascist = 0
-reactionary = 20
+reactionary = 25
 conservative = 60
-socialist = 10
+socialist = 0
 communist = 0
-liberal = 10
+liberal = 15
 anarcho_liberal = 0
 }
 slavery = no_slavery
