@@ -60,7 +60,7 @@ leader = {
 	prestige = 0.3
 }
 leader = {
-	name = "Otto R�hle von Lilienstern"
+	name = "Otto Ruhle von Lilienstern"
 	#picture = pru_gen_lilienstern
 	date = 1819.1.1
 	type = land
@@ -308,7 +308,7 @@ army = {
 }
 
 navy = {
-	name = "K�niglich Preu�ische Marine"
+	name = "Koniglich Preussische Marine"
 	location = 695
 	ship = {
 		name= "1. Klipperflottille"

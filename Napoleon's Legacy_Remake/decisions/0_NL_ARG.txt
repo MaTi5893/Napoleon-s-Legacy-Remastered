@@ -11,7 +11,7 @@ political_decisions = {
 			BOL = { all_core = { owned_by = THIS } }
 		}
 		effect = { 
-			PEU = { all_core = add_core = THIS } 
+			PEU = { all_core = { add_core = THIS } } 
 			badboy = 8
 			set_country_flag = take_peru_arg
 		}

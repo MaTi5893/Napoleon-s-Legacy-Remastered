@@ -202,7 +202,7 @@ leader = {
 	prestige = 0.2
 }
 leader = {
-	name = "Alexander von L�ders"
+	name = "Alexander von Luders"
 	#picture = rus_gen_lueders
 	date = 1829.1.1
 	type = land
@@ -237,7 +237,7 @@ leader = {
 	prestige = 0.1
 }
 leader = {
-	name = "Stepan Andreïevski"
+	name = "Stepan Andreievski"
 	#picture = rus_gen_sukhozanet
 	date = 1820.1.1
 	type = land
@@ -246,7 +246,7 @@ leader = {
 	prestige = 0.1
 }
 leader = {
-	name = "Alexeï Nikolaïevitch Bakhmetev"
+	name = "Alexei Nikolaievitch Bakhmetev"
 	#picture = rus_adm_litke
 	date = 1790.1.1
 	type = land
@@ -821,11 +821,6 @@ navy = {
 	}
 
 	ship = {
-		name= "Smely�"
-		type = manowar
-	}
-
-	ship = {
 		name= "Archistratig Gavriil"
 		type = manowar
 	}
@@ -836,7 +831,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Chrabry�"
+		name= "Chrabryi"
 		type = manowar
 	}
 

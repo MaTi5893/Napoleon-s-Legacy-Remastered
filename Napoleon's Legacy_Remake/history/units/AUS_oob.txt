@@ -41,12 +41,6 @@ SAR = {
 	influence_value = 25
 }
 
-PAP = {
-	value = 125
-	level = 3
-	influence_value = 25
-}
-
 SWI = {
 	value = 125
 	level = 3
@@ -117,7 +111,7 @@ leader = {
 	prestige = 0.1
 }
 leader = {
-	name = "Alfred zu Windisch-Gr�tz"
+	name = "Alfred zu Windisch-Gratz"
 	#picture = aus_gen_windischgraetz
 	date = 1826.1.1
 	type = land

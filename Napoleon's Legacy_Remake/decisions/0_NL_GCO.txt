@@ -56,7 +56,7 @@ political_decisions = {
 				}
 			}
 			invention = national_fraternity
-			is_greater_power = yes
+			rank = 10
 			war_policy = jingoism
 		}
 		effect = {
