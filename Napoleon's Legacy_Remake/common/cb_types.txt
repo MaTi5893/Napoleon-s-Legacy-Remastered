@@ -2559,7 +2559,7 @@ conquest_low = {
 	can_use = {
 		# this = { NOT = { badboy = 1 } }
 		NOT = {	total_pops = 400000 }
-
+		
 
 		
 		# only one state or unciv
@@ -2585,6 +2585,7 @@ conquest_low = {
 				}
 			}
 		}
+		NOT = { tag = LCT } 
 		is_independant = yes
 	}
 

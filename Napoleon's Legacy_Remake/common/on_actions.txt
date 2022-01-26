@@ -127,7 +127,7 @@ on_civilize =
 {
 	100 = 90900 # CHI
 	100 = 90903 # CHI substates
-	100 = 999002 # Unciv Reform countryflags
+	100 = 90910 # RotW
 }
 
 on_my_factories_nationalized = 
