@@ -54,10 +54,17 @@ basic_chemistry = 1
 
 #Inventions
 foreign_training = yes_foreign_training
-foreign_weapons = foreign_weapons_two
-foreign_officers = yes_foreign_officers
-industrial_construction = yes_western_science
+set_country_flag = foreign_tactics_flag
 
+foreign_weapons = foreign_weapons_two
+set_country_flag = foreign_weapons_flag
+set_country_flag = foreign_weapons2_flag
+
+foreign_officers = yes_foreign_officers
+set_country_flag = fo_flag
+
+industrial_construction = yes_western_science
+set_country_flag = indc_flag
 
 #========================= END OF FILE =========================
 
