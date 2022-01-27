@@ -104,7 +104,7 @@ political_decisions = {
 						OR = { 
 							owned_by = PRU
 							owned_by = PLC
-							owned_by = PRU
+							owned_by = DZG
 						}
 					}
 					remove_core = GCF

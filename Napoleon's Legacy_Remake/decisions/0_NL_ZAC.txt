@@ -56,7 +56,7 @@ political_decisions = {
 			}
 		}
 	}
-    baltic_influence = {
+    baltic_influence_ZAC = {
 		picture = decision_baltic_acceptance
 		potential = {
             tag = ZAC
