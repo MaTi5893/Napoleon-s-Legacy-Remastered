@@ -540,7 +540,7 @@ annex_core_country = {
 
 	badboy_factor = 0
 	prestige_factor = 5
-	peace_cost_factor = 0.7
+	peace_cost_factor = 0.75
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 5
@@ -2559,7 +2559,7 @@ conquest_low = {
 	can_use = {
 		# this = { NOT = { badboy = 1 } }
 		NOT = {	total_pops = 400000 }
-
+		
 
 		
 		# only one state or unciv
@@ -2585,6 +2585,7 @@ conquest_low = {
 				}
 			}
 		}
+		NOT = { tag = LCT } 
 		is_independant = yes
 	}
 
@@ -2621,7 +2622,7 @@ take_capital = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 1.5
+	badboy_factor = 1.4
 	prestige_factor = 10
 	peace_cost_factor = 1
 	penalty_factor = 1
@@ -3454,7 +3455,7 @@ free_peoples_lategame = {
 
 #Demand Early Concession for Puppet on Player 
 demand_concession_casus_belli_player_early_for_puppet = {
-	sprite_index = 7
+	sprite_index = 17
 	is_triggered_only = yes
 	months = 0
 	construction_speed = 0.5
@@ -3528,7 +3529,7 @@ demand_concession_casus_belli_player_early_for_puppet = {
 
 #Demand Early Concession for Puppet on AI
 demand_concession_casus_belli_ai_early_for_puppet = {
-	sprite_index = 7
+	sprite_index = 17
 	is_triggered_only = yes
 	months = 0
 	construction_speed = 0.5
@@ -3602,7 +3603,7 @@ demand_concession_casus_belli_ai_early_for_puppet = {
 
 # Demand Concession For Puppet
 demand_concession_casus_belli_for_puppet = {
-	sprite_index = 7
+	sprite_index = 17
 	is_triggered_only = yes
 	months = 0
 	construction_speed = 0.5
@@ -3745,7 +3746,7 @@ place_in_the_sun_for_puppet = {
 
 #Acquire colonial state CB's for Puppet Late
 place_in_the_sun_late_for_puppet = {
-	sprite_index = 7
+	sprite_index = 17
 	is_triggered_only = yes
 	months = 12
 	
@@ -3814,7 +3815,7 @@ place_in_the_sun_late_for_puppet = {
 
 # Gain control of State For a Puppet
 acquire_state_for_puppet = {
-	sprite_index = 6
+	sprite_index = 17
 	is_triggered_only = yes
 	months = 12
 	
@@ -3913,7 +3914,7 @@ acquire_state_for_puppet = {
 }
 #Acquire State Midgame For Puppet
 acquire_state_midgame_for_puppet = {
-	sprite_index = 6
+	sprite_index = 17
 	is_triggered_only = yes
 	months = 0
 	crisis = no
@@ -4003,7 +4004,7 @@ acquire_state_midgame_for_puppet = {
 
 #Acquire State Late For Puppet
 acquire_state_late_for_puppet = {
-	sprite_index = 6
+	sprite_index = 17
 	is_triggered_only = yes
 	months = 0
 	crisis = no
@@ -4161,7 +4162,7 @@ negotiated_transfer_for_puppet = {
 }
 
 take_capital_for_puppet = {
-	sprite_index = 6
+	sprite_index = 17
 	is_triggered_only = yes
 	months = 12
 	construction_speed = 0.5
@@ -4263,219 +4264,11 @@ take_capital_for_puppet = {
 	}
 }
 
-take_capital_midgame_for_puppet = {
-	sprite_index = 6
-	is_triggered_only = yes
-	months = 12
-	construction_speed = 0.5
-	
-	badboy_factor = 1.5
-	prestige_factor = 10
-	peace_cost_factor = 1.1
-	penalty_factor = 1
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-
-	can_use = {
-		
-		year = 1870
-		NOT = { year = 1900 }
-		# this = { NOT = { badboy = 1 } }
-
-
-		any_owned_province = {
-			not = { is_core = THIS }
-			is_colonial = no
-		}
-		OR = {
-				neighbour = THIS
-				AND = { 
-					THIS = { num_of_ports = 1 } 
-					any_owned_province = { port = yes }
-				}
-		}
-		is_independant = yes
-		OR = {
-			AND = {
-				civilized = yes
-				THIS = {
-					civilized = yes
-				}
-			}
-			AND = {
-				civilized = no
-				THIS = {
-					civilized = no
-				}
-			}
-		}
-	}
-	
-	allowed_countries = {
-		NOT = { tag = FROM }
-		OR = {
-			NOT = { alliance_with = FROM }
-		}
-		OR = {
-			FROM = { vassal_of = THIS }
-			FROM = { substate_of = THIS }
-		}
-		FROM = {
-			exists = yes
-		}
-	}
-	
-	allowed_states = {
-		OR = {
-			is_colonial = no
-			is_colonial = yes
-		}
-		any_owned_province = {
-			OR = { 
-				is_colonial = no
-				is_colonial = yes
-			}
-		}
-		any_owned_province = { is_capital = yes }
-	}
-	
-	allowed_states_in_crisis = {
-		any_owned_province = {
-			any_neighbor_province = {
-				owner = { tag = THIS }
-			}
-		}
-	}		
-
-	po_transfer_provinces = yes
-	
-	war_name = WAR_TAKE_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-}
-
-take_capital_late_for_puppet = {
-	sprite_index = 6
-	is_triggered_only = yes
-	months = 12
-	construction_speed = 0.5
-	
-	badboy_factor = 1.5
-	prestige_factor = 10
-	peace_cost_factor = 1
-	penalty_factor = 1
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-
-	can_use = {
-		
-		year = 1900
-		# this = { NOT = { badboy = 1 } }
-
-
-		any_owned_province = {
-			not = { is_core = THIS }
-			is_colonial = no
-		}
-		OR = {
-				neighbour = THIS
-				AND = { 
-					THIS = { num_of_ports = 1 } 
-					any_owned_province = { port = yes }
-				}
-		}
-		is_independant = yes
-		OR = {
-			AND = {
-				civilized = yes
-				THIS = {
-					civilized = yes
-				}
-			}
-			AND = {
-				civilized = no
-				THIS = {
-					civilized = no
-				}
-			}
-		}
-	}
-	
-	allowed_countries = {
-		NOT = { tag = FROM }
-		OR = {
-			NOT = { alliance_with = FROM }
-		}
-		OR = {
-			FROM = { vassal_of = THIS }
-			FROM = { substate_of = THIS }
-		}
-		FROM = {
-			exists = yes
-		}
-	}
-	
-	allowed_states = {
-		OR = {
-			is_colonial = no
-			is_colonial = yes
-		}
-		any_owned_province = {
-			OR = { 
-				is_colonial = no
-				is_colonial = yes
-			}
-		}
-		any_owned_province = { is_capital = yes }
-	}
-	
-	allowed_states_in_crisis = {
-		any_owned_province = {
-			any_neighbor_province = {
-				owner = { tag = THIS }
-			}
-		}
-	}		
-
-	po_transfer_provinces = yes
-	
-	war_name = WAR_TAKE_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-}
-
 the_true_government = {
 	sprite_index = 2
-	#is_triggered_only = yes
+	is_triggered_only = yes
 	months = -1
 	constructing_cb = no
-	always = yes
 	crisis = no
 	
 	can_use = {
@@ -4489,7 +4282,7 @@ the_true_government = {
 	prestige_factor = 1
 	peace_cost_factor = 0.80
 	penalty_factor = 1
-	is_civil_war = no #this is NOT a civil war
+	is_civil_war = yes #this is NOT a civil war
 
 	break_truce_prestige_factor = 5
 	break_truce_infamy_factor = 2

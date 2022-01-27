@@ -1,7 +1,7 @@
-owner = NAP
-controller = NAP
+owner = NPL
+controller = NPL
 add_core = SYC
-add_core = NAP
+add_core = NPL
 add_core = ITA
 
 trade_goods = sulphur

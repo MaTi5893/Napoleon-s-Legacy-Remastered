@@ -8,6 +8,26 @@ nationalvalue = nv_order
 literacy = 0.10
 non_state_culture_literacy = 0.03
 
+
+#Political Reforms
+slavery = no_slavery
+upper_house_composition = appointed
+vote_franschise = landed_voting
+public_meetings = yes_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+voting_system = first_past_the_post
+political_parties = underground_parties
+
+#Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions 
+school_reforms = no_schools
+
 ruling_party = LIB_conservative_2
 last_election = 1822.1.1
 upper_house = {
@@ -20,26 +40,98 @@ upper_house = {
 	communist = 0
 }
 
-slavery = no_slavery
-upper_house_composition = appointed
-vote_franschise = landed_voting
-public_meetings = yes_meeting
-press_rights = state_press
-trade_unions = no_trade_unions
-voting_system = first_past_the_post
-political_parties = underground_parties
-
-wage_reform = no_minimum_wage
-work_hours = no_work_hour_limit
-safety_regulations = no_safety
-health_care = no_health_care
-unemployment_subsidies = no_subsidies
-pensions = no_pensions 
-school_reforms = no_schools
-
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
 
 oob = "LIB_oob.txt"
 
+#Reforms
+industrial_construction = yes_western_science
+set_country_flag = indc_flag
+
+#Technologies
+late_enlightenment_philosophy = 1
+basic_chemistry = 1
+
+1847.7.26 = {
+	set_country_flag = liberia_liberated
+}
+
+1847.9.27 = {
+	set_country_flag = liberian_constitution_enacted
+}
+
+1861.1.1 = {
+	oob = "/1861/LIB_oob.txt"
+	prestige = 1
+	literacy = 0.2
+	non_state_culture_literacy = 0.03
+
+	#Political Reforms - modeled on USA 1861
+	slavery = no_slavery
+	upper_house_composition = state_equal_weight
+	vote_franschise = universal_weighted_voting
+	public_meetings = yes_meeting
+	press_rights = free_press
+	trade_unions = all_trade_unions
+	voting_system = first_past_the_post
+	political_parties = gerrymandering
+
+	#Social Reforms
+	wage_reform = no_minimum_wage
+	work_hours = no_work_hour_limit
+	safety_regulations = no_safety
+	health_care = no_health_care
+	unemployment_subsidies = no_subsidies
+	pensions = no_pensions
+	school_reforms = no_schools
+
+	#Economic Reforms
+	land_reform = land_reform_two
+	set_country_flag = landr_flag
+	set_country_flag = landr2_flag
+
+	admin_reform = admin_reform_two
+	set_country_flag = adm_flag
+	set_country_flag = adm2_flag
+
+	finance_reform = yes_finance_reform
+	set_country_flag = fref_flag
+
+	industrial_construction = western_science_two
+	set_country_flag = indc_flag
+	set_country_flag = indc2_flag
+
+	#Military Reforms
+	foreign_training = yes_foreign_training
+	set_country_flag = foreign_tactics_flag
+
+	foreign_weapons = foreign_weapons_two
+	set_country_flag = foreign_weapons2_flag
+	set_country_flag = foreign_weapons_flag
+
+	military_constructions = military_constructions_two
+	set_country_flag = mil_con_flag
+	set_country_flag = mil_con2_flag
+
+	foreign_navies = yes_foreign_navies
+	set_country_flag = nu_flag
+
+	#Technologies
+	post_napoleonic_thought = 1
+	flintlock_rifles = 1
+	muzzle_loaded_rifles = 1
+	bronze_muzzle_loaded_artillery = 1
+	iron_muzzle_loaded_artillery = 1
+	clipper_design = 1
+	naval_design_bureaus = 1
+	private_banks = 1
+	no_standard = 1
+	ad_hoc_money_bill_printing = 1
+	freedom_of_trade = 1
+	water_wheel_power = 1
+	practical_steam_engine = 1
+	mechanized_mining = 1
+	medicine = 1
+}

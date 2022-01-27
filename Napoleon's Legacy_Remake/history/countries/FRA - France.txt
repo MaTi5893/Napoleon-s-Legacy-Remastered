@@ -3,7 +3,7 @@ primary_culture = french
 culture = french_canadian
 culture = wallonian
 religion = catholic
-government = hms_government
+government = absolute_monarchy
 plurality = 25
 nationalvalue = nv_equality
 literacy = 0.60
@@ -16,7 +16,7 @@ prestige = 90
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = appointed
-vote_franschise = wealth_voting
+vote_franschise = none_voting
 public_meetings = yes_meeting
 press_rights = censored_press
 trade_unions = no_trade_unions
@@ -73,11 +73,10 @@ mechanical_production = 1
 commerce_raiders = yes
 
 # Starting Consciousness
-consciousness = 3
+consciousness = 1
 nonstate_consciousness = 1
 
-ruling_party = FRA_liberal
-last_election = 1834.6.21
+ruling_party = FRA_reactionary
 upper_house = {
 	fascist = 0
 	liberal = 12

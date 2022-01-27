@@ -59,5 +59,3 @@ publishing_industry = 1
 #Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 0
-
-oob = "SER_oob.txt"

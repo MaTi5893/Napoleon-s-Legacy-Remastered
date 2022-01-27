@@ -48,7 +48,7 @@ ALD = {
 
 leader = {
 	name = "Baldomero Espartero"
-	picture = spa_gen_espartero
+	#picture = spa_gen_espartero
 	type = land
 	date="1834.1.1"
 	personality = defence_1.1
@@ -57,7 +57,7 @@ leader = {
 }
 leader = {
 	name = "Francisco Serrano"
-	picture = spa_gen_serrano
+	#picture = spa_gen_serrano
 	type = land
 	date="1833.1.1"
 	personality = defence_1.1
@@ -65,8 +65,8 @@ leader = {
 	prestige = 0.1
 }
 leader = {
-	name = "Ram�n Mar�a Narv�ez"
-	picture = spa_gen_narvaez
+	name = "Ramon Maria Narvaez"
+	#picture = spa_gen_narvaez
 	type = land
 	date="1835.1.1"
 	personality = defence_1.1
@@ -74,15 +74,15 @@ leader = {
 }
 leader = {
 	name = "Leopoldo O'Donnell"
-	picture = spa_gen_odonnell
+	#picture = spa_gen_odonnell
 	type = land
 	date="1836.1.1"
 	personality = defence_1.1
 	background = attack_1.1
 }
 leader = {
-	name = "Ger�nimo Vald�s"
-	picture = spa_gen_valdes
+	name = "Geronimo Valdes"
+	#picture = spa_gen_valdes
 	type = land
 	date="1836.1.1"
 	personality = defence_1.1
@@ -90,7 +90,7 @@ leader = {
 }
 leader = {
 	name = "Juan Van Halen"
-	picture = spa_gen_vanhalen
+	#picture = spa_gen_vanhalen
 	type = land
 	date="1823.1.1"
 	personality = defence_1.1
@@ -98,8 +98,8 @@ leader = {
 	prestige = 0.2
 }
 leader = {
-	name = "Juan Ram�n Rodil"
-	picture = spa_gen_rodil
+	name = "Juan Ramon Rodil"
+	#picture = spa_gen_rodil
 	type = land
 	date="1824.1.1"
 	personality = defence_1.1
@@ -107,16 +107,16 @@ leader = {
 	prestige = 0.2
 }
 leader = {
-	name = "Luis Fern�ndez de C�rdova"
-	picture = spa_gen_luiscordova
+	name = "Luis Fernandez de Cordova"
+	#picture = spa_gen_luiscordova
 	type = land
 	date="1833.1.1"
 	personality = defence_1.1
 	background = attack_1.1
 }
 leader = {
-	name = "Gaspar de J�uregui"
-	picture = spa_gen_jauregui
+	name = "Gaspar de Jauregui"
+	#picture = spa_gen_jauregui
 	type = land
 	date="1833.1.1"
 	personality = defence_1.1
@@ -125,7 +125,7 @@ leader = {
 }
 leader = {
 	name = "Francisco Javier de Uriarte"
-	picture = spa_adm_uriarte
+	#picture = spa_adm_uriarte
 	type = sea
 	date="1802.1.1"
 	personality = defence_1.1
@@ -133,8 +133,8 @@ leader = {
 	prestige = 0.3
 }
 leader = {
-	name = "Jos� Primo de Rivera"
-	picture = spa_adm_primorivera
+	name = "Jose Primo de Rivera"
+	#picture = spa_adm_primorivera
 	type = sea
 	date="1827.1.1"
 	personality = defence_1.1
@@ -143,7 +143,7 @@ leader = {
 }
 leader = {
 	name = "Francisco Javier de Ulloa"
-	picture = spa_adm_ulloa
+	#picture = spa_adm_ulloa
 	type = sea
 	date="1825.1.1"
 	personality = defence_1.1
@@ -152,7 +152,7 @@ leader = {
 }
 leader = {
 	name = "Casimiro Vigodet"
-	picture = spa_adm_vigodet
+	#picture = spa_adm_vigodet
 	type = sea
 	date="1836.1.1"
 	personality = defence_1.1
@@ -161,7 +161,7 @@ leader = {
 
 #Army
 army = {
-	name = "Ej�rcito Cristino del Centro"
+	name = "Ejercito Cristino del Centro"
 	location = 487
 	regiment = {
 		name= "1. Granaderos del Rey"
@@ -182,19 +182,19 @@ army = {
 	}
 
 	regiment = {
-		name= "1. Brigada de Infanter�a 'El Ramillete'"
+		name= "1. Brigada de Infanteria 'El Ramillete'"
 		type = infantry
 		home = 503
 	}
 
 	regiment = {
-		name= "2. Brigada de Infanter�a"
+		name= "2. Brigada de Infanteria"
 		type = infantry
 		home = 509
 	}
 
 	regiment = {
-		name= "3. Brigada de Infanter�a"
+		name= "3. Brigada de Infanteria"
 		type = artillery
 		home = 513
 	}
@@ -225,72 +225,72 @@ army = {
 }
 
 army = {
-	name = "Ej�rcito del Norte"
+	name = "Ejercito del Norte"
 	location = 495
 	
 	regiment = {
-		name= "4. Brigada de Infanter�a 'San Jorge'"
+		name= "4. Brigada de Infanteria 'San Jorge'"
 		type = hussar
 		home = 487
 	}
 
 	regiment = {
-		name= "1. Brigada de Artiller�a"
+		name= "1. Brigada de Artilleria"
 		type = infantry
 		home = 476
 	}
 	
 	regiment = {
-		name= "5. Brigada de Infanter�a"
+		name= "5. Brigada de Infanteria"
 		type = infantry
 		home = 482
 	}
 	
 	regiment = {
-		name= "6. Brigada de Infanter�a 'La Granja'"
+		name= "6. Brigada de Infanteria 'La Granja'"
 		type = infantry
 		home = 483
 	}
 
 	regiment = {
-		name= "7. Brigada de Infanter�a"
+		name= "7. Brigada de Infanteria"
 		type = infantry
 		home = 497
 	}
 
 	regiment = {
-		name= "8. Brigada de Infanter�a"
+		name= "8. Brigada de Infanteria"
 		type = artillery
 		home = 512
 	}
 
 	regiment = {
-		name= "9. Brigada de Infanter�a"
+		name= "9. Brigada de Infanteria"
 		type = artillery
 		home = 514
 	}
 
 	regiment = {
-		name= "10. Brigada de Infanter�a"
+		name= "10. Brigada de Infanteria"
 		type = artillery
 		home = 510
 	}
 
 	regiment = {
-		name= "11. Brigada de Infanter�a"
+		name= "11. Brigada de Infanteria"
 		type = artillery
 		home = 516
 	}
 	
 	regiment = {
-		name= "12. Brigada de Infanter�a"
+		name= "12. Brigada de Infanteria"
 		type = artillery
 		home = 515
 	}
 }
 
 army = {
-	name = "Ej�rcito de Cuba"
+	name = "Ejercito de Cuba"
 	location = 480
 	
 	regiment = {
@@ -355,7 +355,7 @@ army = {
 }
 
 navy = {
-	name = "Armada Real Espa�ola"
+	name = "Armada Real Espanola"
 	location = 506
 	
 	ship = {
@@ -364,7 +364,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Hesp�rides"
+		name = "Hesperides"
 		type = manowar
 	}
 	
@@ -379,7 +379,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Crist�bal Col�n"
+		name = "Cristobal Colon"
 		type = frigate
 	}
 	
@@ -419,7 +419,7 @@ navy = {
 	}
 	
 	ship = {
-		name = "Nuestra Se�ora del Patrocinio"
+		name = "Nuestra Senora del Patrocinio"
 		type = frigate
 	}
 	
@@ -444,7 +444,7 @@ navy = {
 	}
 
 	ship = {
-		name= "H�roe"
+		name= "Heroe"
 		type = manowar
 	}
 
@@ -464,12 +464,12 @@ navy = {
 	}
 
 	ship = {
-		name= "Nuestra Se�ora de Asunci�n"
+		name= "Nuestra Senora de Asuncion"
 		type = frigate
 	}
 
 	ship = {
-		name= "Nuestra Se�ora de Atocha"
+		name= "Nuestra Senora de Atocha"
 		type = frigate
 	}
 

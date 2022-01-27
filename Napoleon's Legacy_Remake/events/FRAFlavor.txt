@@ -1,6 +1,5 @@
 
 country_event = {
-
 	id = 37201
 	news = yes
 	news_desc_long = "EVTDESC37201_NEWS_LONG"
@@ -833,42 +832,4 @@ country_event = {
 			consciousness = 1 
 			}
 		}
-}
-
-country_event = {
-
-	id = 37227
-
-	trigger = {
-		tag = FRA
-		exists = ALD
-	}
-			
-	mean_time_to_happen =  {
-		months = 4
-		modifier = {
-			factor = 0.25 #increase likelihood to happen
-			year = 1840
-		}
-		modifier = {
-			factor = 12 #decrease likelihood to happen
-			FRA = { ai = no }
-		}
-	}
-
-	title = "EVTNAME37227"
-	desc = "EVTDESC37227"
-	picture = arab_revolt
-
-	option = {
-		name = "EVTOPTA37227" 
-		diplomatic_influence = {
-				who = ALD
-				value = -10
-		}
-		relation = {
-				with = ALD
-				value = -20
-		}
-	}
 }

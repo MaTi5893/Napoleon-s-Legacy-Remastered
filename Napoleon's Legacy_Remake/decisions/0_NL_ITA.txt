@@ -53,12 +53,12 @@ political_decisions = {
 	#		SIC = { exists = no }
 	#	}
 	#	allow = {
-	#		is_our_vassal = NAP
+	#		is_our_vassal = NPL
 	#	}
 	#	effect = {
 	#		any_country = {
 	#			limit = {
-	#				tag = NAP
+	#				tag = NPL
 	#				vassal_of = THIS
 	#			}
 	#			annex_to = THIS
