@@ -1,6 +1,5 @@
 political_decisions = {
 	build_port_upto_level_1 = {
-		alert = no
 		picture = beiyang_fleet
 		potential = {	
 
@@ -53,7 +52,6 @@ political_decisions = {
 		}
 	}
 	build_port_upto_level_2 = {
-		alert = no
 		picture = beiyang_fleet
 		potential = {	
 
@@ -102,7 +100,6 @@ political_decisions = {
 		}
 	}
 	build_port_upto_level_3 = {
-		alert = no
 		picture = beiyang_fleet
 		potential = {	
 
@@ -154,7 +151,6 @@ political_decisions = {
 		}
 	}
 	build_port_upto_level_4 = {
-		alert = no
 		picture = beiyang_fleet
 		potential = {	
 
@@ -205,7 +201,6 @@ political_decisions = {
 		}
 	}
 	build_port_upto_level_5 = {
-		alert = no
 		picture = beiyang_fleet
 		potential = {	
 
@@ -255,7 +250,6 @@ political_decisions = {
 		}
 	}
 	build_port_upto_level_6 = {
-		alert = no
 		picture = beiyang_fleet
 		potential = {	
 
@@ -304,7 +298,6 @@ political_decisions = {
 		}
 	}
 	build_fort_upto_level_1 = {
-		alert = no
 		picture = fortress_singapore
 		potential = {
 
@@ -345,7 +338,6 @@ political_decisions = {
 		}
 	}
 	build_fort_upto_level_2 = {
-		alert = no
 		picture = fortress_singapore
 		potential = {
 
@@ -386,7 +378,6 @@ political_decisions = {
 		}
 	}
 	build_fort_upto_level_3 = {
-		alert = no
 		picture = fortress_singapore
 		potential = {
 
@@ -426,7 +417,6 @@ political_decisions = {
 		}
 	}
 	build_fort_upto_level_4 = {
-		alert = no
 		picture = fortress_singapore
 		potential = {
 
@@ -465,7 +455,6 @@ political_decisions = {
 		}
 	}
 	build_fort_upto_level_5 = {
-		alert = no
 		picture = fortress_singapore
 		potential = {
 
@@ -503,7 +492,6 @@ political_decisions = {
 		}
 	}
 	build_fort_upto_level_6 = {
-		alert = no
 		picture = fortress_singapore
 		potential = {
 

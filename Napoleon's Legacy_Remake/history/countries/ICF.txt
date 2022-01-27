@@ -20,11 +20,11 @@ set_country_flag = new_world_nation
 ruling_party = ICF_reactionary_81
 upper_house = {
 fascist = 0
-reactionary = 20
-conservative = 60
-socialist = 0
+reactionary = 0
+conservative = 34
+socialist = 33
 communist = 0
-liberal = 20
+liberal = 33
 anarcho_liberal = 0
 }
 slavery = no_slavery

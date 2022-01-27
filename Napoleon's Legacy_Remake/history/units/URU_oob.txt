@@ -1,6 +1,6 @@
 leader = {
 	name = "Manuel Blanco"
-	#picture = aus_gen_windischgraetz
+	picture = aus_gen_windischgraetz
 	date = 1826.1.1
 	type = land
 	personality = defence_1.1
@@ -9,7 +9,7 @@ leader = {
 }
 leader = {
 	name = "Jose Joaquú‹ Prieto"
-	#picture = aus_gen_rukavina
+	picture = aus_gen_rukavina
 	date = 1829.1.1
 	type = land
 	personality = defence_1.1
@@ -18,7 +18,7 @@ leader = {
 }
 leader = {
 	name = "Manuel Bulnes"
-	#picture = aus_gen_nugent
+	picture = aus_gen_nugent
 	date = 1815.1.1
 	type = land
 	personality = defence_1.1

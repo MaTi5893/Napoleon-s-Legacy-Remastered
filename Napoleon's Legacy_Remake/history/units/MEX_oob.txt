@@ -1,6 +1,6 @@
 leader = {
 	name = "Antonio López de Santa Anna"
-	#picture = mex_gen_santaanna
+	picture = mex_gen_santaanna
 	type = land
 	date="1821.1.1"
 	personality = defence_1.1
@@ -10,7 +10,7 @@ leader = {
 
 leader = {
 	name = "Martín de Cos"
-	#picture = mex_gen_cos
+	picture = mex_gen_cos
 	type = land
 	date="1833.1.1"
 	personality = defence_1.1
@@ -20,7 +20,7 @@ leader = {
 
 leader = {
 	name = "José de Urrea"
-	#picture = mex_gen_urrea
+	picture = mex_gen_urrea
 	type = land
 	date="1835.1.1"
 	personality = defence_1.1
@@ -29,7 +29,7 @@ leader = {
 
 leader = {
 	name = "Vicente Filísola"
-	#picture = mex_gen_filisola
+	picture = mex_gen_filisola
 	type = land
 	date="1822.1.1"
 	personality = defence_1.1
@@ -39,7 +39,7 @@ leader = {
 
 leader = {
 	name = "Anastasio Bustamante"
-	#picture = mex_gen_bustamante
+	picture = mex_gen_bustamante
 	type = land
 	date="1822.1.1"
 	personality = defence_1.1
@@ -49,7 +49,7 @@ leader = {
 
 leader = {
 	name = "Mariano Arista"
-	#picture = mex_gen_arista
+	picture = mex_gen_arista
 	type = land
 	date="1830.1.1"
 	personality = defence_1.1
@@ -59,7 +59,7 @@ leader = {
 
 leader = {
 	name = "Juan Álvarez"
-	#picture = mex_gen_alvarez
+	picture = mex_gen_alvarez
 	type = land
 	date="1830.1.1"
 	personality = defence_1.1
@@ -69,7 +69,7 @@ leader = {
 
 leader = {
 	name = "Valentín Canalizo"
-	#picture = mex_gen_canalizo
+	picture = mex_gen_canalizo
 	type = land
 	date="1835.1.1"
 	personality = defence_1.1
@@ -78,7 +78,7 @@ leader = {
 
 leader = {
 	name = "José Joaquín de Herrera"
-	#picture = mex_gen_herrera
+	picture = mex_gen_herrera
 	type = land
 	date="1821.1.1"
 	personality = defence_1.1
@@ -88,7 +88,7 @@ leader = {
 
 leader = {
 	name = "José Mariano Salas"
-	#picture = mex_gen_salas
+	picture = mex_gen_salas
 	type = land
 	date="1836.1.1"
 	personality = defence_1.1
@@ -97,7 +97,7 @@ leader = {
 
 leader = {
 	name = "Mariano Paredes"
-	#picture = mex_gen_paredes
+	picture = mex_gen_paredes
 	type = land
 	date="1832.1.1"
 	personality = defence_1.1
@@ -106,7 +106,7 @@ leader = {
 
 leader = {
 	name = "Adrián Woll"
-	#picture = mex_gen_woll
+	picture = mex_gen_woll
 	type = land
 	date="1832.1.1"
 	personality = defence_1.1

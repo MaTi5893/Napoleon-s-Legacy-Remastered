@@ -156,7 +156,7 @@ army = {
 }
 
 army = {
-	name = "Finland Armen"
+	name = "Finland Arm�n"
 	location = 355
 	regiment = {
 		name= "2.Svea Livgarde"
@@ -165,13 +165,13 @@ army = {
 	}
 
 	regiment = {
-		name= "2.Sodermanlands Regemente"
+		name= "2.S�dermanlands Regemente"
 		type = infantry
 		home = 322
 	}
 
 	regiment = {
-		name= "2.Forsta Livgrenadjarregementet"
+		name= "2.F�rsta Livgrenadj�rregementet"
 		type = infantry
 		home = 317
 	}
@@ -183,7 +183,7 @@ army = {
 	}
 
 	regiment = {
-		name= "2.Vastgota Regemente"
+		name= "2.V�stg�ta Regemente"
 		type = infantry
 		home = 327
 	}
@@ -195,13 +195,13 @@ army = {
 	}
 
 	regiment = {
-		name= "2.Jonkopings Regemente"
+		name= "2.J�nk�pings Regemente"
 		type = artillery
 		home = 329
 	}
 
 	regiment = {
-		name= "2.Sodra Sklnska Infanteriregementet"
+		name= "2.S�dra Sk�nska Infanteriregementet"
 		type = artillery
 		home = 343
 	}
@@ -230,13 +230,13 @@ army = {
 	}
 
 	regiment = {
-		name= "3.2Sodermanlands Regemente"
+		name= "3.2S�dermanlands Regemente"
 		type = infantry
 		home = 355
 	}
 
 	regiment = {
-		name= "3.3Forsta Livgrenadjarregementet"
+		name= "3.3F�rsta Livgrenadj�rregementet"
 		type = infantry
 		home = 530
 	}
@@ -248,7 +248,7 @@ army = {
 	}
 
 	regiment = {
-		name= "3.1Vastgota Regemente"
+		name= "3.1�stg�ta Regemente"
 		type = infantry
 		home = 548
 	}
@@ -260,13 +260,13 @@ army = {
 	}
 
 	regiment = {
-		name= "3.3Jonkopings Regemente"
+		name= "3.3J�nk�pings Regemente"
 		type = artillery
 		home = 329
 	}
 
 	regiment = {
-		name= "3.4Sodra Sklnska Infanteriregementet"
+		name= "3.4S�dra Sk�nska Infanteriregementet"
 		type = artillery
 		home = 343
 	}
@@ -299,7 +299,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Faderneslandet"
+		name= "F�derneslandet"
 		type = manowar
 	}
 
@@ -318,7 +318,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Faderneslandet II"
+		name= "F�derneslandet II"
 		type = manowar
 	}
 
@@ -328,7 +328,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Faderneslandet III"
+		name= "F�derneslandet III"
 		type = manowar
 	}
 
@@ -397,7 +397,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Faderneslandet IV"
+		name= "F�derneslandet IV"
 		type = manowar
 	}
 
@@ -416,7 +416,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Faderneslandet V"
+		name= "F�derneslandet V"
 		type = manowar
 	}
 
@@ -426,7 +426,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Faderneslandet VI"
+		name= "F�derneslandet VI"
 		type = manowar
 	}
 

@@ -206,9 +206,9 @@ political_decisions = {
 		}
 		effect = {
 			prestige = 5
-			SPA_1463 = { add_core = THIS }
-			SPA_1455 = { add_core = THIS }
-			SPA_1459 = { add_core = THIS }
+			add_core = SPA_1463
+			add_core = SPA_1455
+			add_core = SPA_1459
 			add_accepted_culture = filipino
 		}
 	}

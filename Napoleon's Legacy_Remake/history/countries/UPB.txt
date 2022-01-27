@@ -21,11 +21,11 @@ oob = "UPB_oob.txt"
 ruling_party = UPB_conservative_92
 upper_house = {
 fascist = 0
-reactionary = 25
+reactionary = 20
 conservative = 60
-socialist = 0
+socialist = 10
 communist = 0
-liberal = 15
+liberal = 10
 anarcho_liberal = 0
 }
 slavery = no_slavery

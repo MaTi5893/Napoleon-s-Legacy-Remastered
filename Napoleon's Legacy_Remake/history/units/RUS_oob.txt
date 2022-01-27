@@ -63,7 +63,7 @@ DEN = {
 
 leader = {
 	name = "Illarion Vasilchikov"
-	#picture = rus_gen_vasilchikov
+	picture = rus_gen_vasilchikov
 	date = 1801.1.1
 	type = land
 	personality = defence_1.1
@@ -72,7 +72,7 @@ leader = {
 }
 leader = {
 	name = "Ivan Paskevich"
-	#picture = rus_gen_paskevich
+	picture = rus_gen_paskevich
 	date = 1812.1.1
 	type = land
 	personality = defence_1.1
@@ -81,7 +81,7 @@ leader = {
 }
 leader = {
 	name = "Pyotr Volkonsky"
-	#picture = rus_gen_volkonsky
+	picture = rus_gen_volkonsky
 	date = 1812.1.1
 	type = land
 	personality = defence_1.1
@@ -90,7 +90,7 @@ leader = {
 }
 leader = {
 	name = "Mikhail Vorontsov"
-	#picture = rus_gen_vorontsov
+	picture = rus_gen_vorontsov
 	date = 1814.1.1
 	type = land
 	personality = defence_1.1
@@ -99,7 +99,7 @@ leader = {
 }
 leader = {
 	name = "Alexander Chernyshev"
-	#picture = rus_gen_chernyshev
+	picture = rus_gen_chernyshev
 	date = 1821.1.1
 	type = land
 	personality = defence_1.1
@@ -108,7 +108,7 @@ leader = {
 }
 leader = {
 	name = "Mikhail Lazarev"
-	#picture = rus_adm_lazarev
+	picture = rus_adm_lazarev
 	date = 1827.1.1
 	type = sea
 	personality = defence_1.1
@@ -117,7 +117,7 @@ leader = {
 }
 leader = {
 	name = "Fyodor von Berg"
-	#picture = rus_gen_berg
+	picture = rus_gen_berg
 	date = 1828.1.1
 	type = land
 	personality = defence_1.1
@@ -126,7 +126,7 @@ leader = {
 }
 leader = {
 	name = "Mikhail Gorchakov"
-	#picture = rus_gen_gorchakov
+	picture = rus_gen_gorchakov
 	date = 1830.1.1
 	type = land
 	personality = defence_1.1
@@ -135,7 +135,7 @@ leader = {
 }
 leader = {
 	name = "Nikolai Muraviev-Karsky"
-	#picture = rus_gen_muravievkarsky
+	picture = rus_gen_muravievkarsky
 	date = 1832.1.1
 	type = land
 	personality = defence_1.1
@@ -144,7 +144,7 @@ leader = {
 }
 leader = {
 	name = "Aleksandr Menshikov"
-	#picture = rus_adm_menshikov
+	picture = rus_adm_menshikov
 	date = 1833.1.1
 	type = sea
 	personality = defence_1.1
@@ -152,7 +152,7 @@ leader = {
 }
 leader = {
 	name = "Matvey Khrapovitsky"
-	#picture = rus_gen_khrapovitsky
+	picture = rus_gen_khrapovitsky
 	date = 1835.1.1
 	type = land
 	personality = defence_1.1
@@ -160,7 +160,7 @@ leader = {
 }
 leader = {
 	name = "Pyotr Chicherin"
-	#picture = rus_gen_chicherin
+	picture = rus_gen_chicherin
 	date = 1835.1.1
 	type = land
 	personality = defence_1.1
@@ -168,7 +168,7 @@ leader = {
 }
 leader = {
 	name = "Ferdinand Wrangel"
-	#picture = rus_adm_wrangel
+	picture = rus_adm_wrangel
 	date = 1836.1.1
 	type = sea
 	personality = defence_1.1
@@ -176,7 +176,7 @@ leader = {
 }
 leader = {
 	name = "Pyotr Gorchakov"
-	#picture = rus_gen_gorchakovpyotr
+	picture = rus_gen_gorchakovpyotr
 	date = 1820.1.1
 	type = land
 	personality = defence_1.1
@@ -185,7 +185,7 @@ leader = {
 }
 leader = {
 	name = "Dimitry von der Osten-Sacken"
-	#picture = rus_gen_ostensacken
+	picture = rus_gen_ostensacken
 	date = 1824.1.1
 	type = land
 	personality = defence_1.1
@@ -194,7 +194,7 @@ leader = {
 }
 leader = {
 	name = "Vladimir Sievers"
-	#picture = rus_gen_sievers
+	picture = rus_gen_sievers
 	date = 1823.1.1
 	type = land
 	personality = defence_1.1
@@ -202,8 +202,8 @@ leader = {
 	prestige = 0.2
 }
 leader = {
-	name = "Alexander von Luders"
-	#picture = rus_gen_lueders
+	name = "Alexander von L�ders"
+	picture = rus_gen_lueders
 	date = 1829.1.1
 	type = land
 	personality = defence_1.1
@@ -212,7 +212,7 @@ leader = {
 }
 leader = {
 	name = "Vasily Bebutov"
-	#picture = rus_gen_bebutov
+	picture = rus_gen_bebutov
 	date = 1825.1.1
 	type = land
 	personality = defence_1.1
@@ -221,7 +221,7 @@ leader = {
 }
 leader = {
 	name = "Nikolay Read"
-	#picture = rus_gen_read
+	picture = rus_gen_read
 	date = 1835.1.1
 	type = land
 	personality = defence_1.1
@@ -229,7 +229,7 @@ leader = {
 }
 leader = {
 	name = "Nikokay Sukhozanet"
-	#picture = rus_gen_sukhozanet
+	picture = rus_gen_sukhozanet
 	date = 1824.1.1
 	type = land
 	personality = defence_1.1
@@ -237,8 +237,8 @@ leader = {
 	prestige = 0.1
 }
 leader = {
-	name = "Stepan Andreievski"
-	#picture = rus_gen_sukhozanet
+	name = "Stepan Andreïevski"
+	picture = rus_gen_sukhozanet
 	date = 1820.1.1
 	type = land
 	personality = defence_3.1
@@ -246,8 +246,8 @@ leader = {
 	prestige = 0.1
 }
 leader = {
-	name = "Alexei Nikolaievitch Bakhmetev"
-	#picture = rus_adm_litke
+	name = "Alexeï Nikolaïevitch Bakhmetev"
+	picture = rus_adm_litke
 	date = 1790.1.1
 	type = land
 	personality = defence_2.3
@@ -821,6 +821,11 @@ navy = {
 	}
 
 	ship = {
+		name= "Smely�"
+		type = manowar
+	}
+
+	ship = {
 		name= "Archistratig Gavriil"
 		type = manowar
 	}
@@ -831,7 +836,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Chrabryi"
+		name= "Chrabry�"
 		type = manowar
 	}
 

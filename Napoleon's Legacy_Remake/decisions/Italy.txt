@@ -104,7 +104,7 @@ political_decisions = {
 						is_core = PAP
 						is_core = LOM
 						is_core = VEN
-						is_core = NPL
+						is_core = NAP
 						is_core = SYC
 					}
 				}
@@ -118,7 +118,7 @@ political_decisions = {
 				remove_core = PAP
 				remove_core = VEN
 				remove_core = LOM
-				remove_core = NPL
+				remove_core = NAP
 				remove_core = SYC
 			}
 		}

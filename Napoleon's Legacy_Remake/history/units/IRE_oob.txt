@@ -83,7 +83,7 @@ navy = {
     name = "Transport Fleet"
     location = 263
     ship = {
-		name= "Don na nGall"
+		name= "D�n na nGall"
 		type = manowar
 	}
 	ship = {
@@ -91,7 +91,7 @@ navy = {
 		type = manowar
 	}
 	ship = {
-		name= "Conghaile"
+		name= "ӒConghaile"
 		type = manowar
 	}
 
@@ -116,7 +116,7 @@ navy = {
 		type = frigate
 	}
 	ship = {
-		name= "an Cobh"
+		name= "an C�bh"
 		type = frigate
 	}
 	ship = {

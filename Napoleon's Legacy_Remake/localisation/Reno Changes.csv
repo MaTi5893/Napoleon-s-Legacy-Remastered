@@ -1,4 +1,10 @@
 #############################################;;;;;;;x
+#New National Focuses;;;;;;;x
+#############################################;;;;;;;x
+assimilation_focus;Increase Assimilation Rate;;;;;;;x
+assimilation_focus_desc;Increase state assimilation rate by 200%.;;;;;;;x
+assimilation_focus_header;Assimilation;;;;;;;x
+#############################################;;;;;;;x
 #New Units;;;;;;;x
 #############################################;;;;;;;x
 infantry_offensive;Offensive Infantry;;;;;;;x
@@ -91,15 +97,27 @@ demand_concession_casus_belli_china;Chinese Core Concession;;;;;;;x
 demand_concession_casus_belli_china_short;Demand $STATE$ from China;;;;;;;x
 demand_concession_casus_belli_china_desc;Force China to concede core territory.;;;;;;;x
 demand_concession_casus_belli_china_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;x
-take_capital;Take Capital Earlygame;;;;;;;;;;;
-take_capital_short;Acquire capital $STATE$.;;;;;;;;;;;
-take_capital_desc;Force target to concede its capital $STATE$.;;;;;;;;;;;
-take_capital_setup;Demand that $RECIPIENT$ secede its capital.;;;;;;;;;;;
+take_capital_earlygame;Take Capital Earlygame;;;;;;;;;;;
+take_capital_earlygame_short;Acquire capital $STATE$.;;;;;;;;;;;
+take_capital_earlygame_desc;Force target to concede its capital $STATE$.;;;;;;;;;;;
+take_capital_earlygame_setup;Demand that $RECIPIENT$ secede its capital.;;;;;;;;;;;
+take_capital_midgame;Take Capital Midgame;;;;;;;;;;;
+take_capital_midgame_short;Acquire capital $STATE$.;;;;;;;;;;;
+take_capital_midgame_desc;Force target to concede its capital $STATE$.;;;;;;;;;;;
+take_capital_midgame_setup;Demand that $RECIPIENT$ secede its capital.;;;;;;;;;;;
+take_capital_lategame;Take Capital Lategame;;;;;;;;;;;
+take_capital_lategame_short;Acquire capital $STATE$.;;;;;;;;;;;
+take_capital_lategame_desc;Force target to concede its capital $STATE$.;;;;;;;;;;;
+take_capital_lategame_setup;Demand that $RECIPIENT$ secede its capital.;;;;;;;;;;;
 #############################################;;;;;;;x
 #Additional Modifiers;;;;;;;x
 #############################################;;;;;;;x
+china_rp_nerf;Chinese RP from Conquest Nerf;;;;;;;x
+china_rp_nerf_desc;Chinese research points from quest nerf (only matters for uncivs);;;;;;;x
 the_homestead_act_mexico;Mexican Homestead Act;;;;;;;x
 the_homestead_act_mexico_desc;An Alternative Homestead Act established by Mexico.;;;;;;;;;;;;;x,
+assimilation_fix_modifier;Assimilation Fix Modifier;;;;;;;x
+assimilation_fix_modifier_desc;This modifier exists to counter the engine restricted assimilation modifier on pops who are on their cultural_union cores.;;;;;;;x
 policestate_modifier;The Police State;;;;;;;x
 policestate_modifier_desc;You have an active Police State.;;;;;;;x
 one_party_state_modifier;One Party State;;;;;;;x

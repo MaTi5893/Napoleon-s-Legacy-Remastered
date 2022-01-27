@@ -1,7 +1,7 @@
-owner = NPL
-controller = NPL
+owner = NAP
+controller = NAP
 add_core = SYC
-add_core = NPL
+add_core = NAP
 add_core = ITA
 trade_goods = sulphur
 life_rating = 33

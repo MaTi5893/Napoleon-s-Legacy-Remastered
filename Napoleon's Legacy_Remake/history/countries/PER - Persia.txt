@@ -43,22 +43,11 @@ nonstate_consciousness = 0
 
 #Reforms
 foreign_training = yes_foreign_training
-set_country_flag = foreign_tactics_flag
-
 foreign_weapons = yes_foreign_weapons
-set_country_flag = foreign_weapons_flag
-
 foreign_officers = yes_foreign_officers
-set_country_flag = fo_flag
-
 land_reform = yes_land_reform
-set_country_flag = landr_flag
-
 finance_reform = yes_finance_reform
-set_country_flag = fref_flag
-
 industrial_construction = yes_western_science
-set_country_flag = indc_flag
 
 #Technologies
 post_napoleonic_thought = 1
@@ -73,35 +62,3 @@ basic_chemistry = 1
 
 oob = "PER_oob.txt"
 
-1851.1.1 = {
-	decision = establish_the_dar_al_funun
-}
-
-1861.1.1 = {
-	oob = "/1861/PER_oob.txt"
-	literacy = 0.12
-	non_state_culture_literacy = 0.12
-
-	#Economic Reforms
-	land_reform = land_reform_two
-	admin_reform = yes_admin_reform
-	finance_reform = finance_reform_two
-	education_reform = education_reform_two
-	transport_improv = yes_transport_improv
-	industrial_construction = western_science_two
-
-	#Military Reforms
-	foreign_weapons = foreign_weapons_two
-	military_constructions = yes_military_constructions
-
-	#Technologies
-	muzzle_loaded_rifles = 1
-	stock_exchange = 1
-	no_standard = 1
-	early_classical_theory_and_critique = 1
-	freedom_of_trade = 1
-	malthusian_thought = 1
-	practical_steam_engine = 1
-	experimental_railroad = 1
-	medicine = 1
-}

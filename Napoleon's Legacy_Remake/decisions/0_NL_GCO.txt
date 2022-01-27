@@ -34,7 +34,7 @@ political_decisions = {
 					add_core = THIS
 				}
 			}
-			badboy = 10
+			badboy = 15
 			set_country_flag = forced_peru
 		}
 	}
@@ -56,7 +56,7 @@ political_decisions = {
 				}
 			}
 			invention = national_fraternity
-			rank = 10
+			is_greater_power = yes
 			war_policy = jingoism
 		}
 		effect = {
@@ -72,7 +72,7 @@ political_decisions = {
 			}
 			#add_accepted_culture = south_andean
 			add_accepted_culture = platinean
-			badboy = 12
+			badboy = 15
 			set_country_flag = forced_south_america
 		}
 	}

@@ -70,7 +70,7 @@ army = {
 
 leader = {
 	name = "Julius von Hartmann"
-	#picture = han_gen_hartmann
+	picture = han_gen_hartmann
 	date = 1818.1.1
 	type = land
 	personality = defence_1.1
@@ -80,7 +80,7 @@ leader = {
 
 leader = {
 	name = "Hugh Halkett"
-	#picture = han_gen_halkett
+	picture = han_gen_halkett
 	date = 1835.1.1
 	type = land
 	personality = defence_1.1
@@ -90,7 +90,7 @@ leader = {
 
 leader = {
 	name = "Karl August von Alten"
-	#picture = han_gen_alten
+	picture = han_gen_alten
 	date = 1812.1.1
 	type = land
 	personality = defence_1.1
@@ -100,7 +100,7 @@ leader = {
 
 leader = {
 	name = "Georg von Baring"
-	#picture = han_gen_baring
+	picture = han_gen_baring
 	date = 1834.1.1
 	type = land
 	personality = defence_1.1

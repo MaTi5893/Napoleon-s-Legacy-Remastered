@@ -32,7 +32,7 @@ political_decisions = {
 		picture = become_eng
 		potential = {
 			tag = GBR
-			NOT = { has_country_flag = the_true_government }
+			NOT = { has_country_flag = the_true_government } #Could do it with NOT = { casus_belli = ENG } but whatever
 			ENG = { exists = yes }
 		}
 		allow = {

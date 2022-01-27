@@ -41,6 +41,12 @@ SAR = {
 	influence_value = 25
 }
 
+PAP = {
+	value = 125
+	level = 3
+	influence_value = 25
+}
+
 SWI = {
 	value = 125
 	level = 3
@@ -68,7 +74,7 @@ ANH = {
 }
 leader = {
 	name = "Josef Radetzky"
-	#picture = aus_gen_radetzky
+	picture = aus_gen_radetzky
 	date = 1805.1.1
 	type = land
 	personality = defence_2.1
@@ -77,7 +83,7 @@ leader = {
 }
 leader = {
 	name = "Julius von Haynau"
-	#picture = aus_gen_haynau
+	picture = aus_gen_haynau
 	date = 1835.1.1
 	type = land
 	personality = defence_1.1
@@ -85,7 +91,7 @@ leader = {
 }
 leader = {
 	name = "Eugen Wratislaw"
-	#picture = aus_gen_wratislaw
+	picture = aus_gen_wratislaw
 	date = 1830.1.1
 	type = land
 	personality = defence_1.1
@@ -94,7 +100,7 @@ leader = {
 }
 leader = {
 	name = "Heinrich von Hess"
-	#picture = aus_gen_hess
+	picture = aus_gen_hess
 	date = 1834.1.1
 	type = land
 	personality = defence_1.1
@@ -103,7 +109,7 @@ leader = {
 }
 leader = {
 	name = "Konstantin d'Aspre"
-	#picture = aus_gen_aspre
+	picture = aus_gen_aspre
 	date = 1832.1.1
 	type = land
 	personality = defence_1.1
@@ -111,8 +117,8 @@ leader = {
 	prestige = 0.1
 }
 leader = {
-	name = "Alfred zu Windisch-Gratz"
-	#picture = aus_gen_windischgraetz
+	name = "Alfred zu Windisch-Gr�tz"
+	picture = aus_gen_windischgraetz
 	date = 1826.1.1
 	type = land
 	personality = defence_1.1
@@ -121,7 +127,7 @@ leader = {
 }
 leader = {
 	name = "Georg Rukavina"
-	#picture = aus_gen_rukavina
+	picture = aus_gen_rukavina
 	date = 1829.1.1
 	type = land
 	personality = defence_1.1
@@ -130,7 +136,7 @@ leader = {
 }
 leader = {
 	name = "Laval Nugent"
-	#picture = aus_gen_nugent
+	picture = aus_gen_nugent
 	date = 1815.1.1
 	type = land
 	personality = defence_1.1
@@ -139,7 +145,7 @@ leader = {
 }
 leader = {
 	name = "Anton von Puchner"
-	#picture = aus_gen_puchner
+	picture = aus_gen_puchner
 	date = 1834.1.1
 	type = land
 	personality = defence_1.1
@@ -148,7 +154,7 @@ leader = {
 }
 leader = {
 	name = "Ludwig von Welden"
-	#picture = aus_gen_welden
+	picture = aus_gen_welden
 	date = 1836.1.1
 	type = land
 	personality = defence_1.1
@@ -156,7 +162,7 @@ leader = {
 }
 leader = {
 	name = "Ignaz zu Hardegg"
-	#picture = aus_gen_hardegg
+	picture = aus_gen_hardegg
 	date = 1809.1.1
 	type = land
 	personality = defence_1.1
@@ -165,7 +171,7 @@ leader = {
 }
 leader = {
 	name = "Karl von Ficquelmont"
-	#picture = aus_gen_ficquelmont
+	picture = aus_gen_ficquelmont
 	date = 1814.1.1
 	type = land
 	personality = defence_1.1
@@ -174,7 +180,7 @@ leader = {
 }
 leader = {
 	name = "Theodor Baillet"
-	#picture = aus_gen_baillet
+	picture = aus_gen_baillet
 	date = 1815.1.1
 	type = land
 	personality = defence_1.1
@@ -183,7 +189,7 @@ leader = {
 }
 leader = {
 	name = "Vincenz von Augustin"
-	#picture = aus_gen_augustin
+	picture = aus_gen_augustin
 	date = 1831.1.1
 	type = land
 	personality = defence_1.1
@@ -192,7 +198,7 @@ leader = {
 }
 leader = {
 	name = "Heinrich Reuss"
-	#picture = aus_gen_reuss
+	picture = aus_gen_reuss
 	date = 1830.1.1
 	type = land
 	personality = defence_1.1
@@ -201,7 +207,7 @@ leader = {
 }
 leader = {
 	name = "Franz von Schlik"
-	#picture = aus_gen_schlik
+	picture = aus_gen_schlik
 	date = 1835.1.1
 	type = land
 	personality = defence_1.1

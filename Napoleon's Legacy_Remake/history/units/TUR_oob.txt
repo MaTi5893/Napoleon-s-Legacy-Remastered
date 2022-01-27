@@ -38,7 +38,7 @@ WAL = {
 
 leader = {
 	name = "Mehmet Vesif Pasha"
-	#picture = tur_gen_mehmetvesif
+	picture = tur_gen_mehmetvesif
 	date = 1830.1.1
 	type = land
 	personality = defence_1.1
@@ -47,7 +47,7 @@ leader = {
 }
 leader = {
 	name = "Mahmud II"
-	#picture = tur_gen_mehmetvesif
+	picture = tur_gen_mehmetvesif
 	date = 1786.1.1
 	type = land
 	personality = defence_3.4
@@ -57,7 +57,7 @@ leader = {
 
 leader = {
 	name = "Mehmet Namik Pasha"
-	#picture = tur_gen_mehmetnamik
+	picture = tur_gen_mehmetnamik
 	date = 1832.1.1
 	type = land
 	personality = defence_1.1
@@ -65,7 +65,7 @@ leader = {
 }
 leader = {
 	name = "Halil Rifat Pasha"
-	#picture = tur_adm_halilrifat
+	picture = tur_adm_halilrifat
 	date = 1830.1.1
 	type = sea
 	personality = defence_2.1
@@ -82,7 +82,7 @@ leader = {
 }
 leader = {
 	name = "Wojciech Chrzanowski"
-	#picture = tur_gen_chrzanowski
+	picture = tur_gen_chrzanowski
 	date = 1836.1.1
 	type = land
 	personality = defence_1.1
@@ -90,7 +90,7 @@ leader = {
 }
 leader = {
 	name = "Helmuth von Moltke"
-	#picture = tur_gen_moltke
+	picture = tur_gen_moltke
 	date = 1833.1.1
 	type = land
 	personality = defence_1.1
@@ -98,7 +98,7 @@ leader = {
 }
 leader = {
 	name = "Abdi Pasha"
-	#picture = tur_gen_abdi
+	picture = tur_gen_abdi
 	date = 1836.1.1
 	type = land
 	personality = defence_1.1
