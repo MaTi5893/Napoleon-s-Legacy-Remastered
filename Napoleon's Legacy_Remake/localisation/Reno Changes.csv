@@ -75,17 +75,17 @@ assert_on_steppe_title;Assert Ourselves in Central Asia;;;;Spanish Loc;;;x
 assert_on_steppe_desc;The Major Powers chaffing at our periphery is inclining us to attempt projecting into the steppe, but who could possibly own such a vast region with land ownership? The real value is the people themselves.;;;;Spanish Loc;;;x
 enact_the_homestead_act_mexico_title;The Mexican Homestead Act;;;;Spanish Loc;;;x
 enact_the_homestead_act_mexico_desc;During this time period, there were land reforms in Mexico very similar to the United States Homestead Act.;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x
+#############################################;;;;;;;x
 double_down_in_the_balkans_title;Double Down in the Balkans;;;;Spanish Loc;;;x
 double_down_in_the_balkans_desc;For too long have the peoples of the Balkans thwarted our efforts of expansion. Let us focus all our attention to the re-education and assimilation of these barbaric peoples.;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x
+#############################################;;;;;;;x
 #Additional Provinces;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x
-PROV3258;Benevento;;;;Spanish Loc;;;x
-PROV3259;Avellino;;;;Spanish Loc;;;x
-PROV3260;Rieta;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x
-#Additional CBs;;;;Spanish Loc;;;x
+#############################################;;;;;;;x
+PROV3258;Benevento;;;;Benevento;;;x
+PROV3259;Avellino;;;;Avellino;;;x
+PROV3260;Rieta;;;;Rieta;;;x
+#############################################;;;;;;;x
+#Additional CBs;;;;;;;x
 #############################################;;;;Spanish Loc;;;x
 demand_concession_casus_belli_china;Chinese Core Concession;;;;Spanish Loc;;;x
 demand_concession_casus_belli_china_short;Demand $STATE$ from China;;;;Spanish Loc;;;x
@@ -96,7 +96,7 @@ take_capital_short;Acquire capital $STATE$.;;;;;;;;;;;
 take_capital_desc;Force target to concede its capital $STATE$.;;;;;;;;;;;
 take_capital_setup;Demand that $RECIPIENT$ secede its capital.;;;;;;;;;;;
 #############################################;;;;Spanish Loc;;;x
-#Additional Modifiers;;;;Spanish Loc;;;x
+#Additional Modifiers;;;;;;;x
 #############################################;;;;Spanish Loc;;;x
 the_homestead_act_mexico;Mexican Homestead Act;;;;Spanish Loc;;;x
 the_homestead_act_mexico_desc;An Alternative Homestead Act established by Mexico.;;;;;;;;;;Spanish Loc;;;x,
