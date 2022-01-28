@@ -1,9 +1,9 @@
 i stole this;from HPM;cheers;;;;;;x
-EVTNAME2650;$FROMCOUNTRY_ADJ$ Lands;;;;;;;x
-EVTDESC2650;According to our peace treaty with $FROMCOUNTRY$, we must give up lands that rightfully belong to them -- and only the ones that belong to them.;;;;;;;x
-EVTNAME2651;The $FROMCOUNTRY_ADJ$ Demand;;;;;;;x
-EVTDESC2651;According to our peace treaty with $FROMCOUNTRY$, we must give up lands that rightfully belong to another nation -- but only those lands.;;;;;;;x
-EVTNAME2660;Our Lands Returned;;;;;;;x
-EVTDESC2660;As a result of the treaty with $FROMCOUNTRY$, some of $COUNTRY$'s lands are to be returned. We are, however, only entitled to those lands over which we have a claim. Any others should, by all rights, be returned to $FROMCOUNTRY$. \n \n §RNOTE: If you took $FROMCOUNTRY_ADJ$ core provinces which are not also your own core provinces in this war, enacting the 'return' option will give those lands back. Be careful!§!;;;;;;;x
-EVT2660OPTA;Only keep territories with our cores. Return the rest.;;;;;;;x
-EVT2660OPTB;We will keep everything we've gained.;;;;;;;x
+EVTNAME2650;$FROMCOUNTRY_ADJ$ Lands;;;;Spanish Loc;;;x
+EVTDESC2650;According to our peace treaty with $FROMCOUNTRY$, we must give up lands that rightfully belong to them -- and only the ones that belong to them.;;;;Spanish Loc;;;x
+EVTNAME2651;The $FROMCOUNTRY_ADJ$ Demand;;;;Spanish Loc;;;x
+EVTDESC2651;According to our peace treaty with $FROMCOUNTRY$, we must give up lands that rightfully belong to another nation -- but only those lands.;;;;Spanish Loc;;;x
+EVTNAME2660;Our Lands Returned;;;;Spanish Loc;;;x
+EVTDESC2660;As a result of the treaty with $FROMCOUNTRY$, some of $COUNTRY$'s lands are to be returned. We are, however, only entitled to those lands over which we have a claim. Any others should, by all rights, be returned to $FROMCOUNTRY$. \n \n §RNOTE: If you took $FROMCOUNTRY_ADJ$ core provinces which are not also your own core provinces in this war, enacting the 'return' option will give those lands back. Be careful!§!;;;;Spanish Loc;;;x
+EVT2660OPTA;Only keep territories with our cores. Return the rest.;;;;Spanish Loc;;;x
+EVT2660OPTB;We will keep everything we've gained.;;;;Spanish Loc;;;x

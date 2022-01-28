@@ -1,48 +1,48 @@
-;;;;;;;x
-BPM_TOOL_BORDER_1;Slim Dashed Border;;;;;;;x
-BPM_TOOL_BORDER_2;Medium Dashed Border;;;;;;;x
-BPM_TOOL_BORDER_3;Thick Dashed Border;;;;;;;x
-BPM_TOOL_BORDER_4;Medium Border;;;;;;;x
-BPM_TOOL_BORDER_5;Thick Border;;;;;;;x
-BP_TOOL_COLOR_BLUE_SAR;Blue (Sardinia);;;;;;;x
-BP_TOOL_COLOR_BLUE_ASY;Blue (Assyria);;;;;;;x
-BP_TOOL_COLOR_WHITE_AUS;White (Austria);;;;;;;x
-BP_TOOL_COLOR_GREY_CSA;Grey (CSA);;;;;;;x
-BP_TOOL_COLOR_BLACK_GER;Black (Germany);;;;;;;x
-BP_TOOL_COLOR_GREY_BUL;Grey (Bulgaria);;;;;;;x
-BP_TOOL_COLOR_PURPLE_KUR;Purple (Sicily);;;;;;;x
-BP_TOOL_COLOR_BLUE_USA;Blue (USA);;;;;;;x
-BP_TOOL_COLOR_BLUE_LPL;Blue (United Provinces);;;;;;;x
-BP_TOOL_COLOR_GREEN_BRZ;Green (Brazil);;;;;;;x
-BP_TOOL_COLOR_GREEN_MEX;Green (Mexico);;;;;;;x
-BP_TOOL_COLOR_RED_JAP;Red (Japan);;;;;;;x
-BP_TOOL_COLOR_BROWN_KUK;Brown (Austria-Hungary);;;;;;;x
-BP_TOOL_COLOR_ORANGE_HOL;Orange (Netherlands);;;;;;;x
-BP_TOOL_COLOR_BLUE_TEX;Blue (Texas);;;;;;;x
-BP_TOOL_COLOR_BLUE_PRU;Blue (Prussia);;;;;;;x
-BP_TOOL_COLOR_GREEN_RUS;Green (Russia);;;;;;;x
-BP_TOOL_COLOR_GREEN_ITA;Green (Italy);;;;;;;x
-BP_TOOL_COLOR_RED_DNB;Red (Danube Federation);;;;;;;x
-BP_TOOL_COLOR_BROWN_HUN;Brown (Hungary);;;;;;;x
-BP_TOOL_COLOR_YELLOW_ROM;Yellow (Romania);;;;;;;x
-BP_TOOL_COLOR_BLUE_VEN;Blue (Venice);;;;;;;x
-BP_TOOL_COLOR_BLUE_SCA;Blue (Scandinavia);;;;;;;x
-BP_TOOL_COLOR_GREEN_SYR;Green (Syria);;;;;;;x
-BP_TOOL_COLOR_GREEN_ARU;Green (Arabia);;;;;;;x
-BP_TOOL_COLOR_PINK_POL;Pink (Poland);;;;;;;x
-BP_TOOL_COLOR_BROWN_PBC;Brown (PBC);;;;;;;x
-BP_TOOL_COLOR_YELLOW_TKG;Yellow (Shogunate);;;;;;;x
-BP_TOOL_COLOR_BLUE_ISR;Blue (Israel);;;;;;;x
-BP_TOOL_COLOR_BLUE_GRE;Blue (Greece);;;;;;;x
-BP_TOOL_COLOR_GREEN_POR;Green (Portugal);;;;;;;x
-BP_TOOL_COLOR_GREEN_TUR;Green (Turkey);;;;;;;x
-BP_TOOL_COLOR_RED_ENG;Red (UK);;;;;;;x
-BP_TOOL_COLOR_BROWN_SAF;Brown (SAF);;;;;;;x
-BP_TOOL_COLOR_YELLOW_PER;Yellow (Persia);;;;;;;x
-BP_TOOL_COLOR_BLUE_FRA;Blue (France);;;;;;;x
-BP_TOOL_COLOR_BLUE_YUG;Blue (Yugoslavia);;;;;;;x
-BP_TOOL_COLOR_GREEN_CAN;Green (Canada);;;;;;;x
-BP_TOOL_COLOR_GREEN_IRE;Green (Ireland);;;;;;;x
-BP_TOOL_COLOR_RED_RUS;Red (USSR);;;;;;;x
-BP_TOOL_COLOR_BROWN_GER;Brown (Germany);;;;;;;x
-BP_TOOL_COLOR_YELLOW_SPA;Yellow (Spain);;;;;;;x
+;;;;Spanish Loc;;;x
+BPM_TOOL_BORDER_1;Slim Dashed Border;;;;Spanish Loc;;;x
+BPM_TOOL_BORDER_2;Medium Dashed Border;;;;Spanish Loc;;;x
+BPM_TOOL_BORDER_3;Thick Dashed Border;;;;Spanish Loc;;;x
+BPM_TOOL_BORDER_4;Medium Border;;;;Spanish Loc;;;x
+BPM_TOOL_BORDER_5;Thick Border;;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BLUE_SAR;Blue (Sardinia);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BLUE_ASY;Blue (Assyria);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_WHITE_AUS;White (Austria);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_GREY_CSA;Grey (CSA);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BLACK_GER;Black (Germany);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_GREY_BUL;Grey (Bulgaria);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_PURPLE_KUR;Purple (Sicily);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BLUE_USA;Blue (USA);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BLUE_LPL;Blue (United Provinces);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_GREEN_BRZ;Green (Brazil);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_GREEN_MEX;Green (Mexico);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_RED_JAP;Red (Japan);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BROWN_KUK;Brown (Austria-Hungary);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_ORANGE_HOL;Orange (Netherlands);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BLUE_TEX;Blue (Texas);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BLUE_PRU;Blue (Prussia);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_GREEN_RUS;Green (Russia);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_GREEN_ITA;Green (Italy);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_RED_DNB;Red (Danube Federation);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BROWN_HUN;Brown (Hungary);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_YELLOW_ROM;Yellow (Romania);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BLUE_VEN;Blue (Venice);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BLUE_SCA;Blue (Scandinavia);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_GREEN_SYR;Green (Syria);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_GREEN_ARU;Green (Arabia);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_PINK_POL;Pink (Poland);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BROWN_PBC;Brown (PBC);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_YELLOW_TKG;Yellow (Shogunate);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BLUE_ISR;Blue (Israel);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BLUE_GRE;Blue (Greece);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_GREEN_POR;Green (Portugal);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_GREEN_TUR;Green (Turkey);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_RED_ENG;Red (UK);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BROWN_SAF;Brown (SAF);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_YELLOW_PER;Yellow (Persia);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BLUE_FRA;Blue (France);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BLUE_YUG;Blue (Yugoslavia);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_GREEN_CAN;Green (Canada);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_GREEN_IRE;Green (Ireland);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_RED_RUS;Red (USSR);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_BROWN_GER;Brown (Germany);;;;Spanish Loc;;;x
+BP_TOOL_COLOR_YELLOW_SPA;Yellow (Spain);;;;Spanish Loc;;;x
