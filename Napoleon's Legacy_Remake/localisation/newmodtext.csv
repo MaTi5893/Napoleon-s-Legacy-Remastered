@@ -1,16 +1,16 @@
-demand_reperations_desc;Force another §Ycountry§W to pay reparations to us;;;;;;;x
-demand_reperations;Demand Reparations;;;;;;;x
-demand_reperations_short;Make $RECIPIENT$ pay reparations;;;;;;;x
-demand_reperations_setup;Make $RECIPIENT$ pay reparations;;;;;;;x
-EVTNAME40000;The Shah visits Europe;;;;;;;x
-EVTDESC40000;The Shah has decided to visit Europe to witness first hand the benefits of industrialisation and enlightenment. Some European monarchs have even taken this occasion to invite the Shah into the European knightly orders. One wonders what effect this will have on him...;;;;;;;x
-EVTOPTA40000;Such progress!;;;;;;;x
-Execute_Bab_title;Bab Execution;;;;;;;x
-Execute_Bab_desc;The Bab, leader of the Babist movement has for some time been in our possession. Due to recent unrest among the followers of Babism, powerful figures in our court wish to execute him. This will hopefully restore unity to the empire, but might cause short term turmoil.;;;;;;;x
-Bonus_Immigration;Bonus Immigration;;;;;;;x
-Bonus_Immigration_desc;This country is a target for immigration. It should expect more immigrants than comparable countries.;;;;;;;x
-EVTNAME999100;Cape Horn;;;;;;;x
-EVTDESC999100;Our country is located on the wrong side of the Andes Mountains, which means that for migrants from europe to be able to reach our shores, they will need to traverse the treacherous Cape Horn. The waters around Cape Horn are particularly hazardous, owing to strong winds, large waves, strong currents and icebergs. These dangers have made it notorious as a sailors graveyard. For these reasons, we should not expect many migrants will journey to our country.;;;;;;;x
-EVTOPTA999100;We will prosper regardless!;;;;;;;x
-gibraltar_of_paraguay_title;Build Humaita Fortress;;;;;;;x
-gibraltar_of_paraguay_desc;Near the mouth of the Paraguay river, there is a sharp bend. A strategic site without equal in the region, building a fortress here would allow us to control all passage in and out of our country, and even Mato Grosso. We will build a fortress the likes of which have never been seen in South America, and one day it will be known as the Gibraltar of South America.;;;;;;;x
+demand_reperations_desc;Force another §Ycountry§W to pay reparations to us;;;;Spanish Loc;;;x
+demand_reperations;Demand Reparations;;;;Spanish Loc;;;x
+demand_reperations_short;Make $RECIPIENT$ pay reparations;;;;Spanish Loc;;;x
+demand_reperations_setup;Make $RECIPIENT$ pay reparations;;;;Spanish Loc;;;x
+EVTNAME40000;The Shah visits Europe;;;;Spanish Loc;;;x
+EVTDESC40000;The Shah has decided to visit Europe to witness first hand the benefits of industrialisation and enlightenment. Some European monarchs have even taken this occasion to invite the Shah into the European knightly orders. One wonders what effect this will have on him...;;;;Spanish Loc;;;x
+EVTOPTA40000;Such progress!;;;;Spanish Loc;;;x
+Execute_Bab_title;Bab Execution;;;;Spanish Loc;;;x
+Execute_Bab_desc;The Bab, leader of the Babist movement has for some time been in our possession. Due to recent unrest among the followers of Babism, powerful figures in our court wish to execute him. This will hopefully restore unity to the empire, but might cause short term turmoil.;;;;Spanish Loc;;;x
+Bonus_Immigration;Bonus Immigration;;;;Spanish Loc;;;x
+Bonus_Immigration_desc;This country is a target for immigration. It should expect more immigrants than comparable countries.;;;;Spanish Loc;;;x
+EVTNAME999100;Cape Horn;;;;Spanish Loc;;;x
+EVTDESC999100;Our country is located on the wrong side of the Andes Mountains, which means that for migrants from europe to be able to reach our shores, they will need to traverse the treacherous Cape Horn. The waters around Cape Horn are particularly hazardous, owing to strong winds, large waves, strong currents and icebergs. These dangers have made it notorious as a sailors graveyard. For these reasons, we should not expect many migrants will journey to our country.;;;;Spanish Loc;;;x
+EVTOPTA999100;We will prosper regardless!;;;;Spanish Loc;;;x
+gibraltar_of_paraguay_title;Build Humaita Fortress;;;;Spanish Loc;;;x
+gibraltar_of_paraguay_desc;Near the mouth of the Paraguay river, there is a sharp bend. A strategic site without equal in the region, building a fortress here would allow us to control all passage in and out of our country, and even Mato Grosso. We will build a fortress the likes of which have never been seen in South America, and one day it will be known as the Gibraltar of South America.;;;;Spanish Loc;;;x

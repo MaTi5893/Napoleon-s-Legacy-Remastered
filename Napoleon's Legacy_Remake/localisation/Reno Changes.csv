@@ -1,140 +1,140 @@
-#############################################;;;;;;;x
-#New Units;;;;;;;x
-#############################################;;;;;;;x
-infantry_offensive;Offensive Infantry;;;;;;;x
-infantry_defensive;Defensive Infantry;;;;;;;x
-artillery_offensive;Offensive Artillery;;;;;;;x
-artillery_defensive;Defensive Artillery;;;;;;;x
-#############################################;;;;;;;x
+#############################################;;;;Spanish Loc;;;x
+#New Units;;;;Spanish Loc;;;x
+#############################################;;;;Spanish Loc;;;x
+infantry_offensive;Offensive Infantry;;;;Spanish Loc;;;x
+infantry_defensive;Defensive Infantry;;;;Spanish Loc;;;x
+artillery_offensive;Offensive Artillery;;;;Spanish Loc;;;x
+artillery_defensive;Defensive Artillery;;;;Spanish Loc;;;x
+#############################################;;;;Spanish Loc;;;x
 #Generic Political Parties;;;;;;;x
-#############################################;;;;;;;x
-generic_conservative;Generic Conservative;;;;;;;x
-generic_reactionary;Generic Reactionary;;;;;;;x
-generic_liberal;Generic Liberal;;;;;;;x
-generic_socialist;Generic Socialist;;;;;;;x
-generic_communist;Generic Communist;;;;;;;x
-generic_fascist;Generic Fascist;;;;;;;x
-#############################################;;;;;;;x
+#############################################;;;;Spanish Loc;;;x
+generic_conservative;Generic Conservative;;;;Spanish Loc;;;x
+generic_reactionary;Generic Reactionary;;;;Spanish Loc;;;x
+generic_liberal;Generic Liberal;;;;Spanish Loc;;;x
+generic_socialist;Generic Socialist;;;;Spanish Loc;;;x
+generic_communist;Generic Communist;;;;Spanish Loc;;;x
+generic_fascist;Generic Fascist;;;;Spanish Loc;;;x
+#############################################;;;;Spanish Loc;;;x
 #Event and Decision Names;;;;;;;x
+#############################################;;;;Spanish Loc;;;x
+EVTOPTA99999901;Nice.;;;;Spanish Loc;;;x
+EVTOPTA99999902;Nice.;;;;Spanish Loc;;;x
+EVTOPTA99999903;Nice.;;;;Spanish Loc;;;x
+EVTOPTA99999904;Nice.;;;;Spanish Loc;;;x
+EVTOPTA99999905;Nice.;;;;Spanish Loc;;;x
+EVTNAME99999901;Tractors and Trawlers;;;;Spanish Loc;;;x
+EVTDESC99999901;Mechanized farming, mining, and fishing has arrived in this country, which facilitates an increase in raw resource production.;;;;Spanish Loc;;;x
+EVTNAME99999902;Electricity;;;;Spanish Loc;;;x
+EVTDESC99999902;Electricity has arrived in this country, which facilitates an increase in raw resource production and industrial throughput.;;;;Spanish Loc;;;x
+EVTNAME99999903;Nitroglycerin;;;;Spanish Loc;;;x
+EVTDESC99999903;Nitroglycerin has arrived in this country, which facilitates an increase in raw resource production.;;;;Spanish Loc;;;x
+EVTNAME99999904;Commercial Retailers;;;;Spanish Loc;;;x
+EVTDESC99999904;Establishment of complex distribution channels has begun in this country, which facilitates an increase in raw resource production.;;;;Spanish Loc;;;x
+EVTNAME99999905;Mechanized Production;;;;Spanish Loc;;;x
+EVTDESC99999905;Mechanized production has arrived in this country, which facilitates an increase in raw resource production and industrial throughput.;;;;Spanish Loc;;;x
+country_tractors;Tractors and Trawlers;;;;Spanish Loc;;;x
+desc_country_tractors;Mechanized farming, mining, and fishing has arrived in this country, which facilitates an increase in raw resource production.;;;;Spanish Loc;;;x
+country_electricity;Electricity;;;;Spanish Loc;;;x
+desc_country_electricity;Electricity has arrived in this country, which facilitates an increase in raw resource production.;;;;Spanish Loc;;;x
+country_nitroglycerin;Nitroglycerin;;;;Spanish Loc;;;x
+desc_country_nitroglycerin;Nitroglycerin has arrived in this country, which facilitates an increase in raw resource production.;;;;Spanish Loc;;;x
+country_distribution_channels;Commercial Retailers;;;;Spanish Loc;;;x
+desc_country_distribution_channels;Establishment of complex distribution channels have begun in this country, which facilitates an increase in raw resource production.;;;;Spanish Loc;;;x
+country_machine_tools;Mechanized Production;;;;Spanish Loc;;;x
+desc_country_machine_tools;Mechanized production has arrived in this country, which facilitates an increase in raw resource production and industrial throughput.;;;;Spanish Loc;;;x
+equatoria_expedition_ARA_title;Launch Equatoria Expedition;;;;Spanish Loc;;;x
+equatoria_expedition_ARA_desc;The Khedive of Egypt, Ismail I commissioned an expedition to explore the Equatoria region south of the Sudan, and to organize a new Egyptian province there. A British explorer and engineer named Samuel White Baker who had led an expedition down the Nile in 1865 was contracted by the Khedive to lead the Egyptian forces and to be the first Governor-General of the new territory..;;;;Spanish Loc;;;x
+conquest_of_darfur_ARA_title;Begin Conquest of Darfur;;;;Spanish Loc;;;x
+conquest_of_darfur_ARA_desc;An expansionist Khedive, Ismail I moved to incorporate the territory of Darfur into the Egyptian Sudan in 1874.;;;;Spanish Loc;;;x
+craftsmen_fix_cooldown;Craftsmen Fix Cooldown;;;;Spanish Loc;;;x
+craftsmen_fix_cooldown_desc;Craftsmen Fix Cooldown is 10 years.;;;;Spanish Loc;;;x
+bureaucrats_fix_cooldown;Non-Accepted Bureaucrats Fix Cooldown;;;;Spanish Loc;;;x
+bureaucrats_fix_cooldown_desc;Non-Accepted Bureaucrats Fix Cooldown is 10 years.;;;;Spanish Loc;;;x
+EVTNAME9999901;Craftsmen Exploit Salvage;;;;Spanish Loc;;;x
+EVTDESC9999901;This event converts all non-core/non-accepted craftsmen on your cores into artisans.;;;;Spanish Loc;;;x
+EVT2600OPTA;Integrate Them.;;;;Spanish Loc;;;x
+EVT2600OPTB;Reject Them.;;;;Spanish Loc;;;x
+EVT2605OPTA;Hurrah!;;;;Spanish Loc;;;x
+craftsmen_fix_title;Craftsmen Salvage Decision (10 year cooldown);;;;Spanish Loc;;;x
+craftsmen_fix_desc;This decision is intended to salvage your country after it has been craftsmen hijacked. It will revert all non-core/non-accepted craftsmen on your cores to artisans so that your core craftsmen will start working. (Think South Germans in Venetia hijacking.) BE CAREFUL OF USE.;;;;Spanish Loc;;;x
+bureaucrats_fix_title;Non-Accepted Bureaucrats Decision (10 year cooldown);;;;Spanish Loc;;;x
+bureaucrats_fix_desc;This decision is intended to convert non-accepted Bureaucrats into Artisans, in both states and colonies, so they stop getting fat off of state admin funding.;;;;Spanish Loc;;;x
+france_sphere_jap_title;Ask The French Empire for Support;;;;Spanish Loc;;;x
+france_sphere_jap_desc;While France rule on Europe, we can rule on Asia, making an alliance between our two nations a logical decision. They will understand then that we require her resources to prosper in our time of need. (Decision only available in 1836);;;;Spanish Loc;;;x
+usa_sphere_jap_title;Ask the United States for Support;;;;Spanish Loc;;;x
+usa_sphere_jap_desc;Clearly we cannot trust other interests in Asia, but we can't fuel this machine on good will. There appears to be a budding nation across the Pacific... they may be able to provide us with markets in our time of need. (Decision only available in 1836);;;;Spanish Loc;;;x
+rus_sphere_jap_title;Ask Russian Empire for Support;;;;Spanish Loc;;;x
+rus_sphere_jap_desc;If our interests are in China, then surely allying ourselves with the next best thing to overcome her would be the right course of action. (Decision only available in 1836);;;;Spanish Loc;;;x
+change_tech_school_on_title;Change Tech School (Hidden);;;;Spanish Loc;;;x
+change_tech_school_on_desc;Show Tech School Decisions;;;;Spanish Loc;;;x
+change_tech_school_off_title;Change Tech School (Showing);;;;Spanish Loc;;;x
+change_tech_school_off_desc;Hide Tech School Decisions;;;;Spanish Loc;;;x
+player_alliances_title;Ally All Player Nations;;;;Spanish Loc;;;x
+player_alliances_desc;Automatically allies all player nations. DO NOT SPAM.;;;;Spanish Loc;;;x
+assert_on_steppe_title;Assert Ourselves in Central Asia;;;;Spanish Loc;;;x
+assert_on_steppe_desc;The Major Powers chaffing at our periphery is inclining us to attempt projecting into the steppe, but who could possibly own such a vast region with land ownership? The real value is the people themselves.;;;;Spanish Loc;;;x
+enact_the_homestead_act_mexico_title;The Mexican Homestead Act;;;;Spanish Loc;;;x
+enact_the_homestead_act_mexico_desc;During this time period, there were land reforms in Mexico very similar to the United States Homestead Act.;;;;Spanish Loc;;;x
 #############################################;;;;;;;x
-EVTOPTA99999901;Nice.;;;;;;;x
-EVTOPTA99999902;Nice.;;;;;;;x
-EVTOPTA99999903;Nice.;;;;;;;x
-EVTOPTA99999904;Nice.;;;;;;;x
-EVTOPTA99999905;Nice.;;;;;;;x
-EVTNAME99999901;Tractors and Trawlers;;;;;;;x
-EVTDESC99999901;Mechanized farming, mining, and fishing has arrived in this country, which facilitates an increase in raw resource production.;;;;;;;x
-EVTNAME99999902;Electricity;;;;;;;x
-EVTDESC99999902;Electricity has arrived in this country, which facilitates an increase in raw resource production and industrial throughput.;;;;;;;x
-EVTNAME99999903;Nitroglycerin;;;;;;;x
-EVTDESC99999903;Nitroglycerin has arrived in this country, which facilitates an increase in raw resource production.;;;;;;;x
-EVTNAME99999904;Commercial Retailers;;;;;;;x
-EVTDESC99999904;Establishment of complex distribution channels has begun in this country, which facilitates an increase in raw resource production.;;;;;;;x
-EVTNAME99999905;Mechanized Production;;;;;;;x
-EVTDESC99999905;Mechanized production has arrived in this country, which facilitates an increase in raw resource production and industrial throughput.;;;;;;;x
-country_tractors;Tractors and Trawlers;;;;;;;x
-desc_country_tractors;Mechanized farming, mining, and fishing has arrived in this country, which facilitates an increase in raw resource production.;;;;;;;x
-country_electricity;Electricity;;;;;;;x
-desc_country_electricity;Electricity has arrived in this country, which facilitates an increase in raw resource production.;;;;;;;x
-country_nitroglycerin;Nitroglycerin;;;;;;;x
-desc_country_nitroglycerin;Nitroglycerin has arrived in this country, which facilitates an increase in raw resource production.;;;;;;;x
-country_distribution_channels;Commercial Retailers;;;;;;;x
-desc_country_distribution_channels;Establishment of complex distribution channels have begun in this country, which facilitates an increase in raw resource production.;;;;;;;x
-country_machine_tools;Mechanized Production;;;;;;;x
-desc_country_machine_tools;Mechanized production has arrived in this country, which facilitates an increase in raw resource production and industrial throughput.;;;;;;;x
-equatoria_expedition_ARA_title;Launch Equatoria Expedition;;;;;;;x
-equatoria_expedition_ARA_desc;The Khedive of Egypt, Ismail I commissioned an expedition to explore the Equatoria region south of the Sudan, and to organize a new Egyptian province there. A British explorer and engineer named Samuel White Baker who had led an expedition down the Nile in 1865 was contracted by the Khedive to lead the Egyptian forces and to be the first Governor-General of the new territory..;;;;;;;x
-conquest_of_darfur_ARA_title;Begin Conquest of Darfur;;;;;;;x
-conquest_of_darfur_ARA_desc;An expansionist Khedive, Ismail I moved to incorporate the territory of Darfur into the Egyptian Sudan in 1874.;;;;;;;x
-craftsmen_fix_cooldown;Craftsmen Fix Cooldown;;;;;;;x
-craftsmen_fix_cooldown_desc;Craftsmen Fix Cooldown is 10 years.;;;;;;;x
-bureaucrats_fix_cooldown;Non-Accepted Bureaucrats Fix Cooldown;;;;;;;x
-bureaucrats_fix_cooldown_desc;Non-Accepted Bureaucrats Fix Cooldown is 10 years.;;;;;;;x
-EVTNAME9999901;Craftsmen Exploit Salvage;;;;;;;x
-EVTDESC9999901;This event converts all non-core/non-accepted craftsmen on your cores into artisans.;;;;;;;x
-EVT2600OPTA;Integrate Them.;;;;;;;x
-EVT2600OPTB;Reject Them.;;;;;;;x
-EVT2605OPTA;Hurrah!;;;;;;;x
-craftsmen_fix_title;Craftsmen Salvage Decision (10 year cooldown);;;;;;;x
-craftsmen_fix_desc;This decision is intended to salvage your country after it has been craftsmen hijacked. It will revert all non-core/non-accepted craftsmen on your cores to artisans so that your core craftsmen will start working. (Think South Germans in Venetia hijacking.) BE CAREFUL OF USE.;;;;;;;x
-bureaucrats_fix_title;Non-Accepted Bureaucrats Decision (10 year cooldown);;;;;;;x
-bureaucrats_fix_desc;This decision is intended to convert non-accepted Bureaucrats into Artisans, in both states and colonies, so they stop getting fat off of state admin funding.;;;;;;;x
-france_sphere_jap_title;Ask The French Empire for Support;;;;;;;x
-france_sphere_jap_desc;While France rule on Europe, we can rule on Asia, making an alliance between our two nations a logical decision. They will understand then that we require her resources to prosper in our time of need. (Decision only available in 1836);;;;;;;x
-usa_sphere_jap_title;Ask the United States for Support;;;;;;;x
-usa_sphere_jap_desc;Clearly we cannot trust other interests in Asia, but we can't fuel this machine on good will. There appears to be a budding nation across the Pacific... they may be able to provide us with markets in our time of need. (Decision only available in 1836);;;;;;;x
-rus_sphere_jap_title;Ask Russian Empire for Support;;;;;;;x
-rus_sphere_jap_desc;If our interests are in China, then surely allying ourselves with the next best thing to overcome her would be the right course of action. (Decision only available in 1836);;;;;;;x
-change_tech_school_on_title;Change Tech School (Hidden);;;;;;;x
-change_tech_school_on_desc;Show Tech School Decisions;;;;;;;x
-change_tech_school_off_title;Change Tech School (Showing);;;;;;;x
-change_tech_school_off_desc;Hide Tech School Decisions;;;;;;;x
-player_alliances_title;Ally All Player Nations;;;;;;;x
-player_alliances_desc;Automatically allies all player nations. DO NOT SPAM.;;;;;;;x
-assert_on_steppe_title;Assert Ourselves in Central Asia;;;;;;;x
-assert_on_steppe_desc;The Major Powers chaffing at our periphery is inclining us to attempt projecting into the steppe, but who could possibly own such a vast region with land ownership? The real value is the people themselves.;;;;;;;x
-enact_the_homestead_act_mexico_title;The Mexican Homestead Act;;;;;;;x
-enact_the_homestead_act_mexico_desc;During this time period, there were land reforms in Mexico very similar to the United States Homestead Act.;;;;;;;x
+double_down_in_the_balkans_title;Double Down in the Balkans;;;;Spanish Loc;;;x
+double_down_in_the_balkans_desc;For too long have the peoples of the Balkans thwarted our efforts of expansion. Let us focus all our attention to the re-education and assimilation of these barbaric peoples.;;;;Spanish Loc;;;x
 #############################################;;;;;;;x
-double_down_in_the_balkans_title;Double Down in the Balkans;;;;;;;x
-double_down_in_the_balkans_desc;For too long have the peoples of the Balkans thwarted our efforts of expansion. Let us focus all our attention to the re-education and assimilation of these barbaric peoples.;;;;;;;x
+#Additional Provinces;;;;Spanish Loc;;;x
 #############################################;;;;;;;x
-#Additional Provinces;;;;;;;x
-#############################################;;;;;;;x
-PROV3258;Benevento;;;;;;;x
-PROV3259;Avellino;;;;;;;x
-PROV3260;Rieta;;;;;;;x
+PROV3258;Benevento;;;;Benevento;;;x
+PROV3259;Avellino;;;;Avellino;;;x
+PROV3260;Rieta;;;;Rieta;;;x
 #############################################;;;;;;;x
 #Additional CBs;;;;;;;x
-#############################################;;;;;;;x
-demand_concession_casus_belli_china;Chinese Core Concession;;;;;;;x
-demand_concession_casus_belli_china_short;Demand $STATE$ from China;;;;;;;x
-demand_concession_casus_belli_china_desc;Force China to concede core territory.;;;;;;;x
-demand_concession_casus_belli_china_setup;Demand that $RECIPIENT$ secede territory.;;;;;;;x
+#############################################;;;;Spanish Loc;;;x
+demand_concession_casus_belli_china;Chinese Core Concession;;;;Spanish Loc;;;x
+demand_concession_casus_belli_china_short;Demand $STATE$ from China;;;;Spanish Loc;;;x
+demand_concession_casus_belli_china_desc;Force China to concede core territory.;;;;Spanish Loc;;;x
+demand_concession_casus_belli_china_setup;Demand that $RECIPIENT$ secede territory.;;;;Spanish Loc;;;x
 take_capital;Take Capital Earlygame;;;;;;;;;;;
 take_capital_short;Acquire capital $STATE$.;;;;;;;;;;;
 take_capital_desc;Force target to concede its capital $STATE$.;;;;;;;;;;;
 take_capital_setup;Demand that $RECIPIENT$ secede its capital.;;;;;;;;;;;
-#############################################;;;;;;;x
+#############################################;;;;Spanish Loc;;;x
 #Additional Modifiers;;;;;;;x
-#############################################;;;;;;;x
-the_homestead_act_mexico;Mexican Homestead Act;;;;;;;x
-the_homestead_act_mexico_desc;An Alternative Homestead Act established by Mexico.;;;;;;;;;;;;;x,
-policestate_modifier;The Police State;;;;;;;x
-policestate_modifier_desc;You have an active Police State.;;;;;;;x
-one_party_state_modifier;One Party State;;;;;;;x
-one_party_state_modifier_desc;You have an active One Party State.;;;;;;;x
-totalitarianism_modifier;Totalitarian;;;;;;;x
-totalitarianism_modifier_desc;You have an active Totalitarianist government.;;;;;;;x
-leadership_principle_modifier;The Leadership Principle;;;;;;;x
-leadership_principle_modifier_desc;Your people are enthralled by the Leadership Principle.;;;;;;;x
-ultranationalism_modifier;Ultranationalism;;;;;;;x
-ultranationalism_modifier_desc;Your people are enthralled by Ultranationalism.;;;;;;;x
-collectivisation_modifier;Collectivisation;;;;;;;x
-collectivisation_modifier_desc;Your people are enthralled by Collectivisation.;;;;;;;x
-classless_society_modifier;Classless Society;;;;;;;x
-classless_society_modifier_desc;Your people have created a Classless Society.;;;;;;;x
-#############################################;;;;;;;x
-#Additional Cultures;;;;;;;x
-#############################################;;;;;;;x
-andean;Andean;;;;;;;x
-aryan;Aryan;;;;;;;x
-turkic;Turkic;;;;;;;x
-#############################################;;;;;;;x
-#Additional Generic Fixes and Additions;;;;;;;x
-#############################################;;;;;;;x
-UNIT_BUILD_TIME_IW;$VAL$ days.;;;;;;;x
-#############################################;;;;;;;x
-#Additional Inventions;;;;;;;x
-#############################################;;;;;;;x
-industrial_tanneries;Industrial Tanneries;;;;;;;x
-industrial_tanneries_desc;In the Victorian era tanneries were often close to the abattoirs and so the skins would often arrive at the tannery fresh and unsalted. With industrial levels of meat consumption, it was inevitable that the leather industry advance as well.;;;;;;;x
-offensive_infantry_activation;Activate Offensive Infantry;;;;;;;x
-defensive_infantry_activation;Activate Defensive Infantry;;;;;;;x
-offensive_artillery_activation;Activate Offensive Artillery;;;;;;;x
-defensive_artillery_activation;Activate Defensive Artillery;;;;;;;x
-#############################################;;;;;;;x
-#Additional Triggered Modifiers;;;;;;;;;;;;;;x
-#############################################;;;;;;;x
-political_reformed_nation;Politically Liberal State;;;;;;;x
-political_reformed_nation_desc;Our country political reforms match every liberal demand, giving us international recognition as a truly free state.;;;;;;;x
+#############################################;;;;Spanish Loc;;;x
+the_homestead_act_mexico;Mexican Homestead Act;;;;Spanish Loc;;;x
+the_homestead_act_mexico_desc;An Alternative Homestead Act established by Mexico.;;;;;;;;;;Spanish Loc;;;x,
+policestate_modifier;The Police State;;;;Spanish Loc;;;x
+policestate_modifier_desc;You have an active Police State.;;;;Spanish Loc;;;x
+one_party_state_modifier;One Party State;;;;Spanish Loc;;;x
+one_party_state_modifier_desc;You have an active One Party State.;;;;Spanish Loc;;;x
+totalitarianism_modifier;Totalitarian;;;;Spanish Loc;;;x
+totalitarianism_modifier_desc;You have an active Totalitarianist government.;;;;Spanish Loc;;;x
+leadership_principle_modifier;The Leadership Principle;;;;Spanish Loc;;;x
+leadership_principle_modifier_desc;Your people are enthralled by the Leadership Principle.;;;;Spanish Loc;;;x
+ultranationalism_modifier;Ultranationalism;;;;Spanish Loc;;;x
+ultranationalism_modifier_desc;Your people are enthralled by Ultranationalism.;;;;Spanish Loc;;;x
+collectivisation_modifier;Collectivisation;;;;Spanish Loc;;;x
+collectivisation_modifier_desc;Your people are enthralled by Collectivisation.;;;;Spanish Loc;;;x
+classless_society_modifier;Classless Society;;;;Spanish Loc;;;x
+classless_society_modifier_desc;Your people have created a Classless Society.;;;;Spanish Loc;;;x
+#############################################;;;;Spanish Loc;;;x
+#Additional Cultures;;;;Spanish Loc;;;x
+#############################################;;;;Spanish Loc;;;x
+andean;Andean;;;;Spanish Loc;;;x
+aryan;Aryan;;;;Spanish Loc;;;x
+turkic;Turkic;;;;Spanish Loc;;;x
+#############################################;;;;Spanish Loc;;;x
+#Additional Generic Fixes and Additions;;;;Spanish Loc;;;x
+#############################################;;;;Spanish Loc;;;x
+UNIT_BUILD_TIME_IW;$VAL$ days.;;;;Spanish Loc;;;x
+#############################################;;;;Spanish Loc;;;x
+#Additional Inventions;;;;Spanish Loc;;;x
+#############################################;;;;Spanish Loc;;;x
+industrial_tanneries;Industrial Tanneries;;;;Spanish Loc;;;x
+industrial_tanneries_desc;In the Victorian era tanneries were often close to the abattoirs and so the skins would often arrive at the tannery fresh and unsalted. With industrial levels of meat consumption, it was inevitable that the leather industry advance as well.;;;;Spanish Loc;;;x
+offensive_infantry_activation;Activate Offensive Infantry;;;;Spanish Loc;;;x
+defensive_infantry_activation;Activate Defensive Infantry;;;;Spanish Loc;;;x
+offensive_artillery_activation;Activate Offensive Artillery;;;;Spanish Loc;;;x
+defensive_artillery_activation;Activate Defensive Artillery;;;;Spanish Loc;;;x
+#############################################;;;;Spanish Loc;;;x
+#Additional Triggered Modifiers;;;;;;;;;;;Spanish Loc;;;x
+#############################################;;;;Spanish Loc;;;x
+political_reformed_nation;Politically Liberal State;;;;Spanish Loc;;;x
+political_reformed_nation_desc;Our country political reforms match every liberal demand, giving us international recognition as a truly free state.;;;;Spanish Loc;;;x
