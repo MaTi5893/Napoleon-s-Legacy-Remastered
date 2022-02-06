@@ -8,7 +8,7 @@ country_event = {
 			ai = yes
 		}
 		HAN = {
-			ai = yes
+			ai = yes 
 		}
 	}
 
