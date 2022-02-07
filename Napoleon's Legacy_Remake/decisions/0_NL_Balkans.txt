@@ -38,8 +38,8 @@ political_decisions = {
         }
         allow = {
             war = no
-            owns = AUS_623
-            owns = AUS_641
+            AUS_623 = {owned_by = ROM}
+            AUS_641 = {owned_by = ROM}
             revolution_n_counterrevolution = 1
         }
         effect = {

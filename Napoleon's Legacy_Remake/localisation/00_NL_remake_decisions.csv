@@ -108,8 +108,8 @@ trent_claim_title;Our Claim on the Trent Region;;;;Nuestra reivindicaci�n en l
 trent_claim_desc;After the War of the 3rd Coaltion, we were forced to give the Trent region to Bavaria and the Kingdom of Italy. It is time to take it back!;;;;Tras la Guerra de la Tercera Coalici�n, nos vimos obligados a ceder la regi�n de Trento a Baviera y al Reino de Italia. !Es hora de recuperarla!;;;x
 domination_of_western_mediterranean_see_title;Expand our influence in the western Mediterranean Sea;;;;Ampliar nuestra influencia en el Mediterr�neo occidental;;;x
 domination_of_western_mediterranean_see_desc;The withdrawal of the British in the western Mediterranean Sea created a power vacuum in the region and we must be the one to fill it!;;;;La retirada de los brit�nicos en el Mediterr�neo occidental cre� un vac�o de poder en la regi�n y debemos ser nosotros quienes lo llenemos.;;;x
-Expansion_in_southern_italy_title;Expand in Southern Italy;;;;Expansi�n en el sur de Italia;;;x
-Expansion_in_southern_italy_desc;Now that we have secured a hold in Sicily and reestablished ourselves as a regional power, we should expand this influence in southern Italy and seize what was once a part of the glorious Spanish Empire!;;;;Ahora que nos hemos asegurado un dominio en Sicilia y nos hemos restablecido como potencia regional, deber�amos ampliar esta influencia en el sur de Italia y apoderarnos de lo que una vez fue parte del glorioso Imperio Espa�ol.;;;x
+expansion_in_southern_italy_title;Expand in Southern Italy;;;;Expansi�n en el sur de Italia;;;x
+expansion_in_southern_italy_desc;Now that we have secured a hold in Sicily and reestablished ourselves as a regional power, we should expand this influence in southern Italy and seize what was once a part of the glorious Spanish Empire!;;;;Ahora que nos hemos asegurado un dominio en Sicilia y nos hemos restablecido como potencia regional, deber�amos ampliar esta influencia en el sur de Italia y apoderarnos de lo que una vez fue parte del glorioso Imperio Espa�ol.;;;x
 glory_to_the_spanish_empire_title;Glory to the Spanish Empire!;;;;�Gloria al imperio espa�ol!;;;x
 glory_to_the_spanish_empire_desc;Now that we have recovered all of our lost provinces in south Italy, we can reestablish the Spanish Empire!;;;;Ahora que hemos recuperado todas nuestras provincias perdidas en el sur de Italia, �podemos restablecer el Imperio Espanol!;;;x
 ask_france_catalonia_title;Ask for Catalonia;;;;Pedir Catalu�a;;;x
@@ -317,8 +317,8 @@ accept_spanish_minorities_title;Acceptance of the Spanish minorities;;;;;;x
 accept_spanish_minorities_desc;We have accepted the Spaniars in our country, its now time to accept the minorities as well to prevent any ideas of independance and rebellion !;;;;;;x
 annex_westphalia_title;Annexation of Westphalia;;;;;;x
 annex_westphalia_desc;Since Jerome got the French throne, Westphalia has been a vassal all but in name. In fact, we are already tunning the country. So now its time for us to do it officially by annexing Westphalia !;;;;;;x
-french_ruhr_boom_title;French Ruhr Boom;;;;;;x
-french_ruhr_boom_desc;With the Annexation of the Rhineland, we got ourselves a region with great goods and a strong potential. We need to invest to get it to be industrial heartland of the West and to show everyone our power !;;;;;;x
+french_rhur_boom_title;French Ruhr Boom;;;;;;x
+french_rhur_boom_desc;With the Annexation of the Rhineland, we got ourselves a region with great goods and a strong potential. We need to invest to get it to be industrial heartland of the West and to show everyone our power !;;;;;;x
 unite_north_italy_title;Remake the Kingdom of Italy;;;;;;x
 unite_north_italy_desc;With the Annexation of the Kingdom of Italy by France in 1826 and the death of Napoleon in 1835, the North of Italy exploded into different factions. It's time to unite them under one flag !;;;;;;x
 ask_france_piedmonte_title;Ask France for Piedmonte;;;;;;x

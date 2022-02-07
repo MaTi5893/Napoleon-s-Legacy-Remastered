@@ -184,8 +184,8 @@ political_decisions = {
 					limit = {
 						owned_by = PLC
 					}
-				}
-				remove_core = UKR
+					remove_core = UKR
+				}	
 			}
 		}
 		ai_will_do = { factor = 0 }

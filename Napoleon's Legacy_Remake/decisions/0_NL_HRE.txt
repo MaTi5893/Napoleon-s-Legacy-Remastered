@@ -51,7 +51,9 @@ political_decisions = {
 			any_country = {
 				limit = {
                     OR = {
-                        is_culture_group = germanic
+                        primary_culture = north_german
+                        primary_culture = rhenish
+                        primary_culture = south_german
                     }
 					in_sphere = THIS
 				}
@@ -178,7 +180,7 @@ political_decisions = {
         }
     }
 
-    glory_to_HRE = {
+    glory_to_hre = {
         picture = glory_HRE
         potential = {
             tag = HRO
