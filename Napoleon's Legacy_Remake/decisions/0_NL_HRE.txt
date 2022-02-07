@@ -66,7 +66,7 @@ political_decisions = {
 		}
     }
     reintegrate_the_rhineland = {
-        picture = decision__rhi_HRE
+        picture = decision_rhi_HRE
         potential = {
             tag = HRO
             NOT = {has_country_flag = reintegrate_the_rhineland}
@@ -103,7 +103,7 @@ political_decisions = {
         }
     }
     expand_to_italy =  {
-        picture = decision__ita_HRE
+        picture = decision_ita_HRE
         potential = {
             tag = HRO
             NOT = {has_country_flag = expand_to_italy}
@@ -220,7 +220,7 @@ political_decisions = {
         }
     }
     expand_netherlands = {
-        picture = decision__net_HRE
+        picture = decision_net_HRE
         potential = {
             tag = HRO
             NOT = {has_country_flag = expand_netherlands}
@@ -245,7 +245,7 @@ political_decisions = {
         }
 	}
     expand_switzerland = {
-        picture = decision__swi_HRE
+        picture = decision_swi_HRE
         potential = {
             tag = HRO
             NOT = {has_country_flag = expand_switzerland}
@@ -270,7 +270,7 @@ political_decisions = {
         }
     }
     expand_belgium = {
-        picture = decision__bel_HRE
+        picture = decision_bel_HRE
         potential = {
             tag = HRO
             has_country_flag = expand_netherlands
@@ -299,7 +299,7 @@ political_decisions = {
         }
     }
     expand_slovenia = {
-        picture = decision__slo_HRE
+        picture = decision_slo_HRE
         potential = {
             tag = HRO
             NOT = {has_country_flag = expand_slovenia}

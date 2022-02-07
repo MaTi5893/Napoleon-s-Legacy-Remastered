@@ -100,4 +100,58 @@ political_decisions = {
 			}
         }
     }
+
+	unite_north_italy = {
+		picture = north_italy_decision
+		potential = {
+			OR = {
+				tag = AUS
+				tag = FRA
+				tag = KUK
+			}
+			is_greater_power = yes
+			ITA = {exists = no}
+			NIT = {exists = no}
+		}
+		allow = {
+			NIT = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 20
+			any_country = {
+                limit = {
+                    primary_culture = north_italian
+                    ai = yes
+                    OR = {
+                        in_sphere = THIS
+                        vassal_of = THIS
+                    }
+                }
+                annex_to = THIS
+            }
+			any_owned = {
+				limit = {
+					is_core = NIT
+					NOT = {is_core = THIS}
+				}
+				secede_province = NIT
+			}
+            create_vassal = NIT
+            create_alliance = NIT
+            diplomatic_influence = {
+                who = NIT
+                value = 300
+            }
+		}
+	}
 }
