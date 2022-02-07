@@ -1,66 +1,43 @@
 army = {
-	name = "1st Roman Army"
+	name = "Esercito Pontificio"
 	
 	leader = {
-		name = "Biggus Dickus"
-		date = 1825.1.1
+		name = "Filippo Resta"
+		date = 1815.1.1
 		type = land
-		personality = defence_4.1
-		background = attack_5.1
+		personality = defence_1.1
+		background = attack_1.1
 		prestige = 0.5
 	}
 	
 	location = 749
 	regiment = {
-		name= "1.1 Infantry"
-		type = infantry
-		home = 749
-	}
-	regiment = {
-		name= "1.2 Infantry"
-		type = infantry
-		home = 749
-	}
-	regiment = {
-		name= "1.3 Infantry"
-		type = infantry
-		home = 749
-	}
-	regiment = {
-		name= "1.4 Infantry"
+		name= "1. Zuavi Pontifici"
 		type = infantry
 		home = 749
 	}
 
 	regiment = {
-		name= "1.1 Cavalry"
-		type = hussar
+		name= "2. Zuavi Pontifici - Sancti Patricii"
+		type = infantry
 		home = 750
 	}
 
 	regiment = {
-		name= "1.1 Artillery"
-		type = artillery
-		home = 751
-	}
-	regiment = {
-		name= "1.2 Artillery"
-		type = artillery
-		home = 749
-	}
-	regiment = {
-		name= "1.3 Artillery"
-		type = artillery
-		home = 749
-	}
-	regiment = {
-		name= "1.4 Artillery"
-		type = artillery
-		home = 749
-	}
-	regiment = {
-		name= "1.5 Artillery"
+		name= "4. Zuavi Pontifici"
 		type = artillery
 		home = 751
 	}
 }
+
+army = {
+	name = "Esercito di Umbria"
+	location = 751
+	
+	regiment = {
+		name= "3. Zuavi Pontifici - Sancti Pauli"
+		type = infantry
+		home = 749
+	}
+}
+

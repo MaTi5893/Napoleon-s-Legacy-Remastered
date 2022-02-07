@@ -14,13 +14,6 @@ alliance=
 	}
 alliance=
 	{
-		first="LOM"
-		second="FRA"
-		end_date="1936.1.1"
-		start_date="1836.1.1"
-	}
-alliance=
-	{
 		first="PLC"
 		second="SWE"
 		end_date="1936.1.1"

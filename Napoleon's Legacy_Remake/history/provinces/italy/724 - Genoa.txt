@@ -1,9 +1,8 @@
 owner = FRA
 controller = FRA
+add_core = NIT
 add_core = SAR
 add_core = ITA
-
-add_core = PAP
 trade_goods = coal
 life_rating = 35
 naval_base = 1

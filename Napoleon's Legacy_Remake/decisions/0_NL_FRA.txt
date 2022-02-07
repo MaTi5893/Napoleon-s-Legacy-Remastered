@@ -77,7 +77,6 @@ political_decisions = {
 		}
 	}
 	annex_spain = { 
-		picture = spain_decision
 		potential = { 
 			tag = FRA
 			has_country_flag = joseph
@@ -90,7 +89,7 @@ political_decisions = {
 			SPA = {
 				all_core = {
 					OR = {
-						owned_by = SPA 
+						owned_by = UKR 
 						owned_by = THIS 
 					}
 				}
@@ -99,12 +98,14 @@ political_decisions = {
 		}
 		effect = {
 			prestige = 7
+			SPA = {
+				all_core = {add_core = THIS}
+			}
 			SPA = {annex_to = THIS}
 			set_country_flag = annex_spain
 		}
 	}
 	accept_spanish = {
-		picture = spain_decision
 		potential = { 
 			tag = FRA
 			has_country_flag = joseph
@@ -123,19 +124,15 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = spanish
-			SPA = {
-				all_core = {add_core = THIS}
-			}
 		}
 	}
-	accept_spanish_minorities = {
-		picture = catalonia_decision
+	accept_spanish = {
 		potential = { 
 			tag = FRA
 			has_country_flag = joseph
 			accepted_culture = spanish
 			NOT = {accepted_culture = catalan}
-		} 
+		}
 		allow = {
 			nationalism_n_imperialism = 1
 			SPA = {
@@ -150,103 +147,6 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = basque
 			add_accepted_culture = catalan
-		}
-	}
-	annex_westphalia = { 
-		picture = decision_rhi_HRE
-		potential = { 
-			tag = FRA
-			has_country_flag = jerome
-			NOT = { has_country_flag = annex_westphalia } 
-		}
-		allow = {
-			war = no
-			is_greater_power = yes
-			HAN = {vassal_of = THIS}
-			FRM = {vassal_of = THIS}
-        	NAS = {vassal_of = THIS}
-        	HES = {vassal_of = THIS}
-        	HEK = {vassal_of = THIS}
-        	BRA = {vassal_of = THIS}
-			war = no
-			HAN = {
-				all_core = {
-					OR = {
-						owned_by = HAN 
-						owned_by = THIS 
-					}
-				}
-			}
-			state_n_government=1
-		}
-		effect = {
-			prestige = 7
-			HAN = {annex_to = THIS}
-			FRM = {annex_to = THIS}
-        	NAS = {annex_to = THIS}
-        	HES = {annex_to = THIS}
-        	HEK = {annex_to = THIS}
-        	BRA = {annex_to = THIS}
-			set_country_flag = annex_westphalia
-		}
-	}
-	french_rhur_boom = {
-		picture = decision_rhi_HRE
-		potential = { 
-			tag = FRA
-			has_country_flag = joseph
-			NOT = {accepted_culture = rhenish}
-		}
-		allow = {
-			nationalism_n_imperialism = 1
-			cheap_steel = 1
-			iron_breech_loaded_artillery = 1
-			HAN = {
-				all_core = {
-					owned_by = THIS
-				}
-			}
-			RHI = {
-				all_core = {
-					owned_by = THIS
-				}
-			}
-			war = no
-			RHI = {exists = no}
-			HAN = {exists = no}
-			is_greater_power = yes
-		}
-		effect = {
-			add_accepted_culture = rhenish
-			RHI = {
-				all_core = {
-					add_province_modifier = {
-						name = ruhr_boom
-						duration = 7300
-					}
-				}
-			}
-			RHI = {
-				all_core = {add_core = THIS}
-			}
-			HAN = {
-				all_core = {add_core = THIS}
-			}
-			FRM = {
-				all_core = {add_core = THIS}
-			}
-        	NAS = {
-				all_core = {add_core = THIS}
-			}
-        	HES = {
-				all_core = {add_core = THIS}
-			}
-        	HEK = {
-				all_core = {add_core = THIS}
-			}
-        	BRA = {
-				all_core = {add_core = THIS}
-			}
 		}
 	}
 }

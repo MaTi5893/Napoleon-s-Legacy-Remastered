@@ -8,7 +8,7 @@ country_event = {
 			ai = yes
 		}
 		HAN = {
-			ai = yes 
+			ai = yes
 		}
 	}
 
@@ -47,6 +47,7 @@ country_event = {
 		}
         FRA = {add_country_flag = jerome}
 		create_vassal = HAN
+        create_vassal = LIP
         create_vassal = FRM
         create_vassal = NAS
         create_vassal = HES
@@ -200,6 +201,7 @@ country_event = {
 		}
         FRA = {add_country_flag = jerome}
 		create_vassal = HAN
+        create_vassal = LIP
         create_vassal = FRM
         create_vassal = NAS
         create_vassal = HES

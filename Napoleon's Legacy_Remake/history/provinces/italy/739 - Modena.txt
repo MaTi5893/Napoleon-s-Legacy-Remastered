@@ -1,9 +1,9 @@
-owner = MOD
-controller = MOD
+owner = NIT
+controller = NIT
 add_core = NIT
 add_core = MOD
 add_core = ITA
-add_core = PAP
+
 trade_goods = coal
 life_rating = 40
 #state_building = {

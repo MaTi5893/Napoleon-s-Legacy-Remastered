@@ -34,7 +34,7 @@ political_decisions = {
 					OR = {
 						owned_by = THIS
 						owner = { 
-							in_sphere = THIS
+						in_sphere = THIS
 						}
 					}
 				}

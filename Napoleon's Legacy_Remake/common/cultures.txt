@@ -313,20 +313,7 @@ british = {
 		"MacDheòrsa" "MacEalar" "MacFigeinn" "MacGiobain" "MacLagain" "MacLianain" "MacMhatha" "MacNìll" "MacPhàic"
 		MacShitrig MacTiridh Morgan Robasan Seadh Tàillear Urchadainn }
 	}
-	welsh = { 
-		color = { 150 110 80}
-		first_names = { Alan Daveth Howel Jory Kenver Margh Peder Tomas Ruan Petrok
-		Seimon Mervyn Iwan Gareth Bryn Rhys Hywel Owain Morys }
-		
-		last_names = { Angwin Arundell Bosanko Chenoweth Coon Pomeroy Gummo Nanscawen
-		Pendarvis Penhale Pentrith Penketh Trelawney Tremaine Trevithick }
-	}
-	cymry = {
-		color = { 173 130 0 }
-		first_names = { Alexander Rhys Gareth Seimon Lloyd Llewelyn Mervyn Huw Hywel Iwan Morys Owain Bryn }
-
-		last_names = { Ifans Glyn Lloyd Alwyn "ap Meryk" Lewis Glyndwr Maelor Iwrch Mawr Dda Elwyn }
-	}
+	
 }
 
 italian = {
@@ -470,42 +457,7 @@ french = {
 		Pajol Pellissier Petain Picquart "Rigault de Genouilly" Romain-Desfosses Ronarc'h Sarrail Roques Roze Saussier Trehouart Trochu Vaillant Valee Vuillemot Weygand 
 		}
 	}
-	occitan = {
-		color = {130 100 50}
-		first_names = { Achillo Alban Alber Alfons Amedé Andieu Alòi Archambaut Aymar Beròt Bérard Bernat Berengar Carle Enric Estève Fidèl 
-		Frederic Filipo Franç Guiraud Huc Ignaç Jan Jacin Laurenç Luis Martin Michele Nicolau Pasqual Pau Pèire Pier Privat Roman 
-		Raimond Rogier Raimond-Rogier Ton Vincenç Vitorio Zeno }
-		
-		last_names = { Amiel Azéma Bec Benet Bézots Dardier Delpuech Ladivèze Gilbert Mistral Claramunt Sala
-		"de Bordeu" Auvernhan Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre
-		d'Usès Nant d'Aurinhac Aramits Challant Guasco Gamba "de Sâteillon" Jotteu Ceppi Becca
-		Colò Carrel Roda Comì Ortèl "de Fenis" "de Saut" "de Cavalhon" "lo Rocoforto" Emperi 
-		Marselhés Alesenc "de Sant Africa" Castrès "de Puylaurenç" Aushés Gasc "lo Cuq" Pèira
-		Valada Bòsc Forneiron Faure Avelan Rove Ramond Andrieu "de Lonzac" "de Aurenja" }
-	}
-	breton = {
-		color = {100 110 100}
-		first_names = { Alain  Alfons Andrev Arthus Briac Briog Denoel Efflam Elouan Enora Even Frañsez Frederig Gwendal Helori Hoël Ivin Jakez Jaoua Karenteg Laouen Malo
-		Matilin Meriadeg Morvan Riok Riware Tadeg Tomaz Tugdual Visant Yann Yvon }
-		
-		last_names = { Abgrall Artus Belleg Berthu Calvez Caradeg Eveno Floch Gallo Goff Guelleg Heussaff Huon Jezeguel Karter Kergoulay Kirouag Laouenan Lozach
-		Menez Morvan Omnes Pelan Pinvidig Quemener Ropars Riou Salaun Sezneg Tanet Trahan Treguier }
-	}
-	picard = {
-		color = {100 110 136}
-		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
-		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
-		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
-		Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
-		Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
-		
-		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
-		Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" 
-		"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
-		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
-		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain "Van Loo" }
-	}
-	union = FRA
+	
 }
 
 south_slavic = {

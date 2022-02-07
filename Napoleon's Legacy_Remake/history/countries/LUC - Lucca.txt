@@ -39,9 +39,7 @@ upper_house = {
 	communist = 0
 }
 
-
-#========================= T E C H N O L O G I E S =========================
-
+# Technologies
 post_napoleonic_thought = 1
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
@@ -66,9 +64,8 @@ water_wheel_power = 1
 publishing_industry = 1
 mechanized_mining = 1
 basic_chemistry = 1
-#========================= I N V E N T I O N S =========================
 
-post_napoleonic_army_doctrine = yes
+#Inventions
 
 # Starting Consciousness
 consciousness = 3

@@ -1,6 +1,5 @@
 owner = DLM
 controller = DLM
-add_core = VEN
 add_core = DLM
 add_core = AUS
 add_core = TRE
