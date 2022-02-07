@@ -68,6 +68,7 @@ political_decisions = {
 			FRA_448 = {owned_by = THIS}
 			FRA_455 = {owned_by = THIS}
 			FRA_458 = {owned_by = THIS}
+			SAR_466 = {owned_by = THIS}
 			nationalism_n_imperialism = 1
 		}
 		effect = {
@@ -78,6 +79,7 @@ political_decisions = {
 			FRA_448 = {add_core = THIS}
 			FRA_455 = {add_core = THIS}
 			FRA_458 = {add_core = THIS}
+			SAR_466 = {add_core = THIS}
 			add_accepted_culture = occitan
 			prestige = 20
 			set_country_flag = occitan_expansion
