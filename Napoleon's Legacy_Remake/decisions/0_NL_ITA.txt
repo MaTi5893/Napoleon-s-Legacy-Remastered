@@ -201,7 +201,7 @@ political_decisions = {
 				is_secondary_power = yes
 				is_greater_power = yes
 			}
-			revolution_n_conterrevolution = 1
+			revolution_n_counterrevolution = 1
 		}
 		effect = {
 			add_accepted_culture = maltese
