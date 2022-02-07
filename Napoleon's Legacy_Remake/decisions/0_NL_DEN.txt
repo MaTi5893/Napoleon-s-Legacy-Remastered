@@ -15,11 +15,9 @@ political_decisions = {
 			OR = {
 				SCO = {vassal_of = THIS}
 				SCO = {in_sphere = THIS}
-				AND = {
-					SCO = {
-						all_core = {
-							owned_by = THIS
-						}
+				SCO = {
+					all_core = {
+						owned_by = THIS
 					}
 				}
 			}

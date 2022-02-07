@@ -207,6 +207,7 @@ political_decisions = {
 	}
 	
 	double_down_in_the_balkans = {
+		picture = double_down_in_the_balkans
 		potential = {
 			tag = TUR
 			NOT = { capital = 876 }

@@ -11,14 +11,12 @@ political_decisions = {
 			}
 			invention = expansionism
 			is_greater_power = yes
-			and = { 
-				GBR = { is_greater_power = no } 
-				ADU = { OR = { is_greater_power = no primary_culture = dutch } }
-				ENG = { 
-					OR = { 
-						is_greater_power = no 
-						NOT = { any_owned_province = { continent = europe }  }
-					}
+			GBR = { is_greater_power = no } 
+			ADU = { OR = { is_greater_power = no primary_culture = dutch } }
+			ENG = { 
+				OR = { 
+					is_greater_power = no 
+					NOT = { any_owned_province = { continent = europe }  }
 				}
 			}
 			NOT = { any_greater_power = { OR = { primary_culture = north_german primary_culture = south_german primary_culture = rhenish } } }
@@ -153,7 +151,7 @@ political_decisions = {
 		}
 	}
 	annex_westphalia = { 
-		picture = decision_rhi_HRE
+		picture = westphalia_decision
 		potential = { 
 			tag = FRA
 			has_country_flag = jerome
@@ -168,7 +166,6 @@ political_decisions = {
         	HES = {vassal_of = THIS}
         	HEK = {vassal_of = THIS}
         	BRA = {vassal_of = THIS}
-			war = no
 			HAN = {
 				all_core = {
 					OR = {

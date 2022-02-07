@@ -101,7 +101,7 @@ political_decisions = {
         }
     }
 
-	unite_north_italy = {
+	unite_north_italy_gp = {
 		picture = north_italy_decision
 		potential = {
 			OR = {

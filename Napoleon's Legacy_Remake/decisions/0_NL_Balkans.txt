@@ -102,7 +102,7 @@ political_decisions = {
         }
     }
 
-    form_yugoslavia = {
+    form_yugoslavia_easy = {
         picture = form_yugoslavia
         potential = {
             OR = {
@@ -114,6 +114,7 @@ political_decisions = {
             YUG = {exists = no}
         }
         allow = {
+            war = no
             BOS = {
                 OR = {
                     vassal_of = THIS
@@ -122,24 +123,17 @@ political_decisions = {
                         owned_by = THIS
                     }
                 }
-                state_n_government = 1
             }
-            war = no
+            state_n_government = 1
             all_core = {
                 owned_by = THIS
             }
         }
         effect = {
-            BOS = {annex_to = THIS}
             BOS = {
+                annex_to = THIS
                 all_core = {
                     add_core = THIS
-                }
-            }
-            all_core = {
-                add_province_modifier = {
-                    name = cultural_unification
-					duration = 7300
                 }
             }
             change_tag = YUG
