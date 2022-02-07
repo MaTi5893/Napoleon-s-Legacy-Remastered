@@ -34,7 +34,10 @@ political_decisions = {
 			OR = {
 				tag = AUS
 				tag = KUK
+				tag = ROM
+				tag = ITA
 			}
+			DLM = {exists = yes}
 			NOT={has_country_flag=reintegrate_illiya}
 		}
 		allow = {
