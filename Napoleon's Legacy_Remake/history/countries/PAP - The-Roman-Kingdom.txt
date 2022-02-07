@@ -70,6 +70,8 @@ basic_chemistry = 1
 
 post_napoleonic_army_doctrine = yes
 
+schools = roman_tech_school
+
 # Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 1

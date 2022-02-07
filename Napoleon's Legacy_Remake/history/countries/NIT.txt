@@ -77,3 +77,4 @@ post_napoleonic_army_doctrine = yes
 
 #========================= END OF FILE =========================
 
+schools = army_tech_school

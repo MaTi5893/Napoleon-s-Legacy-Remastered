@@ -71,6 +71,9 @@ basic_chemistry = 1
 
 #Inventions
 #corvettes = yes
+post_napoleonic_army_doctrine = yes
+
+schools = culture_tech_school
 
 # Starting Consciousness
 consciousness = 3

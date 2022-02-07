@@ -90,7 +90,7 @@ upper_house = {
 	communist = 0
 }
 
-schools = culture_tech_school
+schools = napoleon_tech_school
 
 oob = "FRA_oob.txt"
 

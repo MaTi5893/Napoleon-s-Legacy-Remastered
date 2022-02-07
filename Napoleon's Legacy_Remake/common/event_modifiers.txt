@@ -1173,6 +1173,17 @@ rome ={
 	pop_militancy_modifier = -0.01
 }
 
+italian_unification ={
+	prestige = 0.1
+	mobilisation_size = 0.01
+	global_assimilation_rate = 1
+	global_population_growth = 0.001
+	farm_rgo_eff = 0.1
+	mine_rgo_eff = 0.1
+	culture_tech_research_bonus = 0.05
+	education_efficiency_modifier = 0.1
+}
+
 core_when_done = {
 	icon = 17
 }

@@ -317,8 +317,8 @@ accept_spanish_minorities_title;Acceptance of the Spanish minorities;;;;;;x
 accept_spanish_minorities_desc;We have accepted the Spaniars in our country, its now time to accept the minorities as well to prevent any ideas of independance and rebellion !;;;;;;x
 annex_westphalia_title;Annexation of Westphalia;;;;;;x
 annex_westphalia_desc;Since Jerome got the French throne, Westphalia has been a vassal all but in name. In fact, we are already tunning the country. So now its time for us to do it officially by annexing Westphalia !;;;;;;x
-french_Ruhr_boom_title;French Ruhr Boom;;;;;;x
-french_Ruhr_boom_desc;With the Annexation of the Rhineland, we got ourselves a region with great goods and a strong potential. We need to invest to get it to be industrial heartland of the West and to show everyone our power !;;;;;;x
+french_ruhr_boom_title;French Ruhr Boom;;;;;;x
+french_ruhr_boom_desc;With the Annexation of the Rhineland, we got ourselves a region with great goods and a strong potential. We need to invest to get it to be industrial heartland of the West and to show everyone our power !;;;;;;x
 unite_north_italy_title;Remake the Kingdom of Italy;;;;;;x
 unite_north_italy_desc;With the Annexation of the Kingdom of Italy by France in 1826 and the death of Napoleon in 1835, the North of Italy exploded into different factions. It's time to unite them under one flag !;;;;;;x
 ask_france_piedmonte_title;Ask France for Piedmonte;;;;;;x
@@ -345,3 +345,9 @@ occitan_expansion_title;Accept Occitan;;;;;;;x
 occitan_expansion_desc;We have conquered the Occitan region. We can consider them our Eastern Breathen and should make them citizen of our glorious kingdom !;;;;;;;x
 latin_empire_title;Revive the Latin empire !;;;;;;;x
 latin_empire_desc;We have finally united all Latin speaking people and can declare the resurgence of a latin identity !;;;;;;;x
+forza_italia_title;Forza Italy;;;;;;;x
+forza_italia_desc;We must focus on our nation in order to make it the best for its people !;;;;;;;x
+annex_italian_minor_title;Annex Italian Minor;
+annex_italian_minor_desc;We should unite every duchy that is in our sphere in order to further our claim on the Italian Throne !;;;;;;;x
+italy_finally_title;Union of Italian;;;;;;;x
+italy_finally_desc;All Italian around the world can now feel at home in our country !;;;;;;;x

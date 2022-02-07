@@ -72,3 +72,4 @@ basic_chemistry = 1
 
 #========================= END OF FILE =========================
 
+schools = naval_tech_school

@@ -68,6 +68,8 @@ basic_chemistry = 1
 
 post_napoleonic_army_doctrine = yes
 
+schools = culture_tech_school
+
 oob = "LOM_oob.txt"
 
 

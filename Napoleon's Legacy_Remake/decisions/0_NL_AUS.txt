@@ -34,7 +34,7 @@ political_decisions = {
 			OR = {
 				tag = AUS
 				tag = KUK
-				tag = ROM
+				tag = PAP
 				tag = ITA
 			}
 			DLM = {exists = yes}
