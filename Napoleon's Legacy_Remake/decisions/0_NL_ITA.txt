@@ -45,6 +45,38 @@ political_decisions = {
 		}
 	}
 
+	get_rome = {
+		picture = rome_decision
+		potential = {
+			owns = 749
+			OR = {
+				tag = NPL
+				tag = NIT
+			}
+			ITA = {exists = no}
+			NOT = {has_global_flag = get_rome}
+		}
+		allow = {
+			war = no
+			owns = 749
+		}
+		effect = {
+			add_accepted_culture = south_italian
+			add_accepted_culture = north_italian
+			prestige = 10
+			ITA = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			add_country_modifier = {
+				name = rome
+				duration = 3650
+			}
+			set_global_flag = get_rome
+		}
+	}
+
 	ask_france_piedmonte = {
 		picture = piedmonte_decision
 		potential = {
@@ -143,6 +175,8 @@ political_decisions = {
 			prestige = 20
 		}
 	}
+
+
 	north_africa = {
 		picture = libya_decision
 		potential = {

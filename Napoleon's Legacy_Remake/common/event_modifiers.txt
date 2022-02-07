@@ -1160,12 +1160,18 @@ north_italy = {
 	education_efficiency_modifier = 0.1
 }
 
- napoleon_death ={
+napoleon_death ={
 	prestige = -0.1
 	mobilisation_size = -0.01
 	pop_militancy_modifier = 0.01
 	army_tech_research_bonus = -0.05
- }
+}
+
+rome ={
+	prestige = 0.1
+	mobilisation_size = 0.01
+	pop_militancy_modifier = -0.01
+}
 
 core_when_done = {
 	icon = 17
