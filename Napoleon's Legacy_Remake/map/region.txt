@@ -1247,7 +1247,7 @@ TUS_744 = { 744 745 747 748 740 746 } #Toscana
 
 PAP_741 = { 741 742 743 739 738 } #Emilia-Romagna
 
-NAP_752 = { 754 2567 755 } #Compania
+NAP_752 = { 754 2567 755 } #Naples Region (752 is Ancona?)
 
 PAP_749 = { 749 750 } #Lazio
 
