@@ -215,6 +215,7 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = rhenish
+			tech_school = prussian_tech_school
 			RHI = {
 				all_core = {
 					add_province_modifier = {
