@@ -88,7 +88,7 @@ form_celtic_union = {
 				invention = manifest_destiny
 				}
 			effect = {
-				badboy = 7
+				badboy = 4
 				add_core = 299
 				add_core = 304 
 				add_core = 277
@@ -107,6 +107,7 @@ form_celtic_union = {
 			}
 			effect = {
 				badboy = 5
+				add_accepted_culture = breton
 				add_core = 420
 				add_core = 421
 				add_core = 423
