@@ -6,7 +6,7 @@ political_decisions = {
 				tag = ENG
 			}
 			NOT = { accepted_culture = irish } 
-			NOT = { accepted_culture = walloon }
+			NOT = { accepted_culture = wallonian }
 		}
 		allow = {
 			war = no
