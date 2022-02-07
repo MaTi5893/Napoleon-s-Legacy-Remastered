@@ -21,7 +21,7 @@ political_decisions = {
 						region = SAR_720
 						region = SAR_466
 						owned_by = THIS
-						owned_by = {
+						owner = {
 							in_sphere = THIS
 						}
 					}
@@ -165,7 +165,7 @@ political_decisions = {
 			}
 			ai = no
 			NOT = { has_country_flag = ask_france_piedmonte }
-			NOT = {owns=720}
+			NOT = {owns = 720}
 		}
 		allow = {
 			war=no
@@ -193,7 +193,7 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						owned_by = {
+						owner = {
 							OR = {
 								in_sphere = THIS
 								vassal_of = THIS
@@ -249,13 +249,18 @@ political_decisions = {
 		effect = {
 			PAP_749 = {add_core = THIS}
 			NAP_752 = {add_core = THIS}
-			add_province_modifier = {
-				name = cultural_unification
-				duration = 7300
-			}
 			GRE = {
 				all_core = {
 					add_core = THIS
+				}
+			}
+			all_core = {
+				limit = {
+					owned_by = THIS
+				}
+				add_province_modifier = {
+					name = cultural_unification
+					duration = 7300
 				}
 			}
 			add_accepted_culture = greek
@@ -263,7 +268,6 @@ political_decisions = {
 			prestige = 20
 		}
 	}
-
 
 	north_africa = {
 		picture = libya_decision
@@ -350,11 +354,9 @@ political_decisions = {
 			nationalism_n_imperialism = 1
 		}
 		effect = {
-			all_core = {
-				add_country_modifier = {
-					name = italian_unification
-					duration = 10965
-				}
+			add_country_modifier = {
+				name = italian_unification
+				duration = 10965
 			}
 			prestige = 20
 		}

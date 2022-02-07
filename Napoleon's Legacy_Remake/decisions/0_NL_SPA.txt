@@ -165,6 +165,12 @@ political_decisions = {
 			add_core = 2134
 			add_core = 2135
 			change_tag = IBR
+			all_core = {
+				add_province_modifier = {
+					name = cultural_unification
+					duration = 7300
+				}
+			}
 			add_accepted_culture = portuguese
 		}
 	}
