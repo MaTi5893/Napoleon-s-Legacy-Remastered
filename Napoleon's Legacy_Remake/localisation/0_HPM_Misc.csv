@@ -3,13 +3,6 @@ oceanic;Pacific Islander;;;;Spanish Loc;;;x
 levantine;Greco-Caucasian;;;;Spanish Loc;;;x
 turko_semitic;Turkic;;;;Spanish Loc;;;x
 polish_culture_group;Western Slavic;;;;Spanish Loc;;;x
-BRIGADES_COMPARE_GREATER;Brigades comparison factor of two countries is at least §Y$VAL$§!\n;;;;Spanish Loc;;;x!;;;;Spanish Loc;;;x
-BRIGADES_COMPARE_SMALLER;Brigades comparison factor of two countries is less than §Y$VAL$§!\n;;;;Spanish Loc;;;x
-jewish_group;Jewish;;;;Spanish Loc;;;x
-muslim;Muslim;;;;Spanish Loc;;;x
-christian;Christian;;;;Spanish Loc;;;x
-eastern;Eastern Religions;;;;Spanish Loc;;;x
-pagan;Pagans;;;;Spanish Loc;;;x
 jefferson_method_desc;The Jefferson Method is a highest averages method for allocating seats, and is thus a type of party-list proportional representation. Proportional representation systems aim to allocate seats to parties approximately in proportion to the number of votes received. For example, if a party wins one-third of the votes then it should gain about one-third of the seats. In general, exact proportionality is not possible because these divisions produce fractional numbers of seats. As a result, several methods have been devised which ensure that the parties' seat allocations, which are of course whole numbers, are as proportional as possible. In comparison with the Sainte-Lague method, §Ythe Jefferson Method slightly favours large parties and coalitions over scattered small parties§W.;;;;Spanish Loc;;;x
 precious_goods;Precious Goods;;;;Spanish Loc;;;x
 precious_goods_RGO_SIZE;Precious Goods Market Size;;;;Spanish Loc;;;x
@@ -85,7 +78,7 @@ HAVE_LESS_TOTAL_PORTS_THAN;Have equal or less ports than: ;;;;Spanish Loc;;;x
 HAVE_MORE_TOTAL_PORTS_THAN;Have equal or more ports than: ;;;;Spanish Loc;;;x
 TOTAL_AMOUNT_OF_SHIPS;Total amount of ships: §Y$COUNT$§W \n;;;;Spanish Loc;;;x
 LESS_AMOUNT_OF_SHIPS;Less amount of ships than: §Y$COUNT$§W \n;;;;Spanish Loc;;;x
-ibadi;Ibadi;;;;Spanish Loc;;;x
+ibadi;Ibadi;;;;Ibadi;;;x
 HAS_RECENTLY_LOST_WAR;Have lost a war in the last five years.;;;;Spanish Loc;;;x
 NOT_IN_ELECTION_CAMPAIGN;is NOT in an election campaign.;;;;Spanish Loc;;;x
 PEACE_WE_DECLINE_2;We have declined the peace offer from;;;;Spanish Loc;;;x
@@ -151,14 +144,6 @@ HAS_NOT_NATIONAL_MINORITY;Has Minorities;;;;Spanish Loc;;;x
 HAS_NATIONAL_MINORITY;Has Minorities;;;;Spanish Loc;;;x
 beifaren;North Han;;;;Spanish Loc;;;x
 nanfaren;South Han;;;;Spanish Loc;;;x
-control_1;Obsolete Piston Steam Engine;;;;Spanish Loc;;;x
-control_1_desc;Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order. It occurs that Piston Steam Engines have become rather obsolete and lost some of their advantages.;;;;Spanish Loc;;;x
-control_2;Obsolete High-Pressure Steam Engine;;;;Spanish Loc;;;x
-control_2_desc;Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order. It occurs that High-Pressure Steam Engines have become rather obsolete and lost some of their advantages.;;;;Spanish Loc;;;x
-control_3;Obsolete Compound Steam Engine;;;;Spanish Loc;;;x
-control_3_desc;Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order. It occurs that Compound Steam Engines have become rather obsolete and lost some of their advantages.;;;;Spanish Loc;;;x
-control_4;Obsolete Steam Turbines;;;;Spanish Loc;;;x
-control_4_desc;Obsolescence is the state of being which occurs when an object, service, or practice is no longer wanted even though it may still be in good working order. It occurs that Steam Turbines have become rather obsolete and lost some of their advantages.;;;;Spanish Loc;;;x
 acceptable_subsidies_l;Extended Subsidies;;;;Spanish Loc;;;x
 MONEY_IS_ATLEAST_TRIGGER;Money is at least §Y$VALUE$§W§.\n;;;;Spanish Loc;;;x
 EFFECT_BUILD_IN_CAPITAL_DESC;§Y$BLD$§! construction will take place in: §Y$PROVS$§!\n;;;;Spanish Loc;;;x
@@ -273,15 +258,12 @@ fascist_rebels_army;$COUNTRY_ADJ$ Paramilitary;;;;Spanish Loc;;;x
 dagestani;Dagestani;;;;Spanish Loc;;;x
 circassian;Circassian;;;;Spanish Loc;;;x
 chechen;Chechen;;;;Spanish Loc;;;x
-north_caucasian;Caucasian Minor;;;;Spanish Loc;;;x
+north_caucasian;Caucasian Minor;;;;Menor caucásico;;;x
 caucasian;North Caucasian;;;;Spanish Loc;;;x
 botanical_expedition_threatened;Botanical Expedition Threatened;;;;Spanish Loc;;;x
 participates_in_botanical_expedition;Participates in Botanical Expedition;;;;Spanish Loc;;;x
 ANY_POP_IN_PROVINCE_STARTS;Any Pop;;;;Spanish Loc;;;x
 IS_RELIGION;The state religion is;;;;Spanish Loc;;;x
-house_of_rashid_exiled;House of Rashid Exiled;;;;Spanish Loc;;;x
-house_of_saud_returned;House of Saud Returned;;;;Spanish Loc;;;x
-house_of_saud_exiled;House of Saud Exiled;;;;Spanish Loc;;;x
 early_electrical_telegraph;Early Electrical Telegraph;;;;Spanish Loc;;;x
 early_electrical_telegraph_desc;The first commercial electrical telegraph was co-developed by Sir William Fothergill Cooke and Charles Wheatstone. This was a five-needle, six-wire system. The cables were originally installed underground in a steel conduit. However, the cables soon began to fail as a result of deteriorating insulation and were replaced with uninsulated wires on poles. As an interim measure, a two-needle system was used with three of the remaining working underground wires, which despite using only two needles had a greater number of codes.;;;;Spanish Loc;;;x
 telegraph;Telegraph;;;;Spanish Loc;;;x
@@ -318,12 +300,11 @@ TRIGGER_STATE;State;;;;Spanish Loc;;;x
 piston_steam_engine;Piston Steam Engine;;;;Spanish Loc;;;x
 high_pressure_steam_engine;High-Pressure Steam Engine;;;;Spanish Loc;;;x
 compound_steam_engines;Compound Steam Engine;;;;Spanish Loc;;;x
-nv_autocracy;Autocracy;;;;Spanish Loc;;;x
-nv_tradition;Tradition;;;;Spanish Loc;;;x
-nv_productivity;Productivity;;;;Spanish Loc;;;x
-nv_diplomacy;Diplomacy;;;;Spanish Loc;;;x
-nv_education;Education;;;;Spanish Loc;;;x
-french_claimed_the_rhine;French Claims on the Rhine;;;;Spanish Loc;;;x
+nv_autocracy;Autocracy;;;;Autocracia;;;x
+nv_tradition;Tradition;;;;Tradición;;;x
+nv_productivity;Productivity;;;;Productividad;;;x
+nv_diplomacy;Diplomacy;;;;Diplomacia;;;x
+nv_education;Education;;;;Educación;;;x
 CANAL_5;Dardanelles Strait;;;;Spanish Loc;;;x
 CANAL_4;Bosphorus Strait;;;;Spanish Loc;;;x
 MODIFIER_LAND_ATTACK;Land Unit Attack;;;;Spanish Loc;;;x
@@ -518,9 +499,8 @@ hms_government;Constitutional Monarchy;;;;Spanish Loc;;;x
 market_structure;Market Structure;;;;Spanish Loc;;;x
 former_sphere_leader;Former Sphere Leader;;;;Spanish Loc;;;x
 former_overlord;Former Overlord;;;;Spanish Loc;;;x
-cisplatina_is_ours;Cisplatina is Ours;;;;Spanish Loc;;;x
-pessimist;Pessimist;;;;Spanish Loc;;;x
-MOR_1696;Western Sahara;;;;Spanish Loc;;;x
+cisplatina_is_ours;Cisplatina is Ours;;;;Cisplatina es nuestra!;;;x
+MOR_1696;Western Sahara;;;;Sahara Occidental;;;x
 anti__rationalism;Anti - Rationalism;;;;Spanish Loc;;;x
 time_saving_measures;Time-Saving Measures;;;;Spanish Loc;;;x
 time_saving_measures_desc;Time-Saving Measures;;;;Spanish Loc;;;x
@@ -531,7 +511,6 @@ dismantle_declared;Dismantled;;;;Spanish Loc;;;x
 in_great_war;In a Great War;;;;Spanish Loc;;;x
 THE_CAPITAL_IS;The Capital Is;;;;Spanish Loc;;;x
 post_colonial_country;Post-Colonial Nation;;;;Spanish Loc;;;x
-mormon;Mormon;;;;Spanish Loc;;;x
 gypsy;Gypsy;;;;Spanish Loc;;;x
 eugen_von_bohm_bawerk;Eugen von Bohm-Bawerk;;;;Spanish Loc;;;x
 eugen_von_bohm_bawerk_desc;Bohm-Bawerk's career as a scholar was an intermittent one. The most significant span of scholarly activity was his years at the University of Innsbruck (1881-1889). It was during the 1880s that he first published two of the three volumes of his magnum opus, Capital and Interest. His later years were dominated by his duties as the Austrian Minister of Finance, a position he held, though not continuously, throughout the 1890s and beyond-and for which he is fittingly honored by having his likeness on Austria's one-hundred schilling note. After serving in this capacity and assuming other governmental duties, he returned to teaching in 1904. With a chair at the University of Vienna, he became a colleague of Wieser, successor to the retired Menger. Students who passed through the university during the last decade of Bohm-Bawerk's career (and life: he died in 1914) included Joseph Schumpeter and Ludwig von Mises.;;;;Spanish Loc;;;x
@@ -728,4 +707,4 @@ native_rebels_desc;These rebels seek to restore rulership of the country to its 
 native_rebels_army;Anti-Colonial Rebels;;;;Spanish Loc;;;x
 liberal_rebels_desc;In an absolute monarchy, Jacobins will seek to impose a constitutional monarchy. Otherwise, Jacobins will strive to create a democratic government with a liberal ideology and a focus on political reform.;;;;Spanish Loc;;;x
 RANK_INDUSTRY_D;Industry score is a measure of your level of industrialization. It is a combination of the number of employed craftsmen and clerks, divided by 2500, and the value of your foreign investment.;;;;Spanish Loc;;;x
-carlist_rebels_name;Bourbon Rebels;;;;Spanish Loc;;;x
+carlist_rebels_name;Bourbon Rebels;;;;Rebeldes del Bourbon;;;x

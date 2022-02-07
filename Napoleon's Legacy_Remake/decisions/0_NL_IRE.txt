@@ -71,6 +71,7 @@ form_celtic_union = {
 			}
 			change_tag = CEL
 			add_accepted_culture = Scotish
+			add_accepted_culture = irish
 		}
 		ai_will_do = {
 			factor = 1

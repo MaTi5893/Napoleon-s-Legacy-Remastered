@@ -1,91 +1,95 @@
 chungus;amongus;;;;Spanish Loc;;;x
-return_home_annex;Return Home;;;;Spanish Loc;;;x
-andean;Andean;;;;Spanish Loc;;;x
-EVTDESC181501;With the help of lobbied Danziger politicians, the Prussian government has assumed power of the City in a blatant violation of the treaties that were signed between our nations. Prussian troops have already been stationed on Danziger land, but we still have the opportunity to act. How should we proceed?;;;;Spanish Loc;;;x
-EVTDESC19300;Keep, ancient lands, your storied pomp!' cries she\n' With silent lips. 'Give me your tired, your poor,\nYour huddled masses yearning to breathe free.'\n\nThe people of France have presented to the people of our country a spectacular gift. An enormous copper statue, 151 ft. tall, depicting a woman carrying a torch, representing and named 'Liberty Enlightening The World'. The design has been carried out by one Frederic Auguste Bartholdi, and a place has been set aside for the statue on an island near a great harbour. The statue will henceforth be known, simply, as 'The Statue of Liberty'.;;;;Spanish Loc;;;x
-BRZ_2401;Amazonas;;;;Spanish Loc;;;x
-BRZ_2416;Mato Grosso;;;;Spanish Loc;;;x
-BRZ_2439;Bahia;;;;Spanish Loc;;;x
-BRZ_2447;Sao Paulo;;;;Spanish Loc;;;x
-BRZ_2463;Sul;;;;Spanish Loc;;;x
-BRZ_2432;Pernambuco;;;;Spanish Loc;;;x
-BRZ_2450;Rio De Janeiro;;;;Spanish Loc;;;x
-BRZ_2414;Para;;;;Spanish Loc;;;x
-BRZ_2435;Pernambuco;;;;Spanish Loc;;;x
-BRZ_2421;Goias;;;;Spanish Loc;;;x
-BRZ_2443;Minas Gerais;;;;Spanish Loc;;;x
-BRZ_2424;Ceara;;;;Spanish Loc;;;x
-NORMAL_GBRtrollingENG;The War of Restoration;;;;Spanish Loc;;;x
-AGRESSION_GBRtrollingENG;The War of Restoration;;;;Spanish Loc;;;x
-the_true_government;War of Restoration;;;;Spanish Loc;;;x
-recover_homeland;Recover Homeland;;;;Spanish Loc;;;x
-recover_homeland_desc;Recover our Homeland!;;;;Spanish Loc;;;x
-return_home_annex_desc;Destroy the Republic of Britain!;;;;Spanish Loc;;;x
-the_true_government_setup;Destroy the rebellion!;;;;Spanish Loc;;;x
-the_true_government_short;Annex The United Kingdom;;;;Spanish Loc;;;x
-EVTDESC32509;The feelers put out by Eduard Andreevich Stoeckl have had results, as $FROMCOUNTRY$ has today offered to enter into negotiations over a proposed sale of our territories in North America. The $FROMCOUNTRY_ADJ$ government is offering us a price of 2.3 cents per acre for the Alaskan territories, and that price seems relatively fair. The colonies could become hard to defend in the event of war with the United Kingdom, so getting rid of them for a price now might not be such a bad idea. What say you, $MONARCHTITLE$?;;;;Spanish Loc;;;x
-trinket_health_care;Trinket Health Care;;;;Spanish Loc;;;x
-own_panama_canal;Owning the Panama Canal;;;;Spanish Loc;;;x
-WEGAINCB_3;'$CASUS$' Casus Belli;;;;Spanish Loc;;;x
-NORMAL_WAR_CONQUEST_NAME;$ORDER$Conquest of $SECOND_COUNTRY$;;;;Spanish Loc;;;x
-GC_NAME;Le Grande Campagne;;;;Spanish Loc;;;x
-GC_DESC;A tentative new order reigns in Europe. Napoleon's France defied her enemies and now stands victorious and triumphant in western Europe, with all her rivals greatly humbled. But despite victory, peace did not come cheap - in exchange for lasting peace France agreed to limit her direct rule to lands west of the Rhine, and to grant autonomy to some of her previous subjects. The future is uncertain. Resentful Austrians and Prussians continue to chip away at the fringes of French influence, waiting to see if the young empire falters. And with the growing bubblings of nationalism and increasing industrialization across the continent, internal strife threatens to once again upend peace in Europe. Meanwhile the remnants of the exiled and shattered United Kingdom, with her Native American allies, are locked in a bitter struggle of containment against American expansionism. The outcome of the war could decide the fate of not only North America, but the wider British Empire.;;;;Spanish Loc;;;x
-spanish_tech_school;The Spanish Armada;;;;Spanish Loc;;;x
-viking_tech_school;Viking Heritage;;;;Spanish Loc;;;x
-baltic_domination_tech;Baltic Domination Tech;;;;Spanish Loc;;;x
-baltic_dominance;Domination of the Baltic Sea;;;;Spanish Loc;;;x
-Scotish;Scottish;;;;Spanish Loc;;;x
-british;English;;;;Spanish Loc;;;x
-PROV2126;Reunion;;;;Spanish Loc;;;x
-west_rhine_bank;Control Over the West Rhine Bank;;;;Spanish Loc;;;x
-east_rhine_bank;Control Over the East Rhine Bank;;;;Spanish Loc;;;x
-full_rhine;Control Over The Entire Rhine;;;;Spanish Loc;;;x
-an_mein_volk;An Mein Folk;;;;Spanish Loc;;;x
-an_mein_volk_desc;We have call all german to unite against the french rule!;;;;Spanish Loc;;;x
-cultural_unification;Cultural Unification;;;;Spanish Loc;;;x
-cultural_unification_desc;We have united all our culture!;;;;Spanish Loc;;;x
-new_world_nation;New World Nation;;;;Spanish Loc;;;x
-EVTNAME181503;Russia gives up Ukraine?!;;;;Spanish Loc;;;x
-EVTDESC181503;News have reached us that the Tsar of Russia has offered to give up the puppet state of Ukraine for us... by his own will.;;;;Spanish Loc;;;x
-EVTOPTA181503;Has he finally gone insane?;;;;Spanish Loc;;;x
-russian_comeback1;Russian Reconstruction;;;;Spanish Loc;;;x
-russian_comeback1_desc;Russian Reconstruction;;;;Spanish Loc;;;x
-russian_comeback2;After the difficult time that followed the invasion of our glorious nation by the french, we are finally recovering!;;;;Spanish Loc;;;x
-russian_comeback2_desc;After the difficult time that followed the invasion of our glorious nation by the french, we are finally recovering!;;;;Spanish Loc;;;x
-poniatowski_reforms;Poniatoswki Reforms;;;;Spanish Loc;;;x
-poniatowski_reforms_desc;The effects of Poniatowski's reforms are showing.;;;;Spanish Loc;;;x
-polish_law_respect;We respect the Poniatowski law of 120 000 soldier!;;;;Spanish Loc;;;x
-polish_law_no_respect;We don't respect the Poniatowski law of 120 000 soldier!;;;;Spanish Loc;;;x
-metternich_way;The Way Of Metternich!;;;;Spanish Loc;;;x
-metternich_way_desc;Our Minister of Forgeign Affairs paved the way for the return of Austria as a great power!;;;;Spanish Loc;;;x
-balkans_war;Balkans WAR!;;;;Spanish Loc;;;x
-balkans_war;The War for the Independace of the different Balkans states has been fought for over a year, the population is supporting us!;;;;Spanish Loc;;;x
-balkans_war_aftermath_victory;The Aftermath of the Balkan war;;;;Spanish Loc;;;x
-balkans_war_aftermath_victory_desc;We have won the Balkan war, now we must recover from it, trying to accept the populations that revolted to prevent any future war.;;;;Spanish Loc;;;x
-EVTDESC90005;Although we only want to help $CB_TARGET_NAME$ by adding them to our sphere of influence they have gotten very worked up about it. While unseemly to all involved, their behaviour has rather turned international opinion against forcefully requesting they join us in our prosperity.;;;;Spanish Loc;;;x
-balkans_war_aftermath_defeat;The Aftermath of the Balkan war;;;;Spanish Loc;;;x
-balkans_war_aftermath_defeat_desc;We have lost the Balkan war, now we must recover from it, trying to prevent others revolts in differents par of the empire and may be become a great power again!;;;;Spanish Loc;;;x
-golden_eagle_restoration;Byzantine Restoration!;;;;Spanish Loc;;;x
-golden_eagle_restoration_desc;We have reclaimed the lost titled of the Byzantine empire!;;;;Spanish Loc;;;x
-the_pentarchy;We have united the Pentarchy;;;;Spanish Loc;;;x
-the_pentarchy_desc;After a millenia of differences with wersern chrisitanity, we have finally reunited all 5 holy sites of christianity, putting orthodox faith above all others!;;;;Spanish Loc;;;x
-anatolia;Anatolia;;;;Spanish Loc;;;x
-anatolia_desc;We have reconquered Anatolia!;;;;Spanish Loc;;;x
-levant;Levant;;;;Spanish Loc;;;x
-levant_desc;We have reconquered the Levant!;;;;Spanish Loc;;;x
-north_africa;North Africa;;;;Spanish Loc;;;x
-north_africa_desc;We have reconquered North Africa!;;;;Spanish Loc;;;x
-south_italy;South Italy;;;;Spanish Loc;;;x
-south_italy_desc;We have reconquered South Italy!;;;;Spanish Loc;;;x
-balkans;Balkans;;;;Spanish Loc;;;x
-balkans_desc;We have reconquered the Balkans!;;;;Spanish Loc;;;x
-north_italy;North Italy;;;;Spanish Loc;;;x
-north_italy_desc;We have reconquered North Italy!;;;;Spanish Loc;;;x
-PRU_701;Wielkopolskie;;;;Spanish Loc;;;x
-RUS_710;Malopolskie;;;;Spanish Loc;;;x
-liberation_war;The Greek War of Liberation!;;;;Spanish Loc;;;x
-liberation_war_desc;This is our time. The Ottoman Empire is burning - and from the ashes of the old, the new shall rise.;;;;Spanish Loc;;;x
-napoleon_death;Napoleon is dead !;;;;Spanish Loc;;;x
-napoleon_death_desc;With the death of Napoleon, the figure that was making peace in Europe possible disaperead. We need to get ready for war !;;;;Spanish Loc;;;x
-social_reformed_nation;Fully Socially Reformed Nation;;;;Spanish Loc;;;x
-rhenish;Rhenish;;;;;;;
+return_home_annex;Return Home;;;;!Volver a casa!;;;x
+andean;Andean;;;;Andinos;;;x
+EVTDESC181501;With the help of lobbied Danziger politicians, the Prussian government has assumed power of the City in a blatant violation of the treaties that were signed between our nations. Prussian troops have already been stationed on Danziger land, but we still have the opportunity to act. How should we proceed?;;;;Con la ayuda de políticos de Danzig presionados, el gobierno prusiano ha asumido el poder de la ciudad en una flagrante violación de los tratados que se firmaron entre nuestras naciones. Las tropas prusianas ya han sido estacionadas en la tierra de Danzig, pero todavía tenemos la oportunidad de actuar. ¿Cómo debemos proceder?;;;x
+EVTDESC19300;Keep, ancient lands, your storied pomp!' cries she\n' With silent lips. 'Give me your tired, your poor,\nYour huddled masses yearning to breathe free.'\n\nThe people of France have presented to the people of our country a spectacular gift. An enormous copper statue, 151 ft. tall, depicting a woman carrying a torch, representing and named 'Liberty Enlightening The World'. The design has been carried out by one Frederic Auguste Bartholdi, and a place has been set aside for the statue on an island near a great harbour. The statue will henceforth be known, simply, as 'The Statue of Liberty'.;;;;"Tierras de antaño, quédense con sus historias pomposas!" exclama ella\n' con labios silenciosos. Dadme tus cansados, tus pobres,\nTus masas amontonadas gimiento por despirar libres'\n\nEl pueblo de Francia ha presentado al pueblo de nuestro país un regalo espectacular. Una enorme estatua de cobre, de 151 pies de altura, que representa a una mujer que lleva una antorcha, y que lleva el nombre de "La libertad iluminando al mundo". El diseno ha sido realizado por un tal Frederic Auguste Bartholdi, y se ha reservado un lugar para la estatua en una isla cercana a un gran puerto. A partir de ahora, la estatua será conocida simplemente como "La Estatua de la Libertad".;;;x
+BRZ_2401;Amazonas;;;;Amazonas;;;x
+BRZ_2416;Mato Grosso;;;;Mato Grosso;;;x
+BRZ_2439;Bahia;;;;Bahia;;;x
+BRZ_2447;Rio de Janeiro;;;;Rio de Janeiro;;;x
+BRZ_2463;Sul;;;;Sul;;;x
+BRZ_2432;Pernambuco;;;;Pernambuco;;;x
+BRZ_2450;Sao Paulo;;;;Sao Paulo;;;x
+BRZ_2414;Para;;;;Para;;;x
+BRZ_2435;Pernambuco;;;;Pernambuco;;;x
+BRZ_2421;Goias;;;;Goias;;;x
+BRZ_2443;Minas Gerais;;;;Minas Gerais;;;x
+BRZ_2424;Ceara;;;;Ceara;;;x
+NORMAL_GBRtrollingENG;The War of Restoration;;;;Guerra de Restauración;;;x
+AGRESSION_GBRtrollingENG;The War of Restoration;;;;Guerra de Restauración;;;x
+the_true_government;War of Restoration;;;;Guerra de Restauración;;;x
+recover_homeland;Recover Homeland;;;;Recuperar la Patria;;;x
+recover_homeland_desc;Recover our Homeland!;;;;!Hay que recuperar nuestra Patria!;;;x
+return_home_annex_desc;Destroy the Republic of Britain!;;;;!A destruir la República de Gran Bretaña!;;;x
+the_true_government_setup;Destroy the rebellion!;;;;!Destruyamos la rebelión!;;;x
+the_true_government_short;Annex The United Kingdom;;;;Anexar al Reino Unido;;;x
+EVTDESC32509;The feelers put out by Eduard Andreevich Stoeckl have had results, as $FROMCOUNTRY$ has today offered to enter into negotiations over a proposed sale of our territories in North America. The $FROMCOUNTRY_ADJ$ government is offering us a price of 2.3 cents per acre for the Alaskan territories, and that price seems relatively fair. The colonies could become hard to defend in the event of war with the United Kingdom, so getting rid of them for a price now might not be such a bad idea. What say you, $MONARCHTITLE$?;;;;Los tanteos realizados por Eduard Andreevich Stoeckl han dado resultado, ya que $FROMCOUNTRY$ ha ofrecido hoy entrar en negociaciones sobre una propuesta de venta de nuestros territorios en Norteamérica. El gobierno de $FROMCOUNTRY_ADJ$ nos ofrece un precio de 2,3 centavos por acre por los territorios de Alaska, y ese precio parece relativamente justo. Las colonias podrían ser difíciles de defender en caso de guerra con el Reino Unido, así que deshacerse de ellas por un precio ahora podría no ser tan mala idea. ?Qué dices, $MONARCHTITLE$?;;;x
+trinket_health_care;Trinket Health Care;;;;Atención médica de bajo presupuesto;;;x
+own_panama_canal;Owning the Panama Canal;;;;posee el Canal de Panamá;;;x
+WEGAINCB_3;'$CASUS$' Casus Belli;;;;'$CASUS$' Casus Belli;;;x
+NORMAL_WAR_CONQUEST_NAME;$ORDER$Conquest of $SECOND_COUNTRY$;;;;Conquista de $SECOND_COUNTRY$;;;x
+GC_NAME;Le Grande Campagne;;;;Le Grande Campagne;;;x
+GC_DESC;A tentative new order reigns in Europe. Napoleon's France defied her enemies and now stands victorious and triumphant in western Europe, with all her rivals greatly humbled. But despite victory, peace did not come cheap - in exchange for lasting peace France agreed to limit her direct rule to lands west of the Rhine, and to grant autonomy to some of her previous subjects. The future is uncertain. Resentful Austrians and Prussians continue to chip away at the fringes of French influence, waiting to see if the young empire falters. And with the growing bubblings of nationalism and increasing industrialization across the continent, internal strife threatens to once again upend peace in Europe. Meanwhile the remnants of the exiled and shattered United Kingdom, with her Native American allies, are locked in a bitter struggle of containment against American expansionism. The outcome of the war could decide the fate of not only North America, but the wider British Empire.;;;;Un tentativo nuevo orden reina en Europa. La Francia de Napoleón desafió a sus enemigos y ahora se alza victoriosa y triunfante en Europa occidental, con todos sus rivales humillados. Pero, a pesar de la victoria, la paz no le salió barata: a cambio de una paz duradera, Francia aceptó limitar su dominio directo a las tierras situadas al oeste del Rin y conceder autonomía a algunos de sus anteriores súbditos. El futuro es incierto. Los austriacos y prusianos, resentidos, siguen astillando los márgenes de la influencia francesa, a la espera de ver si el joven imperio se tambalea. Y con el creciente burbujeo del nacionalismo y la creciente industrialización en todo el continente, las luchas internas amenazan con volver a poner en peligro la paz en Europa. Mientras tanto, los restos del Reino Unido, exiliados y destrozados, con sus aliados nativos americanos, se enzarzan en una amarga lucha de contención contra el expansionismo americano. El resultado de la guerra podría decidir el destino no sólo de América del Norte, sino del Imperio Británico en general.;;;x
+spanish_tech_school;The Spanish Armada;;;;La Armada Española;;;x
+viking_tech_school;Viking Heritage;;;;Herencia vikinga;;;x
+baltic_domination_tech;Baltic Domination Tech;;;;Dominio del Báltico;;;x
+baltic_dominance;Domination of the Baltic Sea;;;;Dominio del Mar Báltico;;;x
+Scotish;Scottish;;;;Escocesa;;;x
+british;English;;;;Inglesa;;;x
+PROV2126;Reunion;;;;Reunion;;;x
+west_rhine_bank;Control Over the West Rhine Bank;;;;Control de la Ribera Occidental del Rin;;;x
+east_rhine_bank;Control Over the East Rhine Bank;;;;Control de la Ribera Oriental del Rin;;;x
+full_rhine;Control Over The Entire Rhine;;;;Control de todo el Rin;;;x
+an_mein_volk;An Mein Folk;;;;An Mein Folk;;;x
+an_mein_volk_desc;We have called all Germans to unite against the French!;;;;!Hemos llamado a todos los alemanes a unirse contra los franceses!;;;x
+cultural_unification;Cultural Unification;;;;Unificación cultural;;;x
+cultural_unification_desc;We have united all lands of our culture!;;;;!Hemos unido todas las tierras de nuestra cultura!;;;x
+new_world_nation;New World Nation;;;;Nación del Nuevo Mundo;;;x
+EVTNAME181503;Russia gives up Ukraine?!;;;;¿Rusia renuncia a Ucrania?!;;;x
+EVTDESC181503;News have reached us that the Tsar of Russia has offered to give up the puppet state of Ukraine for us... by his own will.;;;;Nos han llegado noticias de que el Zar de Rusia se ha ofrecido a entregarnos el estado títere de Ucrania... por su propia voluntad.;;;x
+EVTOPTA181503;Has he finally gone insane?;;;;¿Finalmente se ha vuelto loco?;;;x
+russian_comeback1;Russian Reconstruction;;;;Reconstrucción de Rusia;;;x
+russian_comeback1_desc;After the difficult time that followed the invasion of our glorious nation by the French, we are finally recovering!;;;;Tras la difícil época que siguió a la invasión de nuestra gloriosa nación por los franceses, !por fin nos estamos recuperando!;;;x
+russian_comeback2;Russian Reconstruction;;;;Reconstrucción de Rusia;;;x
+russian_comeback2_desc;After the difficult time that followed the invasion of our glorious nation by the French, we are finally recovering!;;;;Tras la difícil época que siguió a la invasión de nuestra gloriosa nación por los franceses, !por fin nos estamos recuperando!;;;x
+poniatowski_reforms;Poniatowski's Reforms;;;;Reformas de Poniatowski;;;x
+poniatowski_reforms_desc;The effects of Poniatowski's reforms are showing.;;;;Los efectos de las reformas de Poniatowski se están notando.;;;x
+polish_law_respect;We respect Poniatowski's law of 120 000 soldiers!;;;;!Respetamos la ley de Poniatowski de 120.000 soldados!;;;x
+polish_law_no_respect;We don't respect Poniatowski's law of 120 000 soldiers!;;;;!No respetamos la ley de Poniatowski de 120.000 soldados!;;;x
+metternich_way;The Way Of Metternich!;;;;El camino de Metternich;;;x
+metternich_way_desc;Our Minister of Forgeign Affairs paved the way for the return of Austria as a great power!;;;;Nuestro Ministro de Asuntos Exteriores allanó el camino para el regreso de Austria como gran potencia.;;;x
+balkans_war;Balkan WAR!;;;;!Guerra Balcánica!;;;x
+balkans_war;The War for the Independence of the different Balkans states has been fought for over a year, the population is supporting us!;;;;La guerra por la independencia de los diferentes estados de los Balcanes lleva más de un año, !la población nos apoya!;;;x
+balkans_war_aftermath_victory;The Aftermath of the Balkan war;;;;Las consecuencias de la guerra de los Balcanes;;;x
+balkans_war_aftermath_victory_desc;We have won the Balkan war, now we must recover from it, trying to accept the populations that revolted to prevent any future war.;;;;Hemos ganado la guerra Balcánica, ahora debemos recuperarnos de ella, intentando aceptar a las poblaciones que se rebelaron para evitar cualquier guerra futura.;;;x
+EVTDESC90005;Although we only want to help $CB_TARGET_NAME$ by adding them to our sphere of influence they have gotten very worked up about it. While unseemly to all involved, their behaviour has rather turned international opinion against forcefully requesting they join us in our prosperity.;;;;Aunque sólo queremos ayudar a $CB_TARGET_NAME$ anadiéndolos a nuestra esfera de influencia, se han puesto muy nerviosos al respecto. Aunque es indecoroso para todos los implicados, su comportamiento ha hecho que la opinión internacional se oponga a pedirles que se unan a nuestra prosperidad.;;;x
+balkans_war_aftermath_defeat;The Aftermath of the Balkan war;;;;Las consecuencias de la guerra de los Balcanes;;;x
+balkans_war_aftermath_defeat_desc;We have lost the Balkan war, now we must recover from it, trying to prevent others revolts in differents par of the empire and may be become a great power again!;;;;Hemos perdido la guerra de los Balcanes, ahora debemos recuperarnos de ella, tratando de evitar otras revueltas en diferentes partes del imperio y poder volver a ser una gran potencia.;;;x
+golden_eagle_restoration;Byzantine Restoration!;;;;!Restauración bizantina!;;;x
+golden_eagle_restoration_desc;We have reclaimed the lost titles of the Byzantine empire!;;;;!Hemos recuperado los títulos perdidos del imperio bizantino!;;;x
+the_pentarchy;We have united the Pentarchy;;;;!Hemos unido la pentarquía!;;;x
+the_pentarchy_desc;After a millenia of differences with western chrisitanity, we have finally reunited all 5 holy sites of christianity, putting orthodox faith above all others!;;;;Tras milenios de diferencias con el cristianismo occidental, por fin hemos reunido los 5 lugares sagrados del cristianismo, !poniendo la fe ortodoxa por encima de todas las demás!;;;x
+anatolia;Anatolia;;;;Anatolia;;;x
+anatolia_desc;We have reconquered Anatolia!;;;;!Hemos reconquistado Anatolia!;;;x
+levant;Levant;;;;Levante;;;x
+levant_desc;We have reconquered the Levant!;;;;!Hemos reconquistado el Levante!;;;x
+north_africa;North Africa;;;;Norte de África;;;x
+north_africa_desc;We have reconquered North Africa!;;;;!Hemos reconquistado el norte de África!;;;x
+south_italy;South Italy;;;;Sur de Italia;;;x
+south_italy_desc;We have reconquered South Italy!;;;;!Hemos reconquistado el sur de Italia!;;;x
+balkans;Balkans;;;;Balcanes;;;x
+balkans_desc;We have reconquered the Balkans!;;;;!Hemos reconquistado los Balcanes!;;;x
+north_italy;North Italy;;;;Norte de Italia;;;x
+north_italy_desc;We have reconquered North Italy!;;;;!Hemos reconquistado el norte de Italia!;;;x
+PRU_701;Wielkopolskie;;;;Wielkopolskie;;;x
+RUS_710;Malopolskie;;;;Malopolskie;;;x
+AUS_2538;Vojvodina;;;;Voivodina;;;x
+PRU_575;Nordrhein;;;;Nordrhein;;;x
+PRU_578;Mittelrhein;;;;Mittelrhein;;;x
+PRU_546;Vorpommern;;;;Vorpommern;;;x
+liberation_war;The Greek War of Liberation!;;;;La guerra de liberación griega;;;x
+liberation_war_desc;This is our time. The Ottoman Empire is burning - and from the ashes of the old, the new shall rise.;;;;Este es nuestro momento. El Imperio Otomano está ardiendo, y de las cenizas de lo viejo surgirá lo nuevo.;;;x
+napoleon_death;Napoleon is dead!;;;;!Napoleón ha muerto!;;;x
+napoleon_death_desc;With the death of Napoleon, the figure that made peace in Europe possible disappeared. We need to get ready for war!;;;;Con la muerte de Napoleón, desapareció la figura que hacía posible la paz en Europa. Hay que prepararse para la guerra.;;;x
+social_reformed_nation;Fully Socially Reformed Nation;;;;Nación totalmente reformada socialmente;;;x
+rhenish;Rhenish;;;;Palatina;;;x

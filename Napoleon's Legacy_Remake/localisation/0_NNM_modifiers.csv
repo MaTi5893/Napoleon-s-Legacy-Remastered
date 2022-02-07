@@ -1,22 +1,12 @@
 ;;;;Spanish Loc;;;x;
-state_of_emergency_modifier;State of Emergency;;;;Spanish Loc;;;x
-state_of_emergency_modifier_desc;State of Emergency or State of Exception means that the government can suspend and/or change some functions of the executive, the legislative and/or the judiciary during this period of time. It alerts citizens to change their normal behavior and orders government agencies to implement emergency plans. A government can declare a state of emergency during a time of natural or human-made disaster, during a period of civil unrest, or following a declaration of war or situation of international/internal armed conflict.;;;;Spanish Loc;;;x
 ANY_ALL;Any province;;;;Spanish Loc;;;x
 HAS_NOT_GOODS;produces ;;;;Spanish Loc;;;x
 IS_IN_REGION; is in the region ;;;;Spanish Loc;;;x
 TRIGMOD_HEADER;The $MONARCHTITLE$ reports that;;;;Spanish Loc;;;x
 TRIGMODLOST_HEADER;The $MONARCHTITLE$ reports that;;;;Spanish Loc;;;x
 TRIGGER_CIV_PROGRESS_LESS;Civilization progress: �Y50�W%;;;;Spanish Loc;;;x
-had_liberal_revolution;Liberal Revolution has ended;;;;Spanish Loc;;;x
 attending_berlin_congress;Attending the Congress;;;;Spanish Loc;;;x
-oriental_crisis_support_OE;Supports the Ottomans;;;;Spanish Loc;;;x
-oriental_crisis_support_Egypt;Supports the Egyptians;;;;Spanish Loc;;;x
 MAJORITY_IS_NOT;Majority of the population is not ;;;;Spanish Loc;;;x
-crimean_surrender;the Ottomans have surrendered;;;;Spanish Loc;;;x
-colonial_chaos;Colonial Chaos;;;;Spanish Loc;;;x
-colonial_chaos_desc;Our colony is in chaos, and we are in danger of losing it utterly if order is not restored soon!;;;;Spanish Loc;;;x
-loss_of_control;Loss of Control;;;;Spanish Loc;;;x
-loss_of_control_desc;We have lost control over the colony.;;;;Spanish Loc;;;x
 nationalist_agitation;Nationalist Agitation;;;;Spanish Loc;;;x
 nationalist_agitation_desc;Nationalists are active in the province, stirring up trouble with random acts of violence. If left unchecked, they may rise in rebellion against us.;;;;Spanish Loc;;;x
 patriot_uprising;Patriot Uprising;;;;Spanish Loc;;;x
@@ -24,8 +14,8 @@ patriot_uprising_desc;Foreign patriots have taken control of the province.;;;;Sp
 the_ikhwan;The Ikhwan;;;;Spanish Loc;;;x
 the_ikhwan_desc;An alliance has been made with the Bedouin Wahhabists. Islam shall remain pure in our nation, in exchange for their military support.;;;;Spanish Loc;;;x
 mandate;Mandate of Heaven;;;;Spanish Loc;;;x
-holy_city;The Holy City;;;;Spanish Loc;;;x
-holy_city_desc;Mecca is the center of all Islam. To hold it is to stand above all others, and prove to them that the fate of all Islam lies in our hands.;;;;Spanish Loc;;;x
+holy_city;The Holy City;;;;La Ciudad Santa;;;x
+holy_city_desc;Mecca is the center of all Islam. To hold it is to stand above all others, and prove to them that the fate of all Islam lies in our hands.;;;;La Meca es el centro de todo el Islam. Mantenerla es estar por encima de todos los demás, y demostrarles que el destino de todo el Islam está en nuestras manos.;;;x
 self_strengthening_movement;Self-Strengthening Movement;;;;Spanish Loc;;;x
 drive_to_reunify;Reunification Drive;;;;Spanish Loc;;;x
 drive_to_reunify_desc;We must reunite the country, at any cost!;;;;Spanish Loc;;;x
@@ -47,12 +37,8 @@ shastar_vidya_desc;The renowned Sikh fighting style, it is a martial art involvi
 force_publique;Force Publique;;;;Spanish Loc;;;x
 force_publique_title;Form the Force Publique;;;;Spanish Loc;;;x
 force_publique_desc;The Force Publique was the official armed force of the Belgian-controlled Congo Free State. Though ostensibly formed to combat Arab Slavers, the soldiers were often used to enforce economic quotas with brutal punishment.;;;;Spanish Loc;;;x
-rcmp;R.C.M.P.;;;;Spanish Loc;;;x
-rcmp_desc;The Royal Canadian Mounted Police was formed to patrol the newly-acquired North-West Territories, eventually uniting with the Dominion Police to keep order throughout all Canadian provinces.;;;;Spanish Loc;;;x
-kalmar_union;Kalmar Union;;;;Spanish Loc;;;x
-kalmar_union_desc;We have agreed in principle to a closer bond with the other Scandinavian nations.;;;;Spanish Loc;;;x
-leader_of_kalmar;Leader of the Kalmar Union;;;;Spanish Loc;;;x
-leader_of_kalmar_desc;We are the leader of the movement to unite the Scandinavian people under a single flag.;;;;Spanish Loc;;;x
+rcmp;R.C.M.P.;;;;R.C.M.P.;;;x
+rcmp_desc;The Royal Canadian Mounted Police was formed to patrol the newly-acquired North-West Territories, eventually uniting with the Dominion Police to keep order throughout all Canadian provinces.;;;;La Real Policía Montada de Canadá se formó para patrullar los recién adquiridos Territorios del Noroeste, y finalmente se unió a la Policía del Dominio para mantener el orden en todas las provincias canadienses.;;;x
 customs_union;Customs Union;;;;Spanish Loc;;;x
 customs_union_desc;We are a member of a customs union, designed to reduce the barriers in trade between the member nations.;;;;Spanish Loc;;;x
 spanish_restoration;The Restoration;;;;Spanish Loc;;;x
@@ -67,12 +53,8 @@ carlist_sympathies;Carlist Sympathies;;;;Spanish Loc;;;x
 carlist_sympathies_desc;A Carlist cell is at work in the province, and is quickly gaining sympathy for the rebels that wish to topple the Spanish government.;;;;Spanish Loc;;;x
 christino_sympathies;Christino Sympathies;;;;Spanish Loc;;;x
 christino_sympathies_desc;A Christino cell is at work in the province, and is quickly gaining sympathy for the rebels that wish to topple the Spanish government.;;;;Spanish Loc;;;x
-war_torn;War Torn;;;;Spanish Loc;;;x
-war_torn_desc;This province has been devastated by the rebellion.;;;;Spanish Loc;;;x
 boxer_rebellion;Boxer Rebellion;;;;Spanish Loc;;;x
 boxer_rebellion_desc;The province is currently held by the Boxer rebels, and is in great disarray.;;;;Spanish Loc;;;x
-new_country;Newly-Established Country;;;;Spanish Loc;;;x
-new_country_desc;This country has just been established, and its citizens are willing to work harder to keep it running, for the time being.;;;;Spanish Loc;;;x
 jewish_diaspora;Jewish Diaspora;;;;Spanish Loc;;;x
 jewish_diaspora_desc;The Jewish community is organizing in reaction to the creation of Israel.;;;;Spanish Loc;;;x
 declaration_of_the_rights_of_man;Declaration of the Rights of Man;;;;Spanish Loc;;;x
@@ -115,39 +97,16 @@ anynomous_investor_business;Anonymous Investor Business;;;;Spanish Loc;;;x
 anynomous_investor_business_desc;This style of business culture meant that the owners treated the business as an investment. Ownership was not about producing and selling things. Instead the only reason for being the owner was to see the business ratios rise. This practice was professional, but lacked commitment and was intensely risk-aversive.;;;;Spanish Loc;;;x
 boer_republic;Boer Republic;;;;Spanish Loc;;;x
 boer_republic_desc;We have established a new nation, dominated by the Voortrekkers and carved from the territory of African natives. This is a new opportunity for us to live outside of British rule, now and forever.;;;;Spanish Loc;;;x
-integration_refusal;No Integration;;;;Spanish Loc;;;x
-integration_refusal_desc;The province is not being integrated into the rest of the country, and being allowed to maintain its separate identity.;;;;Spanish Loc;;;x
-core_integration;Core Integration;;;;Spanish Loc;;;x
-core_integration_desc;The province is being integrated into the rest of the country, a slow process that may cause problems here.;;;;Spanish Loc;;;x
-national_assimilation_complete;National Assimilation Complete;;;;Spanish Loc;;;x
-national_assimilation;National Assimilation;;;;Spanish Loc;;;x
-national_assimilation_desc;This province is undergoing assimilation to remove the claims that other countries have upon it.;;;;Spanish Loc;;;x
-national_assimilation_rejection;Assimilation Rejection;;;;Spanish Loc;;;x
-national_assimilation_rejection_desc;The minorities in this province have rejected the policies of national assimilation.;;;;Spanish Loc;;;x
-national_assimilation_acceptance;Assimilation Acceptance;;;;Spanish Loc;;;x
-national_assimilation_acceptance_desc;The minorities in this province have accepted the policies of national assimilation.;;;;Spanish Loc;;;x
-christian_repression;Christian Repression;;;;Spanish Loc;;;x
-christian_repression_desc;Taiping missionaries are being actively repressed in this province.;;;;Spanish Loc;;;x
-anti_manchu_sentiment;Anti-Manchu Sentiment;;;;Spanish Loc;;;x
-anti_manchu_sentiment_desc;There is a great deal of bitterness against the Qing Dynasty's rulers in this province.;;;;Spanish Loc;;;x
+integration_refusal;No Integration;;;;No hay integración;;;x
+integration_refusal_desc;The province is not being integrated into the rest of the country, and being allowed to maintain its separate identity.;;;;La provincia no se integra en el resto del país y se le permite mantener su identidad separada.;;;x
+core_integration;Core Integration;;;;Integración del núcleo;;;x
+core_integration_desc;The province is being integrated into the rest of the country, a slow process that may cause problems here.;;;;La provincia se está integrando en el resto del país, un proceso lento que puede causar problemas aquí.;;;x
 louis_napoleon_iii;Louis-Napoleon Bonaparte;;;;Spanish Loc;;;x
 louis_napoleon_iii_desc;Nephew and heir of Napoleon I, he is a man of the people and carries with him a legacy that makes him seemingly invincible-- even if, at times, his decisions are reckless and of questionable military value.;;;;Spanish Loc;;;x
 begin_disunited_states;Disunited States;;;;Spanish Loc;;;x
 begin_disunited_states_desc;With the transition of the United States away from democracy, the Sons of Liberty have arisen in an effort fight what they call tyranny. It will take time for this resistance to calm, and until it does there shall be much talk of secession and even open revolt.;;;;Spanish Loc;;;x
-election_cooldown;Ongoing Elections;;;;Spanish Loc;;;x
-desc_election_cooldown;Our voters are currently debating and discussing all important issues.;;;;Spanish Loc;;;x
-violent_elections;Violent Elections;;;;Spanish Loc;;;x
-desc_violent_elections;The current elections turned out have a quite violent undertone in the ongoing campaigns.;;;;Spanish Loc;;;x
 social_reform_movement;Social Reform Movement;;;;Spanish Loc;;;x
 desc_social_reform_movement;Socialists and communists have initiated a countrywide agenda for better living conditions.;;;;Spanish Loc;;;x
-wartime_elections;War-time Elections;;;;Spanish Loc;;;x
-wartime_elections_desc;The elections are taking place in a time of war, an event which has taken center stage in the debates.;;;;Spanish Loc;;;x
-loss_of_support;Loss of Support;;;;Spanish Loc;;;x
-loss_of_support_desc;The ruling party has lost support in this area.;;;;Spanish Loc;;;x
-support_the_government;Government Support;;;;Spanish Loc;;;x
-support_the_government_desc;The ruling party has extra support in this area.;;;;Spanish Loc;;;x
-nothing_stops_progress;Nothing Stops Progress;;;;Spanish Loc;;;x
-nothing_stops_progress_desc;We are arresting the reactionary agitators and proceeding with reforms as planned.;;;;Spanish Loc;;;x
 slow_down_progress;Reform Restrictions;;;;Spanish Loc;;;x
 slow_down_progress_desc;Perhaps it is best if we apply brakes to the rate of reforms. We must allow our people to catch up!;;;;Spanish Loc;;;x
 ruling_party_scandal;National Scandal;;;;Spanish Loc;;;x
@@ -160,8 +119,6 @@ no_line_of_advantage;Path of Progress;;;;Spanish Loc;;;x
 no_line_of_advantage_desc;Instead of focusing on military might and conquest, Japanese security must be provided by devotion to technological progress and reform. We must match the Western powers, and quickly, or they will surely take advantage and find Japan sorely unprepared.;;;;Spanish Loc;;;x
 border_incident;Recent Border Incident;;;;Spanish Loc;;;x
 border_incident_desc;We have recently had a border incident, stirring up trouble with a Great Power.;;;;Spanish Loc;;;x
-the_british_raj;The Indian Raj;;;;Spanish Loc;;;x
-the_british_raj_desc;Greatest of the jewels in our nation's crown is the Indian Raj.;;;;Spanish Loc;;;x
 dutch_east_india;East India Company;;;;Spanish Loc;;;x
 dutch_east_india_desc;Greatest of the jewels in our nation's crown is the East Indies colony.;;;;Spanish Loc;;;x
 vassal_nation;Vassal Nation;;;;Spanish Loc;;;x
@@ -193,28 +150,16 @@ chinese_substate;Qing Oppression;;;;Spanish Loc;;;x
 chinese_substate_desc;The oppression by the Qing Emperor has left our nation in disarray.;;;;Spanish Loc;;;x
 treaties_of_velasco;Treaties of Velasco;;;;Spanish Loc;;;x
 treaties_of_velasco_desc;The treaties may be worth less than the paper they're printed on, but they supposedly offer us a guarantee of independence from Mexico. We shall see if they last.;;;;Spanish Loc;;;x
-recent_crisis;Recent Crisis;;;;Spanish Loc;;;x
-recent_crisis_desc;We have been the instigators in a recent crisis. Until memories fade, the world will likely tend to overlook any further demands we make for our territories.;;;;Spanish Loc;;;x
 switched_production;Switched Production;;;;Spanish Loc;;;x
 switched_production_desc;The province has just switched its major production, and locals are still acclimatizing to the change.;;;;Spanish Loc;;;x
 new_production;New Plantation;;;;Spanish Loc;;;x
 new_production_desc;A new plantation has been started in this province, moving production over to cash crops rather than than the traditional farming which has been done here by the natives.;;;;Spanish Loc;;;x
-emergency_tax_measures1;Emergency Measures;;;;Spanish Loc;;;x
-emergency_tax_measures1_desc;Our financial situation has forced us to adopt draconian, and very unpopular, tax measures.;;;;Spanish Loc;;;x
-emergency_tax_measures2;Extreme Measures;;;;Spanish Loc;;;x
-emergency_tax_measures2_desc;Our financial situation has forced us to adopt draconian, and very unpopular, tax measures.;;;;Spanish Loc;;;x
 boxer_presence;Boxer Presence;;;;Spanish Loc;;;x
 boxer_presence_desc;The Righteous Harmony Society is present in this province, disrupting regular trade as they act against foreign influence.;;;;Spanish Loc;;;x
 boxer_agitation;Boxer Agitation;;;;Spanish Loc;;;x
 boxer_agitation_desc;Our efforts to suppress the Boxers in this province has angered them, turning these nationalists against our government.;;;;Spanish Loc;;;x
-international_pariah;International Pariah;;;;Spanish Loc;;;x
-international_pariah_desc;We are a pariah in the international community for our aggressive policies.;;;;Spanish Loc;;;x
-great_war;Total War;;;;Spanish Loc;;;x
-great_war_desc;We are in a state of total war with our enemies. We must rise up as one, or risk the destruction of our entire way of life.;;;;Spanish Loc;;;x
-great_war2;The Demands of War;;;;Spanish Loc;;;x
-great_war2_desc;Massive shortages are causing our people's enthusiasm for war to dim.;;;;Spanish Loc;;;x
-great_war3;Is It All For Nothing?;;;;Spanish Loc;;;x
-great_war3_desc;If we do not end the war soon, things will go very badly for us.;;;;Spanish Loc;;;x
+international_pariah;International Pariah;;;;Paria Internacional;;;x
+international_pariah_desc;We are a pariah in the international community for our aggressive policies.;;;;Somos un paria en la comunidad internacional por nuestras políticas agresivas.;;;x
 gateway_to_harbor;Gateway to a New Land;;;;Spanish Loc;;;x
 gateway_to_harbor_desc;Many immigrants from around the world will pass through our great harbor, and a great number of them will remain in the city.;;;;Spanish Loc;;;x
 recent_crisis;Recent Crisis;;x,,;;;;;;;

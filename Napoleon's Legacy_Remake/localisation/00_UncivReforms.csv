@@ -29,18 +29,6 @@ naval_schools_two;Naval academies;;;;Spanish Loc;;;x
 naval_schools_two_desc;Our captains are instructed in advanced naval tactics before leading men into battle;;;;Spanish Loc;;;x
 foreign_navies_two;Advanced warships;;;;Spanish Loc;;;x
 foreign_navies_two_desc;We can construct our own modern warships;;;;Spanish Loc;;;x
-desperate_nation;Desperate Nation;;;;Spanish Loc;;;x
-microscopic_nation;Microscopic Nation;;;;Spanish Loc;;;x
-tiny_nation;Tiny Nation;;;;Spanish Loc;;;x
-small_nation;Small Nation;;;;Spanish Loc;;;x
-medium_nation;Medium Nation;;;;Spanish Loc;;;x
-average_nation;Average Nation;;;;Spanish Loc;;;x
-large_nation;Large Nation;;;;Spanish Loc;;;x
-empire;Empire;;;;Spanish Loc;;;x
-medium_empire;Medium Empire;;;;Spanish Loc;;;x
-large_empire; Large Empire;;;;Spanish Loc;;;x
-insane_empire; Insane Empire;;;;Spanish Loc;;;x
-insane_empire2; Insane Empire;;;;Spanish Loc;;;x
 ai_boost;AI Boost;;;;Spanish Loc;;;x
 gorkha_kingdom;Gorkha Kingdom;;;;Spanish Loc;;;x
 fairer_taxation;Taxation Relief;;;;Spanish Loc;;;x
@@ -417,31 +405,12 @@ demand_colonial_concession_casus_belli;Demand African concession;;;;Spanish Loc;
 demand_colonial_concession_casus_belli_desc;Demand a colonial concession from African nation that could not be attacked early;;;;Spanish Loc;;;x
 demand_colonial_concession_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;Spanish Loc;;;x
 demand_colonial_concession_casus_belli_short;Demand $STATE$;;;;Spanish Loc;;;x
-initialize_africa_title;Initalize Africa;;;;Spanish Loc;;;x
-initialize_africa_desc;Enacting this decision prevents the conquest of Sokoto, Benin, and Oyo before 1865;;;;Spanish Loc;;;x
-colonial_40;Offlimits until 1840;;;;Spanish Loc;;;x
-colonial_50;Offlimits until 1850;;;;Spanish Loc;;;x
-colonial_55;Offlimits until 1855;;;;Spanish Loc;;;x
-colonial_60;Offlimits until 1860;;;;Spanish Loc;;;x
-colonial_65;Offlimits until 1865;;;;Spanish Loc;;;x
-colonial_70;Offlimits until 1870;;;;Spanish Loc;;;x
-colonial_75;Offlimits until 1875;;;;Spanish Loc;;;x
 negotiated_transfer;Negotiated Transfer;;;;Spanish Loc;;;x
 negotiated_transfer_desc;Transfer a state or colonial region to another country with no effect on infamy, prestige, or jingoism;;;;Spanish Loc;;;x
 negotiated_transfer_short;Transfer $STATE$ from $RECIPIENT$ to us;;;;Spanish Loc;;;x
 negotiated_transfer_setup;Transfer $STATE$ from $RECIPIENT$ to our country;;;;Spanish Loc;;;x
 NORMAL_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $FIRST_COUNTRY$;;;;Spanish Loc;;;x
 AGRESSION_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $FIRST_COUNTRY$;;;;Spanish Loc;;;x
-demand_for_allies;Demand for Ally;;;;Spanish Loc;;;x
-demand_for_allies_desc;Demand that an enemy nation cede a state to another �Ycountry�W in the game;;;;Spanish Loc;;;x
-demand_for_allies_short;$THIRD$ acquires $STATE$;;;;Spanish Loc;;;x
-demand_for_allies_setup;Demand the cession of $STATE$ from $RECIPIENT$ for $THIRD$;;;;Spanish Loc;;;x
-NORMAL_WAR_FORALLIES_NAME;$ORDER$$FIRST$ Conquest of $STATE$ for $COUNTRY$;;;;Spanish Loc;;;x
-AGRESSION_WAR_FORALLIES_NAME;$ORDER$$FIRST$ Conquest of $STATE$ for $COUNTRY$;;;;Spanish Loc;;;x
-demand_colony_for_allies;Demand Colony for Ally;;;;Spanish Loc;;;x
-demand_colony_for_allies_desc;Demand that an enemy nation cede a colonial region to another �Ycountry�W in the game;;;;Spanish Loc;;;x
-demand_colony_for_allies_short;$THIRD$ acquires $STATE$;;;;Spanish Loc;;;x
-demand_colony_for_allies_setup;Demand the cession of $STATE$ from $RECIPIENT$ for $THIRD$;;;;Spanish Loc;;;x
 cover_the_senne_title;Cover the Senne River;;;;Spanish Loc;;;x
 cover_the_senne_desc;The Senne River flows through the centre of Brussels. By 1860 the accumulation of waste in the river came to pose a significant health risk to the population. Residents preferred to move out of the city and live in the suburbs, thus depriving the city of tax revenues. In 1865 the architect Leon-Pierre Suys presented a plan to divert the Senne through specially constructed tunnels under the centre of the city. The exposed riverbed would be covered over and a series of 4 grand boulevards were to be laid out. Construction started in 1867 and was completed in 1871. While the new buildings failed to attract suburban residents back to the city, public health was measurably improved and transport congestion eased.;;;;Spanish Loc;;;x
 boulevards_of_brussels;The Boulevards of Brussels;;;;Spanish Loc;;;x
@@ -574,10 +543,6 @@ move_capital_to_canberra_title;Move Capital to Canberra;;;;Spanish Loc;;;x
 move_capital_to_canberra_desc;Melbourne and Sydney compete fiercely to be recognized as the permanent capital of Australia. It is proposed to resolve this conflicy by constructing a new capital city at a point between the two, to be known as Canberra. Shall we proceed with this plan?;;;;Spanish Loc;;;x
 declare_neutrality_generic_title;Declare Neutrality;;;;Spanish Loc;;;x
 declare_neutrality_generic_desc;We have little interest in the wars of the world. By enacting this decision, we will no longer be able to use the following CBs: Conquest, Minor Conquest, Acquire State, Place in the Sun, Take Capital, Acquire Treaty Port, Demand Concession, Establish Protectorate and Install Communist Government. Other nations will no longer be able to use the following CBs against us: Conquest, Minor Conquest, Acquire State, Place in the Sun, Free Peoples, Liberate Country, Take Capital, and Install Communist Government;;;;Spanish Loc;;;x
-generic_neutrality;Political Neutrality;;;;Spanish Loc;;;x
-generic_neutrality_desc;Our country deliberately takes no sides. We do not go to war, even against those the world universally reviles, and thus expect that no one shall go to war against us. This means we will likely never achieve recognition as a 'mover and shaker', but it also protects us. We shall not abandon our principles for the sake of power and influence.;;;;Spanish Loc;;;x
-abandon_neutrality_generic_title;Abandon Neutrality;;;;Spanish Loc;;;x
-abandon_neutrality_generic_desc;The might of our army is such that we can repel our neighbors without difficulty. Our policy of neutrality is no longer necessary.;;;;Spanish Loc;;;x
 latin_monetary_union_FRA_title;Join Latin Monetary Union;;;;Spanish Loc;;;x
 latin_monetary_union_FRA_desc;In 1865, the Latin Monetary Union was formed by France, Belgium, Switzerland and Italy. Greece joined in 1868. The Union standardized the size, weight, denomination, and silver and gold content of the coins of member countries and it also favoured free trade. From then on, the currency of a member country was also valid in another member country.;;;;Spanish Loc;;;x
 latin_monetary_union_BEL_title;Join Latin Monetary Union;;;;Spanish Loc;;;x
@@ -590,18 +555,14 @@ latin_monetary_union_GRE_title;Join Latin Monetary Union;;;;Spanish Loc;;;x
 latin_monetary_union_GRE_desc;In 1865, the Latin Monetary Union was formed by France, Belgium, Switzerland and Italy. Greece joined in 1868. The Union standardized the size, weight, denomination, and silver and gold content of the coins of member countries and it also favoured free trade. From then on, the currency of a member country was also valid in another member country.;;;;Spanish Loc;;;x
 latin_monetary_union;Latin Monetary Union;;;;Spanish Loc;;;x
 desc_latin_monetary_union;Our country is a member of the Latin Monetary Union. We have standardized the weights and measures of our currencies as well as the precious metals content.;;;;Spanish Loc;;;x
-die_groot_trek_ora_title;Die Groot Trek;;;;Spanish Loc;;;x
-die_groot_trek_ora_desc;The Great Trek was an exodus of South African farmers of primarily Dutch descent - Boers - from the British controlled Cape Colony to lands beyond the Orange and Vaal rivers, and to the 'Boer republics' established by their kinsmen in the South African hinterland.;;;;Spanish Loc;;;x
-die_groot_trek_trn_title;Die Groot Trek;;;;Spanish Loc;;;x
-die_groot_trek_trn_desc;The Great Trek was an exodus of South African farmers of primarily Dutch descent - Boers - from the British controlled Cape Colony to lands beyond the Orange and Vaal rivers, and to the 'Boer republics' established by their kinsmen in the South African hinterland.;;;;Spanish Loc;;;x
 sign_the_geneva_convention_title;Sign the Geneva Convention;;;;Spanish Loc;;;x
 sign_the_geneva_convention_desc;Our country has not yet signed the Geneva convention, delimiting and defining justified conduct of war and the treatment of war wounded. We can still sign it, of course. Signing it will make our POPs less likely to support Jingoism as an issue;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x;
-#Localisations for POD Historical Decisions;;;;Spanish Loc;;;x;
-#Ordered by Continent Europe-Asia-Africa-Americas;;;;Spanish Loc;;;x;
-#Sub-ordered alphabetically by nation;;;;Spanish Loc;;;x;
-#############################################;;;;Spanish Loc;;;x;
-##### Austria #####;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
+#Localisations for POD Historical Decisions;;;;;;;x;
+#Ordered by Continent Europe-Asia-Africa-Americas;;;;;;;x;
+#Sub-ordered alphabetically by nation;;;;;;;x;
+#############################################;;;;;;;x;
+##### Austria #####;;;;;;;x;
 slovene_language_at_celje_gymnasium_title;Allow Slovene Language at Celje Gymnasium;;;;Spanish Loc;;;x
 slovene_language_at_celje_gymnasium_desc;Beginning in 1888 Slovene deputies in the Reichsrat raised demands for the introduction of Slovene classes at the Gymnasium in Celje, a town in Lower Styria historically German but demographicaly with a Slovene majority. German deputies ralied against the proposal and a fierce debate began in Austria regarding language use in historically German towns experiencing growing settlement of Slavs.;;;;Spanish Loc;;;x
 the_final_abolishment_of_serfdom_title;Complete the Final Abolishment of Serfdom;;;;Spanish Loc;;;x
@@ -610,25 +571,17 @@ embrace_slovene_minority_title;Embrace the Slovene Minority;;;;Spanish Loc;;;x
 embrace_slovene_minority_desc;We shall embrace our Slovene citizens, and elevate them to the status shared by that of the Hungarians.;;;;Spanish Loc;;;x
 embrace_croat_minority_title;Embrace the Croat Minority;;;;Spanish Loc;;;x
 embrace_croat_minority_desc;We shall embrace our Croat citizens, and elevate them to the status shared by that of the Hungarians.;;;;Spanish Loc;;;x
-##### Belgium #####;;;;Spanish Loc;;;x;
-colonial_destiny_title;Embrace Colonial Destiny;;;;Spanish Loc;;;x
-colonial_destiny_desc;It is the destiny of the Belgian people to civilize the last remaining wilds of the world. To Africa!;;;;Spanish Loc;;;x
-force_publique;Force Publique;;;;Spanish Loc;;;x
-force_publique_title;Form the Force Publique;;;;Spanish Loc;;;x
-force_publique_desc;The Force Publique was the official armed force of the Belgian-controlled Congo Free State. Though ostensibly formed to combat Arab Slavers, the soldiers were often used to enforce economic quotas with brutal punishment.;;;;Spanish Loc;;;x
-##### France #####;;;;Spanish Loc;;;x;
+##### France #####;;;;;;;x;
 annex_new_caledonia_title;Annex New Caledonia;;;;Spanish Loc;;;x
 annex_new_caledonia_desc;There is some interest within the French government of creating a penal colony-- somewhere that enemies of the monarchy could be sent, allowing them to be far away from the continent where they can do no harm. Admiral Febvrier Despointes reports that the island of New Caledonia, off the coast of Australia, might do just the trick. Considering the British have used Australia for the same purpose, who could object to us doing similarly?;;;;Spanish Loc;;;x
-claim_savoy_title;Claim Savoy;;;;Spanish Loc;;;x
-claim_savoy_desc;Our condition for allowing the unification of Italy was control over Savoie. We cannot, after all, permit the Italians to have control over the passes through the Alps-- not unless they are under our influence. Seeing as that is not the case, me must press our claims to Nice and Savoie even if it means war with a united Italy.;;;;Spanish Loc;;;x
 form_french_indochina_title;French Indochina;;;;Spanish Loc;;;x
 form_french_indochina_desc;With the colonial government taking form in Saigon, French administrators have advised elevating the region to a full department-- clearly with eyes on expanding French colonial rule to neighbors in Southeast Asia.;;;;Spanish Loc;;;x
-##### Germany #####;;;;Spanish Loc;;;x;
+##### Germany #####;;;;;;;x;
 appoint_von_bismarck_title;Appoint Otto von Bismarck;;;;Spanish Loc;;;x
 appoint_von_bismarck_desc;Our naton needs a great statesman as its Chancellor, and we have just the man. Otto von Bismarck is currently the country's First Minister, but appointed as the leader of our nation he could see it transformed on the world stage.;;;;Spanish Loc;;;x
 otto_von_bismarck;Otto von Bismarck;;;;Spanish Loc;;;x
 otto_von_bismarck_desc;The current Chancellor of our nation, von Bismarck is a remarkable statesman, perhaps one of the finest our nation will ever know.;;;;Spanish Loc;;;x
-##### Ottoman Empire #####;;;;Spanish Loc;;;x;
+##### Ottoman Empire #####;;;;;;;x;
 tanzimat_era;Tanzimat Reforms;;;;Spanish Loc;;;x
 tanzimat_era_desc;The Tanzimat era was a period of reform in the Ottoman Empire, characterized by an increasing drive towards westernization and multiculturalism. This was supported by the Young Ottomans, an intellectual class who saw reform as the only way to prevent the ultimate breakup of a decaying power.;;;;Spanish Loc;;;x
 move_capital_to_ankara_title;Move Capital to Ankara;;;;Spanish Loc;;;x
@@ -637,30 +590,22 @@ the_holy_city_title;The Holy City;;;;Spanish Loc;;;x
 the_holy_city_desc;Mecca is the center of all Islam. To hold it is to stand above all others, and prove to them that the fate of all Islam lies in our hands.;;;;Spanish Loc;;;x
 holy_city;The Holy City;;;;Spanish Loc;;;x
 holy_city_desc;Mecca is the center of all Islam. To hold it is to stand above all others, and prove to them that the fate of all Islam lies in our hands.;;;;Spanish Loc;;;x
-##### Portugal #####;;;;Spanish Loc;;;x;
-flores_sale_title;Sell Flores;;;;Spanish Loc;;;x
-flores_sale_desc;The Indonesian islands are almost worthless to us, but might be of value to the neighbouring colonial administration in Timor. We should consider selling them for a tidy profit.;;;;Spanish Loc;;;x
-portuguese_civil_code_title;Enact Portuguese Civil Code;;;;Spanish Loc;;;x
-portuguese_civil_code_desc;The Portuguese Civil Code was unique for European civil codes, in its characterization of laws in terms of the person and property;;;;x,;;;;Spanish Loc;;;x
-##### Russia #####;;;;Spanish Loc;;;x;
+##### Russia #####;;;;;;;x;
 found_the_imperial_academy_title;Found the Imperial Academy;;;;Spanish Loc;;;x
 found_the_imperial_academy_desc;In many ways, our army has become a relic of an older age. The Russian Imperial Academy will enable our military to stay strong and the equal of any power in Europe.;;;;Spanish Loc;;;x
 russian_sakhalin_title;Restore Russian Sakhalin;;;;Spanish Loc;;;x
 russian_sakhalin_desc;With the hated Japanese finally driven out of Sakhalin and Russia in full control of the islands, Russian administration and names can at last be restored.;;;;Spanish Loc;;;x
-##### Sardinia #####;;;;Spanish Loc;;;x;
-recognize_argentinas_independence_title;Recognize Argentina's Independence;;;;Spanish Loc;;;x
-recognize_argentinas_independence_desc;Our court is analyzing the decision of visiting Argentina. This act will strenghten our relations with the South American countries and could open new areas of trade for us. Of course, Spain will not see this as a 'good' decision.;;;;Spanish Loc;;;x
-##### Serbia/Balkans #####;;;;Spanish Loc;;;x;
+##### Serbia/Balkans #####;;;;;;;x;
 establish_panslavism_title;Establish Pan-Slavism;;;;Spanish Loc;;;x
 establish_panslavism_desc;The Orthodox Christians of the Balkans have lived under the boot of Muslim oppression for too long. The time has come to call on them to rise up against their oppressors. All Yugoslavia must unite!;;;;Spanish Loc;;;x
 form_yugoslavia_title;Form Yugoslavia;;;;Spanish Loc;;;x
 form_yugoslavia_desc;The Slavic peoples of the Balkans must be united under a single banner: ours. It is the only way to keep us free of rule from European powers.;;;;Spanish Loc;;;x
-##### Spain #####;;;;Spanish Loc;;;x;
+##### Spain #####;;;;;;;x;
 education_decree_1863_title;Issue Filipino Education Decree;;;;Spanish Loc;;;x
 education_decree_1863_desc;Through the Education Decree of 1863, Queen Isabella II decreed the establishment of a free public shool system in the Phillipines that used Spanish as the language of instruction, leading to an increasing number of educated Filipinos. This would be the first in a number of colonial initiatives that rendered the Phillipines as one of the few places in the world where it was said to have visibly improved and prospered under colonial rule.;;;;Spanish Loc;;;x
 moret_law_title;Pass the Moret Law;;;;Spanish Loc;;;x
 moret_law_desc;The Moret Law granted freedom to slaves in Puerto Rico born after 1868, slaves who served in the Spanish Army, slaves over 60 years old, and slaves who were owned by the Spanish government. It was the first in a series of reforms that saw slavery ended in Peurto Rico, well before it was ended in other Spanish colonies.;;;;Spanish Loc;;;x
-##### Switzerland #####;;;;Spanish Loc;;;x;
+##### Switzerland #####;;;;;;;x;
 declare_neutrality_title;Declare Swiss Neutrality;;;;Spanish Loc;;;x
 declare_neutrality_desc;The Swiss have little interest in the wars of Europe.;;;;Spanish Loc;;;x
 abandon_neutrality_title;Abandon Swiss Neutrality;;;;Spanish Loc;;;x
@@ -669,20 +614,17 @@ neutrality;Political Neutrality;;;;Spanish Loc;;;x
 neutrality_desc;Our country deliberately takes no sides. We do not go to war, even against those the world universally reviles, and thus expect that no one shall go to war against us. This means we will likely never achieve recognition as a 'mover and shaker', but it also protects us. We shall not abandon our principles for the sake of power and influence.;;;;Spanish Loc;;;x
 violate_neutrality_title;Violate Swiss Neutrality;;;;Spanish Loc;;;x
 violate_neutrality_desc;The Swiss may have declared themselves 'neutral', but if they believe that will stop us-- if they believe the opinion of any of their allies will stop us-- then they are sorely mistaken.;;;;Spanish Loc;;;x
-##### Two Sicilies #####;;;;Spanish Loc;;;x;
-the_vesuvius_observatory_title;Build The Vesuvius Observatory;;;;Spanish Loc;;;x
-the_vesuvius_observatory_desc;An observatory was founded by Ferdinand II Bourbon for the study of the volcanic activity of Mt. Vesuvius. As director of the Vesuvius Observatory, Luigi Palmieri first adapted the seismograph to as a means to record and forecast volcanic eruptions.;;;;Spanish Loc;;;x
-##### United Kingdom #####;;;;Spanish Loc;;;x;
+##### United Kingdom #####;;;;;;;x;
 mediate_belgian_independence_title;Mediate Belgian Independence;;;;Spanish Loc;;;x
 mediate_belgian_independence_desc;While Belgium's de facto independence from The Netherlands had been established by force of arms during the Belgian revolution of 1831, it has not been confirmed de jure by The Netherlands and technically a state of war still exists between the two nations. The idea has arisen that the British Empire should step in and mediate a settlement, demanding the Dutch give up their claims in return for guarantees of Belgian independence and control over Luxembourg. With the powers of Europe at the table, it seems unlikely the Dutch would refuse.;;;;Spanish Loc;;;x
 aden_protectorate_title;The Aden Protectorate;;;;Spanish Loc;;;x
 aden_protectorate_desc;With enough influence among the sheiks of southern Yemen, a treaty could be signed that would force them to acknowledge us as their sovereign. We cede them Aden, and in return they would agree enter into no relationships with other nations without our express permission. Our continued influence over the Arabian peninsula would be secured.;;;;Spanish Loc;;;x
 gold_coast_treaty_title;Gold Coast Treaty;;;;Spanish Loc;;;x
 gold_coast_treaty_desc;With the construction of the Suez Canal, the importance of Sekondi to the Dutch has dwindled. We might be able to convince them to sell the colony to us, solidifying our hold on the Gold Coast, in exchange for reducing our influence in the East Indies.;;;;Spanish Loc;;;x
-##### India #####;;;;Spanish Loc;;;x;
+##### India #####;;;;;;;x;
 move_capital_to_delhi_title;Move Capital to Delhi;;;;Spanish Loc;;;x
 move_capital_to_delhi_desc;Now that India has unified, we should consider moving the capital to a more central-- and traditional-- city. Delhi: the heart of India.;;;;Spanish Loc;;;x
-##### Japan #####;;;;Spanish Loc;;;x;
+##### Japan #####;;;;;;;x;
 fukoku_kyohei_title;Adopt Fukoku Kyohei;;;;Spanish Loc;;;x
 fukoku_kyohei_desc;Meaning 'Enrich the country, strengthen the military', this must become the objective of a unified Japan if we are to catch up with the technological advantage held by the West. We must face these barbarians at their own game, and be better at it.;;;;Spanish Loc;;;x
 iwakura_mission_title;Send Iwakura Mission;;;;Spanish Loc;;;x
@@ -695,24 +637,24 @@ bonin_administration_title;Organise Japanese Bonin;;;;Spanish Loc;;;x
 bonin_administration_desc;Japan now controls the archipelago, and our modern administration will get rid of Gaijin names and change them accordingly.;;;;Spanish Loc;;;x
 japanese_sakhalin_title;Organise Japanese Sakhalin;;;;Spanish Loc;;;x
 japanese_sakhalin_desc;With Japan now in full control of Sakhalin and the Kurils, the world must recognize that these islands are essentially part of the Japanese archipelago and know them by their Japanese names.;;;;Spanish Loc;;;x
-##### Persia #####;;;;Spanish Loc;;;x;
+##### Persia #####;;;;;;;x;
 reclaim_herat_title;Reclaim Herat;;;;Spanish Loc;;;x
 reclaim_herat_desc;Persia had lost control of Herat, and of Afghanistan in general to the Durranis in the later eighteenth century. In 1837, the new Shah Mohammad Qajar considered launching an expedition to reclaim Herat;;;;Spanish Loc;;;x
-##### Panjab #####;;;;Spanish Loc;;;x;
+##### Panjab #####;;;;;;;x;
 rangit_singh_title;Rule of the Maharajah;;;;Spanish Loc;;;x
 rangit_singh_desc;The Maharajah Ranjit Singh has united the Panjabi misls under a single flag. He has formed a secular and tolerant state, one that has thrown off the Afghan yoke and resisted the encroaching imperialists. The future of the Sikh Empire is bright!;;;;Spanish Loc;;;x
 shastar_vidya;Shastar Vidiya;;;;Spanish Loc;;;x
 shastar_vidya_desc;From the Sanskrit 'sastravidya' or 'knowledge of the sword', this was the Sikh martial art that used swordplay from horseback, and made the Sikh mounted forces a terror feared even by the more modern armies of the United Kingdom.;;;;Spanish Loc;;;x
-##### Algeria #####;;;;Spanish Loc;;;x;
+##### Algeria #####;;;;;;;x;
 move_capital_to_algiers_title;Move Capital to Algiers;;;;Spanish Loc;;;x
 move_capital_to_algiers_desc;Algiers now belongs to us. It is time to move our government back to its proper place!;;;;Spanish Loc;;;x
-##### Ethiopia #####;;;;Spanish Loc;;;x;
+##### Ethiopia #####;;;;;;;x;
 build_addis_ababa_title;Build Addis Ababa;;;;Spanish Loc;;;x
 build_addis_ababa_desc;Founded in 1886 by Emperor Menelik II, Addis Ababa would become the capital of Ethiopia and the site of the Imperial Palace.;;;;Spanish Loc;;;x
-##### Sokoto #####;;;;Spanish Loc;;;x;
+##### Sokoto #####;;;;;;;x;
 become_hausaland_title;Become Hausaland;;;;Spanish Loc;;;x
 become_hausaland_desc;The Hausa have come to increasingly dominate the Caliphate and its court, and it is time Sokoto reflected that fact.;;;;Spanish Loc;;;x
-##### Canada #####;;;;Spanish Loc;;;x;
+##### Canada #####;;;;;;;x;
 form_the_rcmp_title;Form the R.C.M.P.;;;;Spanish Loc;;;x
 form_the_rcmp_desc;With the acquisition of Rupert's Land and the North-West Territories it has become increasingly obvious that a new force is required to patrol those lands and keep order.;;;;Spanish Loc;;;x
 rcmp;R.C.M.P.;;;;Spanish Loc;;;x
@@ -721,13 +663,13 @@ build_the_cnr_title;Build the Canadian National Railway;;;;Spanish Loc;;;x
 build_the_cnr_desc;One railway, linking the Pacific and Atlantic coasts, is a dream that will ensure the unity of Canada-- though it is an expensive dream, to be sure.;;;;Spanish Loc;;;x
 join_confederation_title;Join Confederation;;;;Spanish Loc;;;x
 join_confederation_desc;Our position on the North American continent, and our traditional cultural ties to Canada, make it likely that Canada would be willing to negotiate our entrance into confederation. Doing this means our country will be annexed by Canada.;;;;Spanish Loc;;;x
-##### USA #####;;;;Spanish Loc;;;x;
+##### USA #####;;;;;;;x;
 treaty_of_guadalupe_hidalgo_title;Treaty of Guadalupe Hidalgo;;;;Spanish Loc;;;x
 treaty_of_guadalupe_hidalgo_desc;Should we get a convincing enough victory over the Mexicans, we will be able to force them to the negotiating table in order to discuss their surrendering of all claims to land north of the Rio Grande-- in exchange for a fair price, of course.;;;;Spanish Loc;;;x
-##### Mexico #####;;;;Spanish Loc;;;x;
+##### Mexico #####;;;;;;;x;
 refute_manifest_destiny_title;Refute Manifest Destiny;;;;Spanish Loc;;;x
 refute_manifest_destiny_desc;The American claims to our frontier have proven to be little more than empty air and bluster. Those lands belong to Mexico, and no other.;;;;Spanish Loc;;;x
-##### Argentina #####;;;;Spanish Loc;;;x;
+##### Argentina #####;;;;;;;x;
 banda_oriental_title;Restore Banda Oriental;;;;Spanish Loc;;;x
 banda_oriental_desc;The Banda Oriental del Uruguay was argentinean once, and shall be argentinean again!;;;;Spanish Loc;;;x
 banda_oriental_is_ours;The Banda Oriental is ours;;;;Spanish Loc;;;x
@@ -741,25 +683,25 @@ a_telegraph_line_to_uruguay_title;Lay A Telegraph Line to Uruguay;;;;Spanish Loc
 a_telegraph_line_to_uruguay_desc;The laying of a telegraph line to connect Buenos Aires with Montevideo has been proposed. This would greatly improve communications and relations between the two countries.;;;;Spanish Loc;;;x
 found_the_school_of_military_aviation_title;Found the School of Military Aviation;;;;Spanish Loc;;;x
 found_the_school_of_military_aviation_desc;The School of Military Aviation (Escuela de Aviacion Militar, EAM) was founded in 1912 under president Roque Saenz Pena, who named colonel Arenales Antonio Uriburu as its first head. This represents a desire to learn and put into practice the newest theories on modern air warfare.;;;;Spanish Loc;;;x
-##### Brazil #####;;;;Spanish Loc;;;x;
+##### Brazil #####;;;;;;;x;
 the_golden_law_title;Enact Lei Aurea;;;;Spanish Loc;;;x
 the_golden_law_desc;Lei Aurea, or the Golden Law, abolished slavery once and for all throughout Brazil. The law contained only two artices;;;;x;;;;;;;
 provincia_cisplatina_title;Reclaim Provincia Cisplatina;;;;Spanish Loc;;;x
 provincia_cisplatina_desc;The Provincia Cisplatina was brazilian once, and shall be brazilian again!;;;;Spanish Loc;;;x
 cisplatina_is_ours;The Cisplatina is ours;;;;Spanish Loc;;;x
-##### Chile #####;;;;Spanish Loc;;;x;
+##### Chile #####;;;;;;;x;
 annex_easter_island_title;Annex Easter Island;;;;Spanish Loc;;;x
 annex_easter_island_desc;The native population of Easter Island has suffered many devastations in recent years, from attacks by Peruvian pirates to a tuberculosis epidemic. A colonist has operated a sheep ranch there for some years, and recently offered to sell to our government. Considering his ranch covers a large portion of the island, we would be well within our rights to claim sovereignty over it.;;;;Spanish Loc;;;x
 valparaiso_harbor_title;The Jewel of the Pacific;;;;Spanish Loc;;;x
 valparaiso_harbor_desc;Valparaiso has became a required stopover for ships crossing between the Atlantic and Pacific oceans. In its role as a major seaport, Valparaiso receives immigrants from many European countries, but this could change if a new route was to open.;;;;Spanish Loc;;;x
 gateway_to_harbor;Gateway to a New Land;;;;Spanish Loc;;;x
 gateway_to_harbor_desc;Many immigrants from around the world will pass through our great city, and a great number of them will remain.;;;;Spanish Loc;;;x
-##### Ecuador #####;;;;Spanish Loc;;;x;
+##### Ecuador #####;;;;;;;x;
 establish_the_observatorio_astronomico_title;Establish the Observatorio Astronomico;;;;Spanish Loc;;;x
 establish_the_observatorio_astronomico_desc;Quito's location high in the Andes and straddling the Equator has long encouraged scientists to visit the city to study the stars. With the support of the Jesuits and support from British, French, American and German scientific groups, it has been proposed that the Ecuadorian government help fund the construction of a new observatory based on the use of the latest scientific methods and tools. Should we support the project?;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
 #Localisations for POD Archaeological Excavation Decisions;;;;Spanish Loc;;;x;
-#############################################;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
 mycenaean_excavations;Mycenaean Excavations;;;;Spanish Loc;;;x
 mycenaean_excavations_title;Mycenaean Excavations;;;;Spanish Loc;;;x
 mycenaean_excavations_desc;The secrets of Ancient Greece await!;;;;Spanish Loc;;;x
@@ -770,28 +712,28 @@ minoan_excavations_title;Minoan Excavations;;;;Spanish Loc;;;x
 minoan_excavations_desc;The secrets of the ancient Minoan civilization await!;;;;Spanish Loc;;;x
 forced_minoan_excavations_title;Forced Minoan Excavations;;;;Spanish Loc;;;x
 forced_minoan_excavations_desc;We shall not allow a few misguided locals prevent us from unlocking the secrets of history.;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
 #Localisations for Slayzer's Historical Decisions;GAMING;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
 vuk_karadzic_reform_title;Launch Vuk Karadzic's Reforms;;;;Spanish Loc;;;x
 vuk_karadzic_reform_desc;In 1850 Karadzic reformed Serbian language making it different from church Slavonic making it closer to common folk speech and easier to learn.;;;;Spanish Loc;;;x
 karadzic_reforms;Karadzic Reforms;;;;Spanish Loc;;;x
 desc_karadzic_reforms;Vuk Karadzic has reformed language education in our schools. Our children can now learn the Serbian language more easily than before.;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
 #Localisations for HPM Historical Decisions;;;;Spanish Loc;;;x;
-#############################################;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
 accademia_della_crusca_title;Accademia della Crusca;;;;Spanish Loc;;;x
 accademia_della_crusca_desc;The Academy of the Crusca, the most prestigious center of study for the Italian language, would gladly appreciate an economic help from your majesty to keep on with the good work on Italian literature's history... and to pay those new paintings for the main hall;;;;Spanish Loc;;;x
 unite_with_tuscany_title;Unite with Tuscany;;;;Spanish Loc;;;x
 unite_with_tuscany_desc;For the good of Italian reunification, the time has come for Lucca to unite with our Tuscan neighbours to the south.;;;x;;;;Spanish Loc;;;x;
-#############################################;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
 #Localisations for new tech schools from POD;;;;Spanish Loc;;;x;
-#############################################;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
 russian_tech_school;Russian Imperial Academy;;;;Spanish Loc;;;x
 japanese_tech_school;Fukoku Kyohei;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
 #Localisations for country TAGS;;;;Spanish Loc;;;x;
-#############################################;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
 LCT;Liechtenstein;;;;Spanish Loc;;;x
 LCT_ADJ;Liechtensteiner;;;;Spanish Loc;;;x
 LCT_liberal;Freisinnige Fraktion;;;;Spanish Loc;;;x
@@ -880,9 +822,9 @@ GNG_fascist;Fascist Party;;;;;x;;;;;;
 GNG_anarcho_liberal;Freedom Party;;;;;x;;;;;;
 GXI_presidential_dictatorship;Guangxi Clique;;;;;x;;;;;;
 SXI_presidential_dictatorship;Shanxi Clique;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x;
-#Localisations for Events;GAMING;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
+#Localisations for Events;;;;;;;;x
+#############################################;;;;;;;x;
 EVTNAME12341234;Infamy Limit Violated!;;;;Spanish Loc;;;x
 EVTDESC12341234;You're the worst scum of the earth and you deserve what's coming for you;;;;Spanish Loc;;;x
 badboymod;Over Infamy Limit;;;;Spanish Loc;;;x
@@ -900,9 +842,6 @@ EVTOPTA200010;Now I cannot claim to be ignorant!;;;;Spanish Loc;;;x
 EVTNAME200012;Ukrainian Growth Boost;;;;Spanish Loc;;;x
 EVTDESC200012;This event supplements POP growth in the Ukrainian provinces owned by Russia. The extra population growth modifiers fix a 20 million disparity relative to history that maximizing life ratings for growth cannot.;;;;Spanish Loc;;;x
 EVTOPTA200012;Good;;;;Spanish Loc;;;x
-EVTNAME37227;Abd al-Qadir launches Raid!;;;;Spanish Loc;;;x
-EVTDESC37227;Abd al-Qadir is the preeminent Algerian warlord and defacto leader of Algeria. From his strongholds and hideouts in Algeria and Morrocco, al-Qadir has launched another harassing raid into French Algeria!;;;;Spanish Loc;;;x
-EVTOPTA37227;Annoying!;;;;Spanish Loc;;;x
 EVTNAME21530;Yellow River Flood of 1851;;;;Spanish Loc;;;x
 EVTDESC21530;The Mandate of Heaven was a belief held by the Chinese of the right for the Manchu house to rule China. As long as the ruler was upright and virtuous, Heaven was appeased. If the ruler became wicked and corrupt, then Heaven would withdraw its Mandate and make it known to the people through disasters. In 1851, the Yellow River breached the north embankment near Kaifeng Prefecture in Henan and caused great devastation over the countryside of North China. It required some fifteen or more years to repair damages from this outbreak, and to confine the stream with new embankments. These disasters were indication to the Chinese people that the Manchurians were losing the Mandate of Heaven, the right to rule and govern China.;;;;Spanish Loc;;;x
 EVTOPTA21530;We are losing the Mandate!;;;;Spanish Loc;;;x
@@ -945,10 +884,7 @@ EVTNAME97125;Flores Purchase;;;;Spanish Loc;;;x
 EVTDESC97125;Portugal has offered to sell the Flores islands to our current colonial administration in Timor. It seems like a reasonable deal.;;;;Spanish Loc;;;x
 EVTOPTA97125;Accept the offer.;;;;Spanish Loc;;;x
 EVTOPTB97125;Reject the offer.;;;;Spanish Loc;;;x
-EVTNAME146603;The King of Sardinia visits Argentina;;;;Spanish Loc;;;x
-EVTDESC146603;The King of Sardinia decided to visit Argentina as a kind gesture to the newly born country.;;;;Spanish Loc;;;x
-EVTOPTBV;Three Cheers for His Majesty!;;;;Spanish Loc;;;x
-EVTNAME999997;Province Resaource Change;;;;Spanish Loc;;;x
+EVTNAME999997;Province Resource Change;;;;Spanish Loc;;;x
 EVTDESC999997;This is an event to change the RGO good produced in this province.;;;;Spanish Loc;;;x
 EVTOPTA999997;A better RGO for our nation.;;;;Spanish Loc;;;x
 EVTNAME1010011;The Great Irish Famine;;;;Spanish Loc;;;x
@@ -967,19 +903,6 @@ EVTNAME1010020;The Irish Republican Brotherhood;;;;Spanish Loc;;;x
 EVTDESC1010020;The tone among the people in our Irish territories has changed. Many Irish nationalist who emigrated to the United States founded a militant organization called the Fenian Brotherhood there, a group dedicated to freeing Ireland from $COUNTRY_ADJ$ control... and now they have formed a sister organization back home, the Irish Republican Brotherhood. Already they are stirring up trouble, and it seems certain they will continue until some manner of home rule is attained.;;;;Spanish Loc;;;x
 irish_republicans;Irish Republicans;;;;Spanish Loc;;;x
 irish_republicans_desc;The Irish Republican Brotherhood is active in this province, recruiting members for a rebellion to establish an independent Ireland.;;;;Spanish Loc;;;x
-EVTNAME1010021;Fenians in $PROVINCENAME$;;;;Spanish Loc;;;x
-EVTDESC1010021;We've received reports that the Irish Republican Brotherhood has been active in $PROVINCENAME$, spreading propaganda and generally stirring up agitation against the $COUNTRY_ADJ$ government. The constabulary in $STATENAME$ has been actively hunting these nationalists down, but considering many within the constabulary are Irish themselves the process has not been simple.;;;;Spanish Loc;;;x
-EVTNAME1010022;Fenian Revolt in $PROVINCENAME$;;;;Spanish Loc;;;x
-EVTDESC1010022;The Irish Republican Brotherhood has stirred up local resentment in $PROVINCENAME$, resulting in several riots and a renewed campaign against $COUNTRY_ADJ$ rule in Ireland.;;;;Spanish Loc;;;x
-EVTDESC1010011_NEWS_LONG;Troublesome reports arrive from Ireland of what appears to be a widespread shortage in agricultural products gripping the territory and establishing a situation of famine among the population. While reports vary as to the severity of the situation, tales of entire harvests of potato being rendered useless by the potato blight illness set the stage for what some are dubbing 'the beggining of a calamity' due to the tuber's importance in the irish diet. $FROMCOUNTRY_ADJ$ response to the reports has so far been indecisive, and many wonder how the situation will evolve.;;;;Spanish Loc;;;x
-EVTDESC1010011_NEWS_MEDIUM;Reports arrive from Ireland of a shortage in agricultural products establishing a famine in the island, with tales of entire harvests of potato being rendered useless. $FROMCOUNTRY_ADJ$ response to the reports has so far been undecisive as many wonder how the situation will evolve.;;;;Spanish Loc;;;x
-EVTDESC1010011_NEWS_SHORT;Reports come from Ireland of a shortage in agricultural products causing a famine in the island. With tales of entire harvests rendered useless, many call on the government to take action.;;;;Spanish Loc;;;x
-EVTDESC1010015_NEWS_LONG;Tensions came to a boil in the village of Ballingary in Ireland as the famine affecting the region reaches catastrophic proportions. A group calling themselves the 'Young Irelanders' rose in rebellion against the British authorities, raising barricades and facing the police in a standoff that lasted several hours before police reinforcements lead the rebels to flee. As the manhunt for the rebel leaders continue, many are believed to have escaped to France and USA. The british government has dubbed the rebellion as 'an outrageous attempt to subvert law and order'.;;;;Spanish Loc;;;x
-EVTDESC1010015_NEWS_MEDIUM;Tensions came to a boil in the village of Ballingary in Ireland where a group called the 'Young Irelanders' rose in rebellion against British authorities, facing the police in a standoff that lasted several hours before police reinforcements forced the rebels to flee.;;;;Spanish Loc;;;x
-EVTDESC1010015_NEWS_SHORT;In Ireland, a group called the 'Young Irelanders' rose against the british authorities, facing the police in a standoff before police reinforcements forced the rebels to flee.;;;;Spanish Loc;;;x
-EVTDESC1010020_NEWS_LONG;The tone among the people in Ireland has changed. Many Irish nationalist who emigrated to the United States founded a militant organization called the Fenian Brotherhood there, a group dedicated to freeing Ireland from British control... and now they have formed a sister organization back home, the Irish Republican Brotherhood. Already they are stirring up trouble, and it seems certain they will continue until some manner of home rule is attained.;;;;Spanish Loc;;;x
-EVTDESC1010020_NEWS_MEDIUM;Many Irish nationalist who emigrated to the United States founded a militant organization called the Fenian Brotherhood there, a group dedicated to freeing Ireland from British control... and now they have formed a sister organization back home, the Irish Republican Brotherhood.;;;;Spanish Loc;;;x
-EVTDESC1010020_NEWS_SHORT;Irish nationalists who immigrated to the United States founded the radical Fenian Brotherhood. Now they have formed a sister organization back home: the Irish Republican Brotherhood.;;;;Spanish Loc;;;x
 EVTDESC190461_NEWS_LONG;"I Have Looked Upon the Face of Agamemnon" reads the short message on a wadded piece of paper, handed over to our reporter by the $COUNTRY_ADJ$ excavation leader. After many months of searching his team has finally discovered the ancient tomb at Mycenae that would, according to local tales, hold the final resting place of famous Agamemnon and his even more famous burial mask. The prestigious finding has already given much international attention to the $COUNTRY_ADJ$ Excavation Office in $CAPITAL$ and will surely enhance further research in these fields.;;;;Spanish Loc;;;x
 EVTDESC190461_NEWS_MEDIUM;An $COUNTRY_ADJ$ excavation team has discovered the ancient tomb at Mycenae which holds the final resting place of Agamemnon and his burial mask. The finding has given much international attention to the $COUNTRY_ADJ$ Excavation Office and will surely enhance further research.;;;;Spanish Loc;;;x
 EVTDESC190461_NEWS_SHORT;An $COUNTRY_ADJ$ excavation team has discovered the final resting place of Agamemnon at Mycenae. The finding has given much international attention and will enhance further research.;;;;Spanish Loc;;;x
@@ -1003,9 +926,9 @@ nepal_boom;Nepali Boom;;;;Spanish Loc;;;x
 desc_nepal_boom;An expected boom in the population leads to efforts to clear further land for habitation and use.;;;;Spanish Loc;;;x
 oil_metropolis;Oil Boom in Baku;;;;Spanish Loc;;;x
 desc_oil_metropolis;Experts are predicting that Baku will become a major world producer of Oil in the future.;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
 #Localisations for New/Modified Parties;;;;Spanish Loc;;;x;
-#############################################;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
 BEL_liberal_2;Liberale Partij;;;;Spanish Loc;;;x
 BEL_liberal_3;Progressieve Partij;;;;Spanish Loc;;;x
 BEL_liberal_4;Progressieve Partij;;;;Spanish Loc;;;x
@@ -1095,9 +1018,9 @@ USA_anarcho_liberal_3;Revolutionary Party;;;;Spanish Loc;;;x
 USA_communist;American Marxist Party;;;;Spanish Loc;;;x
 USA_communist_2;Communist Party;;;;Spanish Loc;;;x
 USA_fascist;Silver Legion;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
 #Localisations for Parties with changed TAGs;;;;Spanish Loc;;;x;
-#############################################;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
 PHL;Philippines;;;;;x;;;;;;
 PHL_ADJ;Philippine;;;;;x;;;;;;
 PHL_reactionary;Partido Tradicionalista;;;;;x;;;;;;
@@ -1123,9 +1046,9 @@ PNJ_absolute_monarchy_ADJ;Sikh;;;;Spanish Loc;;;x
 PNJ_prussian_constitutionalism_ADJ;Sikh;;;;Spanish Loc;;;x
 PNJ_fascist_dictatorship;Khalistan;;;;Spanish Loc;;;x
 PNJ_fascist_dictatorship_ADJ;Khalistani;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
 #Localisations for New Provinces;;;;Spanish Loc;;;x;
-#############################################;;;;Spanish Loc;;;x;
+#############################################;;;;;;;x;
 PROV12;Red Deer;;;;Spanish Loc;;;x
 PROV2595;Peace River;;;;Spanish Loc;;;x
 PROV2629;Kamloops;;;;Spanish Loc;;;x

@@ -1,14 +1,14 @@
 key;English;;;;Spanish;;;;;;x;;;
-transfer_vassalage_title;AI: Vassal Transfer Start;;;;Spanish Loc;;;x
-transfer_vassalage_desc;AI event to transfer vassalage;;;;Spanish Loc;;;x
-EVTNAME6016824;The Vassalization of $FROMCOUNTRY$;;;;Spanish Loc;;;x
-EVTDESC6016824;As result of a recent war, $FROMCOUNTRY$ was transferred to us in vassalage. Officials in $CAPITAL$ are finishing the preparations to welcome the $FROMCOUNTRY_ADJ$ people in the $COUNTRY_ADJ$ empire.;;;;Spanish Loc;;;x
-EVT6016824OPTA;We welcome the $FROMCOUNTRY_ADJ$;;;;Spanish Loc;;;x
-EVTNAME6016823;The New $FROMCOUNTRY_ADJ$ Masters;;;;Spanish Loc;;;x
-EVTDESC6016823;With the union of our old masters in the greater country of $FROMCOUNTRY$, our new overlords started to make the arrangements for our renewed vassalage to the $FROMCOUNTRY_ADJ$ government.;;;;Spanish Loc;;;x
-EVT6016823OPTA;We have no choice in this matter.;;;;Spanish Loc;;;x
-take_puppet;Take Puppet;;;;Spanish Loc;;;x
-take_puppet_desc;Become a vassal nation's new ovelord;;;;Spanish Loc;;;x
-take_puppet_short;$THIRD$ is taken;;;;Spanish Loc;;;x
-take_puppet_setup;Take $THIRD$ from $RECIPIENT$;;;;Spanish Loc;;;x
-core_when_done;They'll get the cores back in a second!;;;;Spanish Loc;;;x
+transfer_vassalage_title;AI: Vassal Transfer Start;;;;IA: Inicio de la transferencia de vasallos;;;x
+transfer_vassalage_desc;AI event to transfer vassalage;;;;Evento de IA para transferir el vasallaje;;;x
+EVTNAME6016824;The Vassalization of $FROMCOUNTRY$;;;;La vasallización de $FROMCOUNTRY$;;;x
+EVTDESC6016824;As result of a recent war, $FROMCOUNTRY$ was transferred to us in vassalage. Officials in $CAPITAL$ are finishing the preparations to welcome the $FROMCOUNTRY_ADJ$ people in the $COUNTRY_ADJ$ empire.;;;;Como resultado de una reciente guerra, $FROMCOUNTRY$ fue transferido a nosotros en vasallaje. Los funcionarios de la $CAPITAL$ están terminando los preparativos para dar la bienvenida al pueblo de $FROMCOUNTRY_ADJ$ en el imperio de $COUNTRY_ADJ$.;;;x
+EVT6016824OPTA;We welcome the $FROMCOUNTRY_ADJ$;;;;Damos la bienvenida al $FROMCOUNTRY_ADJ$;;;x
+EVTNAME6016823;The New $FROMCOUNTRY_ADJ$ Masters;;;;Los nuevos maestros $FROMCOUNTRY_ADJ$;;;x
+EVTDESC6016823;With the union of our old masters in the greater country of $FROMCOUNTRY$, our new overlords started to make the arrangements for our renewed vassalage to the $FROMCOUNTRY_ADJ$ government.;;;;Con la unión de nuestros antiguos amos en el gran país de $FROMCOUNTRY$, nuestros nuevos senores comenzaron a hacer los arreglos para nuestro renovado vasallaje al gobierno de $FROMCOUNTRY_ADJ$.;;;x
+EVT6016823OPTA;We have no choice in this matter.;;;;No tenemos elección en este asunto.;;;x
+take_puppet;Take Puppet;;;;Toma Marioneta;;;x
+take_puppet_desc;Become a vassal nation's new ovelord;;;;Conviértete en el nuevo ovelord de una nación vasalla;;;x
+take_puppet_short;$THIRD$ is taken;;;;Se toma $THIRD$;;;x
+take_puppet_setup;Take $THIRD$ from $RECIPIENT$;;;;Tomar $Tercer$ de $RECIPIENTE$;;;x
+core_when_done;They'll get the cores back in a second!;;;;!Recuperarán los núcleos en un segundo!;;;x
