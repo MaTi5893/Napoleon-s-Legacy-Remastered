@@ -232,6 +232,7 @@ political_decisions = {
 			}
 			NOT = {has_country_flag = unite_with_greece}
 			NOT = {has_country_flag = forza_italia}
+			NOT = {has_country_flag = occitan_expansion}
 		}
 		allow = {
 			GRE = {exists = no}
