@@ -2,42 +2,38 @@ gaming;English;;;;Spanish Loc;;;x
 #############################################;;;;Spanish Loc;;;x
 #Additional Buildings;;;;Spanish Loc;;;x
 #############################################;;;;Spanish Loc;;;x
-leather_factory;Industrial Tannery;;;;Spanish Loc;;;x
-leather_factory_desc;Cattle are processed into leather products here.;;;;Spanish Loc;;;x
-wool_fabric_factory;Wool Fabric Factory;;;;Spanish Loc;;;x
-wool_fabric_factory_desc;Wool is processed into fabric here.;;;;Spanish Loc;;;x
-fabric_factory;Cotton Fabric Factory;;;;Spanish Loc;;;x
-fabric_factory_desc;Cotton is processed into fabric here.;;;;Spanish Loc;;;x
-synthetic_rubber_factory;Synthetic Rubber Factory;;;;Spanish Loc;;;x
-synthetic_rubber_factory_desc;Synthetic rubber, like other polymers, is made from various petroleum-based monomers. A mixture of coal and oil is added together and then refined to produce the flammable hydrocarbon naphtha, which is then combined with natural gas to produce monomers. Chemical additives bond together with the monomers to form chains of polymers and the resulting product then undergoes vulcanisation in order to produce synthetic rubber.;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x
-#Additional Decisions;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x
-rgo_change_mining_title;Change Mining RGO;;;;Spanish Loc;;;x
-rgo_change_mining_desc;Allows the switching of a single RGO province of the following types: Coal, Iron, Sulphur, or Precious Metal into Coal, Iron, or Sulphur. Causes a cooldown of 25 years.;;;;Spanish Loc;;;x
-rgo_change_agriculture_title;Change Agriculture RGO;;;;Spanish Loc;;;x
-rgo_change_agriculture_desc;Allows the switching of a single RGO province of the following types: Grain, Fruit, Fish, Cattle, Wool, Cotton, Timber, or Precious Goods into Grain, Fruit, Fish, Cattle, Wool, Cotton, or Timber. Causes a cool down of 12.5 years.;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x
-#Additional Events;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x
-ottoman_canals_title;Build Bosphorus and Dardanelles Canals;;;;Spanish Loc;;;x
-ottoman_canals_desc;This is a necessary event to have both of these canals become functional.;;;;Spanish Loc;;;x
-776405;Chinese Pop Nerf;;;;Spanish Loc;;;x
-776407;Indian Pop Nerf;;;;Spanish Loc;;;x
-EVTDESC776405;China and India get nerfs to their large population to help with balance & late-game lag.;;;;Spanish Loc;;;x
-EVTOPTA776405;Damn the acts of attempting to balance Asia.;;;;Spanish Loc;;;x
-EVTNAME776543;Removal of Immigration Railroading;;;;Spanish Loc;;;x
-EVTDESC776543;All nations in the New World, Oceania, or South Africa will no longer recieve their immigration buff for simply existing after 1900.;;;;Spanish Loc;;;x
-EVTOPTA776543;A shame.;;;;Spanish Loc;;;x
-EVTNAME199936;Mining RGO Change;;;;Spanish Loc;;;x
-EVTDESC199936;Choose to change a province to the following RGO types, cool down is 25 years for changing, 1 year for not choosing one.;;;;Spanish Loc;;;x
-EVT199936OPTA;Change a province to produce Coal.;;;;Spanish Loc;;;x
-EVT199936OPTB;Change a province to produce Iron.;;;;Spanish Loc;;;x
-EVT199936OPTC;Change a province to produce Sulphur.;;;;Spanish Loc;;;x
-EVT199936OPTD;I'd rather not change anything.;;;;Spanish Loc;;;x
-199937;Argiculture RGO Change;;;;Spanish Loc;;;x
-EVTNAME199937;Agriculture RGO Change;;;;Spanish Loc;;;x
-EVTDESC199937;Choose to change a province to the following RGO types, cool down is 12.5 years for changing, 1 year for not choosing one. Fish require an available costal province, Timber requires forested terrain.;;;;Spanish Loc;;;x
+leather_factory;Industrial Tannery;;;;Curtiduría industrial;;;x
+leather_factory_desc;Cattle are processed into leather products here.;;;;Aquí se transforma el ganado en productos de cuero.;;;x
+wool_fabric_factory;Wool Fabric Factory;;;;Fábrica de tejidos de lana;;;x
+wool_fabric_factory_desc;Wool is processed into fabric here.;;;;Aquí se transforma la lana en tejido.;;;x
+fabric_factory;Cotton Fabric Factory;;;;Fábrica de tejidos de algodón;;;x
+fabric_factory_desc;Cotton is processed into fabric here.;;;;Aquí se transforma el algodón en tejido.;;;x
+synthetic_rubber_factory;Synthetic Rubber Factory;;;;Fábrica de caucho sintético;;;x
+synthetic_rubber_factory_desc;Synthetic rubber, like other polymers, is made from various petroleum-based monomers. A mixture of coal and oil is added together and then refined to produce the flammable hydrocarbon naphtha, which is then combined with natural gas to produce monomers. Chemical additives bond together with the monomers to form chains of polymers and the resulting product then undergoes vulcanisation in order to produce synthetic rubber.;;;;El caucho sintético, al igual que otros polímeros, se fabrica a partir de diversos monómeros derivados del petróleo. Se añade una mezcla de carbón y petróleo y se refina para producir el hidrocarburo inflamable nafta, que luego se combina con gas natural para producir monómeros. Los aditivos químicos se unen a los monómeros para formar cadenas de polímeros y el producto resultante se somete a la vulcanización para producir caucho sintético.;;;x
+#############################################;;;;;;;x
+#Additional Decisions;;;;;;;x
+#############################################;;;;;;;x
+rgo_change_mining_title;Change Mining RGO;;;;Cambiar el TOR de la minería;;;x
+rgo_change_mining_desc;Allows the switching of a single RGO province of the following types: Coal, Iron, Sulphur, or Precious Metal into Coal, Iron, or Sulphur. Causes a cooldown of 25 years.;;;;Permite cambiar una sola provincia TOR de los siguientes tipos: Carbón, Hierro, Azufre o Metal Precioso en Carbón, Hierro o Azufre. Puede hacerse cada 25 años.;;;x
+rgo_change_agriculture_title;Change Agriculture RGO;;;;Cambiar el TOR de Agricultura;;;x
+rgo_change_agriculture_desc;Allows the switching of a single RGO province of the following types: Grain, Fruit, Fish, Cattle, Wool, Cotton, Timber, or Precious Goods into Grain, Fruit, Fish, Cattle, Wool, Cotton, or Timber. Causes a cool down of 12.5 years.;;;;Permite el cambio de una sola provincia TOR de los siguientes tipos: Grano, fruta, pescado, ganado, lana, algodón, madera o bienes preciosos en grano, fruta, pescado, ganado, lana, algodón o madera. Puede hacerse cada 12,5 años.;;;x
+#############################################;;;;;;;x
+#Additional Events;;;;;;;x
+#############################################;;;;;;;x
+ottoman_canals_title;Build Bosphorus and Dardanelles Canals;;;;Construir los canales del Bósforo y de los Dardanelos;;;x
+ottoman_canals_desc;This is a necessary event to have both of these canals become functional.;;;;Este es un evento necesario para que ambos canales sean funcionales.;;;x
+776405;Chinese Pop Nerf;;;;Pop Nerf chino;;;x
+EVTDESC776405;China gets nerfs to their large population to help with balance & late-game lag.;;;;China recibe nerfs a su gran población para ayudar con el equilibrio y el lag del juego tardío.;;;x
+EVTOPTA776405;Damn the acts of attempting to balance Asia.;;;;Malditos sean los actos de intentar equilibrar Asia.;;;x
+EVTNAME199936;Mining RGO Change;;;;Cambio de TOR en la minería;;;x
+EVTDESC199936;Choose to change a province to the following RGO types, cool down is 25 years for changing, 1 year for not choosing one.;;;;Elija cambiar una provincia a los siguientes tipos de TOR, puede hacerlo de nuevo después de 25 años si cambia, después de 1 año si no lo hace;;;x
+EVT199936OPTA;Change a province to produce Coal.;;;;Cambiar una provincia para producir carbón.;;;x
+EVT199936OPTB;Change a province to produce Iron.;;;;Cambia una provincia para producir Hierro.;;;x
+EVT199936OPTC;Change a province to produce Sulphur.;;;;Cambiar una provincia para producir Azufre.;;;x
+EVT199936OPTD;I'd rather not change anything.;;;;Prefiero no cambiar nada.;;;x
+199937;Agriculture RGO Change;;;;Cambio de TOR en Agricultura;;;x
+EVTNAME199937;Agriculture RGO Change;;;;Cambio de TOR en Agricultura;;;x
+EVTDESC199937;Choose to change a province to the following RGO types, cool down is 12.5 years for changing, 1 year for not choosing one. Fish require an available costal province, Timber requires forested terrain.;;;;Elige cambiar una provincia a los siguientes tipos de TOR, puede hacerlo de nuevo después de 25 años si cambia, después de 1 año si no lo hace. Los peces requieren una provincia costera disponible, la madera requiere un terreno boscoso.;;;x
 EVT199937OPTA;Change a province to produce Wool.;;;;Spanish Loc;;;x
 EVT199937OPTB;Change a province to produce Timber.;;;;Spanish Loc;;;x
 EVT199937OPTC;Change a province to produce Cotton.;;;;Spanish Loc;;;x
@@ -49,9 +45,6 @@ EVT199937OPTH;I'd rather not change anything.;;;;Spanish Loc;;;x
 EVTNAME776801;Colonial Tech Inheritance;;;;Spanish Loc;;;x
 EVTDESC776801;Uncivilized Puppets gain basic industrial techs to further the out-sourcing of resources.;;;;Spanish Loc;;;x
 EVTOPTA776801;Isn't this just exploitation of our natural resources?;;;;Spanish Loc;;;x
-776901;Forced Unsphereing of China;;;;Spanish Loc;;;x
-EVTDESC776901;China being in a sphere of influence early-mid game tends to crash the World Economy, due to this China & some of it's substates is unsphereable till 1900.;;;;Spanish Loc;;;x
-EVTOPTA776901;But I enjoy a broken World Economy...;;;;Spanish Loc;;;x
 EVTNAME1998001;Pop Growth Campaign Selection;;;;Spanish Loc;;;x
 EVTDESC1998001;Choose the level of pop-growth campaign for your nation.;;;;Spanish Loc;;;x
 #############################################;;;;Spanish Loc;;;x
@@ -70,17 +63,11 @@ rgo_changed_desc;You have recently taken a decision to change a RGO, you must wa
 switched_production;Switched Production;;;;Spanish Loc;;;x
 switched_production_desc;The province has just switched its major production, and locals are still acclimatizing to the change.;;;;Spanish Loc;;;x,
 player_unciv_mobilization;Player Controlled Uncivilized Nation;;;;Spanish Loc;;;x
-developing_bioweapons;Bioweapons in Development;;;;Spanish Loc;;;x
-developing_bioweapons_desc;After this modifier runs down you will have access to a decision while at war to deploy the Solomon Virus.;;;;Spanish Loc;;;x
-experimental_bioweapon;The Solomon Virus;;;;Spanish Loc;;;x
-experimental_bioweapon_desc;Once considered legend, now revived and modified to be even more infectious & deadly, this weapon can wipe out entire countries once deployed.;;;;Spanish Loc;;;x
-bioweapon_cooldown;Solomon Virus Under Cooldown;;;;Spanish Loc;;;x
-bioweapon_cooldown_desc;You must wait till the modifier disappears before deploying The Solomon Virus again.;;;;Spanish Loc;;;x
 tariff_efficiency_boost;Tariff Hotfix Boost;;;;Spanish Loc;;;x
-fairer_taxation;Taxation Relief;Allegement de la fiscalite;Besteuerung Relief;;Alivio de impuestos;;;;Spanish Loc;;;x
-fairer_taxation1;Taxation Relief;Allegement de la fiscalite;Besteuerung Relief;;Alivio de impuestos;;;;Spanish Loc;;;x
-fairer_taxation2;Taxation Relief;Allegement de la fiscalite;Besteuerung Relief;;Alivio de impuestos;;;;Spanish Loc;;;x
-fairer_taxation3;Taxation Relief;Allegement de la fiscalite;Besteuerung Relief;;Alivio de impuestos;;;;Spanish Loc;;;x
+fairer_taxation;Taxation Relief;Allegement de la fiscalite;Besteuerung Relief;;Alivio de impuestos;;;;;;;x
+fairer_taxation1;Taxation Relief;Allegement de la fiscalite;Besteuerung Relief;;Alivio de impuestos;;;;;;;x
+fairer_taxation2;Taxation Relief;Allegement de la fiscalite;Besteuerung Relief;;Alivio de impuestos;;;;;;;x
+fairer_taxation3;Taxation Relief;Allegement de la fiscalite;Besteuerung Relief;;Alivio de impuestos;;;;;;;x
 migration_factor_reduced;No Migration from Province;;;;Spanish Loc;;;x
 migration_factor_reduced_title;No Migration from Province;;;;Spanish Loc;;;x
 migration_factor_reduced_desc;Due to the unemployment caused by switching to Lumber RGO, this province will not have any migration for two years untill pops can be reemployed with time.;;;;Spanish Loc;;;x
@@ -92,41 +79,7 @@ immunity_from_influenza_desc;Prevents Pandemic Influenza from recurring in your 
 no_more_war_reperations;No More War Reperations Can be Added on You.;;;;Spanish Loc;;;x
 no_more_war_reperations_desc;Due to the nature of stacking of War Reperations by multiple countries on a single nation, it is possible to earn 80% or even 120% of all income in a country leading to a unrecoverable situation when Reperations are added every-war.;;;;Spanish Loc;;;x
 #############################################;;;;Spanish Loc;;;x
-#Save The Nation;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x
-save_the_nation0.5;Moderate Patriotism;;;;Spanish Loc;;;x
-save_the_nation0.5_desc;Moderate Patriotism;;;;Spanish Loc;;;x
-save_the_nation1;Patriotism;;;;Spanish Loc;;;x
-save_the_nation1_desc;Patriotism;;;;Spanish Loc;;;x
-save_the_nation1.5;Moderate Naionalism;;;;Spanish Loc;;;x
-save_the_nation1.5_desc;Moderate Nationalism;;;;Spanish Loc;;;x
-save_the_nation2;Heightened Naionalism;;;;Spanish Loc;;;x
-save_the_nation2_desc;Heightened Nationalism;;;;Spanish Loc;;;x
-save_the_nation2.5;Limited Desperate Defense;;;;Spanish Loc;;;x
-save_the_nation2.5_desc;Limited Desperate Defense;;;;Spanish Loc;;;x
-save_the_nation3;Full Desperate Defense;;;;Spanish Loc;;;x
-save_the_nation3_desc;Full Desperate Defense;;;;Spanish Loc;;;x
-save_the_nation3.5;Nearing the Final Hour;;;;Spanish Loc;;;x
-save_the_nation3.5_desc;Nearing the Final Hour;;;;Spanish Loc;;;x
-save_the_nation4;Final Hour;;;;Spanish Loc;;;x
-save_the_nation4_desc;Final Hour;;;;Spanish Loc;;;x
-save_the_nation4.5;Somewhat Spiteful Resistance;;;;Spanish Loc;;;x
-save_the_nation4.5_desc;Somewhat Spiteful Resistance;;;;Spanish Loc;;;x
-save_the_nation5;Spiteful Resistance;;;;Spanish Loc;;;x
-save_the_nation5_desc;Spiteful Resistance;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x
-#Pop Growth Campaigns;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x
-birthrate_push_low;Basic Growth Incentives;;;;Spanish Loc;;;x
-birthrate_push_low_desc;Basic Growth Incentives;;;;Spanish Loc;;;x
-birthrate_push_medium;Aggressive Pop-growth Campaign;;;;Spanish Loc;;;x
-birthrate_push_medium_desc;Aggressive Pop-growth Campaign;;;;Spanish Loc;;;x
-birthrate_push_high;State Enforced Birthing Campaign;;;;Spanish Loc;;;x
-birthrate_push_high_desc;State Enforced Birthing Campaign;;;;Spanish Loc;;;x
-recently_selected_birthrate;Recently Selected a Growth Campaign;;;;Spanish Loc;;;x
-recently_selected_birthrate_desc;Due to recently selecting a growth-campaign, you are unable to remove the ongoing campaign till this modifier expires.;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x
 #Additional Provinces;;;;Spanish Loc;;;x
 #############################################;;;;Spanish Loc;;;x
-PROV3256;Kampen;;;;Spanish Loc;;;x
-PROV3257;Almere;;;;Spanish Loc;;;x
+PROV3256;Kampen;;;;Kampen;;;x
+PROV3257;Almere;;;;Almere;;;x

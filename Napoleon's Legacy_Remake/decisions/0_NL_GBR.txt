@@ -6,6 +6,7 @@ political_decisions = {
 				tag = ENG
 			}
 			NOT = { accepted_culture = irish } 
+			NOT = { accepted_culture = walloon }
 		}
 		allow = {
 			war = no
@@ -133,7 +134,23 @@ political_decisions = {
 			add_accepted_culture = british
 			add_accepted_culture = dutch
 			add_accepted_culture = Scotish
+			#add_accepted_culture = flemish	#Migrated to the next decision
+		}
+	}
+	ADU_belgium = { 
+		potential = {
+			tag = ADU
+			NOT = { accepted_culture = irish } 
+		}
+		allow = { 
+			all_core = { owned_by = THIS } 
+			BEL = { all_core = { owned_by = THIS } } 
+		}
+		effect = { 	
+			BEL = { all_core = { add_core = THIS } } 
 			add_accepted_culture = flemish
+			add_accepted_culture = wallonian
+			prestige = 15
 		}
 	}
 }
