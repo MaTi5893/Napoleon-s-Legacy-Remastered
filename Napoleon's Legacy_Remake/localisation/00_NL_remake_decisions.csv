@@ -335,7 +335,13 @@ yugo_united_title;Yugo United !;;;;;;x
 yugo_united_desc; We have united the Yugoslavia, our people can rejoice and thrive !;;;;;;x
 form_yugoslavia_easy_title;United Yugoslavia !;;;;;;x
 form_yugoslavia_easy_desc;We can proclaim the union of balkans people under a new flag with the union of our country and Bosnia !;;;;;;x
-unite_north_italy_gp;Unite North Italy;;;;;;x
-unite_north_italy_gp;Napoleon had created the Kingdom of Italy, we should unite it again to gain a strong vassal in the area !;;;;;;x
-double_down_in_the_balkans_gre;Double down in the Balkans;;;;;;x
-double_down_in_the_balkans_gre;We should focus on the Balkans expansion and find peace with the Ottomans affter so many years of war. We could become a strong land power and make the Ottomans our fleet !;;;;;;x
+unite_north_italy_gp_title;Unite North Italy;;;;;;x
+unite_north_italy_gp_desc;Napoleon had created the Kingdom of Italy, we should unite it again to gain a strong vassal in the area !;;;;;;x
+double_down_in_the_balkans_gre_title;Double down in the Balkans;;;;;;x
+double_down_in_the_balkans_gre_desc;We should focus on the Balkans expansion and find peace with the Ottomans affter so many years of war. We could become a strong land power and make the Ottomans our fleet !;;;;;;x
+get_rome_title;We own Rome !;;;;;;;x
+get_rome_desc;We have conquered Rome, its our destiny to rule over the Italian peninsula !;;;;;;;x
+occitan_expansion_title;Accept Occitan;;;;;;;x
+occitan_expansion_desc;We have conquered the Occitan region. We can consider them our Eastern Breathen and should make them citizen of our glorious kingdom !;;;;;;;x
+latin_empire_title;Revive the Latin empire !;;;;;;;x
+latin_empire_desc;We have finally united all Latin speaking people and can declare the resurgence of a latin identity !;;;;;;;x

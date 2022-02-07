@@ -209,6 +209,8 @@ political_decisions = {
 					tag = HRO
 				}
 			}
+			NOT = {has_country_flag = unite_with_greece}
+			NOT = {has_country_flag = occitan_expansion}
 		}
 		
 		allow = {
@@ -311,6 +313,8 @@ political_decisions = {
 			NOT = {
 				exists = ITA
 			}
+			NOT = {has_country_flag = unite_with_greece}
+			NOT = {has_country_flag = occitan_expansion}
 		}
 		
 		allow = {

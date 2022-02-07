@@ -4,6 +4,8 @@ political_decisions = {
 		potential = {
 			tag = NIT
 			ITA = { exists = no }
+			NOT = {has_country_flag = unite_with_greece}
+			NOT = {has_country_flag = cisalpine}
 		}
 		allow = {
 			war_policy = jingoism
@@ -45,6 +47,83 @@ political_decisions = {
 		}
 	}
 
+	occitan_expansion = {
+		picture = occitan_decision
+		potential = {
+			OR = {
+				tag = ITA
+				tag = NIT
+				tag = PAP
+			}
+			NOT = {has_country_flag = occitan_expansion}
+			NOT = {has_country_flag = forza_italia}
+		}
+		allow = {
+			war = no
+			all_core = {
+				owned_by = THIS
+			}
+			owns = FRA_467
+			owns = FRA_473
+			owns = FRA_461
+			owns = FRA_451
+			owns = FRA_448
+			owns = FRA_455
+			owns = FRA_458
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			add_core = FRA_467
+			add_core = FRA_473
+			add_core = FRA_461
+			add_core = FRA_451
+			add_core = FRA_448
+			add_core = FRA_455
+			add_core = FRA_458
+			add_accepted_culture = occitan
+			prestige = 20
+			set_country_flag = occitan_expansion
+		}
+	}
+
+	latin_empire = {
+		picture = latin_decision
+		potential = {
+			OR = {
+				tag = ITA
+				tag = NIT
+				tag = PAP
+			}
+			has_country_flag = occitan_expansion
+			NOT = {has_country_flag = latin_empire}
+		}
+		allow = {
+			war = no
+			all_core = {
+				owned_by = THIS
+			}
+			owns = SPA_498
+			owns = SPA_503
+			owns = SPA_492
+			revolution_n_counterrevolution = 1
+		}
+		effect = {
+			add_core = SPA_498
+			add_core = SPA_503
+			add_core = SPA_492
+			add_accepted_culture = catalan
+			add_accepted_culture = basque
+			prestige = 20
+			all_core = {
+				add_province_modifier = {
+					name = cultural_unification
+					duration = 3650
+				}
+			}
+			set_country_flag = latin_empire
+		}
+	}
+
 	get_rome = {
 		picture = rome_decision
 		potential = {
@@ -55,6 +134,8 @@ political_decisions = {
 			}
 			ITA = {exists = no}
 			NOT = {has_global_flag = get_rome}
+			NOT = {has_country_flag = occitan_expansion}
+			NOT = {has_country_flag = unite_with_greece}
 		}
 		allow = {
 			war = no
@@ -98,12 +179,15 @@ political_decisions = {
 			set_country_flag=ask_france_piedmonte
 		}
 	}
+
 	unite_north_italy = {
 		picture = north_italy_decision
 		potential = {
 			primary_culture = north_italian
 			ITA = {exists = no}
 			NIT = {exists = no}
+			NOT = {tag = NIT}
+			NOT = {tag = PAP}
 		}
 		allow = {
 			war = no
@@ -112,8 +196,10 @@ political_decisions = {
 					OR = {
 						owned_by = THIS
 						owner = {
-							OR = {dddddddddddddddd}
-							
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
 						}
 					}
 				}
@@ -133,12 +219,9 @@ political_decisions = {
                 annex_to = THIS
             }
 			change_tag = NIT
-			NIT = {
-				add_core = 751
-				add_core = 752
-			}
 		}
 	}
+
 	unite_with_greece = {
 		picture = ItaloGreek_decision
 		potential = {
@@ -154,6 +237,7 @@ political_decisions = {
 			GRE = {exists = no}
 			BYZ = {exists = no}
 			owns = GRE_837
+			owns = 749
 			war = no
 			OR = {
 				is_secondary_power = yes
@@ -165,6 +249,12 @@ political_decisions = {
 			}
 		}
 		effect = {
+			add_core = PAP_749
+			add_core = NAP_752
+			add_province_modifier = {
+				name = cultural_unification
+				duration = 7300
+			}
 			GRE = {
 				all_core = {
 					add_core = THIS
@@ -228,6 +318,7 @@ political_decisions = {
 			prestige = -5
 		}
 	}
+
 	renounce_corsica = {
 		potential = {
 			tag = ITA
