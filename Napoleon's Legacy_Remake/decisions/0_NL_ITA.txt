@@ -28,8 +28,6 @@ political_decisions = {
 				}
 			}
 		}
-
-
 		effect = {
 			change_tag = ITA
 			any_owned = { remove_core = NIT } 
@@ -46,35 +44,168 @@ political_decisions = {
 			}
 		}
 	}
-	
-	#form_two_sic = {
-	#	potential = {
-	#		tag = SYC
-	#		SIC = { exists = no }
-	#	}
-	#	allow = {
-	#		is_our_vassal = NPL
-	#	}
-	#	effect = {
-	#		any_country = {
-	#			limit = {
-	#				tag = NPL
-	#				vassal_of = THIS
-	#			}
-	#			annex_to = THIS
-	#		}
-	#		754 = { add_core = THIS }
-	#		2567 = { add_core = THIS }
-	#		755 = { add_core = THIS }
-	#		753 = { add_core = THIS }
-	#		757 = { add_core = THIS }
-	#		SAR_765 = { add_core = THIS }
-	#		SIC_756 = { add_core = THIS }
-	#		all_core = {
-	#			add_core = SIC
-	#			remove_core = THIS
-	#		}
-	#		change_tag = SIC
-	#	}
-	#}
+
+	ask_france_piedmonte = {
+		picture = piedmonte_decision
+		potential = {
+			OR = {
+				tag = LOM
+				tag = NIT
+			}
+			ai = no
+			NOT = { has_country_flag = ask_france_piedmonte }
+			NOT = {owns=720}
+		}
+		allow = {
+			war=no
+			alliance_with = FRA
+		}
+		effect = {
+			prestige =5
+			FRA = {country_event = 600021}
+			set_country_flag=ask_france_piedmonte
+		}
+	}
+	unite_north_italy = {
+		picture = north_italy_decision
+		potential = {
+			primary_culture = north_italian
+			ITA = {exists = no}
+			NIT = {exists = no}
+		}
+		allow = {
+			war = no
+			NIT = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {dddddddddddddddd}
+							
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 20
+			any_country = {
+                limit = {
+                    primary_culture = north_italian
+                    ai = yes
+                    OR = {
+                        in_sphere = THIS
+                        vassal_of = THIS
+                    }
+                }
+                annex_to = THIS
+            }
+			change_tag = NIT
+			NIT = {
+				add_core = 751
+				add_core = 752
+			}
+		}
+	}
+	unite_with_greece = {
+		picture = ItaloGreek_decision
+		potential = {
+			OR = {
+				tag = ITA
+				tag = NPL
+				tag = PAP
+			}
+			NOT = {has_country_flag = unite_with_greece}
+			NOT = {has_country_flag = forza_italia}
+		}
+		allow = {
+			GRE = {exists = no}
+			BYZ = {exists = no}
+			owns = GRE_837
+			war = no
+			OR = {
+				is_secondary_power = yes
+				is_greater_power = yes
+			}
+			nationalism_n_imperialism = 1
+			all_core = {
+				owned_by = THIS
+			}
+		}
+		effect = {
+			GRE = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			add_accepted_culture = greek
+			set_country_flag = unite_with_greece
+			prestige = 20
+		}
+	}
+	north_africa = {
+		picture = libya_decision
+		potential = {
+			OR = {
+				tag = ITA
+				tag = NPL
+				tag = PAP
+			}
+			has_country_flag = unite_with_greece
+			NOT = {has_country_flag = north_africa}
+		}
+		allow = {
+			all_core = {
+				owned_by = THIS
+			}
+			owns = ENG_854
+			owns = TUN_1726
+			owns = TRI_1731
+			owns = TRI_1738
+			war = no
+			OR = {
+				is_secondary_power = yes
+				is_greater_power = yes
+			}
+			revolution_n_conterrevolution = 1
+		}
+		effect = {
+			add_accepted_culture = maltese
+			add_core = ENG_854
+			add_core = TUN_1726
+			add_core = TRI_1731
+			add_core = TRI_1738
+			set_country_flag = north_africa
+			prestige = 40
+		}
+	}
+
+	renounce_bozen = {
+		potential = {
+			tag = ITA
+			is_core = 735
+			NOT = {owns = 735}
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			remove_core = 735
+			prestige = -5
+		}
+	}
+	renounce_corsica = {
+		potential = {
+			tag = ITA
+			is_core = 473
+			NOT = {owns = 473}
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			remove_core = 473
+			prestige = -5
+		}
+	}
 }

@@ -1,0 +1,63 @@
+army = {
+	name = "Esercito di Lombardia"
+	
+	leader = {
+		name = "Charles Albert"
+		date = 1820.1.1
+		type = land
+		personality = defence_2.1
+		background = attack_2.1
+		prestige = 0.5
+	}
+    location = 726
+	regiment = {
+		name= "1.1 Infantry"
+		type = infantry
+		home = 728
+	}
+	regiment = {
+		name= "1.2 Infantry"
+		type = infantry
+		home = 728
+	}
+	regiment = {
+		name= "1.3 Infantry"
+		type = infantry
+		home = 727
+	}
+	regiment = {
+		name= "1.4 Infantry"
+		type = infantry
+		home = 727
+	}
+	regiment = {
+		name= "1.1 Cavalry"
+		type = hussar
+		home = 726
+	}
+    regiment = {
+		name= "1.1 Artillery"
+		type = artillery
+		home = 726
+	}
+    regiment = {
+		name= "1.2 Artillery"
+		type = artillery
+		home = 726
+	}
+    regiment = {
+		name= "1.3 Artillery"
+		type = artillery
+		home = 726
+	}
+    regiment = {
+		name= "1.4 Artillery"
+		type = artillery
+		home = 726
+	}
+    regiment = {
+		name= "1.5 Artillery"
+		type = artillery
+		home = 726
+	}
+}

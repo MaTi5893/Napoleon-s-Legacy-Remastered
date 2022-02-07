@@ -193,31 +193,31 @@
 	}
 
 	aristocrats = {
-		culture = french
+		culture = occitan
 		religion = catholic
 		size = 350
 	}
 
 	clergymen = {
-		culture = french
+		culture = occitan
 		religion = catholic
 		size = 275
 	}
 
 	artisans = {
-		culture = french
+		culture = occitan
 		religion = catholic
 		size = 1475
 	}
 
 	soldiers = {
-		culture = french
+		culture = occitan
 		religion = catholic
 		size = 375
 	}
 
 	farmers = {
-		culture = french
+		culture = occitan
 		religion = catholic
 		size = 28600
 	}
@@ -437,13 +437,13 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 3350
+		size = 12000
 	}
 
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 275925
+		size = 300000
 	}
 
 	clergymen = {
@@ -481,7 +481,7 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 1150
+		size = 5000
 	}
 
 	farmers = {
@@ -513,7 +513,7 @@
 	soldiers = {
 		culture = north_italian
 		religion = catholic
-		size = 1750
+		size = 5000
 	}
 
 	farmers = {
@@ -1477,19 +1477,19 @@
 	bureaucrats = {
 		culture = south_italian
 		religion = catholic
-		size = 725
+		size = 2000
 	}
 
 	officers = {
 		culture = south_italian
 		religion = catholic
-		size = 350
+		size = 400
 	}
 
 	clergymen = {
 		culture = south_italian
 		religion = catholic
-		size = 3425
+		size = 4000
 	}
 
 	artisans = {
@@ -1519,13 +1519,19 @@
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size = 3000
+		size = 20000
 	}
 
 	farmers = {
 		culture = south_italian
 		religion = catholic
-		size = 230750
+		size = 300750
+	}
+
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 4000
 	}
 
 	clergymen = {
@@ -1563,7 +1569,7 @@
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size = 1100
+		size = 3000
 	}
 
 	farmers = {
@@ -1585,7 +1591,7 @@
 	bureaucrats = {
 		culture = south_italian
 		religion = catholic
-		size = 225
+		size = 500
 	}
 
 	officers = {
@@ -1597,7 +1603,7 @@
 	clergymen = {
 		culture = south_italian
 		religion = catholic
-		size = 950
+		size = 1000
 	}
 
 	artisans = {
@@ -1609,7 +1615,13 @@
 	soldiers = {
 		culture = south_italian
 		religion = catholic
-		size = 1100
+		size = 5000
+	}
+
+	craftsmen = {
+		culture = south_italian
+		religion = catholic
+		size = 1000
 	}
 
 	farmers = {

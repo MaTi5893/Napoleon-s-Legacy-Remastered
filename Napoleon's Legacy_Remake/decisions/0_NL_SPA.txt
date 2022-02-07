@@ -215,7 +215,16 @@ political_decisions = {
 	spanish_armada = {
 		picture = spanisharmada
 		potential = {
-			primary_culture = spanish
+			OR = {
+				tag = SPA
+				AND = {
+					tag = FRA
+					has_country_flag = joseph
+					is_core=517
+					is_core=512
+					is_core=474
+				}
+			}
 			NOT = { tech_school = spanish_tech_school }
 		}
 		allow = {

@@ -1,8 +1,9 @@
-owner = NIT
-controller = NIT
+owner = VEN
+controller = VEN
 add_core = NIT
 add_core = VEN
 add_core = ITA
+add_core = PAP
 trade_goods = fish
 life_rating = 35
 naval_base = 1
