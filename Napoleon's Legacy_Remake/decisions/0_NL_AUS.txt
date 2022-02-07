@@ -45,7 +45,7 @@ political_decisions = {
 			state_n_government=1
 			OR = {
 				DLM = {in_sphere = THIS}
-				DLM = {vassal_of=THIS}
+				DLM = {vassal_of = THIS}
 			}
 		}
 		effect = {
