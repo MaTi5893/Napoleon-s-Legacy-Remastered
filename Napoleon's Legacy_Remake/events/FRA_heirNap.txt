@@ -68,12 +68,13 @@ country_event = {
 		days = 0
 	}
 	option = {
-		name = "Louis-Napoleon Bonaparte !"	
+		name = "It's time for a Republic !"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
 		}
-        FRA = {set_country_flag = louis_napoleon}
+		government = democracy
+        FRA = {set_country_flag = republic}
 	}
 	option = {
 		name = "Alexandre Walewski !"	
@@ -139,12 +140,13 @@ country_event = {
         FRA = {set_country_flag = louis}
 	}
 	option = {
-		name = "Louis-Napoleon Bonaparte !"	
+		name = "It's time for a Republic !"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
 		}
-        FRA = {set_country_flag = louis_napoleon}
+		government = democracy
+        FRA = {set_country_flag = republic}
 	}
 	option = {
 		name = "Alexandre Walewski !"	
@@ -207,12 +209,13 @@ country_event = {
         create_vassal = BRA
 	}
 	option = {
-		name = "Louis-Napoleon Bonaparte !"	
+		name = "It's time for a Republic !"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
 		}
-        FRA = {set_country_flag = louis_napoleon}
+		government = democracy
+        FRA = {set_country_flag = republic}
 	}
 	option = {
 		name = "Alexandre Walewski !"	
@@ -265,15 +268,16 @@ country_event = {
         FRA = {set_country_flag = louis}
 	}
 	option = {
-		name = "Louis-Napoleon Bonaparte !"	
+		name = "It's time for a Republic !"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
 		}
-        ai_chance = {
+		government = democracy
+        FRA = {set_country_flag = republic}
+		ai_chance = {
 			factor = 0.25
         }
-        FRA = {set_country_flag = louis_napoleon}
 	}
 	option = {
 		name = "Alexandre Walewski !"	

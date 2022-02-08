@@ -10,8 +10,12 @@ political_decisions = {
 					owned_by = THIS 
 					state_id = 762
 					state_id = 3250
-					owner = { in_sphere = ARA } 
-					owner = { vassal_of = ARA }
+					owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
 				}
 			}
 		}
