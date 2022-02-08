@@ -5,7 +5,7 @@ political_decisions = {
 			tag = NIT
 			ITA = { exists = no }
 			NOT = {has_country_flag = unite_with_greece}
-			NOT = {has_country_flag = cisalpine}
+			NOT = {has_country_flag = occitan_expansion}
 		}
 		allow = {
 			war_policy = jingoism
@@ -55,6 +55,7 @@ political_decisions = {
 			}
 			NOT = {has_country_flag = occitan_expansion}
 			NOT = {has_country_flag = forza_italia}
+			NOT = {has_country_flag = unite_with_greece}
 		}
 		allow = {
 			war = no
@@ -162,8 +163,8 @@ political_decisions = {
 		picture = piedmonte_decision
 		potential = {
 			OR = {
-				tag = LOM
-				tag = NIT
+				primary_culture = south_italian
+				primary_culture = north_italian
 			}
 			ai = no
 			NOT = { has_country_flag = ask_france_piedmonte }
@@ -171,7 +172,6 @@ political_decisions = {
 		}
 		allow = {
 			war=no
-			alliance_with = FRA
 		}
 		effect = {
 			prestige = 5
@@ -290,7 +290,7 @@ political_decisions = {
 			ENG_854 = {owned_by = THIS}
 			TUN_1726 = {owned_by = THIS}
 			TRI_1731 = {owned_by = THIS}
-			TRI_1738 = {owned_by = THIS}
+			TRI_1734 = {owned_by = THIS}
 			war = no
 			OR = {
 				is_secondary_power = yes
@@ -303,7 +303,7 @@ political_decisions = {
 			ENG_854 = {add_core = THIS}
 			TUN_1726 = {add_core = THIS}
 			TRI_1731 = {add_core = THIS}
-			TRI_1738 = {add_core = THIS}
+			TRI_1734 = {add_core = THIS}
 			set_country_flag = north_africa
 			prestige = 40
 		}

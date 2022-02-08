@@ -73,27 +73,27 @@ country_event = {
 
 	option = {
         name = "Give them Piedmonte !"
-        SAR_720 = { secede_province = LOM } 
-		LOM = {SAR_720 = add_core}
+        SAR_720 = { secede_province = FROM } 
+		FROM = {SAR_720 = add_core}
 		NIT = {SAR_720 = add_core}
         badboy = -3
         ai_chance = {
 			factor = 0.5
             modifier = {
                 factor = 0.25
-                relation = { who = LOM value = 50 }
+                relation = { who = FROM value = 50 }
             }
             modifier = {
                 factor = 0.5
-                relation = { who = LOM value = 100 }
+                relation = { who = FROM value = 100 }
             }
             modifier = {
                 factor = 0.75
-                relation = { who = LOM value = 150 }
+                relation = { who = FROM value = 150 }
             }
             modifier = {
                 factor = 1
-                relation = { who = LOM value = 200 }
+                relation = { who = FROM value = 200 }
             }
 		}
     }
@@ -113,19 +113,19 @@ country_event = {
 		factor = 0.5
     		modifier = {
             	factor = 0.25
-            	relation = { who = LOM value = -50 }
+            	relation = { who = FROM value = -50 }
            	}
            	modifier = {
         		factor = 0.5
-            	relation = { who = LOM value = -100 }
+            	relation = { who = FROM value = -100 }
            	}
            	modifier = {
                	factor = 0.75
-               	relation = { who = LOM value = -150 }
+               	relation = { who = FROM value = -150 }
            	}
            	modifier = {
                	factor = 1
-               	relation = { who = LOM value = -200 }
+               	relation = { who = FROM value = -200 }
            	}
 		}
     }
