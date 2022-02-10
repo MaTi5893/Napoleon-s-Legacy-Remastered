@@ -1,0 +1,12 @@
+name = "Italian Unification War"
+
+1835.1.1 = {
+	add_attacker = LOM
+	add_defender = MOD
+
+	war_goal = {
+		casus_belli = conquest
+		actor = LOM
+		receiver = MOD
+	}
+}

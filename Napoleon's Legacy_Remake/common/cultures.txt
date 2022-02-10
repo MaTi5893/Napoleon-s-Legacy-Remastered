@@ -373,6 +373,20 @@ italian = {
 		last_names = { Abela Adami Azzopardi Boffa Borg Buhagiar Cassar Farrugia Frendo Gonzi
 		Howard Mifsud Mintoff Mizzi Muscat Olivier Puli Pullicino Strickland Vella }
 	}
+	cisalpine = {
+		color = { 100 210 90}
+		first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Bartolomeo Carlo
+		Cesare Costanzo Davide Domenico Enrico Emanuele Ettore Fabrizio Federico Felice Ferdinando
+		Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leone
+		Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Pier
+		Raffaele Roberto Ruggiero Silvio Simone Ugo Umberto Vincenzo Vittorio }
+		
+		last_names = { Albricci Baldissera Battista Belli Braccini Cadorna Cagni Canevaro Capello
+		Caviglia Ceccherini Calpini Cibrario Cusani Dezza "di Robilant" "di Moncalieri"
+		"d'Aouta" "di Sarzana" Emo Fanti Fara Fontana Gastaldi Giardino Govone "La Màrmora" Mambretti 
+		Morghen Neurone Pallavicino Pecori-Giraldi "Pellion di Persano" Peyron Perruchetti Pianelli Porro
+		Presbitero Ramorino Ricotti Sacchi Saletta Sanna Solari Telesio Vigliardi Zupelli }
+	}
 	
 	union = ITA
 }

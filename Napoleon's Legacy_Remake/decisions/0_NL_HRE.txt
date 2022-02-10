@@ -74,6 +74,7 @@ political_decisions = {
             NOT = {has_country_flag = reintegrate_the_rhineland}
         }
         allow = {
+            revolution_n_counterrevolution = 1
             is_greater_power = yes
             war = no
             owns = 577
@@ -195,7 +196,7 @@ political_decisions = {
             all_core = {
                 owned_by = THIS
             }
-            revolution_n_counterrevolution = 1
+            mass_politics = 1
             is_greater_power = yes
             prestige = 200
             war = no
@@ -228,6 +229,7 @@ political_decisions = {
             NOT = {has_country_flag = expand_netherlands}
         }
         allow = {
+            revolution_n_counterrevolution = 1
             is_greater_power = yes
             war = no
             NET = {
@@ -260,6 +262,7 @@ political_decisions = {
                     owned_by = THIS
                 }
             }
+            revolution_n_counterrevolution = 1
         }
         effect = {
             SWI = {
@@ -280,6 +283,7 @@ political_decisions = {
             NOT = {has_country_flag = expand_belgium}
         }
         allow = {
+            revolution_n_counterrevolution = 1
             is_greater_power = yes
             war = no
             BEL = {
@@ -307,6 +311,7 @@ political_decisions = {
             NOT = {has_country_flag = expand_slovenia}
         }
         allow = {
+            revolution_n_counterrevolution = 1
             is_greater_power = yes
             war = no
             SLO = {

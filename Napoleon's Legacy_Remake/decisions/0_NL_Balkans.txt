@@ -109,8 +109,13 @@ political_decisions = {
                 tag = DLM
                 tag = SER
             }
-            BOS = {ai = yes}
-            BOS = {exists = yes}
+            OR = {
+                AND = {
+                    BOS = {ai = yes}
+                    BOS = {exists = yes}
+                }
+                BOS = {exists = no}
+            }
             YUG = {exists = no}
         }
         allow = {

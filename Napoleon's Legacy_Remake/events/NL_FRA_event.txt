@@ -74,8 +74,9 @@ country_event = {
 	option = {
         name = "Give them Piedmonte !"
         SAR_720 = { secede_province = FROM } 
-		FROM = {SAR_720 = add_core}
-		NIT = {SAR_720 = add_core}
+		SAR_720 = {add_core = FROM}
+		FROM = {add_accepted_culture = cisalpine}
+		SAR_720 = {add_core = NIT}
         badboy = -3
         ai_chance = {
 			factor = 0.5
