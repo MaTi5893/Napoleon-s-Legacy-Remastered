@@ -241,6 +241,7 @@ political_decisions = {
 			any_country = {
 				limit = {
 					is_culture_group = germanic
+					NOT = {tag = PRU}
 					in_sphere = THIS
 					NOT = { tag = AUS tag = KUK }
 					OR = { 

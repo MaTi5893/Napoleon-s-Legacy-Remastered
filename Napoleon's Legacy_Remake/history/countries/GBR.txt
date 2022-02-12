@@ -5,6 +5,8 @@
 capital = 300
 primary_culture = british
 culture=Scotish
+culture=welsh
+culture=cymry
 religion = protestant
 government = democracy
 plurality = 10

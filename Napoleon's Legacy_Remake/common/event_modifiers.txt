@@ -1205,7 +1205,7 @@ french_republic = {
 }
 
 political_bonus_military = {
-	mobilisation_economy_impact = -0.01
+	mobilisation_economy_impact = -0.1
 	army_tech_research_bonus = 0.05
 	navy_tech_research_bonus = -0.05
 	org_regain = 0.05
@@ -1237,7 +1237,7 @@ political_bonus_education = {
 political_bonus_industry = {
 	industry_tech_research_bonus = 0.05
 	culture_tech_research_bonus = -0.05
-	factory_goods_output = 0.05
+	factory_output = 0.05
 	mine_rgo_eff = 0.1
 	farm_rgo_eff = 0.1
 	tax_efficiency = -0.15
@@ -1261,4 +1261,61 @@ emperor_council = {
 	global_assimilation_rate = 0.05
 	tax_efficiency = 0.05
 	icon = 10
+}
+
+emperor_council_disbanded = {
+	land_organisation = -0.05
+	mobilisation_size = -0.02
+	global_pop_militancy_modifier = 0.01
+	global_pop_consciousness_modifier = 0.02
+	global_assimilation_rate = -0.05
+	tax_efficiency = -0.1
+	global_liberal_agitation = 0.01
+	mine_rgo_eff = -0.05
+	farm_rgo_eff = -0.05
+	factory_output = -0.05
+	icon = 10
+}
+
+emperor_council_refused = {
+	land_organisation = -0.1
+	mobilisation_size = -0.03
+	global_pop_militancy_modifier = 0.03
+	global_pop_consciousness_modifier = 0.03
+	global_population_growth = -0.01
+	global_assimilation_rate = -0.1
+	tax_efficiency = -0.1
+	global_liberal_agitation = 0.04
+	mine_rgo_eff = -0.1
+	farm_rgo_eff = -0.1
+	factory_output = -0.1
+	icon = 10
+}
+
+alexandre_reforms_1 = {
+	education_efficiency_modifier = 0.1
+	farm_rgo_eff = 0.1
+	mine_rgo_eff = 0.1
+	tax_efficiency = 0.05
+	commerce_tech_research_bonus = 0.05
+}
+
+alexandre_reforms_2 = {
+	global_assimilation_rate = 0.1
+	global_population_growth = 0.02
+	culture_tech_research_bonus = 0.05
+}
+
+french_education = {
+	assimilation_rate = 0.2
+	pop_militancy_modifier = 0.02
+}
+
+paris_lost = {
+	mobilisation_size = 0.01
+	global_liberal_agitation = 0.01
+	global_pop_consciousness_modifier = 0.02
+	global_pop_militancy_modifier = 0.02
+	global_assimilation_rate = -0.05
+	land_organisation = -0.1
 }

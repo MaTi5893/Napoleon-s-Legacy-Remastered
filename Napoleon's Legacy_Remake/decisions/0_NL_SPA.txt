@@ -221,16 +221,7 @@ political_decisions = {
 	spanish_armada = {
 		picture = spanisharmada
 		potential = {
-			OR = {
-				tag = SPA
-				AND = {
-					tag = FRA
-					has_country_flag = joseph
-					is_core=517
-					is_core=512
-					is_core=474
-				}
-			}
+			tag = SPA
 			NOT = { tech_school = spanish_tech_school }
 		}
 		allow = {

@@ -14,11 +14,11 @@ ROM_fascist;Garda de Fier;;;;Garda de Fier;;;x
 POR_fascist;Movimento Nacional-Sindicalista;;;;Movimento Nacional-Sindicalista;;;x
 IRE_fascist;Chungus Lovers;;;;Amantes de los Chungus;;;x
 IRE_communist;Communist Party of Ireland;;;;Partido Comunista de Irlanda;;;x
-IRE_conservative;Irish Conservative Party;;;;Partido Conservador Irlandés;;;x
+IRE_conservative;Irish Conservative Party;;;;Partido Conservador Irlandï¿½s;;;x
 AST_fascist;New Guard;;;;New Guard;;;x
-SGF_ADJ;South German;;;;Alemán del Sur;;;x
-USA_conservative_2;Bourbon Democrats;;;;Demócratas de Borbón;;;x
-USA_conservative_4;Democrats;;;;Demócratas;;;x
+SGF_ADJ;South German;;;;Alemï¿½n del Sur;;;x
+USA_conservative_2;Bourbon Democrats;;;;Demï¿½cratas de Borbï¿½n;;;x
+USA_conservative_4;Democrats;;;;Demï¿½cratas;;;x
 YUG_fascist;ZBOR;;;;ZBOR;;;x
 YUG_ADJ;Yugoslav;;;;Yugoslava;;;x
 AUS_fascist;Vaterlandische Front;;;;Vaterlandische Front;;;x
@@ -34,16 +34,16 @@ GEO_anarcho_liberal;Sakartvelos Gza;;;;Sakartvelos Gza;;;x
 GEO_socialist;Sakartvelos Leiboristuli;;;;Sakartvelos Leiboristuli;;;x
 GEO_communist;Sakartvelos Komunisturi;;;;Sakartvelos Komunisturi;;;x
 GEO_fascist;Erovnuli Sotsialisturi;;;;Erovnuli Sotsialisturi;;;x
-UKR_conservative;Ukrainian Democratic Agrarian Party;;;;Partido Agrario Democrático de Ucrania;;;x
-UKR_liberal;Ukrainian Democratic Party;;;;Partido Democrático Ucraniano;;;x
+UKR_conservative;Ukrainian Democratic Agrarian Party;;;;Partido Agrario Democrï¿½tico de Ucrania;;;x
+UKR_liberal;Ukrainian Democratic Party;;;;Partido Democrï¿½tico Ucraniano;;;x
 UKR_reactionary;Congress of Landowners;;;;Congreso de Propietarios de Tierras;;;x
 UKR_anarcho_liberal;Ukrainian Radical Party;;;;Partido Radical Ucraniano;;;x
-UKR_socialist;Ukrainian Social Democratic Labour Party;;;;Partido Laborista Socialdemócrata de Ucrania;;;x
+UKR_socialist;Ukrainian Social Democratic Labour Party;;;;Partido Laborista Socialdemï¿½crata de Ucrania;;;x
 UKR_communist;Ukrainian Communist Party;;;;Partido Comunista de Ucrania;;;x
-UKR_fascist;Organization of Ukrainian Nationalists;;;;Organización de Nacionalistas Ucranianos;;;x
-TUN;Tunisia;;;;Túnez;;;x
-TUN_absolute_monarchy;Tunis;;;;Túnez;;;x
-TUN_prussian_constitutionalism;Tunis;;;;Túnez;;;x
+UKR_fascist;Organization of Ukrainian Nationalists;;;;Organizaciï¿½n de Nacionalistas Ucranianos;;;x
+TUN;Tunisia;;;;Tï¿½nez;;;x
+TUN_absolute_monarchy;Tunis;;;;Tï¿½nez;;;x
+TUN_prussian_constitutionalism;Tunis;;;;Tï¿½nez;;;x
 ALB_communist;Partia e Punes e Shqiperise;;;;Partia e Punes e Shqiperise;;;x
 ALB_fascist;Partia Fashiste e Shqiperise;;;;Partia Fashiste e Shqiperise;;;x
 ALB_conservative;Levizja Legalitetit;;;;Levizja Legalitetit;;;x
@@ -54,12 +54,12 @@ BUL_liberal;Balgarski Zemedelski Naroden Sayuz;;;;Balgarski Zemedelski Naroden S
 BUL_anarcho_liberal;Radoslavists;;;;Radoslavists;;;x
 BUL_communist;Balgarska Komunisticheska Partiya;;;;Balgarska Komunisticheska Partiya;;;x
 BUL_conservative;Mladoliberalna Partija-Toncevisti;;;;Mladoliberalna Partija-Toncevisti;;;x
-CAN_socialist;Socialist Party of Canada;;;;Partido Socialista de Canadá;;;x
-CAN_communist;Communist Party of Canada;;;;Partido Comunista de Canadá;;;x
-CAN_conservative;Conservative Party of Canada;;;;Partido Conservador de Canadá;;;x
+CAN_socialist;Socialist Party of Canada;;;;Partido Socialista de Canadï¿½;;;x
+CAN_communist;Communist Party of Canada;;;;Partido Comunista de Canadï¿½;;;x
+CAN_conservative;Conservative Party of Canada;;;;Partido Conservador de Canadï¿½;;;x
 CAN_reactionary;Tories;;;;Conservadores;;;x
 CAN_liberal_1;Red Party;;;;Partido Rojo;;;x
-CAN_liberal_2;Liberal Party of Canada;;;;Partido Liberal de Canadá;;;x
+CAN_liberal_2;Liberal Party of Canada;;;;Partido Liberal de Canadï¿½;;;x
 DAI;Vietnam;;;;Vietnam;;;x
 DAI_communist;Dang Cong san Viet Nam;;;;Dang Cong san Vietnam;;;x
 ENG_communist;Communist Party of Great Britain;;;;Partido Comunista de Gran Bretana;;;x
@@ -96,26 +96,26 @@ GRE_liberal;Ethniko Komma;;;;Ethniko Komma;;;x
 GRE_liberal_2;Neoteristikon Komma;;;;Neoteristikon Komma;;;x
 USA_socialist;Workingmen's Party;;;;Partido de Trabajadores;;;x
 USA_communist;Communist Party USA;;;;Partido Comunista USA;;;x
-USA_fascist;Silver Legion of America;;;;Legión de Plata de América;;;x
+USA_fascist;Silver Legion of America;;;;Legiï¿½n de Plata de Amï¿½rica;;;x
 YUG_reactionary;Jugoslovenska Nacionalna Stranka;;;;Jugoslovenska Nacionalna Stranka;;;x
 YUG_liberal;Samostalna Demokratska Stranka;;;;Samostalna Demokratska Stranka;;;x
 YUG_anarcho_liberal;Narodna Radikalna Stranka;;;;Narodna Radikalna Stranka;;;x
 YUG_communist;Komunisticka Partija Jugoslavije;;;;Komunisticka Partija Jugoslavije;;;x
 YUG_socialist;Socijalisticka Radnicka Partija Jugoslavije;;;;Socijalisticka Radnicka Partija Jugoslavije;;;x 
 YUG_conservative;Jugoslovanska Demokratska Stranka;;;;Jugoslovanska Demokratska Stranka;;;x
-UBD;The United Baltic Provinces;;;;Las Provincias Bálticas Unidas;;;x
-UBD_democracy;The Baltic Union;;;;La Unión Báltica;;;x
-UBD_proletarian_dictatorship;The Baltic Worker's Union;;;;La Unión de Trabajadores del Báltico;;;x
-UBD_fascist;Baltic Fascist Union;;;;Unión Fascista Báltica;;;x
-UBD_communist;Baltic Communist Party;;;;Partido Comunista Báltico;;;x
-UBD_socialist;Union of Baltic Workers and Socialists;;;;Unión de Trabajadores y Socialistas del Báltico;;;x
-UBD_socialist_2;Baltic Labour Party;;;;Partido Laborista Báltico;;;x
+UBD;The United Baltic Provinces;;;;Las Provincias Bï¿½lticas Unidas;;;x
+UBD_democracy;The Baltic Union;;;;La Uniï¿½n Bï¿½ltica;;;x
+UBD_proletarian_dictatorship;The Baltic Worker's Union;;;;La Uniï¿½n de Trabajadores del Bï¿½ltico;;;x
+UBD_fascist;Baltic Fascist Union;;;;Uniï¿½n Fascista Bï¿½ltica;;;x
+UBD_communist;Baltic Communist Party;;;;Partido Comunista Bï¿½ltico;;;x
+UBD_socialist;Union of Baltic Workers and Socialists;;;;Uniï¿½n de Trabajadores y Socialistas del Bï¿½ltico;;;x
+UBD_socialist_2;Baltic Labour Party;;;;Partido Laborista Bï¿½ltico;;;x
 UBD_anarcho_liberals;Radical Party;;;;Partido Radical;;;x
-UBD_liberal_2;The All-Baltic Landtag;;;;El Landtag del Báltico;;;x
-UBD_liberal;Progressive Union;;;;Unión Progresista;;;x
-UBD_conservative_2;Union of Landowners and Farmers;;;;Unión de Terratenientes y Agricultores;;;x
-UBD_reactionary;Royalist Faction;;;;Facción realista;;;x
-UBD_conservative;German Landtag;;;;Landtag alemán;;;x
+UBD_liberal_2;The All-Baltic Landtag;;;;El Landtag del Bï¿½ltico;;;x
+UBD_liberal;Progressive Union;;;;Uniï¿½n Progresista;;;x
+UBD_conservative_2;Union of Landowners and Farmers;;;;Uniï¿½n de Terratenientes y Agricultores;;;x
+UBD_reactionary;Royalist Faction;;;;Facciï¿½n realista;;;x
+UBD_conservative;German Landtag;;;;Landtag alemï¿½n;;;x
 EST_fascist;Vabadussojalased;;;;Vabadussojalased;;;x
 EST_communist;Eestimaa Kommunistlik Partei;;;;Eestimaa Kommunistlik Partei;;;x
 EST_socialist;Eesti Sotsialistlik Tooliste Partei;;;;Eesti Sotsialistlik Tooliste Partei;;;x
@@ -367,13 +367,13 @@ KLM;Kalimantan;;;;Kalimantan;;;x
 KLM_ADJ;Kalimantan;;;;Kalimantan;;;x
 KTI;Kutai;;;;Kutai;;;x
 KTI_ADJ;Kutain;;;;Kutaina;;;x
-KTI_conservative;Royal Faction;;;;Facción Real;;;x
-KTI_liberal;The Liberal Faction;;;;La Facción Liberal;;;x
-KTI_reactionary;The Nationalist Faction;;;;La Facción Nacionalista;;;x
-KTI_anarcho_liberal;The Radical Faction;;;;La Facción Radical;;;x
-KTI_socialist;The Socialist Faction;;;;La Facción Socialista;;;x
-KTI_communist;The Communist Faction;;;;La Facción Comunista;;;x
-KTI_fascist;The Fascist Faction;;;;La Facción Fascista;;;x
+KTI_conservative;Royal Faction;;;;Facciï¿½n Real;;;x
+KTI_liberal;The Liberal Faction;;;;La Facciï¿½n Liberal;;;x
+KTI_reactionary;The Nationalist Faction;;;;La Facciï¿½n Nacionalista;;;x
+KTI_anarcho_liberal;The Radical Faction;;;;La Facciï¿½n Radical;;;x
+KTI_socialist;The Socialist Faction;;;;La Facciï¿½n Socialista;;;x
+KTI_communist;The Communist Faction;;;;La Facciï¿½n Comunista;;;x
+KTI_fascist;The Fascist Faction;;;;La Facciï¿½n Fascista;;;x
 LAN;Lanfang;;;;Lanfang;;;x
 LAN_ADJ;Lanfang;;;;Lanfang;;;x
 LAN_conservative;Conservative Kongsi;;;;Kongsi conservador;;;x
@@ -436,7 +436,7 @@ CZH_fascist;Vlajka;;;;Spanish Loc;;;x
 SLV_fascist;Slovenska Ludova Strana;;;;Spanish Loc;;;x
 BEL_fascist;Parti Rexiste;;;;Spanish Loc;;;x
 YEM_proletarian_dictatorship;People's Republic of Yemen;;;;Spanish Loc;;;x
-PAP;The Roman Kingdom;;;;Reino Romano;;;x
+PAP;The Roman Republic;;;;Reino Romano;;;x
 PAP_ADJ_democracy;Roman;;;;Spanish Loc;;;x
 PAP_ADJ_presidential_dictatorship;Roman;;;;Spanish Loc;;;x
 PAP_ADJ_bourgeois_dictatorship;Roman;;;;Spanish Loc;;;x
@@ -535,24 +535,24 @@ SLW_prussian_constitutionalism;Bone Sultanate;;;;Sultanato de Bone;;;x
 SLW_hms_government;Bone Sultanate;;;;Sultanato de Bone;;;x
 SUL;Sulu;;;;Jolo;;;x
 SUL_ADJ;Sulu;;;;Joloana;;;x
-SUL_conservative;Conservatist Faction;;;;Facción Conservadora;;;x
-SUL_liberal;Reformist Faction;;;;Facción Reformista;;;x
-SUL_socialist;Progressive Faction;;;;Facción Progresista;;;x
-SUL_communist;Communist Faction;;;;Facción Comunista;;;x
-SUL_reactionary;Nationalist Faction;;;;Facción Nacionalista;;;x
-SUL_anarcho_liberal;Radical Faction;;;;Facción Radical;;;x
-SUL_fascist;Fascist Faction;;;;Fracción Fascista;;;x
+SUL_conservative;Conservatist Faction;;;;Facciï¿½n Conservadora;;;x
+SUL_liberal;Reformist Faction;;;;Facciï¿½n Reformista;;;x
+SUL_socialist;Progressive Faction;;;;Facciï¿½n Progresista;;;x
+SUL_communist;Communist Faction;;;;Facciï¿½n Comunista;;;x
+SUL_reactionary;Nationalist Faction;;;;Facciï¿½n Nacionalista;;;x
+SUL_anarcho_liberal;Radical Faction;;;;Facciï¿½n Radical;;;x
+SUL_fascist;Fascist Faction;;;;Fracciï¿½n Fascista;;;x
 SWK;Sarawak;;;;Sarawak;;;x
 SWK_ADJ;Sarawakian;;;;Sarawakiana;;;x
-SWK_fascist_dictatorship;Borneo Republic;;;;República de Borneo;;;x
+SWK_fascist_dictatorship;Borneo Republic;;;;Repï¿½blica de Borneo;;;x
 SWK_fascist_dictatorship_ADJ;Bornean;;;;Borneana;;;x
-SWK_conservative;Rajah Faction;;;;Facción Rajá;;;x
-SWK_liberal;The Liberal Faction;;;;La Facción Liberal;;;x
-SWK_reactionary;The Nationalist Faction;;;;La Facción Nacionalista;;;x
-SWK_anarcho_liberal;The Radical Faction;;;;La Facción Radical;;;x
-SWK_socialist;The Socialist Faction;;;;La Facción Socialista;;;x
-SWK_communist;The Communist Faction;;;;La Facción Comunista;;;x
-SWK_fascist;The Borneo Faction;;;;La Facción de Borneo;;;x
+SWK_conservative;Rajah Faction;;;;Facciï¿½n Rajï¿½;;;x
+SWK_liberal;The Liberal Faction;;;;La Facciï¿½n Liberal;;;x
+SWK_reactionary;The Nationalist Faction;;;;La Facciï¿½n Nacionalista;;;x
+SWK_anarcho_liberal;The Radical Faction;;;;La Facciï¿½n Radical;;;x
+SWK_socialist;The Socialist Faction;;;;La Facciï¿½n Socialista;;;x
+SWK_communist;The Communist Faction;;;;La Facciï¿½n Comunista;;;x
+SWK_fascist;The Borneo Faction;;;;La Facciï¿½n de Borneo;;;x
 SIE;Transylvania;;;;Spanish Loc;;;x
 SIE_ADJ;Transylvanian;;;;Spanish Loc;;;x
 SXI;Shanxi;;;;Spanish Loc;;;x

@@ -131,3 +131,405 @@ country_event = {
 		}
     }
 }
+
+country_event = {
+	id = 600023
+	trigger = {
+		tag = FRA
+		NOT = {year = 1870}
+		NOT = { has_country_flag = republic }
+		NOT = { has_country_modifier = emperor_council }
+		NOT = { has_country_flag = council_disbanded }
+	}
+
+	mean_time_to_happen = {
+		days = 2
+	}
+
+    title = "EVTNAME600023"
+	desc = "EVTDESC600023"
+	picture = "emperor_council"
+
+    option = {
+        name = "The council shall help another 10 years !"
+        any_pop = {
+			militancy=-0.5
+			consciousness=-0.5
+		}
+		add_country_modifier = {
+			name = emperor_council
+			duration = 3650
+		}
+        ai_chance = {
+			factor = 0.5
+    	}
+	}
+	option = {
+        name = "I'm the only one who rule over France !"
+        any_pop = {
+			militancy=0.5
+			consciousness=0.5
+		}
+		add_country_modifier = {
+			name = emperor_council_disbanded
+			duration = 3650
+		}
+        ai_chance = {
+			factor = 0.5
+    	}
+	}
+}
+
+country_event = {
+	id = 600024
+	trigger = {
+		tag = FRA
+		year = 1870
+		NOT = { has_country_flag = republic }
+		NOT = { has_country_flag = council_disbanded }
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+    title = "EVTNAME600024"
+	desc = "EVTDESC600024"
+	picture = "emperor_council"
+    option = {
+        name = "Let the council establish a new republic, we can't risk the consequences of opposing it now..."
+        any_pop = {
+			militancy=-1
+			consciousness=-1
+		}
+		government = democracy
+		add_country_modifier = {
+			name = french_republic
+			duration = -1
+		}
+        ai_chance = {
+			factor = 0.5
+    	}
+	}
+	option = {
+        name = "I'm the only one who rule over France !"
+        any_pop = {
+			militancy=2
+			consciousness=2
+		}
+		add_country_modifier = {
+			name = emperor_council_refused
+			duration = 3650
+		}
+        ai_chance = {
+			factor = 0.5
+    	}
+	}
+}
+
+country_event = {
+	id = 600025
+
+	is_triggered_only = yes
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+    title = "EVTNAME600025"
+	desc = "EVTDESC600025"
+	picture = "culture_1_fra"
+    option = {
+        name = "Accept Catalan and Basque"
+        any_pop = {
+			limite = {
+				OR = {
+					culture = catalan
+					culture = basque
+				}
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		CAT = {
+			all_core = {
+				add_core = FRA
+			}
+		}
+		FRA = {
+			add_accepted_culture = catalan
+			add_accepted_culture = basque
+		}
+        ai_chance = {
+			factor = 0.25
+    	}
+	}
+	option = {
+        name = "Accept Rhenish !"
+        any_pop = {
+			limite = {
+				culture = rhenish
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		RHI = {
+			all_core = {
+				add_core = FRA
+				remove_core = GER
+			}
+		}
+		add_accepted_culture = rhenish
+        ai_chance = {
+			factor = 0.25
+    	}
+	}
+	option = {
+        name = "Accept Cisalpine !"
+        any_pop = {
+			limite = {
+				culture = rhenish
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		add_accepted_culture = cisalpine
+		SAR_720 = {remove_core = ITA}
+		SAR_720 = {add_core = FRA}
+        ai_chance = {
+			factor = 0.25
+    	}
+	}
+	option = {
+        name = "Accept Flemish !"
+        any_pop = {
+			limite = {
+				culture = flemish
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		BEL = {
+			all_core = {
+				add_core = FRA
+			}
+		}
+		add_accepted_culture = flemish
+        ai_chance = {
+			factor = 0.25
+    	}
+	}
+}
+country_event = {
+	id = 600026
+
+	is_triggered_only = yes
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+    title = "EVTNAME600026"
+	desc = "EVTDESC600026"
+	picture = "culture_2_fra"
+    option = {
+        name = "Accept Catalan and Basque"
+        any_pop = {
+			limite = {
+				OR = {
+					culture = catalan
+					culture = basque
+				}
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		CAT = {
+			all_core = {
+				add_core = FRA
+			}
+		}
+		FRA = {
+			add_accepted_culture = catalan
+			add_accepted_culture = basque
+		}
+        ai_chance = {
+			factor = 0.25
+    	}
+	}
+	option = {
+        name = "Accept Rhenish !"
+        any_pop = {
+			limite = {
+				culture = rhenish
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		RHI = {
+			all_core = {
+				add_core = FRA
+				remove_core = GER
+			}
+		}
+		add_accepted_culture = rhenish
+        ai_chance = {
+			factor = 0.25
+    	}
+	}
+	option = {
+        name = "Accept Cisalpine !"
+        any_pop = {
+			limite = {
+				culture = rhenish
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		add_accepted_culture = cisalpine
+		SAR_720 = {remove_core = ITA}
+		SAR_720 = {add_core = FRA}
+        ai_chance = {
+			factor = 0.25
+    	}
+	}
+	option = {
+        name = "Accept Flemish !"
+        any_pop = {
+			limite = {
+				culture = flemish
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		BEL = {
+			all_core = {
+				add_core = FRA
+			}
+		}
+		add_accepted_culture = flemish
+        ai_chance = {
+			factor = 0.25
+    	}
+	}
+}
+country_event = {
+	id = 600027
+
+	is_triggered_only = yes
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+    title = "EVTNAME600027"
+	desc = "EVTDESC600027"
+	picture = "culture_3_fra"
+    option = {
+        name = "Accept Catalan and Basque"
+        any_pop = {
+			limite = {
+				OR = {
+					culture = catalan
+					culture = basque
+				}
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		CAT = {
+			all_core = {
+				add_core = FRA
+			}
+		}
+		FRA = {
+			add_accepted_culture = catalan
+			add_accepted_culture = basque
+		}
+        ai_chance = {
+			factor = 0.25
+    	}
+	}
+	option = {
+        name = "Accept Rhenish !"
+        any_pop = {
+			limite = {
+				culture = rhenish
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		RHI = {
+			all_core = {
+				add_core = FRA
+				remove_core = GER
+			}
+		}
+		add_accepted_culture = rhenish
+        ai_chance = {
+			factor = 0.25
+    	}
+	}
+	option = {
+        name = "Accept Cisalpine !"
+        any_pop = {
+			limite = {
+				culture = rhenish
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		add_accepted_culture = cisalpine
+		SAR_720 = {remove_core = ITA}
+		SAR_720 = {add_core = FRA}
+        ai_chance = {
+			factor = 0.25
+    	}
+	}
+	option = {
+        name = "Accept Flemish !"
+        any_pop = {
+			limite = {
+				culture = flemish
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		BEL = {
+			all_core = {
+				add_core = FRA
+			}
+		}
+		add_accepted_culture = flemish
+        ai_chance = {
+			factor = 0.25
+    	}
+	}
+}
+
+country_event = {
+	id = 600028
+
+	trigger = {
+		tag = FRA
+		NOT = {FRA = {controls = 425}}
+		NOT = { has_country_flag = paris_lost }
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+    title = "EVTNAME600028"
+	desc = "EVTDESC600028"
+	picture = "paris_occupied"
+	option = {
+        name = "Sacrebleu !"
+		FRA = {
+			add_country_modifier = {
+				name = paris_lost
+				duration = 1825
+			}
+		}
+		FRA = {set_country_flag = paris_lost}
+    }
+}

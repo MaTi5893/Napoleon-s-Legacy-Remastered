@@ -289,9 +289,11 @@ political_decisions = {
 	annex_german_minor = {
 		potential = {
 			OR = {
-				tag=BLE
+				tag = BLE
 				tag = SCA
 				tag = HRO
+				tag = PRU
+				tag = HAN
 			}
 			accepted_culture = north_german
 			any_sphere_member = {

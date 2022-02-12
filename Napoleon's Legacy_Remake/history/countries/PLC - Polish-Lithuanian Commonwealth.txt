@@ -36,6 +36,7 @@ upper_house = {
 	socialist = 0
 	communist = 0
 }
+
 # Technologies
 post_napoleonic_thought = 1
 flintlock_rifles = 1
@@ -62,16 +63,17 @@ publishing_industry = 1
 mechanized_mining = 1
 experimental_railroad = 1
 basic_chemistry = 1
-stock_exchange = 1
 ad_hoc_money_bill_printing = 1
 market_structure = 1
-romanticism = 1
 practical_steam_engine = 1
 mechanical_production = 1
 ideological_thought = 1 
 
 #Inventions
-#corvettes = yes
-commerce_raiders = yes
+# Starting Consciousness
+consciousness = 2
+nonstate_consciousness = 2
+
+schools = army_tech_school
 
 oob = "PLC_oob.txt"
