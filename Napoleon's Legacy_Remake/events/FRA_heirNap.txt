@@ -19,6 +19,7 @@ country_event = {
 	}
 	title = "EVTNAME600013"
 	desc = "EVTDESC600013"
+	picture = "napoleon_death"
 	option = {
 		name = "King Joseph Bonaparte of Spain !"	
 		add_country_modifier = {
@@ -64,14 +65,15 @@ country_event = {
 
     title = "EVTNAME600017"
 	desc = "EVTDESC600017"
+	picture = "napoleon_death"
     mean_time_to_happen = {
 		days = 0
 	}
 	option = {
 		name = "It's time for a Republic !"	
 		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
+			name = french_republic
+			duration = -1
 		}
 		government = democracy
         FRA = {set_country_flag = republic}
@@ -119,6 +121,7 @@ country_event = {
 	}
 	title = "EVTNAME600018"
 	desc = "EVTDESC600018"
+	picture = "napoleon_death"
 	option = {
 		name = "King Joseph Bonaparte of Spain !"	
 		add_country_modifier = {
@@ -142,8 +145,8 @@ country_event = {
 	option = {
 		name = "It's time for a Republic !"	
 		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
+			name = french_republic
+			duration = -1
 		}
 		government = democracy
         FRA = {set_country_flag = republic}
@@ -186,6 +189,7 @@ country_event = {
 	}
 	title = "EVTNAME600019"
 	desc = "EVTDESC600019"
+	picture = "napoleon_death"
 	option = {
 		name = "Louis Bonaparte !"	
 		add_country_modifier = {
@@ -211,8 +215,8 @@ country_event = {
 	option = {
 		name = "It's time for a Republic !"	
 		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
+			name = french_republic
+			duration = -1
 		}
 		government = democracy
         FRA = {set_country_flag = republic}
@@ -256,6 +260,7 @@ country_event = {
 	}
 	title = "EVTNAME600020"
 	desc = "EVTDESC600020"
+	picture = "napoleon_death"
 	option = {
 		name = "Louis Bonaparte !"	
 		add_country_modifier = {
@@ -270,8 +275,8 @@ country_event = {
 	option = {
 		name = "It's time for a Republic !"	
 		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
+			name = french_republic
+			duration = -1
 		}
 		government = democracy
         FRA = {set_country_flag = republic}

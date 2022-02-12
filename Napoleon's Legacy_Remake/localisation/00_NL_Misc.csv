@@ -112,3 +112,17 @@ italian_greece_desc;The Greek and Roman shared a lot in common and greece was a 
 italian_tech_school;Italian Heritage;;;;;;;x
 release_vassals_title;Should we release vassals ?;;;;;;;x
 cisalpine;Cisalpine;;;;;;;x
+french_republic;French Republic;;;;;;;x
+french_republic_desc;We have to deal with the consequences of Napoleon Death;;;;;;;x
+political_bonus_military;Military Focus;;;;;;;x
+political_bonus_military_desc;We choose the military focus for our nation !;;;;;;;x
+political_bonus_navy;Navy Focus;;;;;;;x
+political_bonus_navy_desc;We choose the navy focus for our nation !;;;;;;;x
+political_bonus_industry;Industry Focus;;;;;;;x
+political_bonus_industry_desc;We choose the industry focus for our nation !;;;;;;;x
+political_bonus_education;Education Focus;;;;;;;x
+political_bonus_education_desc;We choose the education focus for our nation !;;;;;;;x
+political_bonus_immigration;Immigration Focus;;;;;;;x
+political_bonus_immigration_desc;We choose the immigration focus for our nation !;;;;;;;x
+emperor_council;Emperor's council;;;;;;;x
+emperor_council_desc;As the emperor Napoleon felt into madness, his best generals and wife decided to create a presonnal council to make sure the country was running. With time, it grew in power and now the emperor's political power is a shadow of what it was.;;;;;;;x

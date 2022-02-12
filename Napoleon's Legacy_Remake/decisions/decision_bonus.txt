@@ -1,0 +1,18 @@
+political_decisions = {
+    political_bonus = {
+        picture = political_bonus_decision
+        potential = {
+            NOT = {has_country_modifier = political_bonus_military}
+            NOT = {has_country_modifier = political_bonus_navy}
+            NOT = {has_country_modifier = political_bonus_education}
+            NOT = {has_country_modifier = political_bonus_industry}
+            NOT = {has_country_modifier = political_bonus_immigration}
+        }
+        allow = {
+            war = no
+        }
+        effect = {
+            country_event = {id = 600022 days = 0}
+        }
+    }
+}

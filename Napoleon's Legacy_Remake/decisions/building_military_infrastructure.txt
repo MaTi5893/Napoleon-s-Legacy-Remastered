@@ -2,8 +2,7 @@ political_decisions = {
 	build_port_upto_level_1 = {
 		alert = no
 		picture = beiyang_fleet
-		potential = {	
-
+		potential = {
 			post_nelsonian_thought = 1
 			NOT = { battleship_column_doctrine = 1 }
 			NOT = { raider_group_doctrine = 1 }
