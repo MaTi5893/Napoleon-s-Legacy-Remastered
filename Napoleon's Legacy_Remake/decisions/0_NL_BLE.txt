@@ -332,25 +332,20 @@ political_decisions = {
 		allow = {
 			war = no
 			revolution_n_counterrevolution = 1
-			owns = 566
-			owns = 584
-			owns = 582
-			owns = 538
-			owns = 542
-			owns = 543
-			owns = 540
-			owns = 541
+			RHI = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
 		}
 		effect = {
-			add_core = 566
-			add_core = 584
-			add_core = 582
-			add_core = 538
-			add_core = 542
-			add_core = 543
-			add_core = 540
-			add_core = 541
-			prestige = 6
+			add_accepted_culture = rhenish
+			RHI = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			prestige = 20
 			set_country_flag = past_the_rhine
 		}
 	}

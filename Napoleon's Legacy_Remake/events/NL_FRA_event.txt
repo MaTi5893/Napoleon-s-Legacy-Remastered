@@ -104,7 +104,7 @@ country_event = {
         any_pop = {
 		limit = {
 			OR = { 
-                has_pop_culture = north_italian
+                has_pop_culture = cisalpine
 			}
 		}
 		militancy = 2
