@@ -3639,7 +3639,7 @@
 #Nice (Sardinian until 1860) (170800/42700 POPS)
 472 = {
 	aristocrats = {
-		culture = north_italian
+		culture = occitan
 		religion = catholic
 		size = 200
 	}
@@ -3650,7 +3650,7 @@
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = occitan
 		religion = catholic
 		size = 200
 	}
@@ -3661,7 +3661,7 @@
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = occitan
 		religion = catholic
 		size = 4000
 	}
@@ -3672,7 +3672,7 @@
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = occitan
 		religion = catholic
 		size = 600
 	}
@@ -3683,7 +3683,7 @@
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = occitan
 		religion = catholic
 		size = 20000
 	}

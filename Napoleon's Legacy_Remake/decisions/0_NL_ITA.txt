@@ -48,6 +48,30 @@ political_decisions = {
 		}
 	}
 
+	accept_cisalpine = {
+		picture = piedmonte_decision
+		potential = {
+			OR = {
+				tag = PAP
+				tag = NIT
+				tag = ITA
+			}
+			NOT = {accepted_culture = cisalpine}
+		}
+		allow = {
+			SAR_720 = {owned_by = THIS}
+			war = no
+			all_core = {
+				owned_by = THIS
+			}
+			state_n_government = 1
+		}
+		effect = {
+			prestige = 10
+			add_accepted_culture = cisalpine
+		}
+	}
+
 	occitan_expansion = {
 		picture = occitan_decision
 		potential = {
@@ -131,7 +155,7 @@ political_decisions = {
 				tag = NIT
 			}
 			ITA = {exists = no}
-			NOT = {has_global_flag = get_rome}
+			NOT = {has_country_flag = get_rome}
 			NOT = {has_country_flag = occitan_expansion}
 			NOT = {has_country_flag = unite_with_greece}
 		}
@@ -140,6 +164,7 @@ political_decisions = {
 			owns = 749
 		}
 		effect = {
+			catpial = 749
 			add_accepted_culture = south_italian
 			add_accepted_culture = north_italian
 			prestige = 10
@@ -152,7 +177,7 @@ political_decisions = {
 				name = rome
 				duration = 3650
 			}
-			set_global_flag = get_rome
+			set_country_flag = get_rome
 		}
 	}
 
@@ -180,7 +205,12 @@ political_decisions = {
 	unite_north_italy = {
 		picture = north_italy_decision
 		potential = {
-			primary_culture = north_italian
+			OR = {
+				primary_culture = north_italian
+				accepted_culture = north_italian
+				
+			}
+			NOT = {tag = FRA}
 			ITA = {exists = no}
 			NIT = {exists = no}
 			NOT = {tag = NIT}
@@ -215,6 +245,7 @@ political_decisions = {
                 }
                 annex_to = THIS
             }
+			add_accepted_culture = cisalpine
 			change_tag = NIT
 		}
 	}

@@ -339,6 +339,7 @@ political_decisions = {
 			capital = 749
 			add_accepted_culture = north_italian
 			add_accepted_culture = south_italian
+			add_accepted_culture = cisalpine
 			any_country = {
 				limit = {
 					is_culture_group = italian
