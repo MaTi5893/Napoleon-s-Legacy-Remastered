@@ -371,6 +371,7 @@ political_decisions = {
 			}
 			NOT = {has_country_flag = occitan_expansion}
 			NOT = {has_country_flag = unite_with_greece}
+			NOT = {has_country_flag = forza_italia}
 		}
 		allow = {
 			war = no
@@ -386,6 +387,7 @@ political_decisions = {
 					duration = 3650
 				}
 			}
+			set_country_flag = forza_italia
 			prestige = 20
 		}
 	}

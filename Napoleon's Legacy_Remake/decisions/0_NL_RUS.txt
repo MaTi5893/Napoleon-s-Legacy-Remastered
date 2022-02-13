@@ -127,12 +127,30 @@ political_decisions = {
 			war = no
 			UKR = {
 				all_core = {
-					owned_by = THIS
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								vassal_of = THIS
+								in_sphere = THIS
+							}
+						}
+					}
 				} 
 			}
 			revolution_n_counterrevolution=1
 		}
 		effect = {
+			any_country = {
+				limit = {
+					primary_culture = ukrainian
+					OR = {
+						vassal_of = THIS
+						in_sphere = THIS
+					}
+				}
+				annex_to = THIS
+			}
 			add_accepted_culture = ukrainian
 			prestige = 12
 		}

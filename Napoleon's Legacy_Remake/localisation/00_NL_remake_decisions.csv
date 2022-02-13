@@ -110,8 +110,6 @@ domination_of_western_mediterranean_see_title;Expand our influence in the wester
 domination_of_western_mediterranean_see_desc;The withdrawal of the British in the western Mediterranean Sea created a power vacuum in the region and we must be the one to fill it!;;;;La retirada de los brit�nicos en el Mediterr�neo occidental cre� un vac�o de poder en la regi�n y debemos ser nosotros quienes lo llenemos.;;;x
 expension_in_southern_italy_title;Expand in Southern Italy;;;;Expansi�n en el sur de Italia;;;x
 expension_in_southern_italy_desc;Now that we have secured a hold in Sicily and reestablished ourselves as a regional power, we should expand this influence in southern Italy and seize what was once a part of the glorious Spanish Empire!;;;;Ahora que nos hemos asegurado un dominio en Sicilia y nos hemos restablecido como potencia regional, deber�amos ampliar esta influencia en el sur de Italia y apoderarnos de lo que una vez fue parte del glorioso Imperio Espa�ol.;;;x
-glory_to_the_spanish_empire_title;Glory to the Spanish Empire!;;;;�Gloria al imperio espa�ol!;;;x
-glory_to_the_spanish_empire_desc;Now that we have recovered all of our lost provinces in south Italy, we can reestablish the Spanish Empire!;;;;Ahora que hemos recuperado todas nuestras provincias perdidas en el sur de Italia, �podemos restablecer el Imperio Espanol!;;;x
 ask_france_catalonia_title;Ask for Catalonia;;;;Pedir Catalu�a;;;x
 ask_france_catalonia_desc;Now that we have peaceful relations with France and that we are a power to be reckoned with, we should ask for France to give back Catalonia;;;;Ahora que tenemos relaciones pac�ficas con Francia y que somos una potencia a tener en cuenta, deber�amos pedir que Francia devuelva Cataluna;;;x
 form_iberia_title;Unite Iberia!;;;;�Unir Iberia!;;;x
@@ -119,7 +117,7 @@ form_iberia_desc;Now that we are united with Portugal and that we have reclaimed
 expand_citizenship1_title;Give citizenship to the Caraibes;;;;Dar la ciudadan�a a los Caribe�os;;;x
 expand_citizenship1_desc;The Caraibes have been a part of Spain since the beginning of the 16th century and it was the place we began our glorious colonial empire from. Now, it's time to make these great islands a part of the Metropolie;;;;Las islas caribe�as forman parte de Espa�a desde principios del siglo XVI y desde ellas iniciamos nuestro glorioso imperio colonial. Ahora, ha llegado el momento de que estas grandes islas formen parte de la Metropoli.;;;x
 expand_citizenship2_title;Grant citizenship to the Phillipines;;;;Conceder la ciudadan�a a los filipinos;;;x
-expand_citizenship2_desc;Now that Iberia has been united, let's continue this propagation of citizenship to our last asian colonies, the Phillipines.;;;;Ahora que Iberia se ha unido, continuemos esta propagaci�n de la ciudadan�a a nuestras �ltimas colonias asi�ticas, las Filipinas.;;;x
+expand_citizenship2_desc;Now that Caraibes has been accepted, let's continue this propagation of citizenship to our last asian colonies, the Phillipines.;;;;Ahora que Iberia se ha unido, continuemos esta propagaci�n de la ciudadan�a a nuestras �ltimas colonias asi�ticas, las Filipinas.;;;x
 spanish_armada_title;Reestablish the Spanish Armada;;;;Restablecer la Armada Espa�ola;;;x
 spanish_armada_desc;With the British fleet being divided there's place for the Spanish Armada to reestablish itself as one the strongest fleet in the world;;;;Con la flota brit�nica dividida hay lugar para que la Armada Espa�ola se restablezca como una de las flotas m�s fuertes del mundo;;;x
 stop_usa_expansion_title;We must stop USA's expansion;;;;Debemos detener la expansi�n de EE.UU.;;;x
@@ -389,3 +387,9 @@ improve_france_2_title;Alexandre Peoples Reforms;;;;;;;x
 improve_france_2_desc;To continue his reforms, he axed the new ones on the life of the people as population is stagnating in France while its exploding in the other parts of Europe;;;;;;;x
 north_german_question_title;The North German Question;;;;;;;x
 north_german_question_desc;It's time to teach the french way to those german to further their integration inside the empire !;;;;;;;x
+expand_citizenship2_ibr_title;Grant citizenship to the Phillipines;;;;Conceder la ciudadan�a a los filipinos;;;x
+expand_citizenship2_ibr_desc;Now that Iberia has been united, let's continue this propagation of citizenship to our last asian colonies, the Phillipines.;;;;Ahora que Iberia se ha unido, continuemos esta propagaci�n de la ciudadan�a a nuestras �ltimas colonias asi�ticas, las Filipinas.;;;x
+glory_to_the_spanish_empire_dutch_title;Glory to the Spanish Empire!;;;;�Gloria al imperio espa�ol!;;;x
+glory_to_the_spanish_empire_dutch_desc;We have reclaim our long lost land in the Netherlands , we can reestablish the Spanish Empire!;;;;Ahora que hemos recuperado todas nuestras provincias perdidas en el sur de Italia, �podemos restablecer el Imperio Espanol!;;;x
+glory_to_the_spanish_empire_italy_title;Glory to the Spanish Empire!;;;;�Gloria al imperio espa�ol!;;;x
+glory_to_the_spanish_empire_italy_desc;Now that we have recovered all of our lost provinces in south Italy and Milan, we can reestablish the Spanish Empire!;;;;Ahora que hemos recuperado todas nuestras provincias perdidas en el sur de Italia, �podemos restablecer el Imperio Espanol!;;;x

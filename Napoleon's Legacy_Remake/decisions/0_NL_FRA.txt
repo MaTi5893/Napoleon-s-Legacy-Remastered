@@ -219,6 +219,7 @@ political_decisions = {
 			accepted_culture = rhenish
 		}
 		allow = {
+			is_greater_power = yes
 			nationalism_n_imperialism = 1
 			market_structure = 1
 			organized_factories = 1
@@ -295,12 +296,12 @@ political_decisions = {
 		picture = north_italy_decision
 		potential = {
 			tag = FRA
-			is_greater_power = yes
 			ITA = {exists = no}
 			NIT = {exists = no}
 			NOT = {has_country_flag = unite_north_italy_gp}
 		}
 		allow = {
+			is_greater_power = yes
 			war = no
 			NIT = {
 				all_core = {
@@ -322,6 +323,7 @@ political_decisions = {
                 limit = {
                     primary_culture = north_italian
                     ai = yes
+					NOT = {tag = LOM}
                     OR = {
                         in_sphere = THIS
                         vassal_of = THIS
@@ -334,14 +336,15 @@ political_decisions = {
 					is_core = NIT
 					NOT = {is_core = THIS}
 				}
-				secede_province = NIT
+				secede_province = LOM
 			}
-            create_vassal = NIT
-            create_alliance = NIT
+            create_vassal = LOM
+            create_alliance = LOM
             diplomatic_influence = {
-                who = NIT
+                who = LOM
                 value = 300
             }
+			LOM = {change_tag = NIT}
 			set_country_flag = unite_north_italy_gp
 		}
 	}
@@ -385,7 +388,7 @@ political_decisions = {
 			NOT = {accepted_culture = cisalpine}
 		}
 		allow = {
-			SAR_720 = {owned_by ) THIS}
+			SAR_720 = {owned_by = THIS}
 			nationalism_n_imperialism = 1
 			war = no
 		}
@@ -403,7 +406,6 @@ political_decisions = {
 			tag = FRA
 			ITA = {exists = no}
 			has_country_flag = maximilien
-			accepted_culture = cisalpine
 			NOT = {accepted_culture = north_italian}
 		}
 		allow = {
@@ -423,6 +425,7 @@ political_decisions = {
 					}
 				}
 			}
+			is_greater_power = yes
 			revolution_n_counterrevolution = 1
 			war = no
 		}
