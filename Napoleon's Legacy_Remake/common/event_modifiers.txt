@@ -1161,10 +1161,12 @@ north_italy = {
 }
 
 napoleon_death ={
-	prestige = -0.1
+	prestige = -0.02
 	mobilisation_size = -0.01
-	pop_militancy_modifier = 0.01
+	global_pop_militancy_modifier = 0.01
 	army_tech_research_bonus = -0.05
+	diplomatic_points_modifier = -0.05
+	land_organisation = -0.05
 }
 
 rome ={
@@ -1260,6 +1262,7 @@ emperor_council = {
 	global_pop_consciousness_modifier = -0.01
 	global_assimilation_rate = 0.05
 	tax_efficiency = 0.05
+	diplomatic_points_modifier = 0.05
 	icon = 10
 }
 
