@@ -192,20 +192,28 @@ leader = {
 	background = attack_1.1
 }
 leader = {
-	name = "Louis Baraguey d'Hilliers"
+	name = "Napoleon Suchet"
 	#picture = fra_gen_baraguey
 	date = 1836.1.1
 	type = land
-	personality = defence_1.1
-	background = attack_1.1
+	personality = defence_2.3
+	background = attack_3.2
 }
 leader = {
-	name = "Charles Baudin"
+	name = "Napoleon Alexandre Berthier"
 	#picture = fra_adm_baudin
 	date = 1836.1.1 #1838
 	type = sea
-	personality = defence_1.1
-	background = attack_1.1
+	personality = defence_2.3
+	background = attack_2.4
+}
+leader = {
+	name = "Michel Louis Felix Ney"
+	#picture = fra_adm_baudin
+	date = 1803.1.1 #1838
+	type = sea
+	personality = defence_2.1
+	background = attack_2.1
 }
 
 army = {

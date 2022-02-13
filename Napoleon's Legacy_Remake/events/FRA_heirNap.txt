@@ -33,7 +33,7 @@ country_event = {
 		create_vassal = SPA
 	}
 	option = {
-		name = "Louis Bonaparte !"	
+		name = "Louis Bonaparte of the Netherlands!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459

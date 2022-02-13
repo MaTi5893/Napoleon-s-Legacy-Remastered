@@ -23,7 +23,7 @@ political_decisions = {
 			}
 		}
 		ai_will_do = {
-			factor = 0.5
+			factor = 0
 		}
 	}
     tur_sphere_egy = {
@@ -50,7 +50,7 @@ political_decisions = {
 			}
 		}
 		ai_will_do = {
-			factor = 0.25
+			factor = 0
 		}
 	}
     russia_sphere_egy = {
@@ -77,7 +77,7 @@ political_decisions = {
 			}
 		}
 		ai_will_do = {
-			factor = 0.25
+			factor = 0
 		}
 	}
 }
