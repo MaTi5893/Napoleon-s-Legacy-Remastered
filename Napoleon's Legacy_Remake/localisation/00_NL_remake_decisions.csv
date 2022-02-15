@@ -172,8 +172,6 @@ lithuanian_question_title;The Lithuanian Question.;;;;La cuesti�n lituana.;;;x
 lithuanian_question_desc;We claim to be the Baltic Empire but don't even protect every Baltic culture. It's our destiny to do so and we must protect the Lithuanians!;;;;Pretendemos ser el Imperio B�ltico pero ni siquiera protegemos todas las culturas b�lticas. �Es nuestro destino hacerlo y debemos proteger a los lituanos!;;;x
 acceptance_of_north_german_title;Acceptance of the North Germanic People!;;;;�Aceptaci�n de los pueblos germ�nicos del norte!;;;x
 acceptance_of_north_german_desc;Scandinavia and North Germany often sounds like it's the same place. Now, we're making it official!;;;;Escandinavia y el norte de Alemania a menudo suenan como si fueran el mismo lugar. Ahora, �lo hacemos oficial!;;;x
-annex_danzig_title;The Annexation of Danzig;;;;;Anexi�n de Danzig;;;x
-annex_danzig_desc;The city-state of Danzig is a valuable port within the Baltic sea. It's time to put pressure on their government, either with diplomacy or military force, to claim it into our Empire!;;;;La ciudad-estado de Danzig es un valioso puerto en el mar B�ltico. Es hora de presionar a su gobierno, ya sea con la diplomacia o por la fuerza militar, para reclamarla para nuestro Imperio.;;;x
 form_nwe_title;We are the Norwegian Empire!;;;;�Somos el Imperio Noruego!;;;x
 form_nwe_desc;Since the fall of the Viking North Sea Empire in the 11 century, we were looked at with despise and we even lost our naval supremacy. It's time to show to the world the heritage of the Viking!;;;;Desde la ca�da del Imperio Vikingo del Mar del Norte en el siglo XI, se nos mir� con desprecio e incluso perdimos nuestra supremac�a naval. �Es hora de mostrar al mundo la herencia de los vikingos!;;;x
 claim_england_title;Claim England!;;;;�Reclamar a Inglaterra!;;;x
@@ -409,3 +407,7 @@ ask_holstein_title;Ask For Holstein;;;;;;;x
 ask_holstein_desc;Holstein is a legitimate territory, we should ask for itsays;;;;;;;x
 ask_malta_title;Ask For Malta;;;;;;;x
 ask_malta_desc;Malta is a legitimate territory, we should ask for itsays;;;;;;;x
+ask_stralsund_title;Ask Stralsund;;;;;;;
+ask_stralsund_desc;Stralsund is germand and should be ours !;;;;;;;
+ask_lubeck_title;Ask Lubeck;;;;;;;
+ask_lubeck_desc;Lubeck is germand and should be ours !;;;;;;;

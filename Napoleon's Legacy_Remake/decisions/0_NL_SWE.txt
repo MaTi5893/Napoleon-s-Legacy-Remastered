@@ -50,32 +50,4 @@ political_decisions = {
 			prestige = 5
 		}
 	}
-
-	annex_danzig = {
-		picture = danzig_decision
-        potential = {
-			OR = {
-				tag = SWE
-				tag = SCA
-				tag = PRU
-				tag = PLC
-			}
-			NOT = {has_country_flag=annex_danzig}
-		}
-		allow = {
-			war = no
-			DZG = {
-				OR = {
-					vassal_of = THIS
-					in_sphere = THIS
-				}
-			}
-		}
-		effect = {
-			add_core = 690
-			DZG = {annex_to = THIS}
-			prestige =5
-			set_country_flag = annex_danzig 
-		}
-    }
 }

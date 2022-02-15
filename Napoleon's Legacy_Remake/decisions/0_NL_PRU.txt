@@ -19,6 +19,7 @@ political_decisions = {
 			RUS_706 = {
 				add_core = THIS
 			}
+			badboy = 4
 		}
 	}
 	
@@ -34,30 +35,27 @@ political_decisions = {
 		}
 		effect = {
 			set_country_flag = greater_prussia
-			687 = {
-				add_core = THIS
-			}
-			556 = {
-				add_core = THIS
-			}
-			554 = {
-				add_core = THIS
-			}
-			548 = {
-				add_core = THIS
-			}
+			MEC_545 = {add_core = THIS}
+			PRU_546 = {add_core = THIS}
+			badboy = 4
 		}
 	}
 	
 	the_danzig_coup = {
 		picture = become_danzig
 		potential = {
-			tag = PRU
+			OR = {
+				tag = SWE
+				tag = SCA
+				tag = PRU
+				tag = PLC
+			}
 			NOT = { has_country_flag = danzig_coup }
 			DZG = { exists = yes }
 			NOT = { year = 1870 }
 		}
 		allow = {
+			state_n_government = 1
 			is_greater_power = yes
 			DZG = {
 				in_sphere = THIS
@@ -73,13 +71,13 @@ political_decisions = {
 		potential = {
 			tag = PRU
 			NOT = {has_country_flag = declaration_an_mein_volk}
-			#NOT = {
-			#	OR = {
-			#		NGF = exists
-			#		GER = exists
-			#		HRO = exists
-			#	}
-			#}
+			NOT = {
+				OR = {
+					NGF = exists
+					GER = exists
+					HRO = exists
+				}
+			}
 		}
 		allow = {
 			state_n_government = 1
@@ -96,6 +94,52 @@ political_decisions = {
 				duration = 3650
 			}
 			set_country_flag = declaration_an_mein_volk
+		}
+	}
+
+	ask_stralsund = {
+		picture = stralsund_decision
+		potential = {
+			OR = {
+				primary_culture = north_german
+				accepted_culture = north_german
+			}
+			ai = no
+			NOT = { has_country_flag = ask_stralsund }
+			NOT = {548 = {owned_by = THIS}}
+		}
+		allow = {
+			war=no
+		}
+		effect = {
+			prestige = 5
+			548 = {
+				owner = {country_event = 600031}
+			}
+			set_country_flag=ask_stralsund
+		}
+	}
+
+	ask_lubeck = {
+		picture = lubeck_decision
+		potential = {
+			OR = {
+				primary_culture = north_german
+				accepted_culture = north_german
+			}
+			ai = no
+			NOT = { has_country_flag = ask_lubeck }
+			NOT = {530 = {owned_by = THIS}}
+		}
+		allow = {
+			war=no
+		}
+		effect = {
+			prestige = 5
+			530 = {
+				owner = {country_event = 600032}
+			}
+			set_country_flag=ask_lubeck
 		}
 	}
 }

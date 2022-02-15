@@ -5,7 +5,7 @@ country_event = {
 
     is_triggered_only = yes
 
-option = {
+    option = {
         name = "Give them Catalonia !"
         SPA_498 = { secede_province = SPA } 
         badboy = -3
@@ -29,19 +29,19 @@ option = {
             }
 		}
     }
-option = {
+    option = {
         name = "Catalonia will stay in the french empire!"
         prestige =5
         any_pop = {
-		limit = {
-			OR = { 
-				has_pop_culture = catalan
-                		has_pop_culture = spanish
-			}
-		}
-		militancy = 2
-		consciousness = 2
-	}
+            limit = {
+                OR = { 
+                    has_pop_culture = catalan
+                            has_pop_culture = spanish
+                }
+            }
+            militancy = 2
+            consciousness = 2
+        }
 		ai_chance = {
 			factor = 0.5
     		modifier = {
@@ -102,16 +102,16 @@ country_event = {
         name = "Piedmonte will stay in the french empire!"
         prestige =5
         any_pop = {
-		limit = {
-			OR = { 
-                has_pop_culture = cisalpine
-			}
-		}
-		militancy = 2
-		consciousness = 2
-	}
-	ai_chance = {
-		factor = 0.5
+            limit = {
+                OR = { 
+                    has_pop_culture = cisalpine
+                }
+            }
+            militancy = 2
+            consciousness = 2
+        }
+	    ai_chance = {
+		    factor = 0.5
     		modifier = {
             	factor = 0.25
             	relation = { who = FROM value = -50 }
@@ -139,7 +139,7 @@ country_event = {
 
     is_triggered_only = yes
 
-option = {
+    option = {
         name = "Give them Matla !"
         ENG_854 = { secede_province = FROM } 
         badboy = -3
@@ -163,18 +163,18 @@ option = {
             }
 		}
     }
-option = {
+    option = {
         name = "Malta will stay in the french empire!"
         prestige =5
         any_pop = {
-		limit = {
-			OR = { 
-				has_pop_culture = maltese
-			}
-		}
-		militancy = 2
-		consciousness = 2
-	}
+            limit = {
+                OR = { 
+                    has_pop_culture = maltese
+                }
+            }
+            militancy = 2
+            consciousness = 2
+        }
 		ai_chance = {
 			factor = 0.5
     		modifier = {
@@ -204,7 +204,7 @@ country_event = {
 
     is_triggered_only = yes
 
-option = {
+    option = {
         name = "Give them Holstein !"
         HOL_369 = { secede_province = FROM } 
         badboy = -3
@@ -228,18 +228,148 @@ option = {
             }
 		}
     }
-option = {
+    option = {
         name = "Holstein will stay !"
         prestige =5
         any_pop = {
-		limit = {
-			OR = { 
-				has_pop_culture = north_german
-			}
+            limit = {
+                OR = { 
+                    has_pop_culture = north_german
+                }
+            }
+            militancy = 2
+            consciousness = 2
+        }
+		ai_chance = {
+			factor = 0.5
+    		modifier = {
+                factor = 0.25
+                relation = { who = FROM value = -50 }
+            }
+            modifier = {
+              	factor = 0.5
+                relation = { who = FROM value = -100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = FROM value = -150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = FROM value = -200 }
+            }
 		}
-		militancy = 2
-		consciousness = 2
-	}
+    }
+}
+
+country_event = {
+	id = 600031
+    title = "EVTNAME600031"
+	desc = "EVTDESC600031"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "Give them Stralsund !"
+        548 = { secede_province = FROM } 
+        badboy = -3
+        ai_chance = {
+			factor = 0.5
+            modifier = {
+                factor = 0.25
+                relation = { who = FROM value = 50 }
+            }
+            modifier = {
+                factor = 0.5
+                relation = { who = FROM value = 100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = FROM value = 150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = FROM value = 200 }
+            }
+		}
+    }
+    option = {
+        name = "Stralsund will stay !"
+        prestige =5
+        any_pop = {
+            limit = {
+                OR = { 
+                    has_pop_culture = north_german
+                }
+            }
+            militancy = 1
+            consciousness = 1
+	    }
+		ai_chance = {
+			factor = 0.5
+    		modifier = {
+                factor = 0.25
+                relation = { who = FROM value = -50 }
+            }
+            modifier = {
+              	factor = 0.5
+                relation = { who = FROM value = -100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = FROM value = -150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = FROM value = -200 }
+            }
+		}
+    }
+}
+
+country_event = {
+	id = 600032
+    title = "EVTNAME600032"
+	desc = "EVTDESC600032"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "Give them Lübeck !"
+        530 = { secede_province = FROM } 
+        badboy = -3
+        ai_chance = {
+			factor = 0.5
+            modifier = {
+                factor = 0.25
+                relation = { who = FROM value = 50 }
+            }
+            modifier = {
+                factor = 0.5
+                relation = { who = FROM value = 100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = FROM value = 150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = FROM value = 200 }
+            }
+		}
+    }
+    option = {
+        name = "Lübeck will stay !"
+        prestige =5
+        any_pop = {
+            limit = {
+                OR = { 
+                    has_pop_culture = north_german
+                }
+            }
+            militancy = 1
+            consciousness = 1
+        }
 		ai_chance = {
 			factor = 0.5
     		modifier = {
