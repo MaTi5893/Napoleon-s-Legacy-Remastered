@@ -3,7 +3,6 @@ political_decisions = {
 		picture = NWE_decision
         potential = {
 			OR = {
-				tag = SWE
 				tag = SCO
 				tag = ICL
 				tag = NOR
@@ -64,6 +63,7 @@ political_decisions = {
 			OR = {
 				tag = SCA
 				tag = NWE
+				tag = SCO
 			}
 			accepted_culture = british
 			NOT = {has_country_flag = claim_england}

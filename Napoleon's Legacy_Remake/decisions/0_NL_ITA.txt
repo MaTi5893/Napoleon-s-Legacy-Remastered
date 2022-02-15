@@ -164,7 +164,7 @@ political_decisions = {
 			owns = 749
 		}
 		effect = {
-			catpial = 749
+			capital = 749
 			add_accepted_culture = south_italian
 			add_accepted_culture = north_italian
 			prestige = 10
@@ -190,14 +190,16 @@ political_decisions = {
 			}
 			ai = no
 			NOT = { has_country_flag = ask_france_piedmonte }
-			NOT = {owns = 720}
+			NOT = {SAR_720 = {owned_by = THIS}}
 		}
 		allow = {
 			war=no
 		}
 		effect = {
 			prestige = 5
-			FRA = {country_event = 600021}
+			720 = {
+				owner = {country_event = 600021}
+			}
 			set_country_flag=ask_france_piedmonte
 		}
 	}
@@ -482,6 +484,38 @@ political_decisions = {
 		effect = {
 			tech_school = italian_tech_school
 			prestige = 5
+		}
+	}
+
+	ask_malta = {
+		potential = {
+			NOT = {has_country_flag = ask_malta}
+			OR = {
+				AND = {
+					tag = SPA
+					accepted_culture = south_italian
+				}
+				AND = {
+					OR = {
+						tag = ITA
+						tag = PAP
+						tag = NPL
+					}
+					has_country_flag = unite_with_greece
+				}
+			}
+			ai = no
+			NOT = {ENG_854 = {owned_by = THIS}}
+		}
+		allow = {
+			war=no
+		}
+		effect = {
+			prestige =5
+			854 = {
+				owner = {country_event = 600030}
+			}
+			set_country_flag=ask_malta
 		}
 	}
 }

@@ -50,35 +50,6 @@ political_decisions = {
 			prestige = 5
 		}
 	}
-	baltic_influence = {
-		picture = decision_baltic_acceptance
-		potential = {
-			OR = {
-				tag = SWE
-				tag = SCA
-				tag = RUS
-			}
-			NOT = {accepted_culture = estonian}
-			NOT = {accepted_culture = Scotish}
-			NOT = {accepted_culture = byelorussian}
-			NOT = {accepted_culture = ukrainian}
-			NOT = {accepted_culture = tatar}
-			NOT = {accepted_culture = azerbaijani}
-		}
-		allow = {
-			war = no
-			state_n_government=1
-			RUS_349 = {owned_by = THIS}
-			RUS_354 = {owned_by = THIS}
-		}
-		effect = {
-			add_accepted_culture = estonian
-			add_accepted_culture = latvian
-			RUS_349 = {add_core = THIS}
-			RUS_354 = {add_core = THIS}
-			prestige = 10
-		}
-	}
 
 	annex_danzig = {
 		picture = danzig_decision

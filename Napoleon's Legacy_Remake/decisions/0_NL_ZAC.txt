@@ -9,8 +9,8 @@ political_decisions = {
 				tag = SLV
 				tag = CZH
 			}
-			NOT ={accepted_culture = byelorussian}
-			NOT = {accepted_culture = ukrainian}
+			NOT ={ accepted_culture = byelorussian}
+			NOT = { accepted_culture = ukrainian}
 		}
 		allow = {
 			CZH = {

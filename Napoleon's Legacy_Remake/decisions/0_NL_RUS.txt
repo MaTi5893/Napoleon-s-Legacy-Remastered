@@ -4,83 +4,99 @@ political_decisions = {
 		potential = {
 			tag = RUS
 			NOT = { has_country_flag = repartition_poland_RUS }
+			NOT = {has_country_flag = hide_western_russia}
 		}
 		allow = {
-			LIT = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						province_id = 698
+			war = no
+			RUS_718 = {owned_by = THIS}
+			RUS_958 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
 					}
 				}
 			}
-			owns = 719
-			owns = 957
-			owns = 956
-			owns = 955
-			owns = 959
-			owns = 960
-			owns = 954
-			owns = 958
-			owns = 961
 		}
 		effect = {
-			LIT = {
-				all_core = {
-					limit = { 
-						NOT = { province_id = 698 } 
-					}
-					add_core = THIS
-				}
-			}
-			add_core = 719
-			add_core = 957
-			add_core = 956
-			add_core = 955
-			add_core = 959
-			add_core = 960
-			add_core = 954
-			add_core = 958
-			add_core = 961
+			RUS_955 = {add_core = THIS}
+			RUS_707 = {add_core = THIS}
+			RUS_360 = {add_core = THIS}
+			badboy = 13
 			set_country_flag = repartition_poland_RUS
 		}
 	}
-	
+	baltic_influence = {
+		picture = decision_baltic_acceptance
+		potential = {
+			OR = {
+				tag = SWE
+				tag = SCA
+				tag = RUS
+			}
+			NOT = {accepted_culture = estonian}
+			NOT = {accepted_culture = Scotish}
+			NOT = {accepted_culture = georgian}
+			NOT = {accepted_culture = aryan}
+			NOT = {accepted_culture = turkic}
+			NOT = {has_country_flag = hide_western_russia}
+		}
+		allow = {
+			war = no
+			state_n_government=1
+			RUS_349 = {owned_by = THIS}
+			RUS_354 = {owned_by = THIS}
+		}
+		effect = {
+			add_accepted_culture = estonian
+			add_accepted_culture = latvian
+			RUS_349 = {add_core = THIS}
+			RUS_354 = {add_core = THIS}
+			prestige = 10
+		}
+	}
 	conquer_finland = {
 		picture = decision_finland
 		potential = {
 			tag = RUS
 			NOT = {accepted_culture = finnish}
-			NOT = {accepted_culture = byelorussian}
-			NOT = {accepted_culture = ukrainian}
-			NOT = {accepted_culture = estonian}
-			NOT = {accepted_culture = tatar}
+			NOT = {accepted_culture = georgian}
+			NOT = {accepted_culture = aryan}
 			NOT = {accepted_culture = turkic}
+			NOT = {has_country_flag = hide_western_russia}
 		}
 		allow = {
+			war = no
 			FIN = {
 				all_core = {
-					owned_by = RUS
+					OR = {
+						owned_by = RUS
+						owner = {
+							OR = {
+								vassal_of = THIS
+								in_sphere = THIS
+							}
+						}
+					}
 				}
 			}
-			nationalism_n_imperialism = 1
+			state_n_government = 1
 		}
 		effect = {
 			FIN = {
 				all_core = {
 					add_core = THIS
+					secede_province = THIS
 				}
 			}
 			prestige = 5
-			all_core = {
-				add_province_modifier = {
-					name = cultural_unification
-					duration = 730
-				}
-			}
 			add_accepted_culture = finnish
 		}
 	}
+
 	annex_ukraine = {
 		picture = decision_ukraine
 		potential = {
@@ -89,6 +105,8 @@ political_decisions = {
 				tag = PLC
 			}
 			NOT = {has_country_flag = annex_ukraine}
+			NOT = {has_country_flag = hide_western_russia}
+			UKR = {exists = yes}
 		}
 		allow = {
 			is_greater_power = yes
@@ -108,13 +126,72 @@ political_decisions = {
 			nationalism_n_imperialism=1
 		}
 		effect = {
-			prestige = 7
+			prestige = 10
 			UKR = {
 				all_core = {add_core = THIS}
 			}
 			UKR = {annex_to = THIS}
 			set_country_flag = annex_ukraine
 		}
+	}
+	
+	acceptance_of_belarus = {
+		picture = decision_belarus
+		potential = {
+			OR = {
+				tag = RUS
+				tag = PLC
+			}
+			NOT = {accepted_culture = byelorussian}
+			NOT = {accepted_culture = georgian}
+			NOT = {accepted_culture = aryan}
+			NOT = {accepted_culture = turkic}
+			NOT = {has_country_flag = hide_western_russia}
+		}
+		allow = {
+			war = no
+			BYE = {
+				all_core = {
+					owned_by = THIS
+				} 
+			}
+			nationalism_n_imperialism=1
+		}
+		effect = {
+			BYE = {
+				all_core = {
+					add_core = THIS
+				} 
+			}
+			add_accepted_culture = byelorussian
+			prestige = 12
+		}
+	}
+
+	give_ukraine_to_poland = {
+		picture = decision_ukraine
+		potential = {
+			tag = RUS
+			UKR = {vassal_of = THIS}
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			prestige = -10
+			release_vassal = UKR
+			PLC = {create_vassal = UKR}
+			PLC = { country_event = 181503 }
+			UKR = {
+				all_core = {
+					limit = {
+						owned_by = PLC
+					}
+					remove_core = UKR
+				}	
+			}
+		}
+		ai_will_do = { factor = 0 }
 	}
 
 	acceptance_of_ukraine = {
@@ -125,9 +202,10 @@ political_decisions = {
 				tag = PLC
 			}
 			NOT = {accepted_culture = ukrainian}
-			NOT = {accepted_culture = finnish}
-			NOT = {accepted_culture = estonian}
-			NOT = {accepted_culture = azerbaijani}
+			NOT = {accepted_culture = georgian}
+			NOT = {accepted_culture = aryan}
+			NOT = {accepted_culture = turkic}
+			NOT = {has_country_flag = hide_western_russia}
 		}
 		allow = {
 			war = no
@@ -161,58 +239,59 @@ political_decisions = {
 			prestige = 12
 		}
 	}
-	
-	acceptance_of_belarus = {
-		picture = decision_belarus
-		potential = {
-			OR = {
-				tag = RUS
-				tag = PLC
-			}
-			NOT = {accepted_culture = byelorussian}
-			NOT = {accepted_culture = finnish}
-			NOT = {accepted_culture = estonian}
-			NOT = {accepted_culture = azerbaijani}
-		}
-		allow = {
-			war = no
-			BYE = {
-				all_core = {
-					owned_by = THIS
-				} 
-			}
-			nationalism_n_imperialism=1
-		}
-		effect = {
-			add_accepted_culture = byelorussian
-			prestige = 12
-		}
-	}
 
-	give_ukraine_to_poland = {
-		picture = decision_ukraine
+	southern_slavs = {
+		picture = southern_slavs_decision
 		potential = {
+			NOT = {accepted_culture = serb}
+			accepted_culture = ukrainian
 			tag = RUS
-			UKR = {vassal_of = THIS}
+			NOT = {has_country_flag = hide_western_russia}
 		}
 		allow = {
 			war = no
+			is_greater_power = yes
+			SER = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			BUL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			mass_politics = 1
 		}
 		effect = {
-			prestige = -10
-			release_vassal = UKR
-			PLC = {create_vassal = UKR}
-			PLC = { country_event = 181503 }
-			UKR = {
+			SER = {
 				all_core = {
-					limit = {
-						owned_by = PLC
-					}
-					remove_core = UKR
-				}	
+					add_core = THIS
+					secede_province = THIS
+				}
 			}
+			BUL = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+				}
+			}
+			prestige = 20
+			add_accepted_culture = serb
+			add_accepted_culture = bulgarian
 		}
-		ai_will_do = { factor = 0 }
 	}
 
 	acceptance_of_steppe1 = {
@@ -223,36 +302,35 @@ political_decisions = {
 			NOT = {accepted_culture = byelorussian}
 			NOT = {accepted_culture = ukrainian}
 			NOT = {accepted_culture = estonian}
-			NOT = {accepted_culture = azerbaijani}
+			NOT = {accepted_culture = georgian}
+			NOT = {has_country_flag = hide_southern_russia}
 		}
 		allow = {
+			war = no
 			state_n_government = 1
 			is_greater_power=yes
 			war = no
-			owns = 1108
-			owns = 1102
-			owns = 967
+			RUS_1090 ={owned_by = THIS}
+			RUS_1048 ={owned_by = THIS}
+			RUS_1052 ={owned_by = THIS}
 		}
 		effect = {
 			add_accepted_culture = tatar
 			add_accepted_culture = north_caucasian
-			add_accepted_culture = azerbaijani
-			prestige = 4
-			all_core = {
-				add_province_modifier = {
-					name = cultural_unification
-					duration = 365
-				}
-			}
+			add_accepted_culture = georgian
+			prestige = 10
 		}
 	}
 	acceptance_of_steppe2 = {
 		picture = hordes_decision
 		potential = {
 			tag = RUS
+			NOT = {accepted_culture = finnish}
 			NOT = {accepted_culture = byelorussian}
 			NOT = {accepted_culture = ukrainian}
+			NOT = {accepted_culture = estonian}
 			NOT = {accepted_culture = turkic}
+			NOT = {has_country_flag = hide_southern_russia}
 		}
 		allow = {
 			nationalism_n_imperialism = 1
@@ -276,7 +354,7 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = turkic
-			prestige = 4
+			prestige = 20
 			BUK = {
 				all_core = {
 					add_core = THIS
@@ -295,16 +373,15 @@ political_decisions = {
 		}
 	}
 	southern_expansion = {
-		picture = persian_decision.png
+		picture = persia_decision
 		potential = {
 			tag = RUS
 			NOT = {accepted_culture = finnish}
 			NOT = {accepted_culture = byelorussian}
 			NOT = {accepted_culture = ukrainian}
 			NOT = {accepted_culture = estonian}
-			NOT = {accepted_culture = tatar}
-			NOT = {accepted_culture = azerbaijani}
-			accepted_culture = turkic
+			NOT = {accepted_culture = aryan}
+			NOT = {has_country_flag = hide_southern_russia}
 		}
 		allow = {
 			revolution_n_counterrevolution = 1
@@ -344,7 +421,98 @@ political_decisions = {
 			}
 			add_accepted_culture = aryan
 			add_accepted_culture = azerbaijani
-			prestige = 4
+			prestige = 20
+		}
+	}
+
+	acceptance_of_steppe3 = {
+		picture = mongolia_decision
+		potential = {
+			tag = RUS
+			accepted_culture = turkic
+			NOT = {accepted_culture = mongol}
+			NOT = {has_country_flag = hide_southern_russia}
+		}
+		allow = {
+			mass_politics = 1
+			is_greater_power=yes
+			war = no
+			MGL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								vassal_of = THIS
+								in_sphere = THIS
+							}
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			MGL = {
+				all_core = {
+					add_core = THIS
+					secede_province = THIS
+				}
+			}
+			add_accepted_culture = mongol
+			prestige = 30
+		}
+	}
+
+	hide_southern_russia = {
+		picture = persia_decision
+		potential = {
+			NOT = {has_country_flag = hide_southern_russia}
+			tag = RUS
+		}
+		allow = {
+		}
+		effect = {
+			set_country_flag = hide_southern_russia
+		}
+		ai_will_do = { factor = 0 }
+	}
+
+	show_southern_russia = {
+		picture = persia_decision
+		potential = {
+			has_country_flag = hide_southern_russia
+			tag = RUS
+		}
+		allow = {
+		}
+		effect = {
+			clr_country_flag = hide_southern_russia
+		}
+	}
+	hide_western_russia = {
+		picture = decision_ukraine
+		potential = {
+			NOT = {has_country_flag = hide_western_russia}
+			tag = RUS
+		}
+		allow = {
+		}
+		effect = {
+			set_country_flag = hide_western_russia
+		}
+		ai_will_do = { factor = 0 }
+	}
+
+	show_western_russia = {
+		picture = decision_ukraine
+		potential = {
+			has_country_flag = hide_western_russia
+			tag = RUS
+		}
+		allow = {
+		}
+		effect = {
+			clr_country_flag = hide_western_russia
 		}
 	}
 }

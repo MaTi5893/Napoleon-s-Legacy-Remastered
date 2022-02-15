@@ -15,15 +15,10 @@ political_decisions = {
 			is_greater_power=yes
 			PLC = {is_greater_power=no}
 			war_policy=jingoism
-			owns=705
-			owns=702
+			AUS_702 = {owned_by = THIS}
 		}
 		effect = {
-			711 = { add_core = THIS }
-			715 = { add_core = THIS }
-			713 = { add_core = THIS }
-			716 = { add_core = THIS }
-			703 = { add_core = THIS }
+			RUS_710 = { add_core = THIS }
 			badboy =4
 			set_country_flag=finish_poland_partition
 		}

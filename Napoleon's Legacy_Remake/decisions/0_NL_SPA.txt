@@ -37,11 +37,11 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-					}
-					owner = {
-						OR = {
-							vassal_of = THIS
-							in_sphere = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
 						}
 					}
 				}
@@ -50,6 +50,8 @@ political_decisions = {
 		effect = {
 			add_accepted_culture=south_italian
 			prestige = 20
+			PAP_749 = {add_core = THIS}
+			ITA_753 = {add_core = THIS}
 			any_country = {
 				limit = {
 					primary_culture = south_italian 
@@ -60,6 +62,7 @@ political_decisions = {
 				}
 				annex_to = THIS
 			}
+			badboy = 5
 			any_pop = {
 				limit = {
 					OR = {
@@ -90,11 +93,11 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-					}
-					owner = {
-						OR = {
-							vassal_of = THIS
-							in_sphere = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
 						}
 					}
 				}
@@ -140,11 +143,53 @@ political_decisions = {
 			is_greater_power = yes
 			revolution_n_counterrevolution=1
 			war=no
-			NIT = {
-				all_core = {
-					OR = {
-						owned_by = THIS
+			TUS_744 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
 					}
+				}
+			}
+			PAP_741 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			AUS_726 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			AUS_729 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			ENG_854 = {
+				OR = {
+					owned_by = THIS
 					owner = {
 						OR = {
 							vassal_of = THIS
@@ -156,16 +201,27 @@ political_decisions = {
 		}			 
 		effect = {
 			add_accepted_culture=north_italian
+			add_accepted_culture=maltese
 			prestige = 20
-			any_country = {
-				limit = {
-					primary_culture = north_italian 
-					OR = {
-						in_sphere = THIS
-						vassal_of = THIS
-					}
-				}
-				annex_to = THIS
+			TUS_744 = {
+				add_core = THIS
+				secede_province = THIS
+			}
+			PAP_741 = {
+				add_core = THIS
+				secede_province = THIS
+			}
+			AUS_726 = {
+				add_core = THIS
+				secede_province = THIS
+			}
+			AUS_729 = {
+				add_core = THIS
+				secede_province = THIS
+			}
+			ENG_854 = {
+				add_core = THIS
+				secede_province = THIS
 			}
 			any_pop = {
 				limit = {
@@ -174,7 +230,8 @@ political_decisions = {
 						culture = catalan
 						culture = basque
 						culture = spanish
-						culture = north_italian
+						culture = south_italian
+						culture = maltese
 					}
 				}
 				militancy = -1
@@ -188,11 +245,11 @@ political_decisions = {
 			tag = SPA
 			ai = no
 			NOT = { has_country_flag = ask_france_catalonia }
-			NOT = {owns=498}
+			NOT = {SPA_498 = {owned_by = THIS}}
+			SPA_498 = {owned_by = FRA}
 		}
 		allow = {
 			war=no
-			alliance_with = FRA
 		}
 		effect = {
 			prestige =5
@@ -213,8 +270,8 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						OR = {
-							owner = {
+						owner = {
+							OR = {
 								in_sphere = THIS
 								vassal_of = THIS
 							}
@@ -226,8 +283,8 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						OR = {
-							owner = {
+						owner = {
+							OR = {
 								in_sphere = THIS
 								vassal_of = THIS
 							}
@@ -247,14 +304,7 @@ political_decisions = {
 			}
 			POR = {
 				all_core = {
-					limit = {
-						OR = {
-							owner = {
-								in_sphere = THIS
-								vassal_of = THIS
-							}
-						}
-					}
+					add_core = THIS
 					secede_province = THIS
 				}
 			}

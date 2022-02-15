@@ -2,6 +2,7 @@ political_decisions = {
     form_zachadia = {
 		picture = decision_zac
 		potential = {
+            has_country_flag = psl_enable
 			OR = {
 				primary_culture = russian
                 primary_culture = slovak

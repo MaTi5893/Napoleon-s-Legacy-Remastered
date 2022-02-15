@@ -140,7 +140,6 @@ political_decisions = {
 				tag = FIN
 				tag = EST
 				tag = LAT
-				tag = DEN
 			}
 			BLE = {exists = no}
         }
@@ -267,6 +266,7 @@ political_decisions = {
 				tag = RUS
 			}
 			accepted_culture = latvian
+			NOT = {has_country_flag = hide_western_russia}
 		}
 		allow = {
 			war = no
@@ -277,6 +277,29 @@ political_decisions = {
 			add_accepted_culture = lithuanian
 			RUS_360 = {add_core = THIS}
 			set_country_flag = master_of_baltic
+		}
+	}
+
+	ask_holstein = {
+		picture = holstein_decision
+		potential = {
+			NOT = {has_country_flag = ask_den_holstein}
+			OR = {
+				accepted_culture = north_german
+				primary_culture = north_german
+			}
+			ai = no
+			NOT = {HOL_369 = {owned_by = THIS}}
+		}
+		allow = {
+			war=no
+		}
+		effect = {
+			prestige =5
+			369 = {
+				owner = {country_event = 600030}
+			}
+			set_country_flag=ask_den_holstein
 		}
 	}
 }

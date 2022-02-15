@@ -119,7 +119,6 @@ political_decisions = {
 			NOT = {accepted_culture = spanish}
 		}
 		allow = {
-			revolution = 1
 			SPA = {
 				all_core = {
 					owned_by = THIS
@@ -131,7 +130,7 @@ political_decisions = {
 			is_greater_power = yes
 		}
 		effect = {
-			tech_school = spanish_tech_schoo
+			tech_school = spanish_tech_school
 			add_accepted_culture = spanish
 			SPA = {
 				all_core = {add_core = THIS}
