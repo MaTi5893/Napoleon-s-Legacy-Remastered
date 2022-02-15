@@ -306,7 +306,6 @@ political_decisions = {
 			NOT = {has_country_flag = hide_southern_russia}
 		}
 		allow = {
-			war = no
 			state_n_government = 1
 			is_greater_power=yes
 			war = no

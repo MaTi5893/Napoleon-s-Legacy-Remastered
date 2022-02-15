@@ -47,7 +47,7 @@ political_decisions = {
 			OR = {
 				tag = SWE
 				tag = SCA
-				tag = PRU
+				primary_culture = north_german
 				tag = PLC
 			}
 			NOT = { has_country_flag = danzig_coup }
@@ -73,9 +73,9 @@ political_decisions = {
 			NOT = {has_country_flag = declaration_an_mein_volk}
 			NOT = {
 				OR = {
-					NGF = exists
-					GER = exists
-					HRO = exists
+					NGF = {exists = yes}
+					GER = {exists = yes}
+					HRO = {exists = yes}
 				}
 			}
 		}
