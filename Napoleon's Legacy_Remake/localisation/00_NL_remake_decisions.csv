@@ -407,7 +407,9 @@ ask_holstein_title;Ask For Holstein;;;;;;;x
 ask_holstein_desc;Holstein is a legitimate territory, we should ask for itsays;;;;;;;x
 ask_malta_title;Ask For Malta;;;;;;;x
 ask_malta_desc;Malta is a legitimate territory, we should ask for itsays;;;;;;;x
-ask_stralsund_title;Ask Stralsund;;;;;;;
-ask_stralsund_desc;Stralsund is germand and should be ours !;;;;;;;
-ask_lubeck_title;Ask Lubeck;;;;;;;
-ask_lubeck_desc;Lubeck is germand and should be ours !;;;;;;;
+ask_stralsund_title;Ask Stralsund;;;;;;;x
+ask_stralsund_desc;Stralsund is germand and should be ours !;;;;;;;x
+ask_lubeck_title;Ask Lubeck;;;;;;;x
+ask_lubeck_desc;Lubeck is germand and should be ours !;;;;;;;x
+form_grobgermany_title;Grob Germany !;;;;;;;x
+form_grobgermany_desc;We have finally united all german people, it's a glorious day for our nation !;;;;;;;x
