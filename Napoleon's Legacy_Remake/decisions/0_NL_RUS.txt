@@ -63,7 +63,7 @@ political_decisions = {
 					owned_by = RUS
 				}
 			}
-			state_n_government = 1
+			nationalism_n_imperialism = 1
 		}
 		effect = {
 			FIN = {
@@ -72,6 +72,12 @@ political_decisions = {
 				}
 			}
 			prestige = 5
+			all_core = {
+				add_province_modifier = {
+					name = cultural_unification
+					duration = 730
+				}
+			}
 			add_accepted_culture = finnish
 		}
 	}
@@ -208,6 +214,7 @@ political_decisions = {
 		}
 		ai_will_do = { factor = 0 }
 	}
+
 	acceptance_of_steppe1 = {
 		picture = hordes_decision
 		potential = {
@@ -231,6 +238,12 @@ political_decisions = {
 			add_accepted_culture = north_caucasian
 			add_accepted_culture = azerbaijani
 			prestige = 4
+			all_core = {
+				add_province_modifier = {
+					name = cultural_unification
+					duration = 365
+				}
+			}
 		}
 	}
 	acceptance_of_steppe2 = {

@@ -405,3 +405,62 @@ army = {
 		home = 704
 	}
 }
+
+army = {
+	name = "I. Armee"
+	location = 705
+	regiment = {
+		name= "14 Cavaleriedivision"
+		type = hussar
+		home = 616
+	}
+	regiment = {
+		name= "4.1. Infanteriedivision"
+		type = infantry
+		home = 617
+	}
+	regiment = {
+		name= "4.2. Infanteriedivision"
+		type = infantry
+		home = 617
+	}
+	regiment = {
+		name= "4.3. Infanteriedivision"
+		type = infantry
+		home = 618
+	}
+	regiment = {
+		name= "4.4. Infanteriedivision"
+		type = infantry
+		home = 618
+	}
+
+	regiment = {
+		name= "4.1. Artillerydivision"
+		type = artillery
+		home = 625
+	}
+
+	regiment = {
+		name= "4.2. Artillerydivision"
+		type = artillery
+		home = 625
+	}
+
+	regiment = {
+		name= "4.3. Artillerydivision"
+		type = artillery
+		home = 625
+	}
+	
+	regiment = {
+		name= "4.4. Artillerydivision"
+		type = artillery
+		home = 625
+	}
+	regiment = {
+		name= "4.5. Artillerydivision"
+		type = artillery
+		home = 622
+	}
+}

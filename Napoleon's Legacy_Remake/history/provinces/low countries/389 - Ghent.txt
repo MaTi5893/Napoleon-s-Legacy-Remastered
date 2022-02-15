@@ -1,6 +1,5 @@
 owner = FRA
 controller = FRA
-add_core = FRA
 add_core = BEL
 add_core = FLA
 trade_goods = wool

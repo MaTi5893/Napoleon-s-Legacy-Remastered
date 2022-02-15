@@ -42,18 +42,6 @@ political_decisions = {
 				}
 			}
 			change_tag = ZAC
-			ZAC = {
-				all_core = {
-					add_province_modifier = {
-						name = cultural_unification
-						duration = 7300
-					}
-					remove_core = AUS
-					remove_core = GER
-					remove_core = NGF
-					remove_core = KUK
-				}
-			}
 		}
 	}
     baltic_influence_ZAC = {
