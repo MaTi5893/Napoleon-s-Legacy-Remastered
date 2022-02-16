@@ -21,7 +21,7 @@ country_event = {
 	desc = "EVTDESC600013"
 	picture = "napoleon_death"
 	option = {
-		name = "King Joseph Bonaparte of Spain !"	
+		name = "King Joseph Bonaparte of Spain!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
@@ -41,7 +41,7 @@ country_event = {
         FRA = {set_country_flag = louis}
 	}
 	option = {
-		name = "King Jerome Bonaparte of Westphalia !"	
+		name = "King Jerome Bonaparte of Westphalia!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
@@ -55,7 +55,7 @@ country_event = {
         create_vassal = BRA
 	}
     option = {
-		name = "More heirs !"
+		name = "More heirs!"
         FRA = {country_event = 600017}
 	}
 }
@@ -70,7 +70,7 @@ country_event = {
 		days = 0
 	}
 	option = {
-		name = "It's time for a Republic !"	
+		name = "It's time for a Republic!"	
 		add_country_modifier = {
 			name = french_republic
 			duration = -1
@@ -79,7 +79,7 @@ country_event = {
         FRA = {set_country_flag = republic}
 	}
 	option = {
-		name = "Alexandre Walewski !"	
+		name = "Alexandre Walewski!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
@@ -87,7 +87,7 @@ country_event = {
         FRA = {set_country_flag = alexandre}
 	}
 	option = {
-		name = "The Prince Maximilien de Beauharnais !"	
+		name = "The Prince Maximilien de Beauharnais!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
@@ -123,7 +123,7 @@ country_event = {
 	desc = "EVTDESC600018"
 	picture = "napoleon_death"
 	option = {
-		name = "King Joseph Bonaparte of Spain !"	
+		name = "King Joseph Bonaparte of Spain!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
@@ -135,7 +135,7 @@ country_event = {
         create_vassal = SPA
 	}
 	option = {
-		name = "Louis Bonaparte !"	
+		name = "Louis Bonaparte!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
@@ -143,7 +143,7 @@ country_event = {
         FRA = {set_country_flag = louis}
 	}
 	option = {
-		name = "It's time for a Republic !"	
+		name = "It's time for a Republic!"	
 		add_country_modifier = {
 			name = french_republic
 			duration = -1
@@ -152,7 +152,7 @@ country_event = {
         FRA = {set_country_flag = republic}
 	}
 	option = {
-		name = "Alexandre Walewski !"	
+		name = "Alexandre Walewski!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
@@ -160,7 +160,7 @@ country_event = {
         FRA = {set_country_flag = alexandre}
 	}
 	option = {
-		name = "The Prince Maximilien de Beauharnais !"	
+		name = "The Prince Maximilien de Beauharnais!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
@@ -191,7 +191,7 @@ country_event = {
 	desc = "EVTDESC600019"
 	picture = "napoleon_death"
 	option = {
-		name = "Louis Bonaparte !"	
+		name = "Louis Bonaparte!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
@@ -199,7 +199,7 @@ country_event = {
         FRA = {set_country_flag = louis}
 	}
 	option = {
-		name = "King Jerome Bonaparte of Westphalia !"	
+		name = "King Jerome Bonaparte of Westphalia!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
@@ -213,7 +213,7 @@ country_event = {
         create_vassal = BRA
 	}
 	option = {
-		name = "It's time for a Republic !"	
+		name = "It's time for a Republic!"	
 		add_country_modifier = {
 			name = french_republic
 			duration = -1
@@ -222,7 +222,7 @@ country_event = {
         FRA = {set_country_flag = republic}
 	}
 	option = {
-		name = "Alexandre Walewski !"	
+		name = "Alexandre Walewski!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
@@ -230,7 +230,7 @@ country_event = {
         FRA = {set_country_flag = alexandre}
 	}
 	option = {
-		name = "The Prince Maximilien de Beauharnais !"	
+		name = "The Prince Maximilien de Beauharnais!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
@@ -262,7 +262,7 @@ country_event = {
 	desc = "EVTDESC600020"
 	picture = "napoleon_death"
 	option = {
-		name = "Louis Bonaparte !"	
+		name = "Louis Bonaparte!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
@@ -273,7 +273,7 @@ country_event = {
         FRA = {set_country_flag = louis}
 	}
 	option = {
-		name = "It's time for a Republic !"	
+		name = "It's time for a Republic!"	
 		add_country_modifier = {
 			name = french_republic
 			duration = -1
@@ -285,7 +285,7 @@ country_event = {
         }
 	}
 	option = {
-		name = "Alexandre Walewski !"	
+		name = "Alexandre Walewski!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
@@ -296,7 +296,7 @@ country_event = {
         FRA = {set_country_flag = alexandre}
 	}
 	option = {
-		name = "The Prince Maximilien de Beauharnais !"	
+		name = "The Prince Maximilien de Beauharnais!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
