@@ -2,7 +2,7 @@
 country_event = {
 	id = 7770004
 	title = "The Egyptian Question"
-	desc = "Egypt has requested you sphere them to help them fight off the turks !"
+	desc = "Egypt has requested you sphere them to help them fight off the Turks!"
 	picture = "dixie"
 	
 	is_triggered_only = yes

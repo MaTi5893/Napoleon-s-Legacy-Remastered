@@ -7,7 +7,7 @@ country_event = {
 	desc = "EVTDESC600022"
 	picture = "political_bonus"
 	option = {
-		name = "Military focus !"	
+		name = "Military focus!"	
 		add_country_modifier = {
 			name = political_bonus_military
 			duration = 3650
@@ -15,7 +15,7 @@ country_event = {
         FROM = {set_country_flag = political_bonus_military}
 	}
 	option = {
-		name = "Navy focus !"	
+		name = "Navy focus!"	
 		add_country_modifier = {
 			name = political_bonus_navy
 			duration = 3650
@@ -23,7 +23,7 @@ country_event = {
         FROM = {set_country_flag = political_bonus_navy}
 	}
 	option = {
-		name = "Education focus !"	
+		name = "Education focus!"	
 		add_country_modifier = {
 			name = political_bonus_education
 			duration = 3650
@@ -31,7 +31,7 @@ country_event = {
         FROM = {set_country_flag = political_bonus_education}
 	}
 	option = {
-		name = "Industry focus !"	
+		name = "Industry focus!"	
 		add_country_modifier = {
 			name = political_bonus_industry
 			duration = 3650
@@ -39,7 +39,7 @@ country_event = {
         FROM = {set_country_flag = political_bonus_industry}
 	}
 	option = {
-		name = "Immigration focus !"	
+		name = "Immigration focus!"	
 		add_country_modifier = {
 			name = political_bonus_immigration
 			duration = 3650
