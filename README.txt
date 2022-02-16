@@ -13,7 +13,7 @@ Rascalnag (and Jman): Rascalnag for creating the beautiful graphical mod Belle C
 SighPie: appropriated HFM content may or may not be found in this mod :walterstuff:
 Sveera: Original creator of Napoleon's Legacy
 Bearabia: Creator of Columbia Divided, let me take a tag from him (https://discord.gg/YAE8C29W2n)
-
+The Victoria 2 Modding Server and all the people in it: for all the help. By the way, to any modders: you're free to take parts of this mod and do your own thing with it. Even the PUIR parts, I'm sure all the 4 currently absent PUIR developers won't care about you taking their code. It'd be cool if you didn't take the entire mod and reupload it under your own name, but I don't know why you'd want to do that in the first place.
 
 
 ###The NLR Low Res submod changes the terrain textures to be smaller, so that they have less an impact on performance, while still looking... passable, to me.###
@@ -32,7 +32,7 @@ Info:
 
 Links:
 	https://discord.gg/G5jGFgCbEg - This mod's discord
-	https://discord.gg/Qsdcw94WXu - The vic2 modding community discord
+	https://discord.gg/Qsdcw94WXu - The Victoria 2 Modding Server
 	https://github.com/MaTi5893/Napoleon-s-Legacy-Remastered - The GitHub
 	
 
