@@ -5,19 +5,19 @@ The lore of the mod :
 https://github.com/elisandreo/Napoleon-s-Legacy-Remastered/tree/main/Napoleon's%20Legacy_Remake/Napoleon's-Europe.md
 
 Credit to: 
-Abraham Lincoln (and GFM team): letting me use some stuff from their mod
+Mr.#7460: alpha male, most of the flavor in this mod was made by him 
+MaTi5893#8488: actually made NLR 
+Abraham Lincoln (and the GFM team): letting me use some stuff from their mod
 Nurse Reno: made IGoR PUIR, which this mod was built on 
-God of Cheese: Made GoC PUIR, which IGoR was built on
-Icendoan: Made Icen PUIR, which GoC was built on 
+Rascalnag (and Jman): Rascalnag for creating the beautiful graphical mod Belle Cartographie https://www.moddb.com/mods/belle-cartographie and Jman for modifying it to be darker
 SighPie: appropriated HFM content may or may not be found in this mod :walterstuff:
 Sveera: Original creator of Napoleon's Legacy
 Bearabia: Creator of Columbia Divided, let me take a tag from him (https://discord.gg/YAE8C29W2n)
 
 
 
-###The NLR Low Res submod changes the terrain textures to be smaller, therefore saving on performance and RAM usage, while still looking... passable, to me.###
+###The NLR Low Res submod changes the terrain textures to be smaller, so that they have less an impact on performance, while still looking... passable, to me.###
 ##You need to enable both the submod and NLR itself in the launcher. The submod does not change the checksum.						    ##
-#I'm not sure if there will be any further submods, this one is just a thing because I know some people might not like that the terrain looks worse.	    #
 
 
 Info: 
@@ -43,4 +43,3 @@ Installation: Open your Victoria 2 game files
 open the NLR zip file, 
 copy the Napoleon's Legacy Remake folder and Napoleon's Legacy Remake .mod file to the /mod folder in your game files.
 
-Delete the Documents/Paradox Interactive/Victoria II/Napoleon's Legacy Remake/map folder if region borders look weird
