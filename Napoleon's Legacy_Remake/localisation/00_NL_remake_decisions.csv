@@ -105,7 +105,7 @@ reintegrate_illiya_desc;After the Wars of the Coalition against Napoleon, we wer
 poland_is_no_more_title;Poland is No More!;;;;�Ya no hay Polonia!;;;x
 poland_is_no_more_desc;With the Polish-Lithuanian Commonwealth off the map, we can once and for all wipe the pretense of a powerful Union between Poles and Lithuanians;;;;Con la Mancomunidad Polaco-Lituana fuera del mapa, podemos borrar de una vez por todas la pretensi�n de una poderosa Uni�n entre polacos y lituanos;;;x
 trent_claim_title;Our Claim on the Trent Region;;;;Nuestra reivindicaci�n en la regi�n de Trento;;;x
-trent_claim_desc;After the War of the 3rd Coaltion, we were forced to give the Trent region to Bavaria and the Kingdom of Italy. It is time to take it back!;;;;Tras la Guerra de la Tercera Coalici�n, nos vimos obligados a ceder la regi�n de Trento a Baviera y al Reino de Italia. !Es hora de recuperarla!;;;x
+trent_claim_desc;After the War of the 3rd Coaltion, we were forced to give the Trent region to Bavaria and the Kingdom of Italy. It is time to take it back!;;;;Tras la Guerra de la Tercera Coalici�n, nos vimos obligados a ceder la regi�n de Trento a Baviera y al Reino de Italia.!Es hora de recuperarla!;;;x
 domination_of_western_mediterranean_see_title;Expand our influence in the western Mediterranean Sea;;;;Ampliar nuestra influencia en el Mediterr�neo occidental;;;x
 domination_of_western_mediterranean_see_desc;The withdrawal of the British in the western Mediterranean Sea created a power vacuum in the region and we must be the one to fill it!;;;;La retirada de los brit�nicos en el Mediterr�neo occidental cre� un vac�o de poder en la regi�n y debemos ser nosotros quienes lo llenemos.;;;x
 expension_in_southern_italy_title;Expand in Southern Italy;;;;Expansi�n en el sur de Italia;;;x
@@ -159,7 +159,7 @@ german_expansion1_desc;Now that we established ourselves as a North German power
 german_expansion2_title;Continue the German Expansion!;;;;�Contin�a la expansi�n alemana!;;;x
 german_expansion2_desc;Now that we established ourselves as a North German power, we must seek dominance over the whole North German region.;;;;Ahora que nos hemos establecido como potencia de Noralemana, debemos buscar el dominio de toda la regi�n de Alemania del Norte.;;;x
 holstein_ours_title;Holstein is ours!;;;;�Dinamarca es nuestra!;;;x
-holstein_ours_desc;Holstein is a legitime core of the Baltic Empire !;;;;�Tenemos todo el control sobre el comercio que sale del B�ltico con la sumisi�n de Dinamarca!;;;x
+holstein_ours_desc;Holstein is a legitime core of the Baltic Empire!;;;;�Tenemos todo el control sobre el comercio que sale del B�ltico con la sumisi�n de Dinamarca!;;;x
 expand_in_russia_title;Russian expansion!;;;;�Expansi�n rusa!;;;x
 expand_in_russia_desc;We have secured the glorious city of St Petersburg and with it, all the trade in the Baltic!;;;;Hemos asegurado la gloriosa ciudad de San Petersburgo y, con ella, todo el comercio del B�ltico.;;;x
 master_of_baltic_title;We are the Master of the Baltic!;;;;Somos los due�os del B�ltico.;;;x
@@ -215,7 +215,7 @@ declaration_an_mein_volk_desc;  So wenig fur Mein treues Volk, als fur Deutsche,
 form_iberia_UPB_title;Unite Iberia!;;;;�Unir Iberia!;;;x
 form_iberia_UPB_desc;Now that we are united with Spain and that we have reclaimed the entire peninsula, we can finally claim the union of all Iberians under one flag!;;;;Ahora que estamos unidos a Espa�a y que hemos recuperado toda la pen�nsula, �podemos reivindicar por fin la uni�n de todos los ib�ricos bajo una misma bandera!;;;x
 reclaim_austria_title;Reclaim Austrian Land!;;;;�Reclamar la tierra austr�aca!;;;x
-reclaim_austria_desc;We have reclaimed true Austrian land that we lost to Bavaria due to Napoleon. Now, nobody can deny our claim again!;;;;Hemos recuperado la verdadera tierra austr�aca que perdimos a manos de Baviera por culpa de Napole�n. Ahora, !nadie puede volver a negar nuestra reivindicaci�n!;;;x
+reclaim_austria_desc;We have reclaimed true Austrian land that we lost to Bavaria due to Napoleon. Now, nobody can deny our claim again!;;;;Hemos recuperado la verdadera tierra austr�aca que perdimos a manos de Baviera por culpa de Napole�n. Ahora,!nadie puede volver a negar nuestra reivindicaci�n!;;;x
 annex_ukraine_title;Annex Ukraine!;;;;�Anexar Ucrania!;;;x
 annex_ukraine_desc;After the Ukrainian Revolts, we were forced to accept Ukrainian autonomy.. We are now revoking that privilege!;;;;Tras las revueltas ucranianas, nos vimos obligados a aceptar la autonom�a ucraniana �Ahora revocamos ese privilegio!;;;x
 acceptance_of_ukraine_title;Acceptance of Ukrainians!;;;;�Aceptaci�n de los ucranianos!;;;x
@@ -306,118 +306,120 @@ ADU_belgium_title;The Pan-Lowlands Idea?;;;;The Pan-Lowlands Idea?;;;x
 ADU_belgium_desc;The Dutch and English nations are now united, but there's something missing... Shouldn't we retake all of what the Netherlands used to be? This will stop us from accepting the Irish.;;;;The Dutch and English nations are now united, but there's something missing... Shouldn't we retake all of what the Netherlands used to be? This will stop us from accepting the Irish.;;;x
 ARG_andean_accepted_desc;In order to truly be the rulers of South America, we need to throw away the differences that seperate us from our northern brothers.;;;;Spanish Loc;;;x
 annex_spain_title;Annexation of Spain;;;;;;x
-annex_spain_desc;Since Joseph got the French throne, Spain has been a vassal all but in name. In fact, we are already tunning the country. So now its time for us to do it officially by annexing Spain !;;;;;;x
+annex_spain_desc;Since Joseph got the French throne, Spain has been a vassal in all but name. In fact, we are already running the country. So now its time for us to do it officially by annexing Spain!;;;;;;x
 accept_spanish_title;Acceptance of the Spaniards;;;;;;x
-accept_spanish_desc;Even if we fought them for years, we need to accept the spaniards as true citizens of the French Empire. They are our southern brethen and latin speakers like us, so we need to put our differences aside and embrace them.;;;;;;x
+accept_spanish_desc;Even if we fought them for years, we need to accept the Spaniards as true citizens of the French Empire. They are our southern brethen and Romance language speakers like us, so we need to put our differences aside and embrace them.;;;;;;x
 accept_spanish_minorities_title;Acceptance of the Spanish minorities;;;;;;x
-accept_spanish_minorities_desc;We have accepted the Spaniars in our country, its now time to accept the minorities as well to prevent any ideas of independance and rebellion !;;;;;;x
+accept_spanish_minorities_desc;We have accepted the Spaniards in our country, its now time to accept the minorities as well to prevent any ideas of independence and rebellion!;;;;;;x
 annex_westphalia_title;Annexation of Westphalia;;;;;;x
-annex_westphalia_desc;Since Jerome got the French throne, Westphalia has been a vassal all but in name. In fact, we are already tunning the country. So now its time for us to do it officially by annexing Westphalia !;;;;;;x
+annex_westphalia_desc;Since Jerome got the French throne, Westphalia has been a vassal in all but name. In fact, we are already running the country. So now its time for us to do it officially by annexing Westphalia!;;;;;;x
 french_rhur_boom_title;French Ruhr Boom;;;;;;x
-french_rhur_boom_desc;With the Annexation of the Rhineland, we got ourselves a region with great goods and a strong potential. We need to invest to get it to be industrial heartland of the West and to show everyone our power !;;;;;;x
+french_rhur_boom_desc;With the Annexation of the Rhineland, we acquired ourselves a region with great goods and a strong potential. We need to invest to get it to be industrial heartland of the West and to show everyone our power!;;;;;;x
 unite_north_italy_title;Remake the Kingdom of Italy;;;;;;x
-unite_north_italy_desc;With the Annexation of the Kingdom of Italy by France in 1826 and the death of Napoleon in 1835, the North of Italy exploded into different factions. It's time to unite them under one flag !;;;;;;x
+unite_north_italy_desc;With the Annexation of the Kingdom of Italy by France in 1826 and the death of Napoleon in 1835, the North of Italy exploded into different factions. It's time to unite them under one flag!;;;;;;x
 ask_france_piedmonte_title;Ask France for Piedmonte;;;;;;x
-ask_france_piedmonte_desc;France occupies Piedmonte for a long time but the local population still views itself as italians. It should be that way and we need to ask France, our ally, to give it back !;;;;;;x
+ask_france_piedmonte_desc;France has occupied Piedmonte for a long time but the local population still views itself as Italian. It should be that way and we need to ask France, our ally, to give it back!;;;;;;x
 unite_with_greece_title;Unite with Greece;;;;;;x
-unite_with_greece_desc;The Greek and Roman shared a lot in common and greece was a spoken language in southern Italy. We should unite with them create a mediterranean power !;;;;;;x
+unite_with_greece_desc;The Greeks and Romans shared a lot in common and Greek was a commonly spoken language in southern Italy. We should unite with them to create a Mediterranean power!;;;;;;x
 north_africa_title;Annexation of Libya;;;;;;x
-north_africa_desc;We need to secure the central mediterranean see and stop the arabic pirates. In order to do so, we need to make libya and Tunisia ours !;;;;;;x
+north_africa_desc;We need to secure the central Mediterranean Sea and stop the Arabic pirates. In order to do so, we need to make Libya and Tunisia ours!;;;;;;x
 renounce_bozen_title;Renounce Bozen;;;;;;x
-renounce_bozen_desc;We should renounce the province of Bozen as one of our cores to apease tension in the area;;;;;;x
+renounce_bozen_desc;We should renounce the province of Bozen as one of our cores to decrease tension in the area;;;;;;x
 renounce_corsica_title;Renounce Corsica;;;;;;x
-renounce_corsica_desc;We should renounce the province of Corsica as one of our cores to apease tension in the area;;;;;;x
-yugo_united_title;Yugo United !;;;;;;x
-yugo_united_desc; We have united the Yugoslavia, our people can rejoice and thrive !;;;;;;x
-form_yugoslavia_easy_title;United Yugoslavia !;;;;;;x
-form_yugoslavia_easy_desc;We can proclaim the union of balkans people under a new flag with the union of our country and Bosnia !;;;;;;x
+renounce_corsica_desc;We should renounce the province of Corsica as one of our cores to decrease tension in the area;;;;;;x
+yugo_united_title;Yugoslavia United!;;;;;;x
+yugo_united_desc; We have united the Yugoslavia, our people can rejoice and thrive!;;;;;;x
+form_yugoslavia_easy_title;United Yugoslavia!;;;;;;x
+form_yugoslavia_easy_desc;We can proclaim the union of balkans people under a new flag with the union of our country and Bosnia!;;;;;;x
 unite_north_italy_gp_title;Unite North Italy;;;;;;x
-unite_north_italy_gp_desc;Napoleon had created the Kingdom of Italy, we should unite it again to gain a strong vassal in the area !;;;;;;x
+unite_north_italy_gp_desc;Napoleon had created the Kingdom of Italy, we should unite it again to gain a strong vassal in the area!;;;;;;x
 double_down_in_the_balkans_gre_title;Double down in the Balkans;;;;;;x
-double_down_in_the_balkans_gre_desc;We should focus on the Balkans expansion and find peace with the Ottomans affter so many years of war. We could become a strong land power and make the Ottomans our fleet !;;;;;;x
-get_rome_title;We own Rome !;;;;;;;x
-get_rome_desc;We have conquered Rome, its our destiny to rule over the Italian peninsula !;;;;;;;x
-occitan_expansion_title;Accept Occitan;;;;;;;x
-occitan_expansion_desc;We have conquered the Occitan region. We can consider them our Eastern Breathen and should make them citizen of our glorious kingdom !;;;;;;;x
-latin_empire_title;Revive the Latin empire !;;;;;;;x
-latin_empire_desc;We have finally united all Latin speaking people and can declare the resurgence of a latin identity !;;;;;;;x
+double_down_in_the_balkans_gre_desc;We should focus on the Balkans expansion and find peace with the Ottomans after so many years of war. We could become a strong land power and make the Ottomans our fleet!;;;;;;x
+get_rome_title;We own Rome!;;;;;;;x
+get_rome_desc;We have conquered Rome, its our destiny to rule over the Italian peninsula!;;;;;;;x
+occitan_expansion_title;Accept the Occitans;;;;;;;x
+occitan_expansion_desc;We have conquered the Occitan region. They're our Eastern Breathen and we should make them citizens of our glorious country!;;;;;;;x
+latin_empire_title;Revive the Latin empire!;;;;;;;x
+latin_empire_desc;We have finally united all Latin speaking people and can declare the resurgence of a Latin identity!;;;;;;;x
 forza_italia_title;Forza Italy;;;;;;;x
-forza_italia_desc;We must focus on our nation in order to make it the best for its people !;;;;;;;x
-annex_italian_minor_title;Annex Italian Minor;
-annex_italian_minor_desc;We should unite every duchy that is in our sphere in order to further our claim on the Italian Throne !;;;;;;;x
-italy_finally_title;Union of Italian;;;;;;;x
-italy_finally_desc;All Italian around the world can now feel at home in our country !;;;;;;;x
+forza_italia_desc;We must focus on our nation in order to make it the best for its people!;;;;;;;x
+annex_italian_minor_title;Annex Italian Minors;
+annex_italian_minor_desc;We should unite every duchy that is in our sphere in order to further our claim on the Italian Throne!;;;;;;;x
+italy_finally_title;Union of Italy;;;;;;;x
+italy_finally_desc;All Italians around the world can now feel at home in our country!;;;;;;;x
 italian_heritage_title;Italian Heritage;;;;;;;x
-italian_heritage_desc;With North Italy under our control, We can claim the Lost Italian Heritage !;;;;;;;x
+italian_heritage_desc;With North Italy under our control, We can claim the Lost Italian Heritage!;;;;;;;x
 reintegrate_italy_kingdom_title;Reintegrate the Kingdom of Italy;;;;;;;x
-reintegrate_italy_kingdom_desc;After the Death of Napoleon, the many Italian principality broke free as their was no heir for the Italian kingdom throne. But we have found one and can reintegrate Italy now !;;;;;;;x
+reintegrate_italy_kingdom_desc;After the Death of Napoleon, the many Italian principalities broke free as there was no heir for the Italian kingdom throne. But we have found one and can reintegrate Italy now!;;;;;;;x
 italian_submission_title;Italian Submission;;;;;;;x
-italian_submission_desc;We have reconquered the lost land in Italy. We should however give the same right to its population to prevent any revolts against our rule;;;;;;;x
-france_sphere_egy_title;Ask France for support !;;;;;;;x
-france_sphere_egy_desc;We need to ask France for support against the Ottomans !;;;;;;;x
-tur_sphere_egy_title;Ask Ottomans for support !;;;;;;;x
-tur_sphere_egy_desc;We should seek peace with the Ottomans and ask them to helps us westernize !;;;;;;;x
-russia_sphere_egy_title;Ask Russia for support !;;;;;;;x
-russia_sphere_egy_desc;Russia as always been an ennemy to the Ottomans, they would probably help us !;;;;;;;x
-cisapline_submission_title;Cisalpine submission !;;;;;;;x
-cisapline_submission_desc;For long, the Cisapline people have been a part of the empire. It's time to make them true citizen !;;;;;;;x
-reintegrate_the_netherlands_title;Reintegrate the Netherlands !;;;;;;;x
-reintegrate_the_netherlands_desc;Long ago, the netherlands were integrated into the french Empire. But they broke free after the Death of Napoleon. It's time to get them back in !;;;;;;;x
+italian_submission_desc;We have reconquered the lost land in Italy. We should however give equal rights to its population to prevent any revolts against our rule;;;;;;;x
+france_sphere_egy_title;Ask France for support!;;;;;;;x
+france_sphere_egy_desc;We need to ask France for support against the Ottomans.;;;;;;;x
+tur_sphere_egy_title;Ask the Ottomans for support!;;;;;;;x
+tur_sphere_egy_desc;We should seek peace with the Ottomans and ask them to help us westernize.;;;;;;;x
+russia_sphere_egy_title;Ask Russia for support!;;;;;;;x
+russia_sphere_egy_desc;Russia as always been an enemy to the Ottomans, they would probably help us.;;;;;;;x
+cisapline_submission_title;Cisalpine submission!;;;;;;;x
+cisapline_submission_desc;For long, the Cisapline people have been a part of the empire. It's time to make them true citizens!;;;;;;;x
+reintegrate_the_netherlands_title;Reintegrate the Netherlands!;;;;;;;x
+reintegrate_the_netherlands_desc;Long ago, the Netherlands were integrated into the French Empire. But they broke free after the Death of Napoleon. It's time to get them back in!;;;;;;;x
 flemish_integration_title;Flemish Integration;;;;;;;x
-flemish_integration_desc;The Flemish people have been in the empire for years. It's time to make them true citizen of the empire !;;;;;;;x
+flemish_integration_desc;The Flemish people have been in the empire for years. It's time to make them true citizens of the empire!;;;;;;;x
 dutch_integration_title;Dutch Integration;;;;;;;x
-dutch_integration_desc;The Dutch people might try to revolt if we don't accept them into our empire. It's time to do so !;;;;;;;x
-accept_cisalpine_title;Accept Cisalpine;;;;;;;x
-accept_cisalpine_desc;We hav eunited Italy and should accept every italian !;;;;;;;x
+dutch_integration_desc;The Dutch people might try to revolt if we don't accept them into our empire. It's time to do so!;;;;;;;x
+accept_cisalpine_title;Accept the Cisalpine people!;;;;;;;x
+accept_cisalpine_desc;We have united Italy and should accept every italian!;;;;;;;x
 political_bonus_title;Political Focus;;;;;;;x
-political_bonus_desc;We have to choose a new focus for the 10 years to come !;;;;;;;x
-republic_culture_decision_1_title;Give Citizenship to a culture !;;;;;;;x
-republic_culture_decision_1_desc;We have to appease one of the many culture in order to make sure no ones revolts;;;;;;;x
-republic_culture_decision_2_title;Give Citizenship to a culture !;;;;;;;x
-republic_culture_decision_2_desc;We have to appease one of the many culture in order to make sure no ones revolts;;;;;;;x
-republic_culture_decision_3_title;Give Citizenship to a culture !;;;;;;;x
-republic_culture_decision_3_desc;We have to appease one of the many culture in order to make sure no ones revolts;;;;;;;x
-accept_rhenish_title;Acceptance of Rhenish;;;;;;;x
-accept_rhenish_desc;We should accept the rhenish people in order to avoid another rhenish revolt !;;;;;;;x
-improve_france_1_title;Alexandre trade Reforms;;;;;;;x
-improve_france_1_desc;Seeing how France was left after the Napoleonic wars and the end of Napoleon reign, Alexandre has taken a lot of reforms to better the working condition of a lot of people as well as the commerce inside the nation;;;;;;;x
-improve_france_2_title;Alexandre Peoples Reforms;;;;;;;x
-improve_france_2_desc;To continue his reforms, he axed the new ones on the life of the people as population is stagnating in France while its exploding in the other parts of Europe;;;;;;;x
+political_bonus_desc;We have to choose a new focus for the 10 years to come!;;;;;;;x
+republic_culture_decision_1_title;Give Citizenship to a culture!;;;;;;;x
+republic_culture_decision_1_desc;We have to appease one of the many culture in order to make sure no one revolts;;;;;;;x
+republic_culture_decision_2_title;Give Citizenship to a culture!;;;;;;;x
+republic_culture_decision_2_desc;We have to appease one of the many culture in order to make sure no one revolts;;;;;;;x
+republic_culture_decision_3_title;Give Citizenship to a culture!;;;;;;;x
+republic_culture_decision_3_desc;We have to appease one of the many culture in order to make sure no one revolts;;;;;;;x
+accept_rhenish_title;Acceptance of the Rhenish;;;;;;;x
+accept_rhenish_desc;We should accept the Rhenish people in order to avoid another Rhenish revolt!;;;;;;;x
+improve_france_1_title;Alexandre's Trade Reforms;;;;;;;x
+improve_france_1_desc;Seeing how France was left after the Napoleonic wars and the end of Napoleon reign, Alexandre has enacted a lot of reforms to better the working condition of a lot of people as well as the commerce inside the nation;;;;;;;x
+improve_france_2_title;Alexandre's Social Reforms;;;;;;;x
+improve_france_2_desc;Continuing his reforms, he significantly improved on the daily life of the people as population is stagnating in France while its exploding in the other parts of Europe;;;;;;;x
 north_german_question_title;The North German Question;;;;;;;x
-north_german_question_desc;It's time to teach the french way to those german to further their integration inside the empire !;;;;;;;x
+north_german_question_desc;It's time to teach the french way to those german to further their integration inside the empire!;;;;;;;x
 expand_citizenship2_ibr_title;Grant citizenship to the Phillipines;;;;Conceder la ciudadan�a a los filipinos;;;x
 expand_citizenship2_ibr_desc;Now that Iberia has been united, let's continue this propagation of citizenship to our last asian colonies, the Phillipines.;;;;Ahora que Iberia se ha unido, continuemos esta propagaci�n de la ciudadan�a a nuestras �ltimas colonias asi�ticas, las Filipinas.;;;x
 glory_to_the_spanish_empire_dutch_title;Glory to the Spanish Empire!;;;;�Gloria al imperio espa�ol!;;;x
 glory_to_the_spanish_empire_dutch_desc;We have reclaim our long lost land in the Netherlands , we can reestablish the Spanish Empire!;;;;Ahora que hemos recuperado todas nuestras provincias perdidas en el sur de Italia, �podemos restablecer el Imperio Espanol!;;;x
 glory_to_the_spanish_empire_italy_title;Glory to the Spanish Empire!;;;;�Gloria al imperio espa�ol!;;;x
 glory_to_the_spanish_empire_italy_desc;Now that we have recovered all of our lost provinces in south Italy and Milan, we can reestablish the Spanish Empire!;;;;Ahora que hemos recuperado todas nuestras provincias perdidas en el sur de Italia, �podemos restablecer el Imperio Espanol!;;;x
-acceptance_of_steppe3_title;Acceptance of Mongolian;;;;;;;x
-acceptance_of_steppe3_desc;Mongolia is the last steppes that isn't ours. This is the final step in our Eastern plan. Now it's time to integrate them !;;;;;;;x
+acceptance_of_steppe3_title;Acceptance of the Mongolians;;;;;;;x
+acceptance_of_steppe3_desc;Mongolia is the last steppe that isn't ours. This is the final step in our Eastern plan. Now it's time to integrate them!;;;;;;;x
 southern_slavs_title;Southern Slavs;;;;;;;x
-southern_slavs_desc;We have always wanted to unite the southern slavs, victims of the Ottomans and Austria. Now we can claim to be the protector of all slavs !;;;;;;;x
-hide_southern_russia_title;Hide Southern Path;;;;;;;x
-hide_southern_russia_desc;Does what the title says for those who wants to have a clean decision tab;;;;;;;x
-show_southern_russia_title;Show Southern Path
-show_southern_russia_desc;Does what the title says;;;;;;;x
-hide_western_russia_title;Hide Western Path;;;;;;;x
-hide_western_russia_desc;Does what the title says for those who wants to have a clean decision tab;;;;;;;x
-show_western_russia_title;Show Western Path
-show_western_russia_desc;Does what the title says;;;;;;;x
-ask_holstein_title;Ask For Holstein;;;;;;;x
-ask_holstein_desc;Holstein is a legitimate territory, we should ask for itsays;;;;;;;x
-ask_malta_title;Ask For Malta;;;;;;;x
-ask_malta_desc;Malta is a legitimate territory, we should ask for itsays;;;;;;;x
-ask_stralsund_title;Ask Stralsund;;;;;;;x
-ask_stralsund_desc;Stralsund is germand and should be ours !;;;;;;;x
-ask_lubeck_title;Ask Lubeck;;;;;;;x
-ask_lubeck_desc;Lubeck is germand and should be ours !;;;;;;;x
-form_grobgermany_title;Grob Germany !;;;;;;;x
-form_grobgermany_desc;We have finally united all german people, it's a glorious day for our nation !;;;;;;;x
+southern_slavs_desc;We have always wanted to unite the southern slavs, victims of the Ottomans and Austria. Now we can claim to be the protector of all Slavs!;;;;;;;x
+hide_southern_russia_title;Hide the Southern Path;;;;;;;x
+hide_southern_russia_desc;Hides the Southern Expansion Path;;;;;;;x
+show_southern_russia_title;Show the Southern Path
+show_southern_russia_desc;Shows the Southern Expansion Path;;;;;;;x
+hide_western_russia_title;Hide the Western Path;;;;;;;x
+hide_western_russia_desc;Hides the Western Expansion Path;;;;;;;x
+show_western_russia_title;Show the Western Path
+show_western_russia_desc;Shows the Western Expansion Path.;;;;;;;x
+ask_holstein_title;Ask for Holstein;;;;;;;x
+ask_holstein_desc;Holstein is our legitimate territory. We should.. 'peacefully request' that it be returned to us.;;;;;;;x
+ask_malta_title;Ask for Malta;;;;;;;x
+ask_malta_desc;Malta is our legitimate territory. We should.. 'peacefully request' that it be returned to us.;;;;;;;x
+ask_stralsund_title;Ask for Stralsund;;;;;;;x
+ask_stralsund_desc;Stralsund is German and should be ours!;;;;;;;x
+ask_lubeck_title;Ask for Lubeck;;;;;;;x
+ask_lubeck_desc;Lubeck is German and should be ours!;;;;;;;x
+form_grobgermany_title;Great Germany!;;;;;;;x
+form_grobgermany_desc;We have finally united all German people, it's a glorious day for our nation!;;;;;;;x
 united_netherlands_title;United Netherlands;;;;;;;x
-united_netherlands_desc;We have finally united all dutch people !;;;;;;;x
+united_netherlands_desc;We have finally united all Dutch people!;;;;;;;x
 expand_netherlands1_title;Expand to Flanders;;;;;;;x
-expand_netherlands1_desc;We have expanded to the flemish territory, we should accept them to avoid any revotl;;;;;;;x
+expand_netherlands1_desc;We have expanded to the Flemish territory, we should accept them to avoid any revolts.;;;;;;;x
 expand_netherlands2_title;Expand to Wallonia;;;;;;;x
-expand_netherlands2_desc;We have conquered the land of the Wallonian and it's our duty to acccept them as a part of our citizen as citizen of the old Kingdom of the Netherlands !;;;;;;;x
-expand_north_title;Expantion in the North of France;;;;;;;x
-expand_north_desc;We have conquered the land of the Picard. They are our southern brethen and we should give them citizenship to avoid any revolts;;;;;;;x
+expand_netherlands2_desc;We have conquered the land of the Wallonians and it's our duty to acccept them as citizens of the old Kingdom of the Netherlands!;;;;;;;x
+expand_north_title;Expansion in the North of France;;;;;;;x
+expand_north_desc;We have conquered the land of the Picards. They are our southern brethen and we should give them citizenship to avoid any revolts.;;;;;;;x
+form_psl_title;Form the Slavic Union!;;;;;;;x
+form_psl_desc;It's common knowledge that we Slavs have many things in common, besides a country. Russia, before the Great Napoleonic Wars, had the mindset of 'Panslavism', but that didn't work out because of the French Empire. Uniting all Northern Slavs is a good idea, providing we don't fall like Russia did.;;;;;;;x

@@ -1,5 +1,5 @@
 political_decisions = {
-    form_zachadia = {
+    form_psl = {
 		picture = decision_zac
 		potential = {
             has_country_flag = psl_enable
