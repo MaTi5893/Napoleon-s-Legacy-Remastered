@@ -488,7 +488,6 @@ country_event = {
 					tag = FRA
 					tag = POL
 					tag = PLC
-					tag = CPL
 				}
 				exists = yes
 			}
