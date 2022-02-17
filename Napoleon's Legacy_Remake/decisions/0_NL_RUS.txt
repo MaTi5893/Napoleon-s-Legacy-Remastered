@@ -245,7 +245,10 @@ political_decisions = {
 		potential = {
 			NOT = {accepted_culture = serb}
 			accepted_culture = ukrainian
-			tag = RUS
+			OR = {
+				tag = RUS
+				tag = WSF
+			}
 			NOT = {has_country_flag = hide_western_russia}
 		}
 		allow = {
@@ -466,6 +469,7 @@ political_decisions = {
 		picture = persia_decision
 		potential = {
 			NOT = {has_country_flag = hide_southern_russia}
+			NOT = {has_country_flag = hide_western_russia}
 			tag = RUS
 		}
 		allow = {
@@ -480,6 +484,7 @@ political_decisions = {
 		picture = persia_decision
 		potential = {
 			has_country_flag = hide_southern_russia
+			NOT = {has_country_flag = hide_western_russia}
 			tag = RUS
 		}
 		allow = {
@@ -492,6 +497,7 @@ political_decisions = {
 		picture = decision_ukraine
 		potential = {
 			NOT = {has_country_flag = hide_western_russia}
+			NOT = {has_country_flag = hide_southern_russia}
 			tag = RUS
 		}
 		allow = {
@@ -506,6 +512,7 @@ political_decisions = {
 		picture = decision_ukraine
 		potential = {
 			has_country_flag = hide_western_russia
+			NOT = {has_country_flag = hide_southern_russia}
 			tag = RUS
 		}
 		allow = {
