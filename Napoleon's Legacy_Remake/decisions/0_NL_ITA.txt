@@ -6,7 +6,7 @@ political_decisions = {
 			ITA = { exists = no }
 			NOT = {accepted_culture = occitan}
 			NOT = {accepted_culture = greek}
-			NOT = {accepted_culture = slovene}
+			NOT = {accepted_culture = croat}
 		}
 		allow = {
 			war_policy = jingoism
@@ -95,7 +95,7 @@ political_decisions = {
 			}
 			NOT = {accepted_culture = occitan}
 			NOT = {accepted_culture = greek}
-			NOT = {accepted_culture = slovene}
+			NOT = {accepted_culture = croat}
 		}
 		allow = {
 			war = no
@@ -172,7 +172,7 @@ political_decisions = {
 			NOT = {has_country_flag = get_rome}
 			NOT = {accepted_culture = occitan}
 			NOT = {accepted_culture = greek}
-			NOT = {accepted_culture = slovene}
+			NOT = {accepted_culture = croat}
 		}
 		allow = {
 			war = no
@@ -281,7 +281,7 @@ political_decisions = {
 			}
 			NOT = {accepted_culture = occitan}
 			NOT = {accepted_culture = greek}
-			NOT = {accepted_culture = slovene}
+			NOT = {accepted_culture = croat}
 		}
 		allow = {
 			GRE = {exists = no}
@@ -397,7 +397,7 @@ political_decisions = {
 			}
 			NOT = {accepted_culture = occitan}
 			NOT = {accepted_culture = greek}
-			NOT = {accepted_culture = slovene}
+			NOT = {accepted_culture = croat}
 		}
 		allow = {
 			war = no
@@ -463,9 +463,8 @@ political_decisions = {
 					NOT = {has_country_flag = get_rome}
 				}
 			}
-			NOT = {accepted_culture = occitan}
-			NOT = {accepted_culture = greek}
-			accepted_culture = slovene
+			NOT = {accepted_culture = serb}
+			accepted_culture = croat
 		}
 		allow = {
 			war = no
@@ -529,8 +528,7 @@ political_decisions = {
 					NOT = {has_country_flag = get_rome}
 				}
 			}
-			NOT = {accepted_culture = occitan}
-			NOT = {accepted_culture = greek}
+			NOT = {accepted_culture = albanian}
 			accepted_culture = serb
 		}
 		allow = {
@@ -606,7 +604,7 @@ political_decisions = {
 			}
 			NOT = {accepted_culture = occitan}
 			NOT = {accepted_culture = greek}
-			NOT = {accepted_culture = slovene}
+			NOT = {accepted_culture = croat}
 		}
 		allow = {
 			war = no
