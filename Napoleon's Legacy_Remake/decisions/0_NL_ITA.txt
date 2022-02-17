@@ -327,7 +327,7 @@ political_decisions = {
 				tag = PAP
 			}
 			accepted_culture = greek
-			NOT = {accepted_culture = north_africa}
+			NOT = {has_country_flag = north_africa}
 		}
 		allow = {
 			all_core = {
@@ -434,7 +434,7 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = slovene
-			add_accepted_culture = 
+			add_accepted_culture = croat
 			SLO = {
 				all_core = {
 					add_core = THIS
