@@ -75,6 +75,7 @@ political_decisions = {
 				all_core = {
 					OR = {
                         owned_by = THIS
+						empty = yes
                         owner = {
                             OR = {
                                 in_sphere = THIS
@@ -113,27 +114,27 @@ political_decisions = {
             }
 			POL = {
 				all_core = {
-					add_core = ZAC
+					add_core = WSF
 				}
 			}
 			CZH = {
 				all_core = {
-					add_core = ZAC
+					add_core = WSF
 				}
 			}
             UKR = {
 				all_core = {
-					add_core = ZAC
+					add_core = WSF
 				}
 			}
             BYE = {
 				all_core = {
-					add_core = ZAC
+					add_core = WSF
 				}
 			}
             RUS = {
 				all_core = {
-					add_core = ZAC
+					add_core = WSF
 				}
 			}
             all_core = {

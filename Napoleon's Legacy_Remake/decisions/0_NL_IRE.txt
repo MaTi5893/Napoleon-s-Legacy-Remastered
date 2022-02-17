@@ -89,9 +89,10 @@ form_celtic_union = {
 				}
 			effect = {
 				badboy = 4
+				add_accepted_culture = cymru
 				add_core = 299
 				add_core = 304 
-				add_core = 277
+				add_core = 277				
 				set_country_flag = cornwallandmann
 				}
 			}
