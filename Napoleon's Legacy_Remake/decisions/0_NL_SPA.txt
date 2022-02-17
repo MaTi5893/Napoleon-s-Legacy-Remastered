@@ -417,6 +417,7 @@ political_decisions = {
 		potential = {
 			accepted_culture = occitan
 			tag = SPA
+			NOT = {accepted_culture = french}
 		}
 		allow = {
 			FRA = {
@@ -446,6 +447,7 @@ political_decisions = {
 					add_core = THIS
 					secede_province = THIS
 				}
+				annex_to = THIS
 			}
 			prestige = 30
 		}
@@ -455,6 +457,7 @@ political_decisions = {
 		potential = {
 			accepted_culture = french
 			tag = SPA
+			NOT = {accepted_culture = picard}
 		}
 		allow = {
 			all_core = {
