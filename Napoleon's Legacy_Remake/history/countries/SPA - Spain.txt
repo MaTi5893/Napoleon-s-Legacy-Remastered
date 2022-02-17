@@ -13,7 +13,7 @@ civilized = yes
 prestige = 40
 
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = state_equal_weight
 vote_franschise = wealth_voting
 public_meetings = yes_meeting
