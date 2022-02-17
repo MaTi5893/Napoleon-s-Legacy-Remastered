@@ -101,7 +101,7 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Jan Hus" "Karel IV" "Prokop Veliký" "Anton Bernolak" "Ludovit Štur" 
+		"Jan Hus" "Karel IV" "Prokop Veliky" "Anton Bernolak" "Ludovit Stur" 
 	}
 	ironclad = {
 		Praha Brno Ostrava Bratislava Košice 
@@ -113,10 +113,10 @@ unit_names = {
 		Jizera Metuje Morava Hron Bodrog   
 	}
 	frigate = {
-		"Jan Dismas Zelenka" "Šimon Brixi" "František Tuma" "Jan Šimbracký" "Zachariaš Zarewutius" 
+		"Jan Dismas Zelenka" "Simon Brixi" "Frantisek Tuma" "Jan Simbracky" "Zacharias Zarewutius" 
 	}
 	monitor = {
-		"Petr Brandl" "Vaclav Hollar" "Jan Jahn" "Majster košickeho oltara" "Josef Czauczik" 
+		"Petr Brandl" "Vaclav Hollar" "Jan Jahn" "Majster kosickeho oltara" "Josef Czauczik" 
 	}
 	clipper_transport = {
 		
@@ -125,6 +125,6 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		"Pražský hrad" Vyšehrad Zbraslav "Bojnický zamok" "Bratislavsky hrad" 
+		"Prazsky hrad" Vysehrad Zbraslav "Bojnicky zamok" "Bratislavsky hrad" 
 	}
 }

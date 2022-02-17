@@ -51,7 +51,6 @@ country_event = {
         create_vassal = FRM
         create_vassal = NAS
         create_vassal = HES
-        create_vassal = HEK
         create_vassal = BRA
 	}
     option = {
@@ -209,7 +208,6 @@ country_event = {
         create_vassal = FRM
         create_vassal = NAS
         create_vassal = HES
-        create_vassal = HEK
         create_vassal = BRA
 	}
 	option = {
