@@ -1,22 +1,21 @@
 political_decisions = {
-    form_psl = {
-		picture = decision_zac
+    form_wsf = {
+		picture = WSF_decision
 		potential = {
-            has_country_flag = psl_enable
 			OR = {
 				primary_culture = russian
                 primary_culture = slovak
                 primary_culture = polish
                 primary_culture = ukrainian
                 primary_culture = byelorussian
+                primary_culture = czech
 			}
 			NOT ={
-                tag = ZAC
                 tag = CZH
+                tag = WSF
                 accepted_culture = estonian
                 accepted_culture = serb
             }
-			NOT = {accepted_culture = ukrainian}
 		}
 		allow = {
 			POL = {
@@ -32,7 +31,7 @@ political_decisions = {
                     }
 				}
 			}
-			SLV = {
+			CSH = {
 				all_core = {
 					OR = {
                         owned_by = THIS
@@ -94,6 +93,7 @@ political_decisions = {
 			add_accepted_culture = byelorussian
             add_accepted_culture = polish
             add_accepted_culture = russian
+            add_accepted_culture = czech
             any_country = {
                 limit = {
                     OR = {
@@ -106,6 +106,7 @@ political_decisions = {
                         primary_culture = polish
                         primary_culture = ukrainian
                         primary_culture = byelorussian
+                        primary_culture = czech
                     }
                 }
                 annex_to = THIS
@@ -115,7 +116,7 @@ political_decisions = {
 					add_core = ZAC
 				}
 			}
-			SLV = {
+			CZH = {
 				all_core = {
 					add_core = ZAC
 				}
