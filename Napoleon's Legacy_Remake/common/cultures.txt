@@ -302,16 +302,16 @@ british = {
 	}
 	Scotish = {
 		color = { 192 207 31}
-		first_names = { Àdhamh Aindrea Alasdair Baltair Beistean Brian Cailean Caomhainn Ciaran Coinneach Comhnall Cormag Cuithbeart
-		Dàibhidh Daidh Daniel Deòrsa Domhnall Donnchadh Dubh Dubhghall Dùghlas Ealar Eòghann Eumann Eòin Eòsaph Faolan Fearghas Filib
-		Fionnlagh Gilleasbuig Gille-Brìdhde Gillebeart Goraidh Guaidre Harailt Iain Iomhair Iòna Lachlann Maol-Iosa Maoldònaich Mata
-		Murchadh Niall Padruig Peadrus Pàl Raghnall Seoras Simidh Somhairle Tadhg Tomaidh Ùisdean }
+		first_names = { Adhamh Aindrea Alasdair Baltair Beistean Brian Cailean Caomhainn Ciaran Coinneach Comhnall Cormag Cuithbeart
+		Daibhidh Daidh Daniel Deorsa Domhnall Donnchadh Dubh Dubhghall Dughlas Ealar Eoghann Eumann Eoin Eosaph Faolan Fearghas Filib
+		Fionnlagh Gilleasbuig Gille-Brìdhde Gillebeart Goraidh Guaidre Harailt Iain Iomhair Iona Lachlann Maol-Iosa Maoldonaich Mata
+		Murchadh Niall Padruig Peadrus Pal Raghnall Seoras Simidh Somhairle Tadhg Tomaidh Uisdean }
 		
-		last_names = { Aileanach Ambarsan Bànach Blàr Bràigheach Buiseid Caimbeulach Cananach Crannach Càidh Deòir Dòmhnullach
+		last_names = { Aileanach Ambarsan Banach Blar Braigheach Buiseid Caimbeulach Cananach Crannach Caidh Deoir Domhnullach
 		Fearghasdan Griogalach Lobhdain "Mac a' Charraige" "Mac a' Ghobhainn" "Mac a' Leora" "Mac a' Phearsain"
 		"Mac an Duibh" "Mac an Fhuibhir" "Mac an Luaimh" "Mac an Rothaich" "Mac Iain Duibh" "MacAsgaill" "MacCormaig"
-		"MacDheòrsa" "MacEalar" "MacFigeinn" "MacGiobain" "MacLagain" "MacLianain" "MacMhatha" "MacNìll" "MacPhàic"
-		MacShitrig MacTiridh Morgan Robasan Seadh Tàillear Urchadainn }
+		"MacDheorsa" "MacEalar" "MacFigeinn" "MacGiobain" "MacLagain" "MacLianain" "MacMhatha" "MacNìll" "MacPhaic"
+		MacShitrig MacTiridh Morgan Robasan Seadh Taillear Urchadainn }
 	}
 	welsh = { 
 		color = { 150 110 80}
@@ -383,7 +383,7 @@ italian = {
 		
 		last_names = { Albricci Baldissera Battista Belli Braccini Cadorna Cagni Canevaro Capello
 		Caviglia Ceccherini Calpini Cibrario Cusani Dezza "di Robilant" "di Moncalieri"
-		"d'Aouta" "di Sarzana" Emo Fanti Fara Fontana Gastaldi Giardino Govone "La Màrmora" Mambretti 
+		"d'Aouta" "di Sarzana" Emo Fanti Fara Fontana Gastaldi Giardino Govone "La Marmora" Mambretti 
 		Morghen Neurone Pallavicino Pecori-Giraldi "Pellion di Persano" Peyron Perruchetti Pianelli Porro
 		Presbitero Ramorino Ricotti Sacchi Saletta Sanna Solari Telesio Vigliardi Zupelli }
 	}
@@ -486,16 +486,16 @@ french = {
 	}
 	occitan = {
 		color = {130 100 50}
-		first_names = { Achillo Alban Alber Alfons Amedé Andieu Alòi Archambaut Aymar Beròt Bérard Bernat Berengar Carle Enric Estève Fidèl 
+		first_names = { Achillo Alban Alber Alfons Amedé Andieu Aloi Archambaut Aymar Berot Bérard Bernat Berengar Carle Enric Estève Fidèl 
 		Frederic Filipo Franç Guiraud Huc Ignaç Jan Jacin Laurenç Luis Martin Michele Nicolau Pasqual Pau Pèire Pier Privat Roman 
 		Raimond Rogier Raimond-Rogier Ton Vincenç Vitorio Zeno }
 		
 		last_names = { Amiel Azéma Bec Benet Bézots Dardier Delpuech Ladivèze Gilbert Mistral Claramunt Sala
 		"de Bordeu" Auvernhan Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre
 		d'Usès Nant d'Aurinhac Aramits Challant Guasco Gamba "de Sâteillon" Jotteu Ceppi Becca
-		Colò Carrel Roda Comì Ortèl "de Fenis" "de Saut" "de Cavalhon" "lo Rocoforto" Emperi 
+		Colo Carrel Roda Comì Ortèl "de Fenis" "de Saut" "de Cavalhon" "lo Rocoforto" Emperi 
 		Marselhés Alesenc "de Sant Africa" Castrès "de Puylaurenç" Aushés Gasc "lo Cuq" Pèira
-		Valada Bòsc Forneiron Faure Avelan Rove Ramond Andrieu "de Lonzac" "de Aurenja" }
+		Valada Bosc Forneiron Faure Avelan Rove Ramond Andrieu "de Lonzac" "de Aurenja" }
 	}
 	breton = {
 		color = {100 110 100}
