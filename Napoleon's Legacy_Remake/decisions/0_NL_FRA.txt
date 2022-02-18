@@ -179,7 +179,6 @@ political_decisions = {
 			FRM = {vassal_of = THIS}
         	NAS = {vassal_of = THIS}
         	HES = {vassal_of = THIS}
-        	HEK = {vassal_of = THIS}
         	BRA = {vassal_of = THIS}
 			HAN = {
 				all_core = {
@@ -197,7 +196,6 @@ political_decisions = {
 			FRM = {annex_to = THIS}
         	NAS = {annex_to = THIS}
         	HES = {annex_to = THIS}
-        	HEK = {annex_to = THIS}
         	BRA = {annex_to = THIS}
 			set_country_flag = annex_westphalia
 			any_pop = {
@@ -277,9 +275,6 @@ political_decisions = {
 				all_core = {add_core = THIS}
 			}
         	HES = {
-				all_core = {add_core = THIS}
-			}
-        	HEK = {
 				all_core = {add_core = THIS}
 			}
         	BRA = {
