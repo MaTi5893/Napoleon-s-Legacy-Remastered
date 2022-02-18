@@ -12,8 +12,7 @@ political_decisions = {
 			invention = expansionism
 			is_greater_power = yes
 			ADU = { OR = { is_greater_power = no primary_culture = dutch } }
-			ENG = is_greater_power = no 
-			}
+			ENG = { is_greater_power = no }
 			NOT = { any_greater_power = { OR = { primary_culture = north_german primary_culture = south_german primary_culture = rhenish } } }
 		}
 		effect = {
