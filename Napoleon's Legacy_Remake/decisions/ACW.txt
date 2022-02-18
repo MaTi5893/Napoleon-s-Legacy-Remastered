@@ -692,7 +692,7 @@ political_decisions = {
 				tag = JAP 
 				tag = MEX
 				AND = { 
-					tag = GBR 
+					tag = ENG
 					owns = 13
 				}
 			}

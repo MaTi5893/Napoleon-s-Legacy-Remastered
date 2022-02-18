@@ -1,7 +1,6 @@
 owner = CAN
 controller = CAN
 add_core = CAN
-add_core = ENG
 trade_goods = grain
 naval_base = 2
 life_rating = 35

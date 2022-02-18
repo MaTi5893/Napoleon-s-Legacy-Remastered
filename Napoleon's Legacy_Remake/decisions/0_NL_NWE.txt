@@ -74,7 +74,7 @@ political_decisions = {
 			ENG_280 = {owned_by = THIS}
 		}
 		effect = {
-			GBR = {
+			ENG = {
 				all_core = {
 					add_core = THIS
 				}
@@ -126,7 +126,7 @@ political_decisions = {
 				tag = SCA
 			}
 			accepted_culture=british
-			GBR = {
+			ENG = {
 				all_core = {
 					owned_by = THIS
 				}

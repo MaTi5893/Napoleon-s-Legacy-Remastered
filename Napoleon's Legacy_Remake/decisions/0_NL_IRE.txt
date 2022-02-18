@@ -67,7 +67,7 @@ form_celtic_union = {
 					}
 				}
 			add_core = CEL
-			remove_core = GBR		#remove GBR cores to remove the assimilation debuff 
+			remove_core = ENG		#remove ENG cores to remove the assimilation debuff 
 			}
 			change_tag = CEL
 			add_accepted_culture = Scotish
