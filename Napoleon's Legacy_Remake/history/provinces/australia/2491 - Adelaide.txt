@@ -4,4 +4,3 @@ add_core = GBR
 add_core = AST
 trade_goods = wool
 life_rating = 40
-colonial = 2
