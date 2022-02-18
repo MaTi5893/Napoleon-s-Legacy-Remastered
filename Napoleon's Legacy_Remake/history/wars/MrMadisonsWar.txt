@@ -4,6 +4,7 @@ name = "Mr. Madison's War"
 	add_attacker = USA
 	add_defender = ENG
 	add_defender = ICF
+	add_defender = CAN
 	
 	# actor
 	# receiver
