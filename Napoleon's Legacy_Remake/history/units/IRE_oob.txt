@@ -19,7 +19,7 @@ leader = {
 }
 
 army = {
-	name = "Óglaigh na hÉireann"
+	name = "Oglaigh na hEireann"
 	location = 263
 	regiment = {
 		name= "1.1. Infanteridivision"
