@@ -228,7 +228,7 @@ ENG_2087 = { 2087 2090 2089 2091 2088 } #Cape Colony
 
 ENG_2092 = { 2092 2093 2558 2094 2095 } #Northern Cape
 
-ENG_296 = { 296 299 297 298 419 } #Southwest England
+ENG_296 = { 296 299 297 298 } #Southwest England
 
 ENG_277 = { 277 278 279 285 304 } #Northwest England
 
@@ -270,7 +270,7 @@ FRA_473 = { 473 } #Corsica
 
 FRA_412 = { 412 409 410 }
 
-FRA_418 = { 418 415 416 417 }
+FRA_418 = { 418 415 416 417 419}
 
 FRA_442 = { 442 444 443 }
 

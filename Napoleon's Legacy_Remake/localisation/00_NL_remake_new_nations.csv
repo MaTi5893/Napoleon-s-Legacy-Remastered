@@ -210,3 +210,19 @@ WSF_hms_government;Slovanske Kralovstvo;;;;;;;;;;;;x
 WSF_proletarian_dictatorship;Slovanska Ludova Republika;;;;;;;;;;;;x
 WSF_fascist_dictatorship;Severna Slavia;;;;;;;;;;;;x
 WSF_democracy;Vseslovansky Svaz;;;;;;;;;;;;x
+EIC;East India Company;;;;;;;;;x;;;;;;;;
+EIC_ADJ;East Indian;;;;;;;;;x;;;;;;;;
+EIC_presidential_dictatorship_ADJ;Company;;;;;;;;;x;;;;;;;;
+EIC_absolute_monarchy;The East Indian Raj;;;;;;;;;x;;;;;;;;
+EIC_prussian_constitutionalism;The East Indian Raj;;;;;;;;;x;;;;;;;;
+EIC_hms_government;The East Indian Raj;;;;;;;;;x;;;;;;;;
+EIC_democracy;East Indian Republic;;;;;;;;;x;;;;;;;;
+EIC_proletarian_dictatorship;East Indian People's Republic;;;;;;;;;x;;;;;;;;
+EIC_fascist_dictatorship;East Indian Corporate State;;;;;;;;;x;;;;;;;;
+HUD_reactionary;The Board of Directors;;;;;;;;;x;;;;;;;;
+HUD_liberal;Business Party;;;;;;;;;x;;;;;;;;
+HUD_conservative;Soldier Party;;;;;;;;;x;;;;;;;;
+HUD_socialist;Socialist Party;;;;;;;;;x;;;;;;;;
+HUD_anarcho_liberal;Native Party;;;;;;;;;x;;;;;;;;
+HUD_communist;Communist Party;;;;;;;;;x;;;;;;;;
+HUD_fascist;Corporatist Party;;;;;;;;;x;;;;;;;;

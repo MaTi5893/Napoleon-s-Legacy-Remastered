@@ -1,5 +1,6 @@
-owner = ENG
-controller = ENG
+owner = GBR
+controller = GBR
+add_core = GBR
 add_core = NZL
 trade_goods = timber
 life_rating = 40

@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = ENG
+owner = GBR
+controller = GBR
 add_core = ORA
 add_core = SAF
 trade_goods = wool

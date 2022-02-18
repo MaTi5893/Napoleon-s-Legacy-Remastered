@@ -2,62 +2,62 @@ alliance=
 	{
 		first="ENG"
 		second="ICF"
-		end_date="1936.1.1"
+		end_date="1950.1.1"
 		start_date="1836.1.1"
 	}	
 alliance=
 	{
 		first="CHI"
 		second="KOR"
-		end_date="1936.1.1"
+		end_date="1950.1.1"
 		start_date="1836.1.1"
 	}
 alliance=
 	{
 		first="LOM"
 		second="FRA"
-		end_date="1936.1.1"
+		end_date="1950.1.1"
 		start_date="1836.1.1"
 	}
 alliance=
 	{
 		first="PLC"
 		second="SWE"
-		end_date="1936.1.1"
+		end_date="1950.1.1"
 		start_date="1836.1.1"
 	}
 alliance=
 	{
 		first="PRU"
 		second="RUS"
-		end_date="1936.1.1"
+		end_date="1950.1.1"
 		start_date="1836.1.1"
 	}
 alliance=
 	{
 		first="FRA"
 		second="SWE"
-		end_date="1936.1.1"
+		end_date="1950.1.1"
 		start_date="1836.1.1"
 	}
 alliance=
 	{
 		first="FRA"
 		second="PLC"
-		end_date="1936.1.1"
+		end_date="1950.1.1"
 		start_date="1836.1.1"
 	}	
 alliance=
 	{
 		first="FRA"
 		second="HAN"
-		end_date="1936.1.1"
+		end_date="1950.1.1"
 		start_date="1836.1.1"
 	}
 alliance=
 	{
 		first="AUS"
 		second="RUS"
-		end_date="1936.1.1"
+		end_date="1950.1.1"
 		start_date="1836.1.1"
 	}

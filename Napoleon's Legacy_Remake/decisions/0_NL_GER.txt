@@ -30,6 +30,7 @@ political_decisions = {
                     }
                 }
             }
+            set_country_flag = form_grobgermany
         }
     }
 }

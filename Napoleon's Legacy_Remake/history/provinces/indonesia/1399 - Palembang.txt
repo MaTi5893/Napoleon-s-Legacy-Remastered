@@ -1,5 +1,6 @@
-owner = ENG
-controller = ENG add_core = INO
+owner = GBR
+controller = GBR
+add_core = INO
 trade_goods = grain
 life_rating = 30
 colonial = 2

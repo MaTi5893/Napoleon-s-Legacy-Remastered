@@ -46,7 +46,8 @@ ADU		= "countries/Anglo-Dutch Union.txt"
 SPC 		= "countries/Hispanic Commonwealth.txt" 
 ZAC		= "countries/Zachadia.txt"	#Zapadoslavia
 USG		= "countries/United States of Greater Austria.txt"
-WSF     = "countries/Zapadoslavia.txt"	#Panslavia
+WSF     = "countries/Zapadoslavia.txt"	#Zacadia
+EIC     = "countries/East India Company.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"

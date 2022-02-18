@@ -1,5 +1,6 @@
-owner = ENG
-controller = ENG
+owner = GBR
+controller = GBR
+add_core = GBR
 add_core = AST
 trade_goods = iron
 life_rating = 30
