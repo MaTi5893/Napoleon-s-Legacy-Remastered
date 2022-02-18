@@ -23,7 +23,7 @@ country_event = {
 	picture = "emperor_council"
 
     option = {
-        name = "The council shall help another 10 years !"
+        name = "The council shall help another 10 years!"
         any_pop = {
 			militancy=-0.5
 			consciousness=-0.5
@@ -37,7 +37,7 @@ country_event = {
     	}
 	}
 	option = {
-        name = "I'm the only one who rule over France !"
+        name = "I'm the only one who rule over France!"
         any_pop = {
 			militancy=0.5
 			consciousness=0.5
@@ -87,7 +87,7 @@ country_event = {
     	}
 	}
 	option = {
-        name = "I'm the only one who rule over France !"
+        name = "I'm the only one who rule over France!"
         any_pop = {
 			militancy=2
 			consciousness=2
@@ -117,7 +117,7 @@ country_event = {
     option = {
         name = "Accept Catalan and Basque"
         any_pop = {
-			limite = {
+			limit = {
 				OR = {
 					culture = catalan
 					culture = basque
@@ -140,9 +140,9 @@ country_event = {
     	}
 	}
 	option = {
-        name = "Accept Rhenish !"
+        name = "Accept Rhenish!"
         any_pop = {
-			limite = {
+			limit = {
 				culture = rhenish
 			}
 			militancy=-1
@@ -160,9 +160,9 @@ country_event = {
     	}
 	}
 	option = {
-        name = "Accept Cisalpine !"
+        name = "Accept Cisalpine!"
         any_pop = {
-			limite = {
+			limit = {
 				culture = rhenish
 			}
 			militancy=-1
@@ -176,9 +176,9 @@ country_event = {
     	}
 	}
 	option = {
-        name = "Accept Flemish !"
+        name = "Accept Flemish!"
         any_pop = {
-			limite = {
+			limit = {
 				culture = flemish
 			}
 			militancy=-1
@@ -210,7 +210,7 @@ country_event = {
     option = {
         name = "Accept Catalan and Basque"
         any_pop = {
-			limite = {
+			limit = {
 				OR = {
 					culture = catalan
 					culture = basque
@@ -233,9 +233,9 @@ country_event = {
     	}
 	}
 	option = {
-        name = "Accept Rhenish !"
+        name = "Accept Rhenish!"
         any_pop = {
-			limite = {
+			limit = {
 				culture = rhenish
 			}
 			militancy=-1
@@ -253,9 +253,9 @@ country_event = {
     	}
 	}
 	option = {
-        name = "Accept Cisalpine !"
+        name = "Accept Cisalpine!"
         any_pop = {
-			limite = {
+			limit = {
 				culture = rhenish
 			}
 			militancy=-1
@@ -269,9 +269,9 @@ country_event = {
     	}
 	}
 	option = {
-        name = "Accept Flemish !"
+        name = "Accept Flemish!"
         any_pop = {
-			limite = {
+			limit = {
 				culture = flemish
 			}
 			militancy=-1
@@ -303,7 +303,7 @@ country_event = {
     option = {
         name = "Accept Catalan and Basque"
         any_pop = {
-			limite = {
+			limit = {
 				OR = {
 					culture = catalan
 					culture = basque
@@ -326,9 +326,9 @@ country_event = {
     	}
 	}
 	option = {
-        name = "Accept Rhenish !"
+        name = "Accept Rhenish!"
         any_pop = {
-			limite = {
+			limit = {
 				culture = rhenish
 			}
 			militancy=-1
@@ -346,9 +346,9 @@ country_event = {
     	}
 	}
 	option = {
-        name = "Accept Cisalpine !"
+        name = "Accept Cisalpine!"
         any_pop = {
-			limite = {
+			limit = {
 				culture = rhenish
 			}
 			militancy=-1
@@ -362,9 +362,9 @@ country_event = {
     	}
 	}
 	option = {
-        name = "Accept Flemish !"
+        name = "Accept Flemish!"
         any_pop = {
-			limite = {
+			limit = {
 				culture = flemish
 			}
 			militancy=-1
@@ -401,7 +401,7 @@ country_event = {
 	desc = "EVTDESC600028"
 	picture = "paris_occupied"
 	option = {
-        name = "Sacrebleu !"
+        name = "Sacrebleu!"
 		FRA = {
 			add_country_modifier = {
 				name = paris_lost
