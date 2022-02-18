@@ -24,7 +24,6 @@ political_decisions = {
 		picture = south_italy_decision
 		potential = {
 			tag = SPA
-			NOT = { has_country_flag = expension_in_southern_italy }
 			NOT = { accepted_culture = south_italian }
 			has_country_flag=domination_of_western_mediterranean_see
 		}
@@ -81,7 +80,6 @@ political_decisions = {
 			tag = SPA
 			NOT = {accepted_culture = caribeno}
 			accepted_culture = south_italian 
-			has_country_flag=expension_in_southern_italy
 		}
 		allow = {
 			is_greater_power = yes
@@ -135,7 +133,6 @@ political_decisions = {
 			tag = SPA
 			NOT = {accepted_culture = caribeno}
 			accepted_culture = south_italian
-			has_country_flag=expension_in_southern_italy
 		}
 		allow = {
 			is_greater_power = yes

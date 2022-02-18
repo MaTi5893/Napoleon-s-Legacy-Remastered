@@ -327,7 +327,7 @@ political_decisions = {
 				tag = PAP
 			}
 			accepted_culture = greek
-			NOT = {has_country_flag = north_africa}
+			NOT = {accepted_culture = maltese}
 		}
 		allow = {
 			all_core = {
@@ -447,7 +447,6 @@ political_decisions = {
 					secede_province = THIS
 				}
 			}
-			set_country_flag = balkan_expansion1
 			prestige = 20
 		}
 	}
