@@ -19,7 +19,7 @@ insane_empire2;Large Insane Empire;;;;Imperio Absurdamente Grande;;;x
 take_capital;Take Capital;;;;Toma de capital;;;x
 take_capital_desc;Take the Capital region of a §Ycountry§W and force them to move their capital elsewhere;;;;Tomar la región de la capital de un §YPaís§W y obligarles a trasladar su capital a otro lugar;;;x
 take_capital_setup;Take Capital $STATE$ for $THIRD$;;;;Toma Capital $STATE$ para $THIRD$;;;x
-take_capital_short;Takes Capital from $RECIPIENT$ for $THIRD$;;;;Toma de capital de $RECIPIENT$ para $THIRD$;;;x
+take_capital_short;Takes Capital for $THIRD$;;;;Toma de capital de $RECIPIENT$ para $THIRD$;;;x
 minor_conquest;Minor Conquest;;;;Conquista menor;;;x
 minor_conquest_desc;Annex a §Ycountry§W of small size and population by conquest;;;;Anexo un §YPaís§W de pequeno tamano y población por conquista;;;x
 minor_conquest_setup;Annex minor nation of $RECIPIENT$;;;;Anexo nación menor, $RECIPIENT$;;;x
@@ -36,8 +36,8 @@ negotiated_transfer;Negotiated Transfer;;;;Transferencia negociada;;;x
 negotiated_transfer_desc;Take a state or colonial region from another player with no effect on infamy, prestige, or jingoism, with their consent;;;;Tomar un estado o región colonial de otro jugador sin efecto en la infamia, el prestigio o el patriotismo, con su consentimiento;;;x
 negotiated_transfer_short;Take $STATE$ from $RECIPIENT$ for $THIRD$;;;;Tomar $STATE$ de $RECIPIENT$ para $THIRD$;;;x
 negotiated_transfer_setup;Take $STATE$ from $RECIPIENT$ for $THIRD$ with their consent;;;;Tomar $STATE$ de $RECIPIENTE$ por $THIRD$ con su consentimiento;;;x
-NORMAL_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $THIRD_COUNTRY$;;;;$ORDER$$SECOND$ Transferencia de $STATE$ a $THIRD_COUNTRY$;;;x
-AGRESSION_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $THIRD_COUNTRY$;;;;$ORDER$$SECOND$ Transferencia de $STATE$ a $THIRD_COUNTRY$;;x
+NORMAL_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $THIRD$;;;;$ORDER$$SECOND$ Transferencia de $STATE$ a $THIRD_COUNTRY$;;;x
+AGRESSION_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $THIRD$;;;;$ORDER$$SECOND$ Transferencia de $STATE$ a $THIRD_COUNTRY$;;x
 acquire_state;Acquire State;;;;Adquirir el Estado;;;x
 acquire_state_short;Acquire $STATE$ for $THIRD$;;;;Adquirir $STATE$ para $THIRD$;;;x
 acquire_state_desc;Acquire an enemy §Ystate§W.;;;;Adquirir un enemigo §Yestado§W;;;x

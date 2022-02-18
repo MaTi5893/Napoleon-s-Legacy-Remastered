@@ -389,10 +389,6 @@ acquire_treaty_port;Acquire Treaty Port;;;;Spanish Loc;;;x
 acquire_treaty_port_desc;Acquire a treaty port concession by force from China;;;;Spanish Loc;;;x
 acquire_treaty_port_setup;Acquire the treaty port of $STATE$ from $RECIPIENT$;;;;Spanish Loc;;;x
 acquire_treaty_port_short;Acquires concession of $STATE$;;;;Spanish Loc;;;x
-take_capital;Take Capital;;;;Spanish Loc;;;x
-take_capital_desc;Take the Capital region of a �Ycountry�W and force them to move their capital elsewhere;;;;Spanish Loc;;;x
-take_capital_setup;Take Capital region $STATE$ of $RECIPIENT$;;;;Spanish Loc;;;x
-take_capital_short;Takes Capital from $RECIPIENT$;;;;Spanish Loc;;;x
 conquest_low;Minor Conquest;;;;Spanish Loc;;;x
 conquest_low_desc;Annex a �Ycountry�W of small size and population by conquest;;;;Spanish Loc;;;x
 conquest_low_setup;Annex minor nation of $RECIPIENT$;;;;Spanish Loc;;;x
@@ -404,7 +400,7 @@ establish_colonial_protectorate_casus_belli_short;Annex $RECIPIENT$;;;;Spanish L
 demand_colonial_concession_casus_belli;Demand African concession;;;;Spanish Loc;;;x
 demand_colonial_concession_casus_belli_desc;Demand a colonial concession from African nation that could not be attacked early;;;;Spanish Loc;;;x
 demand_colonial_concession_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;Spanish Loc;;;x
-demand_colonial_concession_casus_belli_short;Demand $STATE$;;;;Spanish Loc;;;x
+demand_colonial_concession_casus_belli_short;Demand $STATE$ for $THIRD$;;;;Spanish Loc;;;x
 negotiated_transfer;Negotiated Transfer;;;;Spanish Loc;;;x
 negotiated_transfer_desc;Transfer a state or colonial region to another country with no effect on infamy, prestige, or jingoism;;;;Spanish Loc;;;x
 negotiated_transfer_short;Transfer $STATE$ from $RECIPIENT$ to us;;;;Spanish Loc;;;x

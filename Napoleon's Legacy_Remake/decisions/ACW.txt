@@ -726,8 +726,10 @@ political_decisions = {
 						owns = 13 #Vancouver
 					}
 				}
-				tag = ENG
-				AND = { tag = GBR owns = 13 } 
+				AND = { 
+					OR = { tag = ENG tag = GBR } 
+					owns = 13 
+				} 
 				AND = { tag = JAP owns = 13 }
 				AND = { tag = MEX rank = 8 }
 			}

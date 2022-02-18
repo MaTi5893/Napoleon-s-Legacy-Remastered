@@ -91,10 +91,6 @@ demand_concession_casus_belli_china;Chinese Core Concession;;;;Concesión de núcl
 demand_concession_casus_belli_china_short;Demand $STATE$ from China;;;;Exigir $STATE$ a China;;;x
 demand_concession_casus_belli_china_desc;Force China to concede core territory.;;;;Obligar a China a ceder el territorio principal.;;;x
 demand_concession_casus_belli_china_setup;Demand that $RECIPIENT$ secede territory.;;;;Exigir a los $RECIPIENTES$ la secesión del territorio.;;;x
-take_capital;Take Capital;;;;Toma de capital;;;x
-take_capital_short;Acquire capital $STATE$ for $THIRD$.;;;;Adquirir capital $STATE$ para $THIRD$;;;x
-take_capital_desc;Force target to concede its capital $STATE$.;;;;Obligar al objetivo a ceder su capital $STATE$.;;;x
-take_capital_setup;Demand that $RECIPIENT$ secede its capital.;;;;Exigir que el $RECIPIENTE$ separe su capital.;;;x
 #############################################;;;;;;;x
 #Additional Modifiers;;;;;;;x
 #############################################;;;;;;;x
