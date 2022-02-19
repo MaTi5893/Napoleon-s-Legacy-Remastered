@@ -20,61 +20,6 @@ political_decisions = {
 			set_country_flag = vittoriano_built
 		}
 	}
-	the_case_of_edgardo_mortara = {
-		potential = {
-			tag = PAP
-			government = absolute_monarchy
-			NOT = {
-				has_country_flag = edgardo_mortara
-			}
-			year = 1858
-			owns = 741
-		}
-		allow = {
-			idealism = 1
-		}
-		effect = {
-			prestige = 15
-			badboy = 1
-			any_greater_power = {
-				relation = {
-					value = -20
-					who = THIS
-				}
-			}
-			set_country_flag = edgardo_mortara
-		}
-	}
-	
-	the_first_vatican_council = {
-		potential = {
-			tag = PAP
-			government = absolute_monarchy
-			NOT = {
-				has_country_flag = first_vatican_council_held
-			}
-		}
-		
-		allow = {
-			empiricism = 1
-		}
-		
-		effect = {
-			prestige = 10
-			badboy = 1
-			any_country = {
-				limit = {
-					religion = catholic
-				}
-				relation = {
-					who = THIS
-					value = 10
-				}
-			}
-			set_country_flag = first_vatican_council_held
-		}
-	}
-
 	law_of_guarantees = {
 		potential = {
 			tag = ITA
