@@ -88,6 +88,7 @@ political_decisions = {
 	}
 
 	form_burgundy =  { 
+		picture = burgundy_decision
 		potential = { 
 			tag = NET 
 			has_country_flag = expand_netherlands2
@@ -123,6 +124,7 @@ political_decisions = {
 				tag = NET
 			}
 			has_country_flag = expand_netherlands2
+			NOT = {accepted_culture = picard}
 		}
 		allow = {
 			war = no

@@ -204,7 +204,6 @@ political_decisions = {
         effect = {
             add_accepted_culture = dutch
             add_accepted_culture = north_italian
-            add_accepted_culture = swiss
             add_accepted_culture = slovene
             add_accepted_culture = flemish
             add_accepted_culture = wallonian
@@ -257,19 +256,13 @@ political_decisions = {
         allow = {
             is_greater_power = yes
             war = no
-            SWI = {
-                all_core = {
-                    owned_by = THIS
-                }
-            }
+            SWI_603 = {owned_by = THIS}
+            SWI_605 = {owned_by = THIS}
             revolution_n_counterrevolution = 1
         }
         effect = {
-            SWI = {
-                all_core = {
-                    add_core= THIS
-                }
-            }   
+            SWI_603 = {add_core = THIS}
+            SWI_605 = {add_core = THIS}
             prestige =10
             set_country_flag = expand_switzerland
         }

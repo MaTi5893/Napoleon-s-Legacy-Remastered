@@ -1,0 +1,78 @@
+country_event = {
+	id = 600033
+	trigger = {
+		tag = ENG
+		ENG = {controls = 425}
+		NOT = { has_country_flag = paris_capture }
+    }
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	fire_only_once = yes
+
+    title = "EVTNAME600033"
+	desc = "EVTDESC600033"
+	picture = "paris_occupied"
+	option = {
+        name = "Paris is ours !"
+		FRA_425 = {add_core = ENG}
+		ENG = {set_country_flag = paris_capture}
+    }
+}
+
+country_event = {
+	id = 600034
+	trigger = {
+		tag = GBR
+		NOT = {year = 1837}
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+    title = "EVTNAME600034"
+	desc = "EVTDESC600034"
+	picture = "debate"
+    option = {
+        name = "Establish the Capital in South Africa"
+        any_pop = {
+            limit = {
+                culture = boer
+            }
+			militancy=-2
+			consciousness=-2
+		}
+		SAF = {
+            all_core = {
+                limit = {
+                    owned_by = GBR
+                }
+                add_core = GBR
+            }
+        }
+        add_accepted_culture = boer
+        GBR = {capital = 2087}
+        clr_country_flag = new_world_nation
+        ai_chance = {
+			factor = 0.5
+    	}
+	}
+	option = {
+        name = "Let the Capital in Sydney"
+        any_pop = {
+            limit = {
+                culture = british
+            }
+			militancy=-1
+			consciousness=-1
+		}
+        ai_chance = {
+			factor = 0.5
+    	}
+	}
+}

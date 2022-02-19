@@ -166,24 +166,23 @@
 #Alps
 
 727;735;impassable;0;0;Bergamo-Bozen
-727;734;impassable;0;0;Bergamo-Trent
 732;735;impassable;0;0;Treviso-Bozen
 732;615;impassable;0;0;Treviso-Linz
 732;618;impassable;0;0;Treviso-Klagenfurth
 733;618;impassable;0;0;Udine-Klagenfurt
-727;611;impassable;0;0;Bergamo-Chur
-727;2568;impassable;0;0;Bergamo-Lugano
+603;611;impassable;0;0;Zurich-Chur
+606;611;impassable;0;0;Lucerne-Chur
 722;605;impassable;0;0;Novara-Bern
-2568;722;impassable;0;0;Lugano-Novara
-609;722;impassable;0;0;Sitten-Novara
 606;722;impassable;0;0;Lucerne-Novara
-608;432;impassable;0;0;Neuchatel-Besancon
-607;432;impassable;0;0;Geneva-Besancon
+608;605;impassable;0;0;Neuchatel-Berne
 611;735;impassable;0;0;Chur-Bozen
 611;612;impassable;0;0;Chur-Innsbruck
 611;614;impassable;0;0;Chur-Bregenz
 609;465;impassable;0;0;Sitten-Annecy
-607;465;impassable;0;0;Geneva-Annecy
+603;614;impassable;0;0;Zurich-Bregen
+608;604;impassable;0;0;Neuchatel-Basel
+605;607;impassable;0;0;Bern-Geneva
+609;607;impassable;0;0;Geneva-Sitten
 
 #Pyrenees
 

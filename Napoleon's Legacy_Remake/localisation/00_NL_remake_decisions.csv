@@ -88,8 +88,6 @@ reintegrate_illiya_title;Reintegrate Illyria;;;;Reintegrar Illyria;;;x
 reintegrate_illiya_desc;After the Wars of the Coalition against Napoleon, we were forced to acknowledge an independent, 'Illyrian' state in Croatia, and therefore, Austrian territory. However, with France losing their power in the region, and our diplomats further accumulating influence, we are able to reintegrate Illyria into our country.;;;;Tras las Guerras de la Coalici�n contra Napole�n, nos vimos obligados a reconocer un estado independiente "ilirio" en Croacia y, por tanto, en territorio austriaco. Sin embargo, al perder Francia su poder en la regi�n, y al acumular nuestros diplom�ticos m�s influencia, podemos reintegrar Iliria en nuestro pa�s.;;;x
 poland_is_no_more_title;Poland is No More!;;;;�Ya no hay Polonia!;;;x
 poland_is_no_more_desc;With the Polish-Lithuanian Commonwealth off the map, we can once and for all wipe the pretense of a powerful Union between Poles and Lithuanians;;;;Con la Mancomunidad Polaco-Lituana fuera del mapa, podemos borrar de una vez por todas la pretensi�n de una poderosa Uni�n entre polacos y lituanos;;;x
-trent_claim_title;Our Claim on the Trent Region;;;;Nuestra reivindicaci�n en la regi�n de Trento;;;x
-trent_claim_desc;After the War of the 3rd Coaltion, we were forced to give the Trent region to Bavaria and the Kingdom of Italy. It is time to take it back!;;;;Tras la Guerra de la Tercera Coalici�n, nos vimos obligados a ceder la regi�n de Trento a Baviera y al Reino de Italia.!Es hora de recuperarla!;;;x
 domination_of_western_mediterranean_see_title;Expand our influence in the western Mediterranean Sea;;;;Ampliar nuestra influencia en el Mediterr�neo occidental;;;x
 domination_of_western_mediterranean_see_desc;The withdrawal of the British in the western Mediterranean Sea created a power vacuum in the region and we must be the one to fill it!;;;;La retirada de los brit�nicos en el Mediterr�neo occidental cre� un vac�o de poder en la regi�n y debemos ser nosotros quienes lo llenemos.;;;x
 expension_in_southern_italy_title;Expand in Southern Italy;;;;Expansi�n en el sur de Italia;;;x
@@ -417,3 +415,31 @@ union_with_france_title;Franco-Spanish Union;;;;;;;x
 union_with_france_desc;I, Joseph the 1st, King of Spain and Emperor of France, declare that to this day, and until the end of times, the Kingdom of Spain and the Empire of France shall be united under the Franco-Spanish crown ! Those two lands have often seek union, notably under Louis the XIV but I am the first to achieve it ! We will keep the Spanish tradition and flags in the Empire to honor the victory of the Spanish people againt France but will allow french to be an official language. To the future of both people !;;;;;;;x
 accept_french_minorities_title;Acceptance of the French minorities;;;;;;;x
 accept_french_minorities_desc;To me, the picard and breton are closer to spaniards than french. They both endured a french occupation and seek to regain their liberty. I will honor them by accepting them as official languages of the Franco-Spanish Empire !;;;;;;;x
+ADU_ireland_title;Accept the Irish;;;;;;;x
+ADU_ireland_desc;We have ended the reconquest of the British Isles and should accept the Irish people living there !;;;;;;;x
+picard_expansion_title;Picard acceptand;;;;;;;x
+picard_expansion_desc;The Piccard represent the mix of three people, the french, the english and the flemish. They are the real symbol of union of our country, we should accept them !;;;;;;;x
+reclaim_sa_title;Reclaim South Africa;;;;;;;x
+reclaim_sa_desc;South Africa had been a dutch colony and an english colony. We should reclaim it as true part of our nation !;;;;;;;x
+breton_expansion_title;Breton Expansion;;;;;;;x
+breton_expansion_desc;The people living in Brittany are closer to us than the french will ever be, it's only logical to accept them;;;;;;;x
+wales_expansion_title;Wales acceptance;;;;;;;x
+wales_expansion_desc;Since the departure of the monarchy to Canada, the Welsh have never accepted us. Now it's time to re-unite with them;;;;;;;x
+occitan_expansion_dua_title;Occitan expansion;;;;;;;x
+occitan_expansion_dua_desc;The Occitan kingdom was always a part of France. Now that its ours we should accept the local population as a sign of peace;;;;;;;x
+irish_expansion_title;Irish expansion;;;;;;;x
+irish_expansion_desc;The Irish people have been liberated by Napoleon when he invaded Ireland. Now that France no longer exists, we should re integrate the land and its people;;;;;;;x
+form_anglo_french_title;Formation of the Dual Monarchy;;;;;;;x
+form_anglo_french_desc;The Dual Monarchy is an old british dream to see the nations of France and England united under the english crown. It's first appearence is during the hundred years war during which English kings Edouard the 2nd and Edouard the 3rd had a strong claim on the french throne. But after england lost the war and its land on the european continent, the dream faded away. Now that we have restore our claim on the french kingdom and conquered it, we can officialy proclam the Dual Monarchy !   ;;;;;;;x
+ENG_ireland_title;Accept the Irish;;;;;;;x
+ENG_ireland_desc;We have ended the reconquest of the British Isles and should accept the Irish people living there !;;;;;;;x
+reclaim_sa_eng_title;Reclaim South Africa;;;;;;;x
+reclaim_sa_eng_desc;South Africa had been a dutch colony and an english colony. We should reclaim it as true part of our nation !;;;;;;;x
+wales_expansion_eng_title;Wales acceptance;;;;;;;x
+wales_expansion_eng_desc;Since the departure of the monarchy to Canada, the Welsh have never accepted us. Now it's time to re-unite with them;;;;;;;x
+caraibes_expansion_title;Caraibes Expansion;;;;;;;x
+caraibes_expansion_desc;With the fall of our colonial empire, we must seek new land to conquer in the new world. The caraibes is a perfect target. We have a strong presence there and no great powers have significant land here;;;;;;;x
+na_expansion_title;The Question of Canada;;;;;;;x
+na_expansion_desc;The Canadian land has been a part of the empire before we gave them independance to recognize the canadian importance. But now that we have regain land, prestige and power we can annex them back while keeping the population as citizen to prevent any revolts;;;;;;;x
+ask_corsica_title;Ask Corsica;;;;;;;x
+ask_corsica_desc;We should have Corsica, the birthplace of Napoleon and the land of the devil!;;;;;;;x

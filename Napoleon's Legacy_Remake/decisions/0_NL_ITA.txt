@@ -354,22 +354,8 @@ political_decisions = {
 		}
 	}
 
-	renounce_bozen = {
-		potential = {
-			tag = ITA
-			is_core = 735
-			NOT = {owns = 735}
-		}
-		allow = {
-			war = no
-		}
-		effect = {
-			remove_core = 735
-			prestige = -5
-		}
-	}
-
 	renounce_corsica = {
+		picture = corsica_decision
 		potential = {
 			tag = ITA
 			is_core = 473
@@ -685,6 +671,34 @@ political_decisions = {
 				owner = {country_event = 600030}
 			}
 			set_country_flag=ask_malta
+		}
+	}
+
+	ask_corsica = {
+		picture = corsica_decision
+		potential = {
+			ai = no
+			OR = {
+				tag = FRA
+				AND = {
+					tag = ITA
+					473 = {is_core = ITA}
+				}
+				AND = {
+					tag = SPA
+					accepted_culture = north_italian
+				}
+			}
+			NOT = {has_country_flag = ask_corsica}
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			473 = {
+				owner = {country_event = 600035}
+			}
+			set_country_flag=ask_corsica
 		}
 	}
 }

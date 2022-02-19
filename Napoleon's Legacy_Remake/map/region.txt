@@ -286,7 +286,7 @@ FRA_428 = { 428 429 431 430 433 }
 
 FRA_404 = { 404 403 405 406 408 }
 
-FRA_411 = { 411 413 407 414 432 }
+FRA_411 = { 411 413 407 414 432 607 608 } #Franche-Comté
 
 FRA_448 = { 448 449 450 }
 
@@ -346,9 +346,11 @@ SWE_331 = { 331 } #Gotaland
 
 SWE_322 = { 322 324 323 326 325 327 328 318 317 319 320 321 } #Svealand
 
-SWI_603 = { 603 606 611 2568 3252 } #East Switzerland
+SWI_603 = { 603 606 605 604 } #Switzerland
 
-SWI_605 = { 605 604 607 608 609} #West Switzerland
+LCT_3252 = { 3252 } #Lichenstein
+
+SWI_605 = { 611 2568 } #South-East Switzerland
 
 ENG_2228 = { 2228 2229 2231 2232 2233 2237 2238 2409 }
 
@@ -828,7 +830,7 @@ AUS_736 = { 736 737 } #Istria
 
 AUS_778 = { 778 769 770 } #Fiume
 
-AUS_729 = { 729 730 731 732 733 } #Venetia
+AUS_729 = { 729 730 731 732 733 734 } #Venetia
 
 AUS_726 = { 726 727 728 } #Lombardia
 
@@ -840,11 +842,9 @@ AUS_641 = { 641 645 646 648 649 650 } #Central Hungary
 
 #AUS_613 = { 616 618 617 } #Karnten-Steiermark
 
-AUS_612 = { 612 613 614 615 } #Tirol
+AUS_612 = { 612 613 614 615 735 } #Tirol
 
-AUS_619 = { 619 620 621 622 624 616 618 617 } #Osterreich 
-
-AUS_734 = { 734 735 } #South Tirol
+AUS_619 = { 619 620 621 622 624 616 618 617 } #Osterreich
 
 AUS_768 = { 767 768 } #Slovenia
 
@@ -1241,7 +1241,7 @@ HES_2560 = { 2560 564 566 565 567 568 } #Hesse-Nassau
 
 SAR_466 = { 465 466 472 } #Savoie and Nice
 
-SAR_720 = { 720 3255 721 722 723 724 725 } #Piedmont
+SAR_720 = { 720 3255 721 722 723 724 725 609 } #Piedmont
 
 SAR_765 = { 765 766 } #Sardegna
 

@@ -1,26 +1,21 @@
 capital = 425
-primary_culture = french
-culture = french_canadian
-culture = wallonian
-culture = occitan
-culture = breton
-culture = picard
-culture = corsican
-religion = catholic
-government = absolute_monarchy
-plurality = 25
-nationalvalue = nv_equality
-literacy = 0.60
-non_state_culture_literacy = 0.15
+primary_culture = british
+culture = french
+culture = Scotish
+religion = protestant
+government = hms_government
+plurality = 30
+nationalvalue = nv_order
+literacy = 0.55
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 90
+prestige = 100
 
 # Political reforms
-slavery = no_slavery
+slavery = yes_slavery
 upper_house_composition = appointed
-vote_franschise = none_voting
+vote_franschise = wealth_voting
 public_meetings = yes_meeting
 press_rights = censored_press
 trade_unions = no_trade_unions
@@ -33,8 +28,16 @@ work_hours = no_work_hour_limit
 safety_regulations = no_safety
 health_care = no_health_care
 unemployment_subsidies = no_subsidies
-pensions = no_pensions 
+pensions = no_pensions
 school_reforms = no_schools
+
+# New Reforms
+conscription = one_year_draft
+debt_law = debtors_prisons
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = open_borders
 
 # Technologies
 post_napoleonic_thought = 1
@@ -43,59 +46,54 @@ bronze_muzzle_loaded_artillery = 1
 military_staff_system = 1
 army_command_principle = 1
 post_nelsonian_thought = 1
-battleship_column_doctrine = 1
 clipper_design = 1
-steamers = 1
 naval_design_bureaus = 1
 alphabetic_flag_signaling = 1
 the_command_principle = 1
+battleship_column_doctrine = 1
+naval_professionalism = 1
+steamers = 1
 private_banks = 1
 no_standard = 1
 early_classical_theory_and_critique = 1
 freedom_of_trade = 1
 guild_based_production = 1
+stock_exchange = 1
+ad_hoc_money_bill_printing = 1
+private_bank_money_bill_printing = 1
+market_structure = 1
 classicism_n_early_romanticism = 1
 late_enlightenment_philosophy = 1
 malthusian_thought = 1
 enlightenment_thought = 1
 introspectionism = 1
-water_wheel_power = 1
-publishing_industry = 1
+romanticism = 1
+ideological_thought = 1
+piston_steam_engine = 1
 mechanized_mining = 1
 experimental_railroad = 1
 basic_chemistry = 1
-stock_exchange = 1
-ad_hoc_money_bill_printing = 1
-#private_bank_money_bill_printing = 1
-market_structure = 1
-romanticism = 1
-practical_steam_engine = 1
-mechanical_production = 1
 
 # Inventions
-#corvettes = yes
 commerce_raiders = yes
+precision_work = yes
 
 # Starting Consciousness
-consciousness = 1
+consciousness = 3
 nonstate_consciousness = 1
 
-ruling_party = FRA_reactionary
+schools = culture_tech_school
+
+ruling_party = DUA_liberal_1 # Parti Modere
+last_election = 1834.6.21
 upper_house = {
 	fascist = 0
-	liberal = 12
-	conservative = 70
-	reactionary = 18
+	liberal = 30
+	conservative = 50
+	reactionary = 20
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
 
-schools = napoleon_tech_school
-
-oob = "FRA_oob.txt"
-
-1835.1.1 = {
-    decision = french_lit_fix
-}
-
+oob = "DUA_oob.txt"

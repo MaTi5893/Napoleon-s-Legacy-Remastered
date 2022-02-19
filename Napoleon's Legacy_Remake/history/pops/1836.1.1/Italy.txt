@@ -743,37 +743,37 @@
 #Trent (276000/69000 POPS) #now part of Italy
 734 = {
 	aristocrats = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 60 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 80 
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 800 
 	}
 	
 	artisans = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 50 
 	}
 
 	farmers = {
-		culture = south_german
+		culture = north_italian
 		religion = catholic
 		size = 4610 
 	}
@@ -835,25 +835,25 @@
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = south_german
 		religion = catholic
 		size =  50
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = south_german
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = north_italian
+		culture = south_german
 		religion = catholic
 		size = 50 
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = south_german
 		religion = catholic
 		size = 5400
 	}

@@ -54,27 +54,7 @@ political_decisions = {
 			set_country_flag = reintegrate_illiya 
 		}
 	}
-	trent_claim = {
-		picture = decision_trent_AUS
-		potential = {
-			OR = {
-				tag = KUK
-				tag = AUS
-			}
-			NOT = {has_country_flag=trent_claim}
-		}
-		allow = {
-			war=no
-			state_n_government=1
-			ITA = {exists=no}
-			owns=735
-		}
-		effect = {
-				734 = { add_core = THIS }
-				badboy=2
-				set_country_flag=trent_claim
-		}
-	}
+
 	the_crown_of_Bosnia = {
 		picture = decision_bosnia_KUK
 		potential = {

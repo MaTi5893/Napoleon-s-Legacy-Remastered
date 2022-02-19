@@ -179,21 +179,6 @@ beneluxian = {
 		Orban Petillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangermee Wyvekens Zoude }
 	}
 }
-
-pan_swiss = {
-	leader = european
-	unit = EuropeanGC
-	swiss = { 
-		color = { 180 40 40}
-		first_names = { Adolf Alexander Eduard Ernst Franz Hans Johann Josef Konstantin Martin
-		Melchior Robert Rudolf Ulrich Wilhelm Augusto Enrico Flavio Giuseppe Vincenzo
-		Antoine Charles Emmanuel Guillaume Gustave Henri Hugo Louis Marc Paul }
-		
-		last_names = { Brenner Deucher Funk Haab Herzog Knusel Munzinger Naff Schneider Siegwart-Muller
-		"von Donatz" "von Salis-Soglio" "von Steiger" "von Tavel" Celio Cotti Fogliardi Motta Zeni
-		Ador Calonder Chaudet Comtesse "de Prangins" Dufour Fornerod Guisan Ruchet Ruchonnet }
-	}
-}
 	
 scandinavian = {
 	leader = european
@@ -489,6 +474,19 @@ french = {
 		first_names = { Achillo Alban Alber Alfons Amedé Andieu Aloi Archambaut Aymar Berot Bérard Bernat Berengar Carle Enric Estève Fidèl 
 		Frederic Filipo Franç Guiraud Huc Ignaç Jan Jacin Laurenç Luis Martin Michele Nicolau Pasqual Pau Pèire Pier Privat Roman 
 		Raimond Rogier Raimond-Rogier Ton Vincenç Vitorio Zeno }
+		
+		last_names = { Amiel Azéma Bec Benet Bézots Dardier Delpuech Ladivèze Gilbert Mistral Claramunt Sala
+		"de Bordeu" Auvernhan Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre
+		d'Usès Nant d'Aurinhac Aramits Challant Guasco Gamba "de Sâteillon" Jotteu Ceppi Becca
+		Colo Carrel Roda Comì Ortèl "de Fenis" "de Saut" "de Cavalhon" "lo Rocoforto" Emperi 
+		Marselhés Alesenc "de Sant Africa" Castrès "de Puylaurenç" Aushés Gasc "lo Cuq" Pèira
+		Valada Bosc Forneiron Faure Avelan Rove Ramond Andrieu "de Lonzac" "de Aurenja" }
+	}
+	corsican = {
+		color = {161 143 49}
+		first_names = { Adalbertu Alesiu Ambrosgiu Andria Antone Biasgiu Baltazaru Benghjaminu Bernardu Calistu 
+		Carlu Conradu Cristofanu Danelu Francescu Gasparu Giacumu Ghjaseppu Larenzu Lisandru Martinu Melchioru 
+		Niculaiu Petru Raimondu Saveriu Silvestru Simone Tumasgiu Volfgangu }
 		
 		last_names = { Amiel Azéma Bec Benet Bézots Dardier Delpuech Ladivèze Gilbert Mistral Claramunt Sala
 		"de Bordeu" Auvernhan Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre
