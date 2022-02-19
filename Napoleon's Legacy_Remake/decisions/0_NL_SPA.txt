@@ -391,7 +391,7 @@ political_decisions = {
 	spanish_armada = {
 		picture = spanisharmada
 		potential = {
-			tag = SPA
+			primary_culture = spanish
 			NOT = { tech_school = spanish_tech_school }
 		}
 		allow = {
