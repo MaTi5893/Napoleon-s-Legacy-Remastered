@@ -391,13 +391,28 @@ political_decisions = {
 	spanish_armada = {
 		picture = spanisharmada
 		potential = {
-			tag = SPA
 			NOT = { tech_school = spanish_tech_school }
+			NOT = { tech_school = french_tech_school }
+			OR = {
+				AND = {
+					tag = SPA
+					OR = {
+						accepted_culture = filipino
+						accepted_culture = south_italian
+						accepted_culture = french
+					}
+				}
+				AND = {
+					tag = FRA
+					accepted_culture = spanish
+				}
+				tag = IBR
+			}
+
 		}
 		allow = {
 			battleship_column_doctrine=1
 			mechanical_production=1
-			state_n_government=1
 			owns=517
 			owns=512
 			owns=474
@@ -471,6 +486,32 @@ political_decisions = {
 			FRA_420 = { add_core = THIS}
 			add_accepted_culture = picard
 			add_accepted_culture = breton
+		}
+	}
+
+	french_heritage = {
+		picture = rule_land_decision
+		potential = {
+			OR = {
+				tag = SPA
+				tag = DUA
+			}
+			accepted_culture = french
+			NOT = { tech_school = spanish_tech_school }
+			NOT = { tech_school = french_tech_school }
+		}
+		allow = {
+			positivism = 1
+			army_professionalism = 1
+			all_core = {
+				owned_by = THIS
+			}
+			is_greater_power=yes
+			
+		}
+		effect = {
+			tech_school = french_tech_school
+			prestige = 20
 		}
 	}
 }
