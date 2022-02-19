@@ -1,4 +1,4 @@
-gpolitical_decisions = {
+political_decisions = {
 	form_south_german_confederation = {
 		potential = {
 			is_greater_power = yes
