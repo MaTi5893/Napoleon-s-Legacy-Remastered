@@ -22,9 +22,10 @@ Installation: Open your Victoria 2 game files
 open the NLR zip file, 
 copy the Napoleon's Legacy Remake folder and Napoleon's Legacy Remake .mod file to the /mod folder in your game files.
 
-###The NLR Low Res submod changes the terrain textures to be smaller, so that they have less an impact on performance, while still looking... passable, to me.###
-##You need to enable both the submod and NLR itself in the launcher. The submod does not change the checksum.						    ##
-
+###The NLR Low Res submod changes the terrain textures to be smaller, so that they have less an impact on performance, while still looking... passable, to me.###					    ##
+###The Belle Dark submod is a graphics change, using Jman's Belle Dark mapmod.										      ###
+##Neither of the submods change your checksum - they're purely graphical										      ##
+#If you don't want to keep having to click more than one option in the launcher, you can just copy the files of a submod into the main mod folder. 	      #
 
 Links:
 	https://discord.gg/G5jGFgCbEg - This mod's discord
