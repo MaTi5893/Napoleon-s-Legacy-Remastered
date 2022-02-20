@@ -49,9 +49,6 @@ country_event = {
 		}
 		SAF = {
             all_core = {
-                limit = {
-                    owned_by = GBR
-                }
                 add_core = GBR
             }
         }
@@ -59,7 +56,7 @@ country_event = {
         GBR = {capital = 2087}
         clr_country_flag = new_world_nation
         ai_chance = {
-			factor = 0.5
+			factor = 0.4
     	}
 	}
 	option = {
@@ -71,6 +68,76 @@ country_event = {
 			militancy=-1
 			consciousness=-1
 		}
+		AST = {
+			all_core=  {
+				add_core = THIS
+			}
+		}
+		NZL = {
+			all_core=  {
+				add_core = THIS
+			}
+		}
+		all_core = {
+			limit = {
+					NOT = { life_rating = 40 }
+				}
+				life_rating = 10
+		}
+        ai_chance = {
+			factor = 0.6
+    	}
+	}
+}
+
+country_event = {
+	id = 600036
+
+	is_triggered_only = yes
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+    title = "EVTNAME600036"
+	desc = "EVTDESC600036"
+	picture = "india"
+    option = {
+        name = "Promote Marathi"
+        any_pop = {
+			limit = {
+				OR = {
+					culture = marathi
+				}
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		HND = {
+			all_core = {
+				add_core = EIC
+			}
+		}
+		add_accepted_culture = marathi
+        ai_chance = {
+			factor = 0.5
+    	}
+	}
+	option = {
+        name = "Promote Avadhi!"
+        any_pop = {
+			limit = {
+				culture = avadhi
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		HND = {
+			all_core = {
+				add_core = EIC
+			}
+		}
+		add_accepted_culture = avadhi
         ai_chance = {
 			factor = 0.5
     	}

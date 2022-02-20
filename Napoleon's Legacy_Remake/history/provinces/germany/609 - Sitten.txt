@@ -1,5 +1,7 @@
 owner = FRA
 controller = FRA
-add_core = SWI
+add_core = PAP
+add_core = SAR
+add_core = ITA
 trade_goods = coal
 life_rating = 40

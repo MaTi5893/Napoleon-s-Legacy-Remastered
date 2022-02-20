@@ -6,11 +6,9 @@ political_decisions = {
 		NOT = {accepted_culture = slovak}
 	}
 	allow  = {
-		NOT = {
-			exists = GER
-			exists = NGF
-			exists = SGF
-		}
+		GER = { exists = no }
+		NGF = { exists = no }
+		SGF = { exists = no }
 		PRU = {is_greater_power = no}
 		HAN = {is_greater_power = no}
 		is_greater_power = yes

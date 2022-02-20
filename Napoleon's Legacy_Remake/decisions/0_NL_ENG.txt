@@ -1,8 +1,9 @@
 political_decisions = { 
-	    wales_expansion_eng = {
+	wales_expansion_eng = {
 		picture = wales_decision
 		potential = {
 			tag = ENG
+			NOT = {accepted_culture = welsh}
 		}
 		allow = {
 			war = no
@@ -14,6 +15,12 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = cymry
             add_accepted_culture = welsh
+			all_core = {
+				add_province_modifier = {
+					name = cultural_unification
+					duration = 730
+				}
+			}
 			prestige = 20
 		}
 	}
@@ -154,6 +161,35 @@ political_decisions = {
             add_accepted_culture = afro_caribbean
             add_accepted_culture = afro_caribeno
             add_accepted_culture = afro_antillean
+			prestige = 20
+		}
+	}
+
+	britannia_rule = {
+		picture = rule_wave_decision
+		potential = {
+			OR = {
+				AND = {
+					tag = ENG
+				}
+				tag = DUA
+			}
+			NOT = { tech_school = french_tech_school }
+			NOT = { tech_school = british_tech_school }
+		}
+		allow = {
+			battleship_column_doctrine=1
+			mechanical_production=1
+			all_core = {
+				owned_by = THIS
+			}
+			accepted_culture = irish
+			accepted_culture = welsh
+			accepted_culture = cymry
+			is_greater_power=yes
+		}
+		effect = {
+			tech_school = british_tech_school
 			prestige = 20
 		}
 	}
