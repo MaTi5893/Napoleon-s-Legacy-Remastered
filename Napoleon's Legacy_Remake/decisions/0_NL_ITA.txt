@@ -689,6 +689,7 @@ political_decisions = {
 					accepted_culture = north_italian
 				}
 			}
+			NOT = { owns = 473 }
 			NOT = {has_country_flag = ask_corsica}
 		}
 		allow = {

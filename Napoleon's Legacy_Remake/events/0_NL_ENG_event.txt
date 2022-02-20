@@ -76,3 +76,57 @@ country_event = {
     	}
 	}
 }
+
+country_event = {
+	id = 600036
+
+	is_triggered_only = yes
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+    title = "EVTNAME600036"
+	desc = "EVTDESC600036"
+	picture = "india"
+    option = {
+        name = "Promote Marathi"
+        any_pop = {
+			limit = {
+				OR = {
+					culture = marathi
+				}
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		HND = {
+			all_core = {
+				add_core = EIC
+			}
+		}
+		add_accepted_culture = marathi
+        ai_chance = {
+			factor = 0.5
+    	}
+	}
+	option = {
+        name = "Promote Avadhi!"
+        any_pop = {
+			limit = {
+				culture = avadhi
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		HND = {
+			all_core = {
+				add_core = EIC
+			}
+		}
+		add_accepted_culture = avadhi
+        ai_chance = {
+			factor = 0.5
+    	}
+	}
+}

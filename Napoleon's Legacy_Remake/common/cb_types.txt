@@ -686,8 +686,9 @@ acquire_state = {
 			FROM = { substate_of = THIS }
 			FROM = { tag = THIS } 
 			AND = { 
+				THIS = { ai = no }
 				FROM = { ai = no } 
-				alliance_with = FROM 
+				THIS = { alliance_with = FROM }
 			} 
 		}
 		FROM = {
@@ -760,15 +761,15 @@ place_in_the_sun = {
 			FROM = { substate_of = THIS }
 			FROM = { tag = THIS } 
 			AND = { 
+				THIS = { ai = no }
 				FROM = { ai = no } 
-				alliance_with = FROM 
+				THIS = { alliance_with = FROM }
 			} 
 		}
 		FROM = {
 			exists = yes
 		}
 	}
-
 	allowed_states = {
 		is_colonial = yes
 	}
@@ -1460,8 +1461,9 @@ demand_concession_casus_belli = {
 			FROM = { substate_of = THIS }
 			FROM = { tag = THIS } 
 			AND = { 
+				THIS = { ai = no }
 				FROM = { ai = no } 
-				alliance_with = FROM 
+				THIS = { alliance_with = FROM }
 			} 
 		}
 		FROM = {
@@ -2177,14 +2179,15 @@ take_capital = {
 			FROM = { substate_of = THIS }
 			FROM = { tag = THIS } 
 			AND = { 
+				THIS = { ai = no }
 				FROM = { ai = no } 
-				alliance_with = FROM 
+				THIS = { alliance_with = FROM }
 			} 
 		}
 		FROM = {
 			exists = yes
 		}
-	}	
+	}
 
 	allowed_states = {
 		is_colonial = no
@@ -2341,7 +2344,7 @@ negotiated_transfer = {
 			FROM = { tag = THIS } 
 			AND = { 
 				FROM = { ai = no } 
-				alliance_with = FROM 
+				THIS = { alliance_with = FROM }
 			} 
 		}
 		FROM = {
@@ -2484,8 +2487,9 @@ demand_colonial_concession_casus_belli = {
 			FROM = { substate_of = THIS }
 			FROM = { tag = THIS } 
 			AND = { 
+				THIS = { ai = no }
 				FROM = { ai = no } 
-				alliance_with = FROM 
+				THIS = { alliance_with = FROM }
 			} 
 		}
 		FROM = {
@@ -2746,8 +2750,9 @@ demand_concession_casus_belli_player_early = {
 			FROM = { substate_of = THIS }
 			FROM = { tag = THIS } 
 			AND = { 
+				THIS = { ai = no }
 				FROM = { ai = no } 
-				alliance_with = FROM 
+				THIS = { alliance_with = FROM }
 			} 
 		}
 		FROM = {
@@ -2820,8 +2825,9 @@ demand_concession_casus_belli_ai_early = {
 			FROM = { substate_of = THIS }
 			FROM = { tag = THIS } 
 			AND = { 
+				THIS = { ai = no }
 				FROM = { ai = no } 
-				alliance_with = FROM 
+				THIS = { alliance_with = FROM }
 			} 
 		}
 		FROM = {

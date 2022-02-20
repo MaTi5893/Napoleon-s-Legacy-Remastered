@@ -134,47 +134,6 @@ political_decisions = {
 			}
 		}
 	}
-	westernize_nation = {
-		potential = {
-			civilized = no
-			civilized = yes #impossible trigger so it does not show
-			NOT = {
-				tag = JAP
-			}
-		}
-		allow = {
-			war = no
-			enlightenment_thought = 1
-			publishing_industry = 1
-			freedom_of_trade = 1
-			private_banks = 1
-			post_napoleonic_thought = 1
-			military_score = 50
-			prestige = 40
-		}
-		effect = {
-			civilized = yes
-			prestige = 5
-			remove_country_modifier = educational_reform
-			remove_country_modifier = military_reform
-			remove_country_modifier = western_influences
-			remove_country_modifier = uncivilized_isolationism
-			remove_country_modifier = trade_restrictions
-			remove_country_modifier = sayings_of_the_dutch
-			remove_country_modifier = extraterritoriality_granted
-			remove_country_modifier = liberian_research_boost
-			remove_country_modifier = meiji_restoration_boost
-			any_owned = {
-				remove_province_modifier = western_presence
-				remove_province_modifier = foreign_smugglers
-				remove_province_modifier = foreign_trading_post
-				remove_province_modifier = local_opium_habit
-				remove_province_modifier = european_military_mission
-				remove_province_modifier = legation_quarter
-				remove_province_modifier = kettler_denkmal
-			}
-		}
-	}
 	the_meiji_restoration = {
 		potential = {
 			civilized = no

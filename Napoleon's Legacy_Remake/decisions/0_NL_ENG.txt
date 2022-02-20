@@ -1,8 +1,9 @@
 political_decisions = { 
-	    wales_expansion_eng = {
+	wales_expansion_eng = {
 		picture = wales_decision
 		potential = {
 			tag = ENG
+			NOT = {accepted_culture = welsh}
 		}
 		allow = {
 			war = no
@@ -170,9 +171,6 @@ political_decisions = {
 			OR = {
 				AND = {
 					tag = ENG
-					accepted_culture = irish
-					accepted_culture = welsh
-					accepted_culture = cymry
 				}
 				tag = DUA
 			}
@@ -185,7 +183,9 @@ political_decisions = {
 			all_core = {
 				owned_by = THIS
 			}
-
+			accepted_culture = irish
+			accepted_culture = welsh
+			accepted_culture = cymry
 			is_greater_power=yes
 		}
 		effect = {

@@ -1,8 +1,6 @@
 capital = 605
 primary_culture = south_german
 culture = north_italian
-culture = french
-culture = cisalpine
 religion = protestant
 government = democracy
 plurality = 25.0
