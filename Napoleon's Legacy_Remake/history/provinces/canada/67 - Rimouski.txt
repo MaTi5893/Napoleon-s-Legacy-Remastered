@@ -1,8 +1,7 @@
-owner = USA
-controller = USA
+owner = CAN
+controller = CAN
 add_core = CAN
 add_core = QUE
-add_core = USA
 trade_goods = grain
 life_rating = 35
 1861.1.1 = { railroad = 2 }

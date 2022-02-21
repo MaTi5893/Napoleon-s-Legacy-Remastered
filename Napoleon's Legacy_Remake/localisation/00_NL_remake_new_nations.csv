@@ -226,21 +226,23 @@ HUD_socialist;Socialist Party;;;;;;;;;x;;;;;;;;
 HUD_anarcho_liberal;Native Party;;;;;;;;;x;;;;;;;;
 HUD_communist;Communist Party;;;;;;;;;x;;;;;;;;
 HUD_fascist;Corporatist Party;;;;;;;;;x;;;;;;;;
-DUA;The Dual Monarchy;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-DUA_ADJ;Anglo-French;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-DUA_proletarian_dictatorship;The United Popular Republic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-DUA_presidential_dictatorship;The United Republic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-DUA_bourgeois_dictatorship;The United Republic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-DUA_fascist_dictatorship;The Western Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-DUA_democracy;The United Republic;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-DUA_anarcho_liberal;Parti Radical;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-DUA_communist;Parti Communiste;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-DUA_conservative_1;Parti Conservateur;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-DUA_conservative_2;Parti National;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-DUA_fascist;Parti Fasciste;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-DUA_liberal_1;Parti Modéré;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-DUA_liberal_2;Parti Libéral;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-DUA_reactionary;Ultraroyalistes;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-DUA_social_liberal;Parti Démocratique;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-DUA_socialist_1;Parti Socialiste;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-DUA_socialist_2;Parti Travailliste;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+DUA;The Dual Monarchy;;;;;;;;;;;;x
+DUA_ADJ;Anglo-French;;;;;;;;;;;;x
+DUA_proletarian_dictatorship;The United Popular Republic;;;;;;;;;;;;x
+DUA_presidential_dictatorship;The United Republic;;;;;;;;;;;;x
+DUA_bourgeois_dictatorship;The United Republic;;;;;;;;;;;;x
+DUA_fascist_dictatorship;The Western Empire;;;;;;;;;;;;x
+DUA_democracy;The United Republic;;;;;;;;;;;;x
+DUA_anarcho_liberal;Parti Radical;;;;;;;;;;;;x
+DUA_communist;Parti Communiste;;;;;;;;;;;;x
+DUA_conservative_1;Parti Conservateur;;;;;;;;;;;;x
+DUA_conservative_2;Parti National;;;;;;;;;;;;x
+DUA_fascist;Parti Fasciste;;;;;;;;;;;;x
+DUA_liberal_1;Parti Modéré;;;;;;;;;;;;x
+DUA_liberal_2;Parti Libéral;;;;;;;;;;;;x
+DUA_reactionary;Ultraroyalistes;;;;;;;;;;;;x
+DUA_social_liberal;Parti Démocratique;;;;;;;;;;;;x
+DUA_socialist_1;Parti Socialiste;;;;;;;;;;;;x
+DUA_socialist_2;Parti Travailliste;;;;;;;;;;;;x
+IBE;Indo-British Empire;;;;;;;;;;;;x
+IBE_ADJ;Indo-British;;;;;;;;;;;;x

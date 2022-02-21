@@ -101,7 +101,7 @@ country_event = {
 
     title = "EVTNAME600036"
 	desc = "EVTDESC600036"
-	picture = "india"
+	picture = "india_culutre"
     option = {
         name = "Promote Marathi"
         any_pop = {

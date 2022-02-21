@@ -49,6 +49,7 @@ USG		= "countries/United States of Greater Austria.txt"
 WSF     = "countries/Zapadoslavia.txt"	#Zacadia
 EIC     = "countries/East India Company.txt"
 DUA		= "countries/Dual Monarchy.txt"
+IBE     = "countries/Indo-British Empire.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"

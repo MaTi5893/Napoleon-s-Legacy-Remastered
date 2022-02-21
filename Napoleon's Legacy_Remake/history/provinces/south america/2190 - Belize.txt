@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = UCA
+controller = UCA
 add_core = GUA
 add_core = UCA
 trade_goods = fruit
