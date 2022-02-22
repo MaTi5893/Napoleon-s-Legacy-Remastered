@@ -126,7 +126,7 @@ political_bonus_education_desc;We chose the education focus for our nation!;;;;;
 political_bonus_immigration;Immigration Focus;;;;;;;x
 political_bonus_immigration_desc;We chose the immigration focus for our nation!;;;;;;;x
 emperor_council;Emperor's council;;;;;;;x
-emperor_council_desc;As the emperor Napoleon felt into madness, his best generals and wife decided to create a presonnal council to make sure the country was running. With time, it grew in power and now the emperor's political power is a shadow of what it was.;;;;;;;x
+emperor_council_desc;As Emperor Napoleon fell into madness, his best generals and wife decided to create a council to make sure the country was running. With time, it grew in power and now the emperor's political power is a shadow of what it was.;;;;;;;x
 emperor_council_disbanded;Emperor's Council Disbanded!;;;;;;;x
 emperor_council_disbanded_desc;The emperor's council has finally been disbanded. It has huge consequences for France but now the political stability is assured!;;;;;;;x
 emperor_council_refused;Emperor's council coup;;;;;;;x
@@ -144,3 +144,4 @@ paris_lost;Paris, the centre of our power hasn't been invaded since 1590. It's a
 corsican;Corsican;;;;;;;x
 LEDGER_COUNTRY_NAME;Country;;;;;;;x
 british_tech_school;Rule Britannia;;;;;;;x
+PROV255;Derry;;;;;;;
