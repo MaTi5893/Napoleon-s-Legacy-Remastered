@@ -187,6 +187,14 @@ political_decisions = {
 					secede_province = THIS
 				}
 			}
+			BLE = {
+				all_core = {
+					add_province_modifier = {
+						name = cultural_unification
+						duration = 3650
+					}
+				}
+			}
 			change_tag = BLE
 		}
     }

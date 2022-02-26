@@ -1,5 +1,5 @@
 capital = 2247
-primary_culture = andean
+primary_culture = north_andean
 religion = catholic
 government = democracy
 plurality = 0.0
@@ -7,7 +7,9 @@ nationalvalue = nv_liberty
 literacy = 0.12
 civilized = yes
 is_releasable_vassal = no
+
 set_country_flag = new_world_nation
+
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = state_equal_weight
@@ -26,7 +28,7 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
-oob = "CLM_oob.txt"
+
 ruling_party = GCO_liberal
 last_election = 1832.3.10
 upper_house = {
@@ -39,17 +41,4 @@ upper_house = {
 	communist = 0
 }
 
-post_napoleonic_thought = 1
-flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-army_command_principle = 1
-post_nelsonian_thought = 1
-the_command_principle = 1
-private_banks = 1
-no_standard = 1
-guild_based_production = 1
-classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
-enlightenment_thought = 1
-water_wheel_power = 1
-publishing_industry = 1
+

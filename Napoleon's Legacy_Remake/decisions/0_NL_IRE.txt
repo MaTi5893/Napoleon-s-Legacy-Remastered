@@ -56,6 +56,14 @@ form_celtic_union = {
 				}
 				add_core = CEL
 			}
+			CEL = {
+				all_core = {
+					add_province_modifier = {
+						name = cultural_unification
+						duration = 3650
+					}
+				}
+			}
 			change_tag = CEL
 			add_accepted_culture = Scotish
 			add_accepted_culture = irish

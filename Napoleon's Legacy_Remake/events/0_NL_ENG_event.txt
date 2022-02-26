@@ -17,7 +17,13 @@ country_event = {
 	picture = "paris_occupied"
 	option = {
         name = "Paris is ours !"
+		badboy = 4
 		FRA_425 = {add_core = ENG}
+		ENG = {set_country_flag = paris_capture}
+    }
+	option = {
+        name = "This disput over the french throne is old, we shouldn't pursue it"
+		prestige = 10
 		ENG = {set_country_flag = paris_capture}
     }
 }
