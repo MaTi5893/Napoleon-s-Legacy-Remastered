@@ -62,7 +62,7 @@ political_decisions = {
 			}
 		}
 		effect = {
-			DZG = annex_to = THIS
+			DZG = { annex_to = THIS }
 			set_country_flag = danzig_coup
 		}
 	}

@@ -913,25 +913,25 @@
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 4650
 	}
@@ -1050,31 +1050,31 @@
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 4575
 	}
@@ -1164,31 +1164,31 @@
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 2700
 	}
@@ -1507,7 +1507,7 @@
 	}
 
 	clergymen = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 25
 		militancy = 8
@@ -1515,7 +1515,7 @@
 	}
 
 	artisans = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 150
 		militancy = 8
@@ -1523,7 +1523,7 @@
 	}
 
 	soldiers = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 25
 		militancy = 8
@@ -1531,7 +1531,7 @@
 	}
 
 	farmers = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 2750
 		militancy = 8
@@ -1633,25 +1633,25 @@
 	}
 
 	clergymen = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 930
 	}
@@ -3119,31 +3119,31 @@
 	}
 
 	aristocrats = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 900
 	}
@@ -3497,31 +3497,31 @@
 	}
 
 	aristocrats = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 900
 	}
@@ -3665,25 +3665,25 @@
 	}
 
 	clergymen = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 910
 	}
@@ -3751,31 +3751,31 @@
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 4575
 	}
@@ -3843,25 +3843,25 @@
 	}
 
 	clergymen = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = tupinamba
+		culture = platinean
 		religion = animist
 		size = 910
 	}
@@ -4233,7 +4233,7 @@
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 		militancy = 8
@@ -4241,7 +4241,7 @@
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 250
 		militancy = 8
@@ -4249,7 +4249,7 @@
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 		militancy = 8
@@ -4257,7 +4257,7 @@
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 4650
 		militancy = 8
@@ -4371,7 +4371,7 @@
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 75
 		militancy = 8
@@ -4379,7 +4379,7 @@
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 		militancy = 8
@@ -4387,7 +4387,7 @@
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 250
 		militancy = 8
@@ -4395,7 +4395,7 @@
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 		militancy = 8
@@ -4403,7 +4403,7 @@
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 4575
 		militancy = 8

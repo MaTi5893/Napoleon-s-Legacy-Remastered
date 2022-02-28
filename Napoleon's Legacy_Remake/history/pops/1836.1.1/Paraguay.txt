@@ -3,63 +3,63 @@
 #Fortin Falcon (8000/2000 POPS)
 2337 = {
 	aristocrats = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 1800
 	}
 }
-#Puerto Guarani (8000/2000 POPS)
+#Puerto platinean (8000/2000 POPS)
 2338 = {
 	aristocrats = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 1800
 	}
@@ -111,25 +111,25 @@
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size = 22425
 	}
@@ -197,49 +197,49 @@
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size = 600
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size = 11225
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 910
 	}
@@ -277,49 +277,49 @@
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size = 19300
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 910
 	}
@@ -357,49 +357,49 @@
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size = 800
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = catholic
 		size = 14125
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 910
 	}
@@ -431,31 +431,31 @@
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 2700
 	}
