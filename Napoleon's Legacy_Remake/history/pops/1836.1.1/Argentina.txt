@@ -206,31 +206,31 @@
 	}
 
 	aristocrats = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 1800
 	}
@@ -262,31 +262,31 @@
 	}
 
 	aristocrats = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 2700
 	}
@@ -318,31 +318,31 @@
 	}
 
 	aristocrats = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 2700
 	}
@@ -394,25 +394,25 @@
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 2750
 	}
@@ -524,31 +524,31 @@
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 2700
 	}
@@ -732,31 +732,31 @@
 #Resistencia (16000/4000 POPS)
 2364 = {
 	aristocrats = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 2700
 	}
@@ -794,31 +794,31 @@
 #Villa Angela (16000/4000 POPS)
 2365 = {
 	aristocrats = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 2700
 	}
@@ -851,31 +851,31 @@
 #Formosa (24000/6000 POPS) #now part of Argentina
 2366 = {
 	aristocrats = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 4575
 	}
@@ -913,31 +913,31 @@
 #Xolotas (20000/5000 POPS) #now part of Argentina
 2367 = {
 	aristocrats = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 4575
 	}
@@ -1299,31 +1299,31 @@
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 2700
 	}
@@ -1530,31 +1530,31 @@
 	}
 
 	aristocrats = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 2700
 	}
@@ -1586,31 +1586,31 @@
 	}
 
 	aristocrats = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 900
 	}
@@ -1863,31 +1863,31 @@
 	}
 
 	aristocrats = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 1800
 	}
@@ -1897,31 +1897,31 @@
 #Viedma (12000/3000 POPS)
 2392 = {
 	aristocrats = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 2700
 	}
@@ -1929,31 +1929,31 @@
 #Telen (12000/3000 POPS)
 2393 = {
 	aristocrats = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 2700
 	}
@@ -1985,31 +1985,31 @@
 	}
 
 	aristocrats = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 3675
 	}
@@ -2017,31 +2017,31 @@
 #Curaco (12000/3000 POPS)
 2395 = {
 	aristocrats = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 2700
 	}
@@ -2051,31 +2051,31 @@
 #Rawson (4000/1000 POPS)
 2396 = {
 	aristocrats = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 900
 	}
@@ -2083,31 +2083,31 @@
 #Esquel (4000/1000 POPS)
 2397 = {
 	aristocrats = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 900
 	}
@@ -2115,31 +2115,31 @@
 #Puerto Deseado (4000/1000 POPS)
 2398 = {
 	aristocrats = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 900
 	}
@@ -2147,31 +2147,31 @@
 #Rio Gallegos (4000/1000 POPS)
 2399 = {
 	aristocrats = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 900
 	}
@@ -2179,31 +2179,31 @@
 #Rio Grande (4000/1000 POPS)
 2400 = {
 	aristocrats = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = patagonian
+		culture = platinean
 		religion = animist
 		size = 900
 	}
@@ -2237,31 +2237,31 @@
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = guarani
+		culture = platinean
 		religion = animist
 		size = 2700
 	}

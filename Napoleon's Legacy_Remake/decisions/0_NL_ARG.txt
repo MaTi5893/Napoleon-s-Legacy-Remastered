@@ -20,7 +20,7 @@ political_decisions = {
 	picture = colombia_map
 		potential = { 
 			has_country_flag = take_peru_arg	
-			NOT = { accepted_culture = south_andean } 
+			NOT = { accepted_culture = andean } 
 		}
 		allow = { 
 			ARG = { all_core = { owned_by = THIS } } 
@@ -29,7 +29,7 @@ political_decisions = {
 			revolution_n_counterrevolution = 1 
 		}
 		effect = { 
-			add_accepted_culture = south_andean
+			add_accepted_culture = andean
 			prestige = 20
 		}
 	}

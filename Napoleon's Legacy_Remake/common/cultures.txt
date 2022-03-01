@@ -1507,139 +1507,29 @@ oceanic = {
 
 native_american = {
 	leader = nativeamerican
-	is_overseas = no
-	zapotec = {
-		color = {87 199 81}
-		first_names = { Agustín Alberto Alfonso Alfredo Andrés Benito Carlos César Eduardo Eugenio
-		Felipe Fernando Gabriel Gilberto Gregorio Jacinto Jesús José Juan Julio
-		Macario Manuel Miguel Nazario Nicolás Oliverio Pablo Porfirio Rodolfo Rufino }
-
-		last_names = { Alonso Antúnez Cabrera Cajigas Chacón Chiñas Cortés Fernández Gamboa García
-		González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
-		Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
-	}
-	mayan = {
-		color = {98 88 142}
-		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
-		Cristóbal Cuautéhmoc Diego Felipe Gaspar Hernando Hilario Humberto Ignacio Jacinto 
-		Jesús Luis Marcial Martín Miguel Ramiro Rodolfo Rolando Santiago Yumil }
-
-		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
-		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
-		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
-	}
-	nahua = {
-		color = {88 175 160}
-		first_names = { Antonio Carlos Diego Emiliano Emilio Felipe Fernando Francisco Gaspar Hernando
-		Hilario Ignacio Isaac Jacinto Jesús José Juan Julio Lorenzo Manuel
-		Marcial Mario Martín Natalio Oliverio Pedro Roberto Rodolfo Santiago Víctor }
-
-		last_names = { Ahuactzin Altamirano Atlanteco Badiano Bernardino Coaguila Coyotl Cuautlaxahue Gutiérrez Hernández
-		Huanitzin Itzel Ixtlilxochitl Jiménez Matlacuahuac Mayahuel Moxo Muñoz Nahui Ocelotl
-		Panecatl Tlaxca Tletla Tzehe Valeriano Xaxalpa Zicoténcatl Xochitl Zapata Zapotitla }
-	}
-	tarascan = {
-		color = {87 188 192}
-		first_names = { Agustín Alberto Alfredo Antonio Armando Arturo Carlos Cenobio Daniel Diego
-		Everardo Gerardo Gumersindo Héctor Jesús Juan Leobardo Luis Manuel Marcial
-		"Marco Antonio" Melchor Pedro Ricardo Salvador Samuel Sergio Silvano Silvestre Víctor }
-
-		last_names = { Almonte Arredondo Arriaga Aureoles Bernal Brito Calderón Cano Carrillo Cristóbal
-		Cuevas Dimas Esquivel Estrada Galeana Gallardo García Gómez López Maciel
-		Magaña Medrano Mena Ocampo Ochoa Paniagua Tinoco Toryo Vargas Zendejas }
-	}
-	quechua = {
-		color = {178 141 85}
-		first_names = { Agustín Alejandro Antauro Antonio Basilio Daniel Diego Eugenio Facundo Felipe
-		Francisco Gustavo Hilario Inca Isaac "José María" Julio Lorenzo Manuel Marcos
-		Mariano Martín Nicolás Osvaldo René Roberto Simón Túpac Ulises Víctor }
-
-		last_names = { Arguedas Barrientos Cajahuanca Canchata Chambi Chihuán Cusurichi Espejo Frisancho Gamarra
-		Guaman Guayasamín Gutiérrez Heredia Humala Iturri Lazarte Ludueña Melgarejo Palacios
-		Patiño Quispe Rodríguez Roncaglia "Santa Cruz" Sosa Sumac Toledo Vargas Zapata }
-	}
-	guarani = {
-		color = {89 80 175}
-		first_names = { Aniceto Antonio Bartolomé Camilo Carlos Claudio David Emiliano Eugenio Felipe
-		Félix Fernando Gregorio Jacinto Jesús José Juan Julio Luis Manuel
-		Marcos Máximo Narciso Pablo Pedro Rodrigo Roque Simón Teodoro Víctor }
-
-		last_names = { Abjaisu Álvarez Ayegua Camba Chuaie Correa Cunhagatú Díaz Fernández Galeano 
-		Gómez González Guaracay Guaraní Guerrero Jopara López Mongelós Morla Ortíz
-		Paravé Picagua Riquelme Rivarola "Santa Cruz" Tarayú Torga Velázquez Yaguarete Yrahi }
-	}
-	aimara = {
-		color = {190 45 23}
-		first_names = { Agustín Alejandro Antonio Bartolomé Carlos David Eduardo Enrique Evo Facundo
-		Felipe Francisco Gregorio Hugo José Juan "Juan José" Manuel Marcos Mario
-		Máximo Nicolás Osvaldo Ramón Roberto Santiago Túpac Vicente Víctor "Víctor Hugo" }
-
-		last_names = { Apaza Ayme Calisaya Cardenas Castilla Chino Choquehuanca Condori Corahua Cusicanqui
-		Hoffmann Huachua Huallpa Katari Larico Machaca Mamani Morales Paredes Peñaranda
-		Puma Quilca Quispe Rivera Sisa Tamayo Taquiri Torres Yllanes Yucra }
-	}
 	amazonian = {
 		color = {4 255 84}
 		first_names = { Aníbal Augusto Bento Bernardo César Daniel David Donato Duarte Ernesto
 		Estevão Fernando Francisco Gabriel Graciano Hugo João Julio Leopoldo Lucas
 		Miguel Nuno Óscar Rafael Roberto Sebastião Sergio Simão Vasco Zeferino }
-
 		last_names = { Arawá Arawak Bororo Garifuna Gê Guayaná Jeikó Kaingang Kalinago Kamakán
 		Karajá Kayapó Matsés Maxakalí Purí Timbira Xavante Xerente Xokieng Yanomamö }
 	}
-	patagonian = {
-		color = {88 99 133}
-		first_names = { Agustín Antonio Aquiles Arturo Aurelio Bernardo Carlos Claudio Diego Facundo
-		Félix Fernando Francisco Gerardo Gregorio Hugo Ignacio José Juan Luis
-		Manuel Marcos Martín Máximo Melchor Pedro Ramón Raúl Santiago Víctor }
+	mayan = {
+		color = {98 88 142}
+		first_names = { Agustin Akbal Alejandro Andres Anibal Antonio Armando Bernardo Carlos Crescencio
+		Cristobal Cuautehmoc Diego Felipe Gaspar Hernando Hilario Humberto Ignacio Jacinto 
+		Jesus Luis Marcial Martin Miguel Ramiro Rodolfo Rolando Santiago Yumil }
 
-		last_names = { Aliwen Amuylifko Aukan Ayllapan Chiguay Cumin Curumilla Epulewfu Foyelkay Guaiquil
-		Huichaman Ilwen Kayupi Kumlafken Kvlapi Leviñanco Lincoman Marifil Melifilu Millakoyam
-		Millapani Nahuel Ñanku Paillacar Pillancar Quelin Remultray Unquen Waikimill Yankvleufu }
-	}
-	guajiro = {
-		color = {221 248 75}
-		first_names = { Baltasar Bernardo Carlos Celestino Diego Emilio Felipe Fernando Fidel Francisco
-		Gaspar Gregorio Hugo Ignacio José Juan Manuel Marcos Mario Mateo
-		Melchor Narciso Pablo Pedro Ramón Roberto Santiago Sebastián Simón Tomás }
-
-		last_names = { Atapashuna Epieyu Iguana Jayaliyuu Jusayuu Pausayuu Sapuana Tijuana Uliana Uliyuu
-		Uraliyyu Ulewana Walapuana Walepushana }
-	}
-	tupinamba = {
-		color = {43 212 67}
-		first_names = { Álvaro André Carlos Diogo Emilio Eusébio Fábio Fernando Filipe Francisco
-		Gabriel Gaspar Gonçalo Gustavo Henrique João José Luís Manuel Inácio
-		Jordão Lúcio Mateus Nicolau Paulo Pedro Roque Sergio Tomás Vítor }
-
-		last_names = { Caetés Potiguara Tabajara Tamoios Temiminó Tupinambá Tupiniquim 	}
-	}
-	metis = {
-		color = {15 68 192}
-		first_names = { Louis John Amroise-Dydime Gabriel Daniel James Jaque William Joel
-		}
-		last_names = { Riel Bruce Lépine Dumont Clarence Martin
-		}
-	}
-	dakota = {
-		color = {66 78 134}
-		first_names = { Sinté Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi Tamaha Inkpaduta
-		}
-		last_names = { Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
-		}
+		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
+		Curruchic Ixquiac Lopez Manzanero Mas Menchu Merida Mes Osorio Pek
+		Poot Pop Puk Shal Sho Tecu Teul Tuyuc Xicara Xiloj }
 	}
 	cherokee = {
 		color = {136 114 173}
 		first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
 		}
 		last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
-		}
-	}
-	pueblo = {
-		color = {222 238 156}
-		first_names = { Cochise Mangas Loco Taza Nana chihuahua Geronimo Alchesay Naiche Victorio
-		}
-		last_names = { Arivaipa Cibecue Coyotero Jicarilla Llanero Mescalero Nateges Tonto
 		}
 	}
 	inuit = {
@@ -1649,23 +1539,9 @@ native_american = {
 		last_names = { Alakannuark Arreak Ashoona Enuaraq Evaloarjuk Ipeelee Irgittuq Keenainak Kunuk Kusugak Maksagak Nutarak Paniloo Piugattuk Pudluk Tiktaalaaq Ungallaq
 		}
 	}
-	cree = {
-		color = {127 244 100}
-		first_names = { Louis Maskipitonew Alexis Samson Joe James Baptiste Felix Jacob
-		}
-		last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
-		}
-	}
-	navajo = {
-		color = {83 111 191}
-		first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
-		}
-		last_names = { Naat'aa Martinez Ch'ilhanjini Largos Delagado Grande Da'ghaaii To'tso'nii Dodge
-		}
-	}
 	native_american_minor = {
 		color = {68 55 88}
-		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+		first_names = { John Paul Jose Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
 		}
 		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
 		}
@@ -1748,117 +1624,100 @@ neo_european_cultures = {
 
 latin_american_cultures = {
 	leader = southamerican
-	is_overseas = no
 	mexican = {
 		color = {51 117 62}
-		first_names = { Adrián Agustín Álvaro Anastasio Andrés Ángel Antonio Bernardo Emiliano Emilio
-		Enrique Ernesto Felipe Félix Francisco "Francisco Javier" Gabriel Gaspar Gregorio Ignacio
-		Jerónimo Joaquín José "José Manuel" "José María" Juan "Juan Bautista" Justo Lázaro Manuel
-		Mariano Martín Melchor Miguel Nicolás Pablo Pascual Pedro Porfirio Ramón
-		Ricardo Rómulo Salvador Sebastián Tomás Valentín Valeriano Venustiano Vicente Victoriano
+		first_names = { Adrian Agustin Alvaro Anastasio Andres Angel Antonio Bernardo Emiliano Emilio
+		Enrique Ernesto Felipe Felix Francisco "Francisco Javier" Gabriel Gaspar Gregorio Ignacio
+		Jeronimo Joaquin Jose "Jose Manuel" "Jose Maria" Juan "Juan Bautista" Justo Lazaro Manuel
+		Mariano Martin Melchor Miguel Nicolas Pablo Pascual Pedro Porfirio Ramon
+		Ricardo Romulo Salvador Sebastian Tomas Valentin Valeriano Venustiano Vicente Victoriano
 		}
 
-		last_names = { Almonte Álvarez Arista Barragán Bocanegra Bravo Bustamante Canalizo Carranza Caserta
-		Cervantes Corona Corra "de Ampudia" "de Cos" "de Itúrbide" Díaz Echeverría Escandón Escobedo
-		Fagoaga "Fernández del Valle" Flores Gómez González Guerrero Huerta Kosterlitzky "López de Santa Ana" Lozada
-		"Martínez del Río" Mejía Miramón Múzquiz Obregón Pedraza Pimentel Reyes "Rincón Gallardo" Robles
-		Ruíz Salas Sánchez "Sarmaniego del Castillo" "Vázquez de la Cadena" Villa Woll Zapata Zaragoza Zuloaga
+		last_names = { Almonte Alvarez Arista Barragan Bocanegra Bravo Bustamante Canalizo Carranza Caserta
+		Cervantes Corona Corra "de Ampudia" "de Cos" "de Iturbide" Diaz Echeverria Escandon Escobedo
+		Fagoaga "Fernandez del Valle" Flores Gomez Gonzalez Guerrero Huerta Kosterlitzky "Lopez de Santa Ana" Lozada
+		"Martinez del Rio" Mejia Miramon Muzquiz Obregon Pedraza Pimentel Reyes "Rincon Gallardo" Robles
+		Ruiz Salas Sanchez "Sarmaniego del Castillo" "Vazquez de la Cadena" Villa Woll Zapata Zaragoza Zuloaga
 		}
 	}
 	central_american = {
 		color = {101 164 172}
-		first_names = { Alejandro Andrés Aniceto Arturo Bartolomé Basilio Benito Benjamín Bernardo Carlos
-		Daniel Diego Doroteo Eduardo Eugenio Felipe Félix Fermín Fernando Francisco
-		Fruto Jacobo Jesús Joaquín Jorge "José Francisco" "José María" Juan "Juan Antonio" "Juan Pablo"
-		Julio Justo Lisandro Lorenzo Manuel Marcelino Maximiliano Máximo Óscar Pedro
-		Ponciano Próspero Rafael Ramón Santiago Sebastián Tiburcio Tomás Toribio Victoriano
+		first_names = { Alejandro Andres Aniceto Arturo Bartolome Basilio Benito Benjamin Bernardo Carlos
+		Daniel Diego Doroteo Eduardo Eugenio Felipe Felix Fermin Fernando Francisco
+		Fruto Jacobo Jesus Joaquin Jorge "Jose Francisco" "Jose Maria" Juan "Juan Antonio" "Juan Pablo"
+		Julio Justo Lisandro Lorenzo Manuel Marcelino Maximiliano Maximo oscar Pedro
+		Ponciano Prospero Rafael Ramon Santiago Sebastian Tiburcio Tomas Toribio Victoriano
 		}
 
-		last_names = { Aguilar Andino Araujo Arbenz Barahona Barillas Barrios Cabañas Cárdenas Carrera
-		Castellanos Chamorro Chávez Corral Escalón Esquivel Estrada Ezeta Fernández Ferrera
-		Figueroa Garrigó Guzmán Hernández Jerez Jiménez Leiva López Machado Martínez
-		Medina Mejía Menéndez Montes Montiel Morazán Palacios Peralta Quiros Regalado
-		Rosales Sevilla Sinibaldi Soto Terán Ubico Vasconcelos Vigil Zelaya Zeledón
+		last_names = { Aguilar Andino Araujo Arbenz Barahona Barillas Barrios Cabanas Cardenas Carrera
+		Castellanos Chamorro Chavez Corral Escalon Esquivel Estrada Ezeta Fernandez Ferrera
+		Figueroa Garrigo Guzman Hernandez Jerez Jimenez Leiva Lopez Machado Martinez
+		Medina Mejia Menendez Montes Montiel Morazan Palacios Peralta Quiros Regalado
+		Rosales Sevilla Sinibaldi Soto Teran Ubico Vasconcelos Vigil Zelaya Zeledon
 		}
 		radicalism = 15
 	}
 	caribeno = {
 		color = {122 11 74}
 		first_names = { Alberto Alejandro Alfredo Ambrosio Anselmo Antonio Arturo Benigno Buenaventura Calixto
-		Carlos Ceferino Cesáreo Demetrio Desiderio Dionisio Domingo Eugenio Federico Felipe
+		Carlos Ceferino Cesareo Demetrio Desiderio Dionisio Domingo Eugenio Federico Felipe
 		Fernando Fidel Fulgencio Gerardo Gregorio Guillermo Horacio Ignacio Jacinto Jacobo
-		Jesús Joaquín José "José Miguel" Juan "Juan Bautista" Manuel Mariano Mario Máximo
-		Osvaldo Pablo Pedro Rafael Ramón Raúl Salvador Romás Ulises Wenceslao
+		Jesus Joaquin Jose "Jose Miguel" Juan "Juan Bautista" Manuel Mariano Mario Maximo
+		Osvaldo Pablo Pedro Rafael Ramon Raul Salvador Romas Ulises Wenceslao
 		}
 
-		last_names = { Acosta Alfau Báez Batista Bayo Cabral Carmona Castillo Castro Cisneros
-		"de Céspedes" "de la Rosa" "de Meriño" "de Rojas" Espaillat Estrada Estrella Fernández Figuereo García
-		Gil Gómez Gonzáles González Grau Guillermo Henríquez Herrera Hevia Laredo
-		Luperón Maceo Machado Márquez Mella Méndez Mendieta Moncada Morales Mota
-		Pelletier Pimentel Puello Santana Sosa Trujillo Valverde Vásquez Vázquez Zayas
+		last_names = { Acosta Alfau Baez Batista Bayo Cabral Carmona Castillo Castro Cisneros
+		"de Cespedes" "de la Rosa" "de Merino" "de Rojas" Espaillat Estrada Estrella Fernandez Figuereo Garcia
+		Gil Gomez Gonzales Gonzalez Grau Guillermo Henriquez Herrera Hevia Laredo
+		Luperon Maceo Machado Marquez Mella Mendez Mendieta Moncada Morales Mota
+		Pelletier Pimentel Puello Santana Sosa Trujillo Valverde Vasquez Vazquez Zayas
 		}
 	}
-	north_andean = {
+	andean = {
 		color = {146 156 116}
 		first_names = { Antonio Camilo Carlos Cipriano Demetrio Diego Domingo Eloy Eusebio Eustorgio
-		Ezequiel Federico Fernando Florentino Franciso "Francisco Javier" "Francisco José" "Francisco de Paula" Froilán Gabriel
-		Gregorio Guillermo Gustavo Guzmán Hilario Ignacio Jerónimo Joaquín Jorge "José Antonio"
-		"José Manuel" "José María" Juan "Juan José" Julián Julio León Manuel Pedro Plácido
-		Rafael Raimundo Ramón Ricardo Rodolfo Santiago Santos Tadeo Tomás Vicente
+		Ezequiel Federico Fernando Florentino Franciso "Francisco Javier" "Francisco Jose" "Francisco de Paula" Froilan Gabriel
+		Gregorio Guillermo Gustavo Guzman Hilario Ignacio Jeronimo Joaquin Jorge "Jose Antonio"
+		"Jose Manuel" "Jose Maria" "Juan Jose" Juan Jose Julian Julio Leon Manuel Pedro Placido
+		Rafael Raimundo Ramon Ricardo Rodolfo Santiago Santos Tadeo Tomas Vicente
 		}
 
-		last_names = { Alfaro Andueza Arboleda Blanco Bonnet Boyd Caamaño Carreño Carrión Castro
-		Chiari Cordero Crespo Daza "de Herrera" "de Mosquera" "de Obaldía" "de Olmedo" "de Veintemilla" "de Villamil"
-		Falcón Flores García Gómez González Gual Gutiérrez Herrán Hurtado López
-		Mallarino Manjarrés Mariño Melo Monagas Moreno Núñez Obando Páez Porras
-		Reyes Robles Rocafuerte Rojas Salgar Santander Soublette Urbina Villegas Zaldúa
-		}
-	}
-	south_andean = {
-		color = {116 156 146}
-		first_names = { Adolfo Agustín Alejandro Andrés Aníbal Antonio Bartolomé Bernardo David Diego
-		Domingo Eduardo Emiliano Emilio Enrique Esteban Eusebio Federico Felipe Francisco
-		Germán Hernando Hilarión Ignacio Isidoro Ismael Jorge José "José Miguel" Juan
-		"Juan Antonio" "Juan Francisco" Justo Ladislao Luis Manuel Mariano Miguel Narciso
-		Nicolás Pablo Patricio Pedro Ramón Rufino Ruperto Santiago Sebastián Severino Tomás
-		}
-
-		last_names = { Abaroa Ágreda Altamirano Arteaga Ballivián Baquedano Belzú Blanche Blanco Bulnes
-		Cabrera Calvo Campero Castilla Corrico Daza "de la Cruz" "de Santa Cruz" "de Velasco" "de Vidal"
-		Echenique Errázuriz Fernández Figueroa Franco Freire Gamarra Gorostiaga Grau
-		Guilarte "La Mar" Latorre Lynch Melgarejo Monje Montero Montes Montt Orbegoso
-		Pezet Rebolledo Ruíz-Tagle Salaverry "Santa María" Siles Sotomayor Toro Valencia Zañartu Zapata
+		last_names = { Alfaro Andueza Arboleda Blanco Bonnet Boyd Caamano Carreno Carrion Castro
+		Chiari Cordero Crespo Daza "de Herrera" "de Mosquera" "de Obaldia" "de Olmedo" "de Veintemilla" "de Villamil"
+		Falcon Flores Garcia Gomez Gonzalez Gual Gutierrez Herran Hurtado Lopez
+		Mallarino Manjarres Marino Melo Monagas Moreno Nunez Obando Paez Porras
+		Reyes Robles Rocafuerte Rojas Salgar Santander Soublette Urbina Villegas Zaldua
 		}
 	}
 	platinean = {
 		color = {199 232 151}
-		first_names = { Agustín Antonio Atanasio Baltasar Bartolomé Bernardino Bernardo Cándido Carlos Cecilio
+		first_names = { Agustin Antonio Atanasio Baltasar Bartolome Bernardino Bernardo Candido Carlos Cecilio
 		Cirilo Claudio Domingo Emiliano Esteban Eugenio Evaristo Facundo Faustino Feliciano
-		Félix Francisco Fructuoso Gabriel Gaspar Guillermo Hipólito Ignacio José "Juan José"
-		"Juan Manuel" "Juan Ramón" Julio Justo Lorenzo Luis Manuel Marcial Máximo Miguel
-		Nicolás Patricio Pedro Ramón Roberto Roque Salvador Santiago Torcuato Venancio
+		Felix Francisco Fructuoso Gabriel Gaspar Guillermo Hipolito Ignacio Jose "Juan Jose"
+		"Juan Manuel" "Juan Ramon" Julio Justo Lorenzo Luis Manuel Marcial Maximo Miguel
+		Nicolas Patricio Pedro Ramon Roberto Roque Salvador Santiago Torcuato Venancio
 		}
 
-		last_names = { Aguirre Avellaneda Báez Balcarce Bareiro Berro Brown Caballero Cruz "de Alvear"
-		"de la Plaza" "de Rosas" "de Urquiza" Derqui Díaz Ellauri Escobar Flores González Jovellanos
-		Juárez Justo Latorre López Machaín Maza Meza Mitre Paz Pedernera
-		Pellegrini Pereira Quintana Rivarola Rivera Roca "Rodríguez de Francia" Rojas Rondeau Sáenz
+		last_names = { Aguirre Avellaneda Baez Balcarce Bareiro Berro Brown Caballero Cruz "de Alvear"
+		"de la Plaza" "de Rosas" "de Urquiza" Derqui Diaz Ellauri Escobar Flores Gonzalez Jovellanos
+		Juarez Justo Latorre Lopez Machain Maza Meza Mitre Paz Pedernera
+		Pellegrini Pereira Quintana Rivarola Rivera Roca "Rodriguez de Francia" Rojas Rondeau Saenz
 		Santos Sarmineto Solano Tajes Uriburu Viamonte Vidal Williman Wisner Yrigoyen
 		}
 	}
 	brazilian = {
 		color = {0 112 66}
-		first_names = { Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
-		Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano
-		"Francisco de Paula" "Francisco Xavier" Federico Gaspar Gastão Getúlio Henrique Hermes Humberto Isaías
-		João Joaquim José Júlio Juscelino Luís Manuel "Marco Antônio" Mário Miguel
+		first_names = { Afonso Antonio Artur Augusto Aurelio Benjamin Candido Carlos Celso Custodio
+		Delfim Deodoro Eduardo Emilio Epitacio Ernesto Fabio Fernando Filipe Floriano
+		"Francisco de Paula" "Francisco Xavier" Federico Gaspar Gastao Getulio Henrique Hermes Humberto Isaias
+		Joao Joaquim Jose Julio Juscelino Luis Manuel "Marco Antonio" Mario Miguel
 		Nereu Nilo Paulo Pedro Prudente Silviano Tancredo Urbano Venceslau Vital
 		}
 
-		last_names = { Barreto Bernardes Bittencourt Brandão Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"
-		"da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Bragança" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
-		"de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvão Jordão
-		Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osório Peixoto
+		last_names = { Barreto Bernardes Bittencourt Brandao Bras "Cabral da Silva" Caldwell Constant Costa "da Camara"
+		"da Costa" "da Fonseca" "de Aguiar" "de Barros" "de Beaurepaire-Rohan" "de Braganca" "de Carvalho" "de Itapevi" "de Lima e Silva" "de Melo"
+		"de Noronha" "de Oliveira" "de Orleans" "de Souza Neto" "de Suruf" Dutra Fragoso Frontin Galvao Jordao
+		Labatut Lopes Maciel Mallet Marques "Marques de Sousa" Maurity Moreira Osorio Peixoto
 		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
 		}
 	}
