@@ -6,21 +6,21 @@ political_decisions = {
 			NOT = { has_country_flag = take_peru_arg } 
 		}
 		allow = { 
-			nationalism_n_imperialism = 1 
-			ARG = { all_core = { owned_by = THIS } } 
-			BOL = { all_core = { owned_by = THIS } }
+			nationalism_n_imperialism = 1
+			all_core = { owned_by = THIS }
+			PER = { all_core = { owned_by = THIS } }
 		}
 		effect = { 
 			PEU = { all_core = { add_core = THIS } } 
-			badboy = 8
 			set_country_flag = take_peru_arg
+			prestige = 20
 		}
 	}
 	ARG_andean_accepted = { 
 	picture = colombia_map
 		potential = { 
 			has_country_flag = take_peru_arg	
-			NOT = { accepted_culture = andean } 
+			NOT = { accepted_culture = south_andean } 
 		}
 		allow = { 
 			ARG = { all_core = { owned_by = THIS } } 
@@ -29,8 +29,8 @@ political_decisions = {
 			revolution_n_counterrevolution = 1 
 		}
 		effect = { 
-			add_accepted_culture = andean
-			badboy = 12
+			add_accepted_culture = south_andean
+			prestige = 20
 		}
 	}
 }

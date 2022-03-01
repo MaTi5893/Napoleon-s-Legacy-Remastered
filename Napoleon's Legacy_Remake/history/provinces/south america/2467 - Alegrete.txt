@@ -1,6 +1,6 @@
-owner = UPB
-controller = UPB
-add_core = UPB
+owner = ECO
+controller = ECO
+add_core = ECO
 add_core = BRZ
 trade_goods = cattle
 life_rating = 35

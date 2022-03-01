@@ -3,7 +3,7 @@ political_decisions = {
         picture = india_decision
         potential = {
             tag = EIC
-            EIC = {government = republic}
+            EIC = {government = democracy}
         }
         allow = {
             all_core = {

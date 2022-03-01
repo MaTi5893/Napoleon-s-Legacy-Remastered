@@ -1,7 +1,7 @@
 country_event = {		
 	id = 600037
 	trigger = {
-		tag = PLC
+		tag = SPA
 		year = 1836
 		NOT = {year = 1850}
 	}
@@ -14,7 +14,7 @@ country_event = {
 	title = "EVTNAME600037"
 	desc = "EVTDESC600037"
 	option = {
-		name = "Education for the Poles!"	
+		name = "The final step of Spain reconstruction !"	
 		add_country_modifier = {
 			name = poniatowski_reforms
 			duration = 5109

@@ -19,16 +19,12 @@ form_celtic_union = {
 			war = no
 			IRE = {
 				all_core = {
-						OR = {
-							owned_by = THIS
-						}
+						owned_by = THIS
 					}	
 				}
 			SCO = {
 				all_core = {
-						OR = {
-							owned_by = THIS
-						}
+						owned_by = THIS
 					}	
 				}
 			}	

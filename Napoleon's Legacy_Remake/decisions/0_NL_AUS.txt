@@ -143,8 +143,7 @@ political_decisions = {
 				any_owned_province = { 
 					is_core = GER 
 					NOT = { 
-						region = AUS_612 
-						region = AUS_734 
+						region = AUS_612
 					} 
 				} 
 			} 

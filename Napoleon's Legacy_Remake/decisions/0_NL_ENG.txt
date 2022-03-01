@@ -168,10 +168,7 @@ political_decisions = {
 	britannia_rule = {
 		picture = rule_wave_decision
 		potential = {
-			OR = {
-				AND = {
-					tag = ENG
-				}
+				tag = ENG
 				tag = DUA
 			}
 			NOT = { tech_school = french_tech_school }

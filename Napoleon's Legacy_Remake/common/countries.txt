@@ -50,6 +50,8 @@ WSF     = "countries/Zapadoslavia.txt"	#Zacadia
 EIC     = "countries/East India Company.txt"
 DUA		= "countries/Dual Monarchy.txt"
 IBE     = "countries/Indo-British Empire.txt"
+ECO     = "countries/Equator Confederation.txt"
+RER     = "countries/Republica Riograndense.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"

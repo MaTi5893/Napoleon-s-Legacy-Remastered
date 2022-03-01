@@ -1,6 +1,5 @@
-owner = UPB
-controller = UPB
-add_core = UPB
+owner = POR
+controller = POR
 add_core = POR
 add_core = CHI
 
