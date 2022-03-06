@@ -1,6 +1,6 @@
-owner = RER
-controller = RER
-add_core = RER
+owner = ECO
+controller = ECO
+add_core = ECO
 add_core = BRZ
 trade_goods = tobacco
 life_rating = 35
