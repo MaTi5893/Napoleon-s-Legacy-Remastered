@@ -152,7 +152,7 @@ CHI = {
 
 
 army = {
-	name = "I Corpo do ex�rcito"
+	name = "I Corpo do exercito"
 	location = 2447
 	regiment = {
 		name= "1. Brigada de Infantaria"

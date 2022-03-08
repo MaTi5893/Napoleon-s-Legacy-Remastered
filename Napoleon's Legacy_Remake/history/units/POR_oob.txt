@@ -36,7 +36,7 @@ leader = {
 }
 
 leader = {
-	name = "Antero Jos� Ferreira"
+	name = "Antero Jose Ferreira"
 	##picture = brz_gen_ferreira
 	type = land
 	date = 1832.1.1
@@ -45,7 +45,7 @@ leader = {
 	prestige = 0.1
 }
 leader = {
-	name = "Jos� Travassos Valdez"
+	name = "Jose Travassos Valdez"
 	#picture = por_gen_bonfim
 	date = 1832.1.1
 	type = land
@@ -62,7 +62,7 @@ leader = {
 	background = attack_1.1
 }
 leader = {
-	name = "Ant�nio Jos� Severim de Noronha"
+	name = "Antonio Jose Severim de Noronha"
 	#picture = por_gen_terceira
 	date = 1823.1.1
 	type = land
@@ -81,7 +81,7 @@ leader = {
 	
 }
 leader = {
-	name = "Lu�s do Rego Barreto"
+	name = "Luis do Rego Barreto"
 	date = 1817.1.1
 	type = land
 	personality = defence_1.1
@@ -90,7 +90,7 @@ leader = {
 }
 
 army = {
-	name = "Ex�rcito Portugu�s"
+	name = "Exercito Portugues"
 	location = 521
 	regiment = {
 		name= "1. Brigada de Infantaria"
@@ -135,19 +135,19 @@ army = {
 	}
 
 	regiment = {
-		name = "1. Divis�o Colonial"
+		name = "1. Divisao Colonial"
 		type = artillery
 		home = 525
 	}
 	
 	regiment = {
-		name = "2. Divis�o Colonial"
+		name = "2. Divisao Colonial"
 		type = artillery
 		home = 2134
 	}
 	
 	regiment = {
-		name = "3. Divis�o Colonial"
+		name = "3. Divisao Colonial"
 		type = artillery
 		home = 1303
 	}
@@ -162,7 +162,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Dom Jo�o VI "
+		name= "Dom Joao VI "
 		type = manowar
 	}
 
@@ -172,12 +172,12 @@ navy = {
 	}
 
 	ship = {
-		name= "S�o Sebasti�o"
+		name= "Sao Sebastiao"
 		type = manowar
 	}
 
 	ship = {
-		name= "Amaz�nia"
+		name= "Amazonia"
 		type = manowar
 	}
 
@@ -192,7 +192,7 @@ navy = {
 	}
 
 	ship = {
-		name= "Pr�ncipe do Brasil"
+		name= "Principe do Brasil"
 		type = manowar
 	}
 

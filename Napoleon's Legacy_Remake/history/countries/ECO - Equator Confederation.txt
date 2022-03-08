@@ -30,6 +30,8 @@ health_care = trinket_health_care
 unemployment_subsidies = trinket_subsidies
 pensions = no_pensions 
 school_reforms = low_schools
+oob = "ECO_oob.txt"
+
 
 ruling_party = BRZ_conservative
 last_election = 1835.1.1

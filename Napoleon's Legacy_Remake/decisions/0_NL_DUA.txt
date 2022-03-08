@@ -4,7 +4,7 @@ political_decisions = {
 		potential = {
 			tag = DUA
 			accepted_culture = french
-			NOT = {accepted_culture = welsh}
+			NOT = {accepted_culture = breton}
 		}
 		allow = {
 			war = no
@@ -26,7 +26,7 @@ political_decisions = {
 		potential = {
 			tag = DUA
 			accepted_culture = french
-			NOT = {accepted_culture = picard}
+			NOT = {accepted_culture = welsh}
 		}
 		allow = {
 			war = no
