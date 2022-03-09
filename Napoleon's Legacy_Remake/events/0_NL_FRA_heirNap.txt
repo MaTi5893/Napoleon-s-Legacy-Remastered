@@ -21,7 +21,6 @@ country_event = {
 	desc = "EVTDESC600013"
 	picture = "napoleon_death"
 	option = {
-		any_country = { limit = { NOT = { tag = THIS } } annex_to = THIS } 
 		name = "King Joseph Bonaparte of Spain!"	
 		add_country_modifier = {
 			name = napoleon_death
