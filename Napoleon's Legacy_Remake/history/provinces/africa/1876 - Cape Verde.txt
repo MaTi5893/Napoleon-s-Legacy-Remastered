@@ -1,5 +1,5 @@
-owner = UPB
-controller = UPB
-add_core = UPB
+owner = POR
+controller = POR
+add_core = POR
 trade_goods = coffee
 life_rating = 35

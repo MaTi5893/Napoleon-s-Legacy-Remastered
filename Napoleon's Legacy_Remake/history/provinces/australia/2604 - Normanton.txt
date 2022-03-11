@@ -1,9 +1,9 @@
-owner = ENG
-controller = ENG
+owner = GBR
+controller = GBR
+add_core = GBR
 add_core = AST
 trade_goods = tropical_wood
 life_rating = 30
-colonial = 2
 1836.1.2 = {
 	owner = AST
 	controller = AST

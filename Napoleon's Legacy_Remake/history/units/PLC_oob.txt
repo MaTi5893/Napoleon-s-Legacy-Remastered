@@ -39,7 +39,7 @@ leader = {
 	name = "Izydor Krasinski"
 	type = land
 	date = 1836.1.1
-	personality = defence_.1
+	personality = defence_2.2
 	background = attack_2.1
 }
 

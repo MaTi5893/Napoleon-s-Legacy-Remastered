@@ -6,11 +6,9 @@ political_decisions = {
 		NOT = {accepted_culture = slovak}
 	}
 	allow  = {
-		NOT = {
-			exists = GER
-			exists = NGF
-			exists = SGF
-		}
+		GER = { exists = no }
+		NGF = { exists = no }
+		SGF = { exists = no }
 		PRU = {is_greater_power = no}
 		HAN = {is_greater_power = no}
 		is_greater_power = yes
@@ -51,7 +49,9 @@ political_decisions = {
 			any_country = {
 				limit = {
                     OR = {
-                        is_culture_group = germanic
+                        primary_culture = north_german
+                        primary_culture = rhenish
+                        primary_culture = south_german
                     }
 					in_sphere = THIS
 				}
@@ -66,12 +66,13 @@ political_decisions = {
 		}
     }
     reintegrate_the_rhineland = {
-        picture = decision__rhi_HRE
+        picture = decision_rhi_HRE
         potential = {
             tag = HRO
             NOT = {has_country_flag = reintegrate_the_rhineland}
         }
         allow = {
+            revolution_n_counterrevolution = 1
             is_greater_power = yes
             war = no
             owns = 577
@@ -103,7 +104,7 @@ political_decisions = {
         }
     }
     expand_to_italy =  {
-        picture = decision__ita_HRE
+        picture = decision_ita_HRE
         potential = {
             tag = HRO
             NOT = {has_country_flag = expand_to_italy}
@@ -178,7 +179,7 @@ political_decisions = {
         }
     }
 
-    glory_to_HRE = {
+    glory_to_hre = {
         picture = glory_HRE
         potential = {
             tag = HRO
@@ -193,7 +194,7 @@ political_decisions = {
             all_core = {
                 owned_by = THIS
             }
-            revolution_n_counterrevolution = 1
+            mass_politics = 1
             is_greater_power = yes
             prestige = 200
             war = no
@@ -201,7 +202,6 @@ political_decisions = {
         effect = {
             add_accepted_culture = dutch
             add_accepted_culture = north_italian
-            add_accepted_culture = swiss
             add_accepted_culture = slovene
             add_accepted_culture = flemish
             add_accepted_culture = wallonian
@@ -220,12 +220,13 @@ political_decisions = {
         }
     }
     expand_netherlands = {
-        picture = decision__net_HRE
+        picture = decision_net_HRE
         potential = {
             tag = HRO
             NOT = {has_country_flag = expand_netherlands}
         }
         allow = {
+            revolution_n_counterrevolution = 1
             is_greater_power = yes
             war = no
             NET = {
@@ -245,7 +246,7 @@ political_decisions = {
         }
 	}
     expand_switzerland = {
-        picture = decision__swi_HRE
+        picture = decision_swi_HRE
         potential = {
             tag = HRO
             NOT = {has_country_flag = expand_switzerland}
@@ -253,24 +254,19 @@ political_decisions = {
         allow = {
             is_greater_power = yes
             war = no
-            SWI = {
-                all_core = {
-                    owned_by = THIS
-                }
-            }
+            SWI_603 = {owned_by = THIS}
+            SWI_605 = {owned_by = THIS}
+            revolution_n_counterrevolution = 1
         }
         effect = {
-            SWI = {
-                all_core = {
-                    add_core= THIS
-                }
-            }   
+            SWI_603 = {add_core = THIS}
+            SWI_605 = {add_core = THIS}
             prestige =10
             set_country_flag = expand_switzerland
         }
     }
     expand_belgium = {
-        picture = decision__bel_HRE
+        picture = decision_bel_HRE
         potential = {
             tag = HRO
             has_country_flag = expand_netherlands
@@ -278,6 +274,7 @@ political_decisions = {
             NOT = {has_country_flag = expand_belgium}
         }
         allow = {
+            revolution_n_counterrevolution = 1
             is_greater_power = yes
             war = no
             BEL = {
@@ -299,12 +296,13 @@ political_decisions = {
         }
     }
     expand_slovenia = {
-        picture = decision__slo_HRE
+        picture = decision_slo_HRE
         potential = {
             tag = HRO
             NOT = {has_country_flag = expand_slovenia}
         }
         allow = {
+            revolution_n_counterrevolution = 1
             is_greater_power = yes
             war = no
             SLO = {

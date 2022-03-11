@@ -1,0 +1,479 @@
+
+leader = {
+	name = "Thomas Cochrane"
+	#picture = eng_adm_cochrane
+	date = 1831.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Hugh Gough"
+	#picture = eng_gen_goughhugh
+	date = 1830.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Edward Codrington"
+	#picture = eng_adm_codrington
+	date = 1836.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "George Cockburn"
+	#picture = eng_adm_cockburn
+	date = 1812.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "John Colborne"
+	#picture = eng_gen_seaton
+	date = 1825.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "Harry Smith"
+	#picture = eng_gen_smith
+	date = 1834.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "FitzRoy Somerset"
+	#picture = eng_gen_raglan
+	date = 1825.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Henry Hardinge"
+	#picture = eng_gen_hardinge
+	date = 1815.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "James Hawkins-Whitshed"
+	#picture = eng_adm_hawkinswhitshed
+	date = 1799.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.4
+}
+leader = {
+	name = "David Milne"
+	#picture = eng_adm_milnedavid
+	date = 1814.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Robert Stopford"
+	#picture = eng_adm_stopford
+	date = 1808.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Henry Paget"
+	#picture = eng_gen_paget
+	date = 1802.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Charles Rowley"
+	#picture = eng_adm_rowley
+	date = 1814.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Rowland Hill"
+	#picture = eng_gen_hill
+	date = 1803.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "George Murray"
+	#picture = eng_gen_murray
+	date = 1813.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Stapleton Cotton"
+	#picture = eng_gen_cotton
+	date = 1805.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Hussey Vivian"
+	#picture = eng_gen_vivian
+	date = 1813.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Edward Blakeney"
+	#picture = eng_gen_blakeney
+	date = 1825.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "William Parker"
+	#picture = eng_adm_parker
+	date = 1830.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Charles Cathcart"
+	#picture = eng_gen_cathcart
+	date = 1830.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Peregrine Maitland"
+	#picture = eng_gen_maitland
+	date = 1813.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Benjamin d'Urban"
+	#picture = eng_gen_durban
+	date = 1812.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+
+leader = {
+	name = "James Dundas"
+	#picture = eng_adm_dundasjames
+	date = 1836.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+army = { 
+	name = "The Indonesia Garrison"
+	location = 1413
+	regiment = { 
+		name = "1st Indonesian Infantry"
+		type = infantry
+		home = 1403
+	}
+	regiment = { 
+		name = "2nd Indonesian Infantry"
+		type = infantry
+		home = 1413
+	}
+	regiment = { 
+		name = "3rd Indonesian Infantry"
+		type = infantry
+		home = 1414
+	}
+	regiment = { 
+		name = "4th Indonesian Infantry"
+		type = infantry
+		home = 3254
+	}
+	regiment = { 
+		name = "1st Indonesian Hussars"
+		type = hussar
+		home = 1416
+	}
+	regiment = { 
+		name = "1st Indonesian Artillery"
+		type = artillery
+		home = 1415
+	}
+	regiment = { 
+		name = "2nd Indonesian Artillery"
+		type = artillery
+		home = 1417
+	}
+	regiment = { 
+		name = "3rd Indonesian Artillery"
+		type = artillery
+		home = 1418
+	}
+	regiment = { 
+		name = "4th Indonesian Artillery"
+		type = artillery
+		home = 1421
+	}
+	regiment = { 
+		name = "5th Indonesian Artillery"
+		type = artillery
+		home = 1420
+	}
+}
+
+
+
+navy = {
+	name = "3rd Reserve Squadron"
+	location = 1418 #Plymouth
+	ship = {
+		name= "HMS Ajax"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Armada"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Caledonia"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Edinburgh"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Egmont"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Impregnable"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Invincible"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Minden"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Poictiers"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Warspite"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Bacchante"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Belvidera"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Briton"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Crescent"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Galatea"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Havannah"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Maidstone"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Menelaus"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Nymphe"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Tenedos"
+		type = frigate
+	}
+
+}
+
+navy = {
+	name = "East Indies Station"
+	location = 1413 #Batavia
+	ship = {
+		name= "HMS Madagascar"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Portland"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Winchester"
+		type = frigate
+	}
+	ship = {
+		name= "11th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "12th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "13th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "14th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "15th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "16th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "17th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "18th Transport Flotilla"
+		type = clipper_transport
+	}
+
+}
+
+navy = {
+	name = "1st Transport Squadron"
+	location = 1423
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6th Transport Flotilla"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "23th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "24th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "25th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "26th Transport Flotilla"
+		type = clipper_transport
+	}
+
+}
+
+

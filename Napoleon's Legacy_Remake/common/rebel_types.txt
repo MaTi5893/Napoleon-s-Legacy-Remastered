@@ -1001,21 +1001,6 @@ nationalist_rebels = {
 				civilized = no
 			}
 		}
-		modifier = {
-			factor = 5
-			culture = irish
-			country = { has_country_flag = no_help_for_the_irish }
-		}
-		modifier = {
-			factor = 0.1
-			culture = irish
-			country = { has_country_flag = help_for_the_irish }
-		}
-		modifier = {
-			factor = 50
-			culture = irish
-			location = { has_province_modifier = irish_republicans }
-		}
 	
 	}
  
@@ -1887,17 +1872,7 @@ red_shirts = {
 			factor = 0
 			location = {
 				NOT = {
-					OR = {
-						is_core = LOM
-						is_core = SAR
-						is_core = SYC
-						is_core = NAP
-						is_core = PAP
-						is_core = MOD
-						is_core = LUC
-						is_core = TUS
-						is_core = VEN
-					}
+					is_core = ITA
 				}
 			}
 		}

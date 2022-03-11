@@ -19,7 +19,7 @@ leader = {
 }
 
 army = {
-	name = "Óglaigh na hÉireann"
+	name = "Oglaigh na hEireann"
 	location = 263
 	regiment = {
 		name= "1.1. Infanteridivision"
@@ -83,7 +83,7 @@ navy = {
     name = "Transport Fleet"
     location = 263
     ship = {
-		name= "D�n na nGall"
+		name= "Don na nGall"
 		type = manowar
 	}
 	ship = {
@@ -91,7 +91,7 @@ navy = {
 		type = manowar
 	}
 	ship = {
-		name= "ӒConghaile"
+		name= "Conghaile"
 		type = manowar
 	}
 
@@ -116,7 +116,7 @@ navy = {
 		type = frigate
 	}
 	ship = {
-		name= "an C�bh"
+		name= "an Cobh"
 		type = frigate
 	}
 	ship = {

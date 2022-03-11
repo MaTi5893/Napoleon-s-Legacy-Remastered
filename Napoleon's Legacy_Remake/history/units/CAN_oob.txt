@@ -1,0 +1,9 @@
+leader = {
+	name = "Benjamin Smith"
+	#picture = aus_gen_radetzky
+	date = 1805.1.1
+	type = land
+	personality = defence_2.1
+	background = attack_1.2
+	prestige = 0.3
+}

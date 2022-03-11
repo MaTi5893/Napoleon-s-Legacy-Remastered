@@ -33,8 +33,11 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
 						}
 					}
 				}
@@ -43,8 +46,11 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
 						}
 					}
 				}
@@ -53,8 +59,11 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
 						}
 					}
 				}
@@ -63,8 +72,11 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
 						}
 					}
 				}
@@ -73,8 +85,11 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
 						}
 					}
 				}
@@ -104,7 +119,7 @@ political_decisions = {
 						OR = { 
 							owned_by = PRU
 							owned_by = PLC
-							owned_by = PRU
+							owned_by = DZG
 						}
 					}
 					remove_core = GCF
@@ -126,8 +141,11 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
 						}
 					}
 				}
@@ -136,8 +154,11 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
 						}
 					}
 				}
@@ -146,8 +167,11 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
 						}
 					}
 				}
@@ -156,8 +180,11 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
 						}
 					}
 				}
@@ -166,8 +193,11 @@ political_decisions = {
 				all_core = {
 					OR = {
 						owned_by = THIS
-						owner = { 
-						in_sphere = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
 						}
 					}
 				}
@@ -185,14 +215,14 @@ political_decisions = {
 							is_core = GER
 							owner = { 
 								OR = { 
-								tag = PRU
-								tag = PLC
-								tag = SWE
-								tag = DEN
-								tag = AUS
-								tag = KUK
-								tag = FRA
-								tag = DZG
+									tag = PRU
+									tag = PLC
+									tag = SWE
+									tag = DEN
+									tag = AUS
+									tag = KUK
+									tag = FRA
+									tag = DZG
 								}
 							}
 					}
@@ -211,6 +241,7 @@ political_decisions = {
 			any_country = {
 				limit = {
 					is_culture_group = germanic
+					NOT = {tag = PRU}
 					in_sphere = THIS
 					NOT = { tag = AUS tag = KUK }
 					OR = { 

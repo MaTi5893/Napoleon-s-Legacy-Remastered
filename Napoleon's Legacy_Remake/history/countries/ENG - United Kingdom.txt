@@ -1,14 +1,13 @@
-capital = 57
-primary_culture = anglo_canadian
-culture = british
-culture = french_canadian
+capital = 300
+primary_culture = british
+culture = Scotish
 religion = protestant
 government = hms_government
 plurality = 30
 nationalvalue = nv_order
 literacy = 0.55
 civilized = yes
-set_country_flag = new_world_nation
+prestige = 50
 
 # Political reforms
 slavery = no_slavery
@@ -88,11 +87,6 @@ upper_house = {
 }
 
 schools = naval_tech_school
-
-foreign_investment = {
-	BEL = 10000
-	DEN = 2000
-}
 
 oob = "ENG_oob.txt"
 

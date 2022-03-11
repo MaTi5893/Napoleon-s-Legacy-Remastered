@@ -1,5 +1,5 @@
-owner = NET
-controller = NET
+owner = EIC
+controller = EIC
 add_core = HND
 trade_goods = tea
 life_rating = 32

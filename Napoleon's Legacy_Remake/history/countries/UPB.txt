@@ -9,11 +9,10 @@ religion = catholic
 government = hms_government
 plurality = 10
 nationalvalue = nv_equality
-literacy = 0.5
+literacy = 0.2
 civilized = yes 
 prestige = 30
 schools = traditional_academic
-oob = "UPB_oob.txt"
 
 
 #========================= H O U S E - O F - L O R D S =========================
@@ -21,11 +20,11 @@ oob = "UPB_oob.txt"
 ruling_party = UPB_conservative_92
 upper_house = {
 fascist = 0
-reactionary = 20
+reactionary = 25
 conservative = 60
-socialist = 10
+socialist = 0
 communist = 0
-liberal = 10
+liberal = 15
 anarcho_liberal = 0
 }
 slavery = no_slavery
@@ -69,4 +68,8 @@ guild_based_production = 1
 water_wheel_power = 1
 publishing_industry = 1
 mechanized_mining = 1
+basic_chemistry = 1
 
+# Starting Consciousness
+consciousness = 3
+nonstate_consciousness = 1

@@ -1,59 +1,29 @@
-##Starting NFs
-#	national_focus=
-#	{
-#"1"="colonize"
-#"2"="colonize"
-#	}
-#	colonize=
-#	{
-#		1=300
-#		2=300
-#	}
-
-#Sphere of Influence
-TEX = {
-	value = 125		#relation
-	level = 4		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
-}
 
 MEX = {
-	value = -75		#relation
-	level = 2		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
+	value = -25
 }
 UCA = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
+	value = 100
 }
 GCO = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
+	value = 100
 }
 BRZ = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
+	value = 100	
 }
 URU = {
 	value = 75		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
-	influence_value = 25
 }
 
 LIB = {
 	value = 125
-	level = 5
-	influence_value = 25
 }
 
 JAP = {
-	value = 125
+	value = 70
 }
 
-CHE = { 	
+ICF = { 	
 	value = -200
 	level = 0
 }
@@ -141,107 +111,67 @@ leader = {
 }
 
 army = {
-	name = "US Dragoons"
-	location = 234
+	name = "US 1st Corps"
+	location = 232
 	regiment = {
-		name= "1st Cavalry Regiment"
-		type = dragoon
+		name= "1st Infantry Regiment"
+		type = infantry
 		home = 223
 	}
 
 	regiment = {
-		name= "2nd Cavalry Regiment"
-		type = dragoon
+		name= "2nd Infantry Regiment"
+		type = infantry
 		home = 241
 	}
 
 	regiment = {
-		name= "3rd Cavalry Regiment"
-		type = dragoon
+		name= "3rd Infantry Regiment"
+		type = infantry
 		home = 205
 	}
 
-}
-
-army = {
-	name = "Army of the South"
-	location = 178
 	regiment = {
-		name= "1st Regiment of Infantry"
+		name= "4th Infantry Regiment"
 		type = infantry
 		home = 211
 	}
 
 	regiment = {
-		name= "2nd Regiment of Infantry"
-		type = infantry
+		name= "1st Cavalry Regiment"
+		type = hussar
 		home = 206
 	}
 
 	regiment = {
-		name= "3rd Regiment of Infantry"
-		type = infantry
+		name= "1st Artillery Regiment"
+		type = artillery
 		home = 188
 	}
 
 	regiment = {
-		name= "1st Regiment of Artillery"
+		name= "2nd Artillery Regiment"
 		type = artillery
 		home = 195
 	}
 
-}
-
-army = {
-	name = "US Army"
-	location = 220
 	regiment = {
-		name= "4th Regiment of Infantry"
-		type = infantry
+		name= "3rd Artillery Regiment"
+		type = artillery
 		home = 243
 	}
 
 	regiment = {
-		name= "5th Regiment of Infantry"
-		type = infantry
+		name= "4th Artillery Regiment"
+		type = artillery
 		home = 232
 	}
 
 	regiment = {
-		name= "6th Regiment of Infantry"
-		type = infantry
+		name= "5th Artillery Regiment"
+		type = artillery
 		home = 235
 	}
-
-	regiment = {
-		name= "2nd Regiment of Artillery"
-		type = artillery
-		home = 234
-	}
-
-}
-
-army = {
-	name = "Army of Observation"
-	location = 172
-	regiment = {
-		name= "7th Regiment of Infantry"
-		type = infantry
-		home = 238
-	}
-
-	regiment = {
-		name= "8th Regiment of Infantry"
-		type = infantry
-		home = 226
-	}
-
-	regiment = {
-		name= "9th Regiment of Infantry"
-		type = infantry
-		home = 247
-	}
-
 }
 
 navy = {

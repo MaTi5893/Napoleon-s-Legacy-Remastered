@@ -1,7 +1,8 @@
-owner = NAP
-controller = NAP
-add_core = NAP
+owner = NPL
+controller = NPL
+add_core = NPL
 add_core = ITA
+add_core = PAP
 trade_goods = fish
 life_rating = 33
 1861.1.1 = {

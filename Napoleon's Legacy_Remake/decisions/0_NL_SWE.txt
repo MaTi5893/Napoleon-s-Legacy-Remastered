@@ -1,117 +1,53 @@
 political_decisions = {
 	expand_german_influence = {
+		picture = mecklemburg_decision
 		potential = {
 			OR = {
 				tag = SWE
 				tag = SCA
 			}
 			NOT = {has_country_flag=expand_german_influence}
+			MEC = {
+				OR = {
+					vassal_of = THIS
+					in_sphere = THIS
+				}
+			}
 		}
 		allow = {
 			war = no
-			OR = {
-				MEC = {vassal_of = THIS}
-				MEC = {in_sphere = THIS}
-				AND = {
-					owns=545
-					owns=544
-				}
-			}
 		}
 		effect = {
 			add_core = 545
 			add_core = 544
 			prestige = 5
-			MEC = {annex_to =THIS}
+			MEC = {annex_to = THIS}
 			set_country_flag = expand_german_influence 
 		}
 	}
 	expand_german_territory = {
+		picture = pomerania_decision
 		potential = {
-			tag = SWE
+			OR = {
+				tag = SWE
+				tag = SCA
+			}
+			
 			has_country_flag = expand_german_influence
 			NOT = {has_country_flag=expand_german_territory}
 		}
 		allow = {
+			MEC_545 = {owned_by = THIS}
+			owns = 548
 			war = no
-			owns = 546
-			owns = 547
+			PRU_546 = {owned_by = THIS}
+			PRU_679 = {owned_by = THIS}
 		}
 		effect = {
-			add_core = 546
-			add_core = 547
+			PRU_546 = {add_core = THIS}
+			PRU_679 = {add_core = THIS}
 			set_country_flag = expand_german_territory 
 			prestige = 5
 		}
 	}
-	baltic_influence = {
-		picture = decision_baltic_acceptance
-		potential = {
-			OR = {
-				tag = SWE
-				tag = SCA
-				tag = RUS
-			}
-			NOT = {accepted_culture = estonian}
-			NOT = {accepted_culture = Scotish}
-			NOT = {accepted_culture = byelorussian}
-			NOT = {accepted_culture = ukrainian}
-			NOT = {accepted_culture = tatar}
-			NOT = {accepted_culture = azerbaijani}
-		}
-		allow = {
-			war = no
-			state_n_government=1
-			owns = 349
-			owns = 350
-			owns = 351
-			owns = 352
-			owns = 353
-			owns = 354
-			owns = 355
-			owns = 356
-			owns = 357
-			owns = 358
-			owns = 359
-		}
-		effect = {
-			add_accepted_culture = estonian
-			add_accepted_culture = latvian
-			add_core = 349
-			add_core = 350
-			add_core = 351
-			add_core = 352
-			add_core = 353
-			add_core = 354
-			add_core = 355
-			add_core = 356
-			add_core = 357
-			add_core = 358
-			add_core = 359
-			prestige = 10
-		}
-	}
-	annex_danzig = {
-        potential = {
-			OR = {
-				tag = SWE
-				tag = SCA
-			}
-			NOT = {has_country_flag=annex_danzig}
-		}
-		allow = {
-			war = no
-			OR = {
-				DZG = {vassal_of = THIS}
-				DZG = {in_sphere = THIS}
-				owns = 690
-			}
-		}
-		effect = {
-			add_core = 690
-			DZG = {annex_to =THIS}
-			prestige =5
-			set_country_flag = annex_danzig 
-		}
-    }
 }

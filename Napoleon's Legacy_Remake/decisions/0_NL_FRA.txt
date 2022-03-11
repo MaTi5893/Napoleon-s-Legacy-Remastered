@@ -11,20 +11,11 @@ political_decisions = {
 			}
 			invention = expansionism
 			is_greater_power = yes
-			and = { 
-				GBR = { is_greater_power = no } 
-				ADU = { OR = { is_greater_power = no primary_culture = dutch } }
-				ENG = { 
-					OR = { 
-						is_greater_power = no 
-						NOT = { any_owned_province = { continent = europe }  }
-					}
-				}
-			}
+			ADU = { OR = { is_greater_power = no primary_culture = dutch } }
+			ENG = { is_greater_power = no }
 			NOT = { any_greater_power = { OR = { primary_culture = north_german primary_culture = south_german primary_culture = rhenish } } }
 		}
 		effect = {
-			badboy = 25
 			NET = {
 				all_core = {
 					add_core = THIS
@@ -70,17 +61,669 @@ political_decisions = {
 			NOT = { has_country_flag = FRA_quebec } 
 		}
 		allow = { 
-			invention = expansionism
-			ENG_58 = { owned_by = THIS } 
+			QUE = { all_core = { owned_by = FRA } } 
 		}
 		effect = { 
 			set_country_flag = FRA_quebec 
 			QUE = { all_core = { add_core = FRA } } 
-			#badboy = 3
-			ENG = { 
-				relation = {
-					who = FRA 
-					value = -400						
+		}
+	}
+	annex_spain = { 
+		picture = spain_decision
+		potential = { 
+			tag = FRA
+			has_country_flag = joseph
+			NOT = { has_country_flag = annex_spain } 
+		}
+		allow = {
+			is_greater_power = yes
+			SPA = {vassal_of = THIS}
+			war = no
+			SPA = {
+				all_core = {
+					OR = {
+						owned_by = SPA 
+						owned_by = THIS 
+					}
+				}
+			}
+			state_n_government=1
+		}
+		effect = {
+			prestige = 7
+			SPA = {annex_to = THIS}
+			set_country_flag = annex_spain
+			any_pop = {
+				limit = {
+					OR = {
+						culture = spanish 
+						culture = catalan
+						culture = basque
+					}
+				}
+				militancy = 3
+			}
+		}
+	}
+	accept_spanish = {
+		picture = spain_decision
+		potential = { 
+			tag = FRA
+			has_country_flag = joseph
+			NOT = {accepted_culture = spanish}
+		}
+		allow = {
+			SPA = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			war = no
+			SPA = {exists = no}
+			revolution_n_counterrevolution = 1
+			is_greater_power = yes
+		}
+		effect = {
+			tech_school = spanish_tech_school
+			add_accepted_culture = spanish
+			SPA = {
+				all_core = {add_core = THIS}
+			}
+		}
+	}
+	accept_spanish_minorities = {
+		picture = catalonia_decision
+		potential = { 
+			tag = FRA
+			has_country_flag = joseph
+			NOT = {accepted_culture = catalan}
+		} 
+		allow = {
+			nationalism_n_imperialism = 1
+			CAT = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			war = no
+			SPA = {exists = no}
+			is_greater_power = yes
+		}
+		effect = {
+			CAT = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			add_accepted_culture = basque
+			add_accepted_culture = catalan
+		}
+	}
+	annex_westphalia = { 
+		picture = westphalia_decision
+		potential = { 
+			tag = FRA
+			has_country_flag = jerome
+			NOT = { has_country_flag = annex_westphalia } 
+		}
+		allow = {
+			war = no
+			is_greater_power = yes
+			HAN = {vassal_of = THIS}
+			FRM = {vassal_of = THIS}
+        	NAS = {vassal_of = THIS}
+        	HES = {vassal_of = THIS}
+        	BRA = {vassal_of = THIS}
+			HAN = {
+				all_core = {
+					OR = {
+						owned_by = HAN 
+						owned_by = THIS 
+					}
+				}
+			}
+			state_n_government=1
+		}
+		effect = {
+			prestige = 7
+			HAN = {annex_to = THIS}
+			FRM = {annex_to = THIS}
+        	NAS = {annex_to = THIS}
+        	HES = {annex_to = THIS}
+        	BRA = {annex_to = THIS}
+			set_country_flag = annex_westphalia
+			any_pop = {
+				limit = {
+					OR = {
+						culture = north_german 
+						culture = rhenish
+					}
+				}
+				militancy = 3
+			}
+		}
+	}
+	french_rhur_boom = {
+		picture = rhur_boom_decision
+		potential = { 
+			tag = FRA
+			accepted_culture = rhenish
+		}
+		allow = {
+			is_greater_power = yes
+			nationalism_n_imperialism = 1
+			market_structure = 1
+			organized_factories = 1
+			early_railroad = 1
+			RHI = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			war = no
+		}
+		effect = {
+			tech_school = prussian_tech_school
+			RHI = {
+				all_core = {
+					add_province_modifier = {
+						name = ruhr_boom
+						duration = 7300
+					}
+				}
+			}
+		}
+	}
+	accept_rhenish = {
+		picture = decision_rhi_HRE
+		potential = {
+			tag = FRA
+			has_country_flag = jerome
+			NOT = {accepted_culture = rhenish}
+		}
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			RHI = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			all_core = {
+				owned_by = THIS
+			}
+			is_greater_power = yes
+		}
+		effect = {
+			add_accepted_culture = rhenish
+			RHI = {
+				all_core = {add_core = THIS}
+			}
+			HAN = {
+				all_core = {add_core = THIS}
+			}
+			FRM = {
+				all_core = {add_core = THIS}
+			}
+        	NAS = {
+				all_core = {add_core = THIS}
+			}
+        	HES = {
+				all_core = {add_core = THIS}
+			}
+        	BRA = {
+				all_core = {add_core = THIS}
+			}
+			RHI = {
+				all_core = {remove_core = GER}
+			}
+		}
+	}
+
+	unite_north_italy_gp = {
+		picture = north_italy_decision
+		potential = {
+			tag = FRA
+			ITA = {exists = no}
+			NIT = {exists = no}
+			NOT = {has_country_flag = unite_north_italy_gp}
+		}
+		allow = {
+			is_greater_power = yes
+			war = no
+			NIT = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 20
+			any_country = {
+                limit = {
+                    primary_culture = north_italian
+                    ai = yes
+					NOT = {tag = LOM}
+                    OR = {
+                        in_sphere = THIS
+                        vassal_of = THIS
+                    }
+                }
+                annex_to = THIS
+            }
+			any_owned = {
+				limit = {
+					is_core = NIT
+					NOT = {is_core = THIS}
+				}
+				secede_province = LOM
+			}
+            create_vassal = LOM
+            create_alliance = LOM
+            diplomatic_influence = {
+                who = LOM
+                value = 300
+            }
+			LOM = {change_tag = NIT}
+			set_country_flag = unite_north_italy_gp
+		}
+	}
+
+	reintegrate_italy_kingdom = {
+		picture = north_italy_decision
+		potential = {
+			tag = FRA
+			ITA = {exists = no}
+			NOT = {has_country_flag = reintegrate_italy_kingdom}
+			has_country_flag = maximilien
+			NOT = {accepted_culture = north_italian}
+		}
+		allow = {
+			war=no
+			state_n_government=1
+			NIT = {exists = yes}
+			NIT = {
+				vassal_of = THIS
+				in_sphere = THIS
+			}
+		}
+		effect = {
+			NIT = {annex_to = THIS}
+			set_country_flag = reintegrate_italy_kingdom 
+			SAR_720 = {add_core = FRA}
+			any_pop = {
+				limit = {
+					culture = north_italian 
+				}
+				militancy = 3
+			}
+		}
+	}
+
+	cisapline_submission = {
+		picture = piedmonte_decision
+		potential = {
+			tag = FRA
+			has_country_flag = maximilien
+			NOT = {accepted_culture = cisalpine}
+		}
+		allow = {
+			SAR_720 = {owned_by = THIS}
+			nationalism_n_imperialism = 1
+			war = no
+		}
+		effect = {
+			add_accepted_culture = cisalpine
+			SAR_720 = {remove_core = ITA}
+			SAR_720 = {add_core = FRA}
+			prestige = 20
+		}
+	}
+
+	italian_submission = {
+		picture = north_italy_decision
+		potential = {
+			tag = FRA
+			ITA = {exists = no}
+			has_country_flag = maximilien
+			NOT = {accepted_culture = north_italian}
+		}
+		allow = {
+			NIT = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			PAP_749 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			is_greater_power = yes
+			revolution_n_counterrevolution = 1
+			war = no
+		}
+		effect = {
+			tech_school = italian_tech_school
+			add_accepted_culture = north_italian
+			NIT = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			any_country = {
+				limit = {
+					OR = {
+						vassal_of = THIS
+						in_sphere = THIS
+					}
+					OR = {
+						accepted_culture = north_italian
+						primary_culture = north_italian
+					}
+				}
+				all_core = {
+					add_core = THIS
+				}
+				annex_to = THIS
+			}
+			SAR_720 = {add_core = FRA}
+			PAP_749 = {add_core = FRA}
+			add_core = 751
+			add_core = 752
+			prestige = 20
+			set_country_flag = italian_submission
+		}
+	}
+	reintegrate_the_netherlands = {
+		picture = decision_net_HRE
+		potential = {
+			tag = FRA
+			NOT = {has_country_flag = reintegrate_the_netherlands}
+			has_country_flag = louis
+		}
+		allow = {
+			war=no
+			state_n_government=1
+			NET = {exists = yes}
+			NET = {
+				vassal_of = THIS
+				in_sphere = THIS
+			}
+		}
+		effect = {
+			NET = {annex_to = THIS}
+			set_country_flag = reintegrate_the_netherlands
+			SAR_720 = {add_core = FRA}
+			any_pop = {
+				limit = {
+					culture = north_italian 
+				}
+				militancy = 3
+			}
+		}
+	}
+
+	flemish_integration = {
+		picture = decision_bel_HRE
+		potential = {
+			tag = FRA
+			has_country_flag = louis
+			NOT = {accepted_culture = flemish}
+		}
+		allow = {
+			BEL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			all_core = {
+				owned_by = THIS
+			}
+			nationalism_n_imperialism = 1
+			war = no
+		}
+		effect = {
+			add_accepted_culture = flemish
+			BEL = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			any_country = {
+				limit = {
+					OR = {
+						vassal_of = THIS
+						in_sphere = THIS
+					}
+					OR = {
+						accepted_culture = flemish
+						primary_culture = flemish
+					}
+				}
+				all_core = {
+					add_core = THIS
+				}
+				annex_to = THIS
+			}
+			prestige = 20
+		}
+	}
+	dutch_integration = {
+		picture = decision_net_HRE
+		potential = {
+			tag = FRA
+			has_country_flag = louis
+			NOT = {accepted_culture = dutch}
+		}
+		allow = {
+			NET = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			all_core = {
+				owned_by = THIS
+			}
+			revolution_n_counterrevolution = 1
+			war = no
+		}
+		effect = {
+			tech_school = dutch_tech_school
+			add_accepted_culture = dutch
+			NET = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			any_country = {
+				limit = {
+					OR = {
+						vassal_of = THIS
+						in_sphere = THIS
+					}
+					OR = {
+						accepted_culture = dutch
+						primary_culture = dutch
+					}
+				}
+				all_core = {
+					add_core = THIS
+				}
+				annex_to = THIS
+			}
+			prestige = 20
+		}
+	}
+	republic_culture_decision_1 = {
+		picture = culture_1_decision
+		potential = {
+			tag = FRA
+			has_country_flag = republic
+			NOT = {has_country_flag = republic_culture_decision_1}
+		}
+		allow = {
+			war = no
+			all_core = {
+				owned_by = THIS
+			}
+			state_n_government = 1
+		}
+		effect = {
+			country_event = {id = 600025 days = 0}
+			prestige = 10
+			set_country_flag = republic_culture_decision_1
+		}
+	}
+	republic_culture_decision_2 = {
+		picture = culture_2_decision
+		potential = {
+			tag = FRA
+			OR = {
+				has_country_flag = republic
+				has_country_flag = alexandre
+			}
+			NOT = {has_country_flag = republic_culture_decision_2}
+		}
+		allow = {
+			war = no
+			all_core = {
+				owned_by = THIS
+			}
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			country_event = {id = 600026 days = 0}
+			prestige = 10
+			set_country_flag = republic_culture_decision_2
+		}
+	}
+	republic_culture_decision_3 = {
+		picture = culture_3_decision
+		potential = {
+			tag = FRA
+			OR = {
+				has_country_flag = republic
+				has_country_flag = alexandre
+			}
+			NOT = {has_country_flag = republic_culture_decision_3}
+		}
+		allow = {
+			war = no
+			all_core = {
+				owned_by = THIS
+			}
+			revolution_n_counterrevolution = 1
+		}
+		effect = {
+			tech_school = french_tech_school
+			country_event = {id = 600027 days = 0}
+			prestige = 10
+			set_country_flag = republic_culture_decision_3
+		}
+	}
+
+	improve_france_1 = {
+		picture = alexandre_trade_decision
+		potential = {
+			tag = FRA
+			has_country_flag = alexandre
+			NOT = {has_country_flag = improve_france_1}
+		}
+		allow = {
+			war = no
+			all_core = {
+				owned_by = THIS
+			}
+			is_greater_power = yes
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = alexandre_reforms_1
+				duration = 3650
+			}
+			prestige = 10
+			set_country_flag = improve_france_1
+		}
+	}
+	
+	improve_france_2 = {
+		picture = alexandre_life_decision
+		potential = {
+			tag = FRA
+			has_country_flag = improve_france_1
+			NOT = {has_country_flag = improve_france_2}
+		}
+		allow = {
+			war = no
+			all_core = {
+				owned_by = THIS
+			}
+			is_greater_power = yes
+			revolution_n_counterrevolution = 1
+		}
+		effect = {
+			add_country_modifier = {
+				name = alexandre_reforms_2
+				duration = 3650
+			}
+			set_country_flag = improve_france_2
+		}
+	}
+
+	north_german_question = {
+		picture = westphalia_decision
+		potential = {
+			tag = FRA
+			has_country_flag = jerome
+			NOT = {has_country_flag = north_german_question}
+		}
+		allow = {
+			war = no
+			all_core = {
+				owned_by = THIS
+			}
+			is_greater_power = yes
+			revolution_n_counterrevolution = 1
+		}
+		effect = {
+			set_country_flag = north_german_question
+			GER = {
+				all_core = {
+					limit = {
+						owned_by = FRA
+					}
+					add_province_modifier = {
+						name = french_education
+						duration = -1
+					}
 				}
 			}
 		}

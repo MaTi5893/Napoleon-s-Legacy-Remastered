@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-#add_core = HND
+owner = EIC
+controller = EIC
+add_core = EIC
 trade_goods = fish
-life_rating = 32
-colonial = 2
+life_rating = 35
+naval_base = 1

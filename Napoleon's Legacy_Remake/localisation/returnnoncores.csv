@@ -1,9 +1,9 @@
 i stole this;from HPM;cheers;;;;;;x
-EVTNAME2650;$FROMCOUNTRY_ADJ$ Lands;;;;;;;x
-EVTDESC2650;According to our peace treaty with $FROMCOUNTRY$, we must give up lands that rightfully belong to them -- and only the ones that belong to them.;;;;;;;x
-EVTNAME2651;The $FROMCOUNTRY_ADJ$ Demand;;;;;;;x
-EVTDESC2651;According to our peace treaty with $FROMCOUNTRY$, we must give up lands that rightfully belong to another nation -- but only those lands.;;;;;;;x
-EVTNAME2660;Our Lands Returned;;;;;;;x
-EVTDESC2660;As a result of the treaty with $FROMCOUNTRY$, some of $COUNTRY$'s lands are to be returned. We are, however, only entitled to those lands over which we have a claim. Any others should, by all rights, be returned to $FROMCOUNTRY$. \n \n §RNOTE: If you took $FROMCOUNTRY_ADJ$ core provinces which are not also your own core provinces in this war, enacting the 'return' option will give those lands back. Be careful!§!;;;;;;;x
-EVT2660OPTA;Only keep territories with our cores. Return the rest.;;;;;;;x
-EVT2660OPTB;We will keep everything we've gained.;;;;;;;x
+EVTNAME2650;$FROMCOUNTRY_ADJ$ Lands;;;;Tierras $FROMCOUNTRY_ADJ$;;;x
+EVTDESC2650;According to our peace treaty with $FROMCOUNTRY$, we must give up lands that rightfully belong to them -- and only the ones that belong to them.;;;;Según nuestro tratado de paz con $FROMCOUNTRY$, debemos renunciar a las tierras que pertenecen legítimamente a otra nación... pero sólo a esas tierras.;;;x
+EVTNAME2651;The $FROMCOUNTRY_ADJ$ Demand;;;;La demanda $FROMCOUNTRY_ADJ$;;;x
+EVTDESC2651;According to our peace treaty with $FROMCOUNTRY$, we must give up lands that rightfully belong to another nation -- but only those lands.;;;;Según nuestro tratado de paz con $FROMCOUNTRY$, debemos renunciar a las tierras que pertenecen legítimamente a otra nación... pero sólo a esas tierras.;;;x
+EVTNAME2660;Our Lands Returned;;;;Nuestras tierras devueltas;;;x
+EVTDESC2660;As a result of the treaty with $FROMCOUNTRY$, some of $COUNTRY$'s lands are to be returned. We are, however, only entitled to those lands over which we have a claim. Any others should, by all rights, be returned to $FROMCOUNTRY$. \n \n §RNOTE: If you took $FROMCOUNTRY_ADJ$ core provinces which are not also your own core provinces in this war, enacting the 'return' option will give those lands back. Be careful!§!;;;;Como resultado del tratado con $FROMCOUNTRY$, algunas de las tierras de $COUNTRY$ deben ser devueltas. Sin embargo, sólo tenemos derecho a las tierras que reclamamos. Todas las demás deben ser devueltas, con todo derecho, a $FROMCOUNTRY$.\n\n §RNota: Si tomaste provincias centrales $FROMCOUNTRY_ADJ$ que no son también tus propias provincias centrales en esta guerra, la opción de "devolver" te retornará esas tierras. Ten cuidado§!;;;x
+EVT2660OPTA;Only keep territories with our cores. Return the rest.;;;;Sólo mantener los territorios con nuestros núcleos. Devuelve el resto.;;;x
+EVT2660OPTB;We will keep everything we've gained.;;;;Nos quedaremos con todo lo que hemos ganado.;;;x

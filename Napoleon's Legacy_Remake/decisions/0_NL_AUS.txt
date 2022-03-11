@@ -15,15 +15,10 @@ political_decisions = {
 			is_greater_power=yes
 			PLC = {is_greater_power=no}
 			war_policy=jingoism
-			owns=705
-			owns=702
+			AUS_702 = {owned_by = THIS}
 		}
 		effect = {
-			711 = { add_core = THIS }
-			715 = { add_core = THIS }
-			713 = { add_core = THIS }
-			716 = { add_core = THIS }
-			703 = { add_core = THIS }
+			RUS_710 = { add_core = THIS }
 			badboy =4
 			set_country_flag=finish_poland_partition
 		}
@@ -34,7 +29,10 @@ political_decisions = {
 			OR = {
 				tag = AUS
 				tag = KUK
+				tag = PAP
+				tag = ITA
 			}
+			DLM = {exists = yes}
 			NOT={has_country_flag=reintegrate_illiya}
 		}
 		allow = {
@@ -42,36 +40,21 @@ political_decisions = {
 			state_n_government=1
 			OR = {
 				DLM = {in_sphere = THIS}
-				DLM = {vassal_of=THIS}
+				DLM = {vassal_of = THIS}
 			}
 		}
 		effect = {
 			add_accepted_culture = slovene
 			DLM = {annex_to =THIS}
+			DLM = {
+				all_core = {
+					add_core = THIS
+				}
+			}
 			set_country_flag = reintegrate_illiya 
 		}
 	}
-	trent_claim = {
-		picture = decision_trent_AUS
-		potential = {
-			OR = {
-				tag = KUK
-				tag = AUS
-			}
-			NOT = {has_country_flag=trent_claim}
-		}
-		allow = {
-			war=no
-			state_n_government=1
-			ITA = {exists=no}
-			owns=735
-		}
-		effect = {
-				734 = { add_core = THIS }
-				badboy=2
-				set_country_flag=trent_claim
-		}
-	}
+
 	the_crown_of_Bosnia = {
 		picture = decision_bosnia_KUK
 		potential = {
@@ -160,8 +143,7 @@ political_decisions = {
 				any_owned_province = { 
 					is_core = GER 
 					NOT = { 
-						region = AUS_612 
-						region = AUS_734 
+						region = AUS_612
 					} 
 				} 
 			} 

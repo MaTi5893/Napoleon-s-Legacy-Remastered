@@ -1052,15 +1052,19 @@ cultural_unification = {
 }
 
 russian_comeback1 = {
-	global_population_growth = 0.001
-	mobilisation_size = 0.02
+	global_population_growth = 0.002
+	mobilisation_size = 0.01
 	farm_rgo_eff = 0.15
+	mine_rgo_eff = 0.15
+	education_efficiency_modifier = 0.1
 	icon = 17
 }
 
 russian_comeback2 = {
+	global_population_growth = 0.001
 	mobilisation_size = 0.01
 	farm_rgo_eff = 0.05
+	mine_rgo_eff = 0.05
 	education_efficiency_modifier = 0.05
 	icon = 17
 }
@@ -1160,6 +1164,165 @@ north_italy = {
 	education_efficiency_modifier = 0.1
 }
 
+napoleon_death ={
+	prestige = -0.02
+	mobilisation_size = -0.01
+	global_pop_militancy_modifier = 0.01
+	army_tech_research_bonus = -0.05
+	diplomatic_points_modifier = -0.05
+	land_organisation = -0.05
+}
+
+rome ={
+	prestige = 0.1
+	mobilisation_size = 0.01
+	pop_militancy_modifier = -0.01
+}
+
+italian_unification ={
+	prestige = 0.1
+	mobilisation_size = 0.01
+	global_assimilation_rate = 1
+	global_population_growth = 0.001
+	farm_rgo_eff = 0.1
+	mine_rgo_eff = 0.1
+	culture_tech_research_bonus = 0.05
+	education_efficiency_modifier = 0.1
+}
+
+italian_greece = {
+	prestige = 0.01
+	global_population_growth = 0.002
+	navy_tech_research_bonus = 0.05
+}
+
 core_when_done = {
 	icon = 17
+}
+
+french_republic = {
+	mobilisation_size = 0.01
+	global_assimilation_rate = 0.2
+	global_population_growth = 0.001
+	education_efficiency_modifier = 0.1
+	culture_tech_research_bonus = 0.05
+	army_tech_research_bonus = -0.05
+	mobilization_impact = 0.1
+}
+
+political_bonus_military = {
+	mobilisation_economy_impact = -0.1
+	army_tech_research_bonus = 0.05
+	navy_tech_research_bonus = -0.05
+	org_regain = 0.05
+	land_organisation = 0.05
+	land_unit_start_experience = 0.2
+	supply_consumption = -0.05
+	tax_efficiency = -0.15
+	icon = 10
+}
+
+political_bonus_navy = {
+	army_tech_research_bonus = -0.05
+	navy_tech_research_bonus = 0.1
+	naval_organisation = 0.1
+	tariff_efficiency_modifier = 0.1
+	tax_efficiency = -0.15
+	icon = 10
+}
+
+political_bonus_education = {
+	culture_tech_research_bonus = 0.05
+	commerce_tech_research_bonus = -0.05
+	global_assimilation_rate = 0.05
+	education_efficiency_modifier = 0.15
+	tax_efficiency = -0.15
+	icon = 10
+}
+
+political_bonus_industry = {
+	industry_tech_research_bonus = 0.05
+	culture_tech_research_bonus = -0.05
+	factory_output = 0.05
+	mine_rgo_eff = 0.1
+	farm_rgo_eff = 0.1
+	tax_efficiency = -0.15
+	icon = 10
+}
+
+political_bonus_immigration = {
+	industry_tech_research_bonus = -0.05
+	commerce_tech_research_bonus = 0.05
+	culture_tech_research_bonus = 0.05
+	immigrant_attract = 0.3
+	tax_efficiency = -0.15
+	icon = 10
+}
+
+emperor_council = {
+	land_organisation = 0.05
+	mobilisation_size = 0.01
+	global_pop_militancy_modifier = -0.01
+	global_pop_consciousness_modifier = -0.01
+	global_assimilation_rate = 0.05
+	tax_efficiency = 0.05
+	diplomatic_points_modifier = 0.05
+	icon = 10
+}
+
+emperor_council_disbanded = {
+	land_organisation = -0.05
+	mobilisation_size = -0.02
+	global_pop_militancy_modifier = 0.01
+	global_pop_consciousness_modifier = 0.02
+	global_assimilation_rate = -0.05
+	tax_efficiency = -0.1
+	global_liberal_agitation = 0.01
+	mine_rgo_eff = -0.05
+	farm_rgo_eff = -0.05
+	factory_output = -0.05
+	icon = 10
+}
+
+emperor_council_refused = {
+	land_organisation = -0.1
+	mobilisation_size = -0.03
+	global_pop_militancy_modifier = 0.03
+	global_pop_consciousness_modifier = 0.03
+	global_population_growth = -0.01
+	global_assimilation_rate = -0.1
+	tax_efficiency = -0.1
+	global_liberal_agitation = 0.04
+	mine_rgo_eff = -0.1
+	farm_rgo_eff = -0.1
+	factory_output = -0.1
+	icon = 10
+}
+
+alexandre_reforms_1 = {
+	education_efficiency_modifier = 0.1
+	farm_rgo_eff = 0.1
+	mine_rgo_eff = 0.1
+	tax_efficiency = 0.05
+	commerce_tech_research_bonus = 0.05
+}
+
+alexandre_reforms_2 = {
+	global_assimilation_rate = 0.1
+	global_population_growth = 0.02
+	culture_tech_research_bonus = 0.05
+}
+
+french_education = {
+	assimilation_rate = 0.2
+	pop_militancy_modifier = 0.02
+}
+
+paris_lost = {
+	mobilisation_size = 0.01
+	global_liberal_agitation = 0.01
+	global_pop_consciousness_modifier = 0.02
+	global_pop_militancy_modifier = 0.02
+	global_assimilation_rate = -0.05
+	land_organisation = -0.1
 }

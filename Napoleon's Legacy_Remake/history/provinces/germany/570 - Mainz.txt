@@ -3,7 +3,6 @@ controller = FRA
 add_core = HES
 add_core = RHI
 add_core = GER
-add_core = FRA
 trade_goods = sulphur
 life_rating = 40
 fort = 1

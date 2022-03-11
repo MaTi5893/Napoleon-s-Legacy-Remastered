@@ -1,0 +1,454 @@
+country_event = {
+	id = 181502
+    	title = "EVTNAME181502"
+	desc = "EVTDESC181502"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "Give them Catalonia !"
+        SPA_498 = { secede_province = SPA } 
+        badboy = -3
+        ai_chance = {
+			factor = 0.5
+            modifier = {
+                factor = 0.25
+                relation = { who = SPA value = 50 }
+            }
+            modifier = {
+                factor = 0.5
+                relation = { who = SPA value = 100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = SPA value = 150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = SPA value = 200 }
+            }
+		}
+    }
+    option = {
+        name = "Catalonia will stay in the french empire!"
+        prestige =5
+        any_pop = {
+            limit = {
+                OR = { 
+                    has_pop_culture = catalan
+                            has_pop_culture = spanish
+                }
+            }
+            militancy = 2
+            consciousness = 2
+        }
+		ai_chance = {
+			factor = 0.5
+    		modifier = {
+                factor = 0.25
+                relation = { who = SPA value = -50 }
+            }
+            modifier = {
+              	factor = 0.5
+                relation = { who = SPA value = -100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = SPA value = -150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = SPA value = -200 }
+            }
+		}
+    }
+}
+
+country_event = {
+	id = 600021
+    	title = "EVTNAME600021"
+	desc = "EVTDESC600021"
+
+    is_triggered_only = yes
+
+	option = {
+        name = "Give them Piedmonte !"
+        SAR_720 = { secede_province = FROM } 
+		SAR_720 = {add_core = FROM}
+		FROM = {add_accepted_culture = cisalpine}
+		SAR_720 = {add_core = NIT}
+        badboy = -3
+        ai_chance = {
+			factor = 0.5
+            modifier = {
+                factor = 0.25
+                relation = { who = FROM value = 50 }
+            }
+            modifier = {
+                factor = 0.5
+                relation = { who = FROM value = 100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = FROM value = 150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = FROM value = 200 }
+            }
+		}
+    }
+	option = {
+        name = "Piedmonte will stay in the french empire!"
+        prestige =5
+        any_pop = {
+            limit = {
+                OR = { 
+                    has_pop_culture = cisalpine
+                }
+            }
+            militancy = 2
+            consciousness = 2
+        }
+	    ai_chance = {
+		    factor = 0.5
+    		modifier = {
+            	factor = 0.25
+            	relation = { who = FROM value = -50 }
+           	}
+           	modifier = {
+        		factor = 0.5
+            	relation = { who = FROM value = -100 }
+           	}
+           	modifier = {
+               	factor = 0.75
+               	relation = { who = FROM value = -150 }
+           	}
+           	modifier = {
+               	factor = 1
+               	relation = { who = FROM value = -200 }
+           	}
+		}
+    }
+}
+
+country_event = {
+	id = 600029
+    title = "EVTNAME600029"
+	desc = "EVTDESC600029"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "Give them Matla !"
+        ENG_854 = { secede_province = FROM } 
+        badboy = -3
+        ai_chance = {
+			factor = 0.5
+            modifier = {
+                factor = 0.25
+                relation = { who = FROM value = 50 }
+            }
+            modifier = {
+                factor = 0.5
+                relation = { who = FROM value = 100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = FROM value = 150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = FROM value = 200 }
+            }
+		}
+    }
+    option = {
+        name = "Malta will stay in the french empire!"
+        prestige =5
+        any_pop = {
+            limit = {
+                OR = { 
+                    has_pop_culture = maltese
+                }
+            }
+            militancy = 2
+            consciousness = 2
+        }
+		ai_chance = {
+			factor = 0.5
+    		modifier = {
+                factor = 0.25
+                relation = { who = FROM value = -50 }
+            }
+            modifier = {
+              	factor = 0.5
+                relation = { who = FROM value = -100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = FROM value = -150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = FROM value = -200 }
+            }
+		}
+    }
+}
+
+country_event = {
+	id = 600030
+    title = "EVTNAME600030"
+	desc = "EVTDESC600030"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "Give them Holstein !"
+        HOL_369 = { secede_province = FROM } 
+        badboy = -3
+        ai_chance = {
+			factor = 0.5
+            modifier = {
+                factor = 0.25
+                relation = { who = FROM value = 50 }
+            }
+            modifier = {
+                factor = 0.5
+                relation = { who = FROM value = 100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = FROM value = 150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = FROM value = 200 }
+            }
+		}
+    }
+    option = {
+        name = "Holstein will stay !"
+        prestige =5
+        any_pop = {
+            limit = {
+                OR = { 
+                    has_pop_culture = north_german
+                }
+            }
+            militancy = 2
+            consciousness = 2
+        }
+		ai_chance = {
+			factor = 0.5
+    		modifier = {
+                factor = 0.25
+                relation = { who = FROM value = -50 }
+            }
+            modifier = {
+              	factor = 0.5
+                relation = { who = FROM value = -100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = FROM value = -150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = FROM value = -200 }
+            }
+		}
+    }
+}
+
+country_event = {
+	id = 600031
+    title = "EVTNAME600031"
+	desc = "EVTDESC600031"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "Give them Stralsund !"
+        548 = { secede_province = FROM } 
+        badboy = -3
+        ai_chance = {
+			factor = 0.5
+            modifier = {
+                factor = 0.25
+                relation = { who = FROM value = 50 }
+            }
+            modifier = {
+                factor = 0.5
+                relation = { who = FROM value = 100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = FROM value = 150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = FROM value = 200 }
+            }
+		}
+    }
+    option = {
+        name = "Stralsund will stay !"
+        prestige =5
+        any_pop = {
+            limit = {
+                OR = { 
+                    has_pop_culture = north_german
+                }
+            }
+            militancy = 1
+            consciousness = 1
+	    }
+		ai_chance = {
+			factor = 0.5
+    		modifier = {
+                factor = 0.25
+                relation = { who = FROM value = -50 }
+            }
+            modifier = {
+              	factor = 0.5
+                relation = { who = FROM value = -100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = FROM value = -150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = FROM value = -200 }
+            }
+		}
+    }
+}
+
+country_event = {
+	id = 600032
+    title = "EVTNAME600032"
+	desc = "EVTDESC600032"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "Give them Lübeck !"
+        530 = { secede_province = FROM } 
+        badboy = -3
+        ai_chance = {
+			factor = 0.5
+            modifier = {
+                factor = 0.25
+                relation = { who = FROM value = 50 }
+            }
+            modifier = {
+                factor = 0.5
+                relation = { who = FROM value = 100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = FROM value = 150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = FROM value = 200 }
+            }
+		}
+    }
+    option = {
+        name = "Lübeck will stay !"
+        prestige =5
+        any_pop = {
+            limit = {
+                OR = { 
+                    has_pop_culture = north_german
+                }
+            }
+            militancy = 1
+            consciousness = 1
+        }
+		ai_chance = {
+			factor = 0.5
+    		modifier = {
+                factor = 0.25
+                relation = { who = FROM value = -50 }
+            }
+            modifier = {
+              	factor = 0.5
+                relation = { who = FROM value = -100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = FROM value = -150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = FROM value = -200 }
+            }
+		}
+    }
+}
+
+country_event = {
+	id = 600035
+    title = "EVTNAME600035"
+	desc = "EVTDESC600035"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "Give them Corsica !"
+        FRA_473 = { secede_province = FROM } 
+        FRA_473 = {add_core = FROM}
+        FROM = {
+            add_accepted_culture = corsican
+        }
+        clr_country_flag = ask_corsica
+        badboy = -3
+        ai_chance = {
+			factor = 0.5
+            modifier = {
+                factor = 0.25
+                relation = { who = FROM value = 50 }
+            }
+            modifier = {
+                factor = 0.5
+                relation = { who = FROM value = 100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = FROM value = 150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = FROM value = 200 }
+            }
+		}
+    }
+    option = {
+        name = "Fuck Off !"
+        prestige =5
+		ai_chance = {
+			factor = 0.5
+    		modifier = {
+                factor = 0.25
+                relation = { who = FROM value = -50 }
+            }
+            modifier = {
+              	factor = 0.5
+                relation = { who = FROM value = -100 }
+            }
+            modifier = {
+                factor = 0.75
+                relation = { who = FROM value = -150 }
+            }
+            modifier = {
+                factor = 1
+                relation = { who = FROM value = -200 }
+            }
+		}
+    }
+}

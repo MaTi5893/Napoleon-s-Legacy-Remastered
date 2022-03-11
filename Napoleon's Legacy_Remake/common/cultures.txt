@@ -7,27 +7,27 @@ germanic = {
 	north_german = { 
 		color = { 90 60 60 }
 		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
-		Eduard Edwin Erwin Erich Ernst Ewald Felix Florian Franz Friedrich Fritz Georg G�nther
+		Eduard Edwin Erwin Erich Ernst Ewald Felix Florian Franz Friedrich Fritz Georg Gunther
 		Gustav Hans Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Julius Jurgen Karl
 		Konrad Kurt Leonhard Leopold Lothar Ludwig Lukas Manfred Maximilian Michael Nikolaus Oskar Otto
 		Pascal Paul Peter Reinhard Rudolf Ruprecht Stefan Theodor Walther Wilhelm Wolfgang }
 		
 		last_names = { 
-		Beck Behncke Brommy Cordemann Dreyer Droste "Edler von der Planitz" "Einem von Rothmaler""Emanuel von Jachmann" "Emil von Lettow-Vorbeck" Funke Groener "Herwarth von Bittenfeld" Heppendorf Heye Hoffmann 
+		Beck Behncke Brommy Cordemann Dreyer Droste "Edler von der Planitz" "Einem von Rothmaler" "Emanuel von Jachmann" "Emil von Lettow-Vorbeck" Funke Groener "Herwarth von Bittenfeld" Heppendorf Heye Hoffmann 
 		"Kress von Kressenstein" Krohn Ludendorff Raeder Reinhardt "Ritter von Hipper" Scheer "Sixt von Armin"
 		"Vogel von Falkenstein" "von Alten" "von Alvensleben" "von Anhalt" "von Arentschildt" 
-		"von B�low" "von Below" "von Bismarck-Bohlen" "von Blumenthal" "von Blomberg" "von Bonin" "von Borstell" "von Bose" "von Bothmer"
-		"von Boyen" "von Braunschweig" "von Collas" "von Colomb" "von Deimling""von dem Knesebeck" "von der Marwitz""von Eichhorn" "von Emmich" "von Fabeck" "von Falkenhausen" "von Falkenhayn""von Fransecky" "von Fritsch" 
+		"von Bulow" "von Below" "von Bismarck-Bohlen" "von Blumenthal" "von Blomberg" "von Bonin" "von Borstell" "von Bose" "von Bothmer"
+		"von Boyen" "von Braunschweig" "von Collas" "von Colomb" "von Deimling""von dem Knesebeck" "von der Marwitz" "von Eichhorn" "von Emmich" "von Fabeck" "von Falkenhausen" "von Falkenhayn""von Fransecky" "von Fritsch" 
 		"von der Goltz" "von Gallwitz" "von Gebser" "von Goeben" "von Grolman" "von Gronau"
-		"von H�nisch" "von Hahnke" "von Halkett" "von Hannover" "von Hausen" "von Heeringen" "von Hessen-Darmstadt" "von Hessen-Kassel" "von Hindersin" "von Hohenzollern" "von Holstein-Gottorp" "von Hutier"
-		"von Ingenohl" "von Kameke""von Knorr" "von Kleefeld" "von Kluck" "von Krauseneck" "von Leeb" "von Linsingen" "von Lo�" "von Lochow"
-		"von Mackensen" "von Manteuffel" "von Mecklenburg-Schwerin" "von Mecklenburg-Strelitz" "von Moltke" "von M�ffling""von Mudra" "von Neumann-Cosel"  
+		"von Hanisch" "von Hahnke" "von Halkett" "von Hannover" "von Hausen" "von Heeringen" "von Hessen-Darmstadt" "von Hessen-Kassel" "von Hindersin" "von Hohenzollern" "von Holstein-Gottorp" "von Hutier"
+		"von Ingenohl" "von Kameke""von Knorr" "von Kleefeld" "von Kluck" "von Krauseneck" "von Leeb" "von Linsingen" "von Loe" "von Lochow"
+		"von Mackensen" "von Manteuffel" "von Mecklenburg-Schwerin" "von Mecklenburg-Strelitz" "von Moltke" "von Muffling" "von Mudra" "von Neumann-Cosel"  
 		"von Oldenburg"
 		"von Pohl" "von Pfuel" "von Prittwitz" "von Quast"
-		"von Rauch" "von Ravensberg" "von Reuter" "von Reyher" "von Richthofen" "R�hle von Lilienstern"
+		"von Rauch" "von Ravensberg" "von Reuter" "von Reyher" "von Richthofen" "Ruhle von Lilienstern"
 		"von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen" "von Sachsen-Weimar-Eisenach" "von Schellendorff" "von Schlieffen" "von Scholtz" "von Schwarzburg" 
 		"von Seeckt" "von Spee" "von Steinmetz" "von Stosch"
-		"von Tirpitz" "von Trotha" "von T�mpling" "von Voigts-Rhetz" "von Waldeck und Pyrmont" "von Waldersee" "von Wartensleben" "von Werder" "von Wettin" "von Wittich"
+		"von Tirpitz" "von Trotha" "von Tumpling" "von Voigts-Rhetz" "von Waldeck und Pyrmont" "von Waldersee" "von Wartensleben" "von Werder" "von Wettin" "von Wittich"
 		"von Wrangel" "von Zieten" "zu Dohna-Schlobitten" "zur Lippe" Zenker 
 		}
 	}
@@ -35,17 +35,17 @@ germanic = {
 		color = { 50 80 80}
 		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian Daniel
 		Edmund Eduard Emil Engelbert Ernst Erwin Eugen Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
-		G�nther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph
+		Gunther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph
 		Julius Karl Konrad Kurt Leonhard Leopold Lorenz Lothar Ludwig Maximilian
 		Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
 		
 		last_names = { 
-		"Arz von Straussenburg" Beck-Rzikowsky Blos Dankl "David von Rohnfeld" Eisner Geiss Goering Gr�nne Hainisch Hartung Haus Held Hellpach Hoffmann Hummel 
-		Jelacic K�hler "Kuhn von Kuhnenfeld" Mergenthaler Miklas "Radetzky von Radetz" "Ramming von Riedkirchen" Remmele Schmitt "Sch�nburg-Hartenstein" Schobber Seitz Steeb
-		Stolzer Trunk "von Albori" "von Baden" "von Benedek" "von Burgneust�tten" "von B�hm-Ermolli" "von Brudermann" "von Clam-Gallas" "von der Tann" "von Dietrich" "von Gablenz"
-		"von Gr�nne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von H�tzendorf" "von John" 
+		"Arz von Straussenburg" Beck-Rzikowsky Blos Dankl "David von Rohnfeld" Eisner Geiss Goering Grunne Hainisch Hartung Haus Held Hellpach Hoffmann Hummel 
+		Jelacic Kohler "Kuhn von Kuhnenfeld" Mergenthaler Miklas "Radetzky von Radetz" "Ramming von Riedkirchen" Remmele Schmitt "Schonburg-Hartenstein" Schobber Seitz Steeb
+		Stolzer Trunk "von Albori" "von Baden" "von Benedek" "von Burgneustatten" "von Bohm-Ermolli" "von Brudermann" "von Clam-Gallas" "von der Tann" "von Dietrich" "von Gablenz"
+		"von Grunne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Hotzendorf" "von John" 
 		"von Kaiffel" "von Kirbach" "von Kobratin" "von Krasnik" "von Mittrowitz-Nettolitzky" "von Pflanzer-Baltin" "von Philippsberg" "von Puchner" 
-		"von Salis-Soglio" "von Sch�nburg" "von Sch�nhals" "von Steeb" "von Tegetthoff" "von Uchatius" "von �xk�ll-Gyllenband" "von Wittelsbach" "von W�rttemberg" "von Zahringen" 
+		"von Salis-Soglio" "von Schonburg" "von Schonhals" "von Steeb" "von Tegetthoff" "von Uchatius" "von Uxkull-Gyllenband" "von Wittelsbach" "von Wurttemberg" "von Zahringen" 
 		Wagner Wittmann "zu Hohenlohe" 
 		}
 	}
@@ -54,20 +54,20 @@ germanic = {
 		first_names = { Abraham Albert Benjamin Daniel David Franz Gustav Heinrich Hermann Isaak Ignatz Jakob Jeremias Josef Leonhard Michael Mose Salomon Saul Shmuel
 		Sigmund Simon Theodor }
 
-		last_names = { Abramovitch Ashkenazi Bernstein Birnbaum Bloch Cantor Cohen Frank Friedl�nder Ginsberg Goldstein Horowitz Israel Jacobsohn Kagan Kaplan Klein
+		last_names = { Abramovitch Ashkenazi Bernstein Birnbaum Bloch Cantor Cohen Frank Friedlander Ginsberg Goldstein Horowitz Israel Jacobsohn Kagan Kaplan Klein
 		Levin Luria Morgenstern Nathan Oren Rosenthal Sachs Schapiro Schwartz Weinstein Weiss }
 	}
 	rhenish = {
 		color = { 0 96 36 }
 		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
 		Eduard Edwin Erwin Erich Ernst Florian Franz Friedrich Fritz Georg Günther
-		Gustav Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Jürgen Karl
+		Gustav Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Jurgen Karl
 		Konrad Leonhard Leopold Ludwig Lukas Manfred Maximilian Michael Nikolaus Otto
 		Pascal Paul Peter Reinhard Rudolf Ruprecht Stefan Theodor Wilhelm Wolfgang }
 		
 		last_names = { Behncke Brommy Cordemann Dreyer Droste Groener "Herwarth von Bittenfeld" Heppendorf Hoffmann Krohn Ludendorff Schree
 		"Vogel von Falkenstein" "von Alten" "von Anhalt" "von Arentschildt" "von Bismarck-Bohlen" "von Blumenthal" "von Blomberg" 
-		"von Boyen" "von Braunschweig" "von Bülow" "von dem Knesebeck" "von Gebser" "von Fritsch" "von Halkett" "von Hannover" 
+		"von Boyen" "von Braunschweig" "von Bulow" "von dem Knesebeck" "von Gebser" "von Fritsch" "von Halkett" "von Hannover" 
 		"von Hessen-Darmstadt" "von Hessen-Kassel" "von Hindenburg" "von Hohenzollern" "von Holstein-Gottorp" "von Knorr" "von Kleefeld"
 		"von Manteuffel" "von Mecklenburg-Schwerin" "von Mecklenburg-Strelitz" "von Moltke" "von Oldenburg" "von Rauch" "von Ravensberg" 
 		"von Reuter" "von Richthofen" "von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen" 
@@ -86,7 +86,7 @@ beneluxian = {
 			Adolf Adriaan Alexander Andreas Antoon Andries Antonius Abraham
 			Barthout
 			Casimir Constantijn Cornelis Christiaan Christoffel 
-			Dani�l David Dominicus Daniel Dirk
+			Daniel David Dominicus Daniel Dirk
 			Elias Ernst Erwin Eise
 			Frans Frederik
 			Gijsbert Godfried Gustaaf Gaspar Gabriel Gerard Gerben
@@ -119,13 +119,13 @@ beneluxian = {
 			"van Ham" "van Haren" "van Heemskerck" "van Heutsz" "Cort-Heyligers" "de Houtman" "van Huchtenbroek" 
 			"van Ilpendam"
 			Janssens
-			K�hler Kool Kruys Kater "van Keppel" Kortenaer
+			Kohler Kool Kruys Kater "van Keppel" Kortenaer
 			List Lucas
 			Michiels "van Marnix" Martena "de Moor" "Melvill van Carnbee" 
 			Nepveu Nachtegaal "van Nieuwenaar" "van Noort"
 			Ongerboer 
 			"van Pallandt"
-			Rijk R�ell "van Raephorst" "van Rechteren" Reijersen "van Renesse" "van Riebeeck" "de Rijk" "van Rossum"
+			Rijk Roell "van Raephorst" "van Rechteren" Reijersen "van Renesse" "van Riebeeck" "de Rijk" "van Rossum"
 			Sabron "Schimmelpenninck van der Oye" "van Saksen-Weimar" "van Spilbergen" Staal Stokhuyzen Schouten Schenk Spiegel 	
 
 			Steltman Stuyvesant
@@ -139,14 +139,14 @@ beneluxian = {
 	flemish = { 
 		color = { 250 180 80}
 		first_names = { Adolf Adolphe Alexander Alexandre Alfons Alphonse Adriaan Albert Andries Antoine Auguste Boudewijn Bonifaas 
-		Camille Charles Constant David Desire Diederik Edmond Emmanuel Etienne Eugene Felix Filip Frans Ferdinand Fran�ois Frederik 
-		Guillaume Gustave Hendrik Henri Herman Ignaas Ignace Jan Jean Jean-Baptiste Jean-Fran�ois Jean-Louis Jean-Jacques 
+		Camille Charles Constant David Desire Diederik Edmond Emmanuel Etienne Eugene Felix Filip Frans Ferdinand Francois Frederik 
+		Guillaume Gustave Hendrik Henri Herman Ignaas Ignace Jan Jean Jean-Baptiste Jean-Francois Jean-Louis Jean-Jacques 
 		Jochem Joseph Josse Jozef Jules Karel Laurens Leon Leonard Leopold Louis Lucien Manfred Mathias Nicolas Nikolaas Olivier
 		Paul Philippe Philippe-Joseph Pierre Pieter Robert Sylvain Theodoor Victor Vincent Werner Willem }
 		
 		last_names = { Andries "Annez de Zillebroeck" Barbanson Barthelemy Beaucarne Beernaert Berthels Bethune Beyts Bischoff Blomme Bosmans 
 		"Boucqueau de Villeraye" Buylaert Buyse Claes Claus Cogels Cols Coppens Coppieters Corten Cruts "d'Arschot Schoonhoven" 
-		d'Ansembourg d'Hanens "de Brouck�re" "de Celles" "de Coninck" "de Decker" "de Foere" "de Gaesebeke" "de Ghellink" "de Grez" 
+		d'Ansembourg d'Hanens "de Brouckere" "de Celles" "de Coninck" "de Decker" "de Foere" "de Gaesebeke" "de Ghellink" "de Grez" 
 		"de Haerne" "de Jonghe" "de Jonghe d'Ardoye" "de Langhe" "de Leeuw" "de Leuze" "de Man" "de Meer de Moorsel" 
 		"de Meester" "de Merode" "de Muelenaere" "de Pelichy" "de Renesse" "de Robiano" "de Rodes" "de Roo" "de Ryckere" 
 		"de Smet" "de Theux de Meylandt" "de Tiecken" "de Viron" "de Woelmont" Dayeneux Delberke Delehaye Delwarde "Desmanet de Biesme" 
@@ -162,36 +162,21 @@ beneluxian = {
 	wallonian = { 
 		color = { 190 90 20}
 		first_names = { Albert Alexandre Alexis Alphonse Andre Antoine Auguste Barthelemy Baudouin Blaise Camille Clement Charles Constant 
-		Damien David Desire Didier Edmond Edouard Emmanuel Emile Etienne Eugene Felix Fernand Feullien Florent Fran�ois Frederic Georges 
-		Gerard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore Jacques Jean Jean-Baptiste Jean-Fran�ois Jean-Louis 
+		Damien David Desire Didier Edmond Edouard Emmanuel Emile Etienne Eugene Felix Fernand Feullien Florent Francois Frederic Georges 
+		Gerard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore Jacques Jean Jean-Baptiste Jean-Francois Jean-Louis 
 		Jean-Jacques Joseph Jules Lambert Laurent Leon Leonard Leopold Louis Lucien Mathieu Maxime Maximilien Nicolas Olivier 
 		Pascal Patrice Paul Philippe Philippe-Joseph Pierre Pierre-Guillaume Sebastien Sylvain Theophile Victor Vincent Werner }
 		
 		last_names = { Allard Barbanson Barthelemy Baugniet Beaucarne Berger Berthels Beyts Biver Blargnies Brialmont Bredart Cauvin Collet 
 		Cols Claus Clerix Coquilhat d'Arenberg d'Huart d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" 
-		"de Behr" "de Bocarme" "de Bousies" "de Brouck�re" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen"
-		"de Cro�" "de Decker" "de Dixmude" "de Gerlache" "de Grez" "de Hemptinne" "de Labbeville" "de Lannoy" "de Ligne" "de Leuze" "de Melin" 
+		"de Behr" "de Bocarme" "de Bousies" "de Brouckere" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen"
+		"de Croy" "de Decker" "de Dixmude" "de Gerlache" "de Grez" "de Hemptinne" "de Labbeville" "de Lannoy" "de Ligne" "de Leuze" "de Melin" 
 		"de Merode" "de Pelichy" "de Quarre" "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Secus" "de Selys Longchamps" 
 		"de Stassart" "de Stockem" "de Theux de Meylandt" "de Trazegnies" "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix 
 		"Desmanet de Biesme" Destriveaux Dethier Devaux Deville Dewandre Dhanis Dreze "du Bois" "du Bus" "du Pont" "du Val de Beaulieu" Dumont
 		Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Henry "Huysman d'Annecroix" Jacques Joos Jottrand 
 		Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb 
 		Orban Petillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangermee Wyvekens Zoude }
-	}
-}
-
-pan_swiss = {
-	leader = european
-	unit = EuropeanGC
-	swiss = { 
-		color = { 180 40 40}
-		first_names = { Adolf Alexander Eduard Ernst Franz Hans Johann Josef Konstantin Martin
-		Melchior Robert Rudolf Ulrich Wilhelm Augusto Enrico Flavio Giuseppe Vincenzo
-		Antoine Charles Emmanuel Guillaume Gustave Henri Hugo Louis Marc Paul }
-		
-		last_names = { Brenner Deucher Funk Haab Herzog Kn�sel Munzinger N�ff Schneider Siegwart-M�ller
-		"von Donatz" "von Salis-Soglio" "von Steiger" "von Tavel" Celio Cotti Fogliardi Motta Zeni
-		Ador Calonder Chaudet Comtesse "de Prangins" Dufour Fornerod Guisan Ruchet Ruchonnet }
 	}
 }
 	
@@ -205,10 +190,10 @@ scandinavian = {
 		Jakob Jesper Johan Julius Knut Lars Ludvig Magnus Michael Nikolaus
 		Nils Olof Oscar Per Rudolf Sten Theodor Verner Viktor Vilhelm }
 		
-		last_names = { Abelin Bernardotte Bildt Bj�rnstjerna Brahe Brakenhielm Breitholtz Chrsiterson Crusebj�rn Dyrssen
-		Ehnemark Ehrenstam Gyllengranat Gyndestolpe Ingelman Leijonhufvud Lindman M�rner Nordenski�ld "Palanger af Vega"
-		Palmstierna Peyron Rappe Reuterski�ld Rosensv�rd Ryding Sprengtportem Str�m Taube Tawast
-		Th�rnell Thulstrup Tingsten Ulner Virgin "von Essen" "von Hohenhausen" "von Otter" "von Platen" Weidenhielm }
+		last_names = { Abelin Bernardotte Bildt Bjornstjerna Brahe Brakenhielm Breitholtz Chrsiterson Crusebjorn Dyrssen
+		Ehnemark Ehrenstam Gyllengranat Gyndestolpe Ingelman Leijonhufvud Lindman Morner Nordenskiold "Palanger af Vega"
+		Palmstierna Peyron Rappe Reuterskiold Rosensvard Ryding Sprengtportem Strom Taube Tawast
+		Thornell Thulstrup Tingsten Ulner Virgin "von Essen" "von Hohenhausen" "von Otter" "von Platen" Weidenhielm }
 	}
 	danish = { 
 		color = { 220 40 40}
@@ -218,7 +203,7 @@ scandinavian = {
 		Peter Poul Sigurd Sven Tage Thomas Thorvald Ukrik Valdemar Vilhelm }
 		
 		last_names = { Ahlefeldt Asp-Persson Berger Bonde Carlsen Dannemand Danneskjold-Samso "de Meza" Eberlin Falsen
-		Folsach G�ntelberg Gyldenfeldt Haack Hambro Haxthausen Juul Klauman Krogh Laessoe
+		Folsach Guntelberg Gyldenfeldt Haack Hambro Haxthausen Juul Klauman Krogh Laessoe
 		Leuenbach Lovenbalk Michaelsen Mylius Neergaard Obelitz Oxholm Reventlow Rosenkrantz Rye Schack-Schackenborg
 		Stemman Suenson Thygeson Trampe Urne "von Holstein" "von Oldenburg" Wadenstierna Wedel-Heinen Zytphen-Adeler }
 	}
@@ -230,24 +215,24 @@ scandinavian = {
 		
 		last_names = { Adeler Balchen Berg Bloch Borresen Bratzland Brentzon Dhal Egge Fleicher
 		Frisvold Hakonarson Hansen Hund Kaldager Konow Lambrechts Morgenstierne Munthe Petersen
-		Rye Sissener Skjalgsson Tambarskjelve "von Holstein-Gl�cksburg" "von Klenow" Wedel-Jarlsberg Wiborg With Zeiner-Gundersen }
+		Rye Sissener Skjalgsson Tambarskjelve "von Holstein-Glucksburg" "von Klenow" Wedel-Jarlsberg Wiborg With Zeiner-Gundersen }
 	}
 	icelandic = { 
 		color = { 80 20 150}
-		first_names = { Agnar Asgeir Bj�rn Eidur Einar Emil Geir Gudmund Gunnar Hannes
+		first_names = { Agnar Asgeir Bjorn Eidur Einar Emil Geir Gudmund Gunnar Hannes
 		Hermann Jon Kristjan Magnus olafur Petur Sigurdur Stefan Sveinn Tryggvi }
 		
-		last_names = { Arnorsson Asgeirsson Benediktsson Bjarnasen Bj�rnsson Eggers Eldjarn Hafstein Hansen
+		last_names = { Arnorsson Asgeirsson Benediktsson Bjarnasen Bjornsson Eggers Eldjarn Hafstein Hansen
 		Hermannsson Johanesson Jonsson Magnusson Stefansson Steinthosson Thordarson Thorhallson Thorlaksson Thurs }
 	}
 	finnish = { 
 		color = { 220 220 220}
 		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
-		Fredrik Fridolf Georg G�sta Harald Hjalmar Hugo Johannes Juho Kaarlo
-		Kurt Lars Martti Mikko Paavo Petteri Rudolf V�in� Viktor Vilho }
+		Fredrik Fridolf Georg Gosta Harald Hjalmar Hugo Johannes Juho Kaarlo
+		Kurt Lars Martti Mikko Paavo Petteri Rudolf Vaino Viktor Vilho }
 		
-		last_names = { Airo Alopaeus Aspara Cajander Ehrnrooth Heinrichs Heiskanen Holsti Ignatius J�rnef�lt
-		Linder Mannerheim Multam�ki Nenonen Oesch �quist �sterman Paasikivi Raappana Ramsay
+		last_names = { Airo Alopaeus Aspara Cajander Ehrnrooth Heinrichs Heiskanen Holsti Ignatius Jarnefalt
+		Linder Mannerheim Multamaki Nenonen Oesch Oquist Osterman Paasikivi Raappana Ramsay
 		Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo "von Hesse-Kassel" Walden Wallenius Wetzer }
 		
 		radicalism = 5
@@ -258,7 +243,7 @@ scandinavian = {
 			Asllak Biejas Dure Erke Hanno Iskko Joha Laras Markkos Mikko Niillas Osku Uhkku
 		}
 		last_names = {
-			H�tta Somby Turi Magga Dunfjeld Kvitfjell Kappfjell
+			Haetta Somby Turi Magga Dunfjeld Kvitfjell Kappfjell
 		}
 	}
 	union = SCA
@@ -302,18 +287,31 @@ british = {
 	}
 	Scotish = {
 		color = { 192 207 31}
-		first_names = { Àdhamh Aindrea Alasdair Baltair Beistean Brian Cailean Caomhainn Ciaran Coinneach Comhnall Cormag Cuithbeart
-		Dàibhidh Daidh Daniel Deòrsa Domhnall Donnchadh Dubh Dubhghall Dùghlas Ealar Eòghann Eumann Eòin Eòsaph Faolan Fearghas Filib
-		Fionnlagh Gilleasbuig Gille-Brìdhde Gillebeart Goraidh Guaidre Harailt Iain Iomhair Iòna Lachlann Maol-Iosa Maoldònaich Mata
-		Murchadh Niall Padruig Peadrus Pàl Raghnall Seoras Simidh Somhairle Tadhg Tomaidh Ùisdean }
+		first_names = { Adhamh Aindrea Alasdair Baltair Beistean Brian Cailean Caomhainn Ciaran Coinneach Comhnall Cormag Cuithbeart
+		Daibhidh Daidh Daniel Deorsa Domhnall Donnchadh Dubh Dubhghall Dughlas Ealar Eoghann Eumann Eoin Eosaph Faolan Fearghas Filib
+		Fionnlagh Gilleasbuig Gille-Brìdhde Gillebeart Goraidh Guaidre Harailt Iain Iomhair Iona Lachlann Maol-Iosa Maoldonaich Mata
+		Murchadh Niall Padruig Peadrus Pal Raghnall Seoras Simidh Somhairle Tadhg Tomaidh Uisdean }
 		
-		last_names = { Aileanach Ambarsan Bànach Blàr Bràigheach Buiseid Caimbeulach Cananach Crannach Càidh Deòir Dòmhnullach
-		Fearghasdan Griogalach Lobhdain "Mac a' Charraige" "Mac a' Ghobhainn" "Mac a' Leòra" "Mac a' Phearsain"
+		last_names = { Aileanach Ambarsan Banach Blar Braigheach Buiseid Caimbeulach Cananach Crannach Caidh Deoir Domhnullach
+		Fearghasdan Griogalach Lobhdain "Mac a' Charraige" "Mac a' Ghobhainn" "Mac a' Leora" "Mac a' Phearsain"
 		"Mac an Duibh" "Mac an Fhuibhir" "Mac an Luaimh" "Mac an Rothaich" "Mac Iain Duibh" "MacAsgaill" "MacCormaig"
-		"MacDheòrsa" "MacEalar" "MacFigeinn" "MacGiobain" "MacLagain" "MacLianain" "MacMhatha" "MacNìll" "MacPhàic"
-		MacShitrig MacTiridh Morgan Robasan Seadh Tàillear Urchadainn }
+		"MacDheorsa" "MacEalar" "MacFigeinn" "MacGiobain" "MacLagain" "MacLianain" "MacMhatha" "MacNìll" "MacPhaic"
+		MacShitrig MacTiridh Morgan Robasan Seadh Taillear Urchadainn }
 	}
-	
+	welsh = { 
+		color = { 150 110 80}
+		first_names = { Alan Daveth Howel Jory Kenver Margh Peder Tomas Ruan Petrok
+		Seimon Mervyn Iwan Gareth Bryn Rhys Hywel Owain Morys }
+		
+		last_names = { Angwin Arundell Bosanko Chenoweth Coon Pomeroy Gummo Nanscawen
+		Pendarvis Penhale Pentrith Penketh Trelawney Tremaine Trevithick }
+	}
+	cymry = {
+		color = { 173 130 0 }
+		first_names = { Alexander Rhys Gareth Seimon Lloyd Llewelyn Mervyn Huw Hywel Iwan Morys Owain Bryn }
+
+		last_names = { Ifans Glyn Lloyd Alwyn "ap Meryk" Lewis Glyndwr Maelor Iwrch Mawr Dda Elwyn }
+	}
 }
 
 italian = {
@@ -328,10 +326,10 @@ italian = {
 		Raffaele Roberto Ruggiero Salvatore Saverio Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
 		
 		last_names = { 
-		Adorno Albricci Badoglio Baldissera Baratieri Bastico Bava-Beccaris Bertol�-Viale Brusati 
+		Adorno Albricci Badoglio Baldissera Baratieri Bastico Bava-Beccaris Bertole-Viale Brusati 
 		Cagni Candiani Caneva Canevaro Capello Cavallero Caviglia Ceccherini Cialdini Cusani 
 		d'Absburgo-Toscana "De Bono" Dezza d'Aste-Stella "di Borbone di Parma" "di Robilant" "di Savoia" "di Savoia-Aosta" 
-		Diaz Driquet Emo Fanti Fara Faravelli Filomarino Garibaldi Gariboldi Giardino Govone Graziani Grazioli "La M�rmora" 
+		Diaz Driquet Emo Fanti Fara Faravelli Filomarino Garibaldi Gariboldi Giardino Govone Graziani Grazioli "La Marmora" 
 		Maggiolini Mambretti "Millo di Casalgiate" Menabrea Nicolis Orengo 
 		"Pacoret de Saint Bon" Pallavicini Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli Porro
 		Presbitero Primerano Ramorino Ricotti-Magnani Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Viale Zupelli 
@@ -340,7 +338,7 @@ italian = {
 	south_italian = {
 		color = { 40 150 90}
 		first_names = { Alessandro Alberto Alfredo Armando Augusto Camillo Carlo Cesare Corrado Domenico Dentice 
-		Enrico Ettore Fabio Fabrizio Ferdinando Filippo Francesco Gaetano Gennaro Giacomo Giosu� Giovanni Giulio Giuseppe Graziani Guglielmo 
+		Enrico Ettore Fabio Fabrizio Ferdinando Filippo Francesco Gaetano Gennaro Giacomo Giosue Giovanni Giulio Giuseppe Graziani Guglielmo 
 		Leopoldo Lorenzo Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Paolo Pirzio
 		Rafaelle Riccardo Rodolfo Ruggiero Salvatore Sigismondo Tommasso Vincenzo }
 		
@@ -360,6 +358,20 @@ italian = {
 		last_names = { Abela Adami Azzopardi Boffa Borg Buhagiar Cassar Farrugia Frendo Gonzi
 		Howard Mifsud Mintoff Mizzi Muscat Olivier Puli Pullicino Strickland Vella }
 	}
+	cisalpine = {
+		color = { 100 210 90}
+		first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Bartolomeo Carlo
+		Cesare Costanzo Davide Domenico Enrico Emanuele Ettore Fabrizio Federico Felice Ferdinando
+		Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leone
+		Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Pier
+		Raffaele Roberto Ruggiero Silvio Simone Ugo Umberto Vincenzo Vittorio }
+		
+		last_names = { Albricci Baldissera Battista Belli Braccini Cadorna Cagni Canevaro Capello
+		Caviglia Ceccherini Calpini Cibrario Cusani Dezza "di Robilant" "di Moncalieri"
+		"d'Aouta" "di Sarzana" Emo Fanti Fara Fontana Gastaldi Giardino Govone "La Marmora" Mambretti 
+		Morghen Neurone Pallavicino Pecori-Giraldi "Pellion di Persano" Peyron Perruchetti Pianelli Porro
+		Presbitero Ramorino Ricotti Sacchi Saletta Sanna Solari Telesio Vigliardi Zupelli }
+	}
 	
 	union = ITA
 }
@@ -370,13 +382,13 @@ iberian = {
 	basque = {
 		color = {220 170 30}
 		first_names = { Agustin Aitor Alberto Ander Andoni Andres angel Antonio Arturo Carlos
-		Ceferino Cosme Cristobal Damian Endika "Francisco Javier" Ignacio Imanol I�aki Jesus
+		Ceferino Cosme Cristobal Damian Endika "Francisco Javier" Ignacio Imanol Inaki Jesus
 		Jon "Jose Antonio" "Jose Maria" Joseba Josu Juan Julen Koldobika Luis Manuel
 		Marino Miguel Paulino Pedro Rafael Ramiro Ramon Sabino Tomas Vicente }
 		
 		last_names = { Aguirre Ajuriaguerra Aldecoa Arana Aranzadi Arizmendiarrieta Armendariz Aznar Balenciaga Berasategui 
-		Bilbao Campion Churruca "de Amesquita" "de Azpilicueta" "de Erauso" "de Renteria" "de Ubisztongo" Echag�e Echave
-	 	Echegaray Echevarria Elorza Gazta�eta Ibarrola Ibarruri Irujo Lazcano Mendizabal Moneo 
+		Bilbao Campion Churruca "de Amesquita" "de Azpilicueta" "de Erauso" "de Renteria" "de Ubisztongo" Echague Echave
+	 	Echegaray Echevarria Elorza Gaztaneta Ibarrola Ibarruri Irujo Lazcano Mendizabal Moneo 
 		Nardiz Olano Olave Oyarzabal Rotaeche Uzcudun Zamarraga Zarate Zavala Zumalacarregui }
 		radicalism = 15
 	}
@@ -390,44 +402,44 @@ iberian = {
 		Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicolas Pablo Pascual
 		Pedro Rafael Raimundo Ramon Ricardo Santiago Sebastian Segismundo Valeriano Vicente }
 		
-	last_names = { Acu�a Aguirre Alcala-Zamora Allendesalazar Alonso Alvarez "Alvarez de Toledo" Aranda Arg�elles-Meres Asensio
+	last_names = { Acuna Aguirre Alcala-Zamora Allendesalazar Alonso Alvarez "Alvarez de Toledo" Aranda Arguelles-Meres Asensio
 		Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de Borbon"
 		"de Carvajal" "de la Fuente" "de Orleans" Diaz Espartero Fernandez "Fernandez de Cordoba" "Fitz-James Stuart" Franco 
 		Garcia "Garcia de la Noceda" Gonzalez Heredia Hernandez Herrera Hevia "Hidalgo de Cisneros" Linares Lopez 
-		Maroto Marquez Martinez-Campos Maura Menendez Miaja Millan-Astray Mina Mola Mu�oz 
+		Maroto Marquez Martinez-Campos Maura Menendez Miaja Millan-Astray Mina Mola Munoz 
 		Narvaez O'Donnell Ortega Pavia Perez "Primo de Rivera" "Queipo de Llano" Rodriguez Rojo Ruiz 
-		Sanjurjo Serrano Silvestre Topete Valdes Varela Villapol Villar Weyler Yag�e }
+		Sanjurjo Serrano Silvestre Topete Valdes Varela Villapol Villar Weyler Yague }
 	}
 	catalan = {
 		color = {220 110 30}
-		first_names = { Albert Alexandre Alfons Alfonso Andres Andreu Antoni Carles Cassi� Dalmau 
+		first_names = { Albert Alexandre Alfons Alfonso Andres Andreu Antoni Carles Cassia Dalmau 
 		David Eduard Enric Enrique Federico Felip Fernando Ferran Francesc Gaspar 
-		Gerard Isaac Jacint Jaume Joan Jordi Jose Josep Juan Lloren�
+		Gerard Isaac Jacint Jaume Joan Jordi Jose Josep Juan Llorenc
 		Lluis Manel Manuel Marc Miquel Narcis Pasqual Pau Pedro Pere
 		Pompeu Rafael Rafel Ramon Ricardo Salvador Sergi Valnti Victor Xavier }
 		
 		last_names = { Albeniz Almirall Bacardi Batet Berenguer Borras Borrell Cadafall Carner Casals
-		Casanova Castello Claramunt Cucala Cugat Despujol Dom�nech Escotet Fabra Fages 
-		"Folc de Cardona" Gumer� Irla Llauder Maci� Maragall Margall "Milans del Bosch" Miro Mompou
+		Casanova Castello Claramunt Cucala Cugat Despujol Domenech Escotet Fabra Fages 
+		"Folc de Cardona" Gumera Irla Llauder Macia Maragall Margall "Milans del Bosch" Miro Mompou
 		Montaner Moragues Moret Nebot Nin Oller Prat Prim Puig Riba 
 		Roig Sala Saliquet Savalls Serra Sor Tristany Verdaguer Virigili Vives }
 	}
 	portuguese = {
 		color = {160 220 30}
 		first_names = { Abel Adriano Afonso Alberto Alexandre Alfredo Alvaro Andre Antonio Aquilino 
-		Artur Augusto Bartolomeu Bernardo Bruno Caetano C�ndido Carlos Christov�o Claudio
-		Dami�o Daniel David Dinis Diogo Duarte Ernesto Est�v�o Eugenio Fernando 
-		Filipe Francisco "Francisco Xavier" Gast�o Hermenegildo Ignacio JEronimo Jo�o Joaquim Jorge
+		Artur Augusto Bartolomeu Bernardo Bruno Caetano Candido Carlos Christovao Claudio
+		Damiao Daniel David Dinis Diogo Duarte Ernesto Estevao Eugenio Fernando 
+		Filipe Francisco "Francisco Xavier" Gastao Hermenegildo Ignacio JEronimo Joao Joaquim Jorge
 		Jose Julio Leopoldo Luis Manuel Mario Miguel Nicolau Nuno Orlando 
 		oscar Pascoal Paulo Pedro Rafael Raul Roberto Rodrigo Rui Santiago 
-		Sebasti�o Teodoro Teofilo Tiago Tome Urbano Vasco Vicente Vitorino Vitorio }
+		Sebastiao Teodoro Teofilo Tiago Tome Urbano Vasco Vicente Vitorino Vitorio }
 		
 		last_names = { Amaral Barreto Bleck Braga Cabral Capelo Carmona Coelho Correia Coutinho
-		"da Costa" "da Cunha" "da Silva" "de Albuquerque" "de Almeida" "de Arriaga" "de Bragan�a" "de Bragan�a-Coburgo" "de Carvalho" 
-		"de Castro" "de Gusm�o" "de Lacerda" "de Mesquita" "de Moura" "de Noronha" "de Oliveira" "de Paiva" "de Sousa" "de Vasconcelos"
+		"da Costa" "da Cunha" "da Silva" "de Albuquerque" "de Almeida" "de Arriaga" "de Braganca" "de Braganca-Coburgo" "de Carvalho" 
+		"de Castro" "de Gusmao" "de Lacerda" "de Mesquita" "de Moura" "de Noronha" "de Oliveira" "de Paiva" "de Sousa" "de Vasconcelos"
 		Dias "dos Reis" "dos Santos" Fernandes Ferreira Figueira "Freire de Andrade" Gago Gil Gomes
-		Herculano Ivens Keil Lopes Machado Magalh�es Mendes Moniz Mouzinho Nogueira 
-		Nunes Ortig�o Pereira Pinheiro Pinto Pires Pomar Pulido Queiroz Quintanilha
+		Herculano Ivens Keil Lopes Machado Magalhaes Mendes Moniz Mouzinho Nogueira 
+		Nunes Ortigao Pereira Pinheiro Pinto Pires Pomar Pulido Queiroz Quintanilha
 		Ribeiro Rodrigues Salazar Sampaio Sergio Silveira Tavares Teixeira Vidigal Vieira }
 	}
 }
@@ -439,25 +451,73 @@ french = {
 		color = {20 20 100}
 		first_names = { Achille Adolphe Adrien Aimable Alexandre Alphonse Amedee Andre Antoine Armand August Augustin
 		Charles Charles-Theodore Constant Daniel Denis "Dominique-Marie" Edmond Edouard Elie Emile ettiene Eugene Felicien Felix Ferdinand
-		Fran�ois Frederic Gaston Georges Guillaume Gustave "Guy-Victor" Henri Hubert Hugo Jacques Jean "Jean-Baptiste"
+		Francois Frederic Gaston Georges Guillaume Gustave "Guy-Victor" Henri Hubert Hugo Jacques Jean "Jean-Baptiste"
 		Joseph Jules Julien Lazare Leonard Leopold Leroy Louis Lucien Marie-Eugene Maurice Matthieu Maxime Michel
-		No�l Nicolas Olivier Oscar Patrice Paul Philippe Pierre "Pierre-Gustave" Robert Sebastien Simeon Sylvain Thibaut Thierry Thomas Victor }
+		Noel Nicolas Olivier Oscar Patrice Paul Philippe Pierre "Pierre-Gustave" Robert Sebastien Simeon Sylvain Thibaut Thierry Thomas Victor }
 		
 		last_names = { 
 		Abrial Anthoine Archinard Aube "Baraguey d'Hilliers" Baudin Bazaine Berthelot Billot 
-		Bonaparte Bonard Borgnis-Desbordes Bosquet "Boue de Lapeyr�re" Bou�t-Willaumez Boulanger Bourbaki Bourgeois "Bri�re de l'Isle" Bruat Bugeaud 
+		Bonaparte Bonard Borgnis-Desbordes Bosquet "Boue de Lapeyrere" Bouet-Willaumez Boulanger Bourbaki Bourgeois "Briere de l'Isle" Bruat Bugeaud 
 		Caillard Canrobert Cecille Chanzy Charny Corap Cordonnier Courbet Cousin-Mountauban Darlan Davout Debeney Degoutte "de Bon" "de Bourbon" 
 		"de Canrobert" "de Castellane" "de Castelnau" "de Failly" "de Gueydon" "de Ladmirault" "de Langle de Cary" 
-		"de Mackau" "de MacMahon" "de Maud'huy" "de Mitry" "de Montaignac" "de Negrier" "de Parseval-Desch�nes" "de Randon" "de Saint Arnaud" 
-		"d�Aurelle de Paladines" d'Orleans Douay Drouet "du Fournet" Ducrot Dubail Dubois Duch�ne Duchesne Dupetit-Thouars Dupotet Exelmans
-		Faidherbe Farre Fayolle "Febvrier-Despointes" Fevrier Forey "Franchet d'Esp�rey" Frossard Fournier
+		"de Mackau" "de MacMahon" "de Maud'huy" "de Mitry" "de Montaignac" "de Negrier" "de Parseval-Deschenes" "de Randon" "de Saint Arnaud" 
+		"d'Aurelle de Paladines" d'Orleans Douay Drouet "du Fournet" Ducrot Dubail Dubois Duchene Duchesne Dupetit-Thouars Dupotet Exelmans
+		Faidherbe Farre Fayolle "Febvrier-Despointes" Fevrier Forey "Franchet d'Esperey" Frossard Fournier
 		Gallieni Gamelin Garnier-Duplessix Giraud Gouraud Gauchet Guepratte Guillaumat Hamelin Harispe Hirschauer Hoche Humbert Huntziger
-		Jaureguiberry Jaur�s Joffre "Jurien de la Gravi�re" Lanrezac Lebouef Lesp�s Lyautey Mangin Maistre Maunoury Mazel Micheler Millet Murat 
+		Jaureguiberry Jaures Joffre "Jurien de la Graviere" Lanrezac Lebouef Lespes Lyautey Mangin Maistre Maunoury Mazel Micheler Millet Murat 
 		"Ney d'Elchingen" Niel Nivelle Odet-Pellion Oudinot 
 		Pajol Pellissier Petain Picquart "Rigault de Genouilly" Romain-Desfosses Ronarc'h Sarrail Roques Roze Saussier Trehouart Trochu Vaillant Valee Vuillemot Weygand 
 		}
 	}
-	
+	occitan = {
+		color = {130 100 50}
+		first_names = { Achillo Alban Alber Alfons Amedé Andieu Aloi Archambaut Aymar Berot Bérard Bernat Berengar Carle Enric Estève Fidèl 
+		Frederic Filipo Franç Guiraud Huc Ignaç Jan Jacin Laurenç Luis Martin Michele Nicolau Pasqual Pau Pèire Pier Privat Roman 
+		Raimond Rogier Raimond-Rogier Ton Vincenç Vitorio Zeno }
+		
+		last_names = { Amiel Azéma Bec Benet Bézots Dardier Delpuech Ladivèze Gilbert Mistral Claramunt Sala
+		"de Bordeu" Auvernhan Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre
+		d'Usès Nant d'Aurinhac Aramits Challant Guasco Gamba "de Sâteillon" Jotteu Ceppi Becca
+		Colo Carrel Roda Comì Ortèl "de Fenis" "de Saut" "de Cavalhon" "lo Rocoforto" Emperi 
+		Marselhés Alesenc "de Sant Africa" Castrès "de Puylaurenç" Aushés Gasc "lo Cuq" Pèira
+		Valada Bosc Forneiron Faure Avelan Rove Ramond Andrieu "de Lonzac" "de Aurenja" }
+	}
+	corsican = {
+		color = {161 143 49}
+		first_names = { Adalbertu Alesiu Ambrosgiu Andria Antone Biasgiu Baltazaru Benghjaminu Bernardu Calistu 
+		Carlu Conradu Cristofanu Danelu Francescu Gasparu Giacumu Ghjaseppu Larenzu Lisandru Martinu Melchioru 
+		Niculaiu Petru Raimondu Saveriu Silvestru Simone Tumasgiu Volfgangu }
+		
+		last_names = { Amiel Azéma Bec Benet Bézots Dardier Delpuech Ladivèze Gilbert Mistral Claramunt Sala
+		"de Bordeu" Auvernhan Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre
+		d'Usès Nant d'Aurinhac Aramits Challant Guasco Gamba "de Sâteillon" Jotteu Ceppi Becca
+		Colo Carrel Roda Comì Ortèl "de Fenis" "de Saut" "de Cavalhon" "lo Rocoforto" Emperi 
+		Marselhés Alesenc "de Sant Africa" Castrès "de Puylaurenç" Aushés Gasc "lo Cuq" Pèira
+		Valada Bosc Forneiron Faure Avelan Rove Ramond Andrieu "de Lonzac" "de Aurenja" }
+	}
+	breton = {
+		color = {100 110 100}
+		first_names = { Alain  Alfons Andrev Arthus Briac Briog Denoel Efflam Elouan Enora Even Frañsez Frederig Gwendal Helori Hoël Ivin Jakez Jaoua Karenteg Laouen Malo
+		Matilin Meriadeg Morvan Riok Riware Tadeg Tomaz Tugdual Visant Yann Yvon }
+		
+		last_names = { Abgrall Artus Belleg Berthu Calvez Caradeg Eveno Floch Gallo Goff Guelleg Heussaff Huon Jezeguel Karter Kergoulay Kirouag Laouenan Lozach
+		Menez Morvan Omnes Pelan Pinvidig Quemener Ropars Riou Salaun Sezneg Tanet Trahan Treguier }
+	}
+	picard = {
+		color = {100 110 136}
+		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
+		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
+		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+		Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
+		Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
+		
+		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
+		Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" 
+		"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
+		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
+		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain "Van Loo" }
+	}
+	union = FRA
 }
 
 south_slavic = {
@@ -473,7 +533,7 @@ south_slavic = {
 		}
 
 		last_names = { Alapic Bakaric Bettera Bilic Blazevic Bondic Boroevic Bosnajk Bunic Crnkovic
-		Cuvaj Draskovic Dzamanjic Eltz Erd�dy Frankopan Gaj Getaldic Gradic Gregoric
+		Cuvaj Draskovic Dzamanjic Eltz Erdody Frankopan Gaj Getaldic Gradic Gregoric
 		Gucetic Gundulic Haulik Jelacic Kabuzic Keglevic Kostrencic Krstulovic Lagimja Mazuranic
 		Mihailovic Mohorovicic Mrazovic Natali Nazor Njegovan Palecek Pejacevic Philippovic Preradovic
 		Pucic Ranjina Sarkotic Sokcevic Sorkocevic Stankovaci Tomasic Tomlejnovic Vakanovic Vlasic
@@ -516,16 +576,16 @@ south_slavic = {
 		color = {140 0 0}
 		first_names = { Ahmet Ali Azem Bajram Behxhet Davud Ekrem Elez Enver Eqrem
 		Esad Fatmir Fejzi Fiqri Gjergj Gjon Hasan Hashim Ibrahim Idhomene
-		Iliaz Ishak Ismail Izet Kara Kastriot Ko�i K�pryly Kostaq Lek�
+		Iliaz Ishak Ismail Izet Kara Kastriot Koci Kopryly Kostaq Leke
 		Maliq Marin mehdi Musa Mustafa Pandeli Petro Qamil Qazim Ramush
-		Rexhep Shefqet Sk�nder Sulejman Tewfik Theofan Turhan Vasil Veton Xhafer
+		Rexhep Shefqet Skender Sulejman Tewfik Theofan Turhan Vasil Veton Xhafer
 		}
 
-		last_names = { Ahmeti al-Albani Bardha Bazna "Bej Alizoti" "Bej Bi�ak�iu" "Bej Delvina" "Bej Frash�ri" "Bej Libohova" "Bej Ndroque"
-		"Bej Prishtina" "Bej Verlaci" "Bej Vrioni" "Bej Ypi" "Bej Zogu" Belishi Burbank Bushati Buza �abej
-		�eku Dine Dragoti Dukagiini Dushku Evangjeli Feza Hoxha Islami Kadare
+		last_names = { Ahmeti al-Albani Bardha Bazna "Bej Alizoti" "Bej Bicakciu" "Bej Delvina" "Bej Frasheri" "Bej Libohova" "Bej Ndroque"
+		"Bej Prishtina" "Bej Verlaci" "Bej Vrioni" "Bej Ypi" "Bej Zogu" Belishi Burbank Bushati Buza Cabej
+		Ceku Dine Dragoti Dukagiini Dushku Evangjeli Feza Hoxha Islami Kadare
 		Koculi Konica Konushevci Kosturi Kota Logoreci Merlika-Kruja Mitrovica Mula Noli
-		"Pash� P�rmeti" "Pash� Tepelena" "Pash� Toptani" Poga "Qemal Bej" Shahini Skiroi Tha�i Troja Xoxe
+		"Pashe Permeti" "Pashe Tepelena" "Pashe Toptani" Poga "Qemal Bej" Shahini Skiroi Thaci Troja Xoxe
 		}
 		radicalism = 15
 	}
@@ -542,7 +602,7 @@ south_slavic = {
 		Drolc Duletic Globocnik Gobec Godina Golob Haus Hladnik Ivanek Kantuser
 		Kidric Komar Kopitar Kraigher Lipovsek Lipuscek Macek Maister Marinko Miklosic
 		Mravlajk Pengov Pesek Peterle Pirec Plecnik Rozman Rupnik Sarh Srebrnic
-		Tomazic Tomsic Urbancic Vega "Von Windisch-Gr�tz" Zagar Zerjal Zizke Zornada Zupancic
+		Tomazic Tomsic Urbancic Vega "Von Windisch-Gratz" Zagar Zerjal Zizke Zornada Zupancic
 		}
 	}
 	bosniak = {
@@ -558,7 +618,7 @@ south_slavic = {
 		Dizdarevic Dzikic Dzumhur Ekrem Gradascevic Halilovic Husrev Ibisevic Ilhamija Imamovic
 		Isakovic Izetbegovic Kodro Konjic Kulenovic Lagumdzija Ljajic Ljubicic Ljubijankic Mehmedinovic
 		Muradbegovic Muzurovic Osmanagic Peco Plakalo Pozderac Prazina Rizvanbegovic Sabanadzovic Salihovic
-		Sarajlic Selimovic Silajdzic Sokolovic Spaho Terzic Tihic Turaljic T�kcan Ugljanin 
+		Sarajlic Selimovic Silajdzic Sokolovic Spaho Terzic Tihic Turaljic Tukcan Ugljanin 
 		}
 	}
 	union = YUG
@@ -593,15 +653,15 @@ hungarian_culture_group = {
 		color = {180 255 120}
 		first_names = { Alajos Albert Almos Anasztaz Andras Arisztid Aurel Bela Benedek Beni
 		Bertalan Daniel David Edvard Elias Erno Ferencz Gabor Gabriel Gaspar
-		Gy�rgy Gyula Ignac Imre Istvan Izidor Janos Jozsef "Jozsef Manes" Kalman
+		Gyorgy Gyula Ignac Imre Istvan Izidor Janos Jozsef "Jozsef Manes" Kalman
 		Karoly Katalin Kelemen Krisztian Lajos Laszlo Mano Mihaly Mor Myklos
-		�d�n Otto Peter Rafael Sandor Simon Tivadar Vilmos Virag Zsigmond }
+		Odon Otto Peter Rafael Sandor Simon Tivadar Vilmos Virag Zsigmond }
 
-		last_names = { Andrassy Apponyi Aulich Bacher Baross Batthyany Be�thy Bothmer Damjanich Dessewffy
+		last_names = { Andrassy Apponyi Aulich Bacher Baross Batthyany Beothy Bothmer Damjanich Dessewffy
 		Egressy "Erenyi Ullmann" Farkas "Frakashazi Fischer" Goldziher Gungl Hauszmann Heller Horthy Izso
 		Joseffy Katona Kaufman Keler Kiss Knezich Kogutowicz Lahner Lazar Leiningen-Westerburg
-		Lichtenstein Liszt Mikszath Molnar Nagy-Sandor �sterreicher Ottinger Perczel Poeltenberg Remenyi
-		Rohr Schweidel Szechenyi Szemere Szlavic Tersztyansky T�r�k Varga Vecsey "von Benedek" }
+		Lichtenstein Liszt Mikszath Molnar Nagy-Sandor Osterreicher Ottinger Perczel Poeltenberg Remenyi
+		Rohr Schweidel Szechenyi Szemere Szlavic Tersztyansky Torok Varga Vecsey "von Benedek" }
 	}
 }
 
@@ -655,10 +715,10 @@ czecho_slovak_culture_group = {
 		Konstantin Ladislav Luvik Matyas Maxmilian Mikulas Olbram Otakar Pavel Petr
 		Radola Rafael Tomas Vaclav Vincenc Vitezslav Vlastimil Vojtech Vratislav Zdenek }
 
-		last_names = { Albert Balaban Basch Breisky Celovsk� Dvorak Fibich Gajda Gellner Halek
-		Hrdlicka Jirecek Kadlec Kafka Koller Krizkovsk� Kucera Kuchar Lederer Makosky
-		Mik Moravec Nemecek Neruda Novacek Novotn� Popper Radeck� Rokytansk� Safarik
-		Safranek Schack Schubert Skoda Skuhersk� Smetana Snejdarek Suk Svoboda Syrov�
+		last_names = { Albert Balaban Basch Breisky Celovsky Dvorak Fibich Gajda Gellner Halek
+		Hrdlicka Jirecek Kadlec Kafka Koller Krizkovsky Kucera Kuchar Lederer Makosky
+		Mik Moravec Nemecek Neruda Novacek Novotny Popper Radecky Rokytansky Safarik
+		Safranek Schack Schubert Skoda Skuhersky Smetana Snejdarek Suk Svoboda Syrovy
 		Tomasek Tyl Vitasek "von Mittrowitz-Nettolitzky" Vorisek Wankel Weber Zibrt Zivr Zoubek }
 	}
 	
@@ -671,7 +731,7 @@ czecho_slovak_culture_group = {
 		Rudolf Samuel Sergej Stefan Svtozar Tibor Tomas Viliam Vladimir Vojtech }
 
 		last_names = { Achim Bazlic Bella Benes Blaho Catlos Cikker Clementis Daxner Dubcek
-		Figus-Bystr� Freso Gojdic Golian Hlinka Hodza Hopko Hurban Hurban-Vajansk� Husak
+		Figus-Bystry Freso Gojdic Golian Hlinka Hodza Hopko Hurban Hurban-Vajansky Husak
 		Ivanka Kafenda Kardos Kocak Kupkovic Mach Macudzinski Malar Malovec Markovic
 		Masaryk Mory Moyses Razus Rohacek Rudnay Selepceni Sidor Skultety-Gabris Smik
 		Sokol Stefanik Suchon Sverma Tiso Trcka Tuka Turanec Viest Zoch }
@@ -750,16 +810,16 @@ baltic = {
 		color = {40 30 60}
 		first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
 		Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
-		Jaan Jakob Johannes Joosep Juhan Julius J�ri Kaarel Kalev Konstantin
+		Jaan Jakob Johannes Joosep Juhan Julius Juri Kaarel Kalev Konstantin
 		Lennart Ludvig Madis Mart Mikhel Nigul Olev Paavo Peeter Pent
-		Ragnar Siiri Sven Tarmo T�nis Toomas Uno Valmar Villwm Voldemar
+		Ragnar Siiri Sven Tarmo Tonis Toomas Uno Valmar Villwm Voldemar
 		}
 
-		last_names = { Aamisepp Aavik Adams Anvel Barbarus Bornh�he Eenpalu Hint Hurt Jaakson
-		Kangro Kint Klaasen Koern K�iv Kotli Kumari Kupine Kuusik Leppik
-		Lipping Lohk M�e M�nnil Moora Natus Nurkse Nurmekund �kva �pik
-		Orkivu P�ts Perna Piiper Poska Puusepp R�nk Rei Reinman Siinmaa
-		Sikkar Sirk T�nisson Uluots Vaga Veske Vilbaste Vilms "von Uexk�ll" Warma
+		last_names = { Aamisepp Aavik Adams Anvel Barbarus Bornhohe Eenpalu Hint Hurt Jaakson
+		Kangro Kint Klaasen Koern Koiv Kotli Kumari Kupine Kuusik Leppik
+		Lipping Lohk Mae Mannil Moora Natus Nurkse Nurmekund Okva Opik
+		Orkivu Pats Perna Piiper Poska Puusepp Rank Rei Reinman Siinmaa
+		Sikkar Sirk Tonisson Uluots Vaga Veske Vilbaste Vilms "von Uexkull" Warma
 		}
 	}
 	
@@ -1042,11 +1102,11 @@ central_asian = {
 	tibetan = {
 		color = {99 43 89}
 		first_names = { 
-			Tsarong Chamba Trimon Penor Gend�n Jamphel Norbhu Mipham Tsepon Andruk Namgang 
+			Tsarong Chamba Trimon Penor Gendun Jamphel Norbhu Mipham Tsepon Andruk Namgang 
 		}
 		
 		last_names = { 
-               Dzasa Wangyal Shatra Lungshar Rinpoche Ch�phel Shakabpa Tashi 
+               Dzasa Wangyal Shatra Lungshar Rinpoche Chophel Shakabpa Tashi 
 		}
 		radicalism = 10
 	}
@@ -1296,17 +1356,17 @@ southeast_asian = {
 			
 		}
 		
-		last_names = { Vong Kuman S�m Bun Supho Long Intharavong Anuvong
+		last_names = { Vong Kuman Som Bun Supho Long Intharavong Anuvong
                
 		}
 	}
 	shan = {
 		color = {76 122 90}
-		first_names = { Hswe Hs� Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu Natsu Pe Than Shwe Hpo Lun Sun
+		first_names = { Hswe Hso Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu Natsu Pe Than Shwe Hpo Lun Sun
 			
 		}
 		
-		last_names = { Cheng Kaw M�ng Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min
+		last_names = { Cheng Kaw Mong Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min
                
 		}
 	}
@@ -1401,14 +1461,14 @@ east_asian = {
 		color = {145 30 30}
 		first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu
 		}
-		last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye L� Tian Jiang Wei Ting Shen Fang Jin Qiu
+		last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye Lu Tian Jiang Wei Ting Shen Fang Jin Qiu
 		}
 	}
 	nanfaren = {
 		color = {181 106 106}
 		first_names = { Wang Li Zhang Liu Chen Huang Liang Luo Kwong Hsia Zhu Mao Hu Liao Tan Deng Cheng Yang Gao Xie Ma Kong Dong Pan Yu
 		}
-		last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye L� Tian Jiang Wei Ting Shen Fang Jin Qiu
+		last_names = { Zhao Wu Sun Ma Hu Peng Dong Ye Lu Tian Jiang Wei Ting Shen Fang Jin Qiu
 		}
 	}
 	korean = {
@@ -1447,6 +1507,14 @@ oceanic = {
 
 native_american = {
 	leader = nativeamerican
+	amazonian = {
+		color = {4 255 84}
+		first_names = { Aníbal Augusto Bento Bernardo César Daniel David Donato Duarte Ernesto
+		Estevão Fernando Francisco Gabriel Graciano Hugo João Julio Leopoldo Lucas
+		Miguel Nuno Óscar Rafael Roberto Sebastião Sergio Simão Vasco Zeferino }
+		last_names = { Arawá Arawak Bororo Garifuna Gê Guayaná Jeikó Kaingang Kalinago Kamakán
+		Karajá Kayapó Matsés Maxakalí Purí Timbira Xavante Xerente Xokieng Yanomamö }
+	}
 	mayan = {
 		color = {98 88 142}
 		first_names = { Agustin Akbal Alejandro Andres Anibal Antonio Armando Bernardo Carlos Crescencio
@@ -1546,7 +1614,7 @@ neo_european_cultures = {
 	}
 	french_canadian = { 
 		color = {168 195 255}
-		first_names = { Narcisse Rene �douard Luc Letellier Theodore Louis Francois Auguste Joseph Pierre Luis-Phillippe Jean Gaspard Eugene �ssioff Huguel Jean-Pierre Gilles
+		first_names = { Narcisse Rene Edouard Luc Letellier Theodore Louis Francois Auguste Joseph Pierre Luis-Phillippe Jean Gaspard Eugene Essioff Huguel Jean-Pierre Gilles
 		}
 		last_names = { Belleau Caron "de St.-Just" Robitaille Masson Angers Chapleau Jotte Pantaleon Langelier Damasne LeBlanc Brodeur Perodeau
 		}
@@ -1581,7 +1649,7 @@ latin_american_cultures = {
 		Ponciano Prospero Rafael Ramon Santiago Sebastian Tiburcio Tomas Toribio Victoriano
 		}
 
-		last_names = { Aguilar Andino Araujo Arbenz Barahona Barillas Barrios Caba�as Cardenas Carrera
+		last_names = { Aguilar Andino Araujo Arbenz Barahona Barillas Barrios Cabanas Cardenas Carrera
 		Castellanos Chamorro Chavez Corral Escalon Esquivel Estrada Ezeta Fernandez Ferrera
 		Figueroa Garrigo Guzman Hernandez Jerez Jimenez Leiva Lopez Machado Martinez
 		Medina Mejia Menendez Montes Montiel Morazan Palacios Peralta Quiros Regalado
@@ -1608,9 +1676,9 @@ latin_american_cultures = {
 	andean = {
 		color = {146 156 116}
 		first_names = { Antonio Camilo Carlos Cipriano Demetrio Diego Domingo Eloy Eusebio Eustorgio
-		Ezequiel Federico Fernando Florentino Franciso "Francisco Javier" "Francisco Jos�e" "Francisco de Paula" Froilan Gabriel
-		Gregorio Guillermo Gustavo Guzman Hilario Ignacio Jeronimo Joaquin Jorge "Jos�e Antonio"
-		"Jos�e Manuel" "Jos�e Maria" "Juan Jose" Juan Jose Julian Julio Leon Manuel Pedro Placido
+		Ezequiel Federico Fernando Florentino Franciso "Francisco Javier" "Francisco Jose" "Francisco de Paula" Froilan Gabriel
+		Gregorio Guillermo Gustavo Guzman Hilario Ignacio Jeronimo Joaquin Jorge "Jose Antonio"
+		"Jose Manuel" "Jose Maria" "Juan Jose" Juan Jose Julian Julio Leon Manuel Pedro Placido
 		Rafael Raimundo Ramon Ricardo Rodolfo Santiago Santos Tadeo Tomas Vicente
 		}
 
@@ -1684,32 +1752,32 @@ african_diaspora_cultures = {
 		Guillermo Gumersindo Ignacio Israel Jacinto Jaime "Jose Celso" Juan Luciano Mario
 		Maximo Nelson Nicolas Orestes Orlando Pedro Pio Ramon Ruben Wifredo }
 	
-		last_names = { Albizu Barbosa Barreto Bauza Diaz Eg�es Estupi�an Garay Gonzalez Guillen
+		last_names = { Albizu Barbosa Barreto Bauza Diaz Egues Estupinan Garay Gonzalez Guillen
 		Gutierrez Hurtado Jimenez Jorrin Lam Leyva Lopez Maceo More Morel
-		Peraza Perez Pi�eiro Pozo Repilado Rodriguez Santamaria Schomburg Valdes Villa }
+		Peraza Perez Pineiro Pozo Repilado Rodriguez Santamaria Schomburg Valdes Villa }
 	}
 	afro_brazilian = {
 		color = {25 115 44}
-		first_names = { Afonso Aleixo Alexandre Anderson Andre Artur C�ndido Carlos Denilson Djalma
-		Felix Francisco Guilherme Itamar Jo�o Joaquim Jorge Jose Kleber Leandro
+		first_names = { Afonso Aleixo Alexandre Anderson Andre Artur Candido Carlos Denilson Djalma
+		Felix Francisco Guilherme Itamar Joao Joaquim Jorge Jose Kleber Leandro
 		Luis Manuel Marco Marcos Mauricio Mauro Nilo Procopio Ricardo Ronaldo }
 	
-		last_names = { Arag�o Assun�ao Bahia Barbosa Borges "de Cruz e Sousa" "da Lima" "de Lima Barreto" "de Ouro" "de Sousa"
+		last_names = { Aragao Assuncao Bahia Barbosa Borges "de Cruz e Sousa" "da Lima" "de Lima Barreto" "de Ouro" "de Sousa"
 		"de Souza" "dos Reis" "dos Santos" Fidalgo Filho Gil Gomes "Machado de Assis" Nunes Oliveira
 		Otelo Paim Pandeiro Pe�anha Pereira Pitanga Rodrigues Santos Silva Teixeira }
 	}
 	afro_antillean = { 
 		color = {24 44 49}
 		first_names = { Alexis Andre Antenor Antoine Augustin Balthazar Beaubrun Celigny Charlemagne Charles
-		Cincinnatus Dant�s Demesvar Denys Emmanuel Eugene Fabre Faustin Florvil Fran�ois
+		Cincinnatus Dantes Demesvar Denys Emmanuel Eugene Fabre Faustin Florvil Francois
 		Guillaume Hannibal Henri Jacques Jean Jean-Baptiste Jean-Louis Jean-Pierre Jonathas Joseph
 		Leon Louis Louis-Eugene Louis-Joseph Lysius Michel Monpoint Nissage Nord Oreste
-		Philippe Pierre Simon Stenio Sylvain Tandred� Thomas Timoleon Tiresias Vilbrum }
+		Philippe Pierre Simon Stenio Sylvain Tandrede Thomas Timoleon Tiresias Vilbrum }
 	
 		last_names = { Alexis Ardouin Auguste Bellegarde Boisrond-Canal Bonnet Borno Boyer Brutus Christophe
 		Conze Dartiguenave Delorme Dessalines Domingue Firmin Geffrad Granville Guerrier Hyppolite
 		Iginac Janvier Jeune Lafontant Laleau Leconte Legitime Legouaze Leon Lherisson
-		Madiou Peralte Pierrot Planchet Price Price-Mars Riche Rigaud Rivi�re-Herard Roumain
+		Madiou Peralte Pierrot Planchet Price Price-Mars Riche Rigaud Riviere-Herard Roumain
 		Roy Saget Salnave Salomon Sam Simon Soulouque Theodore Vincent Zamor }
 	}
 

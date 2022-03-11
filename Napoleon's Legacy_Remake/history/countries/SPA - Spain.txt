@@ -13,7 +13,7 @@ civilized = yes
 prestige = 40
 
 # Political reforms
-slavery = yes_slavery
+slavery = no_slavery
 upper_house_composition = state_equal_weight
 vote_franschise = wealth_voting
 public_meetings = yes_meeting
@@ -68,9 +68,13 @@ water_wheel_power = 1
 publishing_industry = 1
 mechanized_mining = 1
 basic_chemistry = 1
+ideological_thought = 1
 
 #Inventions
 #corvettes = yes
+post_napoleonic_army_doctrine = yes
+
+schools = culture_tech_school
 
 # Starting Consciousness
 consciousness = 3

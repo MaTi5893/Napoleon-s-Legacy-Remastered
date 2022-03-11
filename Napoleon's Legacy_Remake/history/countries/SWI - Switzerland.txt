@@ -1,5 +1,6 @@
 capital = 605
-primary_culture = swiss
+primary_culture = south_german
+culture = north_italian
 religion = protestant
 government = democracy
 plurality = 25.0

@@ -1,5 +1,5 @@
-owner = MYS
-controller = MYS
+owner = DEN
+controller = DEN
 add_core = MYS
 add_core = HYD
 add_core = HND

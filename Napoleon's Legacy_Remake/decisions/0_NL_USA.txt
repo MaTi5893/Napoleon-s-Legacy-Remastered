@@ -7,6 +7,7 @@ political_decisions = {
 		}
 		allow = { 
 			CHE = { all_core = { owned_by = USA } }
+			ICF = { all_core = { owned_by = USA } }
    		}
 		effect = { 
 				USA_78 = { add_core = USA }

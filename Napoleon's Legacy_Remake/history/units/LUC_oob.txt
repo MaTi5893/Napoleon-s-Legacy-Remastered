@@ -2,11 +2,11 @@ army = {
 	name = "Esercito di Lucca"
 	
 	leader = {
-		name = "Carlo di Borbone-Parma"
+		name = "Big Chungus"
 		date = 1815.1.1
 		type = land
-		personality = defence_1.1
-		background = attack_1.1
+		personality = defence_5.1
+		background = attack_5.1
 		prestige = 0.5
 	}
 	

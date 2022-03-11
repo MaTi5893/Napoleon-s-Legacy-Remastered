@@ -1,8 +1,8 @@
 political_decisions = {
     form_nwe = {
+		picture = NWE_decision
         potential = {
 			OR = {
-				tag = SWE
 				tag = SCO
 				tag = ICL
 				tag = NOR
@@ -18,7 +18,10 @@ political_decisions = {
 					OR = {
 						owned_by = THIS
 						owner = {
-							in_sphere = THIS
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
 						}
 					}
 				}
@@ -38,27 +41,37 @@ political_decisions = {
 				}
 				add_core = NWE
 			}
-			any_country = {
-				limit = {
-					in_sphere = THIS
-					OR = {
-						tag = SCO
-						tag = NOR
-						tag = ICL
-						tag = ENG
-						tag = GBR
+			NWE = {
+				all_core = {
+					limit = {
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+					secede_province = THIS
+				}
+			}
+			NWE = {
+				all_core = {
+					add_province_modifier = {
+						name = cultural_unification
+						duration = 3650
 					}
 				}
-				annex_to = THIS
 			}
 			change_tag = NWE
 		}
     }
 	claim_england = {
+		picture = england_decision
 		potential = {
 			OR = {
 				tag = SCA
 				tag = NWE
+				tag = SCO
 			}
 			accepted_culture = british
 			NOT = {has_country_flag = claim_england}
@@ -66,13 +79,10 @@ political_decisions = {
 		allow = {
 			war = no
 			nationalism_n_imperialism=1
-			owns = 280
-			owns = 281
-			owns = 282
-			owns = 283
+			ENG_280 = {owned_by = THIS}
 		}
 		effect = {
-			GBR = {
+			ENG = {
 				all_core = {
 					add_core = THIS
 				}
@@ -83,6 +93,7 @@ political_decisions = {
 		}
 	}
 	irish_question = {
+		picture = ireland_decision
 		potential = {
 			OR = {
 				tag = NWE
@@ -96,7 +107,6 @@ political_decisions = {
 			revolution_n_counterrevolution=1
 			OR = {
 				IRE = {vassal_of = THIS}
-				IRE = {in_sphere = THIS}
 				IRE = {
 					all_core = {
 						owned_by = THIS
@@ -111,18 +121,26 @@ political_decisions = {
 				}
 			}
 			prestige = 5
-			IRE = {annex_to =THIS}
+			add_accepted_culture = irish
+			random_country = { 
+					limit = { 
+						tag = IRE 						 
+						vassal_of = THIS 
+					}
+				annex_to = THIS
+			}
 			set_country_flag = irish_question 
 		}
 	}
 	we_are_vikings = {
+		picture = vikings_decision
 		potential = {
 			OR = {
 				tag = NWE
 				tag = SCA
 			}
 			accepted_culture=british
-			GBR = {
+			ENG = {
 				all_core = {
 					owned_by = THIS
 				}

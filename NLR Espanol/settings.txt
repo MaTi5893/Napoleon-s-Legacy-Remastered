@@ -1,0 +1,17 @@
+gui=
+{
+language=l_spanish
+}
+graphics=
+{
+shadows=no
+shadowSize=2048
+multi_sampling=0
+anisotropic_filtering=0
+fullscreen=no
+borderless=yes
+}
+sound_fx_volume=40.000000
+music_volume=40.000000
+master_volume=40.000000
+ambient_volume=40.000000

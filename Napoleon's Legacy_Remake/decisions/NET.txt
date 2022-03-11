@@ -23,32 +23,4 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	begin_cultuurstelsel = { #Originally modified from VIP
-		potential = {
-			tag = NET
-			owns = 1413 #Batavia
-			NOT = {
-				has_country_flag = batavia_reborn
-			}
-		}
-		allow = {
-			money = 50000
-		}
-
-		effect = {
-			treasury = -50000
-			prestige = 5
-			set_country_flag = batavia_reborn
-			1413 = {
-				add_province_modifier = {
-					name = cultuurstelsel
-					duration = -1
-				}
-			life_rating = 5
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
 }

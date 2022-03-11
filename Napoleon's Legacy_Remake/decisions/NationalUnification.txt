@@ -201,6 +201,7 @@ political_decisions = {
 					is_culture_group = italian
 					is_culture_group = arab
 					is_culture_group = south_slavic
+					is_culture_group = polish_culture_group
 					tag = ECU
 					tag = CLM
 					tag = VNZ
@@ -310,6 +311,8 @@ political_decisions = {
 			NOT = {
 				exists = ITA
 			}
+			NOT = {accepted_culture = greek}
+			NOT = {accepted_culture = occitan}
 		}
 		
 		allow = {
@@ -334,6 +337,7 @@ political_decisions = {
 			capital = 749
 			add_accepted_culture = north_italian
 			add_accepted_culture = south_italian
+			add_accepted_culture = cisalpine
 			any_country = {
 				limit = {
 					is_culture_group = italian
@@ -361,7 +365,6 @@ political_decisions = {
 			}
 			NOT = {tag=BLE}
 			NOT = {tag=NWE}
-			NOT = { has_country_flag = stormaktstiden }
 		}
 		
 		allow = {
@@ -523,7 +526,10 @@ political_decisions = {
 			any_country = {
 				limit = {
 					vassal_of = THIS
-					primary_culture = andean
+					OR = {
+						primary_culture = north_andean
+						primary_culture = south_andean
+					}
 					NOT = { tag = BOL tag = PEU }
 				}
 				annex_to = THIS

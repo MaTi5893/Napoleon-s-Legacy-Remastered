@@ -1,6 +1,7 @@
-owner = ENG
-controller = ENG add_core = INO
+owner = GBR
+controller = GBR add_core = INO
 add_core = JAV
 trade_goods = sulphur
 life_rating = 30
 colonial = 2
+naval_base = 1

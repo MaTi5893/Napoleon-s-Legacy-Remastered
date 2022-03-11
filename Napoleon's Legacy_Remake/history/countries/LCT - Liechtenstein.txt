@@ -1,6 +1,5 @@
 capital = 3252
-primary_culture = swiss
-culture = south_german
+primary_culture = south_german
 religion = protestant
 government = prussian_constitutionalism
 plurality = 25

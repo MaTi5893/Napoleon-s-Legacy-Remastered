@@ -25,7 +25,7 @@ political_decisions = {
             owns = 693
             owns = 696
             owns = 695
-            owns = 597
+            owns = 697
             owns = 698
         }
         effect = {
@@ -48,7 +48,7 @@ political_decisions = {
             add_core = 693
             add_core = 696
             add_core = 695
-            add_core = 597
+            add_core = 697
             add_core = 698
         }   
     }

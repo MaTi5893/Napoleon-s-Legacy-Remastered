@@ -11,32 +11,22 @@ form_celtic_union = {
 			is_independant = yes 
 		}	
 		allow = {
-			rank = 16
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			state_n_government = 1
 			war = no
 			IRE = {
 				all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
+						owned_by = THIS
 					}	
 				}
 			SCO = {
 				all_core = {
-						OR = {
-							owned_by = THIS
-							owner = {
-								in_sphere = THIS
-							}
-						}
+						owned_by = THIS
 					}	
-				}	
-			owns = 276
-			owns = 275
-			owns = 273
-			owns = 274	
+				}
 			}	
 		effect = {
 			prestige = 10
@@ -44,7 +34,6 @@ form_celtic_union = {
 				limit = {
 					tag = SCO 
 				}
-		
 				annex_to = THIS
 			}
 			any_country = {
@@ -52,48 +41,73 @@ form_celtic_union = {
 					tag = IRE
 					
 				}
-		
 				annex_to = THIS
 			}
 			any_owned = {
 				limit = {
 					OR = { 
 						is_core = SCO
-						is_core = IRE 
-						province_id = 273
-						province_id = 274
-						province_id = 275
-						province_id = 276
+						is_core = IRE
 					}
 				}
-			add_core = CEL
-			remove_core = GBR		#remove GBR cores to remove the assimilation debuff 
+				add_core = CEL
+			}
+			CEL = {
+				all_core = {
+					add_province_modifier = {
+						name = cultural_unification
+						duration = 3650
+					}
+				}
 			}
 			change_tag = CEL
 			add_accepted_culture = Scotish
+			add_accepted_culture = irish
 		}
 		ai_will_do = {
 			factor = 1
 		}
 	}
-	finish_what_we_started = { 
-			picture = cornwallandmann
-			potential = { 
-				tag = CEL
-				NOT = { has_country_flag = cornwallandmann }
+	welsh_patriots = { 
+		picture = wales_decision
+		potential = { 
+			tag = CEL
+			NOT = { accepted_culture = welsh }
 		}
-			allow = { 
-				has_unclaimed_cores = no 
-				invention = manifest_destiny
-				}
-			effect = {
-				badboy = 7
-				add_core = 299
-				add_core = 304 
-				add_core = 277
-				set_country_flag = cornwallandmann
-				}
+		allow = { 
+			all_core = {
+				owned_by = THIS
 			}
+			war = no
+			ENG_273 = {owned_by = THIS}
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			ENG_273 = {add_core = THIS}
+			prestige = 10
+			add_accepted_culture = welsh
+		}
+	}
+	finish_what_we_started = { 
+		picture = cornwallandmann
+		potential = { 
+			tag = CEL
+			NOT = { accepted_culture = cymry }
+		}
+		allow = { 
+			all_core = {
+				owned_by = THIS
+			}
+			war = no
+			ENG_296 = {owned_by = THIS}
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			add_accepted_culture = cymry
+			ENG_296 = {add_core = THIS}
+			prestige = 10
+		}
+	}
 		
 	recover_brittany = { 		
 			picture = brittany
@@ -102,15 +116,16 @@ form_celtic_union = {
 				NOT = { has_country_flag = recover_brittany }	
 			}
 			allow = { 
+				all_core = {
+					owned_by = THIS
+				}	
+				war = no
+				FRA_420 = {owned_by = THIS}
 				revolution_n_counterrevolution = 1
 			}
 			effect = {
-				badboy = 5
-				add_core = 420
-				add_core = 421
-				add_core = 423
-				add_core = 424
-				add_core = 422
+				add_accepted_culture = breton
+				FRA_420 = {owned_by = THIS}
 				set_country_flag = recover_brittany
 			}
 	}

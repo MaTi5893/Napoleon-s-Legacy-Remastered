@@ -1,6 +1,6 @@
 leader = {
-	name = "Antonio López de Santa Anna"
-	picture = mex_gen_santaanna
+	name = "Antonio Lï¿½pez de Santa Anna"
+	#picture = mex_gen_santaanna
 	type = land
 	date="1821.1.1"
 	personality = defence_1.1
@@ -9,8 +9,8 @@ leader = {
 }
 
 leader = {
-	name = "Martín de Cos"
-	picture = mex_gen_cos
+	name = "Martï¿½n de Cos"
+	#picture = mex_gen_cos
 	type = land
 	date="1833.1.1"
 	personality = defence_1.1
@@ -19,8 +19,8 @@ leader = {
 }
 
 leader = {
-	name = "José de Urrea"
-	picture = mex_gen_urrea
+	name = "Josï¿½ de Urrea"
+	#picture = mex_gen_urrea
 	type = land
 	date="1835.1.1"
 	personality = defence_1.1
@@ -28,8 +28,8 @@ leader = {
 }
 
 leader = {
-	name = "Vicente Filísola"
-	picture = mex_gen_filisola
+	name = "Vicente Filï¿½sola"
+	#picture = mex_gen_filisola
 	type = land
 	date="1822.1.1"
 	personality = defence_1.1
@@ -39,7 +39,7 @@ leader = {
 
 leader = {
 	name = "Anastasio Bustamante"
-	picture = mex_gen_bustamante
+	#picture = mex_gen_bustamante
 	type = land
 	date="1822.1.1"
 	personality = defence_1.1
@@ -49,7 +49,7 @@ leader = {
 
 leader = {
 	name = "Mariano Arista"
-	picture = mex_gen_arista
+	#picture = mex_gen_arista
 	type = land
 	date="1830.1.1"
 	personality = defence_1.1
@@ -58,8 +58,8 @@ leader = {
 }
 
 leader = {
-	name = "Juan Álvarez"
-	picture = mex_gen_alvarez
+	name = "Juan ï¿½lvarez"
+	#picture = mex_gen_alvarez
 	type = land
 	date="1830.1.1"
 	personality = defence_1.1
@@ -68,8 +68,8 @@ leader = {
 }
 
 leader = {
-	name = "Valentín Canalizo"
-	picture = mex_gen_canalizo
+	name = "Valentï¿½n Canalizo"
+	#picture = mex_gen_canalizo
 	type = land
 	date="1835.1.1"
 	personality = defence_1.1
@@ -77,8 +77,8 @@ leader = {
 }
 
 leader = {
-	name = "José Joaquín de Herrera"
-	picture = mex_gen_herrera
+	name = "Josï¿½ Joaquï¿½n de Herrera"
+	#picture = mex_gen_herrera
 	type = land
 	date="1821.1.1"
 	personality = defence_1.1
@@ -87,8 +87,8 @@ leader = {
 }
 
 leader = {
-	name = "José Mariano Salas"
-	picture = mex_gen_salas
+	name = "Josï¿½ Mariano Salas"
+	#picture = mex_gen_salas
 	type = land
 	date="1836.1.1"
 	personality = defence_1.1
@@ -97,7 +97,7 @@ leader = {
 
 leader = {
 	name = "Mariano Paredes"
-	picture = mex_gen_paredes
+	#picture = mex_gen_paredes
 	type = land
 	date="1832.1.1"
 	personality = defence_1.1
@@ -105,8 +105,8 @@ leader = {
 }
 
 leader = {
-	name = "Adrián Woll"
-	picture = mex_gen_woll
+	name = "Adriï¿½n Woll"
+	#picture = mex_gen_woll
 	type = land
 	date="1832.1.1"
 	personality = defence_1.1
@@ -118,38 +118,33 @@ army = {
 	location = 2159
 	regiment = {
 		name= "1111.Division Cos"
-		type = artillery
+		type = infantry
 		home = 2172
 	}
 	
 	regiment = {
 		name= "11.Division Cos"
-		type = artillery
+		type = infantry
 		home = 2174
 	}
 
 	regiment = {
 		name= "21.Division Cos"
-		type = artillery
+		type = infantry
 		home = 2174
 	}
 
 	regiment = {
 		name= "31.Division Cos"
-		type = artillery
+		type = infantry
 		home = 2174
 	}
 
 	regiment = {
 		name= "11.Oajaca y Tlaxcala"
-		type = artillery
+		type = hussar
 		home = 2177
 	}
-}
-
-army = {
-	name = "Artillery 2"
-	location = 2163
 	
 	regiment = {
 		name= "23.Oajaca y Tlaxcala"
@@ -186,12 +181,102 @@ navy = {
 	name = "Armada de Mexico"
 	location = 2162
 	ship = {
+		name= "Campechana"
+		type = manowar
+	}
+
+	ship = {
+		name= "Morales"
+		type = manowar
+	}
+
+	ship = {
+		name= "Nicolas Bravo"
+		type = manowar
+	}
+
+	ship = {
 		name= "Vencedor del Alamo"
 		type = frigate
 	}
 
 	ship = {
+		name= "Chihuahua"
+		type = frigate
+	}
+
+	ship = {
+		name= "Veracruz"
+		type = frigate
+	}
+
+	ship = {
+		name= "Durango"
+		type = frigate
+	}
+
+	ship = {
+		name= "Democrata"
+		type = frigate
+	}
+
+	ship = {
+		name= "California"
+		type = frigate
+	}
+
+	ship = {
+		name= "Mexicali"
+		type = frigate
+	}
+
+	ship = {
 		name= "Matilda"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Teotihaucan"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Azcapotzalco"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Nahua"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Olmec"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Rio Grande"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Corralero"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Usumacinta"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Tiltepec"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Pastoria"
 		type = clipper_transport
 	}
 

@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = GBR
+controller = GBR
 add_core = JAV
 trade_goods = tea
 life_rating = 30

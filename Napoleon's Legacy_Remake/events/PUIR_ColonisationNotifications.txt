@@ -1,11 +1,25 @@
 # Events to remind the player about colonisation dates
+country_event = { 
+		
+	id = 200009
+	is_triggered_only = yes
+	allow_multiple_instances = yes
+	
+	title = "EVTNAME200010"
+	desc = "EVTDESC200010"
+	picture = "colonial_uprising"
+	
+	option = { 
+		name = "EVTOPTA200010"
+		prestige = 1
+	}
+}
 country_event = {
 
 	id = 200010 
 
 	trigger = {
-		ai = no
-		year = 1836
+		tag = LCT
 	}
  
 	fire_only_once = yes
@@ -27,19 +41,27 @@ country_event = {
 	desc = "EVTDESC200010"
 	picture = "colonial_uprising"
 
+	immediate = { 	
+		any_country = { 
+			limit = { 
+				NOT = { tag = LCT } 	
+				ai = no 
+			}
+		country_event = 200009
+		}
+	}
+
 	option = {
 		name = "EVTOPTA200010"  
 		prestige = 1
 	}
 }
-
-# Events to remind the player about colonisation dates
 country_event = {
 
 	id = 200011 
 
 	trigger = {
-		ai = no
+		tag = LCT
 		year = 1870
 	}
  
@@ -62,6 +84,16 @@ country_event = {
 	desc = "EVTDESC200010"
 	picture = "colonial_uprising"
 
+	immediate = { 	
+		any_country = { 
+			limit = { 
+				NOT = { tag = LCT } 	
+				ai = no 
+			}
+		country_event = 200009
+		}
+	}
+ 
 	option = {
 		name = "EVTOPTA200010"  
 		prestige = 1
