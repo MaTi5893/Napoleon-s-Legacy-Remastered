@@ -41,7 +41,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 9925
+		size = 15000
 	}
 
 	aristocrats = {
@@ -71,7 +71,7 @@
 	farmers = {
 		culture = native_american_minor
 		religion = animist
-		size = 7325
+		size = 8000
 	}
 }
 #Nogales (12000/3000 POPS)
@@ -85,7 +85,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 20
+		size = 100
 	}
 
 	artisans = {
@@ -103,7 +103,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 895
+		size = 2000
 	}
 
 	aristocrats = {
@@ -147,7 +147,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 100
+		size = 300
 	}
 
 	artisans = {
@@ -165,7 +165,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 9050
+		size = 15000
 	}
 
 	aristocrats = {
@@ -229,7 +229,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 895
+		size = 3000
 	}
 }
 #Rosarito (16000/4000 POPS)
@@ -273,7 +273,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 1750
+		size = 4000
 	}
 
 	aristocrats = {
@@ -319,7 +319,7 @@
 	bureaucrats = {
 		culture = mexican
 		religion = catholic
-		size = 35
+		size = 500
 	}
 
 	officers = {
@@ -331,7 +331,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 225
+		size = 1000
 	}
 
 	artisans = {
@@ -343,13 +343,13 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 225
+		size = 1000
 	}
 
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 19945
+		size = 30000
 	}
 
 	aristocrats = {
@@ -411,7 +411,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 2700
+		size = 5000
 	}
 }
 #Delicias (8000/2000 POPS)
@@ -443,7 +443,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 1750
+		size = 4000
 	}
 }
 #Parral (16000/4000 POPS)
@@ -457,7 +457,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 20
+		size = 300
 	}
 
 	artisans = {
@@ -469,13 +469,13 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 10
+		size = 500
 	}
 
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 895
+		size = 4000
 	}
 
 	aristocrats = {
@@ -521,7 +521,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 50
+		size = 500
 	}
 
 	artisans = {
@@ -533,13 +533,13 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 25
+		size = 400
 	}
 
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 2700
+		size = 20000
 	}
 }
 #Saltillo (44000/11000 POPS)
@@ -553,7 +553,7 @@
 	bureaucrats = {
 		culture = mexican
 		religion = catholic
-		size = 50
+		size = 200
 	}
 
 	officers = {
@@ -565,7 +565,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 75
+		size = 400
 	}
 
 	artisans = {
@@ -577,13 +577,13 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 75
+		size = 1000
 	}
 
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 7115
+		size = 30000
 	}
 
 	clergymen = {
@@ -633,13 +633,13 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 125
+		size = 800
 	}
 
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 10875
+		size = 30000
 	}
 }
 #Torreon (56000/14000 POPS)
@@ -671,7 +671,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 9925
+		size = 20000
 	}
 
 	clergymen = {
@@ -711,7 +711,7 @@
 	bureaucrats = {
 		culture = mexican
 		religion = catholic
-		size = 50
+		size = 1000
 	}
 
 	officers = {
@@ -723,7 +723,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 200
+		size = 2000
 	}
 
 	artisans = {
@@ -735,13 +735,13 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 200
+		size = 2000
 	}
 
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 17000
+		size = 40000
 	}
 
 	clergymen = {
@@ -779,7 +779,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 75
+		size = 500
 	}
 
 	artisans = {
@@ -791,13 +791,13 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 50
+		size = 400
 	}
 
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 3575
+		size = 30000
 	}
 }
 #Matamoros (28000/7000 POPS)
@@ -829,7 +829,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 6325
+		size = 20000
 	}
 }
 #Ciudad Victoria (24000/6000 POPS)
@@ -861,7 +861,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 5450
+		size = 20000
 	}
 }
 #Durango-Sinaloa Region (252000)
@@ -877,7 +877,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 150
+		size = 500
 	}
 
 	artisans = {
@@ -889,13 +889,13 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 150
+		size = 600
 	}
 
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 12650
+		size = 25000
 	}
 
 	aristocrats = {
@@ -939,7 +939,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 75
+		size = 500
 	}
 
 	artisans = {
@@ -957,7 +957,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 8250
+		size = 15000
 	}
 
 	aristocrats = {
@@ -1013,7 +1013,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 275
+		size = 500
 	}
 
 	artisans = {
@@ -1025,13 +1025,13 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 300
+		size = 700
 	}
 
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 26200
+		size = 40000
 	}
 }
 #Culiacan (28000/7000 POPS)
@@ -1063,7 +1063,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 6325
+		size = 10000
 	}
 }
 #Zacatecas-Aguascalientes Region (568000)
@@ -1079,7 +1079,7 @@
 	bureaucrats = {
 		culture = mexican
 		religion = catholic
-		size = 225
+		size = 2000
 	}
 
 	officers = {
@@ -1091,7 +1091,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 425
+		size = 2000
 	}
 
 	artisans = {
@@ -1103,13 +1103,13 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 425
+		size = 1000
 	}
 
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 35175
+		size = 40000
 	}
 
 	clergymen = {
@@ -1133,7 +1133,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 40200
+		size = 50000
 	}
 }
 #Aguascalientes (152000/38000 POPS)
@@ -1147,7 +1147,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 375
+		size = 1000
 	}
 
 	artisans = {
@@ -1159,13 +1159,13 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 400
+		size = 1000
 	}
 
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 34850
+		size = 50000
 	}
 }
 #Tepic (76000/19000 POPS)
@@ -1197,7 +1197,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 15175
+		size = 20000
 	}
 
 	clergymen = {
@@ -1237,7 +1237,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 475
+		size = 1000
 	}
 
 	artisans = {
@@ -1249,13 +1249,13 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 500
+		size = 1000
 	}
 
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 48500
+		size = 60000
 	}
 
 	clergymen = {
@@ -1293,7 +1293,7 @@
 	bureaucrats = {
 		culture = mexican
 		religion = catholic
-		size = 575
+		size = 1000
 	}
 
 	officers = {
@@ -1305,7 +1305,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 625
+		size = 1000
 	}
 
 	artisans = {
@@ -1347,7 +1347,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 98300
+		size = 120000
 	}
 }
 #Queretaro (360000/90000 POPS)
@@ -1379,7 +1379,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 24000
+		size = 40000
 	}
 
 	clergymen = {
@@ -1449,7 +1449,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 1600
+		size = 20000
 	}
 
 	clergymen = {
@@ -1553,7 +1553,7 @@
 	farmers = {
 		culture = native_american_minor
 		religion = catholic
-		size = 16850
+		size = 25000
 	}
 }
 #Minatitlan (48000/12000 POPS)
@@ -1567,7 +1567,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 75
+		size = 2000
 	}
 
 	artisans = {
@@ -1579,13 +1579,13 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 25
+		size = 1000
 	}
 
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 600
+		size = 60000
 	}
 
 	clergymen = {
@@ -1641,7 +1641,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 2375
+		size = 15000
 	}
 	
 	clergymen = {
@@ -1723,7 +1723,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 48875
+		size = 60000
 	}
 
 	clergymen = {
@@ -1779,7 +1779,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 21550
+		size = 30000
 	}
 
 	clergymen = {
@@ -1819,7 +1819,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 275
+		size = 1000
 	}
 
 	artisans = {
@@ -1831,13 +1831,13 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 275
+		size = 1000
 	}
 
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 24525
+		size = 60000
 	}
 }
 #Morelia (348000/87000 POPS)
@@ -1851,7 +1851,7 @@
 	bureaucrats = {
 		culture = mexican
 		religion = catholic
-		size = 225
+		size = 2000
 	}
 
 	officers = {
@@ -1863,7 +1863,7 @@
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 500
+		size = 2000
 	}
 
 	artisans = {
@@ -1875,7 +1875,7 @@
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 525
+		size = 3000
 	}
 
 	farmers = {
@@ -1905,7 +1905,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 33650
+		size = 80000
 	}
 }
 #Los Alaniles (112000/28000 POPS)
@@ -1937,7 +1937,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 18025
+		size = 20000
 	}
 
 	clergymen = {
@@ -1971,25 +1971,25 @@
 	aristocrats = {
 		culture = mexican
 		religion = catholic
-		size = 1650
+		size = 2000
 	}
 
 	bureaucrats = {
 		culture = mexican
 		religion = catholic
-		size = 350
+		size = 3000
 	}
 
 	officers = {
 		culture = mexican
 		religion = catholic
-		size = 225
+		size = 1000
 	}
 
 	clergymen = {
 		culture = mexican
 		religion = catholic
-		size = 775
+		size = 4000
 	}
 
 	artisans = {
@@ -2013,19 +2013,19 @@
 	craftsmen = {
 		culture = mexican
 		religion = catholic
-		size = 8000
+		size = 20000
 	}
 	
 	soldiers = {
 		culture = mexican
 		religion = catholic
-		size = 800
+		size = 8000
 	}
 
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 45250
+		size = 80000
 	}
 
 	clergymen = {
@@ -2093,7 +2093,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 9800
+		size = 15000
 	}
 
 	clergymen = {

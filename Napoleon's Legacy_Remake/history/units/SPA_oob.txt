@@ -1,42 +1,34 @@
 #Sphere of Influence
 MEX = {
-	value = 150 	#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	value = 100	
 	influence_value = 25
 }
 ECU = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	value = 100	
 	influence_value = 25
 }
 PEU = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	value = 100	
 	influence_value = 25
 }
 BOL = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	value = 100	
 	influence_value = 25
 }
 CHL = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	value = 100	
 	influence_value = 25
 }
 PRG = {
-	value = 100		#relation
-	level = 3		#3=cordial, 4 = friendly, 5 sphere
+	value = 100	
 	influence_value = 25
 }
 UCA = {
-	value = 150		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	value = 100	
 	influence_value = 25
 }
-GCO = {
-	value = 150		#relation
-	level = 5		#3=cordial, 4 = friendly, 5 sphere
+CLM = {
+	value = 100	
 	influence_value = 25
 }
 FRA = {

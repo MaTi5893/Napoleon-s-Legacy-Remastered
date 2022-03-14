@@ -13,6 +13,13 @@ UKR = {
 	influence_value = 50
 }
 
+PRU = {
+
+	value = 150
+	level = 5
+	influence_value = 50
+}
+
 SER = {
 	
 	value = 125
@@ -22,14 +29,7 @@ SER = {
 
 
 PLC = {
-	value = -100
-}
-CHI = {
-	value = 75
-}
-
-PRU = {
-	value = 125
+	value = -150
 }
 
 AUS = {
@@ -37,7 +37,7 @@ AUS = {
 }
 
 ENG = {
-	value = 0
+	value = 50
 }
 
 FRA = {
@@ -45,11 +45,11 @@ FRA = {
 }
 
 TUR = {
-	value = 25
+	value = -75
 }
 
 SPA = {
-	value = 0
+	value = -100
 }
 
 USA = {
@@ -58,7 +58,7 @@ USA = {
 
 DEN = {
 	
-	value = 0
+	value = -50
 }
 
 leader = {

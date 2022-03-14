@@ -1,0 +1,196 @@
+political_decisions = {
+	portuguese_civil_code = {
+		picture = enact_the_homestead_act
+		potential = {
+			OR = {
+				tag = POR
+				tag = UPB
+			}
+			state_n_government = 1
+			NOT = { has_country_flag = portuguese_civil_code }
+		}
+
+		allow = {
+			nationalism_n_imperialism = 1
+		}
+
+		effect = {
+			set_country_flag = portuguese_civil_code
+			prestige = 10
+			any_pop = {
+				limit = {
+					location = { is_colonial = no }
+				}
+				militancy = -3
+				consciousness = 1
+			}	
+		}
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+    the_regenerador = {
+		potential = {
+			OR = {
+				tag = POR
+				tag = UPB
+			}
+			NOT = { has_global_flag = portuguese_regeneration }
+			year = 1851
+			NOT = { year = 1875 }
+		}
+		allow = {
+			OR = {
+				average_militancy = 3
+				any_owned_province = {
+					average_militancy = 5
+				}
+				521 = { controlled_by_rebels = yes } #Lisbon
+				518 = { controlled_by_rebels = yes } #Oporto
+				522 = { controlled_by_rebels = yes } #Coimbra
+				519 = { controlled_by_rebels = yes } #Vila Real
+				520 = { controlled_by_rebels = yes } #Covilha
+				525 = { controlled_by_rebels = yes } #Evora
+				empiricism = 1
+			}
+			OR = {
+				AND = {
+					ruling_party = POR_conservative_2
+					state_n_government = 1
+				}
+				NOT = { ruling_party = POR_conservative_2 }
+			}
+		}
+		effect = {
+			set_global_flag = portuguese_regeneration
+			ruling_party_ideology = conservative
+			nationalvalue = nv_liberty
+			any_pop = {
+				limit = {
+					culture = portuguese
+				}
+					militancy = -3
+			}
+			define_general = {
+				name = "Joao Carlos de Saldanha"
+				#picture = por_gen_saldanha
+				personality = defence_3.1
+				background = attack_3.1
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	instituto_industrial_de_lisboa = {
+		potential = {
+			has_global_flag = portuguese_regeneration
+			NOT = { has_country_flag = portuguese_regeneration2 }
+		}
+		allow = {
+			money = 3000
+		}
+		effect = {
+			set_country_flag = portuguese_regeneration2
+			treasury = -3000
+			prestige = 5
+			POR_521 = { 
+				infrastructure = 1
+			}
+			add_country_modifier = {
+				name = instituto_industrial_lisboa
+				duration = 7300
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	escola_industrial_do_porto = {
+		potential = {
+			has_country_flag = portuguese_regeneration
+			NOT = { has_country_flag = portuguese_regeneration3 }
+		}
+		allow = {
+			money = 3000
+		}
+		effect = {
+			set_country_flag = portuguese_regeneration3
+			treasury = -3000
+			prestige = 5
+			research_points = 300
+			add_country_modifier = {
+				name = escola_industrial_porto
+				duration = 7300
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+    form_UPB = {
+		picture = upb_decision
+		potential = {
+			OR = {
+				tag = BRZ
+				tag = POR
+			}
+			NOT = { exists = UPB }
+		}
+		
+		allow = {
+			war = no
+			POR = { 
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			BRZ = {
+				all_core = {
+                    owned_by = THIS
+                }
+			}
+			owns = 2447 #Rio De Janeiro
+			owns = 2436 #Salvador De Bahia
+			owns = 2432 #Recife
+			
+		}
+		effect = {
+			POR = { 
+				all_core = {
+					add_core = UPB
+				}
+			}
+			BRZ = {
+				all_core = {
+                    add_core = UPB
+                }
+			}
+			prestige = 30
+			add_accepted_culture = brazilian
+			add_accepted_culture = afro_brazilian
+            add_accepted_culture = portuguese
+			all_core = {
+                add_province_modifier = {
+                    name = cultural_unification
+                    duration = 3650
+                }
+            }
+			change_tag = UPB
+			any_pop = {
+				limit = { is_primary_culture = yes }
+				ideology = {
+					value = reactionary
+					factor = 0.15
+				}
+				ideology = {
+					value = anarcho_liberal
+					factor = 0.15
+				}
+				consciousness = 1
+				militancy = 1
+			}
+		}
+	}
+}

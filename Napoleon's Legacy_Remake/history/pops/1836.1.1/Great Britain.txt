@@ -162,7 +162,7 @@
 	soldiers = {
 		culture = Scotish
 		religion = protestant
-		size = 2000
+		size = 5000
 	}
 
 	farmers = {
@@ -286,7 +286,7 @@
 	soldiers = {
 		culture = Scotish
 		religion = protestant
-		size = 4000
+		size = 6000
 	}
 
 	farmers = {
@@ -1567,7 +1567,7 @@
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 1500
+		size = 3000
 	}
 
 	labourers = {
@@ -1625,7 +1625,7 @@
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 1500
+		size = 3000
 	}
 
 	labourers = {
@@ -1663,7 +1663,7 @@
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 1100
+		size = 3000
 	}
 
 	labourers = {
@@ -1733,7 +1733,7 @@
 	soldiers = {
 		culture = cymry
 		religion = protestant
-		size = 1100
+		size = 4000
 	}
 
 	labourers = {
@@ -1777,7 +1777,7 @@
 	soldiers = {
 		culture = cymry
 		religion = protestant
-		size = 1100
+		size = 4000
 	}
 
 	labourers = {
@@ -1821,7 +1821,7 @@
 	soldiers = {
 		culture = cymry
 		religion = protestant
-		size = 1100
+		size = 4000
 	}
 
 	labourers = {
@@ -1865,7 +1865,7 @@
 	soldiers = {
 		culture = cymry
 		religion = protestant
-		size = 1500
+		size = 8000
 	}
 
 	labourers = {
@@ -2037,7 +2037,7 @@
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 9000
+		size = 24000
 	}
 
 	labourers = {
@@ -2143,7 +2143,7 @@
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 1100
+		size = 4000
 	}
 
 	labourers = {
@@ -2193,7 +2193,7 @@
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 1100
+		size = 4000
 	}
 
 	labourers = {

@@ -1,6 +1,6 @@
-owner = GCO
-controller = GCO
+owner = VNZ
+controller = VNZ
 add_core = GCO
 add_core = VNZ
 trade_goods = iron
-life_rating = 30
+life_rating = 35

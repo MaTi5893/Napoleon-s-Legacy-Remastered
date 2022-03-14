@@ -40,7 +40,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size = 2500
+		size = 8000
 	}
 
 	farmers = {
@@ -104,7 +104,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size = 1500
+		size = 7000
 	}
 
 	farmers = {
@@ -192,7 +192,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size = 3000
+		size = 4500
 	}
 
 	farmers = {
@@ -224,7 +224,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size = 2000
+		size = 5000
 	}
 
 	farmers = {
