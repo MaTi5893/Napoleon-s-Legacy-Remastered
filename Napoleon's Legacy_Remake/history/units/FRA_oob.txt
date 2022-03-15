@@ -4,6 +4,11 @@ IRE = {
 	level = 5
 	influence_value = 15
 }
+NET = { 
+	value = 125
+	level = 5
+	influence_value = 15
+}
 HAN = {
 	value = 125
 	level = 5

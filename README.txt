@@ -7,24 +7,6 @@ https://github.com/elisandreo/Napoleon-s-Legacy-Remastered/tree/main/Napoleon's%
 The lore of the mod : 
 https://github.com/elisandreo/Napoleon-s-Legacy-Remastered/tree/main/Napoleon's%20Legacy_Remake/Napoleon's-Europe.md
 
-<<<<<<< HEAD
-Credit to: 
-Abraham Lincoln (and GFM team): letting me use some stuff from their mod
-Nurse Reno: made IGoR PUIR, which this mod was built on 
-God of Cheese: Made GoC PUIR, which IGoR was built on
-Icendoan: Made Icen PUIR, which GoC was built on 
-SighPie: appropriated HFM content may or may not be found in this mod :walterstuff:
-Sveera: Original creator of Napoleon's Legacy
-Bearabia: Creator of Columbia Divided, let me take a tag from him (https://discord.gg/YAE8C29W2n)
-
-
-
-###The NLR Low Res submod changes the terrain textures to be smaller, therefore saving on performance and RAM usage, while still looking... passable, to me.###
-##You need to enable both the submod and NLR itself in the launcher. The submod does not affect the checksum.						    ##
-#I'm not sure if there will be any further submods, this one is just a thing because I know some people might not like that the terrain looks worse.	    #
-
-=======
->>>>>>> pr/3
 
 Info: 
 	This is a 'what if Napoleon won?' alternate history scenario, based on IGoR PUIR (an mp mod you can find here https://github.com/Nurse-Reno/IGoR_puir)
@@ -33,10 +15,6 @@ Info:
 	Spain
 	Austria
 	Greece
-<<<<<<< HEAD
-	
-=======
->>>>>>> pr/3
 	
 
 Installation: Open your Victoria 2 game files

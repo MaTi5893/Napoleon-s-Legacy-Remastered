@@ -1326,3 +1326,12 @@ paris_lost = {
 	global_assimilation_rate = -0.05
 	land_organisation = -0.1
 }
+
+brazil_united = {
+	mobilisation_size = 0.01
+	global_immigrant_attract = 0.3
+	education_efficiency_modifier = 0.1
+	global_assimilation_rate = 0.2
+	global_pop_consciousness_modifier = -0.02
+	global_pop_militancy_modifier = -0.02
+}

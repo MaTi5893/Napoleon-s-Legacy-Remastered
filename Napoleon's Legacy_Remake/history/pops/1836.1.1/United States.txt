@@ -9191,7 +9191,7 @@
     clergymen = {
         culture = dixie
         religion = protestant
-        size = 150
+        size = 500
     }
 
     artisans = {
@@ -9209,13 +9209,13 @@
     soldiers = {
         culture = dixie
         religion = protestant
-        size = 450
+        size = 2000
     }
 
     farmers = {
         culture = dixie
         religion = protestant
-        size = 17125
+        size = 30000
     }
 
     clergymen = {
@@ -9943,7 +9943,7 @@
     craftsmen = {
         culture = yankee
         religion = protestant
-        size = 15300
+        size = 20000
     }
 
     artisans = {
@@ -9985,13 +9985,13 @@
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 2000
+        size = 8000
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 85125
+        size = 100000
     }
 
     clergymen = {
@@ -10009,7 +10009,7 @@
     craftsmen = {
         culture = yankee
         religion = catholic
-        size = 500
+        size = 2000
     }
 
     artisans = {

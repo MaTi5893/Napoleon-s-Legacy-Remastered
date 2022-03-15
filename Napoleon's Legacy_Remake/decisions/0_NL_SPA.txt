@@ -255,7 +255,10 @@ political_decisions = {
 	form_iberia = {
 		picture = iberia
 		potential = {
-			tag = SPA 
+			OR = {
+				tag = SPA 
+				tag = POR
+			}
 			NOT = { has_country_flag = domination_of_western_mediterranean_see }
 			NOT = { accepted_culture = south_italian }
 			NOT = {accepted_culture = occitan}
@@ -311,6 +314,9 @@ political_decisions = {
 					duration = 3650
 				}
 			}
+			add_accepted_culture = spanish
+			add_accepted_culture = catalan
+			add_accepted_culture = basque
 			add_accepted_culture = portuguese
 		}
 	}

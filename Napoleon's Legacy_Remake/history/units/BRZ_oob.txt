@@ -169,7 +169,7 @@ army = {
 	regiment = {
 		name= "3. Brigada de Infantaria"
 		type = infantry
-		home = 2436
+		home = 2450
 	}
 
 	regiment = {

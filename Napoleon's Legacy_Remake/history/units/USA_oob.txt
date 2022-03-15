@@ -1,14 +1,32 @@
 
 MEX = {
-	value = -25
+	value = 75
 }
 UCA = {
 	value = 100
 }
-GCO = {
+CLM = {
+	value = 100
+}
+VNZ = {
 	value = 100
 }
 BRZ = {
+	value = 100	
+}
+ARA = {
+	value = 100	
+}
+CHL = {
+	value = 100	
+}
+RER = {
+	value = 100	
+}
+PRG = {
+	value = 100	
+}
+ECO = {
 	value = 100	
 }
 URU = {
@@ -112,7 +130,7 @@ leader = {
 
 army = {
 	name = "US 1st Corps"
-	location = 232
+	location = 132
 	regiment = {
 		name= "1st Infantry Regiment"
 		type = infantry
@@ -171,6 +189,71 @@ army = {
 		name= "5th Artillery Regiment"
 		type = artillery
 		home = 235
+	}
+}
+
+
+army = {
+	name = "US 1st Corps"
+	location = 187
+	regiment = {
+		name= "5th Infantry Regiment"
+		type = infantry
+		home = 232
+	}
+
+	regiment = {
+		name= "6th Infantry Regiment"
+		type = infantry
+		home = 232
+	}
+
+	regiment = {
+		name= "7th Infantry Regiment"
+		type = infantry
+		home = 132
+	}
+
+	regiment = {
+		name= "8th Infantry Regiment"
+		type = infantry
+		home = 133
+	}
+
+	regiment = {
+		name= "2nd Cavalry Regiment"
+		type = hussar
+		home = 137
+	}
+
+	regiment = {
+		name= "6th Artillery Regiment"
+		type = artillery
+		home = 238
+	}
+
+	regiment = {
+		name= "7th Artillery Regiment"
+		type = artillery
+		home = 247
+	}
+
+	regiment = {
+		name= "8th Artillery Regiment"
+		type = artillery
+		home = 220
+	}
+
+	regiment = {
+		name= "9th Artillery Regiment"
+		type = artillery
+		home = 226
+	}
+
+	regiment = {
+		name= "10th Artillery Regiment"
+		type = artillery
+		home = 234
 	}
 }
 
@@ -257,10 +340,6 @@ navy = {
 		type = frigate
 	}
 
-	ship = {
-		name= "'James McKay' Flotilla"
-		type = clipper_transport
-	}
 
 }
 
@@ -280,11 +359,6 @@ navy = {
 	ship = {
 		name= "Virginia"
 		type = manowar
-	}
-
-	ship = {
-		name= "1st Reserve Transport"
-		type = clipper_transport
 	}
 
 }
@@ -313,8 +387,52 @@ navy = {
 	}
 
 	ship = {
+		name= "'James McKay' Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "1st Reserve Transport"
+		type = clipper_transport
+	}
+
+	ship = {
 		name= "2nd Reserve Transport"
 		type = clipper_transport
 	}
 
+	ship = {
+		name= "3rd Reserve Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4th Reserve Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5th Reserve Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6th Reserve Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7th Reserve Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8th Reserve Transport"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9th Reserve Transport"
+		type = clipper_transport
+	}
 }

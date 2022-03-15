@@ -91,7 +91,7 @@ leader = {
 
 army = {
 	name = "Exercito Portugues"
-	location = 521
+	location = 2439
 	regiment = {
 		name= "1. Brigada de Infantaria"
 		type = hussar
@@ -211,4 +211,38 @@ navy = {
 		type = clipper_transport
 	}
 
+	ship = {
+		name= "4o Navios de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5o Navios de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6o Navios de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7o Navios de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8o Navios de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9o Navios de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10o Navios de Transporte"
+		type = clipper_transport
+	}
 }

@@ -3,11 +3,20 @@ CAN = {
 	level = 5
 	influence_value = 25 
 }
-
-COL = {				#Columbia if released
+POR = { 
+	value = 150
+	level = 5
+	influence_value = 25 
+}
+NET = {				#Columbia if released
 	value = 150		#relation
-	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	level = 3		#3=cordial, 4 = friendly, 5 sphere
 	influence_value = 5
+}
+ICF = {				#Columbia if released
+	value = 150		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 50
 }
 
 leader = {
@@ -218,17 +227,6 @@ leader = {
 }
 
 army = {
-	name = "The Australia Garrison"
-	location = 2468
-
-	regiment = {
-		name= "3.8th Division"
-		type = infantry
-		home = 2468
-	}
-
-}
-army = {
 	name = "1st Corps"
 	location = 300
 	regiment = {
@@ -416,6 +414,70 @@ army = {
 		name= "3.3rd Division"
 		type = infantry
 		home = 290
+	}
+}
+
+army = {
+	name = "4th Corps"
+	location = 57
+	regiment = {
+		name= "4.Light Brigade"
+		type = hussar
+		home = 269
+	}
+
+	regiment = {
+		name= "4.Dragoons"
+		type = artillery
+		home = 271
+	}
+
+	regiment = {
+		name= "4.Heavy Brigade"
+		type = artillery
+		home = 274
+	}
+
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 273
+	}
+
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 278
+	}
+
+	regiment = {
+		name= "4.1st Division"
+		type = artillery
+		home = 278
+	}
+
+	regiment = {
+		name= "4.2nd Division"
+		type = infantry
+		home = 282
+	}
+
+	regiment = {
+		name= "4.2nd Division"
+		type = infantry
+		home = 283
+	}
+	
+	regiment = {
+		name= "4.3rd Division"
+		type = infantry
+		home = 285
+	}
+	
+	regiment = {
+		name= "4.3rd Division"
+		type = infantry
+		home = 289
 	}
 }
 
