@@ -140,7 +140,7 @@ country_event = {
     is_triggered_only = yes
 
     option = {
-        name = "Give them Matla !"
+        name = "Give them Malta !"
         ENG_854 = { secede_province = FROM } 
         badboy = -3
         ai_chance = {

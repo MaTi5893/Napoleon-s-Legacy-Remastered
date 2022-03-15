@@ -329,8 +329,6 @@ country_event = {
     title = "EVTNAME600015"
 	desc = "EVTDESC600015"
 
-    is_triggered_only = yes
-
     option = {
         name = "A spanish revolt... again..."
         any_pop = {
@@ -367,8 +365,6 @@ country_event = {
 
     title = "EVTNAME600016"
 	desc = "EVTDESC600016"
-
-    is_triggered_only = yes
 
     option = {
         name = "A german revolt... again..."

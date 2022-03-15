@@ -15,7 +15,7 @@ political_decisions = {
         }
         effect = {
             BRZ = {
-                all_core {
+                all_core = {
                     add_core = THIS
                 }
             }
