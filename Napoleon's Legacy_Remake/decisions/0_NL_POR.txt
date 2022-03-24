@@ -109,7 +109,7 @@ political_decisions = {
 	}
 	escola_industrial_do_porto = {
 		potential = {
-			has_country_flag = portuguese_regeneration
+			has_country_flag = portuguese_regeneration2
 			NOT = { has_country_flag = portuguese_regeneration3 }
 		}
 		allow = {

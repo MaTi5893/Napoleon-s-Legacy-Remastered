@@ -301,7 +301,7 @@ political_decisions = {
 			romanticism = 1
 			prestige = 50
 			NOT = {
-				exists = TEX
+				TEX = { exists = yes }
 				133 = {
 					owned_by = MEX # Austin
 					}

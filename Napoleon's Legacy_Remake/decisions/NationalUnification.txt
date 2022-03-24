@@ -292,6 +292,7 @@ political_decisions = {
 				limit = {
 					is_culture_group = germanic
 					in_sphere = THIS
+					NOT = { tag = LCT }
 				}
 				country_event = { id=11101 days=0 }
 			}
