@@ -1028,7 +1028,6 @@ emigration_chance =
 	modifier = {
 		factor = -0.4
 		is_accepted_culture = no
-		NOT = { culture = irish }
 	}
 }
 #general assimilation mtth, same for all pops
@@ -1814,106 +1813,4 @@ assimilation_chance = {
 conversion_chance = 
 {
 	factor = 0
-
-#	group = {
-#		modifier = {
-#			factor = 0.05
-#			literacy = 0.4
-#		}
-#		modifier = {
-#			factor = 0.05
-#			literacy = 0.5
-#		}
-#		modifier = {
-#			factor = 0.05
-#			literacy = 0.6
-#		}
-#	}
-#
-#
-#	group = {
-#		modifier = {
-#			factor = 0.2
-#			not = { luxury_needs = 0.9 }
-#		}
-#		modifier = {
-#			factor = 0.2
-#			not = { luxury_needs = 0.7 }
-#		}
-#		modifier = {
-#			factor = 0.2
-#			not = { luxury_needs = 0.5 }
-#		}
-#	}
-#
-#	modifier = {
-#		factor = -10
-#		has_pop_religion = jewish
-#	}
-#
-#	modifier = {
-#		factor = 3
-#		has_pop_religion = animist
-#		location = { continent = africa }
-#	}
-#
-#	group = {
-#		modifier = {
-#			factor = 0.5
-#			not = { life_needs = 0.9 }
-#		}
-#		modifier = {
-#			factor = 0.5
-#			not = { life_needs = 0.8 }
-#		}
-#		modifier = {
-#			factor = 0.5
-#			not = { life_needs = 0.7 }
-#		}
-#	}
-#
-#	modifier = {
-#		factor = 0.15
-#		not = { culture = this }
-#	}
-#
-#	modifier = {
-#		factor = -5
-#		OR = {
-#			is_primary_culture = yes
-#			is_accepted_culture = yes
-#		}
-#	}
-#
-#	modifier = {
-#		factor = 3
-#		country = { religious_policy = moralism }
-#	}
-#	modifier = {
-#		factor = 1.01
-#		country = { religious_policy = pluralism }
-#	}
-#	modifier = {
-#		factor = -3
-#		country = { religious_policy = pro_atheism }
-#	}
-#	modifier = {
-#		factor = -1
-#		country = { religious_policy = secularized }
-#	}
-#
-#	group = {
-#		modifier = {
-#			factor = 0.05
-#			unemployment = 0.1
-#		}
-#		modifier = {
-#			factor = 0.05
-#			unemployment = 0.2
-#		}
-#		modifier = {
-#			factor = 0.05
-#			unemployment = 0.3
-#		}
-#	}
 }

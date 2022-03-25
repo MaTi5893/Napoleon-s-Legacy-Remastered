@@ -702,18 +702,10 @@ acquire_state = {
 			is_colonial = no
 		}
 		not = { any_owned_province = { is_capital = yes } }
-	}
-	
-	allowed_states_in_crisis = {
-		any_owned_province = {
-			any_neighbor_province = {
-				owner = { tag = THIS }
-			}
-		}
 	}		
 
-	po_demand_state = yes
-	
+	po_transfer_provinces = yes
+	#po_demand_state = yes 
 	war_name = WAR_TAKE_NAME
 	
 	on_add = {
@@ -785,7 +777,7 @@ place_in_the_sun = {
 		}
 	}
 
-	po_demand_state = yes
+	po_transfer_provinces = yes
 
 	war_name = WAR_COLONIAL_NAME
 	
@@ -1479,7 +1471,7 @@ demand_concession_casus_belli = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_demand_state = yes
+	po_transfer_provinces = yes
 	
 	war_name = WAR_CONCESSION_NAME
 
@@ -2206,7 +2198,7 @@ take_capital = {
 		}
 	}		
 
-	po_demand_state = yes
+	po_transfer_provinces = yes
 	
 	war_name = WAR_TAKE_NAME
 	
@@ -2366,7 +2358,7 @@ negotiated_transfer = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 
-	po_demand_state = yes
+	po_transfer_provinces = yes
 	
 	war_name = WAR_NEGOTIATE_NAME
 	
@@ -2504,7 +2496,7 @@ demand_colonial_concession_casus_belli = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_demand_state = yes
+	po_transfer_provinces = yes
 	
 	war_name = WAR_CONCESSION_NAME
 
@@ -2768,7 +2760,7 @@ demand_concession_casus_belli_player_early = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_demand_state = yes
+	po_transfer_provinces = yes
 	
 	war_name = WAR_CONCESSION_NAME
 
@@ -2843,7 +2835,7 @@ demand_concession_casus_belli_ai_early = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_demand_state = yes
+	po_transfer_provinces = yes
 	
 	war_name = WAR_CONCESSION_NAME
 

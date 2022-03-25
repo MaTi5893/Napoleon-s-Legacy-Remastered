@@ -85,6 +85,7 @@ political_decisions = {
 	}
 	instituto_industrial_de_lisboa = {
 		potential = {
+			OR = { tag = POR tag = UPB } 
 			has_global_flag = portuguese_regeneration
 			OR = {
 				tag = POR
@@ -113,7 +114,7 @@ political_decisions = {
 	}
 	escola_industrial_do_porto = {
 		potential = {
-			has_country_flag = portuguese_regeneration
+			has_country_flag = portuguese_regeneration2
 			NOT = { has_country_flag = portuguese_regeneration3 }
 		}
 		allow = {
