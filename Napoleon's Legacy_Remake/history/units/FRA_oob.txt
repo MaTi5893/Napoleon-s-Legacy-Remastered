@@ -208,7 +208,7 @@ leader = {
 	name = "Napoleon Alexandre Berthier"
 	#picture = fra_adm_baudin
 	date = 1836.1.1 #1838
-	type = sea
+	type = land
 	personality = defence_2.3
 	background = attack_2.4
 }
@@ -216,7 +216,15 @@ leader = {
 	name = "Michel Louis Felix Ney"
 	#picture = fra_adm_baudin
 	date = 1803.1.1 #1838
-	type = sea
+	type = land
+	personality = defence_2.1
+	background = attack_2.1
+}
+leader = {
+	name = "Jules Davout"
+	#picture = fra_adm_baudin
+	date = 1803.1.1 #1838
+	type = land
 	personality = defence_2.1
 	background = attack_2.1
 }

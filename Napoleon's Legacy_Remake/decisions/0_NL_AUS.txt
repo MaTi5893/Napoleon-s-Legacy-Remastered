@@ -214,4 +214,17 @@ political_decisions = {
 			set_country_flag=ask_bavaria_tirol
 		}
 	}
+	annex_hungary = {
+		picture = hungary_decision
+		potential = {
+			tag = AUS
+			NOT = {has_country_flag = annexion_of_hungary}
+		}
+		allow = {
+			
+		}
+		effect = {
+			set_country_flag = annexion_of_hungary			
+		}
+	}
 }
