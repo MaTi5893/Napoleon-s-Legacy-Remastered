@@ -261,7 +261,6 @@ country_event = {
 	trigger = {
 		tag = FRA
 		NOT = {year = 1850}
-		ai=no
 		SPA = {
 			all_core = {
                 owned_by = THIS
@@ -298,7 +297,6 @@ country_event = {
 	trigger = {
 		tag = FRA
 		NOT = {year = 1850}
-		ai=no
 		HAN = {
 			all_core = {
                 owned_by = THIS
