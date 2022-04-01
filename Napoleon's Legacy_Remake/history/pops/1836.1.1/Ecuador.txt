@@ -11,7 +11,7 @@
 	bureaucrats = {
 		culture = andean
 		religion = catholic
-		size = 200
+		size = 1200
 	}
 
 	officers = {
@@ -23,7 +23,7 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 600
+		size = 3800
 	}
 
 	artisans = {
@@ -41,7 +41,7 @@
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 21600
+		size = 100000
 	}
 
 	clergymen = {

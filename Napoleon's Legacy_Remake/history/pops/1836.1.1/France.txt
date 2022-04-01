@@ -1642,13 +1642,13 @@
 	soldiers = {
 		culture = french
 		religion = catholic
-		size = 16000
+		size = 20000
 	}
 
 	farmers = {
 		culture = french
 		religion = catholic
-		size = 160000
+		size = 260000
 	}
 
 	clergymen = {

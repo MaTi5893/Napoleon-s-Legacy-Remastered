@@ -1,6 +1,5 @@
-owner = ARG
-controller = ARG
-
+owner = PRG
+controller = PRG
 add_core = BOL
 
 add_core = PRG

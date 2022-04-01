@@ -1255,7 +1255,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 80000
+		size = 60000
 	}
 
 	clergymen = {
@@ -1323,7 +1323,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 54750
+		size = 24750
 	}
 
 	clergymen = {

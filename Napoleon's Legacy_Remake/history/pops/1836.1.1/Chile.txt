@@ -250,7 +250,7 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 125
+		size = 3000
 	}
 
 	artisans = {
@@ -262,13 +262,13 @@
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 125
+		size = 3000
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 11825
+		size = 60000
 	}
 }
 #La Serena (64000/16000 POPS)
@@ -328,7 +328,7 @@
 	bureaucrats = {
 		culture = andean
 		religion = catholic
-		size = 300
+		size = 2000
 	}
 
 	officers = {
@@ -340,7 +340,7 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 1050
+		size = 6050
 	}
 
 	artisans = {
@@ -358,13 +358,13 @@
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 4000
+		size = 6000
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 79775
+		size = 150000
 	}
 }
 #Valparaiso (128000/32000 POPS)
@@ -375,10 +375,16 @@
 		size = 675
 	}
 
+	bureaucrats = {
+		culture = andean
+		religion = catholic
+		size = 2000
+	}
+
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 325
+		size = 6000
 	}
 
 	artisans = {
@@ -396,13 +402,13 @@
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 1100
+		size = 4000
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 18000
+		size = 100000
 	}
 }
 #Vina del Mar (72000/18000 POPS)

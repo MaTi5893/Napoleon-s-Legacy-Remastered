@@ -11,7 +11,7 @@
 	bureaucrats = {
 		culture = platinean
 		religion = catholic
-		size = 100
+		size = 3000
 	}
 
 	officers = {
@@ -23,7 +23,7 @@
 	clergymen = {
 		culture = platinean
 		religion = catholic
-		size = 375
+		size = 4000
 	}
 
 	artisans = {
@@ -47,7 +47,7 @@
 	farmers = {
 		culture = platinean
 		religion = catholic
-		size = 9825
+		size = 80000
 	}
 }
 #Junin (56000/14000 POPS)
@@ -61,7 +61,13 @@
 	clergymen = {
 		culture = platinean
 		religion = catholic
-		size = 175
+		size = 1500
+	}
+
+	bureaucrats = {
+		culture = platinean
+		religion = catholic
+		size = 600
 	}
 
 	artisans = {
@@ -79,7 +85,7 @@
 	farmers = {
 		culture = platinean
 		religion = catholic
-		size = 5550
+		size = 50000
 	}
 }
 #Azul (12000/3000 POPS)
@@ -93,7 +99,7 @@
 	clergymen = {
 		culture = platinean
 		religion = catholic
-		size = 75
+		size = 500
 	}
 
 	artisans = {
@@ -105,13 +111,13 @@
 	soldiers = {
 		culture = platinean
 		religion = catholic
-		size = 25
+		size = 1000
 	}
 
 	farmers = {
 		culture = platinean
 		religion = catholic
-		size = 2700
+		size = 20000
 	}
 }
 #La Plata (4000/1000 POPS)
@@ -125,7 +131,7 @@
 	clergymen = {
 		culture = platinean
 		religion = catholic
-		size = 25
+		size = 800
 	}
 
 	artisans = {
@@ -137,13 +143,13 @@
 	soldiers = {
 		culture = platinean
 		religion = catholic
-		size = 10
+		size = 2000
 	}
 
 	farmers = {
 		culture = platinean
 		religion = catholic
-		size = 900
+		size = 40000
 	}
 }
 #Mar del Plata (12000/3000 POPS)
@@ -169,13 +175,13 @@
 	soldiers = {
 		culture = platinean
 		religion = catholic
-		size = 25
+		size = 2000
 	}
 
 	farmers = {
 		culture = platinean
 		religion = catholic
-		size = 2700
+		size = 50000
 	}
 }
 #Under loose authority of Argentina 1836
@@ -226,13 +232,13 @@
 	soldiers = {
 		culture = platinean
 		religion = animist
-		size = 25
+		size = 1000
 	}
 
 	farmers = {
 		culture = platinean
 		religion = animist
-		size = 1800
+		size = 20000
 	}
 }
 #Bahia Blanca (24000/6000 POPS)
@@ -258,7 +264,7 @@
 	farmers = {
 		culture = platinean
 		religion = catholic
-		size = 2725
+		size = 30000
 	}
 
 	aristocrats = {
@@ -338,13 +344,13 @@
 	soldiers = {
 		culture = platinean
 		religion = animist
-		size = 25
+		size = 2000
 	}
 
 	farmers = {
 		culture = platinean
 		religion = animist
-		size = 2700
+		size = 60000
 	}
 }
 #Corrientes Region (164000)

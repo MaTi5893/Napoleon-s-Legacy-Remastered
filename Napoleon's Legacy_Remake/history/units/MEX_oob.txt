@@ -1,5 +1,5 @@
 leader = {
-	name = "Antonio L�pez de Santa Anna"
+	name = "Antonio Lopez de Santa Anna"
 	#picture = mex_gen_santaanna
 	type = land
 	date="1821.1.1"
@@ -9,7 +9,17 @@ leader = {
 }
 
 leader = {
-	name = "Mart�n de Cos"
+	name = "Agustin de Iturbide"
+	#picture = mex_gen_cos
+	type = land
+	date="1833.1.1"
+	personality = defence_2.3
+	background = attack_4.1
+	prestige = 0.5
+}
+
+leader = {
+	name = "Martin de Cos"
 	#picture = mex_gen_cos
 	type = land
 	date="1833.1.1"
