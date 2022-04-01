@@ -2701,13 +2701,13 @@
     farmers = {
         culture = texan
         religion = protestant
-        size = 20075
+        size = 5075
     }
 
     slaves = {
         culture = afro_american
         religion = protestant
-        size = 750
+        size = 15750
     }
 
     aristocrats = {
@@ -2781,13 +2781,13 @@
     farmers = {
         culture = texan
         religion = protestant
-        size = 22200
+        size = 8200
     }
 
     slaves = {
         culture = afro_american
         religion = protestant
-        size = 500
+        size = 14500
     }
 
     aristocrats = {
@@ -2879,13 +2879,13 @@
     farmers = {
         culture = texan
         religion = protestant
-        size = 15750
+        size = 5750
     }
 
     slaves = {
         culture = afro_american
         religion = protestant
-        size = 250
+        size = 10250
     }
 
     aristocrats = {
@@ -3034,13 +3034,13 @@
     farmers = {
         culture = texan
         religion = protestant
-        size = 15000
+        size = 5000
     }
 
     slaves = {
         culture = afro_american
         religion = protestant
-        size = 10
+        size = 10000
     }
 
     aristocrats = {
