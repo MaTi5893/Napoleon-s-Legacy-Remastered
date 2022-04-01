@@ -1,5 +1,6 @@
 political_decisions = {
-    restore_mexican_empire = {
+    mexican_empire = {
+        picture = empire_mexico_decision
 		potential = {
 			tag = MEX
 			government = democracy
@@ -70,7 +71,7 @@ political_decisions = {
     }
 
 	acquire_cuba = {
-        picture = cuba_decision
+        picture = central_america_decision
 		potential = {
 			tag = MEX
 			NOT = { accepted_culture = caribeno } 

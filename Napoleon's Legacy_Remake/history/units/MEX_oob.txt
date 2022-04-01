@@ -124,8 +124,8 @@ leader = {
 }
 
 army = {
-	name = "Artillery 1"
-	location = 2159
+	name = "Army 1"
+	location = 2164
 	regiment = {
 		name= "1111.Division Cos"
 		type = infantry
@@ -135,57 +135,122 @@ army = {
 	regiment = {
 		name= "11.Division Cos"
 		type = infantry
-		home = 2174
+		home = 2172
 	}
 
 	regiment = {
 		name= "21.Division Cos"
 		type = infantry
-		home = 2174
+		home = 2170
 	}
 
 	regiment = {
 		name= "31.Division Cos"
 		type = infantry
-		home = 2174
+		home = 2170
 	}
 
 	regiment = {
 		name= "11.Oajaca y Tlaxcala"
 		type = hussar
-		home = 2177
+		home = 2142
 	}
 	
 	regiment = {
 		name= "23.Oajaca y Tlaxcala"
 		type = artillery
-		home = 2177
+		home = 2146
 	}
 
 	regiment = {
 		name= "33.Oajaca y Tlaxcala"
 		type = artillery
-		home = 2177
+		home = 2151
 	}
 	
 	regiment = {
 		name= "13.Division Comonfort"
 		type = artillery
-		home = 2176
+		home = 2158
 	}
 
 	regiment = {
 		name= "23.Division Comonfort"
 		type = artillery
-		home = 2176
+		home = 2169
 	}
 
 	regiment = {
 		name= "33.Division Comonfort"
 		type = artillery
+		home = 2164
+	}
+}
+
+army = {
+	name = "Army 2"
+	location = 2159
+	regiment = {
+		name= "2.1111.Division Cos"
+		type = infantry
+		home = 2172
+	}
+	
+	regiment = {
+		name= "2.11.Division Cos"
+		type = infantry
+		home = 2174
+	}
+
+	regiment = {
+		name= "2.21.Division Cos"
+		type = infantry
+		home = 2174
+	}
+
+	regiment = {
+		name= "2.31.Division Cos"
+		type = infantry
+		home = 2174
+	}
+
+	regiment = {
+		name= "2.11.Oajaca y Tlaxcala"
+		type = hussar
+		home = 2177
+	}
+	
+	regiment = {
+		name= "2.23.Oajaca y Tlaxcala"
+		type = artillery
+		home = 2177
+	}
+
+	regiment = {
+		name= "2.33.Oajaca y Tlaxcala"
+		type = artillery
+		home = 2177
+	}
+	
+	regiment = {
+		name= "2.13.Division Comonfort"
+		type = artillery
+		home = 2176
+	}
+
+	regiment = {
+		name= "2.23.Division Comonfort"
+		type = artillery
+		home = 2176
+	}
+
+	regiment = {
+		name= "2.33.Division Comonfort"
+		type = artillery
 		home = 2176
 	}
 }
+
 
 navy = {
 	name = "Armada de Mexico"
