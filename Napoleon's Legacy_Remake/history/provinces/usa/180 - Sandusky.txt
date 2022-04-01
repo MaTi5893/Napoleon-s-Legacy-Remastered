@@ -1,5 +1,5 @@
-owner = ICF
-controller = ICF
+owner = USA
+controller = USA
 add_core = ICF
 add_core = USA
 trade_goods = timber

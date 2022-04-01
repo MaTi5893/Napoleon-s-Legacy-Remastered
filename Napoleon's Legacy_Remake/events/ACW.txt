@@ -2340,29 +2340,3 @@ country_event = {
 		set_country_flag = apache_wars_over
 	}
 }
-
-# Texas goods
-country_event = {
-	id = 16451
-	title = "EVTNAME16451"
-	desc = "EVTDESC16451"
-	picture = "dixie"
-	
- 	trigger = {
-		tag = TEX
-	}
-	
-	fire_only_once = yes
-	
-	option = {
-		name = "EVTOPTA1206" #Ok
-			small_arms = 100
-			canned_food = 200
-			artillery = 50
-			luxury_clothes = 50
-			wine = 50
-			liquor = 50
-			ammunition = 100
-			money = 1000
-	}
-}

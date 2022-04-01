@@ -1,5 +1,5 @@
 capital = 2324
-primary_culture = south_andean
+primary_culture = andean
 religion = catholic
 government = democracy
 plurality = 25.0

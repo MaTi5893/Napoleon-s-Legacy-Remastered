@@ -1822,6 +1822,14 @@
             y = 2056.400000
         }
 
+        naval_base = {
+            x = 1340.000000
+            y = 2084.000000
+        }
+
+    }
+    building_rotation = {
+        naval_base = 9.50000
     }
 
 }
@@ -1918,6 +1926,17 @@
         x = 1588.000000
         y = 1709.000000
     }
+
+    building_position = {
+        naval_base = {
+            x = 1584.000000
+            y = 1704.000000
+        }
+    }
+    building_rotation = {
+        naval_base = 4.712390
+    }
+    
 
 }
 
@@ -2087,6 +2106,15 @@
             y = 1807.000000
         }
 
+        naval_base = {
+            x = 1440.000000
+            y = 1798.000000
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 4.712390
     }
 
     spawn_railway_track = {
@@ -2131,6 +2159,11 @@
         fort = {
             x = 1511.000000
             y = 1750.000000
+        }
+
+        naval_base = {
+            x = 1482.000000
+            y = 1763.000000
         }
 
     }
@@ -2184,6 +2217,14 @@
             y = 1745.000000
         }
 
+        naval_base = {
+            x = 1546.000000
+            y = 1737.000000
+        }
+    }
+
+    building_rotation = {
+        naval_base = 1.50000
     }
 
 }
@@ -2225,6 +2266,11 @@
         railroad = {
             x = 1548.000000
             y = 1708.000000
+        }
+
+        naval_base = {
+            x = 1535.000000
+            y = 1716.000000
         }
 
     }
@@ -2278,6 +2324,14 @@
             y = 1672.000000
         }
 
+        naval_base = {
+            x = 1530.000000
+            y = 1676.000000
+        }
+    }
+
+    building_rotation = {
+        naval_base = 4.625122
     }
 
     spawn_railway_track = {
@@ -2329,6 +2383,14 @@
             y = 1688.000000
         }
 
+        naval_base = {
+            x = 1560.000000
+            y = 1683.000000
+        }
+
+    }
+    building_rotation = {
+        naval_base = 4.712390
     }
 
 }
@@ -2368,6 +2430,16 @@
             y = 1723.000000
         }
 
+    }
+    building_position = {
+        naval_base = {
+            x = 1610.000000
+            y = 1707.000000
+        }
+    }
+
+    building_rotation = {
+        naval_base = 4.712390
     }
 
 }
@@ -2558,7 +2630,7 @@
 
 }
 
-# Sept-Îles
+# Sept-ï¿½les
 62 = {
     unit = {
         x = 1843.000000
@@ -2648,7 +2720,7 @@
 
 }
 
-# Trois-Rivières
+# Trois-Riviï¿½res
 64 = {
     unit = {
         x = 1659.000000
@@ -6845,6 +6917,14 @@
             y = 1768.000000
         }
 
+        naval_base = {
+            x = 1386.000000
+            y = 1772.000000
+        }
+    }
+
+    building_rotation = {
+        naval_base = 10.00000
     }
 
 }
@@ -6870,6 +6950,17 @@
     factory = {
         x = 1429.000000
         y = 1704.000000
+    }
+
+    building_position = {
+        naval_base = {
+            x = 1435.000000
+            y = 1692.000000
+        }
+    }
+
+    building_rotation = {
+        naval_base = 9.50000
     }
 
 }
@@ -6903,6 +6994,13 @@
             y = 1757.000000
         }
 
+        naval_base = {
+            x = 1389.000000
+            y = 1763.000000
+        }
+    }
+    building_rotation = {
+        naval_base = 8.50000
     }
 
     spawn_railway_track = {
@@ -6954,6 +7052,14 @@
             y = 1713.000000
         }
 
+        naval_base = {
+            x = 1441.000000
+            y = 1713.000000
+        }
+
+    }
+    building_rotation = {
+        naval_base = 9.50000
     }
 
     spawn_railway_track = {
@@ -7043,6 +7149,15 @@
             y = 1658.099976
         }
 
+        naval_base = {
+            x = 1439.000000
+            y = 1667.000000
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 9.50000
     }
 
 }
@@ -7415,6 +7530,15 @@
             y = 1639.000000
         }
 
+        naval_base = {
+            x = 1444.899780
+            y = 1663.299927
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 8.00000
     }
 
     spawn_railway_track = {
@@ -7495,6 +7619,14 @@
             y = 1666.000000
         }
 
+        naval_base = {
+            x = 1504.000000
+            y = 1665.000000
+        }
+    }
+
+    building_rotation = {
+        naval_base = 9.50000
     }
 
 }
@@ -7533,6 +7665,10 @@
             y = 1665.599976
         }
 
+        naval_base = {
+            x = 1459.000000
+            y = 1680.000000
+        }
     }
 
 }
@@ -7566,6 +7702,15 @@
             y = 1693.000000
         }
 
+        naval_base = {
+            x = 1497.000000
+            y = 1700.000000
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 8.00000
     }
 
 }
@@ -7604,6 +7749,15 @@
             y = 1702.300049
         }
 
+        naval_base ={
+            x = 1506.000000
+            y = 1719.000000
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 9.500000
     }
 
 }
@@ -7647,6 +7801,15 @@
             y = 1749.099976
         }
 
+        naval_base = {
+            x = 1445.000000
+            y = 1754.000000
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 8.00000
     }
 
     spawn_railway_track = {
@@ -7713,6 +7876,14 @@
             y = 1645.000000
         }
 
+        naval_base = {
+            x = 1526.000000
+            y = 1660.000000
+        }
+    }
+
+    building_rotation = {
+        naval_base = 8.00000
     }
 
 }
@@ -7789,6 +7960,14 @@
             y = 1658.000000
         }
 
+        naval_base = {
+            x = 1509.000000
+            y = 1662.000000
+        }
+    }
+
+    building_rotation = {
+        naval_base = 8.00000
     }
 
 }
@@ -10100,6 +10279,14 @@
             y = 1655.000000
         }
 
+        naval_base = {
+            x = 1551.000000
+            y = 1670.000000
+        }
+    }
+
+    building_rotation = {
+        naval_base = 7.50000
     }
 
 }
@@ -10444,6 +10631,11 @@
             y = 1681.000000
         }
 
+        naval_base = {
+            x = 1567.000000
+            y = 1678.000000
+        }
+
     }
 
     spawn_railway_track = {
@@ -10504,7 +10696,14 @@
             x = 1593.099976
             y = 1681.099976
         }
+        naval_base = {
+            x = 1597.000000
+            y = 1692.000000
+        }
+    }
 
+    building_rotation = {
+        naval_base = 8.00000
     }
 
 }
@@ -10537,7 +10736,10 @@
             x = 1619.000000
             y = 1686.000000
         }
-
+        naval_base = {
+            x = 1612.000000
+            y = 1697.000000
+        }
     }
 
 }
@@ -10577,6 +10779,10 @@
             y = 1704.099976
         }
 
+        naval_base = {
+            x = 1613.000000
+            y = 1702.000000
+        }
     }
 
     spawn_railway_track = {
@@ -14586,7 +14792,7 @@
 
 }
 
-# Gävle
+# Gï¿½vle
 317 = {
     unit = {
         x = 3056.000000
@@ -14681,7 +14887,7 @@
 
 }
 
-# Östersund
+# ï¿½stersund
 319 = {
     unit = {
         x = 3027.000000
@@ -14742,7 +14948,7 @@
 
 }
 
-# Umeå
+# Umeï¿½
 320 = {
     unit = {
         x = 3102.000000
@@ -14813,7 +15019,7 @@
 
 }
 
-# Luleå
+# Luleï¿½
 321 = {
     unit = {
         x = 3130.000000
@@ -15029,7 +15235,7 @@
 
 }
 
-# Norrköping
+# Norrkï¿½ping
 325 = {
     unit = {
         x = 3052.000000
@@ -15071,7 +15277,7 @@
 
 }
 
-# Västerås
+# Vï¿½sterï¿½s
 326 = {
     unit = {
         x = 3062.000000
@@ -15152,7 +15358,7 @@
 
 }
 
-# Örebro
+# ï¿½rebro
 327 = {
     unit = {
         x = 3040.000000
@@ -15271,7 +15477,7 @@
 
 }
 
-# Göteborg
+# Gï¿½teborg
 329 = {
     unit = {
         x = 2988.000000
@@ -15328,7 +15534,7 @@
 
 }
 
-# Borås
+# Borï¿½s
 330 = {
     unit = {
         x = 3011.000000
@@ -15475,7 +15681,7 @@
 
 }
 
-# Växjö
+# Vï¿½xjï¿½
 333 = {
     unit = {
         x = 3031.000000
@@ -15513,7 +15719,7 @@
 
 }
 
-# Malmö
+# Malmï¿½
 334 = {
     unit = {
         x = 3013.000000
@@ -16030,7 +16236,7 @@
 
 }
 
-# Hämeenlinna
+# Hï¿½meenlinna
 344 = {
     unit = {
         x = 3198.000000
@@ -16271,7 +16477,7 @@
 
 }
 
-# Åland Islands
+# ï¿½land Islands
 348 = {
     text_position = {
         x = 3116.000000
@@ -16403,7 +16609,7 @@
 
 }
 
-# Pärnu
+# Pï¿½rnu
 351 = {
     unit = {
         x = 3200.000000
@@ -16488,7 +16694,7 @@
 
 }
 
-# Ösel
+# ï¿½sel
 353 = {
     unit = {
         x = 3159.000000
@@ -18272,7 +18478,7 @@
 
 }
 
-# Liège
+# Liï¿½ge
 395 = {
     unit = {
         x = 2890.000000
@@ -18938,7 +19144,7 @@
 
 }
 
-# Épinal
+# ï¿½pinal
 414 = {
     unit = {
         x = 2910.000000
@@ -19019,7 +19225,7 @@
 
 }
 
-# Évreux
+# ï¿½vreux
 416 = {
     text_position = {
         x = 2821.300049
@@ -19057,7 +19263,7 @@
 
 }
 
-# Alençon
+# Alenï¿½on
 417 = {
     unit = {
         x = 2801.000000
@@ -19811,7 +20017,7 @@
 
 }
 
-# Besançon
+# Besanï¿½on
 432 = {
     text_position = {
         x = 2905.000000
@@ -20022,7 +20228,7 @@
 
 }
 
-# Orléans
+# Orlï¿½ans
 438 = {
     text_position = {
         x = 2843.000000
@@ -20268,7 +20474,7 @@
 
 }
 
-# Angoulême
+# Angoulï¿½me
 444 = {
     unit = {
         x = 2810.000000
@@ -20326,7 +20532,7 @@
 
 }
 
-# Châteauroux
+# Chï¿½teauroux
 446 = {
     unit = {
         x = 2836.000000
@@ -20568,7 +20774,7 @@
 
 }
 
-# St Étienne
+# St ï¿½tienne
 452 = {
     unit = {
         x = 2872.000000
@@ -21083,7 +21289,7 @@
 
 }
 
-# Chambéry
+# Chambï¿½ry
 466 = {
     unit = {
         x = 2902.000000
@@ -21475,7 +21681,7 @@
 
 }
 
-# La Coruña
+# La Coruï¿½a
 474 = {
     unit = {
         x = 2683.000000
@@ -21627,7 +21833,7 @@
 
 }
 
-# León
+# Leï¿½n
 477 = {
     unit = {
         x = 2713.000000
@@ -21866,7 +22072,7 @@
 
 }
 
-# Ávila
+# ï¿½vila
 483 = {
     unit = {
         x = 2733.000000
@@ -21976,7 +22182,7 @@
 
 }
 
-# Cáceres
+# Cï¿½ceres
 486 = {
     unit = {
         x = 2706.000000
@@ -22063,7 +22269,7 @@
 
 }
 
-# Sigüenza
+# Sigï¿½enza
 488 = {
     unit = {
         x = 2766.000000
@@ -22297,7 +22503,7 @@
 
 }
 
-# Logroño
+# Logroï¿½o
 494 = {
     unit = {
         x = 2769.000000
@@ -22536,7 +22742,7 @@
 
 }
 
-# Lérida
+# Lï¿½rida
 500 = {
     text_position = {
         x = 2823.800049
@@ -22712,7 +22918,7 @@
 
 }
 
-# Castellón
+# Castellï¿½n
 504 = {
     unit = {
         x = 2805.000000
@@ -22967,7 +23173,7 @@
 
 }
 
-# Córdoba
+# Cï¿½rdoba
 510 = {
     unit = {
         x = 2732.000000
@@ -23054,7 +23260,7 @@
 
 }
 
-# Cádiz
+# Cï¿½diz
 512 = {
     unit = {
         x = 2714.000000
@@ -23154,7 +23360,7 @@
 
 }
 
-# Málaga
+# Mï¿½laga
 514 = {
     unit = {
         x = 2734.000000
@@ -23201,7 +23407,7 @@
 
 }
 
-# Almería
+# Almerï¿½a
 515 = {
     unit = {
         x = 2768.000000
@@ -23253,7 +23459,7 @@
 
 }
 
-# Jaén
+# Jaï¿½n
 516 = {
     unit = {
         x = 2756.000000
@@ -23463,7 +23669,7 @@
 
 }
 
-# Covilhã
+# Covilhï¿½
 520 = {
     unit = {
         x = 2689.000000
@@ -23696,7 +23902,7 @@
 
 }
 
-# Évora
+# ï¿½vora
 525 = {
     unit = {
         x = 2685.000000
@@ -23956,7 +24162,7 @@
 
 }
 
-# Lübeck
+# Lï¿½beck
 530 = {
     unit = {
         x = 2972.000000
@@ -24056,7 +24262,7 @@
 
 }
 
-# Lüneburg
+# Lï¿½neburg
 532 = {
     unit = {
         x = 2968.000000
@@ -24248,7 +24454,7 @@
 
 }
 
-# Göttingen
+# Gï¿½ttingen
 537 = {
     unit = {
         x = 2967.000000
@@ -24287,7 +24493,7 @@
 
 }
 
-# Osnabrück
+# Osnabrï¿½ck
 538 = {
     text_position = {
         x = 2930.600098
@@ -24668,7 +24874,7 @@
 
 }
 
-# Swinemünde
+# Swinemï¿½nde
 547 = {
     unit = {
         x = 3019.000000
@@ -25698,7 +25904,7 @@
 
 }
 
-# Saarbrücken
+# Saarbrï¿½cken
 573 = {
     unit = {
         x = 2914.000000
@@ -25872,7 +26078,7 @@
 
 }
 
-# Düsseldorf
+# Dï¿½sseldorf
 578 = {
     unit = {
         x = 2919.000000
@@ -25973,7 +26179,7 @@
 
 }
 
-# Münster
+# Mï¿½nster
 581 = {
     text_position = {
         x = 2917.899902
@@ -26381,7 +26587,7 @@
 
 }
 
-# Tübingen
+# Tï¿½bingen
 591 = {
     text_position = {
         x = 2942.399902
@@ -26611,7 +26817,7 @@
 
 }
 
-# Würzburg
+# Wï¿½rzburg
 597 = {
     text_position = {
         x = 2966.100098
@@ -27065,7 +27271,7 @@
 
 }
 
-# Neuchâtel
+# Neuchï¿½tel
 608 = {
     text_position = {
         x = 2911.699951
@@ -27447,7 +27653,7 @@
 
 }
 
-# Sankt Pölten
+# Sankt Pï¿½lten
 620 = {
     unit = {
         x = 3047.000000
@@ -27635,7 +27841,7 @@
 
 }
 
-# Hradec Králové
+# Hradec Krï¿½lovï¿½
 626 = {
     text_position = {
         x = 3054.399902
@@ -27954,7 +28160,7 @@
 
 }
 
-# Trencín
+# Trencï¿½n
 634 = {
     text_position = {
         x = 3092.300049
@@ -28017,7 +28223,7 @@
 
 }
 
-# Banská Bystrica
+# Banskï¿½ Bystrica
 636 = {
     text_position = {
         x = 3112.300049
@@ -28050,7 +28256,7 @@
 
 }
 
-# Košice
+# Koï¿½ice
 637 = {
     text_position = {
         x = 3141.699951
@@ -28084,7 +28290,7 @@
 
 }
 
-# Rožnava
+# Roï¿½nava
 638 = {
     text_position = {
         x = 3121.800049
@@ -28169,7 +28375,7 @@
 
 }
 
-# Pécs
+# Pï¿½cs
 640 = {
     text_position = {
         x = 3090.699951
@@ -28242,7 +28448,7 @@
 
 }
 
-# Székesfehérvár
+# Szï¿½kesfehï¿½rvï¿½r
 643 = {
     text_position = {
         x = 3087.600098
@@ -28263,7 +28469,7 @@
 
 }
 
-# Kaposvár
+# Kaposvï¿½r
 644 = {
     text_position = {
         x = 3085.699951
@@ -28301,7 +28507,7 @@
 
 }
 
-# Kecskemét
+# Kecskemï¿½t
 645 = {
     text_position = {
         x = 3110.300049
@@ -28471,7 +28677,7 @@
 
 }
 
-# Békéscsaba
+# Bï¿½kï¿½scsaba
 650 = {
     unit = {
         x = 3132.000000
@@ -28510,7 +28716,7 @@
 
 }
 
-# Szatmár
+# Szatmï¿½r
 651 = {
     unit = {
         x = 3164.000000
@@ -28583,7 +28789,7 @@
 
 }
 
-# Resicabánya
+# Resicabï¿½nya
 653 = {
     unit = {
         x = 3150.000000
@@ -29533,7 +29739,7 @@
 
 }
 
-# Köslin
+# Kï¿½slin
 680 = {
     unit = {
         x = 3073.000000
@@ -29580,7 +29786,7 @@
 
 }
 
-# Küstrin
+# Kï¿½strin
 681 = {
     unit = {
         x = 3045.000000
@@ -29864,7 +30070,7 @@
 
 }
 
-# Görlitz
+# Gï¿½rlitz
 687 = {
     unit = {
         x = 3028.000000
@@ -30218,7 +30424,7 @@
 
 }
 
-# Königsberg
+# Kï¿½nigsberg
 695 = {
     unit = {
         x = 3133.000000
@@ -33598,7 +33804,7 @@
 
 }
 
-# Varaždin
+# Varaï¿½din
 775 = {
     text_position = {
         x = 3064.100098
@@ -33670,7 +33876,7 @@
 
 }
 
-# Požega
+# Poï¿½ega
 777 = {
     unit = {
         x = 3083.000000
@@ -34443,7 +34649,7 @@
 
 }
 
-# Užice
+# Uï¿½ice
 797 = {
     text_position = {
         x = 3117.600098
@@ -34476,7 +34682,7 @@
 
 }
 
-# Niš
+# Niï¿½
 798 = {
     unit = {
         x = 3144.000000
@@ -37031,7 +37237,7 @@
 
 }
 
-# Üsküdar
+# ï¿½skï¿½dar
 861 = {
     text_position = {
         x = 3265.399902
@@ -37261,7 +37467,7 @@
 
 }
 
-# Kütahya
+# Kï¿½tahya
 867 = {
     unit = {
         x = 3267.000000
@@ -67734,7 +67940,7 @@
 
 }
 
-# Díhuà
+# Dï¿½huï¿½
 1600 = {
     text_position = {
         x = 4176.000000
@@ -82863,7 +83069,7 @@
 
 }
 
-# São Tomé
+# Sï¿½o Tomï¿½
 1954 = {
     unit = {
         x = 2909.000000
@@ -82896,7 +83102,7 @@
 
 }
 
-# Fernando Pó
+# Fernando Pï¿½
 1955 = {
     text_position = {
         x = 2940.500000
@@ -84901,7 +85107,7 @@
 
 }
 
-# Moçâmedes
+# Moï¿½ï¿½medes
 2004 = {
     unit = {
         x = 3004.000000
@@ -87293,7 +87499,7 @@
 
 }
 
-# Moçambique
+# Moï¿½ambique
 2060 = {
     text_position = {
         x = 3435.399902
@@ -91484,7 +91690,7 @@
 
 }
 
-# Santa María del Oro
+# Santa Marï¿½a del Oro
 2154 = {
     unit = {
         x = 1170.000000
@@ -91527,7 +91733,7 @@
 
 }
 
-# Torreón
+# Torreï¿½n
 2155 = {
     unit = {
         x = 1211.000000
@@ -91565,7 +91771,7 @@
 
 }
 
-# Mazatlán
+# Mazatlï¿½n
 2156 = {
     text_position = {
         x = 1144.699951
@@ -91608,7 +91814,7 @@
 
 }
 
-# Culiacán
+# Culiacï¿½n
 2157 = {
     unit = {
         x = 1121.000000
@@ -91716,7 +91922,7 @@
 
 }
 
-# San Luis Potosí
+# San Luis Potosï¿½
 2159 = {
     unit = {
         x = 1235.000000
@@ -91930,7 +92136,7 @@
 
 }
 
-# Minatitlán
+# Minatitlï¿½n
 2164 = {
     unit = {
         x = 1325.000000
@@ -92257,7 +92463,7 @@
 
 }
 
-# Los Albañiles
+# Los Albaï¿½iles
 2171 = {
     unit = {
         x = 1210.000000
@@ -92351,7 +92557,7 @@
 
 }
 
-# Querétaro
+# Querï¿½taro
 2173 = {
     unit = {
         x = 1248.000000
@@ -92598,9 +92804,15 @@
             y = 1214.500000
         }
 
+        naval_base = {
+            x = 1302.000000
+            y = 1208.000000
+        }
     }
 
-    building_rotation = {} 
+    building_rotation = {
+        naval_base = 4.625122
+    }
 }
 
 # Acapulco
@@ -92788,7 +93000,11 @@
             x = 1354.000000
             y = 1213.000000
         }
-
+        
+        naval_base = {
+            x = 1352.000000
+            y = 1202.000000
+        }
     }
 
     spawn_railway_track = {
@@ -92807,7 +93023,7 @@
     building_rotation = {} 
 }
 
-# Mérida
+# Mï¿½rida
 2183 = {
     unit = {
         x = 1417.000000
@@ -93125,7 +93341,7 @@
 
 }
 
-# Sayaxché
+# Sayaxchï¿½
 2189 = {
     unit = {
         x = 1401.000000
@@ -93573,7 +93789,7 @@
 
 }
 
-# León
+# Leï¿½n
 2199 = {
     unit = {
         x = 1459.000000
@@ -93719,7 +93935,7 @@
 
 }
 
-# San José
+# San Josï¿½
 2201 = {
     unit = {
         x = 1501.000000
@@ -93810,7 +94026,7 @@
 
 }
 
-# Limón
+# Limï¿½n
 2203 = {
     unit = {
         x = 1504.000000
@@ -93983,7 +94199,7 @@
 
 }
 
-# Penonomé
+# Penonomï¿½
 2206 = {
     unit = {
         x = 1551.000000
@@ -94244,7 +94460,7 @@
 
 }
 
-# Camagüey
+# Camagï¿½ey
 2211 = {
     unit = {
         x = 1593.000000
@@ -95690,7 +95906,7 @@
 
 }
 
-# Bogotá
+# Bogotï¿½
 2247 = {
     unit = {
         x = 1648.000000
@@ -95728,7 +95944,7 @@
 
 }
 
-# Ibagué
+# Ibaguï¿½
 2248 = {
     text_position = {
         x = 1633.000000
@@ -95820,7 +96036,7 @@
 
 }
 
-# Cúcuta
+# Cï¿½cuta
 2251 = {
     unit = {
         x = 1664.000000
@@ -95858,7 +96074,7 @@
 
 }
 
-# Medellín
+# Medellï¿½n
 2252 = {
     unit = {
         x = 1630.000000
@@ -95896,7 +96112,7 @@
 
 }
 
-# Quibdó
+# Quibdï¿½
 2253 = {
     unit = {
         x = 1608.000000
@@ -96115,7 +96331,7 @@
 
 }
 
-# Popayán
+# Popayï¿½n
 2257 = {
     unit = {
         x = 1615.000000
@@ -96244,7 +96460,7 @@
 
 }
 
-# San José del Guaviare
+# San Josï¿½ del Guaviare
 2260 = {
     text_position = {
         x = 1665.000000
@@ -96494,7 +96710,7 @@
 
 }
 
-# Cumaná
+# Cumanï¿½
 2267 = {
     text_position = {
         x = 1796.000000
@@ -96578,7 +96794,7 @@
 
 }
 
-# Güiria
+# Gï¿½iria
 2269 = {
     unit = {
         x = 1816.000000
@@ -97294,7 +97510,7 @@
 
 }
 
-# Galápagos
+# Galï¿½pagos
 2285 = {
     unit = {
         x = 1395.000000
@@ -97576,7 +97792,7 @@
 
 }
 
-# Huánuco
+# Huï¿½nuco
 2293 = {
     unit = {
         x = 1625.000000
@@ -98366,7 +98582,7 @@
 
 }
 
-# Potosí
+# Potosï¿½
 2314 = {
     unit = {
         x = 1763.000000
@@ -98500,7 +98716,7 @@
 
 }
 
-# Roboré
+# Roborï¿½
 2318 = {
     text_position = {
         x = 1859.000000
@@ -98608,7 +98824,7 @@
 
 }
 
-# Copiapó
+# Copiapï¿½
 2322 = {
     unit = {
         x = 1716.000000
@@ -98727,7 +98943,7 @@
 
 }
 
-# Valparaíso
+# Valparaï¿½so
 2325 = {
     text_position = {
         x = 1689.699951
@@ -98766,7 +98982,7 @@
 
 }
 
-# Viña del Mar
+# Viï¿½a del Mar
 2326 = {
     unit = {
         x = 1698.000000
@@ -99025,7 +99241,7 @@
 
 }
 
-# Chillán
+# Chillï¿½n
 2331 = {
     unit = {
         x = 1684.000000
@@ -99102,7 +99318,7 @@
 
 }
 
-# Puerto Aisén
+# Puerto Aisï¿½n
 2333 = {
     unit = {
         x = 1669.000000
@@ -99330,7 +99546,7 @@
 
 }
 
-# Puerto Guaraní
+# Puerto Guaranï¿½
 2338 = {
     text_position = {
         x = 1867.000000
@@ -99444,7 +99660,7 @@
 
 }
 
-# Encarnación
+# Encarnaciï¿½n
 2341 = {
     text_position = {
         x = 1938.099976
@@ -99502,7 +99718,7 @@
 
 }
 
-# Concepción
+# Concepciï¿½n
 2343 = {
     unit = {
         x = 1921.000000
@@ -99602,7 +99818,7 @@
 
 }
 
-# Paysandú
+# Paysandï¿½
 2345 = {
     text_position = {
         x = 1914.120000
@@ -99649,7 +99865,7 @@
 
 }
 
-# Tacuarembó
+# Tacuarembï¿½
 2346 = {
     text_position = {
         x = 1912.570000
@@ -99792,7 +100008,7 @@
 
 }
 
-# Junín
+# Junï¿½n
 2349 = {
     text_position = {
         x = 1866.000000
@@ -99998,7 +100214,7 @@
 
 }
 
-# Bahía Blanca
+# Bahï¿½a Blanca
 2354 = {
     unit = {
         x = 1842.000000
@@ -100152,7 +100368,7 @@
 
 }
 
-# Curuzú Cuatiá
+# Curuzï¿½ Cuatiï¿½
 2357 = {
     unit = {
         x = 1892.000000
@@ -100190,7 +100406,7 @@
 
 }
 
-# Santo Tomás
+# Santo Tomï¿½s
 2358 = {
     unit = {
         x = 1919.000000
@@ -100228,7 +100444,7 @@
 
 }
 
-# Colón
+# Colï¿½n
 2359 = {
     text_position = {
         x = 1888.199951
@@ -100261,7 +100477,7 @@
 
 }
 
-# Paraná
+# Paranï¿½
 2360 = {
     unit = {
         x = 1870.000000
@@ -100450,7 +100666,7 @@
 
 }
 
-# Villa Ángela
+# Villa ï¿½ngela
 2365 = {
     unit = {
         x = 1849.000000
@@ -100669,7 +100885,7 @@
 
 }
 
-# Tucumán
+# Tucumï¿½n
 2373 = {
     text_position = {
         x = 1789.599976
@@ -100767,7 +100983,7 @@
 
 }
 
-# Añatuya
+# Aï¿½atuya
 2377 = {
     unit = {
         x = 1829.000000
@@ -100805,7 +101021,7 @@
 
 }
 
-# Mailín
+# Mailï¿½n
 2378 = {
     unit = {
         x = 1814.000000
@@ -100843,7 +101059,7 @@
 
 }
 
-# Córdoba de Argentina
+# Cï¿½rdoba de Argentina
 2379 = {
     unit = {
         x = 1797.000000
@@ -100915,7 +101131,7 @@
 
 }
 
-# Río Cuarto
+# Rï¿½o Cuarto
 2381 = {
     unit = {
         x = 1811.000000
@@ -100953,7 +101169,7 @@
 
 }
 
-# Renancó
+# Renancï¿½
 2382 = {
     unit = {
         x = 1809.000000
@@ -101269,7 +101485,7 @@
 
 }
 
-# Neuquén
+# Neuquï¿½n
 2391 = {
     unit = {
         x = 1716.000000
@@ -101372,7 +101588,7 @@
 
 }
 
-# Telén
+# Telï¿½n
 2393 = {
     unit = {
         x = 1797.000000
@@ -101499,7 +101715,7 @@
 
 }
 
-# Curacó
+# Curacï¿½
 2395 = {
     unit = {
         x = 1763.000000
@@ -101679,7 +101895,7 @@
 
 }
 
-# Río Gallegos
+# Rï¿½o Gallegos
 2399 = {
     unit = {
         x = 1699.000000
@@ -101726,7 +101942,7 @@
 
 }
 
-# Río Grande
+# Rï¿½o Grande
 2400 = {
     unit = {
         x = 1750.000000
@@ -102102,7 +102318,7 @@
 
 }
 
-# Belém
+# Belï¿½m
 2410 = {
     unit = {
         x = 2054.000000
@@ -102149,7 +102365,7 @@
 
 }
 
-# Santarém
+# Santarï¿½m
 2411 = {
     unit = {
         x = 1956.000000
@@ -102192,7 +102408,7 @@
 
 }
 
-# Óbidos
+# ï¿½bidos
 2412 = {
     text_position = {
         x = 1946.000000
@@ -102225,7 +102441,7 @@
 
 }
 
-# Marabá
+# Marabï¿½
 2413 = {
     unit = {
         x = 2003.000000
@@ -102263,7 +102479,7 @@
 
 }
 
-# Amapá
+# Amapï¿½
 2414 = {
     unit = {
         x = 1994.000000
@@ -102310,7 +102526,7 @@
 
 }
 
-# Macapá
+# Macapï¿½
 2415 = {
     unit = {
         x = 1993.000000
@@ -102428,7 +102644,7 @@
 
 }
 
-# Cuiabá
+# Cuiabï¿½
 2418 = {
     text_position = {
         x = 1974.000000
@@ -102448,7 +102664,7 @@
 
 }
 
-# Corumbá
+# Corumbï¿½
 2419 = {
     text_position = {
         x = 1955.000000
@@ -102615,7 +102831,7 @@
 
 }
 
-# São Luís
+# Sï¿½o Luï¿½s
 2424 = {
     unit = {
         x = 2112.000000
@@ -102772,7 +102988,7 @@
 
 }
 
-# Paraíba
+# Paraï¿½ba
 2428 = {
     unit = {
         x = 2240.000000
@@ -103074,7 +103290,7 @@
 
 }
 
-# Maceió
+# Maceiï¿½
 2434 = {
     unit = {
         x = 2235.000000
@@ -103383,7 +103599,7 @@
 
 }
 
-# Vitória da Conquista
+# Vitï¿½ria da Conquista
 2440 = {
     unit = {
         x = 2161.000000
@@ -103477,7 +103693,7 @@
 
 }
 
-# Sabará
+# Sabarï¿½
 2442 = {
     text_position = {
         x = 2115.000000
@@ -103510,7 +103726,7 @@
 
 }
 
-# Januária
+# Januï¿½ria
 2443 = {
     text_position = {
         x = 2143.000000
@@ -103624,7 +103840,7 @@
 
 }
 
-# São João del Rey
+# Sï¿½o Joï¿½o del Rey
 2446 = {
     unit = {
         x = 2093.000000
@@ -103769,7 +103985,7 @@
 
 }
 
-# Vitória
+# Vitï¿½ria
 2449 = {
     unit = {
         x = 2174.000000
@@ -103829,7 +104045,7 @@
 
 }
 
-# São Paulo
+# Sï¿½o Paulo
 2450 = {
     unit = {
         x = 2072.000000
@@ -104341,7 +104557,7 @@
 
 }
 
-# São Miguel
+# Sï¿½o Miguel
 2462 = {
     unit = {
         x = 1983.000000
@@ -107593,7 +107809,7 @@
 
 }
 
-# Forte São Joaquim
+# Forte Sï¿½o Joaquim
 2532 = {
     unit = {
         x = 1843.000000
@@ -108292,7 +108508,7 @@
 
 }
 
-# Tarauacá
+# Tarauacï¿½
 2549 = {
     unit = {
         x = 1719.000000
@@ -108350,7 +108566,7 @@
 
 }
 
-# Forte do Príncipe
+# Forte do Prï¿½ncipe
 2550 = {
     unit = {
         x = 1825.000000
@@ -114496,7 +114712,7 @@
 
 }
 
-# Vänern
+# Vï¿½nern
 2703 = {
     unit = {
         x = 3016.000000
@@ -114512,7 +114728,7 @@
     text_scale = 2.200000
 }
 
-# Vättern
+# Vï¿½ttern
 2704 = {
     text_position = {
         x = 3031.899902
@@ -114539,7 +114755,7 @@
     text_scale = 3.099999
 }
 
-# Ålands Hav
+# ï¿½lands Hav
 2706 = {
     unit = {
         x = 3115.000000
@@ -114616,7 +114832,7 @@
     text_scale = 3.099999
 }
 
-# Öresund
+# ï¿½resund
 2711 = {
     unit = {
         x = 2987.000000
@@ -114648,7 +114864,7 @@
     text_scale = 3.099999
 }
 
-# Peipsi Järv
+# Peipsi Jï¿½rv
 2713 = {
     unit = {
         x = 3233.000000
@@ -115253,7 +115469,7 @@
     text_scale = 2.400000
 }
 
-# Gulf of Almería
+# Gulf of Almerï¿½a
 2747 = {
     unit = {
         x = 2778.000000
@@ -118815,7 +119031,7 @@
 
 }
 
-# Coast of Amapá
+# Coast of Amapï¿½
 2981 = {
     unit = {
         x = 2021.000000
@@ -118910,7 +119126,7 @@
     text_scale = 7.199996
 }
 
-# Baia Paranaguá
+# Baia Paranaguï¿½
 2988 = {
     unit = {
         x = 2040.000000

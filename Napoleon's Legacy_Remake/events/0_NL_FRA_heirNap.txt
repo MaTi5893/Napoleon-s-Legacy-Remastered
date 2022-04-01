@@ -14,7 +14,7 @@ country_event = {
 		}
         FRA = {set_country_flag = joseph}
         SPA = {
-            prestige = -60
+            prestige = -83
         }
 		create_vassal = SPA
 	}
@@ -103,7 +103,7 @@ country_event = {
 		}
         FRA = {set_country_flag = joseph}
 		SPA = {
-            prestige = -20
+            prestige = -83
         }
         create_vassal = SPA
 	}

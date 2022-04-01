@@ -221,3 +221,9 @@
 2968;3001;canal;1723;3;Panama Canal
 2773;2774;canal;860;4;Bosphorus Strait
 2772;2773;canal;859;5;Dardanelles Strait
+2943;3112;canal;66;6;Lakes-Atlantic Strait
+3112;3113;canal;55;7;Ontario-Erie Strait
+3114;3113;canal;54;8;Huron-Erie Strait
+3112;3114;canal;46;9;Ontario-Huron Strait
+3114;3115;canal;176;10;Huron-Michigan Strait
+3114;3116;canal;177;11;Huron-Superior Strait

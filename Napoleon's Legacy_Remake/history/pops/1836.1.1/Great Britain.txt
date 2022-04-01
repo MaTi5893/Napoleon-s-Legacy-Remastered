@@ -22,7 +22,7 @@
 	soldiers = {
 		culture = Scotish
 		religion = protestant
-		size = 1100
+		size = 2000
 	}
 
 	artisans = {
@@ -54,7 +54,7 @@
 	soldiers = {
 		culture = Scotish
 		religion = protestant
-		size = 2000
+		size = 4000
 	}
 
 	artisans = {

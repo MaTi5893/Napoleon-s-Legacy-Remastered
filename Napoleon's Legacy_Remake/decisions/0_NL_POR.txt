@@ -83,6 +83,7 @@ political_decisions = {
 			factor = 1
 		}
 	}
+
 	instituto_industrial_de_lisboa = {
 		potential = {
 			OR = { tag = POR tag = UPB } 
@@ -112,6 +113,7 @@ political_decisions = {
 			factor = 1
 		}
 	}
+
 	escola_industrial_do_porto = {
 		potential = {
 			has_country_flag = portuguese_regeneration2
@@ -134,6 +136,7 @@ political_decisions = {
 			factor = 1
 		}
 	}
+	
     form_UPB = {
 		picture = upb_decision
 		potential = {

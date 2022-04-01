@@ -52,7 +52,7 @@
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 160000
+		size = 170000
 	}
 }
 #Oviedo (448000/112000 POPS)
@@ -134,7 +134,7 @@
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 80000
+		size = 90000
 	}
 
 }
@@ -236,7 +236,7 @@
 	farmers = {
 		culture = basque
 		religion = catholic
-		size = 10000
+		size = 30000
 	}
 }
 #Burgos (236000/59000 POPS)
@@ -274,7 +274,7 @@
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 60000
+		size = 70000
 	}
 
 	clergymen = {
@@ -318,7 +318,7 @@
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 45000
+		size = 60000
 	}
 
 }
@@ -364,7 +364,7 @@
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 70000
+		size = 90000
 	}
 }
 #Soria (216000/54000 POPS)
@@ -396,7 +396,7 @@
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 50000
+		size = 80000
 	}
 }
 #Salamanca (224000/56000 POPS)
@@ -428,7 +428,7 @@
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 49250
+		size = 60250
 	}
 
 }
@@ -474,7 +474,7 @@
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 46650
+		size = 60650
 	}
 }
 #Almendralejo (192000/48000 POPS)
@@ -506,7 +506,7 @@
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 43700
+		size = 70700
 	}
 }
 #Caceres (172000/43000 POPS)
@@ -538,7 +538,7 @@
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 38725
+		size = 55725
 	}
 
 }
@@ -626,7 +626,7 @@
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 80000
+		size = 100000
 	}
 }
 #Siguenza (204000/51000 POPS)
@@ -658,7 +658,7 @@
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 50000
+		size = 70000
 	}
 }
 #Toledo (302000/75500 POPS)
@@ -690,7 +690,7 @@
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 70000
+		size = 80000
 	}
 }
 #Cuenca (346000/86500 POPS)
@@ -722,7 +722,7 @@
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 78775
+		size = 85775
 	}
 }
 #Ciudad Real (288000/74000 POPS)
@@ -754,7 +754,7 @@
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 70000
+		size = 80000
 	}
 
 }
@@ -828,7 +828,7 @@
 	farmers = {
 		culture = basque
 		religion = catholic
-		size = 30000
+		size = 60000
 	}
 }
 #Pamplona (244000/61000 POPS)
@@ -928,7 +928,7 @@
 	farmers = {
 		culture = basque
 		religion = catholic
-		size = 19975
+		size = 39975
 	}
 }
 #Logrono (158000/39500 POPS)
@@ -966,7 +966,7 @@
 	farmers = {
 		culture = basque
 		religion = catholic
-		size = 20000
+		size = 47000
 	}
 
 }
@@ -1030,7 +1030,7 @@
 	farmers = {
 		culture = catalan
 		religion = catholic
-		size = 40000
+		size = 50000
 	}
 }
 #Huesca (224000/56000 POPS)
@@ -1092,7 +1092,7 @@
 	labourers = {
 		culture = catalan
 		religion = catholic
-		size = 20000
+		size = 35000
 	}
 }
 #Teruel (228000/57000 POPS)

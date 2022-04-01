@@ -1,0 +1,122 @@
+country_event = {		
+	id = 600037
+	trigger = {
+        OR = {
+            tag = CHL
+            tag = MEX
+            tag = ARG
+            tag = CLM
+            tag = VNZ
+            tag = ECU
+            tag = UCA
+            tag = PRG
+            tag = TEX
+        }
+		year = 1836
+		NOT = {year = 1850}
+        NOT = {has_country_flag = sphere_event}
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "EVTNAME600037"
+	desc = "EVTDESC600037"
+	option = {
+		name = "Approach our liberator, the USA !"
+        USA = {
+            diplomatic_influence = {
+                who = THIS
+                value = 300
+            }
+        }
+        set_country_flag = sphere_event
+        ai_chance = {
+			factor = 0.33
+            modifier = {
+                factor = 0.15
+                relation = { who = USA value = 100 }
+            }
+            modifier = {
+                factor = 0.15
+                relation = { who = USA value = 150 }
+            }
+            modifier = {
+                factor = 0.15
+                relation = { who = USA value = 200 }
+            }
+            modifier = {
+                factor = 0.15
+                relation = { who = SPA value = -150 }
+            }
+            modifier = {
+                factor = 0.15
+                relation = { who = SPA value = -200 }
+            }
+		}
+	}
+    option = {
+		name = "For our spanish brethen !"
+        SPA = {
+            diplomatic_influence = {
+                who = THIS
+                value = 300
+            }
+        }
+        set_country_flag = sphere_event
+        ai_chance = {
+            factor = 0.33
+            modifier = {
+                factor = 0.15
+                relation = { who = SPA value = 100 }
+            }
+            modifier = {
+                factor = 0.15
+                relation = { who = SPA value = 150 }
+            }
+            modifier = {
+                factor = 0.15
+                relation = { who = SPA value = 200 }
+            }
+            modifier = {
+                factor = 0.15
+                relation = { who = USA value = -150 }
+            }
+            modifier = {
+                factor = 0.15
+                relation = { who = USA value = -200 }
+            }
+        }
+	}
+    option = {
+		name = "We are better off alone !"
+        set_country_flag = sphere_event
+        ai_chance = {
+			factor = 0.33
+            modifier = {
+                factor = 0.15
+                relation = { who = USA value = 50 }
+            }
+            modifier = {
+                factor = 0.15
+                relation = { who = USA value = 0 }
+            }
+            modifier = {
+                factor = 0.15
+                relation = { who = SPA value = 50 }
+            }
+            modifier = {
+                factor = 0.15
+                relation = { who = SPA value = 0 }
+            }
+            modifier = {
+                factor = 0.15
+                relation = { who = USA value = -50 }
+            }
+            modifier = {
+                factor = 0.15
+                relation = { who = SPA value = -50 }
+            }
+		}
+	}
+}

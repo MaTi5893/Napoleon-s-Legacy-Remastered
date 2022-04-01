@@ -41,7 +41,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 15000
+		size = 30000
 	}
 
 	aristocrats = {
@@ -103,7 +103,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 2000
+		size = 20000
 	}
 
 	aristocrats = {
@@ -165,7 +165,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 15000
+		size = 30000
 	}
 
 	aristocrats = {
@@ -229,7 +229,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 3000
+		size = 7000
 	}
 }
 #Rosarito (16000/4000 POPS)
@@ -273,7 +273,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 4000
+		size = 10000
 	}
 
 	aristocrats = {
@@ -349,7 +349,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 30000
+		size = 40000
 	}
 
 	aristocrats = {
@@ -411,7 +411,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 5000
+		size = 10000
 	}
 }
 #Delicias (8000/2000 POPS)
@@ -443,7 +443,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 4000
+		size = 13000
 	}
 }
 #Parral (16000/4000 POPS)
@@ -475,7 +475,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 4000
+		size = 8000
 	}
 
 	aristocrats = {
@@ -539,7 +539,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 20000
+		size = 30000
 	}
 }
 #Saltillo (44000/11000 POPS)
@@ -583,7 +583,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 30000
+		size = 40000
 	}
 
 	clergymen = {
@@ -639,7 +639,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 30000
+		size = 45000
 	}
 }
 #Torreon (56000/14000 POPS)
@@ -671,7 +671,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 20000
+		size = 35000
 	}
 
 	clergymen = {
@@ -741,7 +741,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 40000
+		size = 50000
 	}
 
 	clergymen = {
@@ -797,7 +797,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 30000
+		size = 40000
 	}
 }
 #Matamoros (28000/7000 POPS)
@@ -829,7 +829,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 20000
+		size = 35000
 	}
 }
 #Ciudad Victoria (24000/6000 POPS)
@@ -861,7 +861,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 20000
+		size = 40000
 	}
 }
 #Durango-Sinaloa Region (252000)
@@ -895,7 +895,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 25000
+		size = 35000
 	}
 
 	aristocrats = {
@@ -957,7 +957,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 15000
+		size = 30000
 	}
 
 	aristocrats = {
@@ -1031,7 +1031,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 40000
+		size = 50000
 	}
 }
 #Culiacan (28000/7000 POPS)
@@ -1063,7 +1063,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 10000
+		size = 20000
 	}
 }
 #Zacatecas-Aguascalientes Region (568000)
@@ -1109,7 +1109,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 40000
+		size = 55000
 	}
 
 	clergymen = {
@@ -1165,7 +1165,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 50000
+		size = 60000
 	}
 }
 #Tepic (76000/19000 POPS)
@@ -1197,7 +1197,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 20000
+		size = 35000
 	}
 
 	clergymen = {
@@ -1255,7 +1255,7 @@
 	farmers = {
 		culture = mexican
 		religion = catholic
-		size = 60000
+		size = 80000
 	}
 
 	clergymen = {

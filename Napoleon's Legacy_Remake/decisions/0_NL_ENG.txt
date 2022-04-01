@@ -112,6 +112,7 @@ political_decisions = {
                                 vassal_of = THIS
                             }
                         }
+						empty = yes
                     }
 					
 				}
