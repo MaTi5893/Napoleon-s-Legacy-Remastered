@@ -4,11 +4,12 @@ political_decisions = {
 			is_greater_power = yes
 			primary_culture = south_german
 			NOT = {
-				exists = SGF
-				exists = GER
-				tag = AUS
-				tag = KUK
-				tag = HRO
+				OR = {
+					exists = SGF
+					exists = GER
+					tag = KUK
+					tag = HRO
+				}
 			}
 		}	
 		allow = {
