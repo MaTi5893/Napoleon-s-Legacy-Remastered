@@ -11,7 +11,11 @@
 	bureaucrats = {
 		culture = andean
 		religion = catholic
+<<<<<<< HEAD
 		size = 1000
+=======
+		size = 225
+>>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 	}
 
 	officers = {
@@ -23,7 +27,11 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
+<<<<<<< HEAD
 		size = 3000
+=======
+		size = 525
+>>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 	}
 
 	artisans = {
@@ -35,13 +43,21 @@
 	soldiers = {
 		culture = andean
 		religion = catholic
+<<<<<<< HEAD
 		size = 4000
+=======
+		size = 1100
+>>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
+<<<<<<< HEAD
 		size = 120000
+=======
+		size = 51875
+>>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 	}
 
 	clergymen = {
@@ -251,7 +267,11 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
+<<<<<<< HEAD
 		size = 1000
+=======
+		size = 275
+>>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 	}
 
 	artisans = {
@@ -263,13 +283,21 @@
 	soldiers = {
 		culture = andean
 		religion = catholic
+<<<<<<< HEAD
 		size = 3000
+=======
+		size = 1100
+>>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
+<<<<<<< HEAD
 		size = 60000
+=======
+		size = 26650
+>>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 	}
 }
 #Cucuta (84000/21000 POPS)
@@ -341,7 +369,11 @@
 	bureaucrats = {
 		culture = andean
 		religion = catholic
+<<<<<<< HEAD
 		size = 900
+=======
+		size = 150
+>>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 	}
 
 	officers = {
@@ -353,7 +385,11 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
+<<<<<<< HEAD
 		size = 2300
+=======
+		size = 200
+>>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 	}
 
 	artisans = {
@@ -365,13 +401,21 @@
 	soldiers = {
 		culture = andean
 		religion = catholic
+<<<<<<< HEAD
 		size = 3000
+=======
+		size = 1100
+>>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
+<<<<<<< HEAD
 		size = 60000
+=======
+		size = 16875
+>>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 	}
 
 	clergymen = {
@@ -501,7 +545,11 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
+<<<<<<< HEAD
 		size = 3000
+=======
+		size = 125
+>>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 	}
 
 	artisans = {
@@ -513,13 +561,21 @@
 	soldiers = {
 		culture = andean
 		religion = catholic
+<<<<<<< HEAD
 		size = 3000
+=======
+		size = 1100
+>>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
+<<<<<<< HEAD
 		size = 50000
+=======
+		size = 10575
+>>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 	}
 
 	clergymen = {

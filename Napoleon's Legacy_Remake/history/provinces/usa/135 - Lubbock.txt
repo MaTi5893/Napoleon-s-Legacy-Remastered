@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 owner = TEX
 controller = TEX
 add_core = TEX
+=======
+owner = USA
+controller = USA
+add_core = USA
+add_core = MEX add_core = TEX
+>>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 trade_goods = sulphur
 life_rating = 35

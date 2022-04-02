@@ -102,6 +102,19 @@ expand_citizenship2_title;Grant citizenship to the Phillipines;;;;Conceder la ci
 expand_citizenship2_desc;Now that Caraibes has been accepted, let's continue this propagation of citizenship to our last asian colonies, the Phillipines.;;;;Ahora que Iberia se ha unido, continuemos esta propagaci�n de la ciudadan�a a nuestras �ltimas colonias asi�ticas, las Filipinas.;;;x
 spanish_armada_title;Reestablish the Spanish Armada;;;;Restablecer la Armada Espa�ola;;;x
 spanish_armada_desc;With the British fleet being divided there's place for the Spanish Armada to reestablish itself as one the strongest fleet in the world;;;;Con la flota brit�nica dividida hay lugar para que la Armada Espa�ola se restablezca como una de las flotas m�s fuertes del mundo;;;x
+<<<<<<< HEAD
+=======
+stop_usa_expansion_title;We must stop USA's expansion;;;;Debemos detener la expansi�n de EE.UU.;;;x
+stop_usa_expansion_desc;The USA have looked to expand west since the French Emperor Napoleon sold them Lousiana. It's time to put an end to their expansion! However, this will stop us from focusing on matters in the south.;;;;Los Estados Unidos han buscado expandirse hacia el oeste desde que el emperador franc�s Napole�n les vendi� Lousiana. Es hora de poner fin a su expansi�n. Sin embargo, esto nos impedir� centrarnos en los asuntos del sur.;;;x
+expand_mississipi_title;Expand to the Mississippi!;;;;!Expansi�n hacia el Mississippi!;;;x
+expand_mississipi_desc;Now that we stopped the USA, it's time to expand our border to the Mississippi river and take Louisiana!;;;;Ahora que hemos detenido a los Estados Unidos, es hora de ampliar nuestra frontera hasta el r�o Misisipi y tomar Luisiana.;;;x
+expand_south_america_title;Expansion in the south of the USA!;;;;!Expansi�n en el sur de los Estados Unidos!;;;x
+expand_south_america_desc;Now that we have expanded to the state of Tennessee and Carolina, we must try our best to accept the people living there so that they will not rise up against us in the future!;;;;Ahora que nos hemos expandido al estado de Tennessee y Carolina, debemos esforzarnos por aceptar a las personas que viven all� para que no se levanten contra nosotros en el futuro.;;;x
+accept_mayan_title;Acceptance of the Mayan people;;;;Aceptar al pueblo maya;;;x
+accept_mayan_desc;All Mayan people are reunited under the Mexican flag and it's time to accept them as true citizens of our great country! However, this will stop us from focusing on matters in the north.;;;;Todos los mayas est�n reunidos bajo la bandera mexicana y es hora de aceptarlos como verdaderos ciudadanos de nuestro gran pa�s. Sin embargo, esto nos impedir� concentrarnos en los asuntos del norte.;;;x
+expand_central_america_title;Expansion in Central America;;;;Expansi�n a Centroam�rica;;;x
+expand_central_america_desc;The USCA is unstable and going through difficult times, we must seize this opportunity to conquer them!;;;;La USCA es inestable y atraviesa momentos dif�ciles, �debemos aprovechar esta oportunidad para conquistarlos!;;;x
+>>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 accept_central_america_title;Acceptance of the Central Americans;;;;Aceptar a los centroamericanos;;;x
 accept_central_america_desc;Now that we have seized Central America, we must keep this population in our country and as a new world nation, the best option is to give them citizenship!;;;;Ahora que nos hemos apoderado de Centroam�rica, debemos mantener a esta poblaci�n en nuestro pa�s y como naci�n del nuevo mundo, �la mejor opci�n es darles la ciudadan�a!;;;x
 the_crown_of_Bosnia_title;We reign over the Bosniak crowns!;;;;�Reinamos sobre las coronas bosnias!;;;x

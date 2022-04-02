@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 owner = USA
 controller = USA
+=======
+owner = ICF
+controller = ICF
+>>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 add_core = ICF
 add_core = USA
 trade_goods = grain
