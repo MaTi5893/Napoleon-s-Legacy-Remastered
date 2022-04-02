@@ -1,38 +1,17 @@
 country_event = {		
 	id = 600037
-	trigger = {
-        OR = {
-            tag = CHL
-            tag = MEX
-            tag = ARG
-            tag = CLM
-            tag = VNZ
-            tag = ECU
-            tag = UCA
-            tag = PRG
-            tag = TEX
-            tag = BOL
-            tag = PER
-        }
-		year = 1836
-		NOT = {year = 1850}
-        NOT = {has_country_flag = sphere_event}
-	}
-
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes
 	title = "EVTNAME600037"
 	desc = "EVTDESC600037"
 	option = {
-		name = "Approach our liberator, the USA !"
+		name = "Approach our liberator, the USA!"
         USA = {
             diplomatic_influence = {
                 who = THIS
                 value = 300
             }
         }
-        set_country_flag = sphere_event
+        #set_country_flag = sphere_event
         ai_chance = {
 			factor = 0.33
             modifier = {
@@ -58,14 +37,14 @@ country_event = {
 		}
 	}
     option = {
-		name = "For our spanish brethen !"
+		name = "For our Spanish brethen!"
         SPA = {
             diplomatic_influence = {
                 who = THIS
                 value = 300
             }
         }
-        set_country_flag = sphere_event
+        #set_country_flag = sphere_event
         ai_chance = {
             factor = 0.33
             modifier = {
@@ -91,8 +70,8 @@ country_event = {
         }
 	}
     option = {
-		name = "We are better off alone !"
-        set_country_flag = sphere_event
+		name = "We are better off alone!"
+        #set_country_flag = sphere_event
         ai_chance = {
 			factor = 0.33
             modifier = {
