@@ -104,26 +104,8 @@ country_event = {
 
 country_event = {		
 	id = 600038
-	trigger = {
-        OR = {
-            tag = CHL
-            tag = ARG
-            tag = CLM
-            tag = VNZ
-            tag = ECU
-            tag = UCA
-            tag = PRG
-            tag = TEX
-            tag = BOL
-            tag = PEU
-        }
-		MEX = {is_greater_power = yes}
-        NOT = {has_country_flag = sphere_event2}
-	}
 
-	mean_time_to_happen = {
-		days = 1
-	}
+	is_triggered_only = yes 
 	title = "EVTNAME600038"
 	desc = "EVTDESC600038"
 	option = {
@@ -134,7 +116,7 @@ country_event = {
                 value = 300
             }
         }
-        set_country_flag = sphere_event2
+        #set_country_flag = sphere_event2
         ai_chance = {
 			factor = 0.33
             modifier = {
@@ -167,7 +149,7 @@ country_event = {
                 value = 300
             }
         }
-        set_country_flag = sphere_event2
+        #set_country_flag = sphere_event2
         ai_chance = {
             factor = 0.33
             modifier = {
@@ -194,7 +176,7 @@ country_event = {
 	}
     option = {
 		name = "We are better off alone !"
-        set_country_flag = sphere_event2
+        #set_country_flag = sphere_event2
         ai_chance = {
 			factor = 0.33
             modifier = {
@@ -223,4 +205,31 @@ country_event = {
             }
 		}
 	}
+}
+country_event = {
+	id = 600039
+	trigger = { tag = MEX NOT = { has_country_flag = MEXgp }}
+	is_triggered_only = yes
+	title = "EVTNAME600039"
+	desc = "EVTDESC600039"	#Written by Kile211#4228 on Discord for TGC's great power competition
+	immediate = { 	
+		any_country = { 
+			limit = { 
+			OR = {           	
+			tag = CHL
+            tag = ARG
+            tag = CLM
+            tag = VNZ
+            tag = ECU
+            tag = UCA
+            tag = PRG
+            tag = TEX
+            tag = BOL
+            tag = PEU
+			}
+			}
+		country_event = 600038 
+		}
+	}
+	option = { name = "Viva Mexico!" prestige = 5 set_country_flag = MEXgp }
 }

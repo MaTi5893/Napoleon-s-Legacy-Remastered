@@ -57,6 +57,7 @@ on_new_great_nation =
 {
 	10 = 19310
 	10 = 19320
+	10 = 600039
 }
 
 on_lost_great_nation = 

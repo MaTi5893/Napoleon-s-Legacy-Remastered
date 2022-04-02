@@ -1,0 +1,32 @@
+country_event = {		
+	id = 600040
+	trigger = {
+		tag = BAV
+		year = 1836
+        war = yes
+		NOT = {year = 1840}
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	title = "EVTNAME600040"
+	desc = "EVTDESC600040"
+	option = {
+		name = "M"	
+		add_country_modifier = {
+			name = liberation_war
+			duration = 1459
+		}
+	}
+    option = {
+		name = "Remove Kebab !"	
+		add_country_modifier = {
+			name = liberation_war
+			duration = 1459
+		}
+	}
+}

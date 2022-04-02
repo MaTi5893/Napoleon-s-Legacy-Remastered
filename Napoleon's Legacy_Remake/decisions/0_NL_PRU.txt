@@ -32,6 +32,9 @@ political_decisions = {
 		allow = {
 			owns = 690
 			is_greater_power = yes
+			all_core = {
+				owned_by = THIS
+			}
 		}
 		effect = {
 			set_country_flag = greater_prussia
@@ -80,7 +83,10 @@ political_decisions = {
 			}
 		}
 		allow = {
+			war = no
+			is_greater_power = yes
 			state_n_government = 1
+			
 			GER = {
 				any_core = {
 					owned_by = FRA
