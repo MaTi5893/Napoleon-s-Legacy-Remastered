@@ -527,10 +527,7 @@ political_decisions = {
 			any_country = {
 				limit = {
 					vassal_of = THIS
-					OR = {
-						primary_culture = north_andean
-						primary_culture = south_andean
-					}
+					primary_culture = andean
 					NOT = { tag = BOL tag = PEU }
 				}
 				annex_to = THIS

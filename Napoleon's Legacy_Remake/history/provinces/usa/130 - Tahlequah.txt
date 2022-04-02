@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-=======
-owner = USA
-controller = USA 
-add_core = USA
->>>>>>> 78d454a9416146755f72ef8ef1351e4535f4c9ad
 trade_goods = grain
 life_rating = 35
