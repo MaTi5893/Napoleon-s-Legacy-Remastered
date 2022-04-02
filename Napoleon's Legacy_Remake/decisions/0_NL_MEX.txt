@@ -49,26 +49,10 @@ political_decisions = {
                     remove_core = UCA
                 }
             }
+            add_accepted_culture=central_american
 			set_country_flag = mexican_empire
 		}
 	}
-    
-    accept_central_america = {
-        potential = {
-            tag = MEX       
-            has_country_flag = mexican_empire
-	        NOT= {accepted_culture = central_american}
-        }
-        allow = {
-            war=no
-            nationalism_n_imperialism = 1
-            is_greater_power=yes
-        }
-        effect = {
-            add_accepted_culture=central_american
-            prestige = 10
-        }
-    }
 
 	acquire_cuba = {
         picture = central_america_decision
@@ -78,7 +62,7 @@ political_decisions = {
 		}
 		allow = {
 			war = no
-            
+            nationalism_n_imperialism = 1
             CUB = {
                 all_core = {
                     OR = {
@@ -134,8 +118,8 @@ political_decisions = {
                 tag = MEX
             }
             OR = {
-                USA = {accepted_culture = texan}
-                MEX = {accepted_culture = texan}
+                NOT = {USA = {accepted_culture = texan}}
+                NOT = {MEX = {accepted_culture = texan}}
             }
         }
         allow ={
