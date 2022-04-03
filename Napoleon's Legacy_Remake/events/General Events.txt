@@ -6,7 +6,7 @@ country_event = {		#Deleted for an mp campaign, if the game feels worse without 
 	trigger = {
 		ai = no
 		NOT = {
-			has_leader = "John Cena"
+			has_leader = "Ryan Gosling"
 		}
 	}
 	mean_time_to_happen = {
@@ -16,7 +16,7 @@ country_event = {		#Deleted for an mp campaign, if the game feels worse without 
 	desc = "Our prayers to RNGesus have been answered"
 	immediate = {
 		define_general = {
-			name = "John Cena"
+			name = "Ryan Gosling"
 			#+3 defence, +15% reliability, +7.5% morale
 			personality = defence_3.3
 			#+3 attack, +15% reliability, -3% attrition
@@ -24,7 +24,7 @@ country_event = {		#Deleted for an mp campaign, if the game feels worse without 
 		}
 	}
 	option = {
-		name = "It's about time..."		
+		name = "He's literally me!"		
 	}
 }
 

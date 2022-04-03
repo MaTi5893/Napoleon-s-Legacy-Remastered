@@ -8,7 +8,7 @@ leader = {
 	prestige = 0.3
 }
 leader = {
-	name = "Jose Joaquú‹ Prieto"
+	name = "Jose Joaquï¿½ï¿½ Prieto"
 	#picture = aus_gen_rukavina
 	date = 1829.1.1
 	type = land
@@ -30,25 +30,25 @@ army = {
 	name = "1. Army"
 	location = 2349
 	regiment = {
-		name= "1. División de Infanteru"
+		name= "1. Divisiï¿½n de Infanteru"
 		type = infantry
 		home = 2348
 	}
 
 	regiment = {
-		name= "2. División de Infanteru"
+		name= "2. Divisiï¿½n de Infanteru"
 		type = infantry
 		home = 2348
 	}
 
 	regiment = {
-		name= "3. División de Infanteru"
+		name= "3. Divisiï¿½n de Infanteru"
 		type = infantry
 		home = 2348
 	}
 
 	regiment = {
-		name= "4. División de Infanteru"
+		name= "4. Divisiï¿½n de Infanteru"
 		type = infantry
 		home = 2349
 	}
@@ -74,7 +74,7 @@ army = {
 	regiment = {
 		name= "3. Artillery"
 		type = artillery
-		home = 2349
+		home = 2350
 	}
 	
 	regiment = {
@@ -101,25 +101,25 @@ army = {
 	}
 	
 	regiment = {
-		name= "1. División de Infanteru"
+		name= "1. Divisiï¿½n de Infanteru"
 		type = infantry
 		home = 2379
 	}
 
 	regiment = {
-		name= "2. División de Infanteru"
+		name= "2. Divisiï¿½n de Infanteru"
 		type = infantry
 		home = 2379
 	}
 
 	regiment = {
-		name= "3. División de Infanteru"
+		name= "3. Divisiï¿½n de Infanteru"
 		type = infantry
 		home = 2379
 	}
 
 	regiment = {
-		name= "4. División de Infanteru"
+		name= "4. Divisiï¿½n de Infanteru"
 		type = infantry
 		home = 2348
 	}
@@ -127,7 +127,7 @@ army = {
 	regiment = {
 		name= "1. Artillery"
 		type = artillery
-		home = 2348
+		home = 2351
 	}
 	
 	regiment = {
@@ -151,6 +151,6 @@ army = {
 	regiment = {
 		name= "5. Artillery"
 		type = artillery
-		home = 2349
+		home = 2352
 	}
 }

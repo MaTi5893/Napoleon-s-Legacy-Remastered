@@ -2701,13 +2701,13 @@
     farmers = {
         culture = texan
         religion = protestant
-        size = 2675
+        size = 5075
     }
 
     slaves = {
         culture = afro_american
         religion = protestant
-        size = 750
+        size = 15750
     }
 
     aristocrats = {
@@ -2781,13 +2781,13 @@
     farmers = {
         culture = texan
         religion = protestant
-        size = 2220
+        size = 8200
     }
 
     slaves = {
         culture = afro_american
         religion = protestant
-        size = 500
+        size = 14500
     }
 
     aristocrats = {
@@ -2873,19 +2873,19 @@
     soldiers = {
         culture = texan
         religion = protestant
-        size = 1100
+        size = 2100
     }
 
     farmers = {
         culture = texan
         religion = protestant
-        size = 1575
+        size = 5750
     }
 
     slaves = {
         culture = afro_american
         religion = protestant
-        size = 250
+        size = 10250
     }
 
     aristocrats = {
@@ -3007,7 +3007,7 @@
     farmers = {
         culture = mexican
         religion = catholic
-        size = 450
+        size = 10000
     }
 }
 #"ruled" by Texas/de facto under Native Control
@@ -3034,13 +3034,13 @@
     farmers = {
         culture = texan
         religion = protestant
-        size = 75
+        size = 5000
     }
 
     slaves = {
         culture = afro_american
         religion = protestant
-        size = 10
+        size = 10000
     }
 
     aristocrats = {
@@ -3076,33 +3076,33 @@
 #Lubbock (8000/2000 POPS)
 135 = {
     aristocrats = {
-        culture = native_american_minor
+        culture = texan
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = texan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = texan
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = texan
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = texan
         religion = animist
-        size = 1800
+        size = 30000
     }
 }
 #El Paso (9000/2250 POPS)
@@ -3164,7 +3164,7 @@
     farmers = {
         culture = mexican
         religion = catholic
-        size = 225
+        size = 22500
     }
 }
 #Louisiana Region (280000)
@@ -5054,7 +5054,7 @@
     farmers = {
         culture = native_american_minor
         religion = protestant
-        size = 57802
+        size = 7802
     }
 
     clergymen = {
@@ -5108,7 +5108,7 @@
     soldiers= {
         culture = native_american_minor
         religion = protestant
-        size = 6423
+        size = 3423
     }
 
     soldiers= {
@@ -5152,7 +5152,7 @@
     farmers = {
         culture = native_american_minor
         religion = protestant
-        size = 38632
+        size = 8632
     }
 
     clergymen = {
@@ -5212,7 +5212,7 @@
     soldiers= {
         culture = native_american_minor
         religion = protestant
-        size = 4293
+        size = 1293
     }
 
     soldiers= {
@@ -5836,25 +5836,25 @@
 #Cleveland (208000/52000 POPS)
 178 = {
     clergymen = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 315
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 2025
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 405
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 37755
     }
@@ -5878,25 +5878,25 @@
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 35
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 225
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 45
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 4195
     }
@@ -5922,37 +5922,37 @@
 #Columbus (268000/67000 POPS)
 179 = {
     bureaucrats = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 562
     }
 
     officers = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 247
     }
 
     clergymen = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 337
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 2250
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 450
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 41197
     }
@@ -5994,37 +5994,37 @@
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 63
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 28
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 38
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 250
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 50
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 4578
     }
@@ -6068,25 +6068,25 @@
 #Sandusky (188000/47000 POPS)
 180 = {
     clergymen = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 225
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 1665
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 337
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 31072
     }
@@ -6110,25 +6110,25 @@
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 25
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 185
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 38
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 3453
     }
@@ -6154,25 +6154,25 @@
 #Dayton (224000/56000 POPS)
 181 = {
     clergymen = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 292
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 2205
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 450
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 41152
     }
@@ -6196,25 +6196,25 @@
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 33
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 245
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 50
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 4573
     }
@@ -6240,25 +6240,25 @@
 #Cincinnati (296000/74000 POPS)
 182 = {
     clergymen = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 337
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 2385
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 472
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 44505
     }
@@ -6318,25 +6318,25 @@
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 38
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 265
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 53
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 4945
     }
@@ -6398,25 +6398,25 @@
 #Marietta (160000/40000 POPS)
 183 = {
     clergymen = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 202
     }
 
     artisans = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 1755
     }
 
     soldiers = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 360
     }
 
     farmers = {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 32782
     }
@@ -6440,25 +6440,25 @@
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 23
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 195
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 40
     }
 
     soldiers= {
-        culture = native_american_minor
+        culture = yankee
         religion = protestant
         size = 3643
     }
@@ -6876,7 +6876,7 @@
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 350
+        size = 3000
     }
 
     farmers = {
@@ -8570,7 +8570,7 @@
     soldiers = {
         culture = dixie
         religion = protestant
-        size = 2000
+        size = 3500
     }
 
     farmers = {
@@ -9215,7 +9215,7 @@
     farmers = {
         culture = dixie
         religion = protestant
-        size = 30000
+        size = 60000
     }
 
     clergymen = {
@@ -9453,13 +9453,13 @@
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 2000
+        size = 5000
     }
 
     farmers = {
         culture = yankee
         religion = protestant
-        size = 66950
+        size = 116950
     }
 
     bureaucrats = {
@@ -10115,7 +10115,7 @@
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 2000
+        size = 3500
     }
 
     farmers = {
@@ -10177,7 +10177,7 @@
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 2000
+        size = 3500
     }
 
     farmers = {
@@ -10541,7 +10541,7 @@
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 2000
+        size = 4000
     }
 
     farmers = {

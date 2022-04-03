@@ -12,7 +12,7 @@
     bureaucrats = {
         culture = central_american
         religion = catholic
-        size = 255
+        size = 1000
         militancy = 9
     }
 
@@ -26,7 +26,7 @@
     clergymen = {
         culture = central_american
         religion = catholic
-        size = 1105
+        size = 2300
         militancy = 9
     }
 
@@ -40,14 +40,14 @@
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 1870
+        size = 3000
         militancy = 9
     }
 
     farmers = {
         culture = central_american
         religion = catholic
-        size = 99195
+        size = 160000
         militancy = 9
     }
 }
@@ -63,7 +63,7 @@
     clergymen = {
         culture = central_american
         religion = catholic
-        size = 765
+        size = 2000
         militancy = 9
     }
 
@@ -77,14 +77,14 @@
     soldiers = {
         culture = central_american
         religion = catholic
-        size = 765
+        size = 2000
         militancy = 9
     }
 
     farmers = {
         culture = central_american
         religion = catholic
-        size = 67915
+        size = 129879   
         militancy = 9
     }
 }

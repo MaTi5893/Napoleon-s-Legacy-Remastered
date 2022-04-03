@@ -1,22 +1,8 @@
 country_event = {		
 	id = 600013
-	trigger = {
-		tag = FRA
-		NOT = {year = 1840}
-		ai=no
-		SPA = {
-			ai = yes
-		}
-		HAN = {
-			ai = yes 
-		}
-	}
 
-	fire_only_once = yes
+	is_triggered_only = yes
 
-	mean_time_to_happen = {
-		days = 1
-	}
 	title = "EVTNAME600013"
 	desc = "EVTDESC600013"
 	picture = "napoleon_death"
@@ -28,7 +14,7 @@ country_event = {
 		}
         FRA = {set_country_flag = joseph}
         SPA = {
-            prestige = -60
+            prestige = -83
         }
 		create_vassal = SPA
 	}
@@ -102,23 +88,10 @@ country_event = {
 
 country_event = {		
 	id = 600018
-	trigger = {
-		tag = FRA
-		NOT = {year = 1840}
-		ai=no
-		SPA = {
-			ai = yes
-		}
-		HAN = {
-			ai = no
-		}
-	}
 
-	fire_only_once = yes
+	is_triggered_only = yes
 
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	title = "EVTNAME600018"
 	desc = "EVTDESC600018"
 	picture = "napoleon_death"
@@ -130,7 +103,7 @@ country_event = {
 		}
         FRA = {set_country_flag = joseph}
 		SPA = {
-            prestige = -20
+            prestige = -83
         }
         create_vassal = SPA
 	}
@@ -149,6 +122,7 @@ country_event = {
 			duration = -1
 		}
 		government = democracy
+		political_reform = wealth_voting
         FRA = {set_country_flag = republic}
 	}
 	option = {
@@ -171,22 +145,9 @@ country_event = {
 
 country_event = {		
 	id = 600019
-	trigger = {
-		tag = FRA
-		NOT = {year = 1840}
-		SPA = {
-			ai = no
-		}
-		HAN = {
-			ai = yes
-		}
-	}
 
-	fire_only_once = yes
+	is_triggered_only = yes
 
-	mean_time_to_happen = {
-		days = 1
-	}
 	title = "EVTNAME600019"
 	desc = "EVTDESC600019"
 	picture = "napoleon_death"
@@ -218,6 +179,7 @@ country_event = {
 			duration = -1
 		}
 		government = democracy
+		political_reform = wealth_voting
         FRA = {set_country_flag = republic}
 	}
 	option = {
@@ -240,23 +202,9 @@ country_event = {
 
 country_event = {		
 	id = 600020
-	trigger = {
-		tag = FRA
-		NOT = {year = 1840}
-		ai=no
-		SPA = {
-			ai = no
-		}
-		HAN = {
-			ai = no
-		}
-	}
 
-	fire_only_once = yes
+	is_triggered_only = yes
 
-	mean_time_to_happen = {
-		days = 1
-	}
 	title = "EVTNAME600020"
 	desc = "EVTDESC600020"
 	picture = "napoleon_death"
@@ -278,6 +226,7 @@ country_event = {
 			duration = -1
 		}
 		government = democracy
+		political_reform = wealth_voting
         FRA = {set_country_flag = republic}
 		ai_chance = {
 			factor = 0.25
@@ -312,7 +261,6 @@ country_event = {
 	trigger = {
 		tag = FRA
 		NOT = {year = 1850}
-		ai=no
 		SPA = {
 			all_core = {
                 owned_by = THIS
@@ -328,8 +276,6 @@ country_event = {
 
     title = "EVTNAME600015"
 	desc = "EVTDESC600015"
-
-    is_triggered_only = yes
 
     option = {
         name = "A spanish revolt... again..."
@@ -351,7 +297,6 @@ country_event = {
 	trigger = {
 		tag = FRA
 		NOT = {year = 1850}
-		ai=no
 		HAN = {
 			all_core = {
                 owned_by = THIS
@@ -367,8 +312,6 @@ country_event = {
 
     title = "EVTNAME600016"
 	desc = "EVTDESC600016"
-
-    is_triggered_only = yes
 
     option = {
         name = "A german revolt... again..."

@@ -668,7 +668,7 @@ political_decisions = {
 		effect = {
 			prestige =5
 			854 = {
-				owner = {country_event = 600030}
+				owner = {country_event = 600029}
 			}
 			set_country_flag=ask_malta
 		}

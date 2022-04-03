@@ -3,7 +3,7 @@ country_event = {
 	id = 77700
 
 	trigger = {
-		tag = TUR
+		tag = LCT
 		year = 1836	
 	}
 	
@@ -21,5 +21,11 @@ country_event = {
 		name = "ottoman_canals_title" 
 		enable_canal = 4
 		enable_canal = 5
+		enable_canal = 6
+		enable_canal = 7
+		enable_canal = 8
+		enable_canal = 9
+		enable_canal = 10
+		enable_canal = 11
 	}
 }

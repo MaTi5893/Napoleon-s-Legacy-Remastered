@@ -130,7 +130,7 @@ leader = {
 
 army = {
 	name = "US 1st Corps"
-	location = 132
+	location = 235
 	regiment = {
 		name= "1st Infantry Regiment"
 		type = infantry
@@ -194,7 +194,7 @@ army = {
 
 
 army = {
-	name = "US 1st Corps"
+	name = "US 2nd Corps"
 	location = 187
 	regiment = {
 		name= "5th Infantry Regiment"
@@ -211,19 +211,19 @@ army = {
 	regiment = {
 		name= "7th Infantry Regiment"
 		type = infantry
-		home = 132
+		home = 211
 	}
 
 	regiment = {
 		name= "8th Infantry Regiment"
 		type = infantry
-		home = 133
+		home = 188
 	}
 
 	regiment = {
 		name= "2nd Cavalry Regiment"
 		type = hussar
-		home = 137
+		home = 243
 	}
 
 	regiment = {

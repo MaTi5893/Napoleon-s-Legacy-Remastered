@@ -11,7 +11,7 @@
 	bureaucrats = {
 		culture = andean
 		religion = catholic
-		size = 225
+		size = 1000
 	}
 
 	officers = {
@@ -23,7 +23,7 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 525
+		size = 3000
 	}
 
 	artisans = {
@@ -35,13 +35,13 @@
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 1100
+		size = 4000
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 51875
+		size = 120000
 	}
 
 	clergymen = {
@@ -251,7 +251,7 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 275
+		size = 1000
 	}
 
 	artisans = {
@@ -263,13 +263,13 @@
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 1100
+		size = 3000
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 26650
+		size = 60000
 	}
 }
 #Cucuta (84000/21000 POPS)
@@ -341,7 +341,7 @@
 	bureaucrats = {
 		culture = andean
 		religion = catholic
-		size = 150
+		size = 900
 	}
 
 	officers = {
@@ -353,7 +353,7 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 200
+		size = 2300
 	}
 
 	artisans = {
@@ -365,13 +365,13 @@
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 1100
+		size = 3000
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 16875
+		size = 60000
 	}
 
 	clergymen = {
@@ -501,7 +501,7 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 125
+		size = 3000
 	}
 
 	artisans = {
@@ -513,13 +513,13 @@
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 1100
+		size = 3000
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 10575
+		size = 50000
 	}
 
 	clergymen = {

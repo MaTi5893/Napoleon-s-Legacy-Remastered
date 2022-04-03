@@ -4,11 +4,12 @@ political_decisions = {
 			is_greater_power = yes
 			primary_culture = south_german
 			NOT = {
-				exists = SGF
-				exists = GER
-				tag = AUS
-				tag = KUK
-				tag = HRO
+				OR = {
+					exists = SGF
+					exists = GER
+					tag = KUK
+					tag = HRO
+				}
 			}
 		}	
 		allow = {
@@ -292,6 +293,7 @@ political_decisions = {
 				limit = {
 					is_culture_group = germanic
 					in_sphere = THIS
+					NOT = { tag = LCT }
 				}
 				country_event = { id=11101 days=0 }
 			}
@@ -526,10 +528,7 @@ political_decisions = {
 			any_country = {
 				limit = {
 					vassal_of = THIS
-					OR = {
-						primary_culture = north_andean
-						primary_culture = south_andean
-					}
+					primary_culture = andean
 					NOT = { tag = BOL tag = PEU }
 				}
 				annex_to = THIS

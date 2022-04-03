@@ -8,18 +8,17 @@ country_event = {
 
 	option = {
 		name = "Convert them to Artisans!"
-		any_owned = {
-			is_core = THIS
-				any_pop = {
-					limit = { 
-						AND = {
-							is_primary_culture = no
-							is_accepted_culture = no
-						}
-						type = craftsmen
+		any_core = {
+			any_pop = {
+				limit = { 
+					AND = {
+						is_primary_culture = no
+						is_accepted_culture = no
 					}
-					pop_type = artisans
+					type = craftsmen
 				}
+				pop_type = artisans
+			}
 				
 		}
 		

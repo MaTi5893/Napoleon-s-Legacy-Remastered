@@ -113,7 +113,7 @@ form_celtic_union = {
 			picture = brittany
 			potential = {
 				tag = CEL
-				NOT = { has_country_flag = recover_brittany }	
+				NOT = { accepted_culture = breton }	
 			}
 			allow = { 
 				all_core = {
@@ -125,8 +125,7 @@ form_celtic_union = {
 			}
 			effect = {
 				add_accepted_culture = breton
-				FRA_420 = {owned_by = THIS}
-				set_country_flag = recover_brittany
+				FRA_420 = {add_core = THIS }
 			}
 	}
 }

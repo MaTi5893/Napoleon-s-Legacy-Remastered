@@ -1335,3 +1335,11 @@ brazil_united = {
 	global_pop_consciousness_modifier = -0.02
 	global_pop_militancy_modifier = -0.02
 }
+
+true_german = {
+	mobilisation_size = 0.02
+	global_population_growth = 0.0001
+	global_pop_militancy_modifier = -0.01
+	global_pop_consciousness_modifier = -0.01
+	land_organisation = 0.1
+}

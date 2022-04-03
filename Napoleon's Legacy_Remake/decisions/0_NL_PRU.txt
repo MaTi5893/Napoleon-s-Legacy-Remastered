@@ -32,6 +32,9 @@ political_decisions = {
 		allow = {
 			owns = 690
 			is_greater_power = yes
+			all_core = {
+				owned_by = THIS
+			}
 		}
 		effect = {
 			set_country_flag = greater_prussia
@@ -69,7 +72,13 @@ political_decisions = {
 	declaration_an_mein_volk= {
 		picture = decision_volk_PRU
 		potential = {
-			tag = PRU
+			OR = {
+				tag = PRU
+				AND = {
+					tag = BAV
+					accepted_culture = north_german
+				}
+			}
 			NOT = {has_country_flag = declaration_an_mein_volk}
 			NOT = {
 				OR = {
@@ -80,7 +89,10 @@ political_decisions = {
 			}
 		}
 		allow = {
+			war = no
+			is_greater_power = yes
 			state_n_government = 1
+			
 			GER = {
 				any_core = {
 					owned_by = FRA

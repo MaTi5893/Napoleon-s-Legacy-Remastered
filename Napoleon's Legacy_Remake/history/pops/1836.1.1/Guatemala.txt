@@ -11,7 +11,7 @@
     bureaucrats = {
         culture = central_american
         religion = catholic
-        size = 297
+        size = 1000
     }
 
     officers = {
@@ -23,7 +23,7 @@
     clergymen = {
         culture = central_american
         religion = catholic
-        size = 467
+        size = 3000
     }
 
     artisans = {
@@ -41,7 +41,7 @@
     farmers = {
         culture = central_american
         religion = catholic
-        size = 39695
+        size = 70000
     }
 
     clergymen = {
@@ -97,7 +97,7 @@
     farmers = {
         culture = central_american
         religion = catholic
-        size = 9180
+        size = 20000
     }
 
     clergymen = {

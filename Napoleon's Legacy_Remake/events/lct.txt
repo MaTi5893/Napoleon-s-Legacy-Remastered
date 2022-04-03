@@ -1,0 +1,89 @@
+country_event = { 	
+	id = 600420
+	trigger = { 
+		tag = LCT
+	}
+	fire_only_once = yes 
+	mean_time_to_happen = { days = 1 } 
+	title = "EVTNAME600420"
+	desc = "EVTDESC600420"
+	immediate = { 
+		any_country = { 
+			limit = {
+				tag = FRA 
+				SPA = {
+					ai = yes
+				}
+				HAN = {
+					ai = yes 
+				}
+			}
+		country_event = 600013
+		}
+		any_country = { 
+			limit = {
+				tag = FRA 
+				SPA = {
+					ai = yes
+				}
+				HAN = {
+					ai = no
+				}
+			}
+		country_event = 600018
+		}
+		any_country = { 
+			limit = {
+				tag = FRA 
+				SPA = {
+					ai = no
+				}
+				HAN = {
+					ai = yes
+				}
+			}
+		country_event = 600019
+		}
+		any_country = { 
+			limit = {
+				tag = FRA 
+				SPA = {
+					ai = no
+				}
+				HAN = {
+					ai = no
+				}
+			}
+		country_event = 600020
+		}
+		any_country = {
+			limit = { is_greater_power = yes }
+			treasury = 100000
+		}
+		any_country = {
+			limit = { is_greater_power = no }
+			treasury = 50000
+		}
+		any_country = { 
+			limit = {           
+				OR = {
+				tag = CHL
+            			tag = MEX
+            			tag = ARG
+         			tag = CLM
+            			tag = VNZ
+            			tag = ECU
+            			tag = UCA
+            			tag = PRG
+            			tag = TEX
+            			tag = BOL
+            			tag = PEU
+				}	
+			}
+		country_event = 600037
+		}
+	}
+	option = { 
+		name = "OK"
+	}
+}

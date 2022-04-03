@@ -1,0 +1,67 @@
+political_decisions = { 
+    italian_expansion = {
+        picture = north_italy_decision
+        potential = {
+            tag = BAV
+            has_country_flag = bav_french
+            OR = {
+                ITA = {exists = no}
+                NIT = {exists = no}
+            }
+        }
+        allow = {
+            war = no
+            state_n_government = 1
+            all_core = {
+                owned_by = THIS
+            }
+            NIT = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            vassal_of = THIS
+                        }
+                    }
+                }
+            }
+        }
+        effect = {
+            NIT = {
+                all_core = {
+                    secede_province = THIS
+                    add_core = THIS
+                }
+            }
+            add_accepted_culture = north_italian
+            prestige = 20
+        }
+    }
+
+    accept_all_german = {
+        picture = north_germany_decision
+        potential = {
+            tag = BAV
+            NOT = {has_country_flag = bav_french}
+            OR = {
+                NGF = {exists = no}
+                GER = {exists = no}
+            }
+        }
+        allow = {
+            war = no
+            state_n_government = 1
+            GER = {
+				any_core = {
+					owned_by = THIS
+					culture = north_german
+				}
+			}
+        }
+        effect = {
+            add_accepted_culture = north_german
+            add_accepted_culture = rhenish
+            prestige = 20
+        }
+    }
+}

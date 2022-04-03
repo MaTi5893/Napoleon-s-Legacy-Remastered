@@ -3,7 +3,7 @@ name = "Brazilian Civil War"
 1835.1.1 = {
 	add_defender = RER
     add_defender = ECO
-    add_defender = BRZ
+    add_attacker = BRZ
 	
 	war_goal = {
 		casus_belli = conquest

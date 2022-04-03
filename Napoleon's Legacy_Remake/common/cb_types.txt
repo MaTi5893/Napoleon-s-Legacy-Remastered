@@ -163,117 +163,6 @@ status_quo = {
 	war_name = WAR_NAME
 }
 
-
-return_home_annex = {
-	sprite_index = 2
-	#is_triggered_only = yes
-	months = 12
-	constructing_cb = no
-	always = yes
-	crisis = no
-	
-	can_use = {
-		tag = GBR
-		THIS = {
-			tag = ENG
-		}
-	}
-
-	badboy_factor = 0
-	prestige_factor = 1
-	peace_cost_factor = 1
-	penalty_factor = 1
-	is_civil_war = yes #this is a civil war
-
-	break_truce_prestige_factor = 5
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
-	truce_months = 0
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-
-	po_annex = yes
-	
-	war_name = CIVIL_WAR_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-}
-
-recover_homeland = {
-	sprite_index = 5
-	#is_triggered_only = yes
-	months = 12
-	constructing_cb = no
-	always = yes
-	crisis = no
-	
-	can_use = {
-		any_owned_province = {
-			continent = north_america
-		}
-		civilized = yes
-		NOT = {
-			OR = {
-				tag = ICF
-				tag = CHE
-				#tag = MTC
-			}
-		}
-		THIS = {
-			OR = {
-				tag = ICF
-				tag = CHE
-				#tag = MTC
-			}
-		}
-		neighbour = THIS
-	}
-
-	badboy_factor = 0
-	prestige_factor = 1
-	peace_cost_factor = 1
-	penalty_factor = 1
-	is_civil_war = no #this is NOT a civil war
-
-	break_truce_prestige_factor = 5
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
-	truce_months = 0
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-	
-	allowed_states = {
-		any_owned_province = {
-			continent = north_america
-			any_neighbor_province = {
-				owned_by = THIS
-			}
-		}
-	}
-
-	po_demand_state = yes
-	
-	war_name = WAR_TAKE_CORE_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-}
-
 # Conquest
 conquest = {
 	sprite_index = 2
@@ -702,18 +591,10 @@ acquire_state = {
 			is_colonial = no
 		}
 		not = { any_owned_province = { is_capital = yes } }
-	}
-	
-	allowed_states_in_crisis = {
-		any_owned_province = {
-			any_neighbor_province = {
-				owner = { tag = THIS }
-			}
-		}
 	}		
 
-	po_demand_state = yes
-	
+	po_transfer_provinces = yes
+	#po_demand_state = yes 
 	war_name = WAR_TAKE_NAME
 	
 	on_add = {
@@ -785,7 +666,7 @@ place_in_the_sun = {
 		}
 	}
 
-	po_demand_state = yes
+	po_transfer_provinces = yes
 
 	war_name = WAR_COLONIAL_NAME
 	
@@ -1479,7 +1360,7 @@ demand_concession_casus_belli = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_demand_state = yes
+	po_transfer_provinces = yes
 	
 	war_name = WAR_CONCESSION_NAME
 
@@ -2206,7 +2087,7 @@ take_capital = {
 		}
 	}		
 
-	po_demand_state = yes
+	po_transfer_provinces = yes
 	
 	war_name = WAR_TAKE_NAME
 	
@@ -2366,7 +2247,7 @@ negotiated_transfer = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 
-	po_demand_state = yes
+	po_transfer_provinces = yes
 	
 	war_name = WAR_NEGOTIATE_NAME
 	
@@ -2504,7 +2385,7 @@ demand_colonial_concession_casus_belli = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_demand_state = yes
+	po_transfer_provinces = yes
 	
 	war_name = WAR_CONCESSION_NAME
 
@@ -2768,7 +2649,7 @@ demand_concession_casus_belli_player_early = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_demand_state = yes
+	po_transfer_provinces = yes
 	
 	war_name = WAR_CONCESSION_NAME
 
@@ -2843,7 +2724,7 @@ demand_concession_casus_belli_ai_early = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_demand_state = yes
+	po_transfer_provinces = yes
 	
 	war_name = WAR_CONCESSION_NAME
 

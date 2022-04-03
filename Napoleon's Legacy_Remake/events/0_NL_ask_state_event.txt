@@ -18,7 +18,7 @@ country_event = {
             modifier = {
                 factor = 0.5
                 relation = { who = SPA value = 100 }
-            }
+            }       
             modifier = {
                 factor = 0.75
                 relation = { who = SPA value = 150 }

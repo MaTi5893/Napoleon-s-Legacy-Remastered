@@ -30,29 +30,36 @@ political_decisions = {
 			tag = USA
 			NOT = { accepted_culture = anglo_canadian }
 			has_country_flag = USAlouisiana
+			has_country_flag = USA_imperialism
 		}
 		allow = { 
-			war_policy = jingoism 
-			all_core = { OR = { owned_by = THIS empty = yes} }
-			OR = { 	
-				NOT = { 
-					relation = { 
-						who = ENG 
-						value = -75
+			nationalism_n_imperialism = 1
+			CAN = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+						}
 					}
 				}
-				NOT = {  
-					relation = {
-						who = CAN
-						value = -120
-					}
+			}
+			all_core = { 
+				OR = { 
+					owned_by = THIS 
+					empty = yes
 				}
 			}
 		}
 		effect = { 
-			CAN = { all_core = { add_core = USA } }
+			CAN = { 
+				all_core = { 
+					add_core = USA
+					secede_province = USA 
+				} 
+			}
 			add_accepted_culture = anglo_canadian
-			badboy = 10
+			add_accepted_culture = french_canadian
 			prestige = 20 
 		}
 	}

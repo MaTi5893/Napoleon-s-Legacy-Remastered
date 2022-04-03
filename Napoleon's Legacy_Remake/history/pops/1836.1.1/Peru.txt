@@ -718,7 +718,7 @@
 	bureaucrats = {
 		culture = andean
 		religion = catholic
-		size = 200
+		size = 1500
 	}
 
 	officers = {
@@ -730,7 +730,7 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 700
+		size = 3000
 	}
 
 	artisans = {
@@ -754,7 +754,7 @@
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 42075
+		size = 100000
 	}
 
 	clergymen = {
@@ -908,7 +908,7 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 150
+		size = 1000
 	}
 
 	artisans = {
@@ -920,7 +920,7 @@
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 75
+		size = 2000
 	}
 
 	farmers = {
@@ -950,7 +950,7 @@
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 15900
+		size = 50000
 	}
 
 	clergymen = {
@@ -1098,7 +1098,7 @@
 	bureaucrats = {
 		culture = andean
 		religion = catholic
-		size = 125
+		size = 1000
 	}
 
 	officers = {
@@ -1110,7 +1110,7 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 375
+		size = 2000
 	}
 
 	artisans = {
@@ -1122,13 +1122,13 @@
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 1100
+		size = 3000
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 11625
+		size = 50000
 	}
 
 	clergymen = {

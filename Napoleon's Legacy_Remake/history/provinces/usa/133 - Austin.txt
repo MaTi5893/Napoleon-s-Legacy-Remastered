@@ -1,7 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
-add_core = MEX add_core = TEX
+owner = TEX
+controller = TEX
+add_core = TEX
 trade_goods = cattle
 life_rating = 35
 naval_base = 1

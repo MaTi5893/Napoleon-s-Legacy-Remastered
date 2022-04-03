@@ -6,9 +6,10 @@ country_event = {
 		picture = "Administration"
 
 	trigger = {
-		year = 1845
+		year = 1836
 		civilized = yes
 		literacy = 0.25
+		NOT = {tag = EIC}
 		NOT = {
 			OR = {
 				has_country_flag = liberal_revolution_in_progress
@@ -73,7 +74,7 @@ country_event = {
 	}
 
 	mean_time_to_happen = {
-		months = 800
+		months = 400
 		modifier = {
 			factor = 0.04
 			has_global_flag = liberal_revolutions_should_now_fire
