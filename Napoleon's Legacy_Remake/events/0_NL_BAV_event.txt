@@ -54,3 +54,76 @@ option = {
 		}
     }
 }
+
+country_event = {		
+	id = 600040
+	trigger = {
+		tag = BAV
+		year = 1836
+        war = yes
+		NOT = {year = 1840}
+        FRA = {
+            OR = {
+                has_country_flag = joseph
+                has_country_flag = louis
+                has_country_flag = jerome
+                has_country_flag = alexandre
+                has_country_flag = republic
+            }
+        }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	title = "EVTNAME600040"
+	desc = "EVTDESC600040"
+	option = {
+		name = "For Prince Karl Theodor of Bavaria, the true heir !"	
+		add_country_modifier = {
+			name = true_german
+			duration = 3650
+		}
+	}
+    option = {
+		name = "For the French candidat !"	
+		create_alliance = FRA
+        diplomatic_influence = {
+            who = LOM
+            value = FRA
+        }
+        set_country_flag = bav_french
+	}
+}
+
+country_event = {		
+	id = 600041
+	trigger = {
+		tag = BAV
+		year = 1836
+        war = yes
+		NOT = {year = 1840}
+        FRA = {
+            has_country_flag = maximilien
+        }
+	}
+
+	fire_only_once = yes
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	title = "EVTNAME600041"
+	desc = "EVTDESC600041"
+	option = {
+		name = "Live long King Karl Theodor of Bavaria !"	
+		add_country_modifier = {
+			name = true_german
+			duration = 3650
+		}
+	}
+}

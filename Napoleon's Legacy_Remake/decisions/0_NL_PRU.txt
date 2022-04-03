@@ -72,7 +72,13 @@ political_decisions = {
 	declaration_an_mein_volk= {
 		picture = decision_volk_PRU
 		potential = {
-			tag = PRU
+			OR = {
+				tag = PRU
+				AND = {
+					tag = BAV
+					accepted_culture = north_german
+				}
+			}
 			NOT = {has_country_flag = declaration_an_mein_volk}
 			NOT = {
 				OR = {
