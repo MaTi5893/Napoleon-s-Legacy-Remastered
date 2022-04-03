@@ -91,9 +91,11 @@ country_event = {
     option = {
 		name = "For the French candidat !"	
 		create_alliance = FRA
-        diplomatic_influence = {
-            who = LOM
-            value = FRA
+        FRA = {
+            diplomatic_influence = {
+                who = BAV
+                value = 300
+            }
         }
         set_country_flag = bav_french
 	}
