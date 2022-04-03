@@ -57,6 +57,7 @@ option = {
 
 country_event = {		
 	id = 600040
+    picture = "napoleon_death"
 	trigger = {
 		tag = BAV
 		year = 1836
@@ -103,6 +104,7 @@ country_event = {
 
 country_event = {		
 	id = 600041
+    picture = "napoleon_death"
 	trigger = {
 		tag = BAV
 		year = 1836

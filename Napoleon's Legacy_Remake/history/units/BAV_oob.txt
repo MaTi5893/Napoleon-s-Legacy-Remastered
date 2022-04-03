@@ -29,14 +29,13 @@ leader = {
 	name = "Prinz Karl"
 	date = 1825.1.1
 	type = land
-	personality = defence_1.1
-	background = attack_1.1
+	personality = defence_2.1
+	background = attack_2.1
 	prestige = 0.1
 }
 
 army = {
 	name = "I. Korps"
-	location = 599
 	regiment = {
 		name= "1. Kgl. Bayer. Infanteriebrigade"
 		type = infantry
@@ -57,42 +56,44 @@ army = {
 
 	regiment = {
 		name= "4. Kgl. Bayer. Infanteriebrigade"
+		type = infantry
+		home = 595
+	}
+
+	regiment = {
+		name= "4. Kgl. Bayer. Cavalerybrigade"
+		type = hussar
+		home = 599
+	}
+
+	regiment = {
+		name= "1. Kgl. Bayer. Artillerybrigade"
 		type = artillery
 		home = 601
 	}
 
-}
-
-army = {
-	name = "II. Korps"
 	location = 595
 	regiment = {
-		name= "5. Kgl. Bayer. Infanteriebrigade"
-		type = infantry
+		name= "2. Kgl. Bayer. Artillerybrigade"
+		type = artillery
 		home = 595
 	}
 
 	regiment = {
-		name= "6. Kgl. Bayer. Infanteriebrigade"
-		type = infantry
-		home = 595
+		name= "3. Kgl. Bayer. Artillerybrigade"
+		type = artillery
+		home = 599
 	}
 
 	regiment = {
-		name= "7. Kgl. Bayer. Infanteriebrigade"
-		type = infantry
-		home = 597
+		name= "4. Kgl. Bayer. Artillerybrigade"
+		type = artillery
+		home = 612
 	}
 
-}
-
-army = {
-	name = "III. Korps"
-	location = 571
-	
 	regiment = {
-		name = "8. Kgl. Bayer. Infanteriebrigade"
-		type = infantry
-		home = 571
+		name= "5. Kgl. Bayer. Artillerybrigade"
+		type = artillery
+		home = 613
 	}
 }
