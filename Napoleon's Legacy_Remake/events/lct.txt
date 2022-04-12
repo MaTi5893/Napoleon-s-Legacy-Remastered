@@ -8,6 +8,36 @@ country_event = {
 	title = "EVTNAME600420"
 	desc = "EVTDESC600420"
 	immediate = { 
+		FRA = {
+			any_pop = {
+				limit = {
+					OR = {	
+						has_pop_culture = south_german
+						has_pop_culture = flemish
+						has_pop_culture = basque
+						has_pop_culture = catalan
+						has_pop_culture = north_italian
+					}
+				}
+				literacy = 0.30 #30 percent increase
+			}
+		}	
+		AUS_641 = {
+				any_pop = {
+					limit = {
+						has_pop_culture = hungarian
+					}
+					literacy = 0.15 #15 percent increase
+				}
+		}
+		AUS_623 = {
+				any_pop = {
+					limit = {
+						has_pop_culture = hungarian
+					}
+					literacy = 0.15 #15 percent increase
+				}
+		}
 		any_country = { 
 			limit = {
 				tag = FRA 
