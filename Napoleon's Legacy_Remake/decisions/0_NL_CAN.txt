@@ -1,0 +1,88 @@
+political_decisions = {
+    take_new_england = {
+        potential = {
+            tag = CAN
+            NOT = {has_country_flag = take_new_england}
+        }
+        allow = {
+            war = no
+            NOT = {is_subject = no}
+            NEN = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            vassal_of = THIS
+                        }
+                    }
+                }
+            }
+        }
+        effect = {
+            NEN = {
+                all_core = {
+                    add_core = THIS
+                    secede_province = THIS
+                }
+            }
+            pretige = 20
+        }
+    }
+    accept_yankees = {
+        potential = {
+            tag = CAN
+            has_country_flag = take_new_england
+            NOT = {accepted_culture = yankee}
+        }
+        allow = {
+            war = no
+            state_n_government = 1
+            all_core = {
+                OR = {
+                    owned_by = THIS
+                    empty = yes
+                }
+            }
+            USA_232 = {owned_by = THIS}
+            USA_223 = {owned_by = THIS}
+            USA_178 = {owned_by = THIS}
+        }
+        effect = {
+            USA_232 = {add_core = THIS}
+            USA_223 = {add_core = THIS}
+            USA_178 = {add_core = THIS}
+            add_accepted_culture = yankee
+            prestige = 20
+        }
+    }
+
+    end_the_13_colony = {
+        potential = {
+            tag = CAN
+            accepted_culture = yankee
+            NOT = {has_country_flag = end_the_13_colony}
+            USA = {exists = no}
+        }
+        allow = {
+            war = no
+            all_core = {
+                owned_by = THIS
+            }
+            USA_201 = {owned_by = THIS}
+            USA_2556 = {owned_by = THIS}
+            USA_211 = {owned_by = THIS}
+            USA_219 = {owned_by = THIS}
+        }
+        effect = {
+            USA = {
+                all_core = {
+                    add_core = THIS
+                    remove_core = USA
+                }
+            }
+        }
+    }
+
+    
+    
+}

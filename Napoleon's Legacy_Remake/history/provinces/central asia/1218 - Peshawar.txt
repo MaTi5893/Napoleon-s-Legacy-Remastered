@@ -1,6 +1,7 @@
-owner = AFG
-controller = AFG
-add_core = AFG
+owner = PAN
+controller = PAN
+add_core = PAN
+add_core = MUG
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {

@@ -23,6 +23,36 @@ political_decisions = {
 		}
 	}
 
+	dutch_tech = {
+		picture = decision_dutch_tech
+		potential = {
+			OR = {
+				accepted_culture = dutch
+				primary_culture = dutch
+			}
+			NOT = {tech_school = dutch_tech_school}
+			NOT = { tech_school = spanish_tech_school }
+			NOT = { tech_school = british_tech_school }
+			NOT = { tech_school = french_tech_school }
+		}
+		allow = {
+			war = no
+			NET = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			buisness_regulations = 1
+			scientific_management = 1
+			raider_column_doctrine = 1
+			iron_steamers = 1
+		}
+		effect = {
+			tech_school = dutch_tech_school
+			prestige = 10
+		}
+	}
+
 	expand_netherlands1 = {
 		picture = bel_net_decision
 		potential = {

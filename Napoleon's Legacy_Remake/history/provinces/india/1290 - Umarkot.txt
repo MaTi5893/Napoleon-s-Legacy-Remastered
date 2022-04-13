@@ -2,6 +2,7 @@ owner = SIN
 controller = SIN
 add_core = SIN
 add_core = HND
+add_core = MUG
 trade_goods = tea
 life_rating = 32
 1861.1.1 = {

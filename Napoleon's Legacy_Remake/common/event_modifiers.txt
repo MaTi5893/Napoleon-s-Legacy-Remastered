@@ -1338,8 +1338,15 @@ brazil_united = {
 
 true_german = {
 	mobilisation_size = 0.02
-	global_population_growth = 0.0001
+	global_population_growth = 0.01
 	global_pop_militancy_modifier = -0.01
 	global_pop_consciousness_modifier = -0.01
 	land_organisation = 0.1
+}
+
+mughals_united = {
+	mobilisation_size = 0.01
+	global_population_growth = 0.001
+	global_pop_militancy_modifier = -0.1
+	research_points_modifier = 0.30
 }

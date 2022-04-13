@@ -436,13 +436,13 @@ CZH_fascist;Vlajka;;;;Spanish Loc;;;x
 SLV_fascist;Slovenska Ludova Strana;;;;Spanish Loc;;;x
 BEL_fascist;Parti Rexiste;;;;Spanish Loc;;;x
 YEM_proletarian_dictatorship;People's Republic of Yemen;;;;Spanish Loc;;;x
-PAP;The Roman Republic;;;;Reino Romano;;;x
-PAP_ADJ_democracy;Roman;;;;Spanish Loc;;;x
-PAP_ADJ_presidential_dictatorship;Roman;;;;Spanish Loc;;;x
-PAP_ADJ_bourgeois_dictatorship;Roman;;;;Spanish Loc;;;x
-PAP_ADJ_proletarian_dictatorship;Roman;;;;Spanish Loc;;;x
-PAP_ADJ_fascist_dictatorship;Roman;;;;Spanish Loc;;;x
-PAP_ADJ_theocracy;Papal;;;;Spanish Loc;;;x
+PAP;Central Italian Republic;;;;Reino Romano;;;x
+PAP_ADJ_democracy;Central Italian Republic;;;;Spanish Loc;;;x
+PAP_ADJ_presidential_dictatorship;Roman Kingdom;;;;Spanish Loc;;;x
+PAP_ADJ_bourgeois_dictatorship;Central Italian Government;;;;Spanish Loc;;;x
+PAP_ADJ_proletarian_dictatorship;Central Italian People's Republic;;;;Spanish Loc;;;x
+PAP_ADJ_fascist_dictatorship;Roman Empire;;;;Spanish Loc;;;x
+PAP_ADJ_theocracy;Papal States;;;;Spanish Loc;;;x
 PAP_ADJ;Roman;;;;Spanish Loc;;;x
 PAR_reactionary;Restaurazionisti;;;;Spanish Loc;;;x
 PAR_conservative;Moderati ;;;;Spanish Loc;;;x
