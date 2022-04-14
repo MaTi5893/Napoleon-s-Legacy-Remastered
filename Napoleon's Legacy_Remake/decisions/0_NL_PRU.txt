@@ -3,8 +3,7 @@ political_decisions = {
 	repartition_poland = {
 		picture = duchy_of_warsaw
 		potential = {
-			tag = PRU
-			NOT = { has_country_flag = repartitioned_poland }
+			has_country_flag = PRU
 		}
 		allow = {
 			owns = 699
@@ -15,7 +14,7 @@ political_decisions = {
 			war_policy=jingoism
 		}
 		effect = {
-			set_country_flag = repartitioned_poland
+			clr_country_flag = PRU
 			RUS_706 = {
 				add_core = THIS
 			}

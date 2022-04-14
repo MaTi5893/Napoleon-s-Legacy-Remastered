@@ -52,6 +52,7 @@ DUA		= "countries/Dual Monarchy.txt"
 IBE     = "countries/Indo-British Empire.txt"
 ECO     = "countries/Equator Confederation.txt"
 RER     = "countries/Republica Riograndense.txt"
+NAU		= "countries/North American Union.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"

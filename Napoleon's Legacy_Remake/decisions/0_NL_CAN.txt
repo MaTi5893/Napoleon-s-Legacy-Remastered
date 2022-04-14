@@ -1,5 +1,6 @@
 political_decisions = {
     take_new_england = {
+        picture = new_england_decision
         potential = {
             tag = CAN
             NOT = {has_country_flag = take_new_england}
@@ -7,6 +8,12 @@ political_decisions = {
         allow = {
             war = no
             NOT = {is_subject = no}
+            all_core = {
+                OR = {
+                    owned_by = THIS
+                    empty = yes
+                }
+            }
             NEN = {
                 all_core = {
                     OR = {
@@ -28,7 +35,9 @@ political_decisions = {
             pretige = 20
         }
     }
+    
     accept_yankees = {
+        picture = yankee_decision
         potential = {
             tag = CAN
             has_country_flag = take_new_england
@@ -57,16 +66,20 @@ political_decisions = {
     }
 
     end_the_13_colony = {
+        picture = 13_colonies_decision
         potential = {
             tag = CAN
             accepted_culture = yankee
-            NOT = {has_country_flag = end_the_13_colony}
+            NOT = {accepted_culture = dixie}
             USA = {exists = no}
         }
         allow = {
             war = no
             all_core = {
-                owned_by = THIS
+                OR = {
+                    owned_by = THIS
+                    empty = yes
+                }
             }
             USA_201 = {owned_by = THIS}
             USA_2556 = {owned_by = THIS}
@@ -80,9 +93,7 @@ political_decisions = {
                     remove_core = USA
                 }
             }
+            prestige = 30
         }
     }
-
-    
-    
 }

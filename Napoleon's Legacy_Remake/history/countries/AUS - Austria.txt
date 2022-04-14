@@ -76,8 +76,4 @@ nonstate_consciousness = 2
 
 schools = army_tech_school
 
-1835.1.1 = {
-    decision = hungarian_lit_fix
-}
-
 oob = "AUS_oob.txt"

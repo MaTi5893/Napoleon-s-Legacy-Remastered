@@ -95,7 +95,3 @@ schools = napoleon_tech_school
 
 oob = "FRA_oob.txt"
 
-1835.1.1 = {
-    decision = french_lit_fix
-}
-

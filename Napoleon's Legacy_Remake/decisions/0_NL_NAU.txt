@@ -1,0 +1,39 @@
+political_decisions = {
+    form_nau = {
+        picture = nau_decision
+        potential = {
+            tag = CAN
+        }
+        allow = {
+            is_subject = no
+            all_core = {
+                OR = {
+                    owned_by = THIS
+                    empty = yes
+                }
+            }
+            USA = { 
+                exists = no
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+            nationalism_n_imperialism = 1
+            empirism = 1
+            accepted_culture = dixie
+            war = no
+        }
+        effect = {
+            all_core = {
+                add_core = NAU
+            }
+            prestige = 30
+            add_country_modifier = {
+				name = nau_united
+				duration = 3650
+			}
+            add_accepted_culture = dixie
+            add_accepted_culture = afro_american
+        }
+    }
+}

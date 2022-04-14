@@ -43,7 +43,7 @@ political_decisions = {
         potential = {
             tag = BAV
             NOT = {has_country_flag = bav_french}
-            NOT = {accepted_culture = north_german}
+	        NOT = { accepted_culture = rhenish }
             OR = {
                 NGF = {exists = no}
                 GER = {exists = no}

@@ -33,4 +33,32 @@ political_decisions = {
             set_country_flag = form_grobgermany
         }
     }
+	restore_rhineland = {
+		picture = become_rhine
+		potential = {
+			tag = GER
+			FRA = { accepted_culture = rhenish }
+			NOT = { has_country_flag = restored_rhineland }
+		}
+		allow = {
+			is_greater_power = yes
+			war_policy = jingoism
+			all_core = {  
+				OR = { 
+					owned_by = THIS
+					province_id = 533 #heligoland  
+				}
+			} 
+		}
+		effect = {
+			RHI = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			badboy = 10
+			set_country_flag = restored_rhineland
+		}
+	}
+
 }
