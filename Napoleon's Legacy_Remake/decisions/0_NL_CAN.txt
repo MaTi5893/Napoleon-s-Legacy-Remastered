@@ -7,7 +7,7 @@ political_decisions = {
         }
         allow = {
             war = no
-            NOT = {is_subject = no}
+            is_vassal = no
             all_core = {
                 OR = {
                     owned_by = THIS
@@ -40,10 +40,15 @@ political_decisions = {
         picture = yankee_decision
         potential = {
             tag = CAN
-            has_country_flag = take_new_england
             NOT = {accepted_culture = yankee}
         }
         allow = {
+            is_vassal = no
+            NEN = {
+                all_core = {
+                    is_core = THIS
+                }
+            }
             war = no
             state_n_government = 1
             all_core = {
@@ -69,12 +74,12 @@ political_decisions = {
         picture = 13_colonies_decision
         potential = {
             tag = CAN
-            accepted_culture = yankee
-            NOT = {accepted_culture = dixie}
-            USA = {exists = no}
+            NOT = {USA_201 = {is_core = THIS}}
         }
         allow = {
             war = no
+            USA = {exists = no}
+            is_vassal = no
             all_core = {
                 OR = {
                     owned_by = THIS
@@ -93,6 +98,10 @@ political_decisions = {
                     remove_core = USA
                 }
             }
+            add_country_modifier = {
+				name = nau_united
+				duration = -1
+			}
             prestige = 30
         }
     }

@@ -1353,7 +1353,7 @@ mughals_united = {
 
 nau_united =  {
 	mobilisation_size = 0.01
-	immigrant_attract = 0.3
+	immigrant_attract = 0.2
 	global_assimilation_rate = 0.3
 	global_pop_militancy_modifier = -0.02
 }

@@ -5,7 +5,7 @@ political_decisions = {
             tag = CAN
         }
         allow = {
-            is_subject = no
+            is_vassal = no
             all_core = {
                 OR = {
                     owned_by = THIS
@@ -27,11 +27,8 @@ political_decisions = {
             all_core = {
                 add_core = NAU
             }
+            change_tag = NAU
             prestige = 30
-            add_country_modifier = {
-				name = nau_united
-				duration = 3650
-			}
             add_accepted_culture = dixie
             add_accepted_culture = afro_american
         }
