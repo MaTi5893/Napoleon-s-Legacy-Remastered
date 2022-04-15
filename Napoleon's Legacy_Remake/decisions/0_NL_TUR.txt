@@ -8,14 +8,15 @@ political_decisions = {
 			all_core = {
 				owned_by = THIS
 			}
+			war = no
 			EGY = {
-				OR = {
-					all_core = {
+				all_core = {
+					OR = {
 						owned_by = THIS
-					}
-					AND = {
-						vassal_of = THIS
-						in_sphere = THIS
+						OR = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
 					}
 				}
 			}

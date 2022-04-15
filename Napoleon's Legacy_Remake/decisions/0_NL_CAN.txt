@@ -105,4 +105,20 @@ political_decisions = {
             prestige = 30
         }
     }
+
+    not_vassal = {
+        picture = canada_decision
+        potential = {
+            tag = CAN
+            is_vassal = yes
+            ai = no
+        }
+        allow = {
+        }
+        effect = {
+            any_country = {
+                release_vassal = CAN
+            }
+        }
+    }
 }

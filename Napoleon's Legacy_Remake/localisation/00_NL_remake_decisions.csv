@@ -481,3 +481,5 @@ end_the_13_colony_title;End the 13 colonies;;;;;;;x
 end_the_13_colony_desc;The 13 colonies were originally a puppet state of the UNited Kingdom like we were. But contrary to us, they were a rebllious nation and freed themseleves. It's time to end this abomination;;;;;;;x
 form_nau_title;Fomr the North American Union;;;;;;;x
 form_nau_desc;English North America is finally united under one country and we can now move forward to new horizon !;;;;;;;x
+not_vassal_title;Not a Vassal;;;;;;;x
+not_vassal_desc;Fuck of, we're free now (not that this isn't supposed to be used if UK doesn't agree, kick the player if he does it);;;;;;;x
