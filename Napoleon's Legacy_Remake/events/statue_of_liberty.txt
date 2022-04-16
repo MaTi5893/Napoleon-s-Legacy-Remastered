@@ -15,6 +15,16 @@ country_event = {
 			factor = 1
 		}
 	}
+
+	option = {
+		name = "North American Union"
+		NAU = {
+			country_event = { id=19300 days=0 }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 	
 	option = {
 		name = "Canada (NOT the United Kingdom)"

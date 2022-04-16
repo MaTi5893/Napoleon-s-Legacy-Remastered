@@ -1,5 +1,8 @@
-owner = SWI
-controller = SWI
-add_core = SWI
+owner = LOM
+controller = LOM
+add_core = LOM
+add_core = NIT
+add_core = ITA
+add_core = PAP
 trade_goods = cattle
 life_rating = 40

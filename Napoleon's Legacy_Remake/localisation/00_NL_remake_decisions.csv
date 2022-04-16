@@ -471,3 +471,15 @@ italian_expansion_title;Claim North Italy;;;;;;;x
 italian_expansion_desc;We can finally press our claim on North Italy ! But now what path are we going to choose, are we true German or Italian ?;;;;;;;x
 accept_all_german_title;Accept all German;;;;;;;x
 accept_all_german_desc;We have chosen a true German king who served with Prussia. Now it's time to accept all german as citizens of Bavaria !;;;;;;;x
+dutch_tech_title;Dutch Heritage;;;;;;;x
+dutch_tech_desc;With the Dutch core territory under our control, we can claim the dutch heritage of commerce and maritime power !;;;;;;;x
+take_new_england_title;The Conquest of New England
+take_new_england_desc;New England has always been shared between Canada and the USA. Now we can fully proclaim that it's ours !;;;;;;;x
+accept_yankees_title;Accept Yankee ;;;;;;;x
+accept_yankees_desc;We have subjugated the Yankees and in order to increase stability, we should accept them in our glorious country;;;;;;;x
+end_the_13_colony_title;End the 13 colonies;;;;;;;x
+end_the_13_colony_desc;The 13 colonies were originally a puppet state of the UNited Kingdom like we were. But contrary to us, they were a rebllious nation and freed themseleves. It's time to end this abomination;;;;;;;x
+form_nau_title;Fomr the North American Union;;;;;;;x
+form_nau_desc;English North America is finally united under one country and we can now move forward to new horizon !;;;;;;;x
+not_vassal_title;Not a Vassal;;;;;;;x
+not_vassal_desc;Fuck of, we're free now (not that this isn't supposed to be used if UK doesn't agree, kick the player if he does it);;;;;;;x

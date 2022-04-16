@@ -1289,7 +1289,7 @@ emperor_council_refused = {
 	mobilisation_size = -0.03
 	global_pop_militancy_modifier = 0.03
 	global_pop_consciousness_modifier = 0.03
-	global_population_growth = -0.01
+	global_population_growth = -0.001
 	global_assimilation_rate = -0.1
 	tax_efficiency = -0.1
 	global_liberal_agitation = 0.04
@@ -1309,7 +1309,7 @@ alexandre_reforms_1 = {
 
 alexandre_reforms_2 = {
 	global_assimilation_rate = 0.1
-	global_population_growth = 0.02
+	global_population_growth = 0.002
 	culture_tech_research_bonus = 0.05
 }
 
@@ -1338,8 +1338,22 @@ brazil_united = {
 
 true_german = {
 	mobilisation_size = 0.02
-	global_population_growth = 0.0001
+	global_population_growth = 0.001
 	global_pop_militancy_modifier = -0.01
 	global_pop_consciousness_modifier = -0.01
 	land_organisation = 0.1
+}
+
+mughals_united = {
+	mobilisation_size = 0.01
+	global_population_growth = 0.001
+	global_pop_militancy_modifier = -0.1
+	research_points_modifier = 0.30
+}
+
+nau_united =  {
+	mobilisation_size = 0.01
+	immigrant_attract = 0.2
+	global_assimilation_rate = 0.3
+	global_pop_militancy_modifier = -0.02
 }

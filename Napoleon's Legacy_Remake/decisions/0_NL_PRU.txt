@@ -77,8 +77,15 @@ political_decisions = {
 					tag = BAV
 					accepted_culture = north_german
 				}
+				AND = {
+					tag = HAN
+					accepted_culture = south_german
+				}
 			}
-			NOT = {has_country_flag = declaration_an_mein_volk}
+			PRU = { NOT = {has_country_flag = declaration_an_mein_volk} }
+			BAV = { NOT = {has_country_flag = declaration_an_mein_volk} }
+			HAN = { NOT = {has_country_flag = declaration_an_mein_volk} }
+			
 			NOT = {
 				OR = {
 					NGF = {exists = yes}
