@@ -1352,7 +1352,7 @@ political_decisions = {
 
 		effect = {
 			inherit = TUN
-			badboy = 6
+			badboy = 2.5
 		}
 		ai_will_do = {
 			factor = 1

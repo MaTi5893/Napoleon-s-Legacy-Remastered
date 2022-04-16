@@ -12,14 +12,17 @@ political_decisions = {
 			EGY = {
 				all_core = {
 					OR = {
-						owned_by = THIS
-						OR = {
-							vassal_of = THIS
-							in_sphere = THIS
+						owned_by = THIS 
+						owner = {
+							OR = {
+								vassal_of = THIS
+								in_sphere = THIS
+							}
 						}
 					}
 				}
 			}
+
 			nationalism_n_imperialism = 1
 		}
 		effect = {
