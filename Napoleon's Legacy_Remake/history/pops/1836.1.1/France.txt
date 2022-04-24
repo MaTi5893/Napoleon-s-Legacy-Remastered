@@ -230,55 +230,55 @@
 #Laon (528000/132000 POPS)
 403 = {
 	aristocrats = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 1050
 	}
 
 	officers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 1325
 	}
 
 	artisans = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 5400
 	}
 
 	clerks = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 100
 	}
 
 	craftsmen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 9000
 	}
 	
 	soldiers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 1500
 	}
 
 	farmers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 112525
 	}
@@ -286,43 +286,43 @@
 #Cambrai (280000/70000 POPS)
 404 = {
 	aristocrats = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 600
 	}
 
 	clergymen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 700
 	}
 
 	artisans = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 2500
 	}
 
 	clerks = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 100
 	}
 
 	craftsmen = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = french
+		culture = picard
 		religion = catholic
 		size = 60100
 	}
@@ -1832,31 +1832,31 @@
 #Moulins (596000/149000 POPS)
 430 = {
 	aristocrats = {
-		culture = french
+		culture = occitan
 		religion = catholic
 		size = 1400
 	}
 
 	clergymen = {
-		culture = french
+		culture = occitan
 		religion = catholic
 		size = 1475
 	}
 
 	artisans = {
-		culture = french
+		culture = occitan
 		religion = catholic
 		size = 7450
 	}
 
 	soldiers = {
-		culture = french
+		culture = occitan
 		religion = catholic
 		size = 1500
 	}
 
 	farmers = {
-		culture = french
+		culture = occitan
 		religion = catholic
 		size = 137375
 	}

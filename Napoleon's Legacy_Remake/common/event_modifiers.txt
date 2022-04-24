@@ -1357,3 +1357,37 @@ nau_united =  {
 	global_assimilation_rate = 0.3
 	global_pop_militancy_modifier = -0.02
 }
+
+dye_boost = {
+	farm_rgo_eff = 1.5
+	population_growth = 0.001
+	immigrant_attract = 0.2
+}
+
+assimilation = {
+	assimilation_rate = 0.5
+	pop_militancy_modifier = 0.01
+	pop_consciousness_modifier = 0.01
+	mine_rgo_eff = -0.1
+	farm_rgo_eff = -0.1
+}
+
+USA_imperialism = {
+	land_organisation = 0.05
+	naval_organisation = 0.05
+	navy_tech_research_bonus = 0.025
+	army_tech_research_bonus = 0.025
+	culture_tech_research_bonus = -0.025
+	commerce_tech_research_bonus = -0.025
+	diplomatic_points_modifier = -0.10
+}
+
+USA_isolasionist = {
+	navy_tech_research_bonus = -0.025
+	army_tech_research_bonus = -0.025
+	culture_tech_research_bonus = 0.025
+	commerce_tech_research_bonus = 0.025
+	diplomatic_points_modifier = 0.10
+	immigrant_attract = 0.05
+	assimilation_rate = 0.05
+}

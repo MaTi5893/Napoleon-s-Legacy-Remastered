@@ -50,7 +50,6 @@ political_decisions = {
 			}
 			set_country_flag = recovered_the_empire
 			add_accepted_culture = telegu
-			add_accepted_culture = marathi
 			add_accepted_culture = rajput
 			add_accepted_culture = gujarati
 			add_accepted_culture = sindi
@@ -136,9 +135,7 @@ political_decisions = {
 			owns = 1307
 		}
 		effect = {
-			add_accepted_culture = telegu
-			add_accepted_culture = kannada
-			add_accepted_culture = tamil
+			add_accepted_culture = marathi
 		}
 	}
 }

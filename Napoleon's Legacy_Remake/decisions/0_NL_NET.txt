@@ -132,6 +132,7 @@ political_decisions = {
 			FRA_412 = { owned_by = THIS } 
 			FRA_411 = { owned_by = THIS } 
 			FRA_428 = { owned_by = THIS } 
+			FRA_432 = { owned_by = THIS } 
 			revolution_n_counterrevolution = 1 
 		}
 		effect = {
@@ -141,6 +142,7 @@ political_decisions = {
 			FRA_412 = { add_core = THIS }
 			FRA_411 = { add_core = THIS }
 			FRA_428 = { add_core = THIS }
+			FRA_432 = { add_core = THIS } 
 			add_accepted_culture = french
 			add_accepted_culture = rhenish
 		}
@@ -150,10 +152,15 @@ political_decisions = {
 		picture = picard_decision
 		potential = {
 			OR = {
-				tag = BRG
-				tag = NET
+				AND = {
+					OR = {
+						tag = BRG
+						tag = NET
+					}
+					has_country_flag = expand_netherlands2
+				}
+				tag = DUA
 			}
-			has_country_flag = expand_netherlands2
 			NOT = {accepted_culture = picard}
 		}
 		allow = {
@@ -162,10 +169,12 @@ political_decisions = {
 				owned_by = THIS
 			}
 			FRA_399	= {owned_by = THIS}
+			FRA_402	= {owned_by = THIS}
 			revolution_n_counterrevolution = 1
 		}
 		effect = {
 			FRA_399	= {add_core = THIS}
+			FRA_402	= {add_core = THIS}
 			add_accepted_culture = picard
 		}
 	}

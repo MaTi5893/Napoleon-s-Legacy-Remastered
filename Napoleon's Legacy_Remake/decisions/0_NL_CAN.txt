@@ -32,7 +32,7 @@ political_decisions = {
                     secede_province = THIS
                 }
             }
-            pretige = 20
+            prestige = 20
         }
     }
     
@@ -46,7 +46,7 @@ political_decisions = {
             is_vassal = no
             NEN = {
                 all_core = {
-                    is_core = THIS
+                    is_core = CAN
                 }
             }
             war = no

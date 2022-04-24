@@ -54,7 +54,6 @@ political_decisions = {
 			}
 			NOT = { has_country_flag = danzig_coup }
 			DZG = { exists = yes }
-			NOT = { year = 1870 }
 		}
 		allow = {
 			state_n_government = 1

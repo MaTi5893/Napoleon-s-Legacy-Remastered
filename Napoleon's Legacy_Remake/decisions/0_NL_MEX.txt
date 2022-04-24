@@ -131,6 +131,7 @@ political_decisions = {
                         owned_by = THIS
                         owner = {
                             vassal_of = THIS
+                            in_sphere = THIS
                         }
                     }
                 }
