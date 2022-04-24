@@ -1,6 +1,5 @@
 capital = 2113
-primary_culture = khoikhoi
-primary_culture = eastern_bantu
+primary_culture = african_minor
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

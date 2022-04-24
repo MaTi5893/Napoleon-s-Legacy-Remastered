@@ -1391,3 +1391,9 @@ USA_isolasionist = {
 	immigrant_attract = 0.05
 	assimilation_rate = 0.05
 }
+
+monroe = {
+	commerce_tech_research_bonus = 0.05
+	diplomatic_points_modifier = 0.3
+	immigrant_attract = 0.15
+}

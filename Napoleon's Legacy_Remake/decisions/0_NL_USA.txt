@@ -155,5 +155,175 @@ political_decisions = {
 			USA = {country_event = 600042}
 		}
 	}
+
+	monroe_doctrine = {
+		picture = decision_monroe
+		potential = {
+			tag = USA
+			has_country_flag = USAlouisiana
+			has_country_flag = hasmanifestdestiny
+			has_country_flag = USA_isolasionist
+			NOT = {has_country_flag = monroe_doctrine}
+		}
+		allow = {
+			war = no	
+			all_core = {
+				owned_by = THIS
+			}
+			BRZ = {
+				all_core = {
+					OR = {
+						owner = {
+							is_greater_power = yes
+						}
+						owned_by = THIS
+						empty = yes
+						owner = {
+							is_greater_power = no
+							has_country_flag = new_world_nation
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			GCO = {
+				all_core = {
+					OR = {
+						owner = {
+							is_greater_power = yes
+						}
+						owned_by = THIS
+						empty = yes
+						owner = {
+							is_greater_power = no
+							has_country_flag = new_world_nation
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			CHL = {
+				all_core = {
+					OR = {
+						owner = {
+							is_greater_power = yes
+						}
+						owned_by = THIS
+						empty = yes
+						owner = {
+							is_greater_power = no
+							has_country_flag = new_world_nation
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			PEU = {
+				all_core = {
+					OR = {
+						owner = {
+							is_greater_power = yes
+						}
+						owned_by = THIS
+						empty = yes
+						owner = {
+							is_greater_power = no
+							has_country_flag = new_world_nation
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			CAN = {
+				all_core = {
+					OR = {
+						owner = {
+							is_greater_power = yes
+						}
+						owned_by = THIS
+						empty = yes
+						owner = {
+							is_greater_power = no
+							has_country_flag = new_world_nation
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			MEX = {
+				all_core = {
+					OR = {
+						owner = {
+							is_greater_power = yes
+						}
+						owned_by = THIS
+						empty = yes
+						owner = {
+							is_greater_power = no
+							has_country_flag = new_world_nation
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			ARG = {
+				all_core = {
+					OR = {
+						owner = {
+							is_greater_power = yes
+						}
+						owned_by = THIS
+						empty = yes
+						owner = {
+							is_greater_power = no
+							has_country_flag = new_world_nation
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			BOL = {
+				all_core = {
+					OR = {
+						owner = {
+							is_greater_power = yes
+						}
+						owned_by = THIS
+						empty = yes
+						owner = {
+							is_greater_power = no
+							has_country_flag = new_world_nation
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			PRG = {
+				all_core = {
+					OR = {
+						owner = {
+							is_greater_power = yes
+						}
+						owned_by = THIS
+						empty = yes
+						owner = {
+							is_greater_power = no
+							has_country_flag = new_world_nation
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			prestige = 70
+			add_country_modifier = {
+				name = monroe
+				duration = -1
+			}
+			set_country_flag = monroe_doctrine
+		}
+	}
 }
 			

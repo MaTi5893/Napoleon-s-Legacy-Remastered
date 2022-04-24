@@ -347,6 +347,7 @@ political_decisions = {
 				}
 			}
 			add_accepted_culture=caribeno
+			set_country_flag = LatinAmerica
 			add_accepted_culture=afro_caribeno
 			add_accepted_culture = afro_caribbean
 			badboy = 5
@@ -406,9 +407,6 @@ political_decisions = {
 	spanish_armada = {
 		picture = spanisharmada
 		potential = {
-			NOT = { tech_school = spanish_tech_school }
-			NOT = { tech_school = french_tech_school }
-			NOT = { tech_school = dutch_tech_school }
 			OR = {
 				AND = {
 					tag = SPA
@@ -424,7 +422,9 @@ political_decisions = {
 				}
 				tag = IBR
 			}
-
+			NOT = { tech_school = spanish_tech_school }
+			NOT = { tech_school = french_tech_school }
+			NOT = { tech_school = dutch_tech_school }
 		}
 		allow = {
 			raider_column_doctrine = 1
@@ -537,17 +537,7 @@ political_decisions = {
 	spain_south_america = { 
 		picture = conquistadors
 		potential = {
-			OR = {
-				AND = {
-					tag = SPA
-					accepted_culture = caribeno
-				}
-				primary_culture = andean
-				primary_culture = mexican
-				primary_culture = central_american
-				primary_culture = platinean
-			}
-			NOT = { accepted_culture = brazilian }
+			has_country_flag = LatinAmerica 	#Set by lct.txt and the Caribeno decision in this file
 			NOT = { has_country_flag = spanish_south_america }
 		}
 		allow = { 
