@@ -46,13 +46,26 @@ ADU		= "countries/Anglo-Dutch Union.txt"
 SPC 	= "countries/Hispanic Commonwealth.txt" 
 ZAC		= "countries/Zachadia.txt"	#Zapadoslavia
 USG		= "countries/United States of Greater Austria.txt"
-WSF     = "countries/Zapadoslavia.txt"	#Zacadia
+WSF     = "countries/Zapadoslavia.txt"	#Zachadia
 EIC     = "countries/East India Company.txt"
 DUA		= "countries/Dual Monarchy.txt"
 IBE     = "countries/Indo-British Empire.txt"
 ECO     = "countries/Equator Confederation.txt"
 RER     = "countries/Republica Riograndense.txt"
 NAU		= "countries/North American Union.txt"
+JAL		= "countries/Jallon.txt"
+ARO		= "countries/Aro.txt"
+ASH		= "countries/Ashanti.txt"
+OYO		= "countries/Oyo.txt"
+KNG		= "countries/Kong.txt" #wattara
+WRI		= "countries/Warri.txt"
+WOL		= "countries/Wolof.txt"
+CLA		= "countries/Calabar.txt"
+DAH		= "countries/Dahomey.txt"
+SOK		= "countries/Sokoto.txt"
+BEN		= "countries/Benin.txt"
+GBU		= "countries/Gabu.txt"
+
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"

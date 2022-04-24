@@ -11,7 +11,7 @@ political_decisions = {
                 primary_culture = czech
 			}
 			NOT ={
-                tag = CZH
+                #tag = CZH
                 tag = WSF
                 accepted_culture = estonian
                 accepted_culture = serb

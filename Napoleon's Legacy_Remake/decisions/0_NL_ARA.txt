@@ -51,7 +51,6 @@ political_decisions = {
 	}
 	ARA_south_italy_culture = { 
 		potential = { 
-			tag = ARA 
 			has_country_flag = ARA_south_italy_cores
 			NOT = { accepted_culture = south_italian } 
 		}
