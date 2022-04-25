@@ -7,16 +7,13 @@ country_event = {
 	desc = "EVTDESC600013"
 	picture = "napoleon_death"
 	option = {
-		name = "King Joseph Bonaparte of Spain!"	
+		name = "Princess Louise Bonaparte !"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
 		}
         FRA = {set_country_flag = joseph}
-        SPA = {
-            prestige = -83
-        }
-		create_vassal = SPA
+		BAV = {country_event = 600040}
 	}
 	option = {
 		name = "Louis Bonaparte of the Netherlands!"	
@@ -24,6 +21,7 @@ country_event = {
 			name = napoleon_death
 			duration = 1459
 		}
+		BAV = {country_event = 600040}
         FRA = {set_country_flag = louis}
 	}
 	option = {
@@ -38,6 +36,7 @@ country_event = {
         create_vassal = NAS
         create_vassal = HES
         create_vassal = BRA
+		BAV = {country_event = 600040}
 	}
     option = {
 		name = "More heirs!"
@@ -63,6 +62,7 @@ country_event = {
 		government = democracy
 		political_reform = wealth_voting
         FRA = {set_country_flag = republic}
+		BAV = {country_event = 600040}
 	}
 	option = {
 		name = "Alexandre Walewski!"	
@@ -71,6 +71,7 @@ country_event = {
 			duration = 1459
 		}
         FRA = {set_country_flag = alexandre}
+		BAV = {country_event = 600040}
 	}
 	option = {
 		name = "The Prince Maximilien de Beauharnais!"	
@@ -79,10 +80,12 @@ country_event = {
 			duration = 1459
 		}
         FRA = {set_country_flag = maximilien}
+		BAV = {country_event = 600041}
 	}
     option = {
 		name = "The Previous ones"	
 		FRA = {country_event = 600013}
+		BAV = {country_event = 600040}
 	}
 }
 
@@ -96,16 +99,13 @@ country_event = {
 	desc = "EVTDESC600018"
 	picture = "napoleon_death"
 	option = {
-		name = "King Joseph Bonaparte of Spain!"	
+		name = "Princess Louise Bonaparte !"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
 		}
         FRA = {set_country_flag = joseph}
-		SPA = {
-            prestige = -83
-        }
-        create_vassal = SPA
+		BAV = {country_event = 600040}
 	}
 	option = {
 		name = "Louis Bonaparte!"	
@@ -114,6 +114,7 @@ country_event = {
 			duration = 1459
 		}
         FRA = {set_country_flag = louis}
+		BAV = {country_event = 600040}
 	}
 	option = {
 		name = "It's time for a Republic!"	
@@ -124,6 +125,7 @@ country_event = {
 		government = democracy
 		political_reform = wealth_voting
         FRA = {set_country_flag = republic}
+		BAV = {country_event = 600040}
 	}
 	option = {
 		name = "Alexandre Walewski!"	
@@ -132,6 +134,7 @@ country_event = {
 			duration = 1459
 		}
         FRA = {set_country_flag = alexandre}
+		BAV = {country_event = 600040}
 	}
 	option = {
 		name = "The Prince Maximilien de Beauharnais!"	
@@ -140,6 +143,7 @@ country_event = {
 			duration = 1459
 		}
         FRA = {set_country_flag = maximilien}
+		BAV = {country_event = 600041}
 	}
 }
 
@@ -158,6 +162,7 @@ country_event = {
 			duration = 1459
 		}
         FRA = {set_country_flag = louis}
+		BAV = {country_event = 600040}
 	}
 	option = {
 		name = "King Jerome Bonaparte of Westphalia!"	
@@ -171,6 +176,7 @@ country_event = {
         create_vassal = NAS
         create_vassal = HES
         create_vassal = BRA
+		BAV = {country_event = 600040}
 	}
 	option = {
 		name = "It's time for a Republic!"	
@@ -181,6 +187,7 @@ country_event = {
 		government = democracy
 		political_reform = wealth_voting
         FRA = {set_country_flag = republic}
+		BAV = {country_event = 600040}
 	}
 	option = {
 		name = "Alexandre Walewski!"	
@@ -189,6 +196,7 @@ country_event = {
 			duration = 1459
 		}
         FRA = {set_country_flag = alexandre}
+		BAV = {country_event = 600040}
 	}
 	option = {
 		name = "The Prince Maximilien de Beauharnais!"	
@@ -197,6 +205,7 @@ country_event = {
 			duration = 1459
 		}
         FRA = {set_country_flag = maximilien}
+		BAV = {country_event = 600041}
 	}
 }
 
@@ -218,6 +227,7 @@ country_event = {
 			factor = 0.25
         }
         FRA = {set_country_flag = louis}
+		BAV = {country_event = 600040}
 	}
 	option = {
 		name = "It's time for a Republic!"	
@@ -228,6 +238,7 @@ country_event = {
 		government = democracy
 		political_reform = wealth_voting
         FRA = {set_country_flag = republic}
+		BAV = {country_event = 600040}
 		ai_chance = {
 			factor = 0.25
         }
@@ -242,6 +253,7 @@ country_event = {
 			factor = 0.25
         }
         FRA = {set_country_flag = alexandre}
+		BAV = {country_event = 600040}
 	}
 	option = {
 		name = "The Prince Maximilien de Beauharnais!"	
@@ -253,6 +265,7 @@ country_event = {
 			factor = 0.25
         }
         FRA = {set_country_flag = maximilien}
+		BAV = {country_event = 600041}
 	}
 }
 

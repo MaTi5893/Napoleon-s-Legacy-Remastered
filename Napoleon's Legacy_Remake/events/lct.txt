@@ -219,8 +219,6 @@ country_event = {
 				} 
 				set_country_flag = indc2_flag
 			}  			 
-		} 
-	}
 	any_country = { 
 		limit = { 		
 			OR = { 
@@ -336,8 +334,8 @@ country_event = {
 			}
 		country_event = 600037
 		}
-	}
-	option = { 
-		name = "OK"
+		option = { 
+			name = "OK"
+		}
 	}
 }
