@@ -2,7 +2,7 @@ political_decisions = {
     form_DNB = {
         picture = DNB_decision
         potential = {
-
+            has_country_flag = i_did_those_decision
         }
         allow = {
 
