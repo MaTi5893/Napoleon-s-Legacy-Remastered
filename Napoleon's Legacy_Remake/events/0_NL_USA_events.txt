@@ -31,7 +31,7 @@ country_event = {
 		set_country_flag = USA_isolasionist
 		add_country_modifier = {
 			name = USA_isolasionist
-			duration = -A
+			duration = -1
 		}
         ai_chance = {
 			factor = 0.6

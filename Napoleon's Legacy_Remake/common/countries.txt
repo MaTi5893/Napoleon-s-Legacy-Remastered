@@ -68,6 +68,7 @@ BEN		= "countries/Benin.txt"
 GBU		= "countries/Gabu.txt"
 KNO		= "countries/Kano.txt"
 KWR		= "countries/Kwararafa.txt"
+IFE		= "countries/Ife.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"
