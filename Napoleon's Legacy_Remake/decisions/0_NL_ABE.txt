@@ -1,0 +1,14 @@
+political_decisions = {
+    form_ABE = {
+        picture = ABE_decision
+        potential = {
+
+        }
+        allow = {
+
+        }
+        effect = {
+            
+        }
+    }
+}

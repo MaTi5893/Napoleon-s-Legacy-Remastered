@@ -66,6 +66,8 @@ DAH		= "countries/Dahomey.txt"
 SOK		= "countries/Sokoto.txt"
 BEN		= "countries/Benin.txt"
 GBU		= "countries/Gabu.txt"
+ABE		= "countries/Austrio-Bavarian Empire.txt"
+DNB		= "countries/Danubian Federation.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"

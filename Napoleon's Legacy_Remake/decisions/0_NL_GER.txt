@@ -7,6 +7,9 @@ political_decisions = {
         }
         allow = {
             revolution_n_counterrevolution = 1
+            all_core = {
+                owned_by = THIS
+            }
             AUS_625 = {owned_by = THIS}
             AUS_626 = {owned_by = THIS}
             AUS_619 = {owned_by = THIS}

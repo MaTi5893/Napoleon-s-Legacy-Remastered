@@ -1,0 +1,14 @@
+political_decisions = {
+    form_DNB = {
+        picture = DNB_decision
+        potential = {
+
+        }
+        allow = {
+
+        }
+        effect = {
+            
+        }
+    }
+}
