@@ -1,6 +1,6 @@
-owner = SOK
-controller = SOK
-add_core = SOK
+owner = KWR
+controller = KWR
+add_core = KWR
 trade_goods = cotton
 life_rating = 35
 

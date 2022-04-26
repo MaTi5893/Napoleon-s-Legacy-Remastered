@@ -48,15 +48,8 @@ CLA_anarcho_liberal;Radical Faction;;;;;;;x
 CLA_socialist;Socialist Faction;;;;;;;x
 CLA_communist;Communist Faction;;;;;;;x
 CLA_fascist;Fascist Faction;;;;;;;x
-DAH_absolute_monarchy;Dahomey;;;;;;;x
-DAH_absolute_monarchy_ADJ;Dahomean;;;;;;;x
-DAH_prussian_constitutionalism;Dahomey;;;;;;;x
-DAH_prussian_constitutionalism_ADJ;Dahomean;;;;;;;x
-DAH_hms_government;Dahomey;;;;;;;x
-DAH_hms_government_ADJ;Dahomean;;;;;;;x
-DAH;Dahomey;;;;;;;x
-DAH_ADJ;Dahomean;;;;;;;x
-DAH_proletarian_dictatorship;People's Republic of Benin;;;;;;;x
+DAH;Borgu;;;;;;;x
+DAH_ADJ;Borgan;;;;;;;x
 DAH_conservative;Ahosu Faction;;;;;;;x
 DAH_liberal;Liberal Faction;;;;;;;x
 DAH_reactionary;Empire Faction;;;;;;;x
@@ -126,3 +119,11 @@ WOL_anarcho_liberal;Freedom Faction;;;;;;;x
 WOL_socialist;Socialist Faction;;;;;;;x
 WOL_communist;Communist Faction;;;;;;;x
 WOL_fascist;Fascist Faction;;;;;;;x
+KNO;Kano;;;;;;;x
+KNO_ADJ;Kanoese;;;;;;;x
+KWR;Kwararafa;;;;;;;x
+KWR_ADJ;Kwararafese;;;;;;;x
+IFE;Ife;;;;;;;x
+IFE_ADJ;Ifese;;;;;;;x
+form_IFE_title;Reestablish the Ife Empire!;;;;;;;x
+form_IFE_desc;The Ife Empire is the cradle of Yoruban civilization. And while we're putting more effort into westernizing our nation, we need to remember to never forget our traditions. Long live the Ife Empire!;;;;;;;x 

@@ -1,5 +1,5 @@
 capital = 1935
-primary_culture = african_minor # ibo
+primary_culture = volta # ibo
 #culture = tiv
 #culture = ibibio
 #culture = edo

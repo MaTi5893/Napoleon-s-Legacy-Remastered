@@ -1,5 +1,5 @@
 capital = 1934
-primary_culture = african_minor # ibibio
+primary_culture = volta # ibibio
 #culture = tiv
 religion = animist
 government = absolute_monarchy

@@ -1,5 +1,5 @@
 capital = 1928
-primary_culture = african_minor # edo
+primary_culture = volta # edo
 #culture = east_kwa
 religion = animist
 government = absolute_monarchy

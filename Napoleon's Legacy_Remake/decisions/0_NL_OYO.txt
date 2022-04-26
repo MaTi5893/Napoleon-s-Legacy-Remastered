@@ -1,0 +1,20 @@
+political_decisions = { 
+	form_IFE = { 
+		picture = IfeEmpire
+		potential = { 
+			tag = OYO 
+			IFE = { exists = no }
+		}
+		allow = {
+			civilized = yes 
+			BEN = { all_core = { owned_by = THIS } }
+		}
+		effect = { 
+			change_tag = IFE
+			BEN = { all_core = { add_core = THIS } }
+			WRI = { all_core = { add_core = THIS } }
+			CLA = { all_core = { add_core = THIS } }
+			ARO = { all_core = { add_core = THIS } }
+		}
+	}
+}

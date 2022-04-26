@@ -1,6 +1,6 @@
-owner = SOK
-controller = SOK
-add_core = SOK
+owner = KNO
+controller = KNO
+add_core = KNO
 trade_goods = coal
 life_rating = 35
 

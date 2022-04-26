@@ -1,5 +1,5 @@
 capital = 1898
-primary_culture = african_minor # dyula
+primary_culture = volta # dyula
 #culture = senufo
 #culture = mande
 #culture = akan
