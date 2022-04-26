@@ -62,10 +62,12 @@ KNG		= "countries/Kong.txt" #wattara
 WRI		= "countries/Warri.txt"
 WOL		= "countries/Wolof.txt"
 CLA		= "countries/Calabar.txt"
-DAH		= "countries/Dahomey.txt"
+DAH		= "countries/Dahomey.txt"	#Reskinned to Borgu
 SOK		= "countries/Sokoto.txt"
 BEN		= "countries/Benin.txt"
 GBU		= "countries/Gabu.txt"
+KNO		= "countries/Kano.txt"
+KWR		= "countries/Kwararafa.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"

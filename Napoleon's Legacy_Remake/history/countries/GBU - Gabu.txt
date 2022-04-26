@@ -1,5 +1,5 @@
 capital = 1878
-primary_culture = african_minor # western_nigritic
+primary_culture = volta # western_nigritic
 #culture = mande
 religion = animist
 government = absolute_monarchy

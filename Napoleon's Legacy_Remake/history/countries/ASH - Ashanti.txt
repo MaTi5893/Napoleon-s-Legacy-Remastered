@@ -1,5 +1,5 @@
 capital = 1911
-primary_culture = african_minor # akan
+primary_culture = volta # akan
 #culture = gur
 religion = animist
 government = absolute_monarchy

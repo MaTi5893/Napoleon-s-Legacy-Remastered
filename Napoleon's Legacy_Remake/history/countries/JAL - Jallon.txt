@@ -1,5 +1,5 @@
 capital = 1880
-primary_culture = african_minor # fulbe
+primary_culture = volta # fulbe
 #culture = mande
 #culture = dyula
 #culture = western_nigritic

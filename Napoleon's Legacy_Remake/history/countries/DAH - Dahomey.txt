@@ -1,5 +1,5 @@
 capital = 1920
-primary_culture = african_minor # fon
+primary_culture = volta # fon
 #culture = east_kwa
 #culture = yoruba
 #culture = gur

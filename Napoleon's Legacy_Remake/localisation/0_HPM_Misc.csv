@@ -3,15 +3,15 @@ oceanic;Pacific Islander;;;;Spanish Loc;;;x
 levantine;Greco-Caucasian;;;;Spanish Loc;;;x
 turko_semitic;Turkic;;;;Spanish Loc;;;x
 polish_culture_group;Western Slavic;;;;Spanish Loc;;;x
-jefferson_method_desc;The Jefferson Method is a highest averages method for allocating seats, and is thus a type of party-list proportional representation. Proportional representation systems aim to allocate seats to parties approximately in proportion to the number of votes received. For example, if a party wins one-third of the votes then it should gain about one-third of the seats. In general, exact proportionality is not possible because these divisions produce fractional numbers of seats. As a result, several methods have been devised which ensure that the parties' seat allocations, which are of course whole numbers, are as proportional as possible. In comparison with the Sainte-Lague method, ï¿½Ythe Jefferson Method slightly favours large parties and coalitions over scattered small partiesï¿½W.;;;;Spanish Loc;;;x
+jefferson_method_desc;The Jefferson Method is a highest averages method for allocating seats, and is thus a type of party-list proportional representation. Proportional representation systems aim to allocate seats to parties approximately in proportion to the number of votes received. For example, if a party wins one-third of the votes then it should gain about one-third of the seats. In general, exact proportionality is not possible because these divisions produce fractional numbers of seats. As a result, several methods have been devised which ensure that the parties' seat allocations, which are of course whole numbers, are as proportional as possible. In comparison with the Sainte-Lague method, §Ythe Jefferson Method slightly favours large parties and coalitions over scattered small parties§W.;;;;Spanish Loc;;;x
 precious_goods;Precious Goods;;;;Spanish Loc;;;x
 precious_goods_RGO_SIZE;Precious Goods Market Size;;;;Spanish Loc;;;x
-PARTY_LOYALTY_EFFECT_DESC;Loyalty towards ï¿½Y$PARTY$ï¿½W in ï¿½Y$PROV$ï¿½W will be changed by ï¿½Y$VALUE$ï¿½W.\n;;;;Spanish Loc;;;x
-MODIFY_RELATION_EFFECT;ï¿½Y$SOURCE$ï¿½!'s relation with ï¿½Y$TARGET$ï¿½! changed with a value of $VALUE$.\n;;;;Spanish Loc;;;x
+PARTY_LOYALTY_EFFECT_DESC;Loyalty towards §Y$PARTY$§W in §Y$PROV$§W will be changed by §Y$VALUE$§W.\n;;;;Spanish Loc;;;x
+MODIFY_RELATION_EFFECT;§Y$SOURCE$§!'s relation with §Y$TARGET$§! changed with a value of $VALUE$.\n;;;;Spanish Loc;;;x
 IS_NOT_ACCEPTED_CULTURE;Is NOT an accepted culture.;;;;Spanish Loc;;;x
 canned_food_factory;Cannery;;;;Spanish Loc;;;x
 ALL_CORE_PROVINCE_THAT;For all core provinces \n;;;;Spanish Loc;;;x
-TOPBAR_POPULATION;Our adult male population is $CURR$. Our adult male population has changed by $CHANGE$ in the last ï¿½Y$DAYS$ï¿½! days.;;;;Spanish Loc;;;x
+TOPBAR_POPULATION;Our adult male population is $CURR$. Our adult male population has changed by $CHANGE$ in the last §Y$DAYS$§! days.;;;;Spanish Loc;;;x
 precious_metal;Precious Metals;;;;Spanish Loc;;;x
 precious_metal_RGO_SIZE;Precious Metals Mine Size;;;;Spanish Loc;;;x
 cattle;Livestock;;;;Spanish Loc;;;x
@@ -21,7 +21,7 @@ RULE_RICH_ONLY;\nRich Only;;;;Spanish Loc;;;x
 RULE_SAME_AS_RULING_PARTY;\nSame As Ruling Party;;;;Spanish Loc;;;x
 RULE_STATE_VOTE;\nState Vote;;;;Spanish Loc;;;x
 RULE_POPULATION_VOTE;\nPopulation Vote;;;;Spanish Loc;;;x
-ISSUE_MOVE_EFFECT;ï¿½Y$PERCENTAGE$%ï¿½W of pops move from ï¿½YFROMï¿½W to ï¿½YTOï¿½W\n;;;;Spanish Loc;;;x
+ISSUE_MOVE_EFFECT;§Y$PERCENTAGE$%§W of pops move from §YFROM§W to §YTO§W\n;;;;Spanish Loc;;;x
 social_policy;Welfare Policy;;;;Spanish Loc;;;x
 colonial_spending_policy;Colonial;;;;Spanish Loc;;;x
 colonial_spending_policy_l;Colonial;;;;Spanish Loc;;;x
@@ -73,11 +73,11 @@ POLITICS_IN_FAVOR_TOOLTIP;($PERCENT$% of the Upper House in favor of reforms);;;
 POLITICS_UPPERHOUSE_CHART_TOOLTIP;$PERCENT$% of the Upper House are $IDEOLOGY$\n;;;;Spanish Loc;;;x
 POLITICS_UPPERHOUSE;Upper House;;;;Spanish Loc;;;x
 HAVE_INDUSTRIAL_SCORE_LESS_THAN;Have less Industrial Score than: ;;;;Spanish Loc;;;x
-CHANGE_GOODS;Change trade goods in ï¿½Y$PROV$ï¿½W to ï¿½Y$GOOD$ï¿½W.\n;;;;Spanish Loc;;;x
+CHANGE_GOODS;Change trade goods in §Y$PROV$§W to §Y$GOOD$§W.\n;;;;Spanish Loc;;;x
 HAVE_LESS_TOTAL_PORTS_THAN;Have equal or less ports than: ;;;;Spanish Loc;;;x
 HAVE_MORE_TOTAL_PORTS_THAN;Have equal or more ports than: ;;;;Spanish Loc;;;x
-TOTAL_AMOUNT_OF_SHIPS;Total amount of ships: ï¿½Y$COUNT$ï¿½W \n;;;;Spanish Loc;;;x
-LESS_AMOUNT_OF_SHIPS;Less amount of ships than: ï¿½Y$COUNT$ï¿½W \n;;;;Spanish Loc;;;x
+TOTAL_AMOUNT_OF_SHIPS;Total amount of ships: §Y$COUNT$§W \n;;;;Spanish Loc;;;x
+LESS_AMOUNT_OF_SHIPS;Less amount of ships than: §Y$COUNT$§W \n;;;;Spanish Loc;;;x
 ibadi;Ibadi;;;;Ibadi;;;x
 HAS_RECENTLY_LOST_WAR;Have lost a war in the last five years.;;;;Spanish Loc;;;x
 NOT_IN_ELECTION_CAMPAIGN;is NOT in an election campaign.;;;;Spanish Loc;;;x
@@ -86,23 +86,23 @@ PEACE_WE_ACCEPT_2;We have accepted a peace offer from;;;;Spanish Loc;;;x
 CALCULATED_WARSCORE;Peace offer value: $VAL$;;;;Spanish Loc;;;x
 CRISIS_BACK_DOWN_WE_DECLINE_2;We have declined the peace offer from;;;;Spanish Loc;;;x
 HAVE_LESS_VASSALS_THAN;Have less vassals than ;;;;Spanish Loc;;;x
-BUDGET_ADMIN_EFFICIENCY_DESC2;Our ï¿½Ycountry administrative efficiencyï¿½W determines the effectiveness of social reforms and tariffs. Our total spending also increases the ability to fight organized crime.;;;;Spanish Loc;;;x
+BUDGET_ADMIN_EFFICIENCY_DESC2;Our §Ycountry administrative efficiency§W determines the effectiveness of social reforms and tariffs. Our total spending also increases the ability to fight organized crime.;;;;Spanish Loc;;;x
 ADM_DESC;Spending on administration allows your bureaucrats to run and maintain a healthy bureaucracy, increasing our tariff efficiency and the rate of pop promotion.;;;;Spanish Loc;;;x
 NO_POPS_OF_TYPE;There are no pops of this type in our country.;;;;Spanish Loc;;;x
 NAT_STOCK_DESC;Costs of trade to fill our national stockpile. Includes spending with construction, naval supplies, land units supplies and overseas maintenance.;;;;Spanish Loc;;;x
 IND_SUP_DESC;Costs of government subsidizing of factories. National cash reserves will be used to help factories buy goods needed and pay worker salaries.;;;;Spanish Loc;;;x
 DIST_DEFENCE;Military Spending;;;;Spanish Loc;;;x
 DEFENCE_DESC;The military spending goes towards paying your soldiers and officers.;;;;Spanish Loc;;;x
-SOCIAL_DESC2;The social spending budget goes towards funding your enacted social reforms. The amount of money to distribute depends on your ï¿½Ycountry administrative efficiencyï¿½W.;;;;Spanish Loc;;;x
+SOCIAL_DESC2;The social spending budget goes towards funding your enacted social reforms. The amount of money to distribute depends on your §Ycountry administrative efficiency§W.;;;;Spanish Loc;;;x
 TAX_MIDDLE_DESC;This controls how much of the middle strata's income will be collected as tax. Too heavy taxation will leave them less money to spend on their own needs or businesses.;;;;Spanish Loc;;;x
 TARIFFS_DESC;Tariffs impose an extra cost on imported goods, with the proceeds going to the national treasury. Negative tariffs can be used to help subsidize imports for anyone in your nation.;;;;Spanish Loc;;;x
 precious_metal_desc;Gold, silver, diamonds, pearls and other precious goods are not sold as normal goods but are directly converted to money.;;;;Spanish Loc;;;x
 GOLD;Precious Goods;;;;Spanish Loc;;;x
 BUDGET_GOLD_INCOME_DESC;Income from precious goods.;;;;Spanish Loc;;;x
-BUDGET_GOLD;Precious Goods: ï¿½Y$VAL$ï¿½W;;;;Spanish Loc;;;x
+BUDGET_GOLD;Precious Goods: §Y$VAL$§W;;;;Spanish Loc;;;x
 EDU_DESC;The education budget is used to pay the intellectuals and influence literacy.;;;;Spanish Loc;;;x
 MIL_COST_DESC;Supply costs for your military, Army and Navy, not including construction costs, salaries or overseas maintenance of provinces.;;;;Spanish Loc;;;x
-STOCKPILE_COST_ESTIMATED;The National Stockpile consists of the expenses with the Army, Navy, construction budget and the maintenance of overseas provinces.\nWe ï¿½Yestimateï¿½! tomorrow's stockpile purchases will cost:;;;;Spanish Loc;;;x
+STOCKPILE_COST_ESTIMATED;The National Stockpile consists of the expenses with the Army, Navy, construction budget and the maintenance of overseas provinces.\nWe §Yestimate§! tomorrow's stockpile purchases will cost:;;;;Spanish Loc;;;x
 BUDGET_OVERSEAS;Overseas Maintenance;;;;Spanish Loc;;;x
 BUDGET_CONSUMED_OVERSEAS;Overseas Maintenance expenses are calculated with the National Stockpile and can't be lowered.\nEstimated cost of last day's overseas goods consumption:;;;;Spanish Loc;;;x
 BUDGET_CONSUMED_MILITARY;Estimated cost of last day's military goods consumption:;;;;Spanish Loc;;;x
@@ -113,7 +113,7 @@ SATELLITE_OF_NOCOLOR;Satellite of;;;;Spanish Loc;;;x
 SUBSTATE_OF_NOCOLOR;Substate of;;;;Spanish Loc;;;x
 HAVE_MORE_NATIONAL_PROVINCES_OCCUPIED_THAN;The percentage of occupied national provinces is greater than: ;;;;Spanish Loc;;;x
 HAVE_LESS_NATIONAL_PROVINCES_OCCUPIED_THAN;The percentage of occupied national provinces is less than: ;;;;Spanish Loc;;;x
-NEED_POSITIVE_WARSCORE;The war is not going well enough. ï¿½RIn wars were you are not the war leader, contribution is calculated individually. Even though the total warscore might be positive, what allows you to add or not war goals is your individual warscore - your individual contribution - in this war.ï¿½W;;;;Spanish Loc;;;x
+NEED_POSITIVE_WARSCORE;The war is not going well enough. ?RIn wars were you are not the war leader, contribution is calculated individually. Even though the total warscore might be positive, what allows you to add or not war goals is your individual warscore - your individual contribution - in this war.§W;;;;Spanish Loc;;;x
 WARGOAL_LACK_JINGO;We require $REQUIRED$ support for jingoism in our country, but have only $VALUE$. Jingoism represents the Ruler or the Upper House will to extend the war. The higher the jingoism, the more the chances that the necessary actors have the will and/or support to extend the war.;;;;Spanish Loc;;;x 
 admin_spen;AI Administration Spending;;;;Spanish Loc;;;x
 educational_spen;AI Educational Spending;;;;Spanish Loc;;;x
@@ -145,10 +145,10 @@ HAS_NATIONAL_MINORITY;Has Minorities;;;;Spanish Loc;;;x
 beifaren;North Han;;;;Spanish Loc;;;x
 nanfaren;South Han;;;;Spanish Loc;;;x
 acceptable_subsidies_l;Extended Subsidies;;;;Spanish Loc;;;x
-MONEY_IS_ATLEAST_TRIGGER;Money is at least ï¿½Y$VALUE$ï¿½Wï¿½.\n;;;;Spanish Loc;;;x
-EFFECT_BUILD_IN_CAPITAL_DESC;ï¿½Y$BLD$ï¿½! construction will take place in: ï¿½Y$PROVS$ï¿½!\n;;;;Spanish Loc;;;x
-ADD_WARGOAL_PRESTIGE;If we achieve this war goal, we will gain $COST$ ï¿½Yprestigeï¿½W;;;;Spanish Loc;;;x
-ADD_WARGOAL_MILITANCY;If we fail to achieve this war goal, our entire population will gain $MILITANCY$ ï¿½YMilitancyï¿½W;;;;Spanish Loc;;;x
+MONEY_IS_ATLEAST_TRIGGER;Money is at least §Y$VALUE$§W?.\n;;;;Spanish Loc;;;x
+EFFECT_BUILD_IN_CAPITAL_DESC;§Y$BLD$§! construction will take place in: §Y$PROVS$§!\n;;;;Spanish Loc;;;x
+ADD_WARGOAL_PRESTIGE;If we achieve this war goal, we will gain $COST$ §Yprestige§W;;;;Spanish Loc;;;x
+ADD_WARGOAL_MILITANCY;If we fail to achieve this war goal, our entire population will gain $MILITANCY$ §YMilitancy§W;;;;Spanish Loc;;;x
 ADD_WARGOAL_EFFECT;When we add this war goal, we will gain:;;;;Spanish Loc;;;x
 ADD_WARGOAL_SUCCESS;If we achieve this war goal, we will gain:;;;;Spanish Loc;;;x
 ADD_WARGOAL_FAILURE;If we fail to achieve this war goal, we will gain:;;;;Spanish Loc;;;x
@@ -212,12 +212,12 @@ NOT_IN_SOCIAL_MOVEMENT;not in social movement\n;;;;Spanish Loc;;;x
 IN_POLITICAL_MOVEMENT;in political movement\n;;;;Spanish Loc;;;x
 NOT_IN_POLITICAL_MOVEMENT;not in political movement\n;;;;Spanish Loc;;;x	
 NEUTRALITY_EFFECT;The nation becomes neutral, dissolving all alliances and setting all satellites free.;;;;Spanish Loc;;;x
-INFLUENCE_CHANGE;ï¿½Y$ACTIVE$ï¿½W influence with ï¿½Y$PASSIVE$ï¿½W changes by $MUCH$.\n;;;;Spanish Loc;;;x
+INFLUENCE_CHANGE;§Y$ACTIVE$§W influence with §Y$PASSIVE$§W changes by $MUCH$.\n;;;;Spanish Loc;;;x
 THE_CAPITAL_IS_NOT;The Capital Is Not ;;;;Spanish Loc;;;x
 ENDGAME_DESC;One hundred momentous years have passed and we have entered the modern age. The world is a radically different place, how did your country do?;;;;Spanish Loc;;;x
 DIPLOMACY_FILTER_NORTH_AMERICA;North America;;;;Spanish Loc;;;x
 DIPLOMACY_FILTER_OCEANIA;Near East;;;;Spanish Loc;;;x
-DIPLOMACY_FILTER_OCEANIA_TOOLTIP;List ï¿½YNear Easternï¿½W countries;;;;Spanish Loc;;;x
+DIPLOMACY_FILTER_OCEANIA_TOOLTIP;List §YNear Eastern§W countries;;;;Spanish Loc;;;x
 north_america;North America;;;;Spanish Loc;;;x
 oceania;Near East;;;;Spanish Loc;;;x
 siberian;Siberian Minor;;;;Spanish Loc;;;x
@@ -245,7 +245,7 @@ public_illumination;Public Illumination;;;;Spanish Loc;;;x
 IS_NOT_IN_A_SPHERE;Not in a sphere of influence.;;;;Spanish Loc;;;x
 NATIONALIZE_INDUSTRY_EFFECT;Perform Nationalization\n;;;;Spanish Loc;;;x
 2nd_caucasian_war;Second Caucasian War;;;;Spanish Loc;;;x
-RELEASE;Release ï¿½Y$WHO$ï¿½W as an independent state.\n;;;;Spanish Loc;;;x
+RELEASE;Release §Y$WHO$§W as an independent state.\n;;;;Spanish Loc;;;x
 modern_central_bank_system_invented;Modern Central Banking System Invented;;;;Spanish Loc;;;x
 PEACE_WE_ACCEPT_2;We have accepted a peace offer from;;;;Spanish Loc;;;x
 administrative_efficiency_modifier;Administrative Efficiency;;;;Spanish Loc;;;x
@@ -258,7 +258,7 @@ fascist_rebels_army;$COUNTRY_ADJ$ Paramilitary;;;;Spanish Loc;;;x
 dagestani;Dagestani;;;;Spanish Loc;;;x
 circassian;Circassian;;;;Spanish Loc;;;x
 chechen;Chechen;;;;Spanish Loc;;;x
-north_caucasian;Caucasian Minor;;;;Menor caucï¿½sico;;;x
+north_caucasian;Caucasian Minor;;;;Menor cauc?sico;;;x
 caucasian;North Caucasian;;;;Spanish Loc;;;x
 botanical_expedition_threatened;Botanical Expedition Threatened;;;;Spanish Loc;;;x
 participates_in_botanical_expedition;Participates in Botanical Expedition;;;;Spanish Loc;;;x
@@ -267,8 +267,8 @@ IS_RELIGION;The state religion is;;;;Spanish Loc;;;x
 early_electrical_telegraph;Early Electrical Telegraph;;;;Spanish Loc;;;x
 early_electrical_telegraph_desc;The first commercial electrical telegraph was co-developed by Sir William Fothergill Cooke and Charles Wheatstone. This was a five-needle, six-wire system. The cables were originally installed underground in a steel conduit. However, the cables soon began to fail as a result of deteriorating insulation and were replaced with uninsulated wires on poles. As an interim measure, a two-needle system was used with three of the remaining working underground wires, which despite using only two needles had a greater number of codes.;;;;Spanish Loc;;;x
 telegraph;Telegraph;;;;Spanish Loc;;;x
-REMOVE_MONEY_EFFECT;Lose ï¿½R$VALUE$ï¿½!.\n;;;;Spanish Loc;;;x
-MONEY_EFFECT;Funds ï¿½R$VALUE$ï¿½!.\n;;;;Spanish Loc;;;x
+REMOVE_MONEY_EFFECT;Lose ?R$VALUE$§!.\n;;;;Spanish Loc;;;x
+MONEY_EFFECT;Funds ?R$VALUE$§!.\n;;;;Spanish Loc;;;x
 theocracy_ruler;Your Holiness;;;;Spanish Loc;;;x
 proletarian_dictatorship_ruler;Chairman;;;;Spanish Loc;;;x
 presidential_dictatorship_ruler;President;;;;Spanish Loc;;;x
@@ -301,10 +301,10 @@ piston_steam_engine;Piston Steam Engine;;;;Spanish Loc;;;x
 high_pressure_steam_engine;High-Pressure Steam Engine;;;;Spanish Loc;;;x
 compound_steam_engines;Compound Steam Engine;;;;Spanish Loc;;;x
 nv_autocracy;Autocracy;;;;Autocracia;;;x
-nv_tradition;Tradition;;;;Tradiciï¿½n;;;x
+nv_tradition;Tradition;;;;Tradici?n;;;x
 nv_productivity;Productivity;;;;Productividad;;;x
 nv_diplomacy;Diplomacy;;;;Diplomacia;;;x
-nv_education;Education;;;;Educaciï¿½n;;;x
+nv_education;Education;;;;Educaci?n;;;x
 CANAL_5;Dardanelles Strait;;;;Spanish Loc;;;x
 CANAL_4;Bosphorus Strait;;;;Spanish Loc;;;x
 MODIFIER_LAND_ATTACK;Land Unit Attack;;;;Spanish Loc;;;x
@@ -323,9 +323,9 @@ BUDGET_TAX_RICH;Taxes (Upper Class);;;;Spanish Loc;;;x
 BUDGET_TAX_MIDDLE;Taxes (Middle Class);;;;Spanish Loc;;;x
 BUDGET_TAX_POOR;Taxes (Lower Class);;;;Spanish Loc;;;x
 NATIONAL_BANK;National Bank;;;;Spanish Loc;;;x
-immigration_focus_desc;Migrants ï¿½Y$VAL$ï¿½W% more likely to choose this state. This focus makes immigrants more likely to settle in this state, it doesn't make more likely for them to choose our country.;;;;Spanish Loc;;;x
+immigration_focus_desc;Migrants §Y$VAL$§W% more likely to choose this state. This focus makes immigrants more likely to settle in this state, it doesn't make more likely for them to choose our country.;;;;Spanish Loc;;;x
 emigration_focus;Encourage Emigration;;;;Spanish Loc;;;x
-emigration_focus_desc;Pops will be ï¿½Y$VAL$ï¿½W% more likely to leave this region.;;;;Spanish Loc;;;x
+emigration_focus_desc;Pops will be §Y$VAL$§W% more likely to leave this region.;;;;Spanish Loc;;;x
 not_AI;Not AI;;;;Spanish Loc;;;x
 harassment_l;Harassed Parties;;;;Spanish Loc;;;x
 land_reform;Land Reform;;;;Spanish Loc;;;x
@@ -604,7 +604,7 @@ movement_child_labor_illegal;Child Labor Abolition League;;;;Spanish Loc;;;x
 debt_law;Debt Law;;;;Spanish Loc;;;x
 serfdom;Serfdom;;;;Spanish Loc;;;x
 serfdom_l;Serfdom;;;;Spanish Loc;;;x
-serfdom_desc;Serfs are bound to the land and subject to the will of its owner and forced to work the fields under a feudal system.\nï¿½RThis reform affects POP promotion chance - promotion will be slower.ï¿½W\nï¿½YThis reform enables Serfs - poor POPs will demote to Serfs and won't come out of Serfdom until it's abolished.ï¿½W;;;;Spanish Loc;;;x
+serfdom_desc;Serfs are bound to the land and subject to the will of its owner and forced to work the fields under a feudal system.\n?RThis reform affects POP promotion chance - promotion will be slower.§W\n§YThis reform enables Serfs - poor POPs will demote to Serfs and won't come out of Serfdom until it's abolished.§W;;;;Spanish Loc;;;x
 movement_serfdom;Pro Serfdom League;;;;Spanish Loc;;;x
 peonage;Peonage;;;;Spanish Loc;;;x
 peonage_l;Peonage;;;;Spanish Loc;;;x
@@ -612,7 +612,7 @@ peonage_desc;Peonage is a debt system under which the debtor is forced to work o
 movement_peonage;Campaign for the Abolition of Serfdom;;;;Spanish Loc;;;x
 debtors_prisons;Debtor's Prisons;;;;Spanish Loc;;;x
 debtors_prisons_l;Debtor's Prisons;;;;Spanish Loc;;;x
-debtors_prisons_desc;Debtors are confined to jail until such time as their debt is resolved.\nï¿½YThis reform is neutral - no effects.ï¿½W;;;;Spanish Loc;;;x
+debtors_prisons_desc;Debtors are confined to jail until such time as their debt is resolved.\n§YThis reform is neutral - no effects.§W;;;;Spanish Loc;;;x
 movement_debtors_prisons;Abolition of Peonage Movement;;;;Spanish Loc;;;x
 bankruptcy;Bankruptcy;;;;Spanish Loc;;;x
 bankruptcy_l;Bankruptcy;;;;Spanish Loc;;;x
@@ -626,11 +626,11 @@ penal_system;Penal System;;;;Spanish Loc;;;x
 penal_system_l;Penal System;;;;Spanish Loc;;;x
 colonial_transportation;Transportation;;;;Spanish Loc;;;x
 colonial_transportation_l;Transportation;;;;Spanish Loc;;;x
-colonial_transportation_desc;Prisoners are sent to either far away or inhospitable places in the mother-country or to its colonies. This, however, increases the load on the bureaucracy.\nï¿½YThis reform will increase colonial migration but it will also increase the necessity of bureaucrats.ï¿½W;;;;Spanish Loc;;;x
+colonial_transportation_desc;Prisoners are sent to either far away or inhospitable places in the mother-country or to its colonies. This, however, increases the load on the bureaucracy.\n§YThis reform will increase colonial migration but it will also increase the necessity of bureaucrats.§W;;;;Spanish Loc;;;x
 movement_colonial_transportation;Campaign for the Abolition of Capital Punishment;;;;Spanish Loc;;;x
 incarceration;Incarceration;;;;Spanish Loc;;;x
 incarceration_l;Incarceration;;;;Spanish Loc;;;x
-incarceration_desc;Convicts are imprisoned with the intent of removing undesirables from society, though they aren't used for hard manual labor most of the times.\nï¿½YThis reform is neutral - no effects.ï¿½W;;;;Spanish Loc;;;x
+incarceration_desc;Convicts are imprisoned with the intent of removing undesirables from society, though they aren't used for hard manual labor most of the times.\n§YThis reform is neutral - no effects.§W;;;;Spanish Loc;;;x
 movement_incarceration;Movement for the Abolition of Penal Colonies;;;;Spanish Loc;;;x
 rehabilitation;Rehabilitation;;;;Spanish Loc;;;x
 rehabilitation_l;Rehabilitation;;;;Spanish Loc;;;x

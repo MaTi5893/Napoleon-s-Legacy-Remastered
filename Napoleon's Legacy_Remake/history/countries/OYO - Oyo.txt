@@ -1,5 +1,5 @@
 capital = 1926
-primary_culture = african_minor # yoruba
+primary_culture = volta # yoruba
 #culture = fon
 religion = animist
 government = absolute_monarchy
