@@ -317,6 +317,16 @@ country_event = {
 			limit = { is_greater_power = no }
 			treasury = 50000
 		}
+		any_country = {
+			limit = {
+				OR = {
+					tag = BRZ
+					tag = RER
+					tag = ECO
+				}
+			}
+			country_event = 600043
+		}
 		any_country = { 
 			limit = {           
 				OR = {

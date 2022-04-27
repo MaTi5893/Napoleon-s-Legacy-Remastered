@@ -1397,3 +1397,7 @@ monroe = {
 	diplomatic_points_modifier = 0.3
 	immigrant_attract = 0.15
 }
+
+fuck_brazil = {
+	immigrant_attract = -0.3
+}
