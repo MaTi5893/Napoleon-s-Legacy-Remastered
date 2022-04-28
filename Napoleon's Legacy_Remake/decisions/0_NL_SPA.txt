@@ -654,6 +654,18 @@ political_decisions = {
 			add_accepted_culture = mexican
 			add_accepted_culture = central_american
 			add_accepted_culture = platinean
+			any_country = {
+				limit = {
+					vassal_of = THIS
+					OR = {
+						accepted_culture = andean
+						accepted_culture = mexican
+						accepted_culture = central_american
+						accepted_culture = platinean
+					}
+				}
+				annex_to = THIS
+			}
 			prestige = 50
 			all_core = {
 				add_core = SPC
