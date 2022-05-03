@@ -9,7 +9,7 @@ political_decisions = {
 		allow = {
 			war = no
 			RUS_718 = {owned_by = THIS}
-			RUS_958 = {
+			958 = {
 				OR = {
 					owned_by = THIS
 					owner = {
@@ -22,6 +22,8 @@ political_decisions = {
 			}
 		}
 		effect = {
+			RUS_718 = {add_core = THIS}
+			RUS_958 = {add_core = THIS}
 			RUS_955 = {add_core = THIS}
 			RUS_707 = {add_core = THIS}
 			RUS_360 = {add_core = THIS}

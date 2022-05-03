@@ -2,11 +2,11 @@ army = {
 	name = "1st Roman Army"
 	
 	leader = {
-		name = "Biggus Dickus"
+		name = "Erectus Muto"
 		date = 1825.1.1
 		type = land
-		personality = defence_4.1
-		background = attack_5.1
+		personality = defence_3.1
+		background = attack_4.1
 		prestige = 0.5
 	}
 	

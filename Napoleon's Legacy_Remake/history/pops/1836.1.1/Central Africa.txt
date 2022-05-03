@@ -3,31 +3,31 @@
 #Bangui (104000/26000 POPS)
 1965 = {
 	aristocrats = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 500
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 1300
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 275
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 23675
 	}
@@ -35,31 +35,31 @@
 #Nola (40000/10000 POPS)
 1966 = {
 	aristocrats = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 9125
 	}
@@ -68,31 +68,31 @@
 #Bouar (28000/7000 POPS)
 1967 = {
 	aristocrats = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 6375
 	}
@@ -100,91 +100,91 @@
 #Bossangoa (56000/14000 POPS)
 1968 = {
 	aristocrats = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 9125
 	}
 
 	aristocrats = {
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size = 10
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size = 15
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size = 900
 	}
 
 	aristocrats = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 2700
 	}
@@ -194,61 +194,61 @@
 #Zemio (44000/11000 POPS)
 1969 = {
 	aristocrats = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 5475
 	}
 
 	aristocrats = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 4575
 	}
@@ -256,61 +256,61 @@
 #Bangassou (56000/14000 POPS)
 1970 = {
 	aristocrats = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 15
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 900
 	}
 
 	aristocrats = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 225
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 650
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 11875
 	}
@@ -319,61 +319,61 @@
 #Ndele (28000/7000 POPS)
 1971 = {
 	aristocrats = {
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size = 10
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size = 15
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = bantu
 		religion = sunni
 		size = 900
 	}
 
 	aristocrats = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = bantu
 		religion = animist
 		size = 5475
 	}

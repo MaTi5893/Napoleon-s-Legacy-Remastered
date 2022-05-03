@@ -1,6 +1,6 @@
 #If you create a country specific event make sure you add the tag to the list of tags to not get the broad event	#>Reno, the man who made all of Persia Aryan and all of Central Asia Turkic, wasting performance on 40 different John Cena events
 															#mfw
-country_event = {		#Deleted for an mp campaign, if the game feels worse without it, John Xina may be added back
+country_event = {		
 	id = 600000
 	allow_multiple_instances = yes
 	trigger = {
@@ -18,7 +18,7 @@ country_event = {		#Deleted for an mp campaign, if the game feels worse without 
 		define_general = {
 			name = "Ryan Gosling"
 			#+3 defence, +15% reliability, +7.5% morale
-			personality = defence_3.3
+			personality = defence_3.3			
 			#+3 attack, +15% reliability, -3% attrition
 			background = attack_3.3
 		}

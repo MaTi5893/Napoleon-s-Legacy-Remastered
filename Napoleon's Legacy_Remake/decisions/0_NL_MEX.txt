@@ -117,10 +117,8 @@ political_decisions = {
                 tag = USA
                 tag = MEX
             }
-            OR = {
-                NOT = {USA = {accepted_culture = texan}}
-                NOT = {MEX = {accepted_culture = texan}}
-            }
+            NOT = {USA = {accepted_culture = texan}}
+            NOT = {MEX = {accepted_culture = texan}}
         }
         allow ={
             state_n_government = 1
@@ -133,6 +131,7 @@ political_decisions = {
                         owned_by = THIS
                         owner = {
                             vassal_of = THIS
+                            in_sphere = THIS
                         }
                     }
                 }

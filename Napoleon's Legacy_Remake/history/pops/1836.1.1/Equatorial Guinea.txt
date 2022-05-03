@@ -33,25 +33,25 @@
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = volta
 		religion = catholic
 		size = 120
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = volta
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = volta
 		religion = catholic
 		size = 1530
 	}
 
 	slaves = {
-		culture = african_minor
+		culture = volta
 		religion = animist
 		size = 1100
 	}
@@ -60,31 +60,31 @@
 #Bata (132000/33000 POPS) 
 1973 = {
 	aristocrats = {
-		culture = african_minor
+		culture = volta
 		religion = animist
 		size = 350
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = volta
 		religion = animist
 		size = 300
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = volta
 		religion = animist
 		size = 1500
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = volta
 		religion = animist
 		size = 350
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = volta
 		religion = animist
 		size = 31500
 	}

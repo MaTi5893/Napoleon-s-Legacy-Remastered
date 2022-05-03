@@ -20,7 +20,6 @@ political_decisions = {
 						province_id = 738
 						province_id = 737
 						region = SAR_720
-						region = SAR_466
 						owned_by = THIS
 						owner = {
 							OR = {
@@ -85,7 +84,6 @@ political_decisions = {
 					tag = NIT
 					NOT = {has_country_flag = get_rome}
 				}
-				tag = PAP
 				AND = {
 					tag = SPA
 					NOT = {accepted_culture = south_italian}
@@ -109,7 +107,6 @@ political_decisions = {
 			FRA_448 = {owned_by = THIS}
 			FRA_455 = {owned_by = THIS}
 			FRA_458 = {owned_by = THIS}
-			SAR_466 = {owned_by = THIS}
 			nationalism_n_imperialism = 1
 		}
 		effect = {
@@ -120,7 +117,6 @@ political_decisions = {
 			FRA_448 = {add_core = THIS}
 			FRA_455 = {add_core = THIS}
 			FRA_458 = {add_core = THIS}
-			SAR_466 = {add_core = THIS}
 			add_accepted_culture = occitan
 			prestige = 20
 		}
@@ -135,7 +131,6 @@ political_decisions = {
 					tag = NIT
 					NOT = {has_country_flag = get_rome}
 				}
-				tag = PAP
 			}
 			accepted_culture = occitan
 			NOT = {accepted_culture = basque}
@@ -236,10 +231,11 @@ political_decisions = {
 		}
 		allow = {
 			war = no
-			NIT = {
+			ITA = {
 				all_core = {
 					OR = {
 						owned_by = THIS
+						NOT = { culture = north_italian } 
 						owner = {
 							OR = {
 								in_sphere = THIS
@@ -263,7 +259,6 @@ political_decisions = {
                 }
                 annex_to = THIS
             }
-			add_accepted_culture = cisalpine
 			change_tag = NIT
 		}
 	}
@@ -277,7 +272,6 @@ political_decisions = {
 					tag = NPL
 					NOT = {has_country_flag = get_rome}
 				}
-				tag = PAP
 			}
 			NOT = {accepted_culture = occitan}
 			NOT = {accepted_culture = greek}
@@ -324,7 +318,6 @@ political_decisions = {
 					tag = NPL
 					NOT = {has_country_flag = get_rome}
 				}
-				tag = PAP
 			}
 			accepted_culture = greek
 			NOT = {accepted_culture = maltese}
@@ -374,7 +367,6 @@ political_decisions = {
 		picture = illyria_decision
 		potential = {
 			OR = {
-				tag = PAP
 				tag = ITA
 				AND = {
 					tag = NIT
@@ -441,7 +433,6 @@ political_decisions = {
 		picture = serbia_decision
 		potential = {
 			OR = {
-				tag = PAP
 				tag = ITA
 				AND = {
 					tag = NIT
@@ -506,7 +497,6 @@ political_decisions = {
 		picture = albania_decision
 		potential = {
 			OR = {
-				tag = PAP
 				tag = ITA
 				AND = {
 					tag = NIT
@@ -552,7 +542,6 @@ political_decisions = {
 		picture = italy_decision
 		potential = {
 			OR = {
-				tag = PAP
 				tag = ITA
 			}
 			NOT = {has_country_flag = italy_finally}
@@ -619,19 +608,20 @@ political_decisions = {
 		picture = italy_decision
 		potential = {
 			OR = {
-				tag = ITA
-				tag = PAP
-				tag = NIT
-				AND = {
-					has_country_flag = maximilien
-					tag = FRA
-					has_country_flag = italian_submission
-				}
+				accepted_culture = south_italian
+				accepted_culture = north_italian
+				primary_culture = south_italian
+				primary_culture = north_italian
 			}
 			NOT = { tech_school = italian_tech_school }
+			NOT = { tech_school = spanish_tech_school }
+			NOT = { tech_school = french_tech_school }
+			NOT = { tech_school = dutch_tech_school }
 		}
 		allow = {
-			state_n_government=1
+			nationalism_n_imperialism = 1
+			biologism = 1
+			buisness_regulations = 1
 			owns = 749
 			owns = 720
 			is_greater_power=yes

@@ -1,4 +1,4 @@
-country_event = {		
+country_event = {	
 	id = 600006
 	trigger = {
 		tag = GRE
@@ -15,7 +15,7 @@ country_event = {
 	title = "EVTNAME600006"
 	desc = "EVTDESC600006"
 	option = {
-		name = "Remove Kebab !"	
+		name = "Remove Kebab!"	
 		add_country_modifier = {
 			name = liberation_war
 			duration = 1459
@@ -23,7 +23,7 @@ country_event = {
 	}
 }
 
-country_event = {		
+country_event = {
 	id = 600007
 	trigger = {
 		tag = TUR
@@ -36,7 +36,7 @@ country_event = {
 	title = "EVTNAME600007"
 	desc = "EVTDESC600007"
 	option = {
-		name = "We failed to secure Greece !"
+		name = "We lost Greece!"
 		prestige = -5
 		GRE = {
 			all_core = {
@@ -65,7 +65,7 @@ country_event = {
 	title = "EVTNAME600008"
 	desc = "EVTDESC600008"
 	option = {
-		name = "We failed to secure Serbia !"
+		name = "We lost Serbia!"
 		prestige = -5
 		SER = {
 			all_core = {
@@ -95,7 +95,7 @@ country_event = {
 	title = "EVTNAME600009"
 	desc = "EVTDESC600009"
 	option = {
-		name = "We failed to secure Montenegro !"
+		name = "We lost Montenegro!"
 		prestige = -5
 		MON = {
 			all_core = {
@@ -105,10 +105,10 @@ country_event = {
 				remove_core = TUR
 			}
 		}
-	}
-	add_country_modifier = {
+		add_country_modifier = {
 		name = balkans_war_aftermath_defeat
 		duration = 3650
+		}
 	}
 }
 country_event = {
@@ -124,7 +124,7 @@ country_event = {
 	title = "EVTNAME600010"
 	desc = "EVTDESC600010"
 	option = {
-		name = "We failed to secure Bosnia !"
+		name = "We lost Bosnia!"
 		prestige = -5
 		BOS = {
 			all_core = {
@@ -156,7 +156,7 @@ country_event = {
 	title = "EVTNAME600011"
 	desc = "EVTDESC600011"
 	option = {
-		name = "We have won !"
+		name = "We have won!"
 		prestige = 20
 		add_country_modifier = {
 			name = balkans_war_aftermath_victory

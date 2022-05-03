@@ -1,24 +1,12 @@
-name = "Brazilian revolts"
+name = "Brazilian Revolt"
 
 1835.1.1 = {
 	add_attacker = POR
-	add_defender = RER
-    add_defender = ECO
     add_defender = BRZ
 	
 	war_goal = {
 		casus_belli = conquest
 		actor = POR
 		receiver = BRZ
-	}
-	war_goal = {
-		casus_belli = conquest
-		actor = POR
-		receiver = RER
-	}
-	war_goal = {
-		casus_belli = conquest
-		actor = POR
-		receiver = ECO
 	}
 }

@@ -1202,60 +1202,58 @@ core_when_done = {
 
 french_republic = {
 	mobilisation_size = 0.01
-	global_assimilation_rate = 0.2
-	global_population_growth = 0.001
+	global_assimilation_rate = 0.1
 	education_efficiency_modifier = 0.1
 	culture_tech_research_bonus = 0.05
 	army_tech_research_bonus = -0.05
-	mobilization_impact = 0.1
 }
 
 political_bonus_military = {
-	mobilisation_economy_impact = -0.1
-	army_tech_research_bonus = 0.05
-	navy_tech_research_bonus = -0.05
+	mobilisation_economy_impact = -0.05
+	army_tech_research_bonus = 0.025
+	navy_tech_research_bonus = -0.025
 	org_regain = 0.05
 	land_organisation = 0.05
-	land_unit_start_experience = 0.2
+	land_unit_start_experience = 0.1
 	supply_consumption = -0.05
-	tax_efficiency = -0.15
+	tax_efficiency = -0.075
 	icon = 10
 }
 
 political_bonus_navy = {
-	army_tech_research_bonus = -0.05
-	navy_tech_research_bonus = 0.1
-	naval_organisation = 0.1
-	tariff_efficiency_modifier = 0.1
-	tax_efficiency = -0.15
+	army_tech_research_bonus = -0.025
+	navy_tech_research_bonus = 0.5
+	naval_organisation = 0.05
+	tariff_efficiency_modifier = 0.05
+	tax_efficiency = -0.075
 	icon = 10
 }
 
 political_bonus_education = {
-	culture_tech_research_bonus = 0.05
-	commerce_tech_research_bonus = -0.05
+	culture_tech_research_bonus = 0.025
+	commerce_tech_research_bonus = -0.025
 	global_assimilation_rate = 0.05
-	education_efficiency_modifier = 0.15
-	tax_efficiency = -0.15
+	education_efficiency_modifier = 0.075
+	tax_efficiency = -0.075
 	icon = 10
 }
 
 political_bonus_industry = {
-	industry_tech_research_bonus = 0.05
-	culture_tech_research_bonus = -0.05
+	industry_tech_research_bonus = 0.025
+	culture_tech_research_bonus = -0.025
 	factory_output = 0.05
-	mine_rgo_eff = 0.1
-	farm_rgo_eff = 0.1
-	tax_efficiency = -0.15
+	mine_rgo_eff = 0.075
+	farm_rgo_eff = 0.075
+	tax_efficiency = -0.075
 	icon = 10
 }
 
 political_bonus_immigration = {
-	industry_tech_research_bonus = -0.05
-	commerce_tech_research_bonus = 0.05
-	culture_tech_research_bonus = 0.05
-	immigrant_attract = 0.3
-	tax_efficiency = -0.15
+	industry_tech_research_bonus = -0.025
+	commerce_tech_research_bonus = 0.025
+	culture_tech_research_bonus = 0.025
+	immigrant_attract = 0.15
+	tax_efficiency = -0.075
 	icon = 10
 }
 
@@ -1289,7 +1287,7 @@ emperor_council_refused = {
 	mobilisation_size = -0.03
 	global_pop_militancy_modifier = 0.03
 	global_pop_consciousness_modifier = 0.03
-	global_population_growth = -0.01
+	global_population_growth = -0.001
 	global_assimilation_rate = -0.1
 	tax_efficiency = -0.1
 	global_liberal_agitation = 0.04
@@ -1309,7 +1307,7 @@ alexandre_reforms_1 = {
 
 alexandre_reforms_2 = {
 	global_assimilation_rate = 0.1
-	global_population_growth = 0.02
+	global_population_growth = 0.002
 	culture_tech_research_bonus = 0.05
 }
 
@@ -1338,8 +1336,66 @@ brazil_united = {
 
 true_german = {
 	mobilisation_size = 0.02
-	global_population_growth = 0.0001
+	global_population_growth = 0.001
 	global_pop_militancy_modifier = -0.01
 	global_pop_consciousness_modifier = -0.01
 	land_organisation = 0.1
+}
+
+mughals_united = {
+	mobilisation_size = 0.01
+	global_population_growth = 0.001
+	global_pop_militancy_modifier = -0.1
+	research_points_modifier = 0.30
+}
+
+nau_united =  {
+	mobilisation_size = 0.01
+	immigrant_attract = 0.2
+	global_assimilation_rate = 0.3
+	global_pop_militancy_modifier = -0.02
+}
+
+dye_boost = {
+	farm_rgo_eff = 1.5
+	population_growth = 0.001
+	immigrant_attract = 0.2
+}
+
+assimilation = {
+	assimilation_rate = 0.5
+	pop_militancy_modifier = 0.01
+	pop_consciousness_modifier = 0.01
+	mine_rgo_eff = -0.1
+	farm_rgo_eff = -0.1
+}
+
+USA_imperialism = {
+	land_organisation = 0.05
+	naval_organisation = 0.05
+	navy_tech_research_bonus = 0.025
+	army_tech_research_bonus = 0.025
+	culture_tech_research_bonus = -0.025
+	commerce_tech_research_bonus = -0.025
+	diplomatic_points_modifier = -0.10
+}
+
+USA_isolasionist = {
+	navy_tech_research_bonus = -0.025
+	army_tech_research_bonus = -0.025
+	culture_tech_research_bonus = 0.025
+	commerce_tech_research_bonus = 0.025
+	diplomatic_points_modifier = 0.10
+	immigrant_attract = 0.05
+	assimilation_rate = 0.05
+}
+
+monroe = {
+	commerce_tech_research_bonus = 0.05
+	diplomatic_points_modifier = 0.3
+	immigrant_attract = 0.15
+}
+
+fuck_brazil = {
+	immigrant_attract = -0.3
 }

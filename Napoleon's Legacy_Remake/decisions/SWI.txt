@@ -1,29 +1,4 @@
 political_decisions = {
-	declare_republic_of_neuchatel = {
-		potential = {
-			tag = SWI
-			owns = 608
-			608 = {
-				is_core = PRU
-			}
-		}
-		allow = {
-			prestige = 1
-			romanticism = 1
-		}
-		effect = {
-			prestige = 5
-			608 = {
-				remove_core = PRU
-				remove_core = NGF
-				remove_core = GER
-			}
-			relation = {
-				who = PRU
-				value = 20
-			}
-		}
-	}
 	call_geneva_convention = {
 		potential = {
 			tag = SWI

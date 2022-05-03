@@ -39,7 +39,10 @@ political_decisions = {
 					OR = {
 						owned_by = THIS
 						owner = {
-							vassal_of = THIS
+							OR = {
+								vassal_of = THIS
+								in_sphere = THIS
+							}
 						}
 					}
 				}
@@ -175,10 +178,16 @@ political_decisions = {
 			}
 			NOT = { tech_school = french_tech_school }
 			NOT = { tech_school = british_tech_school }
+			NOT = { tech_school = dutch_tech_school }
 		}
 		allow = {
-			battleship_column_doctrine=1
-			mechanical_production=1
+			war = no
+			raider_group_doctrine = 1
+			iron_steamers = 1
+			machine_tools = 1
+			cheap_steel = 1
+			weapon_platforms = 1
+			mechanical_production = 1
 			all_core = {
 				owned_by = THIS
 			}

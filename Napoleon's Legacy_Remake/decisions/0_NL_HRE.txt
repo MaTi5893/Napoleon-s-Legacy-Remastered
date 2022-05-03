@@ -255,12 +255,10 @@ political_decisions = {
             is_greater_power = yes
             war = no
             SWI_603 = {owned_by = THIS}
-            SWI_605 = {owned_by = THIS}
             revolution_n_counterrevolution = 1
         }
         effect = {
             SWI_603 = {add_core = THIS}
-            SWI_605 = {add_core = THIS}
             prestige =10
             set_country_flag = expand_switzerland
         }

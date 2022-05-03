@@ -2,5 +2,6 @@ owner = MEW
 controller = MEW
 add_core = MEW
 add_core = HND
+add_core = MUG
 trade_goods = coal
 life_rating = 32

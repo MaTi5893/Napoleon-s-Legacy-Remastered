@@ -7541,6 +7541,10 @@
         naval_base = 8.00000
     }
 
+    building_rotation = {
+        naval_base = 8.00000
+    }
+
     spawn_railway_track = {
         {
             x = 1444.000000

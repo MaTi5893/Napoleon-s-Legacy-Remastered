@@ -11,7 +11,7 @@ government = absolute_monarchy
 plurality = 25
 nationalvalue = nv_equality
 literacy = 0.60
-non_state_culture_literacy = 0.15
+non_state_culture_literacy = 0.265
 civilized = yes
 
 #GreaterPowers = prestige
@@ -94,8 +94,4 @@ upper_house = {
 schools = napoleon_tech_school
 
 oob = "FRA_oob.txt"
-
-1835.1.1 = {
-    decision = french_lit_fix
-}
 

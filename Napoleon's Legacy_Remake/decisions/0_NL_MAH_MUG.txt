@@ -33,41 +33,32 @@ political_decisions = {
 	}
 	
 	recover_the_empire = {
+		picture = mughal_decision
 		potential = {
 			tag = MUG
 			NOT = { has_country_flag = recovered_the_empire }
 		}
 		allow = {
-			OR = {
-				is_greater_power = yes
-				AND = {
-					foreign_weapons = foreign_weapons_two
-					foreign_officers = foreign_officers_two
-					army_schools = army_schools_two
-				}
-			}
 			all_core = { owned_by = THIS }
-			war_policy = jingoism
 			war = no
 		}
 		effect = {
-			ORI = {
-				all_core = {
-					add_core = THIS
-				}
+			prestige = 20
+			add_country_modifier = {
+				name = mughals_united
+				duration = 3650
 			}
-			MAH = {
-				all_core = {
-					add_core = THIS
-				}
-			}
-			ENG_1264 = { add_core = THIS }
-			HYD = { all_core = { add_core = THIS } }
-			badboy = 15
 			set_country_flag = recovered_the_empire
+			add_accepted_culture = telegu
+			add_accepted_culture = rajput
+			add_accepted_culture = gujarati
+			add_accepted_culture = sindi
+			add_accepted_culture = panjabi
 		}
 	}
+
 	glory_to_india = {
+		picture = india_decision
 		potential = {
 			OR = {
 				tag = MUG
@@ -99,13 +90,19 @@ political_decisions = {
 	}
 
 	acceptance_of_the_bengali = {
+		picture = decision_bengal
 		potential = {
 			OR = {
 				tag = MAH
 				tag = MUG
 			}
+			NOT = {accepted_culture = bengali}
 		}
 		allow = {
+			war = no
+			all_core = {
+				owned_by = THIS
+			}
 			state_n_government = 1
 			owns = 1251
 			owns = 1250
@@ -117,13 +114,19 @@ political_decisions = {
 	}
 
 	acceptance_of_the_south = {
+		picture = mysore_decision
 		potential = {
 			OR = {
 				tag = MAH
 				tag = MUG
 			}
+			NOT = {accepted_culture = telegu}
 		}
 		allow = {
+			war = no
+			all_core = {
+				owned_by = THIS
+			}
 			state_n_government = 1
 			owns = 1283
 			owns = 1304
@@ -132,9 +135,7 @@ political_decisions = {
 			owns = 1307
 		}
 		effect = {
-			add_accepted_culture = telegu
-			add_accepted_culture = kannada
-			add_accepted_culture = tamil
+			add_accepted_culture = marathi
 		}
 	}
 }

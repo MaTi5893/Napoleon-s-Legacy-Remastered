@@ -29,7 +29,13 @@ political_decisions = {
     reform_byzantinium = {
         picture = byzantinium_decision
         potential = {
-            tag = GRE
+            OR = {
+                tag = GRE
+                AND = {
+                    tag = NPL
+                    accepted_culture = greek
+                }
+            }
             owns = 860
         }
         allow = {

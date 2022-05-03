@@ -249,4 +249,27 @@ IBE_ADJ;Indo-British;;;;;;;;;;;;x
 RER;Republica Riograndense;;;;;;;;;;;;x
 RER_ADJ;Riograndensian;;;;;;;;;;;;x
 ECO;Equator Confederation;;;;;;;;;;;;x
-ECO_ADJ;Equator Confederaty;;;;;;;;;;;;x
+ECO_ADJ;Equatorian;;;;;;;;;;;;x
+SWI_democracy;The Helvetic Republic;;;;;;;x
+NET_democracy;The Batavian Republic;;;;;;;x
+NAU_ADJ;North American;North American;North American;;;;;;;;;;;x;
+NAU;North American Union;North American Union;North American Union;;;;;;;;;;;x;
+NAU_proletarian_dictatorship;The People's Union of North America;The People's Union of North America;The People's Union of North America;;;;;;;;;;;x;
+NAU_presidential_dictatorship;North American Union;North American Union;North American Union;;;;;;;;;;;x;
+NAU_bourgeois_dictatorship;North American Union;North American Union;North American Union;;;;;;;;;;;x;
+NAU_fascist_dictatorship;North American Legion;North American Legion;North American Legion;;;;;;;;;;;x;
+NAU_absolute_monarchy;Union of North American Kingdoms;Union of North American Kingdoms;Union of North American Kingdoms;;;;;;;;;;;x;
+NAU_prussian_constitutionalism;North American Union;North American Union;North American Union;;;;;;;;;;;x;
+NAU_hms_government;North American Union;North American Union;North American Union;;;;;;;;;;;x;
+NAU_democracy;North American Union;North American Union;North American Union;;;;;;;;;;;x;
+NAU_technocracy;North American Technate;;;;;;;;;;;x;
+ABE;Austro-Bavarian Empire;;;;;;;;;;;x;
+ABE_ADJ;Austro-Bavarian;;;;;;;;;;;x;
+ABE_proletarian_dictatorship;People's Union of Austro-Bavaria;;;;;;Spanish Loc;;;x
+ABE_presidential_dictatorship;Austro-Bavarian Union;;;;;;Spanish Loc;;;x
+ABE_bourgeois_dictatorship;Austro-Bavarian Union;;;;;;Spanish Loc;;;x
+ABE_fascist_dictatorship;South German Empire;;;;;;Spanish Loc;;;x
+ABE_absolute_monarchy;Austro-Bavarian Empire;;;;;Spanish Loc;;;x
+ABE_prussian_constitutionalism;Austro-Bavarian Empire;;;;;Spanish Loc;;;x
+ABE_hms_government;Austro-Bavarian Empire;;;;;Spanish Loc;;;x
+ABE_democracy;Austro-Bavarian Republic;;;;;;Spanish Loc;;;x

@@ -1,5 +1,5 @@
 country_event = {
-
+	fire_only_once = yes
 	id = 46600 
 	news = yes
 	news_desc_long = "EVTDESC46600_NEWS_LONG"
@@ -11,7 +11,6 @@ country_event = {
 		year = 1851
 		NOT = {
 			year = 1855
-			has_country_flag = Alberdi
 		}
 		war = no
 		is_ideology_enabled = anarcho_liberal
@@ -67,7 +66,6 @@ country_event = {
 				factor = 0.1
 			}
 		}
-		set_country_flag = Alberdi
 	}
 
 	option = {
@@ -87,12 +85,11 @@ country_event = {
 				ideology = anarcho_liberal
 			}
 		}
-		set_country_flag = Alberdi
 	}
 }
 
 country_event = {
-
+	fire_only_once = yes
 	id = 46601
 	news = yes
 	news_desc_long = "EVTDESC46601_NEWS_LONG"
@@ -104,7 +101,6 @@ country_event = {
 		year = 1844
 		NOT = {
 			year = 1850
-			has_country_flag = Facundo
 			}
 		OR = {
 			government = presidential_dictatorship  #book is reaction against strong-man rule
@@ -153,7 +149,6 @@ country_event = {
 				ideology = anarcho_liberal
 			}
 		}
-		set_country_flag = Facundo
 	}
 
 }

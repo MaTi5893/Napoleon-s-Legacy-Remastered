@@ -3,112 +3,112 @@
 #Massenya (320000/80000 POPS)
 1818 = {
 	aristocrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 500
 	}
 
 	bureaucrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 40
 	}
 
 	officers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 60
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 1800
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size= 400
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 24800
 	}
 
 	aristocrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 400
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 1200
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size= 200
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 22000
 	}
 
 	slaves = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 8000
 	}
 
 	aristocrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 300
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size= 200
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 18300
 	}
@@ -116,75 +116,75 @@
 #Moundou (48000/12000 POPS)
 1819 = {
 	aristocrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size= 50
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 575
 	}
 
 	aristocrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size= 75
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 6375
 	}
 
 	slaves = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 2000
 	}
 
 	slaves = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 2000
 	}
@@ -192,63 +192,63 @@
 #Bongor (36000/9000 POPS)
 1820 = {
 	aristocrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size= 25
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 1800
 	}
 
 	aristocrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size= 75
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 6375
 	}
@@ -258,81 +258,81 @@
 #Abeche (136000/34000 POPS)
 1821 = {
 	aristocrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 50
 	}
 
 	officers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size= 1250
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 13000
 	}
 
 	aristocrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 600
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size= 100
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 9000
 	}
 
 	slaves = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 8000
 	}
@@ -340,38 +340,38 @@
 #Am Timan (168000/42000 POPS)
 1822 = {
 	aristocrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 550
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 300
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 1200
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size= 300
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 21650
 	}
 
 	slaves = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 10000
 	}
@@ -410,32 +410,32 @@
 #Mongo (184000/46000 POPS)
 1823 = {
 	aristocrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 700
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 350
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 1450
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size= 1000
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 26500
 	}
@@ -472,38 +472,38 @@
 	}
 
 	aristocrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size= 50
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 3600
 	}
 
 	slaves = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 6000
 	}
@@ -544,81 +544,81 @@
 	}
 
 	aristocrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size= 100
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 7200
 	}
 
 	aristocrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 900
 	}
 
 	bureaucrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 100
 	}
 
 	officers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 500
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 2400
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size= 500
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 23400
 	}
 
 	slaves = {
-		culture = african_minor
+		culture = nilotic
 		religion = animist
 		size = 48000
 	}
@@ -626,63 +626,63 @@
 #Zouar (72000/18000 POPS)
 1825 = {
 	aristocrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 300
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 800
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size= 175
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 14575
 	}
 
 	aristocrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size= 25
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 1800
 	}
@@ -691,32 +691,32 @@
 #Faya (56000/14000 POPS)
 1826 = {
 	aristocrats = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size= 150
 
 	}
 
 	farmers = {
-		culture = african_minor
+		culture = nilotic
 		religion = sunni
 		size = 12750
 	}

@@ -31,8 +31,8 @@ country_event = {
 	
 	
 	trigger = {
-			NOT = { badboy = 1 }
-			has_country_modifier = badboymod
+		has_country_modifier = badboymod
+		NOT = { badboy = 1 }
 				} 
 	
 	

@@ -3,6 +3,7 @@ controller = PAN
 add_core = PAN
 add_core = KAS
 add_core = HND
+add_core = MUG
 trade_goods = silk
 life_rating = 32
 1861.1.1 = {

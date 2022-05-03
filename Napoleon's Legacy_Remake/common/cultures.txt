@@ -73,7 +73,8 @@ germanic = {
 		"von Reuter" "von Richthofen" "von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen" 
 		"von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin" 
 		"von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
-	}	
+	}		
+	German = { color = { 0 0 0 } first_names = { sneed } last_names = { sneed } } 
 	union = GER
 }
 
@@ -372,7 +373,7 @@ italian = {
 		Morghen Neurone Pallavicino Pecori-Giraldi "Pellion di Persano" Peyron Perruchetti Pianelli Porro
 		Presbitero Ramorino Ricotti Sacchi Saletta Sanna Solari Telesio Vigliardi Zupelli }
 	}
-	
+	Italian = { color = { 0 0 0 } first_names = { sneed } last_names = { sneed } } 
 	union = ITA
 }
 
@@ -1020,7 +1021,15 @@ arab = {
 			}
 			radicalism = 10
 	}
-	
+	nilotic = {
+        color = {241 241 78}
+        first_names = { "Ibn Muhammad" Abdullah "Abbas said" Ismail Mansur Rahman Abdallahi Hassan Malusi Tahir Wiraj Amsalu Nijam Bakri
+        }
+
+        last_names = { Ahmad Ali Zubayr Digna Azrak Hammuda al-Tasashi Nujumi
+        }
+        radicalism = 10
+    }
 	union = ARA
 }
 
@@ -1783,18 +1792,95 @@ african_diaspora_cultures = {
 
 	
 }
-central_african = {
-	leader = african
-	unit = AfricanGC
-	african_minor = {
-		color = {74 155 164}
-		first_names = { Andikan Amadi Aren Bahari Averey Bakari Bash Bayode Bitalo Chane Chata Dakarai Davu Dume Fabunni Gamba Genet Guban Hajari Haruni Ife Ilo Issay Jabari Jabilo Jaguan Kabili Kamwimbile Kasim Kenyi Khairi Makalo Mansa Morathi Musawenkosi Raimi Razi Reth
-		}
+african_cultures = {
+    leader = african
+    unit = AfricanGC
+    western_african = {
+        color = {98 134 18}
+        first_names = { Amanquatia Agyeman Onsei Kwaku Kofi Atakora Kwabena Mensa Owusu Akyampon Kwame Opoku
+        }
 
-		last_names = { Mussa Mutato Bowelle Makeda Nzinga Sundiata 
-		}
-	}
+        last_names = { Prempeh Bonsu Dua Karikari Dwomo Panyin Sekyere Fofie Asiba
+        }
+    }
+	
+	 volta = {
+        color = {88 68 147}
+        first_names = { Amanquatia Agyeman Onsei Kwaku Kofi Atakora Kwabena Mensa Owusu Akyampon Kwame Opoku
+        }
+
+        last_names = { Prempeh Bonsu Dua Karikari Dwomo Panyin Sekyere Fofie Asiba
+        }
+    }
+    nigerian = {
+        color = {240 75 89}
+        first_names = { Siyanbola Lawani Adeyemi Adelu Atiba Oluewu Amodo Majotu Makua Adebo Bello Onikepe Gbadegesin Ajikin Abisi Lauru Kase Agidigbo Ademufekun
+        }
+
+        last_names = { Oladigbolu Adeniran Agogoja Alowolodu Atobatele Zumaw Oyo Tofa Tonyon Bezon Hungbo Dudu
+        }
+    }
+	
+	bantoid = {
+        color = {84 75 240}
+        first_names = { Siyanbola Lawani Adeyemi Adelu Atiba Oluewu Amodo Majotu Makua Adebo Bello Onikepe Gbadegesin Ajikin Abisi Lauru Kase Agidigbo Ademufekun
+        }
+
+        last_names = { Oladigbolu Adeniran Agogoja Alowolodu Atobatele Zumaw Oyo Tofa Tonyon Bezon Hungbo Dudu
+        }
+    }
+
+    bantu = {
+        color = {128 172 128}
+        first_names = { Kaumba Muteba Mushidi Mbala Mutand Mudib Kangapu Cimbindu Mbumb Cakasekene Mulay Nawej Cikombe Waranankong
+        }
+
+        last_names = { Kasang Nambing Kalong Mukaz Ditend Yaava Namwan Naweej Kamong Isot Kat Muteba
+        }
+    }
+    somali = {
+        color = {226 22 48}
+        first_names = { Yusuf Mahamud Ahmed Osman Ali Aul Shire Mohamud Naleye Abdikarim Dalmar Ghdi Labaan Roble Taban Erasto Abdi
+        }
+
+        last_names = { Ibrahim Adeer Hassan  Gurey Hirsi Doreh Dekiye Afrah Mujahid Kenadid
+        }
+    }
+    ethiopian = {
+        color = {201 101 39}
+        first_names = { "Ibn Muhammad" Abdullah "Abbas said" Ismail Mansur Rahman Abdallahi Hassan Malusi Tahir Wiraj Amsalu Nijam Bakri
+        }
+
+        last_names = { Ahmad Ali Zubayr Digna Azrak Hammuda al-Tasashi Nujumi
+        }
+    }
+	eastern_bantu = {
+        color = {98 134 18}
+        first_names = { Zuka Sundai Tichawonna Sekayi Runako Petiri Pepukayi Mwanyisa Muchaneta Mashama Mboro Goredenna Gamba Chionesu Chinouyazue Banga
+        }
+
+        last_names = { Mzilikazi Lobengula Mlimo Soshangane Magaya Kwenda Muhuru Maraire
+        }
+    }
+    malagasy = {
+        color = {25 115 44}
+        first_names = { Radama Rainilaiarivony Rabiby Andriamanely Ndriantompoinairivo Tonanahary Ratsimivila Ramasoandro Andriantsirotso Lamboina Tsialana Tsimiharo
+        }
+
+        last_names = { Tsiranana Ramanantsoa Ratsimandrava Andriamahazo Ratsiraka
+        }
+    }
+	
+	khoikhoi = {
+        color = {146 128 172}
+        first_names = { Radama Rainilaiarivony Rabiby Andriamanely Ndriantompoinairivo Tonanahary Ratsimivila Ramasoandro Andriantsirotso Lamboina Tsialana Tsimiharo
+        }
+
+        last_names = { Tsiranana Ramanantsoa Ratsimandrava Andriamahazo Ratsiraka
+        }
+    }
 }
+
 bears = {
 	leader = polar_bear
 	unit = EuropeanGC

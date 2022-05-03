@@ -85,6 +85,7 @@ take_capital
 conquest_low
 acquire_treaty_port
 negotiated_transfer
+enforce_monroe
 }
 
 gunboat = {
@@ -359,6 +360,55 @@ take_from_sphere = {
 	on_add = {
 		move_issue_percentage = { 
 			from = jingoism 
+			to = pro_military
+			value = 0.25
+		}
+	}
+}
+
+#enforce monroe cb, take state in america of any nation that aren't in usa's sphere and not new world nation (yes Oceania not considered a pb, I don't want to deal with country flag) 
+enforce_monroe = {
+	sprite_index = 5
+	is_triggered_only = yes
+	months = 12
+	
+	construction_speed = 2
+	
+	badboy_factor = 0.5
+	prestige_factor = 5
+	peace_cost_factor = 0.7
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 5
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 60
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+		THIS = { has_country_flag = monroe_doctrine }
+	}
+	
+	allowed_states = {
+		any_owned_province = {
+			OR = {
+				continent = north_america
+				continent = south_america
+			}
+		}
+		has_country_flag = new_world_nation 
+	}
+	
+	po_demand_state = yes
+	
+	war_name = WAR_ENFORCE_MONROE_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism
 			to = pro_military
 			value = 0.25
 		}
@@ -1454,7 +1504,7 @@ establish_protectorate_casus_belli = {
 	
 	can_use = {
 		NOT = {
-				is_culture_group = central_african
+				is_culture_group = african_cultures
 		}
 		# this = { NOT = { badboy = 1 } }
 		THIS = {
@@ -2190,11 +2240,12 @@ acquire_treaty_port = {
 
 #Negotiated Transfer
 negotiated_transfer = {
-	sprite_index = 5
+	sprite_index = 17
 	is_triggered_only = yes
 	months = 0
 	crisis = no
-
+	constructing_cb = no
+	always = yes
 	badboy_factor = 0
 	prestige_factor = 0
 	peace_cost_factor = 0
@@ -2212,9 +2263,9 @@ negotiated_transfer = {
 	construction_speed = 2.0
 
 	can_use = {
-		number_of_states = 2 # annex if you want their last state
 		ai = no
 		THIS = { ai = no }
+		number_of_states = 2 # annex if you want their last state
 		THIS = { civilized = yes }
 	}
 	
@@ -2286,7 +2337,7 @@ establish_colonial_protectorate_casus_belli = {
 	
 	can_use = {
 		OR = {
-			is_culture_group = central_african
+			is_culture_group = african_cultures
 		}
 		# this = { NOT = { badboy = 1 } }
 
@@ -2349,8 +2400,8 @@ demand_colonial_concession_casus_belli = {
 	always = no
 
 	can_use = {
-		NOT = { is_culture_group = arab }
 		continent = africa
+		NOT = { is_culture_group = arab }
 		# this = { NOT = { badboy = 1 } }
 
 

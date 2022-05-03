@@ -58,21 +58,8 @@ option = {
 country_event = {		
 	id = 600040
     picture = "napoleon_death"
-	trigger = {
-		tag = BAV
-		year = 1836
-        war = yes
-		NOT = {year = 1840}
-        FRA = {
-            OR = {
-                has_country_flag = joseph
-                has_country_flag = louis
-                has_country_flag = jerome
-                has_country_flag = alexandre
-                has_country_flag = republic
-            }
-        }
-	}
+	
+    is_triggered_only = yes
 
 	fire_only_once = yes
 

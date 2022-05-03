@@ -307,167 +307,189 @@ unite_north_italy_gp_title;Unite North Italy;;;;;;x
 unite_north_italy_gp_desc;Napoleon had created the Kingdom of Italy, we should unite it again to gain a strong vassal in the area!;;;;;;x
 double_down_in_the_balkans_gre_title;Double down in the Balkans;;;;;;x
 double_down_in_the_balkans_gre_desc;We should focus on the Balkans expansion and find peace with the Ottomans after so many years of war. We could become a strong land power and make the Ottomans our fleet!;;;;;;x
-get_rome_title;We own Rome!;;;;;;;x
-get_rome_desc;We have conquered Rome, its our destiny to rule over the Italian peninsula!;;;;;;;x
-occitan_expansion_title;Accept the Occitans;;;;;;;x
-occitan_expansion_desc;We have conquered the Occitan region. They're our Eastern Breathen and we should make them citizens of our glorious country!;;;;;;;x
-latin_empire_title;Revive the Latin empire!;;;;;;;x
-latin_empire_desc;We have finally united all Latin speaking people and can declare the resurgence of a Latin identity!;;;;;;;x
+get_rome_title;We own Rome!;;;;spanish loc;;;x
+get_rome_desc;We have conquered Rome, its our destiny to rule over the Italian peninsula!;;;;spanish loc;;;x
+occitan_expansion_title;Accept the Occitans;;;;spanish loc;;;x
+occitan_expansion_desc;We have conquered the Occitan region. They're our Eastern Breathen and we should make them citizens of our glorious country!;;;;spanish loc;;;x
+latin_empire_title;Revive the Latin empire!;;;;spanish loc;;;x
+latin_empire_desc;We have finally united all Latin speaking people and can declare the resurgence of a Latin identity!;;;;spanish loc;;;x
 annex_italian_minor_title;Annex Italian Minors;
-annex_italian_minor_desc;We should unite every duchy that is in our sphere in order to further our claim on the Italian Throne!;;;;;;;x
-italy_finally_title;Union of Italy;;;;;;;x
-italy_finally_desc;All Italians around the world can now feel at home in our country!;;;;;;;x
-italian_heritage_title;Italian Heritage;;;;;;;x
-italian_heritage_desc;With North Italy under our control, We can claim the Lost Italian Heritage!;;;;;;;x
-reintegrate_italy_kingdom_title;Reintegrate the Kingdom of Italy;;;;;;;x
-reintegrate_italy_kingdom_desc;After the Death of Napoleon, the many Italian principalities broke free as there was no heir for the Italian kingdom throne. But we have found one and can reintegrate Italy now!;;;;;;;x
-italian_submission_title;Italian Submission;;;;;;;x
-italian_submission_desc;We have reconquered the lost land in Italy. We should however give equal rights to its population to prevent any revolts against our rule;;;;;;;x
-france_sphere_egy_title;Ask France for support!;;;;;;;x
-france_sphere_egy_desc;We need to ask France for support against the Ottomans.;;;;;;;x
-tur_sphere_egy_title;Ask the Ottomans for support!;;;;;;;x
-tur_sphere_egy_desc;We should seek peace with the Ottomans and ask them to help us westernize.;;;;;;;x
-russia_sphere_egy_title;Ask Russia for support!;;;;;;;x
-russia_sphere_egy_desc;Russia as always been an enemy to the Ottomans, they would probably help us.;;;;;;;x
-cisapline_submission_title;Cisalpine submission!;;;;;;;x
-cisapline_submission_desc;For long, the Cisapline people have been a part of the empire. It's time to make them true citizens!;;;;;;;x
-reintegrate_the_netherlands_title;Reintegrate the Netherlands!;;;;;;;x
-reintegrate_the_netherlands_desc;Long ago, the Netherlands were integrated into the French Empire. But they broke free after the Death of Napoleon. It's time to get them back in!;;;;;;;x
-flemish_integration_title;Flemish Integration;;;;;;;x
-flemish_integration_desc;The Flemish people have been in the empire for years. It's time to make them true citizens of the empire!;;;;;;;x
-dutch_integration_title;Dutch Integration;;;;;;;x
-dutch_integration_desc;The Dutch people might try to revolt if we don't accept them into our empire. It's time to do so!;;;;;;;x
-accept_cisalpine_title;Accept the Cisalpine people!;;;;;;;x
-accept_cisalpine_desc;We have united Italy and should accept every italian!;;;;;;;x
-political_bonus_title;Choose a Political Focus;;;;;;;x
-political_bonus_desc;We can choose a new political focus, which will last 10 years.;;;;;;;x
-republic_culture_decision_1_title;Give Citizenship to a culture!;;;;;;;x
-republic_culture_decision_1_desc;We have to appease one of the many culture in order to make sure no one revolts;;;;;;;x
-republic_culture_decision_2_title;Give Citizenship to a culture!;;;;;;;x
-republic_culture_decision_2_desc;We have to appease one of the many culture in order to make sure no one revolts;;;;;;;x
-republic_culture_decision_3_title;Give Citizenship to a culture!;;;;;;;x
-republic_culture_decision_3_desc;We have to appease one of the many culture in order to make sure no one revolts;;;;;;;x
-accept_rhenish_title;Acceptance of the Rhenish;;;;;;;x
-accept_rhenish_desc;We should accept the Rhenish people in order to avoid another Rhenish revolt!;;;;;;;x
-improve_france_1_title;Alexandre's Trade Reforms;;;;;;;x
-improve_france_1_desc;Seeing how France was left after the Napoleonic wars and the end of Napoleon reign, Alexandre has enacted a lot of reforms to better the working condition of a lot of people as well as the commerce inside the nation;;;;;;;x
-improve_france_2_title;Alexandre's Social Reforms;;;;;;;x
-improve_france_2_desc;Continuing his reforms, he significantly improved on the daily life of the people as population is stagnating in France while its exploding in the other parts of Europe;;;;;;;x
-north_german_question_title;The North German Question;;;;;;;x
-north_german_question_desc;It's time to teach the french way to those german to further their integration inside the empire!;;;;;;;x
+annex_italian_minor_desc;We should unite every duchy that is in our sphere in order to further our claim on the Italian Throne!;;;;spanish loc;;;x
+italy_finally_title;Union of Italy;;;;spanish loc;;;x
+italy_finally_desc;All Italians around the world can now feel at home in our country!;;;;spanish loc;;;x
+italian_heritage_title;Italian Heritage;;;;spanish loc;;;x
+italian_heritage_desc;With North Italy under our control, We can claim the Lost Italian Heritage!;;;;spanish loc;;;x
+reintegrate_italy_kingdom_title;Reintegrate the Kingdom of Italy;;;;spanish loc;;;x
+reintegrate_italy_kingdom_desc;After the Death of Napoleon, the many Italian principalities broke free as there was no heir for the Italian kingdom throne. But we have found one and can reintegrate Italy now!;;;;spanish loc;;;x
+italian_submission_title;Italian Submission;;;;spanish loc;;;x
+italian_submission_desc;We have reconquered the lost land in Italy. We should however give equal rights to its population to prevent any revolts against our rule;;;;spanish loc;;;x
+france_sphere_egy_title;Ask France for support!;;;;spanish loc;;;x
+france_sphere_egy_desc;We need to ask France for support against the Ottomans.;;;;spanish loc;;;x
+tur_sphere_egy_title;Ask the Ottomans for support!;;;;spanish loc;;;x
+tur_sphere_egy_desc;We should seek peace with the Ottomans and ask them to help us westernize.;;;;spanish loc;;;x
+russia_sphere_egy_title;Ask Russia for support!;;;;spanish loc;;;x
+russia_sphere_egy_desc;Russia as always been an enemy to the Ottomans, they would probably help us.;;;;spanish loc;;;x
+cisapline_submission_title;Cisalpine submission!;;;;spanish loc;;;x
+cisapline_submission_desc;For long, the Cisapline people have been a part of the empire. It's time to make them true citizens!;;;;spanish loc;;;x
+reintegrate_the_netherlands_title;Reintegrate the Netherlands!;;;;spanish loc;;;x
+reintegrate_the_netherlands_desc;Long ago, the Netherlands were integrated into the French Empire. But they broke free after the Death of Napoleon. It's time to get them back in!;;;;spanish loc;;;x
+flemish_integration_title;Flemish Integration;;;;spanish loc;;;x
+flemish_integration_desc;The Flemish people have been in the empire for years. It's time to make them true citizens of the empire!;;;;spanish loc;;;x
+dutch_integration_title;Dutch Integration;;;;spanish loc;;;x
+dutch_integration_desc;The Dutch people might try to revolt if we don't accept them into our empire. It's time to do so!;;;;spanish loc;;;x
+accept_cisalpine_title;Accept the Cisalpine people!;;;;spanish loc;;;x
+accept_cisalpine_desc;We have united Italy and should accept every italian!;;;;spanish loc;;;x
+political_bonus_title;Choose a Political Focus;;;;spanish loc;;;x
+political_bonus_desc;We can choose a new political focus, which will last 10 years.;;;;spanish loc;;;x
+republic_culture_decision_1_title;Give Citizenship to a culture!;;;;spanish loc;;;x
+republic_culture_decision_1_desc;We have to appease one of the many culture in order to make sure no one revolts;;;;spanish loc;;;x
+republic_culture_decision_2_title;Give Citizenship to a culture!;;;;spanish loc;;;x
+republic_culture_decision_2_desc;We have to appease one of the many culture in order to make sure no one revolts;;;;spanish loc;;;x
+republic_culture_decision_3_title;Give Citizenship to a culture!;;;;spanish loc;;;x
+republic_culture_decision_3_desc;We have to appease one of the many culture in order to make sure no one revolts;;;;spanish loc;;;x
+accept_rhenish_title;Acceptance of the Rhenish;;;;spanish loc;;;x
+accept_rhenish_desc;We should accept the Rhenish people in order to avoid another Rhenish revolt!;;;;spanish loc;;;x
+improve_france_1_title;Alexandre's Trade Reforms;;;;spanish loc;;;x
+improve_france_1_desc;Seeing how France was left after the Napoleonic wars and the end of Napoleon reign, Alexandre has enacted a lot of reforms to better the working condition of a lot of people as well as the commerce inside the nation;;;;spanish loc;;;x
+improve_france_2_title;Alexandre's Social Reforms;;;;spanish loc;;;x
+improve_france_2_desc;Continuing his reforms, he significantly improved on the daily life of the people as population is stagnating in France while its exploding in the other parts of Europe;;;;spanish loc;;;x
+north_german_question_title;The North German Question;;;;spanish loc;;;x
+north_german_question_desc;It's time to teach the french way to those german to further their integration inside the empire!;;;;spanish loc;;;x
 expand_citizenship2_ibr_title;Grant citizenship to the Phillipines;;;;Conceder la ciudadan�a a los filipinos;;;x
 expand_citizenship2_ibr_desc;Now that Iberia has been united, let's continue this propagation of citizenship to our last asian colonies, the Phillipines.;;;;Ahora que Iberia se ha unido, continuemos esta propagaci�n de la ciudadan�a a nuestras �ltimas colonias asi�ticas, las Filipinas.;;;x
 glory_to_the_spanish_empire_dutch_title;Glory to the Spanish Empire!;;;;�Gloria al imperio espa�ol!;;;x
 glory_to_the_spanish_empire_dutch_desc;We have reclaim our long lost land in the Netherlands , we can reestablish the Spanish Empire!;;;;Ahora que hemos recuperado todas nuestras provincias perdidas en el sur de Italia, �podemos restablecer el Imperio Espanol!;;;x
 glory_to_the_spanish_empire_italy_title;Glory to the Spanish Empire!;;;;�Gloria al imperio espa�ol!;;;x
 glory_to_the_spanish_empire_italy_desc;Now that we have recovered all of our lost provinces in south Italy and Milan, we can reestablish the Spanish Empire!;;;;Ahora que hemos recuperado todas nuestras provincias perdidas en el sur de Italia, �podemos restablecer el Imperio Espanol!;;;x
-acceptance_of_steppe3_title;Acceptance of the Mongolians;;;;;;;x
-acceptance_of_steppe3_desc;Mongolia is the last steppe that isn't ours. This is the final step in our Eastern plan. Now it's time to integrate them!;;;;;;;x
-southern_slavs_title;Southern Slavs;;;;;;;x
-southern_slavs_desc;We have always wanted to unite the southern slavs, victims of the Ottomans and Austria. Now we can claim to be the protector of all Slavs!;;;;;;;x
-hide_southern_russia_title;Hide the Southern Path;;;;;;;x
-hide_southern_russia_desc;Hides the Southern Expansion Path;;;;;;;x
-show_southern_russia_title;Show the Southern Path
-show_southern_russia_desc;Shows the Southern Expansion Path;;;;;;;x
-hide_western_russia_title;Hide the Western Path;;;;;;;x
-hide_western_russia_desc;Hides the Western Expansion Path;;;;;;;x
-show_western_russia_title;Show the Western Path
-show_western_russia_desc;Shows the Western Expansion Path.;;;;;;;x
-ask_holstein_title;Ask for Holstein;;;;;;;x
-ask_holstein_desc;Holstein is our legitimate territory. We should.. 'peacefully request' that it be returned to us.;;;;;;;x
-ask_malta_title;Ask for Malta;;;;;;;x
-ask_malta_desc;Malta is our legitimate territory. We should.. 'peacefully request' that it be returned to us.;;;;;;;x
-ask_stralsund_title;Ask for Stralsund;;;;;;;x
-ask_stralsund_desc;Stralsund is German and should be ours!;;;;;;;x
-ask_lubeck_title;Ask for Lubeck;;;;;;;x
-ask_lubeck_desc;Lubeck is German and should be ours!;;;;;;;x
-form_grobgermany_title;Great Germany!;;;;;;;x
-form_grobgermany_desc;We have finally united all German people, it's a glorious day for our nation!;;;;;;;x
-united_netherlands_title;United Netherlands;;;;;;;x
-united_netherlands_desc;We have finally united all Dutch people!;;;;;;;x
-expand_netherlands1_title;Expand to Flanders;;;;;;;x
-expand_netherlands1_desc;We have expanded to the Flemish territory, we should accept them to avoid any revolts.;;;;;;;x
-expand_netherlands2_title;Expand to Wallonia;;;;;;;x
-expand_netherlands2_desc;We have conquered the land of the Wallonians and it's our duty to acccept them as citizens of the old Kingdom of the Netherlands!;;;;;;;x
-expand_north_title;Expansion in the North of France;;;;;;;x
-expand_north_desc;We have conquered the land of the Picards. They are our southern brethen and we should give them citizenship to avoid any revolts.;;;;;;;x
-form_psl_title;Form the Slavic Union!;;;;;;;x
-form_psl_desc;It's common knowledge that we Slavs have many things in common, besides a country. Russians, after the Great Napoleonic Wars, began developing a movement called 'Panslavism'. Due to French influence on the continent and on the Slavic people, the Russians had no way of achieving true Panslavism. With all North Slavs united, and with nobody standing in the way, there is no reason not to proclaim a United Slavic Nation!;;;;;;;x
-balkan_expansion1_title;The Illyrian Question;;;;;;;x
-balkan_expansion1_desc;We should probably accept the Illyrian population inside our ranks to prevent any nationalist ideas in those states;;;;;;;x
-balkan_expansion2_title;The Serbian Question;;;;;;;x
-balkan_expansion2_desc;The Serbs have always been known for their will to fight any opressors. We must act carefully if we don't want to be the target of revolts like the Ottomans were;;;;;;;x
-balkan_expansion3_title;The Albanian minority;;;;;;;x
-balkan_expansion3_desc;The Albanian are a people we should respect. During Skanderbeg's time, they inflicted many casualties on the Ottomans. If we treat them with respect they might never revolt;;;;;;;x
-form_wsf_title;Form the Pan-Slavic Union;;;;;;;x
-form_wsf_desc;We have finally united all western Slavs! We are feared by the world as they shall now know the power of the Slavs!;;;;;;;x
-union_with_france_title;The Franco-Spanish Union;;;;;;;x
-union_with_france_desc;I, Joseph the 1st, King of Spain and Emperor of France, declare that from this day, and until the end of times, the Kingdom of Spain and the Empire of France shall be united under the Franco-Spanish crown! Those two lands often sought union, notably under Louis the XIV but I am the first to achieve it! We will keep the Spanish tradition and flags in the Empire to honor the victory of the Spanish people againt France, but will allow French to be an official language. To the future of both people!;;;;;;;x
-accept_french_minorities_title;Acceptance of the French minorities;;;;;;;x
-accept_french_minorities_desc;The Picard and Breton people are closer to Spaniards than to the French. They both endured French occupation and seek to regain their liberty. They'll be honored them by accepting them as official languages of the Franco-Spanish Empire!;;;;;;;x
-ADU_ireland_title;Accept the Irish;;;;;;;x
-ADU_ireland_desc;We have ended the reconquest of the British Isles and should accept the Irish people living there!;;;;;;;x
-picard_expansion_title;Acceptance of the Picards;;;;;;;x
-picard_expansion_desc;The Picards represent a mix of three people, the French, the English and the Flemish. They are the real symbol of the unity of our country, we should accept them!;;;;;;;x
-reclaim_sa_title;Reclaim South Africa;;;;;;;x
-reclaim_sa_desc;South Africa had been both a Dutch colony and an English colony. We should reclaim it as a true part of our nation!;;;;;;;x
-breton_expansion_title;Expansion into Brittany;;;;;;;x
-breton_expansion_desc;The people living in Brittany are closer to us than the French will ever be, it's only logical to accept them;;;;;;;x
-wales_expansion_title;Wales acceptance;;;;;;;x
-wales_expansion_desc;Since the departure of the monarchy to Canada, the Welsh have never accepted us. Now it's time to re-unite with them;;;;;;;x
-occitan_expansion_dua_title;Expansion into Occitania;;;;;;;x
-occitan_expansion_dua_desc;The Occitan kingdom was always a part of France. Now that it's ours we should accept the local population as a sign of peace;;;;;;;x
-irish_expansion_title;Expansion into Ireland;;;;;;;x
-irish_expansion_desc;The Irish people had been liberated by Napoleon when he invaded Ireland. Now that France no longer exists, we should reintegrate the land and its people;;;;;;;x
-form_anglo_french_title;Formation of the Dual Monarchy;;;;;;;x
-form_anglo_french_desc;The Dual Monarchy is an old British dream to see the nations of France and England united under the English crown. It's first appearance was during the Hundred Years War, during which English kings Edward II and Edward III had a strong claim on the French throne. But after England lost the war and its land on the European continent, the dream faded away. Now that we have restored our claim on the French kingdom and conquered it, we can officialy proclam the Dual Monarchy!;;;;;;;x
-ENG_ireland_title;Accept the Irish;;;;;;;x
-ENG_ireland_desc;We have ended the reconquest of the British Isles and should accept the Irish people living there!;;;;;;;x
-reclaim_sa_eng_title;Reclaim South Africa;;;;;;;x
-reclaim_sa_eng_desc;South Africa had been both a Dutch colony and an English colony. We should reclaim it as a true part of our nation!;;;;;;;x
-wales_expansion_eng_title;Acceptance of the Welsh;;;;;;;x
-wales_expansion_eng_desc;Since the departure of the monarchy to Canada, the Welsh have never accepted us. Now it's time to re-unite with them;;;;;;;x
-caraibes_expansion_title;Caribbean Expansion;;;;;;;x
-caraibes_expansion_desc;With the fall of our colonial empire, we must seek new land to conquer in the New World. The Caribbean is a perfect target. We have a strong presence there and no other Great Powers have any significant footholds;;;;;;;x
-na_expansion_title;The Question of Canada;;;;;;;x
-na_expansion_desc;Canadian land was a part of our Empire, before we gave them their own nation to appease their calls for autonomy. But now that we have consolidated our power, we can annex them back while giving the population equal rights to prevent any revolts;;;;;;;x
-ask_corsica_title;Ask For Corsica;;;;;;;x
-ask_corsica_desc;We should have Corsica, the birthplace of Napoleon and the land of the devil!;;;;;;;x
-french_heritage_title;French Heritage;;;;;;;x
-french_heritage_desc;The French Army always has been one of the best in Europe. We should keep that heritage!;;;;;;;x
-britannia_rule_title;Rule Britannia;;;;;;;x
-britannia_rule_desc;Rule, Britannia! Britannia, rule the waves! Britons never, never, never shall be slaves. When Britain first, at heaven's command, Arose from out the azure main, This was the charter of the land, And Guardian Angels sang this strain: Rule, Britannia! Britannia, rule the waves! Britons never, never, never shall be slaves. The nations not so blest as thee Must, in their turn, to tyrants fall, While thou shalt flourish great and free: The dread and envy of them all. Rule, Britannia! Britannia, rule the waves! Britons never, never, never shall be slaves. Still more majestic shalt thou rise, More dreadful from each foreign stroke, As the loud blast that tears the skies Serves but to root thy native oak. Rule, Britannia! Britannia, rule the waves! Britons never, never, never shall be slaves. Thee haughty tyrants ne'er shall tame; All their attempts to bend thee down Will but arouse thy generous flame, But work their woe and thy renown. Rule, Britannia! Britannia, rule the waves! Britons never, never, never shall be slaves. To thee belongs the rural reign; Thy cities shall with commerce shine; All thine shall be the subject main, And every shore it circles, thine. Rule, Britannia! Britannia, rule the waves! Britons never, never, never shall be slaves. The Muses, still with freedom found, Shall to thy happy coasts repair. Blest isle! with matchless beauty crowned, And manly hearts to guard the fair. Rule, Britannia! Britannia, rule the waves! Britons never, never, never shall be slaves.;;;;;;;x
-second_acceptance_title;Another Candidat;;;;;;;x
-second_acceptance_desc;We should think to promote others indian to rule over the others. But who are we going to accept?;;;;;;;x
-form_british_india_democracy_title;Form the Indo-British Empire;;;;;;;x
-form_british_india_democracy_desc;The East India company has been freed from the surveillance of the United Kingdom. While they were a good and powerful master, they would have tried to take over our conquest sooner or later. Now it's time to fully declare our independance as a sovereign nation and not a company anymore ! We also should accept the bengal population to assistus in the rule over India, they have proven their loyalty!;;;;;;;x
-form_british_india_monarchy_title;Form the Indo-British Empire;;;;;;;x
-form_british_india_monarchy_desc;The East India company has been freed from the surveillance of the United Kingdom. While they were a good and powerful master, they would have tried to take over our conquest sooner or later. Now it's time to fully declare our independance as a sovereign nation and not a company anymore ! We also should accept the bengal population to assistus in the rule over India, they have proven their loyalty!;;;;;;;x
-welsh_patriots_title;Our Welsh Brethens;;;;;;;x
-welsh_patriots_desc;The welsh people belong to the celtic heritage. So it's only normal to integrate them into the Celtic Union;;;;;;;x
-portuguese_civil_code_title;Portuguese Civil Code;;;;;;;x
-portuguese_civil_code_desc;In 1867, the first Portuguese Civil Code was enacted. Professor Seabra, influenced by the Code Napoleon, wrote the whole Code alone. Other Codifications were also studied and taken into consideration, especially the Allgemeines Landrecht (Prussia), the ABGB (Austria) and the Sardinian Civil Code. But he was able to create a very peculiar style: the systematization is different from the French Code. The Portuguese Civil Code was unique for European civil codes, in its characterization of laws in terms of the person and property. It was divided into four sections: the person, the acquisition of goods, goods, and the defense of those goods or rights.;;;;;;;x
-establish_la_guardia_civil_title;Establish the civil guard;;;;;;;x
-establish_la_guardia_civil_desc;Our citizen deserves protections after the many wars that affected them, especially the napoleonic wars;;;;;;;x
-the_regenerador_title;The regeneration;;;;;;;x
-the_regenerador_desc;After the Napoleonic wars Portugal must recover and move forward. It's time to think about our wounds;;;;;;;x
-instituto_industrial_de_lisboa_title;Industrial institution of Lisbona;;;;;;;x
-instituto_industrial_de_lisboa_desc;We shoud create an instutution which goals would be to educate the common people and to supply our industries with good technician;;;;;;;x
-escola_industrial_do_porto_title;Industrial school of Porto;;;;;;;x
-escola_industrial_do_porto_desc;The institution in Lisbon has been a great success, it's time to expand it to the great city of Porto;;;;;;;x
-form_UPB_title;Form Portugal-Brazil;;;;;;;x
-form_UPB_desc;Brazil has always been our best colony since the discovery of America and the establishment of portuguese settlers in the area. It's the heritage of the treaty of Tordesillas and it should be ours;;;;;;;x
-unite_brz_title;Brazil is united !;;;;;;;x
-unite_brz_desc;We have finally united the brazilian people after years of wars. We can bring peace and prosperity to our people !;;;;;;;x
-retake_texas_title;Take Texas ;;;;;;;x
-retake_texas_desc;The land of cows and cowboys is ours. (fuck the description, I don't live there);;;;;;;x
-hispanic_commonwealth_title;Form the Hispanic Commonwealth;;;;;;;x
-hispanic_commonwealth_desc;Long ago Spain was the 1st world power and America was in our hands. Now, decades after the revolt in our ex colonies, we have finally taken them back and have united all spanish speaking people !;;;;;;;x
-annex_bolivia_title;Annex Bolivia;;;;;;;x
-annex_bolivia_desc;After many years under our rule and with a constant effort to centralise our country, we can finally annex Bolivia as a part of our country;;;;;;;x 
-mexican_empire_title;Form The Mexican Empire;R�tablissement de l'Empire mexicain;Wiederherstellung des mexikanischen Kaiserreichs;;Restauraci�n del Imperio Mejicano;;;;;;;;;x
-mexican_empire_desc;With the conquest of the USCA we have gained the legiticamy to make Agustin de Iturbide our emperor. He shall rule the Mexican Empire like modern kings, with a parliement. There is no doubts that he will lead us to a glorious future !;Apr�s une intervention militaire fran�aise, d�clench�e par l'annulation par le Mexique de remboursements d'emprunts en 1861, l'archiduc autrichien Maximilien Ferdinand, a acc�d� au tr�ne et r�tabli l'Empire mexicain sous le nom de Maximilien Ier. Au cours de son r�gne, qui ne dura que trois ann�es, Maximilien b�n�ficia d'un certain soutien de la part des conservateurs mexicains. En demandant � Maximilien Ferdinand de monter sur le tr�ne, nous pourrons r�tablir la monarchie mexicaine, mais une telle entreprise n'est pas sans risque...;Durch eine franz�sische Milit�rintervention in Mexiko im Jahr 1861, ausgel�st durch Mexikos Zahlungsr�ckst�nde, brachte den �sterreichischen Erzherzog Maximilian Ferdinand, sp�ter Maximilian I., auf den Thron des restaurierten mexikanischen Kaiserreichs. Dieses Kaiserreich w�hrte zwar nur drei Jahre, aber Maximilian wurde zu gewissem Grad trotzdem von den mexikanischen Konservativen unterst�tzt. Indem wir Maximilian Ferdinand anbieten, k�nnen wir Mexiko wieder zu einer Monarchie machen, aber dies w�re ein �u�erst riskantes Unterfangen.;;Una intervenci�n militar francesa en M�jico, causada por la cancelaci�n de los pagos de los cr�ditos en 1861, hizo que el archiduque austriaco, Fernando Maximiliano, posteriormente Maximiliano I, se instalase en el trono de un restaurado Imperio Mejicano. Aunque el imperio solo dur� tres a�os, Maximiliano disfrut� de cierto nivel de apoyo por parte de los conservadores mejicanos. Al pedir a Fernando Maximiliano que subiese al trono, podr�amos volver a convertir a M�jico en una monarqu�a, aunque se tratar�a de un asunto muy arriesgado.;;;;;;;;;x
-italian_expansion_title;Claim North Italy;;;;;;;x
-italian_expansion_desc;We can finally press our claim on North Italy ! But now what path are we going to choose, are we true German or Italian ?;;;;;;;x
-accept_all_german_title;Accept all German;;;;;;;x
-accept_all_german_desc;We have chosen a true German king who served with Prussia. Now it's time to accept all german as citizens of Bavaria !;;;;;;;x
+acceptance_of_steppe3_title;Acceptance of the Mongolians;;;;spanish loc;;;x
+acceptance_of_steppe3_desc;Mongolia is the last steppe that isn't ours. This is the final step in our Eastern plan. Now it's time to integrate them!;;;;spanish loc;;;x
+southern_slavs_title;Southern Slavs;;;;spanish loc;;;x
+southern_slavs_desc;We have always wanted to unite the southern slavs, victims of the Ottomans and Austria. Now we can claim to be the protector of all Slavs!;;;;spanish loc;;;x
+hide_southern_russia_title;Hide the Southern Path;;;;spanish loc;;;x
+hide_southern_russia_desc;Hides the Southern Expansion Path;;;;spanish loc;;;x
+show_southern_russia_title;Show the Southern Path;;;;spanish loc;;;x
+show_southern_russia_desc;Shows the Southern Expansion Path;;;;spanish loc;;;x
+hide_western_russia_title;Hide the Western Path;;;;spanish loc;;;x
+hide_western_russia_desc;Hides the Western Expansion Path;;;;spanish loc;;;x
+show_western_russia_title;Show the Western Path;;;;spanish loc;;;x
+show_western_russia_desc;Shows the Western Expansion Path.;;;;spanish loc;;;x
+ask_holstein_title;Ask for Holstein;;;;spanish loc;;;x
+ask_holstein_desc;Holstein is our legitimate territory. We should.. 'peacefully request' that it be returned to us.;;;;spanish loc;;;x
+ask_malta_title;Ask for Malta;;;;spanish loc;;;x
+ask_malta_desc;Malta is our legitimate territory. We should.. 'peacefully request' that it be returned to us.;;;;spanish loc;;;x
+ask_stralsund_title;Ask for Stralsund;;;;spanish loc;;;x
+ask_stralsund_desc;Stralsund is German and should be ours!;;;;spanish loc;;;x
+ask_lubeck_title;Ask for Lubeck;;;;spanish loc;;;x
+ask_lubeck_desc;Lubeck is German and should be ours!;;;;spanish loc;;;x
+form_grobgermany_title;Great Germany!;;;;spanish loc;;;x
+form_grobgermany_desc;We have finally united all German people, it's a glorious day for our nation!;;;;spanish loc;;;x
+united_netherlands_title;United Netherlands;;;;spanish loc;;;x
+united_netherlands_desc;We have finally united all Dutch people!;;;;spanish loc;;;x
+expand_netherlands1_title;Expand to Flanders;;;;spanish loc;;;x
+expand_netherlands1_desc;We have expanded to the Flemish territory, we should accept them to avoid any revolts.;;;;spanish loc;;;x
+expand_netherlands2_title;Expand to Wallonia;;;;spanish loc;;;x
+expand_netherlands2_desc;We have conquered the land of the Wallonians and it's our duty to acccept them as citizens of the old Kingdom of the Netherlands!;;;;spanish loc;;;x
+expand_north_title;Expansion in the North of France;;;;spanish loc;;;x
+expand_north_desc;We have conquered the land of the Picards. They are our southern brethen and we should give them citizenship to avoid any revolts.;;;;spanish loc;;;x
+form_psl_title;Form the Slavic Union!;;;;spanish loc;;;x
+form_psl_desc;It's common knowledge that we Slavs have many things in common, besides a country. Russians, after the Great Napoleonic Wars, began developing a movement called 'Panslavism'. Due to French influence on the continent and on the Slavic people, the Russians had no way of achieving true Panslavism. With all North Slavs united, and with nobody standing in the way, there is no reason not to proclaim a United Slavic Nation!;;;;spanish loc;;;x
+balkan_expansion1_title;The Illyrian Question;;;;spanish loc;;;x
+balkan_expansion1_desc;We should probably accept the Illyrian population inside our ranks to prevent any nationalist ideas in those states;;;;spanish loc;;;x
+balkan_expansion2_title;The Serbian Question;;;;spanish loc;;;x
+balkan_expansion2_desc;The Serbs have always been known for their will to fight any opressors. We must act carefully if we don't want to be the target of revolts like the Ottomans were;;;;spanish loc;;;x
+balkan_expansion3_title;The Albanian minority;;;;spanish loc;;;x
+balkan_expansion3_desc;The Albanian are a people we should respect. During Skanderbeg's time, they inflicted many casualties on the Ottomans. If we treat them with respect they might never revolt;;;;spanish loc;;;x
+form_wsf_title;Form the Pan-Slavic Union;;;;spanish loc;;;x
+form_wsf_desc;We have finally united all western Slavs! We are feared by the world as they shall now know the power of the Slavs!;;;;spanish loc;;;x
+union_with_france_title;The Franco-Spanish Union;;;;spanish loc;;;x
+union_with_france_desc;I, Joseph the 1st, King of Spain and Emperor of France, declare that from this day, and until the end of times, the Kingdom of Spain and the Empire of France shall be united under the Franco-Spanish crown! Those two lands often sought union, notably under Louis the XIV but I am the first to achieve it! We will keep the Spanish tradition and flags in the Empire to honor the victory of the Spanish people againt France, but will allow French to be an official language. To the future of both people!;;;;spanish loc;;;x
+accept_french_minorities_title;Acceptance of the French minorities;;;;spanish loc;;;x
+accept_french_minorities_desc;The Picard and Breton people are closer to Spaniards than to the French. They both endured French occupation and seek to regain their liberty. They'll be honored them by accepting them as official languages of the Franco-Spanish Empire!;;;;spanish loc;;;x
+ADU_ireland_title;Accept the Irish;;;;spanish loc;;;x
+ADU_ireland_desc;We have ended the reconquest of the British Isles and should accept the Irish people living there!;;;;spanish loc;;;x
+picard_expansion_title;Acceptance of the Picards;;;;spanish loc;;;x
+picard_expansion_desc;The Picards represent a mix of three people, the French, the English and the Flemish. They are the real symbol of the unity of our country, we should accept them!;;;;spanish loc;;;x
+reclaim_sa_title;Reclaim South Africa;;;;spanish loc;;;x
+reclaim_sa_desc;South Africa had been both a Dutch colony and an English colony. We should reclaim it as a true part of our nation!;;;;spanish loc;;;x
+breton_expansion_title;Expansion into Brittany;;;;spanish loc;;;x
+breton_expansion_desc;The people living in Brittany are closer to us than the French will ever be, it's only logical to accept them;;;;spanish loc;;;x
+wales_expansion_title;Wales acceptance;;;;spanish loc;;;x
+wales_expansion_desc;Since the departure of the monarchy to Canada, the Welsh have never accepted us. Now it's time to re-unite with them;;;;spanish loc;;;x
+occitan_expansion_dua_title;Expansion into Occitania;;;;spanish loc;;;x
+occitan_expansion_dua_desc;The Occitan kingdom was always a part of France. Now that it's ours we should accept the local population as a sign of peace;;;;spanish loc;;;x
+irish_expansion_title;Expansion into Ireland;;;;spanish loc;;;x
+irish_expansion_desc;The Irish people had been liberated by Napoleon when he invaded Ireland. Now that France no longer exists, we should reintegrate the land and its people;;;;spanish loc;;;x
+form_anglo_french_title;Formation of the Dual Monarchy;;;;spanish loc;;;x
+form_anglo_french_desc;The Dual Monarchy is an old British dream to see the nations of France and England united under the English crown. It's first appearance was during the Hundred Years War, during which English kings Edward II and Edward III had a strong claim on the French throne. But after England lost the war and its land on the European continent, the dream faded away. Now that we have restored our claim on the French kingdom and conquered it, we can officialy proclam the Dual Monarchy!;;;;spanish loc;;;x
+ENG_ireland_title;Accept the Irish;;;;spanish loc;;;x
+ENG_ireland_desc;We have ended the reconquest of the British Isles and should accept the Irish people living there!;;;;spanish loc;;;x
+reclaim_sa_eng_title;Reclaim South Africa;;;;spanish loc;;;x
+reclaim_sa_eng_desc;South Africa had been both a Dutch colony and an English colony. We should reclaim it as a true part of our nation!;;;;spanish loc;;;x
+wales_expansion_eng_title;Acceptance of the Welsh;;;;spanish loc;;;x
+wales_expansion_eng_desc;Since the departure of the monarchy to Canada, the Welsh have never accepted us. Now it's time to re-unite with them;;;;spanish loc;;;x
+caraibes_expansion_title;Caribbean Expansion;;;;spanish loc;;;x
+caraibes_expansion_desc;With the fall of our colonial empire, we must seek new land to conquer in the New World. The Caribbean is a perfect target. We have a strong presence there and no other Great Powers have any significant footholds;;;;spanish loc;;;x
+na_expansion_title;The Question of Canada;;;;spanish loc;;;x
+na_expansion_desc;Canadian land was a part of our Empire, before we gave them their own nation to appease their calls for autonomy. But now that we have consolidated our power, we can annex them back while giving the population equal rights to prevent any revolts;;;;spanish loc;;;x
+ask_corsica_title;Ask For Corsica;;;;spanish loc;;;x
+ask_corsica_desc;We should have Corsica, the birthplace of Napoleon and the land of the devil!;;;;spanish loc;;;x
+french_heritage_title;French Heritage;;;;spanish loc;;;x
+french_heritage_desc;The French Army always has been one of the best in Europe. We should keep that heritage!;;;;spanish loc;;;x
+britannia_rule_title;Rule Britannia;;;;spanish loc;;;x
+britannia_rule_desc;Rule, Britannia! Britannia, rule the waves! Britons never, never, never shall be slaves. When Britain first, at heaven's command, Arose from out the azure main, This was the charter of the land, And Guardian Angels sang this strain: Rule, Britannia! Britannia, rule the waves! Britons never, never, never shall be slaves. The nations not so blest as thee Must, in their turn, to tyrants fall, While thou shalt flourish great and free: The dread and envy of them all. Rule, Britannia! Britannia, rule the waves! Britons never, never, never shall be slaves. Still more majestic shalt thou rise, More dreadful from each foreign stroke, As the loud blast that tears the skies Serves but to root thy native oak. Rule, Britannia! Britannia, rule the waves! Britons never, never, never shall be slaves. Thee haughty tyrants ne'er shall tame; All their attempts to bend thee down Will but arouse thy generous flame, But work their woe and thy renown. Rule, Britannia! Britannia, rule the waves! Britons never, never, never shall be slaves. To thee belongs the rural reign; Thy cities shall with commerce shine; All thine shall be the subject main, And every shore it circles, thine. Rule, Britannia! Britannia, rule the waves! Britons never, never, never shall be slaves. The Muses, still with freedom found, Shall to thy happy coasts repair. Blest isle! with matchless beauty crowned, And manly hearts to guard the fair. Rule, Britannia! Britannia, rule the waves! Britons never, never, never shall be slaves.;;;;spanish loc;;;x
+second_acceptance_title;Another Candidat;;;;spanish loc;;;x
+second_acceptance_desc;We should think to promote others indian to rule over the others. But who are we going to accept?;;;;spanish loc;;;x
+form_british_india_democracy_title;Form the Indo-British Empire;;;;spanish loc;;;x
+form_british_india_democracy_desc;The East India company has been freed from the surveillance of the United Kingdom. While they were a good and powerful master, they would have tried to take over our conquest sooner or later. Now it's time to fully declare our independance as a sovereign nation and not a company anymore ! We also should accept the bengal population to assistus in the rule over India, they have proven their loyalty!;;;;spanish loc;;;x
+form_british_india_monarchy_title;Form the Indo-British Empire;;;;spanish loc;;;x
+form_british_india_monarchy_desc;The East India company has been freed from the surveillance of the United Kingdom. While they were a good and powerful master, they would have tried to take over our conquest sooner or later. Now it's time to fully declare our independance as a sovereign nation and not a company anymore ! We also should accept the bengal population to assistus in the rule over India, they have proven their loyalty!;;;;spanish loc;;;x
+welsh_patriots_title;Our Welsh Brethens;;;;spanish loc;;;x
+welsh_patriots_desc;The welsh people belong to the celtic heritage. So it's only normal to integrate them into the Celtic Union;;;;spanish loc;;;x
+portuguese_civil_code_title;Portuguese Civil Code;;;;spanish loc;;;x
+portuguese_civil_code_desc;In 1867, the first Portuguese Civil Code was enacted. Professor Seabra, influenced by the Code Napoleon, wrote the whole Code alone. Other Codifications were also studied and taken into consideration, especially the Allgemeines Landrecht (Prussia), the ABGB (Austria) and the Sardinian Civil Code. But he was able to create a very peculiar style: the systematization is different from the French Code. The Portuguese Civil Code was unique for European civil codes, in its characterization of laws in terms of the person and property. It was divided into four sections: the person, the acquisition of goods, goods, and the defense of those goods or rights.;;;;spanish loc;;;x
+establish_la_guardia_civil_title;Establish the civil guard;;;;spanish loc;;;x
+establish_la_guardia_civil_desc;Our citizen deserves protections after the many wars that affected them, especially the napoleonic wars;;;;spanish loc;;;x
+the_regenerador_title;The regeneration;;;;spanish loc;;;x
+the_regenerador_desc;After the Napoleonic wars Portugal must recover and move forward. It's time to think about our wounds;;;;spanish loc;;;x
+instituto_industrial_de_lisboa_title;Industrial institution of Lisbona;;;;spanish loc;;;x
+instituto_industrial_de_lisboa_desc;We shoud create an instutution which goals would be to educate the common people and to supply our industries with good technician;;;;spanish loc;;;x
+escola_industrial_do_porto_title;Industrial school of Porto;;;;spanish loc;;;x
+escola_industrial_do_porto_desc;The institution in Lisbon has been a great success, it's time to expand it to the great city of Porto;;;;spanish loc;;;x
+form_UPB_title;Form Portugal-Brazil;;;;spanish loc;;;x
+form_UPB_desc;Brazil has always been our best colony since the discovery of America and the establishment of portuguese settlers in the area. It's the heritage of the treaty of Tordesillas and it should be ours;;;;spanish loc;;;x
+unite_brz_title;Brazil is united !;;;;spanish loc;;;x
+unite_brz_desc;We have finally united the brazilian people after years of wars. We can bring peace and prosperity to our people !;;;;spanish loc;;;x
+retake_texas_title;Take Texas ;;;;spanish loc;;;x
+retake_texas_desc;The land of cows and cowboys is ours. (fuck the description, I don't live there);;;;spanish loc;;;x
+hispanic_commonwealth_title;Form the Hispanic Commonwealth;;;;spanish loc;;;x
+hispanic_commonwealth_desc;Long ago Spain was the 1st world power and America was in our hands. Now, decades after the revolt in our ex colonies, we have finally taken them back and have united all spanish speaking people !;;;;spanish loc;;;x
+annex_bolivia_title;Annex Bolivia;;;;spanish loc;;;x
+annex_bolivia_desc;After many years under our rule and with a constant effort to centralise our country, we can finally annex Bolivia as a part of our country;;;;spanish loc;;;x 
+mexican_empire_title;Form The Mexican Empire;R�tablissement de l'Empire mexicain;Wiederherstellung des mexikanischen Kaiserreichs;;Restauraci�n del Imperio Mejicano;;;;;;spanish loc;;;x
+mexican_empire_desc;With the conquest of the USCA we have gained the legiticamy to make Agustin de Iturbide our emperor. He shall rule the Mexican Empire like modern kings, with a parliement. There is no doubts that he will lead us to a glorious future !;Apr�s une intervention militaire fran�aise, d�clench�e par l'annulation par le Mexique de remboursements d'emprunts en 1861, l'archiduc autrichien Maximilien Ferdinand, a acc�d� au tr�ne et r�tabli l'Empire mexicain sous le nom de Maximilien Ier. Au cours de son r�gne, qui ne dura que trois ann�es, Maximilien b�n�ficia d'un certain soutien de la part des conservateurs mexicains. En demandant � Maximilien Ferdinand de monter sur le tr�ne, nous pourrons r�tablir la monarchie mexicaine, mais une telle entreprise n'est pas sans risque...;Durch eine franz�sische Milit�rintervention in Mexiko im Jahr 1861, ausgel�st durch Mexikos Zahlungsr�ckst�nde, brachte den �sterreichischen Erzherzog Maximilian Ferdinand, sp�ter Maximilian I., auf den Thron des restaurierten mexikanischen Kaiserreichs. Dieses Kaiserreich w�hrte zwar nur drei Jahre, aber Maximilian wurde zu gewissem Grad trotzdem von den mexikanischen Konservativen unterst�tzt. Indem wir Maximilian Ferdinand anbieten, k�nnen wir Mexiko wieder zu einer Monarchie machen, aber dies w�re ein �u�erst riskantes Unterfangen.;;Una intervenci�n militar francesa en M�jico, causada por la cancelaci�n de los pagos de los cr�ditos en 1861, hizo que el archiduque austriaco, Fernando Maximiliano, posteriormente Maximiliano I, se instalase en el trono de un restaurado Imperio Mejicano. Aunque el imperio solo dur� tres a�os, Maximiliano disfrut� de cierto nivel de apoyo por parte de los conservadores mejicanos. Al pedir a Fernando Maximiliano que subiese al trono, podr�amos volver a convertir a M�jico en una monarqu�a, aunque se tratar�a de un asunto muy arriesgado.;;;;;;spanish loc;;;x
+italian_expansion_title;Claim North Italy;;;;spanish loc;;;x
+italian_expansion_desc;We can finally press our claim on North Italy ! But now what path are we going to choose, are we true German or Italian ?;;;;spanish loc;;;x
+accept_all_german_title;Accept all German;;;;spanish loc;;;x
+accept_all_german_desc;We have chosen a true German king who served with Prussia. Now it's time to accept all german as citizens of Bavaria !;;;;spanish loc;;;x
+dutch_tech_title;Dutch Heritage;;;;spanish loc;;;x
+dutch_tech_desc;With the Dutch core territory under our control, we can claim the dutch heritage of commerce and maritime power !;;;;spanish loc;;;x
+take_new_england_title;The Conquest of New England;;;;spanish loc;;;x
+take_new_england_desc;New England has always been shared between Canada and the USA. Now we can fully proclaim that it's ours !;;;;spanish loc;;;x
+accept_yankees_title;Accept Yankee ;;;;spanish loc;;;x
+accept_yankees_desc;We have subjugated the Yankees and in order to increase stability, we should accept them in our glorious country;;;;spanish loc;;;x
+end_the_13_colony_title;End the 13 colonies;;;;spanish loc;;;x
+end_the_13_colony_desc;The 13 colonies were originally a puppet state of the UNited Kingdom like we were. But contrary to us, they were a rebllious nation and freed themseleves. It's time to end this abomination;;;;spanish loc;;;x
+form_nau_title;Fomr the North American Union;;;;spanish loc;;;x
+form_nau_desc;English North America is finally united under one country and we can now move forward to new horizon !;;;;spanish loc;;;x
+not_vassal_title;Not a Vassal;;;;spanish loc;;;x
+not_vassal_desc;Fuck of, we're free now (not that this isn't supposed to be used if UK doesn't agree, kick the player if he does it);;;;spanish loc;;;x
+imp_or_isol_title;Imperialism or Isolasionism ?;;;;Spanish Loc;;;x
+imp_or_isol_desc;The United States of America have always had an ambigious relation with Europe. While we are making most of our money from trade with Europe and shared a lot of ideology with the old continent, we have always had a different approach on colonisalism as a former colony. It's also important to note that the recent conflict against european power have pushed us to take a decision on our foreign diplomacy. Should we focus on America and renounce the idea of imperialism or should we embrace our european heritage ?;;;;Spanish Loc;;;x
+southern_destiny_title;Southern Destiny;;;;spanish loc;;;x
+southern_destiny_desc;After the conquest of the West, it's only logical that our destiny lies south. Take this dye and make me a new carpet at home !;;;;spanish loc;;;x
+monroe_doctrine_title;Monroe's Doctrine;;;;spanish loc;;;x
+monroe_doctrine_desc;The occasion has been judged proper for asserting, as a principle in which the rights and interests of the United States are involved, that the American continents, by the free and independent condition which they have assumed and maintain, are henceforth not to be considered as subjects for future colonization by any European powers;;;;spanish loc;;;x
+form_ABE_title;Form the Austro-Bavarian Empire;;;;spanish loc;;;x
+form_ABE_desc;Bavaria and Austria have always been close countries. Now we can proclaim their union !;;;;spanish loc;;;x
+host_options_title;Host Nation Options;;;;;;;x
+host_options_desc;This spawns a menu that allows you to ally every nation or kick specific players;;;;;;;x

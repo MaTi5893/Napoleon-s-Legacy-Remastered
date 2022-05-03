@@ -6,7 +6,6 @@ province_event = {
 	id = 1100
 
 	trigger = {
-		year = 1836
 		or = {
 			province_id = 1				# Sitka
 			province_id = 2				# Yakutat

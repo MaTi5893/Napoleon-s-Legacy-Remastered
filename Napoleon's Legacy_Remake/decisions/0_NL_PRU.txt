@@ -3,8 +3,7 @@ political_decisions = {
 	repartition_poland = {
 		picture = duchy_of_warsaw
 		potential = {
-			tag = PRU
-			NOT = { has_country_flag = repartitioned_poland }
+			has_country_flag = PRU
 		}
 		allow = {
 			owns = 699
@@ -15,7 +14,7 @@ political_decisions = {
 			war_policy=jingoism
 		}
 		effect = {
-			set_country_flag = repartitioned_poland
+			clr_country_flag = PRU
 			RUS_706 = {
 				add_core = THIS
 			}
@@ -55,7 +54,6 @@ political_decisions = {
 			}
 			NOT = { has_country_flag = danzig_coup }
 			DZG = { exists = yes }
-			NOT = { year = 1870 }
 		}
 		allow = {
 			state_n_government = 1
@@ -78,8 +76,15 @@ political_decisions = {
 					tag = BAV
 					accepted_culture = north_german
 				}
+				AND = {
+					tag = HAN
+					accepted_culture = south_german
+				}
 			}
-			NOT = {has_country_flag = declaration_an_mein_volk}
+			PRU = { NOT = {has_country_flag = declaration_an_mein_volk} }
+			BAV = { NOT = {has_country_flag = declaration_an_mein_volk} }
+			HAN = { NOT = {has_country_flag = declaration_an_mein_volk} }
+			
 			NOT = {
 				OR = {
 					NGF = {exists = yes}

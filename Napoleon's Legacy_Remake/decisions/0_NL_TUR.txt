@@ -1,21 +1,22 @@
 political_decisions = {
 	restore_ottoman_egypt = {
+		picture = egypt_decision
 		potential = {
 			tag = TUR
 			NOT = { has_country_flag = restored_ottoman_egypt }
 		}
 		allow = {
-			all_core = {
-				owned_by = THIS
-			}
+			war = no
 			EGY = {
-				OR = {
-					all_core = {
-						owned_by = THIS
-					}
-					AND = {
-						vassal_of = THIS
-						in_sphere = THIS
+				all_core = {
+					OR = {
+						owned_by = THIS 
+						owner = {
+							OR = {
+								vassal_of = THIS
+								in_sphere = THIS
+							}
+						}
 					}
 				}
 			}
@@ -33,15 +34,13 @@ political_decisions = {
 					vassal_of = THIS
 				}
 				annex_to = TUR
-				TUR = {
-					badboy = 5
-				}
 			}
 			set_country_flag = restored_ottoman_egypt
 		}
 	}
 	
 	magrhreb_domination = {
+		picture = magreb_decision
 		potential = {
 			tag = TUR
 			NOT = { has_country_flag = magrhreb_dominated }

@@ -113,7 +113,7 @@ SATELLITE_OF_NOCOLOR;Satellite of;;;;Spanish Loc;;;x
 SUBSTATE_OF_NOCOLOR;Substate of;;;;Spanish Loc;;;x
 HAVE_MORE_NATIONAL_PROVINCES_OCCUPIED_THAN;The percentage of occupied national provinces is greater than: ;;;;Spanish Loc;;;x
 HAVE_LESS_NATIONAL_PROVINCES_OCCUPIED_THAN;The percentage of occupied national provinces is less than: ;;;;Spanish Loc;;;x
-NEED_POSITIVE_WARSCORE;The war is not going well enough. §RIn wars were you are not the war leader, contribution is calculated individually. Even though the total warscore might be positive, what allows you to add or not war goals is your individual warscore - your individual contribution - in this war.§W;;;;Spanish Loc;;;x
+NEED_POSITIVE_WARSCORE;The war is not going well enough. ?RIn wars were you are not the war leader, contribution is calculated individually. Even though the total warscore might be positive, what allows you to add or not war goals is your individual warscore - your individual contribution - in this war.§W;;;;Spanish Loc;;;x
 WARGOAL_LACK_JINGO;We require $REQUIRED$ support for jingoism in our country, but have only $VALUE$. Jingoism represents the Ruler or the Upper House will to extend the war. The higher the jingoism, the more the chances that the necessary actors have the will and/or support to extend the war.;;;;Spanish Loc;;;x 
 admin_spen;AI Administration Spending;;;;Spanish Loc;;;x
 educational_spen;AI Educational Spending;;;;Spanish Loc;;;x
@@ -145,7 +145,7 @@ HAS_NATIONAL_MINORITY;Has Minorities;;;;Spanish Loc;;;x
 beifaren;North Han;;;;Spanish Loc;;;x
 nanfaren;South Han;;;;Spanish Loc;;;x
 acceptable_subsidies_l;Extended Subsidies;;;;Spanish Loc;;;x
-MONEY_IS_ATLEAST_TRIGGER;Money is at least §Y$VALUE$§W§.\n;;;;Spanish Loc;;;x
+MONEY_IS_ATLEAST_TRIGGER;Money is at least §Y$VALUE$§W?.\n;;;;Spanish Loc;;;x
 EFFECT_BUILD_IN_CAPITAL_DESC;§Y$BLD$§! construction will take place in: §Y$PROVS$§!\n;;;;Spanish Loc;;;x
 ADD_WARGOAL_PRESTIGE;If we achieve this war goal, we will gain $COST$ §Yprestige§W;;;;Spanish Loc;;;x
 ADD_WARGOAL_MILITANCY;If we fail to achieve this war goal, our entire population will gain $MILITANCY$ §YMilitancy§W;;;;Spanish Loc;;;x
@@ -258,7 +258,7 @@ fascist_rebels_army;$COUNTRY_ADJ$ Paramilitary;;;;Spanish Loc;;;x
 dagestani;Dagestani;;;;Spanish Loc;;;x
 circassian;Circassian;;;;Spanish Loc;;;x
 chechen;Chechen;;;;Spanish Loc;;;x
-north_caucasian;Caucasian Minor;;;;Menor caucásico;;;x
+north_caucasian;Caucasian Minor;;;;Menor cauc?sico;;;x
 caucasian;North Caucasian;;;;Spanish Loc;;;x
 botanical_expedition_threatened;Botanical Expedition Threatened;;;;Spanish Loc;;;x
 participates_in_botanical_expedition;Participates in Botanical Expedition;;;;Spanish Loc;;;x
@@ -267,8 +267,8 @@ IS_RELIGION;The state religion is;;;;Spanish Loc;;;x
 early_electrical_telegraph;Early Electrical Telegraph;;;;Spanish Loc;;;x
 early_electrical_telegraph_desc;The first commercial electrical telegraph was co-developed by Sir William Fothergill Cooke and Charles Wheatstone. This was a five-needle, six-wire system. The cables were originally installed underground in a steel conduit. However, the cables soon began to fail as a result of deteriorating insulation and were replaced with uninsulated wires on poles. As an interim measure, a two-needle system was used with three of the remaining working underground wires, which despite using only two needles had a greater number of codes.;;;;Spanish Loc;;;x
 telegraph;Telegraph;;;;Spanish Loc;;;x
-REMOVE_MONEY_EFFECT;Lose §R$VALUE$§!.\n;;;;Spanish Loc;;;x
-MONEY_EFFECT;Funds §R$VALUE$§!.\n;;;;Spanish Loc;;;x
+REMOVE_MONEY_EFFECT;Lose ?R$VALUE$§!.\n;;;;Spanish Loc;;;x
+MONEY_EFFECT;Funds ?R$VALUE$§!.\n;;;;Spanish Loc;;;x
 theocracy_ruler;Your Holiness;;;;Spanish Loc;;;x
 proletarian_dictatorship_ruler;Chairman;;;;Spanish Loc;;;x
 presidential_dictatorship_ruler;President;;;;Spanish Loc;;;x
@@ -301,10 +301,10 @@ piston_steam_engine;Piston Steam Engine;;;;Spanish Loc;;;x
 high_pressure_steam_engine;High-Pressure Steam Engine;;;;Spanish Loc;;;x
 compound_steam_engines;Compound Steam Engine;;;;Spanish Loc;;;x
 nv_autocracy;Autocracy;;;;Autocracia;;;x
-nv_tradition;Tradition;;;;Tradición;;;x
+nv_tradition;Tradition;;;;Tradici?n;;;x
 nv_productivity;Productivity;;;;Productividad;;;x
 nv_diplomacy;Diplomacy;;;;Diplomacia;;;x
-nv_education;Education;;;;Educación;;;x
+nv_education;Education;;;;Educaci?n;;;x
 CANAL_5;Dardanelles Strait;;;;Spanish Loc;;;x
 CANAL_4;Bosphorus Strait;;;;Spanish Loc;;;x
 MODIFIER_LAND_ATTACK;Land Unit Attack;;;;Spanish Loc;;;x
@@ -604,7 +604,7 @@ movement_child_labor_illegal;Child Labor Abolition League;;;;Spanish Loc;;;x
 debt_law;Debt Law;;;;Spanish Loc;;;x
 serfdom;Serfdom;;;;Spanish Loc;;;x
 serfdom_l;Serfdom;;;;Spanish Loc;;;x
-serfdom_desc;Serfs are bound to the land and subject to the will of its owner and forced to work the fields under a feudal system.\n§RThis reform affects POP promotion chance - promotion will be slower.§W\n§YThis reform enables Serfs - poor POPs will demote to Serfs and won't come out of Serfdom until it's abolished.§W;;;;Spanish Loc;;;x
+serfdom_desc;Serfs are bound to the land and subject to the will of its owner and forced to work the fields under a feudal system.\n?RThis reform affects POP promotion chance - promotion will be slower.§W\n§YThis reform enables Serfs - poor POPs will demote to Serfs and won't come out of Serfdom until it's abolished.§W;;;;Spanish Loc;;;x
 movement_serfdom;Pro Serfdom League;;;;Spanish Loc;;;x
 peonage;Peonage;;;;Spanish Loc;;;x
 peonage_l;Peonage;;;;Spanish Loc;;;x
