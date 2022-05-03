@@ -73,7 +73,8 @@ germanic = {
 		"von Reuter" "von Richthofen" "von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen" 
 		"von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin" 
 		"von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
-	}	
+	}		
+	German = { color = { 0 0 0 } first_names = { sneed } last_names = { sneed } } 
 	union = GER
 }
 
@@ -372,7 +373,7 @@ italian = {
 		Morghen Neurone Pallavicino Pecori-Giraldi "Pellion di Persano" Peyron Perruchetti Pianelli Porro
 		Presbitero Ramorino Ricotti Sacchi Saletta Sanna Solari Telesio Vigliardi Zupelli }
 	}
-	
+	Italian = { color = { 0 0 0 } first_names = { sneed } last_names = { sneed } } 
 	union = ITA
 }
 

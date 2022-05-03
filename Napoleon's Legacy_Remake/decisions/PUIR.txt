@@ -1085,10 +1085,10 @@ political_decisions = {
 		potential = {
 			tag = RUS
 			year = 1900
+			government = proletarian_dictatorship
 			NOT = {
 				has_country_flag = soviet_cities
 			}
-			government = proletarian_dictatorship
 		}
 		
 		allow = {
@@ -1465,78 +1465,6 @@ political_decisions = {
 		}
 		ai_will_do = {
 			factor = 1
-		}
-	}
-	papua_act = {
-		potential = {
-			tag = AST
-			NOT = { has_country_flag = passed_papua_act }
-			invention = mission_to_civilize
-			2528 = {
-				OR = {
-					empty = yes
-					owner = {
-						civilized = no
-						ai = yes
-					}
-					owner = {
-						tag = ENG
-						ai = yes
-					}
-				}
-			}		
-		}
-
-		allow = {
-			war = no
-			OR = {
-				invention = colonial_negotiations
-				year = 1883
-			}
-		}
-
-		effect = {
-			set_country_flag = passed_papua_act
-			prestige = 20
-			2528 = { 
-				secede_province = AST
-			}
-			2529 = { 
-				secede_province = AST
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	move_capital_to_canberra = {
-		potential = {
-			tag = AST
-			NOT = { has_country_flag = canberra_constructed }
-			2472 = { owned_by = THIS }		
-		}
-
-		allow = {
-			state_n_government = 1
-			war = no
-			NOT = { 
-				2472 = { is_capital = yes }
-			}
-			
-		}
-
-		effect = {
-			set_country_flag = canberra_constructed
-			prestige = 5
-			capital = 2472
-			2472 = { change_province_name = "Canberra" }
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = { year = 1890 }
-			} 
 		}
 	}
 }

@@ -231,10 +231,11 @@ political_decisions = {
 		}
 		allow = {
 			war = no
-			NIT = {
+			ITA = {
 				all_core = {
 					OR = {
 						owned_by = THIS
+						NOT = { culture = north_italian } 
 						owner = {
 							OR = {
 								in_sphere = THIS

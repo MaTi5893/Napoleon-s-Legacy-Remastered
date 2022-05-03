@@ -367,11 +367,11 @@ southern_slavs_title;Southern Slavs;;;;spanish loc;;;x
 southern_slavs_desc;We have always wanted to unite the southern slavs, victims of the Ottomans and Austria. Now we can claim to be the protector of all Slavs!;;;;spanish loc;;;x
 hide_southern_russia_title;Hide the Southern Path;;;;spanish loc;;;x
 hide_southern_russia_desc;Hides the Southern Expansion Path;;;;spanish loc;;;x
-show_southern_russia_title;Show the Southern Path
+show_southern_russia_title;Show the Southern Path;;;;spanish loc;;;x
 show_southern_russia_desc;Shows the Southern Expansion Path;;;;spanish loc;;;x
 hide_western_russia_title;Hide the Western Path;;;;spanish loc;;;x
 hide_western_russia_desc;Hides the Western Expansion Path;;;;spanish loc;;;x
-show_western_russia_title;Show the Western Path
+show_western_russia_title;Show the Western Path;;;;spanish loc;;;x
 show_western_russia_desc;Shows the Western Expansion Path.;;;;spanish loc;;;x
 ask_holstein_title;Ask for Holstein;;;;spanish loc;;;x
 ask_holstein_desc;Holstein is our legitimate territory. We should.. 'peacefully request' that it be returned to us.;;;;spanish loc;;;x
@@ -473,7 +473,7 @@ accept_all_german_title;Accept all German;;;;spanish loc;;;x
 accept_all_german_desc;We have chosen a true German king who served with Prussia. Now it's time to accept all german as citizens of Bavaria !;;;;spanish loc;;;x
 dutch_tech_title;Dutch Heritage;;;;spanish loc;;;x
 dutch_tech_desc;With the Dutch core territory under our control, we can claim the dutch heritage of commerce and maritime power !;;;;spanish loc;;;x
-take_new_england_title;The Conquest of New England
+take_new_england_title;The Conquest of New England;;;;spanish loc;;;x
 take_new_england_desc;New England has always been shared between Canada and the USA. Now we can fully proclaim that it's ours !;;;;spanish loc;;;x
 accept_yankees_title;Accept Yankee ;;;;spanish loc;;;x
 accept_yankees_desc;We have subjugated the Yankees and in order to increase stability, we should accept them in our glorious country;;;;spanish loc;;;x
@@ -491,3 +491,5 @@ monroe_doctrine_title;Monroe's Doctrine;;;;spanish loc;;;x
 monroe_doctrine_desc;The occasion has been judged proper for asserting, as a principle in which the rights and interests of the United States are involved, that the American continents, by the free and independent condition which they have assumed and maintain, are henceforth not to be considered as subjects for future colonization by any European powers;;;;spanish loc;;;x
 form_ABE_title;Form the Austro-Bavarian Empire;;;;spanish loc;;;x
 form_ABE_desc;Bavaria and Austria have always been close countries. Now we can proclaim their union !;;;;spanish loc;;;x
+host_options_title;Host Nation Options;;;;;;;x
+host_options_desc;This spawns a menu that allows you to ally every nation or kick specific players;;;;;;;x

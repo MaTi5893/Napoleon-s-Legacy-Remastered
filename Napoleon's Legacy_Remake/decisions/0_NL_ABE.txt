@@ -31,7 +31,7 @@ political_decisions = {
                 add_core = ABE
             }
             add_accepted_culture = czech
-            AUS = {annex_to = THIS}
+            #AUS = {annex_to = THIS}
             change_tag = ABE
         }
     }

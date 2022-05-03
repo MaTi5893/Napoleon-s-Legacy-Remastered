@@ -12,7 +12,7 @@ country_event = {
 	picture = "sultan"
 
 	trigger = {
-		tag = ENG
+		tag = EIC
 		breech_loaded_rifles = 1
 		any_owned_province = { is_core = HND }
 	}
