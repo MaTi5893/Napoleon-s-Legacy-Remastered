@@ -1792,7 +1792,7 @@ african_diaspora_cultures = {
 
 	
 }
-west_african = {
+african_cultures = {
     leader = african
     unit = AfricanGC
     western_african = {
@@ -1812,14 +1812,6 @@ west_african = {
         last_names = { Prempeh Bonsu Dua Karikari Dwomo Panyin Sekyere Fofie Asiba
         }
     }
-#    tuareg = {
-#        color = {84 75 240}
-#        first_names = { Attici Musa Aytarel Ahmad "Ag Mama" Moussa Majila Islaman "In Tayaden" Abareybon Hasso Kiddu
-#        }
-#
-#        last_names = { "ag Sidi" al-Hajj "ag Muhammad" "ag Amellal" "ag Amastan"
-#        }
-#    }
     nigerian = {
         color = {240 75 89}
         first_names = { Siyanbola Lawani Adeyemi Adelu Atiba Oluewu Amodo Majotu Makua Adebo Bello Onikepe Gbadegesin Ajikin Abisi Lauru Kase Agidigbo Ademufekun
@@ -1837,11 +1829,7 @@ west_african = {
         last_names = { Oladigbolu Adeniran Agogoja Alowolodu Atobatele Zumaw Oyo Tofa Tonyon Bezon Hungbo Dudu
         }
     }
-}
 
-central_african = {
-    leader = african
-    unit = AfricanGC
     bantu = {
         color = {128 172 128}
         first_names = { Kaumba Muteba Mushidi Mbala Mutand Mudib Kangapu Cimbindu Mbumb Cakasekene Mulay Nawej Cikombe Waranankong
@@ -1850,11 +1838,6 @@ central_african = {
         last_names = { Kasang Nambing Kalong Mukaz Ditend Yaava Namwan Naweej Kamong Isot Kat Muteba
         }
     }
-}
-
-east_african = {
-    leader = african
-    unit = AfricanGC
     somali = {
         color = {226 22 48}
         first_names = { Yusuf Mahamud Ahmed Osman Ali Aul Shire Mohamud Naleye Abdikarim Dalmar Ghdi Labaan Roble Taban Erasto Abdi
@@ -1879,11 +1862,6 @@ east_african = {
         last_names = { Mzilikazi Lobengula Mlimo Soshangane Magaya Kwenda Muhuru Maraire
         }
     }
-}
-
-southern_african = {
-    leader = african
-    unit = ZuluGC
     malagasy = {
         color = {25 115 44}
         first_names = { Radama Rainilaiarivony Rabiby Andriamanely Ndriantompoinairivo Tonanahary Ratsimivila Ramasoandro Andriantsirotso Lamboina Tsialana Tsimiharo
@@ -1901,14 +1879,6 @@ southern_african = {
         last_names = { Tsiranana Ramanantsoa Ratsimandrava Andriamahazo Ratsiraka
         }
     }
-#    southern_bantu = {
-#        color = {165 111 17}
-#        first_names = { Kinjikitile Fambaltate Songea Ebabruma Mputa Mbemchapa Atepa Matola Magobi Rjoroza Wasesse Rinyizea Chapwanya Chakoma Kapola Kapungu Kindunda Kinjalla Kiwanga Mahengu Mburu Mhavanginonya Namkina Ngosingosi Schabruma Sentambandu Uawula Ulanga
-#        }
-#
-#        last_names = { Ngwale Farhenga Chimai Amari Kwira Mtemi Hanga Mwanawalifa Mbano
-# #       }
-#    }
 }
 
 bears = {

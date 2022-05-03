@@ -1060,26 +1060,11 @@ assimilation_chance = {
 		country = {
 			has_country_flag = new_world_nation
 		}
-		OR = {
-			AND = {
-				location = {
-					OR = {
-						continent = north_america
-						continent = south_america
-						continent = oceania
-					}
-				}
-			}
-			AND = {			
-				location = {
-					continent = africa
-				}
-				NOT = {
-					OR = {
-						has_pop_culture = african_minor
-						is_culture_group = arab
-					}
-				}
+		location = {
+			OR = {
+				continent = north_america
+				continent = south_america
+				continent = oceania
 			}
 		}
 	}
@@ -1089,26 +1074,11 @@ assimilation_chance = {
 		country = {
 			has_country_flag = new_world_nation
 		}
-		OR = {
-			AND = {
-				location = {
-					OR = {
-						continent = north_america
-						continent = south_america
-						continent = oceania
-					}
-				}
-			}
-			AND = {			
-				location = {
-					continent = africa
-				}
-				NOT = {
-					OR = {
-						has_pop_culture = african_minor
-						is_culture_group = arab
-					}
-				}
+		location = {
+			OR = {
+				continent = north_america
+				continent = south_america
+				continent = oceania
 			}
 		}
 	}

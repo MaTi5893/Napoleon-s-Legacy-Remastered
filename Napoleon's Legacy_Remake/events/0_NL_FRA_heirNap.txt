@@ -7,7 +7,7 @@ country_event = {
 	desc = "EVTDESC600013"
 	picture = "napoleon_death"
 	option = {
-		name = "Princess Louise Bonaparte !"	
+		name = "Princess Louise Bonaparte!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
@@ -47,8 +47,8 @@ country_event = {
     id = 600017
     is_triggered_only = yes
 
-    title = "EVTNAME600017"
-	desc = "EVTDESC600017"
+	title = "EVTNAME600013"
+	desc = "EVTDESC600013"
 	picture = "napoleon_death"
     mean_time_to_happen = {
 		days = 0
@@ -95,11 +95,11 @@ country_event = {
 	is_triggered_only = yes
 
 
-	title = "EVTNAME600018"
-	desc = "EVTDESC600018"
+	title = "EVTNAME600013"
+	desc = "EVTDESC600013"
 	picture = "napoleon_death"
 	option = {
-		name = "Princess Louise Bonaparte !"	
+		name = "Princess Louise Bonaparte!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
@@ -152,8 +152,8 @@ country_event = {
 
 	is_triggered_only = yes
 
-	title = "EVTNAME600019"
-	desc = "EVTDESC600019"
+	title = "EVTNAME600013"
+	desc = "EVTDESC600013"
 	picture = "napoleon_death"
 	option = {
 		name = "Louis Bonaparte!"	
@@ -214,8 +214,8 @@ country_event = {
 
 	is_triggered_only = yes
 
-	title = "EVTNAME600020"
-	desc = "EVTDESC600020"
+	title = "EVTNAME600013"
+	desc = "EVTDESC600013"
 	picture = "napoleon_death"
 	option = {
 		name = "Louis Bonaparte!"	
