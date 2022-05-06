@@ -49,11 +49,6 @@ DLM = {
 	level = 5
 	influence_value = 25
 }
-NIT = {
-	value = 125
-	level = 5
-	influence_value = 25
-}
 
 SIC = {
 	value = 125
@@ -96,7 +91,7 @@ TUR = {
 SPA = {
 	value = 100
 }
-UPB = {
+POR = {
 	value = -75
 }
 leader = {
