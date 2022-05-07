@@ -10,5 +10,5 @@ EVT6016823OPTA;We have no choice in this matter.;;;;No tenemos elección en este 
 take_puppet;Take Puppet;;;;Toma Marioneta;;;x
 take_puppet_desc;Become a vassal nation's new ovelord;;;;Conviértete en el nuevo ovelord de una nación vasalla;;;x
 take_puppet_short;$THIRD$ is taken;;;;Se toma $THIRD$;;;x
-take_puppet_setup;Take $THIRD$ from $RECIPIENT$;;;;Tomar $Tercer$ de $RECIPIENTE$;;;x
+take_puppet_setup;Take $THIRD$ from $RECIPIENT$;;;;Tomar $THIRD$ de $RECIPIENT$;;;x
 core_when_done;They'll get the cores back in a second!;;;;!Recuperarán los núcleos en un segundo!;;;x

@@ -313,7 +313,7 @@ occitan_expansion_title;Accept the Occitans;;;;spanish loc;;;x
 occitan_expansion_desc;We have conquered the Occitan region. They're our Eastern Breathen and we should make them citizens of our glorious country!;;;;spanish loc;;;x
 latin_empire_title;Revive the Latin empire!;;;;spanish loc;;;x
 latin_empire_desc;We have finally united all Latin speaking people and can declare the resurgence of a Latin identity!;;;;spanish loc;;;x
-annex_italian_minor_title;Annex Italian Minors;
+annex_italian_minor_title;Annex Italian Minors;;;;spanish loc;;;x
 annex_italian_minor_desc;We should unite every duchy that is in our sphere in order to further our claim on the Italian Throne!;;;;spanish loc;;;x
 italy_finally_title;Union of Italy;;;;spanish loc;;;x
 italy_finally_desc;All Italians around the world can now feel at home in our country!;;;;spanish loc;;;x
@@ -451,10 +451,6 @@ establish_la_guardia_civil_title;Establish the civil guard;;;;spanish loc;;;x
 establish_la_guardia_civil_desc;Our citizen deserves protections after the many wars that affected them, especially the napoleonic wars;;;;spanish loc;;;x
 the_regenerador_title;The regeneration;;;;spanish loc;;;x
 the_regenerador_desc;After the Napoleonic wars Portugal must recover and move forward. It's time to think about our wounds;;;;spanish loc;;;x
-instituto_industrial_de_lisboa_title;Industrial institution of Lisbona;;;;spanish loc;;;x
-instituto_industrial_de_lisboa_desc;We shoud create an instutution which goals would be to educate the common people and to supply our industries with good technician;;;;spanish loc;;;x
-escola_industrial_do_porto_title;Industrial school of Porto;;;;spanish loc;;;x
-escola_industrial_do_porto_desc;The institution in Lisbon has been a great success, it's time to expand it to the great city of Porto;;;;spanish loc;;;x
 form_UPB_title;Form Portugal-Brazil;;;;spanish loc;;;x
 form_UPB_desc;Brazil has always been our best colony since the discovery of America and the establishment of portuguese settlers in the area. It's the heritage of the treaty of Tordesillas and it should be ours;;;;spanish loc;;;x
 unite_brz_title;Brazil is united !;;;;spanish loc;;;x

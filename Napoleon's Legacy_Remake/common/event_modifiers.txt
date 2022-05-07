@@ -402,17 +402,6 @@ prussian_general_staff = {
 	icon = 15
 }
 
-##### Boer War #####
-trek_boers = {
-	immigrant_attract = 2		#200%
-	icon = 19
-}
-
-boer_exodus = {
-	immigrant_push = 0.5
-	icon = 20
-}
-
 gold_rush = {
 	immigrant_attract = 3		#300%
 	life_rating = 0.5
@@ -699,20 +688,6 @@ ottoman_bank = {
 	icon = 9
 }
 
-### PUIR-France###
-louis_napoleon_iii = {
-	prestige = 0.02
-	culture_tech_research_bonus = 0.05
-	ruling_party_support = 0.5
-	core_pop_militancy_modifier = -0.04
-	core_pop_consciousness_modifier = -0.04
-	leadership_modifier = -0.25
-	land_organisation = -0.05
-	max_tariff = -0.05
-	min_military_spending = 0.3
-	icon = 17
-}
-
 ### PUIR-Romania###
 alexandru_ioan_cuza = {
 	prestige = 0.02
@@ -723,24 +698,6 @@ alexandru_ioan_cuza = {
 	core_pop_militancy_modifier = -0.01
 	core_pop_consciousness_modifier = 0.02
 	icon = 17
-}
-
-### PUIR-Netherlands###
-cultuurstelsel = {
-	local_RGO_throughput = 0.05
-	prestige = 0.01
-	immigrant_attract = 0.25
-	pop_militancy_modifier = 0.01
-	pop_consciousness_modifier = 0.02
-	icon = 15
-}
-
-### PUIR-Belgium###
-boulevards_of_brussels = {
-	local_RGO_throughput = 0.05
-	local_factory_throughput = 0.05
-	local_ruling_party_support = -0.2
-	icon = 15
 }
 
 ### PUIR-Baku###
@@ -804,12 +761,6 @@ shastar_vidya = {
 	mobilisation_size = 0.02
 	icon = 15
 }
-### POD-Belgium ###
-force_publique = {
-	local_RGO_throughput = 0.15
-	pop_militancy_modifier = 0.03
-	icon = 1
-}
 ### POD-Canada ###
 rcmp = {
 	core_pop_militancy_modifier = -0.02
@@ -825,21 +776,6 @@ otto_von_bismarck = {
 	ruling_party_support = 0.5
 	badboy = -0.01
 	icon = 17
-}
-### POD-Irish Famine###
-irish_potato_blight = {
-	local_RGO_output = -0.9
-	pop_militancy_modifier = 0.3
-	pop_consciousness_modifier = 0.3
-	immigrant_push = 1.75
-	local_factory_output = -0.25
-	population_growth = -0.001
-	icon = 4
-}
-irish_republicans = {
-	pop_militancy_modifier = 0.02
-	pop_consciousness_modifier = 0.05
-	icon = 18
 }
 ###POD - Arabia ###
 holy_city = {
@@ -859,10 +795,6 @@ latin_monetary_union = {
 	icon = 9
 }
 ### Icen-Immigration###
-Bonus_Immigration = {
-	global_immigrant_attract = 0.15
-	icon = 17
-}
 
 Hazardous_Journey = {
 	global_immigrant_attract = -0.15 #-15% immigration
@@ -938,14 +870,6 @@ national_confusion = {
 	icon = 2
 }
 
-roundhead_leagacy = {
-	global_pop_militancy_modifier = -0.02
-	army_tech_research_bonus = 0.1
-	land_organisation = 0.1
-	land_unit_start_experience = 0.3
-	ruling_party_support = 0.15
-	icon = 1
-}
 cop = {
 	mine_rgo_size = 0.2
 	farm_rgo_size = 0.2

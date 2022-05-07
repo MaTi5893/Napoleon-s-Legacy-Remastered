@@ -353,49 +353,6 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	sign_bowring_treaty = {
-		potential = {
-			tag = SIA
-			NOT = { has_country_flag = bowring }
-		}
-		allow = {
-			neighbour = ENG
-			year = 1850
-		}
-		effect = {
-			set_country_flag = bowring
-			prestige = 10
-			relation = {
-				with = ENG
-				value = 100
-			}
-			activate_technology = freedom_of_trade
-			any_pop = {
-				limit = { culture = thai }
-				consciousness = 1
-			}
-			ENG = {
-				create_alliance = SIA
-				relation = {
-					with = SIA
-					value = 100
-				}
-				diplomatic_influence = {
-					who = SIA
-					value = 100
-				}
-				any_pop = {
-					dominant_issue = {
-						value = free_trade
-						factor = 0.1
-					}
-				}
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
 	revive_mesopotamian_claims = {
 		potential = {
 			tag = PER

@@ -401,22 +401,8 @@ demand_colonial_concession_casus_belli;Demand African concession;;;;Spanish Loc;
 demand_colonial_concession_casus_belli_desc;Demand a colonial concession from African nation that could not be attacked early;;;;Spanish Loc;;;x
 demand_colonial_concession_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;Spanish Loc;;;x
 demand_colonial_concession_casus_belli_short;Demand $STATE$ for $THIRD$;;;;Spanish Loc;;;x
-negotiated_transfer;Negotiated Transfer;;;;Spanish Loc;;;x
-negotiated_transfer_desc;Transfer a state or colonial region to another country with no effect on infamy, prestige, or jingoism;;;;Spanish Loc;;;x
-negotiated_transfer_short;Transfer $STATE$ from $RECIPIENT$ to us;;;;Spanish Loc;;;x
-negotiated_transfer_setup;Transfer $STATE$ from $RECIPIENT$ to our country;;;;Spanish Loc;;;x
-NORMAL_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $FIRST_COUNTRY$;;;;Spanish Loc;;;x
-AGRESSION_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $FIRST_COUNTRY$;;;;Spanish Loc;;;x
-cover_the_senne_title;Cover the Senne River;;;;Spanish Loc;;;x
-cover_the_senne_desc;The Senne River flows through the centre of Brussels. By 1860 the accumulation of waste in the river came to pose a significant health risk to the population. Residents preferred to move out of the city and live in the suburbs, thus depriving the city of tax revenues. In 1865 the architect Leon-Pierre Suys presented a plan to divert the Senne through specially constructed tunnels under the centre of the city. The exposed riverbed would be covered over and a series of 4 grand boulevards were to be laid out. Construction started in 1867 and was completed in 1871. While the new buildings failed to attract suburban residents back to the city, public health was measurably improved and transport congestion eased.;;;;Spanish Loc;;;x
-boulevards_of_brussels;The Boulevards of Brussels;;;;Spanish Loc;;;x
-desc_boulevards_of_brussels;The covering of the Senne river has allowed for the creation of four grand boulevards in the center of Brussels. Transportation has been improved and magnificent new public buildings are rising up. The forced expropriation and destruction of many homes in the process however, has made our government somewhat unpopular with the citizens.;;;;Spanish Loc;;;x
 integrate_the_duchies_title;Integrate the Duchies;;;;Spanish Loc;;;x
 integrate_the_duchies_desc;The new nationalistic liberal government issued several reforms to bind Slesvig-Holstein closer to the motherland. It was determined that only full integration of the Duchies into Denmark would stop the loss of these provinces to a future German state.;;;;Spanish Loc;;;x
-proclaim_second_empire_title;Proclaim Second French Empire;;;;Spanish Loc;;;x
-proclaim_second_empire_desc;As Louis Napoleon grasped dictatorial power and introduced a harsh constitution he took the next step and held a referendum for the reintroduction of the Empire. Nearly 8 million Frenchmen voted yes and he became French Emperor under the name Napoleon III..;;;;Spanish Loc;;;x
-louis_napoleon_iii;Louis-Napoleon Bonaparte;;;;Spanish Loc;;;x
-desc_louis_napoleon_iii;Nephew and heir of Napoleon I, he is a man of the people and carries with him a legacy that makes him seemingly invincible-- even if, at times, his decisions are reckless and of questionable military value.;;;;Spanish Loc;;;x
 bardo_treaty_title;Enforce the Bardo Treaty;;;;Spanish Loc;;;x
 bardo_treaty_desc;On May 12,1881, the reigning Bey of Tunisia signed the Treaty of Kasser Said, known also as the Bardo Treaty, which acknowledged Tunisia to be a French protectorate. This marked the effective end of Tunisian independence.;;;;Spanish Loc;;;x
 form_new_guinea_company_title;Form Deutsche Neuguinea-Kompagnie;;;;Spanish Loc;;;x
@@ -451,8 +437,6 @@ escola_industrial_do_porto_title;Found Escola Industrial do Porto;;;;Spanish Loc
 escola_industrial_do_porto_desc;de Melo also founded the Industrial School of Porto (later a full Institute). Its purpose was to apply science and technology in support of the Regenerador policies.;;;;Spanish Loc;;;x
 escola_industrial_porto;Industrial School of Porto;;;;Spanish Loc;;;x
 escola_industrial_porto_desc;The Industrial School is working to harness industrial science and technology in support of our industrialisation policies.;;;;Spanish Loc;;;x
-form_pba_title;Form Portuguese-Brazilian Union;;;;Spanish Loc;;;x
-form_pba_desc;Between 1808 and 1822, The Portuguese monarchy had resided in Brazil and the colony was elevated to the status of a Kingdom in personal union with the Crown. This union ended when Brazil declared independence under the King's son, Dom Pedro. With the reconquest of Brazil, we may find it advantageous to bind Brazil to Portugal in the same way once again.;;;;Spanish Loc;;;x
 pursue_unification_title;Pursue Romanian Unification;;;;Spanish Loc;;;x
 pursue_unification_desc;Nationalist sentiment continues to grow in the Danubian Principalities, especially following the Liberal Agitation across Europe in the 1830s and 1840s. The reigning Domnitor (Prince) of Moldavia, Grigore Alexandru Ghica, decided to back the unionist campaign. Following his suicide in 1857, The new Minister of War, Alexandru Ioan Cuza was nominated by the unionist Partida Nationala for the upcoming Divan elections. He and the Partida Nationala would campaign in both Principalties. The Powers of Europe were approached for support. Some were supportive of the Romanian cause. Others opposed it outright.;;;;Spanish Loc;;;x
 support_unification_title;Support Romanian Unification?;;;;Spanish Loc;;;x
@@ -749,21 +733,12 @@ BIH_anarcho_liberal;Bihari Radical Party;;;;Spanish Loc;;;x
 BIH_socialist;Janata Dal;;;;Spanish Loc;;;x
 BIH_communist;Bihari Communist Party;;;;Spanish Loc;;;x
 BIH_fascist;Bihari Fascist Party;;;;Spanish Loc;;;x
-MAH;Maharashtra;;;;Spanish Loc;;;x
-MAH_ADJ;Maharashtran;;;;Spanish Loc;;;x
-MAH_conservative;Royal Faction;;;;Spanish Loc;;;x
-MAH_liberal;The Liberal Faction;;;;Spanish Loc;;;x
-MAH_reactionary;The Nationalist Faction;;;;Spanish Loc;;;x
-MAH_anarcho_liberal;The Radical Faction;;;;Spanish Loc;;;x
-MAH_socialist;The Socialist Faction;;;;Spanish Loc;;;x
-MAH_communist;Communist Faction;;;;Spanish Loc;;;x
-MAH_fascist;The Fascist Faction;;;;Spanish Loc;;;x
 PER_democracy;Iran;;;;Spanish Loc;;;x
 PER_hms_government;Iran;;;;Spanish Loc;;;x
 PER_fascist_dictatorship;Iran;;;;Spanish Loc;;;x
 PER_democracy_ADJ;Iranian;;;;Spanish Loc;;;x
 PER_hms_government_ADJ;Iranian;;;;Spanish Loc;;;x
-PER_fascist_dictatorship;Iranian;;;;Spanish Loc;;;x
+PER_fascist_dictatorship_ADJ;Iranian;;;;Spanish Loc;;;x
 CSA_proletarian_dictatorship;The People's Confederacy;;;;Spanish Loc;;;x
 USA_democracy;The United States;;;;Spanish Loc;;;x
 CSA_democracy;The Confederate States;;;;Spanish Loc;;;x
@@ -785,21 +760,6 @@ SYR_reactionary;Haraka al-Ahd al-Watani;;;;Spanish Loc;;;x
 SYR_anarcho_liberal;Hizb al-Wataniyyin al-Ahrar;;;;Spanish Loc;;;x
 SYR_communist;Al-hizb ash-Shuyu'i as-Suri;;;;Spanish Loc;;;x
 SYR_fascist;Hizb al-Ba'ath;;;;Spanish Loc;;;x
-INO;Indonesia;;;;Spanish Loc;;;x
-INO_ADJ;Indonesian;;;;Spanish Loc;;;x
-INO_conservative;Partai konservatif;;;;Spanish Loc;;;x
-INO_liberal;Partai liberal;;;;Spanish Loc;;;x
-INO_reactionary;Pihak kerajaan;;;;Spanish Loc;;;x
-INO_anarcho_liberal;Garis partai;;;;Spanish Loc;;;x
-INO_socialist;Partai sosialis;;;;Spanish Loc;;;x
-INO_communist;Indonesia di partai komunis;;;;Spanish Loc;;;x
-INO_fascist;Depan bangsa Indonesia;;;;Spanish Loc;;;x
-KLM;Borneo;;;;Spanish Loc;;;x
-KLM_ADJ;Kalimantan;;;;Spanish Loc;;;x
-SAK;Siak;;;;Spanish Loc;;;x
-SAK_ADJ;Siak;;;;Spanish Loc;;;x
-SLW;Sulawesi;;;;Spanish Loc;;;x
-SLW_ADJ;Sulawesian;;;;Spanish Loc;;;x
 CHI_presidential_dictatorship;Beiyang China;;;;Spanish Loc;;;x
 CHI_proletarian_dictatorship;People's Republic of China;;;;Spanish Loc;;;x
 CHI_democracy;Republic of China;;;;Spanish Loc;;;x
