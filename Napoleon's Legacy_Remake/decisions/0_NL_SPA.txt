@@ -285,19 +285,15 @@ political_decisions = {
 		}
 		effect = {
 			prestige =10
-			POR = {
-				all_core = {
-					add_core = THIS
-					secede_province = THIS
-				}
-			}
-			SPA = {
-				all_core = {
-					add_core = THIS
-					secede_province = THIS
-				}
-			}
 			change_tag = IBR
+			POR = { 
+				any_owned = { 
+					limit = { is_core = BRZ } 
+				}
+				secede_province = BRZ 
+			}
+			inherit = POR
+			inherit = SPA 
 			all_core = {
 				add_province_modifier = {
 					name = cultural_unification

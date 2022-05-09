@@ -2260,11 +2260,10 @@ negotiated_transfer = {
 	good_relation_infamy_factor = 0
 	good_relation_militancy_factor = 0
 
-	construction_speed = 2.0
 
 	can_use = {
-		ai = no
 		THIS = { ai = no }
+		ai = no
 		number_of_states = 2 # annex if you want their last state
 		THIS = { civilized = yes }
 	}
