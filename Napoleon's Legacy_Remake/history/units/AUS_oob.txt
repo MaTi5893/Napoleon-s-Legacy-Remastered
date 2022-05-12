@@ -407,8 +407,8 @@ army = {
 }
 
 army = {
-	name = "I. Armee"
-	location = 705
+	name = "IV. Armee"
+	location = 2538
 	regiment = {
 		name= "14 Cavaleriedivision"
 		type = hussar

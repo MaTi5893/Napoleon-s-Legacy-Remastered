@@ -308,6 +308,12 @@ country_event = {
 				} 
 			set_country_flag = indc2_flag
 			}
+			any_country = { 
+				limit = { 
+					tag = AUS
+				} 
+				country_event = 600044
+			}
 		any_country = { 
 			limit = { 		
 				OR = { 

@@ -14,11 +14,11 @@ political_decisions = {
 			NOT = {
 				has_country_flag = dual_monarchy_done
 			}
+			has_country_flag = hungarian_crisis_solved
 		}
 	
 		allow = {
 			war = no
-			year = 1860
 			OR = {
 				NGF = { exists = yes }
 				GER = { exists = yes }
