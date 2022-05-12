@@ -222,7 +222,7 @@ army = {
 	name = "I. Armee"
 	location = 705
 	regiment = {
-		name= "11 Cavaleriedivision"
+		name= "1.1 Cavaleriedivision"
 		type = hussar
 		home = 622
 	}
@@ -259,21 +259,21 @@ army = {
 		home = 702
 	}
 
-	regiment = {
+	regiment = {	
 		name= "1.3. Artillerydivision"
 		type = artillery
-		home = 639
+		home = 714
 	}
 	
 	regiment = {
 		name= "1.4. Artillerydivision"
 		type = artillery
-		home = 641
+		home = 619
 	}
 	regiment = {
 		name= "1.5. Artillerydivision"
 		type = artillery
-		home = 61
+		home = 616
 	}
 }
 
@@ -289,7 +289,7 @@ army = {
 	regiment = {
 		name= "2.1. Infanteriedivision"
 		type = infantry
-		home = 640
+		home = 628
 	}
 
 	regiment = {
@@ -307,108 +307,108 @@ army = {
 	regiment = {
 		name= "2.4. Infanteriedivision"
 		type = infantry
-		home = 643
+		home = 624
 	}
 
 	regiment = {
 		name= "2.1. Artillerydivision"
 		type = artillery
-		home = 619
+		home = 625
 	}
 
-	regiment = {
+	regiment = {	
 		name= "2.2. Artillerydivision"
 		type = artillery
-		home = 648
+		home = 704
 	}
 
 	regiment = {
 		name= "2.3. Artillerydivision"
 		type = artillery
-		home = 714
+		home = 631
 	}
 	
 	regiment = {
 		name= "2.4. Artillerydivision"
 		type = artillery
-		home = 771
+		home = 629
 	}
 	
 	regiment = {
 		name= "2.5. Artillerydivision"
 		type = artillery
-		home = 629
+		home = 631
 	}
 
 }
 
 army = {
 	name = "III. Armee"
-	location = 714
+	location = 641
 	regiment = {
-		name= "3.1.Cavaleriedivision"
+		name= "3.1.Cavaleriedivision"	#HUN
 		type = hussar
-		home = 628
+		home = 640
 	}
 
 	regiment = {
-		name= "3.1. Infanteriedivision"
+		name= "3.1. Infanteriedivision"	#HUN
 		type = infantry
 		home = 642
 	}
 	
 	regiment = {
-		name= "3.2. Kavalleriedivision"
+		name= "3.2. Infanteriedivision"	#HUN
 		type = infantry
-		home = 631
+		home = 771
 	}
 
 	regiment = {
-		name= "3.3. Infanteriedivision"
+		name= "3.3. Infanteriedivision"	#HUN
 		type = infantry
-		home = 624
+		home = 643
 	}
 
 	regiment = {
-		name= "3.4. Infanteriedivision"
+		name= "3.4. Infanteriedivision"	#HUN
 		type = infantry
 		home = 649
 	}
 
 	regiment = {
-		name= "3.1. Artillerydivision"
+		name= "3.1. Artillerydivision"	#HUN
 		type = artillery
 		home = 633
 	}
 
 	regiment = {
-		name= "3.2. Artillerydivision"
+		name= "3.2. Artillerydivision"	#HUN
 		type = artillery
-		home = 625
+		home = 641
 	}
 	
 	regiment = {
-		name= "3.3. Artillerydivision"
+		name= "3.3. Artillerydivision"	#HUN
 		type = artillery
 		home = 637
 	}
 	
 	regiment = {
-		name= "3.4. Artillerydivision"
+		name= "3.4. Artillerydivision"	#HUN
 		type = artillery
 		home = 647
 	}
 	
 	regiment = {
-		name= "3.5. Artillerydivision"
+		name= "3.5. Artillerydivision"	#HUN
 		type = artillery
-		home = 704
+		home = 648
 	}
 }
 
 army = {
 	name = "IV. Armee"
-	location = 2538
+	location = 619
 	regiment = {
 		name= "14 Cavaleriedivision"
 		type = hussar
