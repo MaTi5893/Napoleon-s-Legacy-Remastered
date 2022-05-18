@@ -1,20 +1,11 @@
 country_event = {		
-	id = 600013
+	id = 600013	#han ai
 
 	is_triggered_only = yes
 
 	title = "EVTNAME600013"
 	desc = "EVTDESC600013"
 	picture = "napoleon_death"
-	option = {
-		name = "Princess Louise Bonaparte!"	
-		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
-		}
-        FRA = {set_country_flag = joseph}
-		BAV = {country_event = 600040}
-	}
 	option = {
 		name = "Louis Bonaparte of the Netherlands!"	
 		add_country_modifier = {
@@ -38,21 +29,6 @@ country_event = {
         create_vassal = BRA
 		BAV = {country_event = 600040}
 	}
-    option = {
-		name = "More heirs!"
-        FRA = {country_event = 600017}
-	}
-}
-country_event = {
-    id = 600017
-    is_triggered_only = yes
-
-	title = "EVTNAME600013"
-	desc = "EVTDESC600013"
-	picture = "napoleon_death"
-    mean_time_to_happen = {
-		days = 0
-	}
 	option = {
 		name = "It's time for a Republic!"	
 		add_country_modifier = {
@@ -82,15 +58,13 @@ country_event = {
         FRA = {set_country_flag = maximilien}
 		BAV = {country_event = 600041}
 	}
-    option = {
-		name = "The Previous ones"	
-		FRA = {country_event = 600013}
-		BAV = {country_event = 600040}
-	}
+	#option = { 
+	#	name = "Marie Louise, Empress of the French!"
+	#}
 }
 
 country_event = {		
-	id = 600018
+	id = 600018	# han player
 
 	is_triggered_only = yes
 
@@ -99,16 +73,7 @@ country_event = {
 	desc = "EVTDESC600013"
 	picture = "napoleon_death"
 	option = {
-		name = "Princess Louise Bonaparte!"	
-		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
-		}
-        FRA = {set_country_flag = joseph}
-		BAV = {country_event = 600040}
-	}
-	option = {
-		name = "Louis Bonaparte!"	
+		name = "Louis Bonaparte of the Netherlands!"	
 		add_country_modifier = {
 			name = napoleon_death
 			duration = 1459
@@ -142,128 +107,6 @@ country_event = {
 			name = napoleon_death
 			duration = 1459
 		}
-        FRA = {set_country_flag = maximilien}
-		BAV = {country_event = 600041}
-	}
-}
-
-country_event = {		
-	id = 600019
-
-	is_triggered_only = yes
-
-	title = "EVTNAME600013"
-	desc = "EVTDESC600013"
-	picture = "napoleon_death"
-	option = {
-		name = "Louis Bonaparte!"	
-		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
-		}
-        FRA = {set_country_flag = louis}
-		BAV = {country_event = 600040}
-	}
-	option = {
-		name = "King Jerome Bonaparte of Westphalia!"	
-		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
-		}
-        FRA = {set_country_flag = jerome}
-		create_vassal = HAN
-        create_vassal = FRM
-        create_vassal = NAS
-        create_vassal = HES
-        create_vassal = BRA
-		BAV = {country_event = 600040}
-	}
-	option = {
-		name = "It's time for a Republic!"	
-		add_country_modifier = {
-			name = french_republic
-			duration = -1
-		}
-		government = democracy
-		political_reform = wealth_voting
-        FRA = {set_country_flag = republic}
-		BAV = {country_event = 600040}
-	}
-	option = {
-		name = "Alexandre Walewski!"	
-		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
-		}
-        FRA = {set_country_flag = alexandre}
-		BAV = {country_event = 600040}
-	}
-	option = {
-		name = "The Prince Maximilien de Beauharnais!"	
-		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
-		}
-        FRA = {set_country_flag = maximilien}
-		BAV = {country_event = 600041}
-	}
-}
-
-country_event = {		
-	id = 600020
-
-	is_triggered_only = yes
-
-	title = "EVTNAME600013"
-	desc = "EVTDESC600013"
-	picture = "napoleon_death"
-	option = {
-		name = "Louis Bonaparte!"	
-		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
-		}
-        ai_chance = {
-			factor = 0.25
-        }
-        FRA = {set_country_flag = louis}
-		BAV = {country_event = 600040}
-	}
-	option = {
-		name = "It's time for a Republic!"	
-		add_country_modifier = {
-			name = french_republic
-			duration = -1
-		}
-		government = democracy
-		political_reform = wealth_voting
-        FRA = {set_country_flag = republic}
-		BAV = {country_event = 600040}
-		ai_chance = {
-			factor = 0.25
-        }
-	}
-	option = {
-		name = "Alexandre Walewski!"	
-		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
-		}
-        ai_chance = {
-			factor = 0.25
-        }
-        FRA = {set_country_flag = alexandre}
-		BAV = {country_event = 600040}
-	}
-	option = {
-		name = "The Prince Maximilien de Beauharnais!"	
-		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
-		}
-        ai_chance = {
-			factor = 0.25
-        }
         FRA = {set_country_flag = maximilien}
 		BAV = {country_event = 600041}
 	}
