@@ -24,7 +24,13 @@ country_event = {
 				NOT = {
 					tag = THIS
 				}
-				substate_of = CHI
+				OR = {
+					substate_of = CHI
+					AND = { 
+						tag = TIB 
+						vassal_of = CHI 
+					} 
+				}
 #				num_of_cities = 1
 			}
 			country_event = { id=90901 days=0 }

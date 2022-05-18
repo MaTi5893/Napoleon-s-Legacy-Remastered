@@ -2052,6 +2052,7 @@ country_event = {
 		NOT = { tag = YNN }
 		NOT = { tag = XBI }
 		NOT = { tag = MGL }
+		NOT = { tag = TIB }
 		}
 
 	option = {				
