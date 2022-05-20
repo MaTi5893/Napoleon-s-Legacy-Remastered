@@ -1,5 +1,5 @@
 capital = 1786
-primary_culture = volta # african_minor
+primary_culture = western_african # african_minor
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
