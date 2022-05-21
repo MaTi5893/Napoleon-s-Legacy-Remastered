@@ -6,7 +6,7 @@ country_event = {
     is_triggered_only = yes
 
 option = {
-    name = "Traitors !"
+    name = "Traitors"
         HUN = {
             all_core = {
                 limit = {
@@ -42,10 +42,10 @@ country_event = {
 	}
 
     option = {
-        name = "We won't allow that !"
-            HUN = {
+        name = "We won't allow that"
+	HUN = {
                 all_core = {
-					limit = { owned_by = THIS }
+	        limit = { owned_by = THIS }
                     secede_province= HUN
                     remove_province_modifier = hungarian_nationalism
                 }
@@ -58,7 +58,7 @@ country_event = {
             }
         }
     option = {
-        name = "A compromise is what we need !"
+        name = "A compromise is what we need"
             HUN = {
                 all_core = {
 					limit = { owned_by = THIS }
@@ -78,7 +78,7 @@ country_event = {
             }
 		}
     option = {
-        name = "We have other problem to deal with !"
+        name = "We have other problem to deal with"
 		    set_country_flag = hungarian_crisis_bye
             HUN = {
                 all_core = {
@@ -94,23 +94,19 @@ country_event = {
 
 country_event = {
 	id = 600046
-    title = "EVTNAME600046"
+   	title = "EVTNAME600046"
 	desc = "EVTDESC600046"
 
-    trigger = {
-		tag = AUS
+	trigger = {
 		has_country_flag = hungarian_crisis
-        HUN = {
-            all_core = {
-                OR = {
-                    owned_by = THIS
-                    is_core = THIS
-                }
-                OR = {
-                    NOT = {owned_by = THIS}
-                }
-            }
-        }
+		HUN = {
+			all_core = { 
+				OR = { 
+					owned_by = THIS    
+					region = AUS_771    
+            			}
+       			 }
+   		}
 	}
 
 	fire_only_once = yes
@@ -120,7 +116,7 @@ country_event = {
 	}
 
     option = {
-        name = "Finally an end to this conflict !"
+        name = "Finally an end to this conflict"
         set_country_flag = hungarian_crisis_solved
         }
     }

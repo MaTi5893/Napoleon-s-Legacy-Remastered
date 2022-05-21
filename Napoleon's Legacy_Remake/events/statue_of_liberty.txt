@@ -11,8 +11,9 @@ country_event = {
 		USA = {
 			country_event = { id=19300 days=0 }
 		}
-		ai_will_do = {
+		ai_chance = {
 			factor = 1
+			modifier = { factor = 0 USA = { exists = no }}
 		}
 	}
 
@@ -21,8 +22,9 @@ country_event = {
 		NAU = {
 			country_event = { id=19300 days=0 }
 		}
-		ai_will_do = {
+		ai_chance = {
 			factor = 1
+			modifier = { factor = 0 NAU = { exists = no } }
 		}
 	}
 	
@@ -31,12 +33,20 @@ country_event = {
 		CAN = {
 			country_event = { id=19300 days=0 }
 		}
+		ai_chance = {
+			factor = 1
+			modifier = { factor = 0 NAU = { exists = no } }
+		}
 	}
 	
 	option = {
 		name = "Mexico"
 		MEX = {
 			country_event = { id=19300 days=0 }
+		}
+		ai_chance = {
+			factor = 1
+			modifier = { factor = 0 NAU = { exists = no } }
 		}
 	}
 	
@@ -45,12 +55,20 @@ country_event = {
 		GCO = {
 			country_event = { id=19300 days=0 }
 		}
+		ai_chance = {
+			factor = 1
+			modifier = { factor = 0 NAU = { exists = no } }
+		}
 	}
 	
 	option = {
 		name = "Columbia"
 		CLM = {
 			country_event = { id=19300 days=0 }
+		}
+		ai_chance = {
+			factor = 1
+			modifier = { factor = 0 NAU = { exists = no } }
 		}
 	}
 	
@@ -59,12 +77,20 @@ country_event = {
 		BRZ = {
 			country_event = { id=19300 days=0 }
 		}
+		ai_chance = {
+			factor = 1
+			modifier = { factor = 0 NAU = { exists = no } }
+		}
 	}
 
 	option = { 
 		name = "Peru"
 		PEU = { 
 			country_event = { id=19300 days = 0 } 
+		}
+		ai_chance = {
+			factor = 1
+			modifier = { factor = 0 NAU = { exists = no } }
 		}
 	}	
 
@@ -73,12 +99,20 @@ country_event = {
 		ARG = {
 			country_event = { id=19300 days=0 }
 		}
+		ai_chance = {
+			factor = 1
+			modifier = { factor = 0 NAU = { exists = no } }
+		}
 	}
 
 	option = {
 		name = "La Plata"
 		LPL = {
 			country_event = { id=19300 days=0 }
+		}
+		ai_chance = {
+			factor = 1
+			modifier = { factor = 0 NAU = { exists = no } }
 		}
 	}
 
@@ -87,6 +121,10 @@ country_event = {
 		UPB = { 
 			country_event = { id=19300 days=0 } 
 		} 
+		ai_chance = {
+			factor = 1
+			modifier = { factor = 0 NAU = { exists = no } }
+		}
 	}
 	
 	option = {

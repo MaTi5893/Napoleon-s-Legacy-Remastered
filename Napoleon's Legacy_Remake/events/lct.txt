@@ -7,7 +7,8 @@ country_event = {
 	mean_time_to_happen = { days = 0 } 
 	title = "Setup Event"
 	desc = "Have fun GMing or whatever you're doing ~Rennes : D"
-	immediate = {
+	immediate = {	
+		PRU = { set_country_flag = anmeinvolk } #for an mein volk
 		AUS_641 = {
 				any_pop = {
 					limit = {

@@ -3,7 +3,6 @@ political_decisions = {
         picture = ABE_decision
         potential = {
             tag = BAV
-            KUK = {exists = no}
         }
         allow = {   
             war = no
@@ -31,7 +30,7 @@ political_decisions = {
                 add_core = ABE
             }
             add_accepted_culture = czech
-            #AUS = {annex_to = THIS}
+	random_country = { limit = { tag = THIS accepted_culture = north_italian } set_country_flag = no_germany }
             change_tag = ABE
         }
     }

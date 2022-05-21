@@ -2,7 +2,6 @@ political_decisions = {
     italian_expansion = {
         picture = north_italy_decision
         potential = {
-            tag = BAV
             has_country_flag = bav_french
             OR = {
                 ITA = {exists = no}
@@ -34,6 +33,7 @@ political_decisions = {
                 }
             }
             add_accepted_culture = north_italian
+	random_country = { limit = { tag = THIS accepted_culture = czech } set_country_flag = no_germany }
             prestige = 20
         }
     }
@@ -60,6 +60,7 @@ political_decisions = {
 			}
         }
         effect = {
+	set_country_flag = anmeinvolk 
             add_accepted_culture = north_german
             add_accepted_culture = rhenish
             prestige = 20
