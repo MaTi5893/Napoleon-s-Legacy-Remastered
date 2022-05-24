@@ -211,7 +211,7 @@ political_decisions = {
 			}
 			tag = FRA
 			accepted_culture = rhenish
-			NOT = {tech_school = prussian_tech_school}
+			NOT = {has_country_flag = french_ruhr}
 		}
 		allow = {
 			is_greater_power = yes
@@ -227,6 +227,7 @@ political_decisions = {
 			war = no
 		}
 		effect = {
+			set_country_flag = french_ruhr
 			tech_school = prussian_tech_school
 			RHI = {
 				all_core = {

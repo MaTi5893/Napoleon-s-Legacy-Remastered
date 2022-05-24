@@ -149,7 +149,8 @@ political_decisions = {
 			add_accepted_culture = british
 			add_accepted_culture = french
 			add_accepted_culture = Scotish
-            prestige = 50
+            prestige = 50	
+			clr_country_flag = adu
 		}
 	}
 }

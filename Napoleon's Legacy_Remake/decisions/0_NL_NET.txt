@@ -137,6 +137,7 @@ political_decisions = {
 		}
 		effect = {
 			change_tag = BRG
+			clr_country_flag = adu
 			PRU_575 = { add_core = THIS } 
 			PRU_572 = { add_core = THIS }
 			FRA_412 = { add_core = THIS }
