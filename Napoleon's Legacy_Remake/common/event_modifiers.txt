@@ -1146,7 +1146,7 @@ political_bonus_military = {
 
 political_bonus_navy = {
 	army_tech_research_bonus = -0.025
-	navy_tech_research_bonus = 0.5
+	navy_tech_research_bonus = 0.025
 	naval_organisation = 0.05
 	tariff_efficiency_modifier = 0.05
 	tax_efficiency = -0.075
