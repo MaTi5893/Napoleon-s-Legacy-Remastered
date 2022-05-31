@@ -8,19 +8,13 @@ country_event = {
 	picture = "napoleon_death"
 	option = {
 		name = "Louis Bonaparte of the Netherlands!"	
-		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
-		}
+
 		BAV = {country_event = 600040}
         FRA = {set_country_flag = louis}
 	}
 	option = {
 		name = "King Jerome Bonaparte of Westphalia!"	
-		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
-		}
+
         FRA = {set_country_flag = jerome}
 		create_vassal = HAN
         create_vassal = FRM
@@ -42,19 +36,13 @@ country_event = {
 	}
 	option = {
 		name = "Alexandre Walewski!"	
-		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
-		}
+
         FRA = {set_country_flag = alexandre}
 		BAV = {country_event = 600040}
 	}
 	option = {
 		name = "The Prince Maximilien de Beauharnais!"	
-		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
-		}
+
         FRA = {set_country_flag = maximilien}
 		BAV = {country_event = 600041}
 	}
@@ -74,10 +62,7 @@ country_event = {
 	picture = "napoleon_death"
 	option = {
 		name = "Louis Bonaparte of the Netherlands!"	
-		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
-		}
+
         FRA = {set_country_flag = louis}
 		BAV = {country_event = 600040}
 	}
@@ -94,19 +79,13 @@ country_event = {
 	}
 	option = {
 		name = "Alexandre Walewski!"	
-		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
-		}
+
         FRA = {set_country_flag = alexandre}
 		BAV = {country_event = 600040}
 	}
 	option = {
 		name = "The Prince Maximilien de Beauharnais!"	
-		add_country_modifier = {
-			name = napoleon_death
-			duration = 1459
-		}
+
         FRA = {set_country_flag = maximilien}
 		BAV = {country_event = 600041}
 	}

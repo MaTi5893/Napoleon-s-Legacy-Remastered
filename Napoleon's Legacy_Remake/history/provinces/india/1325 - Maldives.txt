@@ -1,6 +1,5 @@
-owner = EIC
-controller = EIC
-add_core = EIC
+owner = GBR
+controller = GBR
 trade_goods = fish
 life_rating = 35
 naval_base = 1

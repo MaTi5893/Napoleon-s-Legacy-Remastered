@@ -19,7 +19,7 @@ political_decisions = {
 					tag = TUR 
 					social_reform = no_schools 
 				} 
-			social_reform = low_schools
+			school_reforms = low_schools
 			}
 			add_country_modifier = {
 				name = tanzimat_era

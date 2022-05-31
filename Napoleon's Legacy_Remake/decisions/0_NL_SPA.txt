@@ -299,7 +299,8 @@ political_decisions = {
 					name = cultural_unification
 					duration = 3650
 				}
-			}
+			}	
+			clr_country_flag = LatinAmerica #im not sure if this is necessary but whatever
 			add_accepted_culture = spanish
 			add_accepted_culture = catalan
 			add_accepted_culture = basque

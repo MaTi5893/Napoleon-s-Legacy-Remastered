@@ -137,6 +137,7 @@ political_decisions = {
 			primary_culture = north_german
 			NOT = { 	
 				tag = GCF 
+				tag = BLE
 			}
 			NOT = {
 				exists = GER
