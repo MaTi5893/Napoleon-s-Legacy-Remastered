@@ -36,7 +36,7 @@ political_decisions = {
 		picture = mughal_decision
 		potential = {
 			tag = MUG
-			NOT = { has_country_flag = recovered_the_empire }
+			NOT = { accepted_culture = rajput }
 		}
 		allow = {
 			all_core = { owned_by = THIS }
@@ -136,6 +136,7 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = marathi
+			add_accepted_culture = telegu
 		}
 	}
 }

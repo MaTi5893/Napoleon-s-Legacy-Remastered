@@ -6,7 +6,7 @@ political_decisions = {
 			NOT = { accepted_culture = south_italian }
 			NOT = { has_country_flag = domination_of_western_mediterranean_see }
 			NOT = {accepted_culture = caribeno}
-			NOT = {accepted_culture = occitan}
+			
 		}
 		allow = {
 			war=no
@@ -120,113 +120,6 @@ political_decisions = {
 			}
 		}
 	}
-	glory_to_the_spanish_empire_italy = {
-		picture = north_italy_decision
-		potential = {
-			tag = SPA
-			NOT = {accepted_culture = caribeno}
-			accepted_culture = south_italian
-		}
-		allow = {
-			is_greater_power = yes
-			revolution_n_counterrevolution=1
-			war=no
-			TUS_744 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							vassal_of = THIS
-							in_sphere = THIS
-						}
-					}
-				}
-			}
-			PAP_741 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							vassal_of = THIS
-							in_sphere = THIS
-						}
-					}
-				}
-			}
-			AUS_726 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							vassal_of = THIS
-							in_sphere = THIS
-						}
-					}
-				}
-			}
-			AUS_729 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							vassal_of = THIS
-							in_sphere = THIS
-						}
-					}
-				}
-			}
-			ENG_854 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							vassal_of = THIS
-							in_sphere = THIS
-						}
-					}
-				}
-			}
-		}			 
-		effect = {
-			add_accepted_culture=north_italian
-			add_accepted_culture=maltese
-			prestige = 20
-			TUS_744 = {
-				add_core = THIS
-				secede_province = THIS
-			}
-			PAP_741 = {
-				add_core = THIS
-				secede_province = THIS
-			}
-			AUS_726 = {
-				add_core = THIS
-				secede_province = THIS
-			}
-			AUS_729 = {
-				add_core = THIS
-				secede_province = THIS
-			}
-			ENG_854 = {
-				add_core = THIS
-				secede_province = THIS
-			}
-			any_pop = {
-				limit = {
-					OR = {
-						culture = north_italian
-						culture = catalan
-						culture = basque
-						culture = spanish
-						culture = south_italian
-						culture = maltese
-					}
-				}
-				militancy = -1
-               	consciousness = -1
-			}
-		}
-	}
 	ask_france_catalonia = {
 		picture = catalonia_decision
 		potential = {
@@ -254,7 +147,7 @@ political_decisions = {
 			}
 			NOT = { has_country_flag = domination_of_western_mediterranean_see }
 			NOT = { accepted_culture = south_italian }
-			NOT = {accepted_culture = occitan}
+			
 		}
 		allow = {
 			war=no
@@ -314,7 +207,7 @@ political_decisions = {
 			NOT = { accepted_culture = caribeno }
 			NOT = { accepted_culture = south_italian }
 			NOT = { has_country_flag = domination_of_western_mediterranean_see }
-			NOT = {accepted_culture = occitan}
+			
 		}
 		allow = {
 			CUB = {
@@ -438,80 +331,11 @@ political_decisions = {
 		}
 	}
 
-	union_with_france = {
-		picture = france_decision
-		potential = {
-			accepted_culture = occitan
-			tag = SPA
-			NOT = {accepted_culture = french}
-		}
-		allow = {
-			FRA = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							OR = {
-								vassal_of = THIS
-								in_sphere = THIS
-							}
-						}
-					}
-				}
-			}
-			all_core = {
-				owned_by = THIS
-			}
-			is_greater_power = yes
-			war = no
-			revolution_n_counterrevolution = 1
-		}
-		effect = {
-			add_accepted_culture = french
-			FRA = {
-				all_core = {
-					add_core = THIS
-					secede_province = THIS
-				}
-				annex_to = THIS
-			}
-			prestige = 30
-		}
-	}
-
-	accept_french_minorities = {
-		potential = {
-			accepted_culture = french
-			tag = SPA
-			NOT = {accepted_culture = picard}
-		}
-		allow = {
-			all_core = {
-				owned_by = THIS
-			}
-			FRA_399 = { owned_by = THIS} 
-			FRA_420 = { owned_by = THIS}
-			war = no
-			is_greater_power = yes
-			mass_politics = 1
-		}
-		effect = {
-			FRA_399 = { add_core = THIS} 
-			FRA_420 = { add_core = THIS}
-			add_accepted_culture = picard
-			add_accepted_culture = breton
-		}
-	}
 
 	french_heritage = {
 		picture = rule_land_decision
 		potential = {
-			OR = {
-				accepted_culture = french
-				primary_culture = french
-			}
-			NOT = { tech_school = spanish_tech_school }
-			NOT = { tech_school = british_tech_school }
+			tag = FRA
 			NOT = { tech_school = french_tech_school }
 		}
 		allow = {

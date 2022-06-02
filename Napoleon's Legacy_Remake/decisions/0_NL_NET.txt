@@ -160,7 +160,6 @@ political_decisions = {
 					}
 					has_country_flag = expand_netherlands2
 				}
-				tag = DUA
 			}
 			NOT = {accepted_culture = picard}
 		}

@@ -49,7 +49,6 @@ political_decisions = {
 		potential = {
             tag = ZAC
             NOT = {accepted_culture = estonian}
-			NOT = {accepted_culture = hungarian}
 		}
 		allow = {
 			war = no
@@ -80,46 +79,6 @@ political_decisions = {
 			add_core = 357
 			add_core = 358
 			add_core = 359
-			prestige = 10
-		}
-	}
-    hungarian_subjugation = {
-		picture = hungary_decision
-		potential = {
-            tag = ZAC
-            NOT = {accepted_culture = estonian}
-			NOT = {accepted_culture = hungarian}
-		}
-		allow = {
-			war = no
-			revolution_n_counterrevolution=1
-			owns = 623
-			owns = 639
-			owns = 640
-			owns = 642
-			owns = 643
-			owns = 644
-			owns = 641
-			owns = 645
-			owns = 646
-			owns = 648
-			owns = 649
-			owns = 650
-		}
-		effect = {
-			add_accepted_culture = hungarian
-			add_core = 623
-			add_core = 639
-			add_core = 640
-			add_core = 642
-			add_core = 643
-			add_core = 644
-			add_core = 641
-			add_core = 645
-			add_core = 646
-			add_core = 648
-			add_core = 649
-			add_core = 650
 			prestige = 10
 		}
 	}

@@ -137,7 +137,6 @@ political_decisions = {
 			primary_culture = north_german
 			NOT = { 	
 				tag = GCF 
-				tag = BLE
 			}
 			NOT = {
 				exists = GER
@@ -232,8 +231,6 @@ political_decisions = {
 						is_greater_power = yes
 						tag = AUS
 						tag = KUK
-						tag = BLE
-						tag = NWE
 					}
 					is_culture_group = THIS
 					in_sphere = THIS
@@ -311,7 +308,7 @@ political_decisions = {
 				exists = ITA
 			}
 			NOT = {accepted_culture = greek}
-			NOT = {accepted_culture = occitan}
+			
 		}
 		
 		allow = {
@@ -362,8 +359,6 @@ political_decisions = {
 			NOT = {
 				exists = SCA
 			}
-			NOT = {tag=BLE}
-			NOT = {tag=NWE}
 		}
 		
 		allow = {
