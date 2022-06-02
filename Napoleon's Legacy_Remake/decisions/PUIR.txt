@@ -1199,38 +1199,6 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	begin_opium_war = {
-		potential = {
-			tag = ENG
-			CHI = { owns = 1496 }
-			NOT = { owns = 1496 }
-			CHI = { has_country_flag = lin_is_commissioner }
-			NOT = { has_country_flag = first_opium_war }
-		}
-		allow = {
-			total_amount_of_ships = 50
-			war = no	
-		}
-
-		effect = {
-			set_country_flag = first_opium_war
-			war = {
-				target = CHI
-				attacker_goal = {
-					casus_belli = demand_concession_casus_belli
-			                state_province_id = 1496
-				}
-			}
-			CHI = {
-				1496 = { 
-					remove_core = CHI 
-				}
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
 	intervene_in_lagos = {
 		picture = map_africa
 		potential = {

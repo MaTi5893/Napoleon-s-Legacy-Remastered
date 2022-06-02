@@ -134,12 +134,7 @@ political_decisions = {
 			}
 			inherit = POR
 			inherit = SPA 
-			all_core = {
-				add_province_modifier = {
-					name = cultural_unification
-					duration = 3650
-				}
-			}	
+	
 			clr_country_flag = LatinAmerica #im not sure if this is necessary but whatever
 			add_accepted_culture = spanish
 			add_accepted_culture = catalan
@@ -211,12 +206,7 @@ political_decisions = {
 			SPA_1455 = { add_core = THIS }
 			SPA_1459 = { add_core = THIS }
 			add_accepted_culture = filipino
-			all_core = {
-				add_province_modifier = {
-					name = cultural_unification
-					duration = 3650
-				}
-			}
+
 		}
 	}
 	expand_citizenship2_ibr = {

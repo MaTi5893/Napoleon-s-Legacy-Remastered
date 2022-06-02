@@ -28,7 +28,7 @@ country_event = {
 		name = "Education for the Poles!"	
 		add_country_modifier = {
 			name = poniatowski_reforms
-			duration = 5109
+			duration = 1825
 		}
 	}
 }

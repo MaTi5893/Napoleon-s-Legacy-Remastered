@@ -15,12 +15,7 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = cymry
             add_accepted_culture = welsh
-			all_core = {
-				add_province_modifier = {
-					name = cultural_unification
-					duration = 730
-				}
-			}
+
 			prestige = 20
 		}
 	}

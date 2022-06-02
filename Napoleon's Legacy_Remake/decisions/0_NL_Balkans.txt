@@ -68,12 +68,7 @@ political_decisions = {
             war = no
         }
         effect = {
-            all_core = {
-                add_province_modifier = {
-					name = cultural_unification
-					duration = 7300
-				}
-            }
+
             set_country_flag = romania_united
         }
     }
@@ -92,12 +87,7 @@ political_decisions = {
             war = no
         }
         effect = {
-            all_core = {
-                add_province_modifier = {
-					name = cultural_unification
-					duration = 7300
-				}
-            }
+
             set_country_flag = yugo_united
         }
     }

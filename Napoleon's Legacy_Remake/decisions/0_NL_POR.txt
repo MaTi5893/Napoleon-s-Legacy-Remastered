@@ -179,12 +179,7 @@ political_decisions = {
 			add_accepted_culture = brazilian
 			add_accepted_culture = afro_brazilian
             add_accepted_culture = portuguese
-			all_core = {
-                add_province_modifier = {
-                    name = cultural_unification
-                    duration = 3650
-                }
-            }
+
 			change_tag = UPB
 			any_pop = {
 				limit = { is_primary_culture = yes }
