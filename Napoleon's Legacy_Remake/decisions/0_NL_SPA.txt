@@ -67,59 +67,6 @@ political_decisions = {
 			}
 		}
 	} 
-	glory_to_the_spanish_empire_dutch = {
-		picture = decision_net_HRE
-		potential = {
-			tag = SPA
-			NOT = {accepted_culture = caribeno}
-			accepted_culture = south_italian 
-		}
-		allow = {
-			is_greater_power = yes
-			revolution_n_counterrevolution=1
-			war=no
-			NET = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							OR = {
-								in_sphere = THIS
-								vassal_of = THIS
-							}
-						}
-					}
-				}
-			}
-		}			 
-		effect = {
-			add_accepted_culture=dutch
-			prestige = 20
-			any_country = {
-				limit = {
-					primary_culture = dutch 
-					OR = {
-						in_sphere = THIS
-						vassal_of = THIS
-					}
-				}
-				annex_to = THIS
-			}
-			any_pop = {
-				limit = {
-					OR = {
-						culture = south_italian
-						culture = catalan
-						culture = basque
-						culture = spanish
-						culture = dutch
-					}
-				}
-				militancy = -1
-               	consciousness = -1
-			}
-		}
-	}
 	ask_france_catalonia = {
 		picture = catalonia_decision
 		potential = {
