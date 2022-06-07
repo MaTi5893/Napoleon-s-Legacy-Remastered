@@ -1125,7 +1125,6 @@ core_when_done = {
 }
 
 french_republic = {
-	mobilisation_size = 0.01
 	global_assimilation_rate = 0.1
 	education_efficiency_modifier = 0.1
 	culture_tech_research_bonus = 0.05
@@ -1183,7 +1182,6 @@ political_bonus_immigration = {
 
 emperor_council = {
 	land_organisation = 0.05
-	mobilisation_size = 0.01
 	global_pop_militancy_modifier = -0.01
 	global_pop_consciousness_modifier = -0.01
 	global_assimilation_rate = 0.05
@@ -1194,7 +1192,6 @@ emperor_council = {
 
 emperor_council_disbanded = {
 	land_organisation = -0.05
-	mobilisation_size = -0.02
 	global_pop_militancy_modifier = 0.01
 	global_pop_consciousness_modifier = 0.02
 	global_assimilation_rate = -0.05
@@ -1208,10 +1205,8 @@ emperor_council_disbanded = {
 
 emperor_council_refused = {
 	land_organisation = -0.1
-	mobilisation_size = -0.03
 	global_pop_militancy_modifier = 0.03
 	global_pop_consciousness_modifier = 0.03
-	global_population_growth = -0.001
 	global_assimilation_rate = -0.1
 	tax_efficiency = -0.1
 	global_liberal_agitation = 0.04
@@ -1231,7 +1226,6 @@ alexandre_reforms_1 = {
 
 alexandre_reforms_2 = {
 	global_assimilation_rate = 0.1
-	global_population_growth = 0.002
 	culture_tech_research_bonus = 0.05
 }
 
@@ -1250,7 +1244,6 @@ paris_lost = {
 }
 
 brazil_united = {
-	mobilisation_size = 0.01
 	global_immigrant_attract = 0.3
 	education_efficiency_modifier = 0.1
 	global_assimilation_rate = 0.2
@@ -1274,7 +1267,6 @@ mughals_united = {
 }
 
 nau_united =  {
-	mobilisation_size = 0.01
 	immigrant_attract = 0.2
 	global_assimilation_rate = 0.3
 	global_pop_militancy_modifier = -0.02

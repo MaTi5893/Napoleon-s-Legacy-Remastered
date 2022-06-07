@@ -20,7 +20,6 @@ political_decisions = {
 			}
         }
         effect = {
-	set_country_flag = anmeinvolk 
             add_accepted_culture = north_german
             add_accepted_culture = rhenish
             prestige = 20

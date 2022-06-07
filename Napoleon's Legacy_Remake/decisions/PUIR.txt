@@ -161,29 +161,6 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	the_dominion_lands_act = {
-		potential = {
-			tag = CAN
-			NOT = {
-				has_country_modifier = dominion_lands_act
-			}
-		}
-		
-		allow = {
-			prestige = 20
-			year = 1872
-		}
-		
-		effect = {
-			add_country_modifier = {
-				name = dominion_lands_act
-				duration = -1
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
 	establish_beiyang_fleet = {
 			potential = {
 				tag = CHI

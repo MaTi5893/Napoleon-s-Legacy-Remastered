@@ -24,7 +24,7 @@ political_decisions = {
 			2401 = { add_core = THIS }
 			474 = { add_core = THIS }
 			476 = { add_core = THIS }
-			badboy = 15
+			badboy = 7
 			set_country_flag = regno_uni
 		}
 	}

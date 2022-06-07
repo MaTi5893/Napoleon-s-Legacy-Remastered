@@ -1,58 +1,8 @@
 political_decisions = {
-	united_netherlands = {
-		picture = netherlands_decision
-		potential = {
-			tag = NET
-			NOT = { has_country_flag = united_netherlands }
-		}
-		allow = {
-			all_core = {
-				owned_by = THIS
-			}
-			war = no
-			ideological_thought = 1
-		}
-		effect = {
-
-			set_country_flag = united_netherlands
-		}
-	}
-
-	dutch_tech = {
-		picture = decision_dutch_tech
-		potential = {
-			OR = {
-				accepted_culture = dutch
-				primary_culture = dutch
-			}
-			NOT = {tech_school = dutch_tech_school}
-			NOT = { tech_school = spanish_tech_school }
-			NOT = { tech_school = british_tech_school }
-			NOT = { tech_school = french_tech_school }
-		}
-		allow = {
-			war = no
-			NET = {
-				all_core = {
-					owned_by = THIS
-				}
-			}
-			buisness_regulations = 1
-			scientific_management = 1
-			raider_column_doctrine = 1
-			iron_steamers = 1
-		}
-		effect = {
-			tech_school = dutch_tech_school
-			prestige = 10
-		}
-	}
-
 	expand_netherlands1 = {
 		picture = bel_net_decision
 		potential = {
 			tag = NET
-			has_country_flag = united_netherlands
 			NOT = {has_country_flag = expand_netherlands1}
 		}
 		allow = {
@@ -104,68 +54,6 @@ political_decisions = {
 			}
 
 			set_country_flag = expand_netherlands2
-		}
-	}
-
-	form_burgundy =  { 
-		picture = burgundy_decision
-		potential = { 
-			tag = NET 
-			has_country_flag = expand_netherlands2
-		}
-		allow = { 
-			all_core = {
-				owned_by = THIS
-			}
-			PRU_575 = { owned_by = THIS } 
-			PRU_572 = { owned_by = THIS } 
-			FRA_412 = { owned_by = THIS } 
-			FRA_411 = { owned_by = THIS } 
-			FRA_428 = { owned_by = THIS } 
-			FRA_432 = { owned_by = THIS } 
-			revolution_n_counterrevolution = 1 
-		}
-		effect = {
-			change_tag = BRG
-			clr_country_flag = adu
-			PRU_575 = { add_core = THIS } 
-			PRU_572 = { add_core = THIS }
-			FRA_412 = { add_core = THIS }
-			FRA_411 = { add_core = THIS }
-			FRA_428 = { add_core = THIS }
-			FRA_432 = { add_core = THIS } 
-			add_accepted_culture = french
-			add_accepted_culture = rhenish
-		}
-	}
-
-	expand_north = {
-		picture = picard_decision
-		potential = {
-			OR = {
-				AND = {
-					OR = {
-						tag = BRG
-						tag = NET
-					}
-					has_country_flag = expand_netherlands2
-				}
-			}
-			NOT = {accepted_culture = picard}
-		}
-		allow = {
-			war = no
-			all_core = {
-				owned_by = THIS
-			}
-			FRA_399	= {owned_by = THIS}
-			FRA_402	= {owned_by = THIS}
-			revolution_n_counterrevolution = 1
-		}
-		effect = {
-			FRA_399	= {add_core = THIS}
-			FRA_402	= {add_core = THIS}
-			add_accepted_culture = picard
 		}
 	}
 }

@@ -2,61 +2,61 @@
 #Lille (620000/155000 POPS)
 399 = {
 	aristocrats = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 1400
 	}
 
 	officers = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 750
 	}
 
 	bureaucrats = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 1750
 	}
 
 	clergymen = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 2000
 	}
 
 	artisans = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 6900
 	}
 
 	clerks = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 	craftsmen = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 2000
 	}
 	
 	soldiers = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 10100
 	}
 
 	labourers = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 120000
 	}
@@ -64,37 +64,37 @@
 #Dunkirk (396000/99000 POPS)
 400 = {
 	aristocrats = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 800
 	}
 
 	clergymen = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 1050
 	}
 
 	artisans = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 5000
 	}
 
 	craftsmen = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 1700
 	}
 	
 	soldiers = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 5100
 	}
 
 	farmers = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 75350
 	}
@@ -126,31 +126,31 @@
 #Arras (428000/107000 POPS)
 401 = {
 	aristocrats = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 850
 	}
 
 	clergymen = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 1125
 	}
 
 	artisans = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 5750
 	}
 
 	soldiers = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 4150
 	}
 
 	farmers = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 95125
 	}
@@ -158,37 +158,37 @@
 #Amiens (552000/138000 POPS)
 402 = {
 	aristocrats = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 1250
 	}
 
 	clergymen = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 1375
 	}
 
 	artisans = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 8500
 	}
 
 	farmers = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 115875
 	}
@@ -196,31 +196,31 @@
 #Beauvais (392000/98000 POPS)
 2570 = {
 	aristocrats = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 1100
 	}
 
 	artisans = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 90250
 	}
@@ -230,55 +230,55 @@
 #Laon (528000/132000 POPS)
 403 = {
 	aristocrats = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 1050
 	}
 
 	officers = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 1325
 	}
 
 	artisans = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 5400
 	}
 
 	clerks = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 	craftsmen = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 9000
 	}
 	
 	soldiers = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 1500
 	}
 
 	farmers = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 112525
 	}
@@ -286,43 +286,43 @@
 #Cambrai (280000/70000 POPS)
 404 = {
 	aristocrats = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 600
 	}
 
 	clergymen = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 700
 	}
 
 	artisans = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 2500
 	}
 
 	clerks = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 	craftsmen = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = picard
+		culture = french
 		religion = catholic
 		size = 60100
 	}
@@ -1232,55 +1232,55 @@
 #Brest (552000/138000 POPS)
 420 = {
 	aristocrats = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 1350
 	}
 
 	officers = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 800
 	}
 
 	bureaucrats = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 1550
 	}
 
 	clergymen = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 1350
 	}
 
 	artisans = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 10000
 	}
 
 	clerks = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 1000
 	}
 
 	craftsmen = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 3000
 	}
 	
 	soldiers = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 8000
 	}
 
 	farmers = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 109600
 	}
@@ -1288,43 +1288,43 @@
 #St Brieuc (604000/151000 POPS)
 421 = {
 	aristocrats = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 1200
 	}
 
 	clergymen = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 1500
 	}
 
 	artisans = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 7500
 	}
 
 	clerks = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 	craftsmen = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 6000
 	}
 	
 	soldiers = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 14500
 	}
 
 	farmers = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 120200
 	}
@@ -1332,43 +1332,43 @@
 #Vannes (436000/109000 POPS)
 422 = {
 	aristocrats = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 1100
 	}
 
 	artisans = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 5400
 	}
 
 	clerks = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 	craftsmen = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 3000
 	}
 	
 	soldiers = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 10100
 	}
 
 	farmers = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 90400
 	}
@@ -1376,49 +1376,49 @@
 #tes (476000/119000 POPS)
 423 = {
 	aristocrats = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 1200
 	}
 
 	artisans = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 3900
 	}
 
 	clerks = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 	craftsmen = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 8000
 	}
 	
 	soldiers = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 7250
 	}
 
 	labourers = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 88450
 	}
@@ -1426,43 +1426,43 @@
 #Rennes (548000/137000 POPS)
 424 = {
 	aristocrats = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 1400
 	}
 
 	clergymen = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 1350
 	}
 
 	artisans = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 6000
 	}
 
 	clerks = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 100
 	}
 
 	craftsmen = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 3000
 	}
 	
 	soldiers = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 13000
 	}
 
 	farmers = {
-		culture = breton
+		culture = french
 		religion = catholic
 		size = 111750
 	}

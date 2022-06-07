@@ -44,10 +44,6 @@ political_decisions = {
 		}
 		effect = {
 			prestige = 20
-			add_country_modifier = {
-				name = mughals_united
-				duration = 3650
-			}
 			set_country_flag = recovered_the_empire
 			add_accepted_culture = telegu
 			add_accepted_culture = rajput

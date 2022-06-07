@@ -11,7 +11,6 @@ political_decisions = {
 			}
 			invention = expansionism
 			is_greater_power = yes
-			ADU = { OR = { is_greater_power = no primary_culture = dutch } }
 			ENG = { is_greater_power = no }
 			NOT = { any_greater_power = { OR = { primary_culture = north_german primary_culture = south_german primary_culture = rhenish } } }
 		}
@@ -134,12 +133,11 @@ political_decisions = {
 		}
 		effect = {
 			set_country_flag = french_ruhr
-			tech_school = prussian_tech_school
 			RHI = {
 				all_core = {
 					add_province_modifier = {
 						name = ruhr_boom
-						duration = 7300
+						duration = 730
 					}
 				}
 			}
@@ -197,12 +195,6 @@ political_decisions = {
 			tag = FRA
 			ITA = {exists = no}
 			NIT = {exists = no}
-			NOR = {
-				any_country = {
-					primary_culture = north_italian
-					ai = no
-				}
-			}
 			NOT = {has_country_flag = unite_north_italy_gp}
 		}
 		allow = {
@@ -245,6 +237,14 @@ political_decisions = {
 			}
             create_vassal = LOM
             create_alliance = LOM
+			any_country = { 
+				limit = { 
+					tag = LOM 
+					ai = no 
+					THIS = { NOT = { has_country_flag = maximilien } } #THIS scopes to france. if france isnt going the maximilien path and lombardy is a player then it'll start out as an independent nation
+				}
+				THIS = { release_vassal = LOM }
+			}
             diplomatic_influence = {
                 who = LOM
                 value = 300

@@ -164,36 +164,4 @@ political_decisions = {
 		}
 	}
 
-	britannia_rule = {
-		picture = rule_wave_decision
-		potential = {
-			OR = { 
-				tag = ENG
-				tag = DUA
-			}
-			NOT = { tech_school = french_tech_school }
-			NOT = { tech_school = british_tech_school }
-			NOT = { tech_school = dutch_tech_school }
-		}
-		allow = {
-			war = no
-			raider_group_doctrine = 1
-			iron_steamers = 1
-			machine_tools = 1
-			cheap_steel = 1
-			weapon_platforms = 1
-			mechanical_production = 1
-			all_core = {
-				owned_by = THIS
-			}
-			accepted_culture = irish
-			accepted_culture = welsh
-			accepted_culture = cymry
-			is_greater_power=yes
-		}
-		effect = {
-			tech_school = british_tech_school
-			prestige = 20
-		}
-	}
 }

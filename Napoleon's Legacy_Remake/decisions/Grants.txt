@@ -21,8 +21,8 @@ political_decisions = {
 
 	will_give = {
 		alert = no
-		civilized = yes
 		potential = {
+			civilized = yes
 			ai = no
 			NOT = { has_country_flag = will_give_grants }
 			}

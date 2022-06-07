@@ -9,7 +9,7 @@ country_event = {
 	option = {
 		name = "Louis Bonaparte of the Netherlands!"	
 
-		BAV = {country_event = 600040}
+		
         FRA = {set_country_flag = louis}
 	}
 	option = {
@@ -21,7 +21,7 @@ country_event = {
         create_vassal = NAS
         create_vassal = HES
         create_vassal = BRA
-		BAV = {country_event = 600040}
+		
 	}
 	option = {
 		name = "It's time for a Republic!"	
@@ -32,19 +32,19 @@ country_event = {
 		government = democracy
 		political_reform = wealth_voting
         FRA = {set_country_flag = republic}
-		BAV = {country_event = 600040}
+		
 	}
 	option = {
 		name = "Alexandre Walewski!"	
 
         FRA = {set_country_flag = alexandre}
-		BAV = {country_event = 600040}
+		
 	}
 	option = {
 		name = "The Prince Maximilien de Beauharnais!"	
 
         FRA = {set_country_flag = maximilien}
-		BAV = {country_event = 600041}
+		
 	}
 	#option = { 
 	#	name = "Marie Louise, Empress of the French!"
@@ -64,7 +64,7 @@ country_event = {
 		name = "Louis Bonaparte of the Netherlands!"	
 
         FRA = {set_country_flag = louis}
-		BAV = {country_event = 600040}
+		
 	}
 	option = {
 		name = "It's time for a Republic!"	
@@ -75,90 +75,18 @@ country_event = {
 		government = democracy
 		political_reform = wealth_voting
         FRA = {set_country_flag = republic}
-		BAV = {country_event = 600040}
+		
 	}
 	option = {
 		name = "Alexandre Walewski!"	
 
         FRA = {set_country_flag = alexandre}
-		BAV = {country_event = 600040}
+		
 	}
 	option = {
 		name = "The Prince Maximilien de Beauharnais!"	
 
         FRA = {set_country_flag = maximilien}
-		BAV = {country_event = 600041}
-	}
-}
-
-country_event = {
-	id = 600015
-	trigger = {
-		tag = FRA
-		NOT = {year = 1850}
-		SPA = {
-			all_core = {
-                owned_by = THIS
-            }
-        }
-	}
-
-	fire_only_once = yes
-
-	mean_time_to_happen = {
-		days = 0
-	}
-
-    title = "EVTNAME600015"
-	desc = "EVTDESC600015"
-
-    option = {
-        name = "A spanish revolt... again..."
-        any_pop = {
-			limit = {
-				culture=spanish
-			}
-			militancy=2
-			consciousness=2
-		}
-        ai_chance = {
-			factor = 1
-    	}
-	}
-}
-
-country_event = {
-	id = 600016
-	trigger = {
-		tag = FRA
-		NOT = {year = 1850}
-		HAN = {
-			all_core = {
-                owned_by = THIS
-            }
-        }
-	}
-
-	fire_only_once = yes
-
-	mean_time_to_happen = {
-		days = 1
-	}
-
-    title = "EVTNAME600016"
-	desc = "EVTDESC600016"
-
-    option = {
-        name = "A german revolt... again..."
-        any_pop = {
-			limit = {
-				culture=north_german
-			}
-			militancy=2
-			consciousness=2
-		}
-        ai_chance = {
-			factor = 1
-    	}
+		
 	}
 }

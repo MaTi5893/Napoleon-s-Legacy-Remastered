@@ -1,2 +1,0 @@
-political_decisions = {
-}

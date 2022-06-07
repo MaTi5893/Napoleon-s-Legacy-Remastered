@@ -70,12 +70,12 @@ political_decisions = {
 	declaration_an_mein_volk= {
 		picture = decision_volk_PRU
 		potential = {
-			has_country_flag = anmeinvolk
+			tag = PRU
+			NOT = { has_country_flag = declaration_an_mein_volk } 
 			NOT = {
 				OR = {
 					NGF = {exists = yes}
 					GER = {exists = yes}
-					HRO = {exists = yes}
 				}
 			}
 		}
@@ -92,60 +92,11 @@ political_decisions = {
 		}
 		effect = {
 			prestige = 10
-			PRU = { clr_country_flag = anmeinvolk }
-			BAV = { clr_country_flag = anmeinvolk }
-			HAN = { clr_country_flag = anmeinvolk }
 			add_country_modifier = {
 				name = an_mein_volk
-				duration = 3650
+				duration = 1825
 			}
 			set_country_flag = declaration_an_mein_volk
-		}
-	}
-
-	ask_stralsund = {
-		picture = stralsund_decision
-		potential = {
-			OR = {
-				primary_culture = north_german
-				accepted_culture = north_german
-			}
-			ai = no
-			NOT = { has_country_flag = ask_stralsund }
-			NOT = {548 = {owned_by = THIS}}
-		}
-		allow = {
-			war=no
-		}
-		effect = {
-			prestige = 5
-			548 = {
-				owner = {country_event = 600031}
-			}
-			set_country_flag=ask_stralsund
-		}
-	}
-
-	ask_lubeck = {
-		picture = lubeck_decision
-		potential = {
-			OR = {
-				primary_culture = north_german
-				accepted_culture = north_german
-			}
-			ai = no
-			NOT = { has_country_flag = ask_lubeck }
-			NOT = {530 = {owned_by = THIS}}
-		}
-		allow = {
-			war=no
-		}
-		effect = {
-			prestige = 5
-			530 = {
-				owner = {country_event = 600032}
-			}
-			set_country_flag=ask_lubeck
 		}
 	}
 }
