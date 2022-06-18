@@ -161,29 +161,6 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	the_dominion_lands_act = {
-		potential = {
-			tag = CAN
-			NOT = {
-				has_country_modifier = dominion_lands_act
-			}
-		}
-		
-		allow = {
-			prestige = 20
-			year = 1872
-		}
-		
-		effect = {
-			add_country_modifier = {
-				name = dominion_lands_act
-				duration = -1
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
 	establish_beiyang_fleet = {
 			potential = {
 				tag = CHI
@@ -347,49 +324,6 @@ political_decisions = {
 			any_pop = {
 				consciousness = 1
 				money = 2500
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	sign_bowring_treaty = {
-		potential = {
-			tag = SIA
-			NOT = { has_country_flag = bowring }
-		}
-		allow = {
-			neighbour = ENG
-			year = 1850
-		}
-		effect = {
-			set_country_flag = bowring
-			prestige = 10
-			relation = {
-				with = ENG
-				value = 100
-			}
-			activate_technology = freedom_of_trade
-			any_pop = {
-				limit = { culture = thai }
-				consciousness = 1
-			}
-			ENG = {
-				create_alliance = SIA
-				relation = {
-					with = SIA
-					value = 100
-				}
-				diplomatic_influence = {
-					who = SIA
-					value = 100
-				}
-				any_pop = {
-					dominant_issue = {
-						value = free_trade
-						factor = 0.1
-					}
-				}
 			}
 		}
 		ai_will_do = {
@@ -1236,38 +1170,6 @@ political_decisions = {
 			}
 			ENG = {
 				prestige = -10
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	begin_opium_war = {
-		potential = {
-			tag = ENG
-			CHI = { owns = 1496 }
-			NOT = { owns = 1496 }
-			CHI = { has_country_flag = lin_is_commissioner }
-			NOT = { has_country_flag = first_opium_war }
-		}
-		allow = {
-			total_amount_of_ships = 50
-			war = no	
-		}
-
-		effect = {
-			set_country_flag = first_opium_war
-			war = {
-				target = CHI
-				attacker_goal = {
-					casus_belli = demand_concession_casus_belli
-			                state_province_id = 1496
-				}
-			}
-			CHI = {
-				1496 = { 
-					remove_core = CHI 
-				}
 			}
 		}
 		ai_will_do = {

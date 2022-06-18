@@ -1,7 +1,6 @@
 capital = 1741
 primary_culture = maghrebi
 culture = bedouin
-culture = african_minor
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

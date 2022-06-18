@@ -195,20 +195,16 @@ political_decisions = {
 		potential = {
 			culture_has_union_tag = yes
 			NOT = {
-				OR = {
-					cultural_union = { exists = yes }
-					is_culture_group = germanic
-					is_culture_group = scandinavian
-					is_culture_group = italian
-					is_culture_group = arab
-					is_culture_group = south_slavic
-					is_culture_group = polish_culture_group
-					tag = ECU
-					tag = CLM
-					tag = VNZ
-					tag = KUK
-					tag = HRO
-				}
+				cultural_union = { exists = yes }
+				is_culture_group = germanic
+				is_culture_group = scandinavian
+				is_culture_group = italian
+				is_culture_group = arab
+				is_culture_group = south_slavic
+				is_culture_group = polish_culture_group
+				tag = ECU
+				tag = CLM
+				tag = VNZ
 			}
 		}
 		
@@ -235,8 +231,6 @@ political_decisions = {
 						is_greater_power = yes
 						tag = AUS
 						tag = KUK
-						tag = BLE
-						tag = NWE
 					}
 					is_culture_group = THIS
 					in_sphere = THIS
@@ -259,12 +253,12 @@ political_decisions = {
 			is_culture_group = germanic
 			NOT = {
 				exists = GER
-				tag = ISR
 				exists = GCF
 				tag = KUK
 				exists = HRO
 				tag = HRO
 			}
+			NOT = { has_country_flag = no_germany } #Bavaria gets this if they accept both Italian and Czech
 		}
 		
 		allow = {
@@ -313,8 +307,7 @@ political_decisions = {
 			NOT = {
 				exists = ITA
 			}
-			NOT = {accepted_culture = greek}
-			NOT = {accepted_culture = occitan}
+			
 		}
 		
 		allow = {
@@ -365,8 +358,6 @@ political_decisions = {
 			NOT = {
 				exists = SCA
 			}
-			NOT = {tag=BLE}
-			NOT = {tag=NWE}
 		}
 		
 		allow = {

@@ -1,6 +1,6 @@
 capital = 1887
 primary_culture = afro_american
-culture = african_minor
+culture = western_african
 religion = protestant
 government = democracy
 plurality = 0.0

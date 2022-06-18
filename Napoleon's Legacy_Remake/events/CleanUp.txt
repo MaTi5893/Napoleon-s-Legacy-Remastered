@@ -432,10 +432,8 @@ country_event = {
 	trigger = {
 		has_country_modifier = female_suffrage
 		NOT = {
-			OR = {
-				vote_franschise = universal_weighted_voting
-				vote_franschise = universal_voting
-			}	
+			vote_franschise = universal_weighted_voting
+			vote_franschise = universal_voting
 		}
 	}
 	

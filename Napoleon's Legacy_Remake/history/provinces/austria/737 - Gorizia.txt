@@ -3,7 +3,7 @@ controller = DLM
 add_core = DLM
 add_core = VEN
 add_core = ITA
-add_core = PAP
+
 add_core = AUS
 add_core = SLO
 trade_goods = grain

@@ -1,5 +1,5 @@
-owner = EIC
-controller = EIC
+owner = GBR
+controller = GBR
 add_core = HND
 add_core = MUG
 trade_goods = opium

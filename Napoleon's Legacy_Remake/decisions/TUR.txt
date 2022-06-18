@@ -14,7 +14,13 @@ political_decisions = {
 		
 		effect = {
 			set_country_flag = tanzimat_reforms_enacted
-			social_reform = low_schools
+			random_country = { 
+				limit = { 
+					tag = TUR 
+					school_reforms = no_schools 
+				} 
+			school_reforms = low_schools
+			}
 			add_country_modifier = {
 				name = tanzimat_era
 				duration = 14600

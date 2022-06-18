@@ -43,9 +43,7 @@ nonstate_consciousness = 0
 
 #Military Reforms Base
 	foreign_weapons = yes_foreign_weapons
-	set_country_flag = foreign_weapons_flag
 	military_constructions = yes_military_constructions
-	set_country_flag = mil_con_flag
 	
 #starting techs
 	flintlock_rifles = 1

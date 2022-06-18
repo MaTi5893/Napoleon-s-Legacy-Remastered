@@ -2,12 +2,12 @@ capital = 749
 primary_culture = south_italian
 culture = north_italian
 religion = catholic
-government = democracy
+government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.35
 civilized = yes
-prestige = 20
+prestige = 5
 
 # Political reforms
 slavery = no_slavery
@@ -70,7 +70,6 @@ basic_chemistry = 1
 
 post_napoleonic_army_doctrine = yes
 
-schools = roman_tech_school
 
 # Starting Consciousness
 consciousness = 3

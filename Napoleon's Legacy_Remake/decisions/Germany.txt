@@ -28,41 +28,6 @@ political_decisions = {
 		}
 	}
 	
-	support_ruhr_industrialism = {
-		potential = {
-			has_global_flag = ruhr_boom_has_happened
-			OR = {
-				tag = PRU
-				tag = GER
-				tag = NGF
-			}
-			NOT = {
-				tech_school = prussian_tech_school
-			}
-		}
-		
-		allow = {
-			cheap_steel = 1
-			iron_breech_loaded_artillery = 1
-			state_n_government = 1
-			industrial_score = 500
-			owns = 577
-			owns = 578
-			owns = 2561
-			owns = 576
-			owns = 575
-			575 = {
-				state_scope = {
-					has_building = steel_factory
-				}
-			}
-		}
-		
-		effect = {
-			tech_school = prussian_tech_school
-			prestige = 5
-		}
-	}	
 	schwabing_circles = {
 		potential = {
 			OR = {
@@ -223,7 +188,6 @@ political_decisions = {
 				tag = PRU
 				tag = GER
 				tag = NGF
-				tag = BLE
 			}
 			owns = 578
 			owns = 2561

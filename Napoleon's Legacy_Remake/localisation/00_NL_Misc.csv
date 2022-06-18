@@ -46,9 +46,6 @@ an_mein_volk_desc;We have called all Germans to unite against the French!;;;;!He
 cultural_unification;Cultural Unification;;;;Unificaci�n cultural;;;x
 cultural_unification_desc;We have united all lands of our culture!;;;;!Hemos unido todas las tierras de nuestra cultura!;;;x
 new_world_nation;New World Nation;;;;Naci�n del Nuevo Mundo;;;x
-EVTNAME181503;Russia gives up Ukraine?!;;;;�Rusia renuncia a Ucrania?!;;;x
-EVTDESC181503;News have reached us that the Tsar of Russia has offered to give up the puppet state of Ukraine for us... by his own will.;;;;Nos han llegado noticias de que el Zar de Rusia se ha ofrecido a entregarnos el estado t�tere de Ucrania... por su propia voluntad.;;;x
-EVTOPTA181503;Has he finally gone insane?;;;;�Finalmente se ha vuelto loco?;;;x
 russian_comeback1;Russian Reconstruction;;;;Reconstrucci�n de Rusia;;;x
 russian_comeback1_desc;After the difficult time that followed the invasion of our glorious nation by the French, we are finally recovering!;;;;Tras la dif�cil �poca que sigui� a la invasi�n de nuestra gloriosa naci�n por los franceses, !por fin nos estamos recuperando!;;;x
 russian_comeback2;Russian Reconstruction;;;;Reconstrucci�n de Rusia;;;x
@@ -60,7 +57,7 @@ polish_law_no_respect;We don't respect Poniatowski's law of 120 000 soldiers!;;;
 metternich_way;The Way Of Metternich!;;;;El camino de Metternich;;;x
 metternich_way_desc;Our Minister of Forgeign Affairs paved the way for the return of Austria as a great power!;;;;Nuestro Ministro de Asuntos Exteriores allan� el camino para el regreso de Austria como gran potencia.;;;x
 balkans_war;Balkan WAR!;;;;!Guerra Balc�nica!;;;x
-balkans_war;The War for the Independence of the different Balkans states has been fought for over a year, the population is supporting us!;;;;La guerra por la independencia de los diferentes estados de los Balcanes lleva m�s de un a�o, !la poblaci�n nos apoya!;;;x
+balkans_war_desc;The War for the Independence of the different Balkans states has been fought for over a year, the population is supporting us!;;;;La guerra por la independencia de los diferentes estados de los Balcanes lleva m�s de un a�o, !la poblaci�n nos apoya!;;;x
 balkans_war_aftermath_victory;The Aftermath of the Balkan war;;;;Las consecuencias de la guerra de los Balcanes;;;x
 balkans_war_aftermath_victory_desc;We have won the Balkan war, now we must recover from it, trying to accept the populations that revolted to prevent any future war.;;;;Hemos ganado la guerra Balc�nica, ahora debemos recuperarnos de ella, intentando aceptar a las poblaciones que se rebelaron para evitar cualquier guerra futura.;;;x
 EVTDESC90005;Although we only want to help $CB_TARGET_NAME$ by adding them to our sphere of influence they have gotten very worked up about it. While unseemly to all involved, their behaviour has rather turned international opinion against forcefully requesting they join us in our prosperity.;;;;Aunque s�lo queremos ayudar a $CB_TARGET_NAME$ anadi�ndolos a nuestra esfera de influencia, se han puesto muy nerviosos al respecto. Aunque es indecoroso para todos los implicados, su comportamiento ha hecho que la opini�n internacional se oponga a pedirles que se unan a nuestra prosperidad.;;;x
@@ -136,11 +133,11 @@ alexandre_reforms_1_desc;Seeing how France was left after the Napoleonic wars an
 alexandre_reforms_2;Alexandre's Social Reforms;;;;;;;x
 alexandre_reforms_2_desc;Continuing his reforms, he significantly improved on the daily life of the people as population is stagnating in France while its exploding in the other parts of Europe;;;;;;;x
 dutch_tech_school;Dutch Tech School;;;;;;;x
-french_tech_school;French Tech School;;;;;;;x
+french_tech_school;Military Hegemony;;;;;;;x
 french_education;French Education;;;;;;;x
 french_education_desc;It's time to teach the French ways to those Germans to further their integration inside our empire!;;;;;;;x
 paris_lost;Loss of Paris!;;;;;;;x
-paris_lost;Paris, the centre of our power hasn't been invaded since 1590. It's a show of weakness from our government, we need to reconquer it!;;;;;;;x
+paris_lost_desc;Paris, the centre of our power hasn't been invaded since 1590. It's a show of weakness from our government, we need to reconquer it!;;;;;;;x
 corsican;Corsican;;;;;;;x
 LEDGER_COUNTRY_NAME;Country;;;;;;;x
 british_tech_school;Rule Britannia;;;;;;;x
@@ -195,3 +192,6 @@ monroe_doctrine;Monroe Doctrine;;;;spanish loc;;;x
 fuck_brazil;Brazil Immigrant Attraction Nerf;;;;spanish loc;;;x
 fuck_brazil_title;Brazil Immigrant Attraction Nerf;;;;spanish loc;;;x
 fuck_brazil_desc;You're not cool enough to have this many immigrants!;;;;spanish loc;;;x
+hungarian_nationalism;Wake of Hungarian Nationalism;;;;spanish loc;;;x
+hungarian_nationalism_title;Wake of Hungarian Nationalism;;;;spanish loc;;;x
+hungarian_nationalism_desc;The 19th century saw the wake of the Hungarian nationalism. Hungarian first came in the Carpathian region around the 9th century. Since they had been part of great kingdom like the Great Moravian Kingdom. But after the 15th century, their history is one of foreign occupation. First came the Habsburg, then the Turks and finally Habsburg again. Now with the Napoleonic wars and the weakening of Austria, Hungarian are seeing their first chance of liberation. The 19th century also saw the beginning of the creation of the Hungarian identity mainly via artists;;;;spanish loc;;;x

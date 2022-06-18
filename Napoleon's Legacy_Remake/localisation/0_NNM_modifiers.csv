@@ -5,171 +5,27 @@ IS_IN_REGION; is in the region ;;;;Spanish Loc;;;x
 TRIGMOD_HEADER;The $MONARCHTITLE$ reports that;;;;Spanish Loc;;;x
 TRIGMODLOST_HEADER;The $MONARCHTITLE$ reports that;;;;Spanish Loc;;;x
 TRIGGER_CIV_PROGRESS_LESS;Civilization progress: �Y50�W%;;;;Spanish Loc;;;x
-attending_berlin_congress;Attending the Congress;;;;Spanish Loc;;;x
 MAJORITY_IS_NOT;Majority of the population is not ;;;;Spanish Loc;;;x
 nationalist_agitation;Nationalist Agitation;;;;Spanish Loc;;;x
 nationalist_agitation_desc;Nationalists are active in the province, stirring up trouble with random acts of violence. If left unchecked, they may rise in rebellion against us.;;;;Spanish Loc;;;x
 patriot_uprising;Patriot Uprising;;;;Spanish Loc;;;x
 patriot_uprising_desc;Foreign patriots have taken control of the province.;;;;Spanish Loc;;;x
-the_ikhwan;The Ikhwan;;;;Spanish Loc;;;x
-the_ikhwan_desc;An alliance has been made with the Bedouin Wahhabists. Islam shall remain pure in our nation, in exchange for their military support.;;;;Spanish Loc;;;x
-mandate;Mandate of Heaven;;;;Spanish Loc;;;x
 holy_city;The Holy City;;;;La Ciudad Santa;;;x
 holy_city_desc;Mecca is the center of all Islam. To hold it is to stand above all others, and prove to them that the fate of all Islam lies in our hands.;;;;La Meca es el centro de todo el Islam. Mantenerla es estar por encima de todos los demás, y demostrarles que el destino de todo el Islam está en nuestras manos.;;;x
-self_strengthening_movement;Self-Strengthening Movement;;;;Spanish Loc;;;x
-drive_to_reunify;Reunification Drive;;;;Spanish Loc;;;x
-drive_to_reunify_desc;We must reunite the country, at any cost!;;;;Spanish Loc;;;x
-taiping_draft;Emergency Draft;;;;Spanish Loc;;;x
-the_female_shortage;The Female Shortage;;;;Spanish Loc;;;x
-the_female_shortage_desc;A populational deficit means that there are more men than women in China, slowing down population growth and upsetting the mass of single males that will never form a family.;;;;Spanish Loc;;;x
-christian_pamphlets;Christian Pamphlets;;;;Spanish Loc;;;x
-chinese_floods;Chinese Floods;;;;Spanish Loc;;;x
-small_country_draft;Emergency Draft;;;;Spanish Loc;;;x
-small_country_draft_desc;We must recruit all able-bodied men to fight!;;;;Spanish Loc;;;x
-daimyo_draft;Emergency Draft;;;;Spanish Loc;;;x
-daimyo_draft_desc;We must recruit all able-bodied men to fight!;;;;Spanish Loc;;;x
-sons_of_liberty;Sons of Liberty;;;;Spanish Loc;;;x
-sons_of_liberty_desc;A militia of pro-democracy liberals, determined to either see the United States returned to its democratic tradition or secede their state from the union.;;;;Spanish Loc;;;x
-peasant_revolt;Open Revolt;;;;Spanish Loc;;;x
-peasant_revolt_desc;There is increased agitation within the province, including riots and random violence which the local government has had difficulty putting down.;;;;Spanish Loc;;;x
 shastar_vidya;Shastar Vidiya;;;;Spanish Loc;;;x
 shastar_vidya_desc;The renowned Sikh fighting style, it is a martial art involving sword play ...and has made the Sikhs into fearsome combatants.;;;;Spanish Loc;;;x
-force_publique;Force Publique;;;;Spanish Loc;;;x
-force_publique_title;Form the Force Publique;;;;Spanish Loc;;;x
-force_publique_desc;The Force Publique was the official armed force of the Belgian-controlled Congo Free State. Though ostensibly formed to combat Arab Slavers, the soldiers were often used to enforce economic quotas with brutal punishment.;;;;Spanish Loc;;;x
 rcmp;R.C.M.P.;;;;R.C.M.P.;;;x
 rcmp_desc;The Royal Canadian Mounted Police was formed to patrol the newly-acquired North-West Territories, eventually uniting with the Dominion Police to keep order throughout all Canadian provinces.;;;;La Real Policía Montada de Canadá se formó para patrullar los recién adquiridos Territorios del Noroeste, y finalmente se unió a la Policía del Dominio para mantener el orden en todas las provincias canadienses.;;;x
-customs_union;Customs Union;;;;Spanish Loc;;;x
-customs_union_desc;We are a member of a customs union, designed to reduce the barriers in trade between the member nations.;;;;Spanish Loc;;;x
-spanish_restoration;The Restoration;;;;Spanish Loc;;;x
-spanish_restoration_desc;A period of relative peace and stability in Spain initiated by King Alfonso XII, the aim being to create a new system of government with balance between the liberals and conservatives.;;;;Spanish Loc;;;x
-national_instability;National Instability;;;;Spanish Loc;;;x
-national_instability_desc;The country is in a state of turmoil, and is in danger of rebellions.;;;;Spanish Loc;;;x
-home_of_the_mormons;Home of the Mormons;;;;Spanish Loc;;;x
-home_of_the_mormons_desc;the Mormons believe in polygamy, the taking of many wives, and encourage their followers to have large families.;;;;Spanish Loc;;;x
-gateway_to_america;Gateway to America;;;;Spanish Loc;;;x
-gateway_to_america_desc;Many immigrants from Europe will pass through the gates of Ellis Island, and a great number of them will remain in New York City.;;;;Spanish Loc;;;x
-carlist_sympathies;Carlist Sympathies;;;;Spanish Loc;;;x
-carlist_sympathies_desc;A Carlist cell is at work in the province, and is quickly gaining sympathy for the rebels that wish to topple the Spanish government.;;;;Spanish Loc;;;x
-christino_sympathies;Christino Sympathies;;;;Spanish Loc;;;x
-christino_sympathies_desc;A Christino cell is at work in the province, and is quickly gaining sympathy for the rebels that wish to topple the Spanish government.;;;;Spanish Loc;;;x
-boxer_rebellion;Boxer Rebellion;;;;Spanish Loc;;;x
-boxer_rebellion_desc;The province is currently held by the Boxer rebels, and is in great disarray.;;;;Spanish Loc;;;x
-jewish_diaspora;Jewish Diaspora;;;;Spanish Loc;;;x
-jewish_diaspora_desc;The Jewish community is organizing in reaction to the creation of Israel.;;;;Spanish Loc;;;x
-declaration_of_the_rights_of_man;Declaration of the Rights of Man;;;;Spanish Loc;;;x
-declaration_of_the_rights_of_man_desc;The Declaration of the Rights of Man and of the Citizen, a fundamental document of the French Revolution, defined the individual and collective rights of all the estates of the realm as universal.;;;;Spanish Loc;;;x
-caste_privileges;Caste Privilege;;;;Spanish Loc;;;x
-caste_privileges_desc;An early goal of British Imperialists in India was to create a class of local elites in their own image. They were successful, forming a new caste of wealthy Indians who rose to prominence within the colony.;;;;Spanish Loc;;;x
-sati_abolished;Abolishment of Sati;;;;Spanish Loc;;;x
-sati_abolished_desc;The abolishment of Sati funeral practices, where a recent widow immolated herself on her husband's grave, was incredibly unpopular in some parts of India.;;;;Spanish Loc;;;x
-pig_fat_cartridges;Pig Fat Cartridges;;;;Spanish Loc;;;x
-pig_fat_cartridges_desc;The issuing of gunpowder cartridges which were believed to be greased with pig fat was considered an incredible insult by Sepoy soldiers, and further evidence of the growing cultural rift between Indians and colonial powers.;;;;Spanish Loc;;;x
-carlism;Carlism;;;;Spanish Loc;;;x
-carlism_desc;Carlism is a traditionalist and legitimist political movement in Spain seeking the establishment of a separate line of the Bourbon family on the Spanish throne. This line descended from Infante Carlos, Count of Molina, and was founded due to dispute over the succession laws and widespread dissatisfaction with the Alfonsine line of the House of Bourbon.;;;;Spanish Loc;;;x
-spirit_of_freedom;The Spirit of Freedom;;;;Spanish Loc;;;x
-spirit_of_freedom_desc;For some cultures, the notion of democracy and individual freedom is rooted in their very psyche.;;;;Spanish Loc;;;x
-national_identity;National Identity;;;;Spanish Loc;;;x
-national_identity_desc;The concept of nationhood began taking hold in the late 19th century, as people began to identify more with the country they lived in rather than a particular region. Nationalism quickly gave rise to rebels who sought independence from foreign rule, or to rejoin their homeland.;;;;Spanish Loc;;;x
-anti_jacobin_movement;Anti-Jacobin;;;;Spanish Loc;;;x
-anti_jacobin_movement_desc;A reaction to the Jacobins and the struggle for democracy, reactionary elements in countries became very entrenched against democracy as a concept-- calling it 'inherently flawed' and misguided, as well as a source of chaos, rather than holding the possibility of anything useful or good.;;;;Spanish Loc;;;x
-sharia_law;Sharia Law;;;;Spanish Loc;;;x
-sharia_law_desc;Sharia is the strict moral code and religious law of Islam, considered the infallible law of God-- interpreted by Islamic judges who have responsibilities to religious leaders.;;;;Spanish Loc;;;x
-ottoman_oppression;Christian Oppression;;;;Spanish Loc;;;x
-ottoman_oppression_desc;A number of Ottoman policies regarding Christians within the Empire, such as the Jizya tax and restrictions on work and movement, set the stage for issues in the Balkans for years to come. These policies were not revoked until the Tanzimat Reforms which began in 1839.;;;;Spanish Loc;;;x
-ottomanism_reform;Imperial Reform Edict;;;;Spanish Loc;;;x
-ottomanism_reform_desc;The Hatt-i Himayun has established religious equality among the Empire's minorities, and gone a long way towards assuaging some of the concerns of nationalists within our borders.;;;;Spanish Loc;;;x
-great_statesman;Great Statesman;;;;Spanish Loc;;;x
-great_statesman_desc;Our leader is an able speaker and a fine statesman, respected by other world leaders.;;;;Spanish Loc;;;x
-begin_revolution;Revolutionary State;;;;Spanish Loc;;;x
-begin_revolution_desc;Our country is a fledgling state, founded in the midst of chaos and rebellion. But the people are willing to fight!;;;;Spanish Loc;;;x
-zemene_mesafint;Zemene Mesafint;;;;Spanish Loc;;;x
-zemene_mesafint_desc;The 'Age of Princes', where the rulers of Ethiopia must struggle to unite the nation under a single Emperor.;;;;Spanish Loc;;;x
-irish_integration_desc;Now that the Irish are equal subjects under British law, steps may be taken to integrate them more fully into overall British culture.;;;;Spanish Loc;;;x
-irish_integration;Irish Integration;;;;Spanish Loc;;;x
-irish_oppression;Irish Destitution;;;;Spanish Loc;;;x
-irish_oppression_desc;The system of absentee landownership has left Ireland a model of inefficiency, and left the Irish continually struggling and rebelling against British rule for centuries.;;;;Spanish Loc;;;x
-land_of_opportunity;Land of Opportunity;;;;Spanish Loc;;;x
-land_of_opportunity_desc;By the late 19th century our industry, banking system and the free movement of population established with our neighbors caused a boom of migrant workers that come to work in our industry and in our banks, eventually settling in Switzerland.;;;;Spanish Loc;;;x
-swiss_banking;Swiss Banking;;;;Spanish Loc;;;x
-swiss_banking_desc;The Swiss run an efficient and internationally recognized banking system. The rich from all over the world come to Switzerland for their banking needs.;;;;Spanish Loc;;;x
-anynomous_investor_business;Anonymous Investor Business;;;;Spanish Loc;;;x
-anynomous_investor_business_desc;This style of business culture meant that the owners treated the business as an investment. Ownership was not about producing and selling things. Instead the only reason for being the owner was to see the business ratios rise. This practice was professional, but lacked commitment and was intensely risk-aversive.;;;;Spanish Loc;;;x
-boer_republic;Boer Republic;;;;Spanish Loc;;;x
-boer_republic_desc;We have established a new nation, dominated by the Voortrekkers and carved from the territory of African natives. This is a new opportunity for us to live outside of British rule, now and forever.;;;;Spanish Loc;;;x
 integration_refusal;No Integration;;;;No hay integración;;;x
 integration_refusal_desc;The province is not being integrated into the rest of the country, and being allowed to maintain its separate identity.;;;;La provincia no se integra en el resto del país y se le permite mantener su identidad separada.;;;x
 core_integration;Core Integration;;;;Integración del núcleo;;;x
 core_integration_desc;The province is being integrated into the rest of the country, a slow process that may cause problems here.;;;;La provincia se está integrando en el resto del país, un proceso lento que puede causar problemas aquí.;;;x
-louis_napoleon_iii;Louis-Napoleon Bonaparte;;;;Spanish Loc;;;x
-louis_napoleon_iii_desc;Nephew and heir of Napoleon I, he is a man of the people and carries with him a legacy that makes him seemingly invincible-- even if, at times, his decisions are reckless and of questionable military value.;;;;Spanish Loc;;;x
-begin_disunited_states;Disunited States;;;;Spanish Loc;;;x
-begin_disunited_states_desc;With the transition of the United States away from democracy, the Sons of Liberty have arisen in an effort fight what they call tyranny. It will take time for this resistance to calm, and until it does there shall be much talk of secession and even open revolt.;;;;Spanish Loc;;;x
-social_reform_movement;Social Reform Movement;;;;Spanish Loc;;;x
-desc_social_reform_movement;Socialists and communists have initiated a countrywide agenda for better living conditions.;;;;Spanish Loc;;;x
-slow_down_progress;Reform Restrictions;;;;Spanish Loc;;;x
-slow_down_progress_desc;Perhaps it is best if we apply brakes to the rate of reforms. We must allow our people to catch up!;;;;Spanish Loc;;;x
-ruling_party_scandal;National Scandal;;;;Spanish Loc;;;x
-ruling_party_scandal_desc;A recent scandal has rocked the government and eroded support for the ruling party.;;;;Spanish Loc;;;x
-party_scandal_evidence;Major National Scandal;;;;Spanish Loc;;;x
-party_scandal_evidence_desc;Evidence has come to light which has only worsened the national scandal, putting the government at dire risk if it should come to an election.;;;;Spanish Loc;;;x
-line_of_advantage;Line of Advantage;;;;Spanish Loc;;;x
-line_of_advantage_desc;The concept of riekisen, or the 'line of advantage', means that we must extend Japanese influence beyond our national borders in order to ensure our security. This means turning all of the Japanese military, and indeed our people, to the notion of foreign conquest and glory.;;;;Spanish Loc;;;x
-no_line_of_advantage;Path of Progress;;;;Spanish Loc;;;x
-no_line_of_advantage_desc;Instead of focusing on military might and conquest, Japanese security must be provided by devotion to technological progress and reform. We must match the Western powers, and quickly, or they will surely take advantage and find Japan sorely unprepared.;;;;Spanish Loc;;;x
-border_incident;Recent Border Incident;;;;Spanish Loc;;;x
-border_incident_desc;We have recently had a border incident, stirring up trouble with a Great Power.;;;;Spanish Loc;;;x
-dutch_east_india;East India Company;;;;Spanish Loc;;;x
-dutch_east_india_desc;Greatest of the jewels in our nation's crown is the East Indies colony.;;;;Spanish Loc;;;x
-vassal_nation;Vassal Nation;;;;Spanish Loc;;;x
-vassal_nation_desc;As a vassal nation to a foreign power, we will always be seen as a lesser country in the eyes of the rest of the world.;;;;Spanish Loc;;;x
-coup_risk;Coup D'etat Risk;;;;Spanish Loc;;;x
-coup_risk_desc;There is dissension within the nation's military, one that is leading to a breakdown of order not only within the ranks but within the country itself. Some fear the army will rise up and take over the government.;;;;Spanish Loc;;;x
-military_strife;Military Strife;;;;Spanish Loc;;;x
-military_strife_desc;We are battling with our own army to prevent them from taking over the government. Purges are not infrequent, and the chances of soldiers defecting to join rebel causes raises with every passing day.;;;;Spanish Loc;;;x
-vangaurd_party;Vanguard Party;;;;Spanish Loc;;;x
-mixed_economy_desc;Mixed economy is an economic system in which both the state and private sector direct the economy, reflecting characteristics of both market economies and planned economies. Most mixed economies can be described as market economies with strong regulatory oversight, and many mixed economies feature a variety of government-run enterprises and governmental provision of public goods.;;;;Spanish Loc;;;x
-the_dark_continent;The Dark Continent;;;;Spanish Loc;;;x
-the_dark_continent_desc;A common name for Africa prior to its exploration, 'the Dark Continent' referred to the deep interior where few men had ever seen much less knew anything about. These deep jungles and desolate wastes were a no-man's-land, populated primarily by natives who had little contact with civilization. With the increase of exploration brought on by colonialism, suddenly the ability to colonize the areas previously denied to us has become possible.;;;;Spanish Loc;;;x
-fight_the_power;Government Resistance;;;;Spanish Loc;;;x
-fight_the_power_desc;There is rising dissension against the government, both among the people and within the military. We will have difficulty keeping order until this passes.;;;;Spanish Loc;;;x
 national_confusion;National Confusion;;;;Spanish Loc;;;x
 national_confusion_desc;There has been a great deal of change in our country. It will take some time to sort things out, before business as usual can resume.;;;;Spanish Loc;;;x
-neutrality_modifier;Political Neutrality;;;;Spanish Loc;;;x
-neutrality_modifier_desc;Our country deliberately takes no sides. We do not go to war, even against those the world universally reviles, and thus expect that no one shall go to war against us. This means we will likely never achieve recognition as a 'mover and shaker', but it also protects us. We shall not abandon our principles for the sake of power and influence.;;;;Spanish Loc;;;x
 apache_raiders;Apache Raiders;;;;Spanish Loc;;;x
-irish_potato_blight;Potato Blight;;;;Spanish Loc;;;x
-irish_potato_blight_desc;Famine spreads as crops lie, dead and rotting, in our fields.;;;;Spanish Loc;;;x
-irish_republicans;Irish Republicans;;;;Spanish Loc;;;x
-irish_republicans_desc;Down with the monarchy! An Irish Free State is the only solution!;;;;Spanish Loc;;;x
-irish_unionists;Irish Unionists;;;;Spanish Loc;;;x
-irish_unionists_desc;Ireland is a part of the United Kingdom, now and forever more! We will not turn our back on the monarchy!;;;;Spanish Loc;;;x
-power_vacuum;Power Vacuum;;;;Spanish Loc;;;x
-power_vacuum_desc;The government is in a state of transition as it struggles to find its new leader, or fall in the process.;;;;Spanish Loc;;;x
-chinese_substate;Qing Oppression;;;;Spanish Loc;;;x
-chinese_substate_desc;The oppression by the Qing Emperor has left our nation in disarray.;;;;Spanish Loc;;;x
-treaties_of_velasco;Treaties of Velasco;;;;Spanish Loc;;;x
-treaties_of_velasco_desc;The treaties may be worth less than the paper they're printed on, but they supposedly offer us a guarantee of independence from Mexico. We shall see if they last.;;;;Spanish Loc;;;x
 switched_production;Switched Production;;;;Spanish Loc;;;x
 switched_production_desc;The province has just switched its major production, and locals are still acclimatizing to the change.;;;;Spanish Loc;;;x
-new_production;New Plantation;;;;Spanish Loc;;;x
-new_production_desc;A new plantation has been started in this province, moving production over to cash crops rather than than the traditional farming which has been done here by the natives.;;;;Spanish Loc;;;x
-boxer_presence;Boxer Presence;;;;Spanish Loc;;;x
-boxer_presence_desc;The Righteous Harmony Society is present in this province, disrupting regular trade as they act against foreign influence.;;;;Spanish Loc;;;x
-boxer_agitation;Boxer Agitation;;;;Spanish Loc;;;x
-boxer_agitation_desc;Our efforts to suppress the Boxers in this province has angered them, turning these nationalists against our government.;;;;Spanish Loc;;;x
 international_pariah;International Pariah;;;;Paria Internacional;;;x
 international_pariah_desc;We are a pariah in the international community for our aggressive policies.;;;;Somos un paria en la comunidad internacional por nuestras políticas agresivas.;;;x
 gateway_to_harbor;Gateway to a New Land;;;;Spanish Loc;;;x
 gateway_to_harbor_desc;Many immigrants from around the world will pass through our great harbor, and a great number of them will remain in the city.;;;;Spanish Loc;;;x
-recent_crisis;Recent Crisis;;x,,;;;;;;;
-recent_crisis_desc;We have been the instigators in a recent crisis. Until memories fade, the world will likely tend to overlook any further demands we make for our territories.;;;;Spanish Loc;;;x
-rebel_cell_discovered;Rebel Cell Discovered;;x,,;;;;;;;
-rebel_cell_discovered_desc;With one rebel cell uncovered, it's only a matter of time before we discover the rest and stamp them out!;;;;Spanish Loc;;;x
-fukoku_kyohei;Fukoku Kyohei;;;;Spanish Loc;;;x
-may_day;May Day;;;;Spanish Loc;;;x
-may_day_desc;Our nation celebrates socialism. Let the greedy capitalists of the land shake in their boots!;;;;Spanish Loc;;;x
-militant_trade_union;Militant Trade Union;;;;Spanish Loc;;;x
-dissatisfied_workers;Dissatisfied Workers;;;;Spanish Loc;;;x
-militant_trade_union;Militant Trade Union;;;;Spanish Loc;;;x
-worker_revolt;Worker Revolt;;;;Spanish Loc;;;x

@@ -7,7 +7,7 @@ country_event = {
 	mean_time_to_happen = { days = 0 } 
 	title = "Setup Event"
 	desc = "Have fun GMing or whatever you're doing ~Rennes : D"
-	immediate = {
+	immediate = {	
 		AUS_641 = {
 				any_pop = {
 					limit = {
@@ -27,9 +27,6 @@ country_event = {
 		any_country = { 
 			limit = {
 				tag = FRA 
-				SPA = {
-					ai = yes
-				}
 				HAN = {
 					ai = yes 
 				}
@@ -39,38 +36,11 @@ country_event = {
 		any_country = { 
 			limit = {
 				tag = FRA 
-				SPA = {
-					ai = yes
-				}
 				HAN = {
 					ai = no
 				}
 			}
 		country_event = 600018
-		}
-		any_country = { 
-			limit = {
-				tag = FRA 
-				SPA = {
-					ai = no
-				}
-				HAN = {
-					ai = yes
-				}
-			}
-		country_event = 600019
-		}
-		any_country = { 
-			limit = {
-				tag = FRA 
-				SPA = {
-					ai = no
-				}
-				HAN = {
-					ai = no
-				}
-			}
-		country_event = 600020
 		}
 		any_country = {
 			limit = { is_greater_power = yes }
@@ -307,6 +277,12 @@ country_event = {
 					NOT = { has_country_flag = indc2_flag }
 				} 
 			set_country_flag = indc2_flag
+			}
+			any_country = { 
+				limit = { 
+					tag = AUS
+				} 
+				country_event = 600044
 			}
 		any_country = { 
 			limit = { 		

@@ -110,6 +110,7 @@ political_decisions = {
 				limit = {
 					is_culture_group = germanic
 					in_sphere = THIS
+					NOT = { tag = SWI }
 				}
 				annex_to = GCF
 			}
@@ -241,9 +242,8 @@ political_decisions = {
 			any_country = {
 				limit = {
 					is_culture_group = germanic
-					NOT = {tag = PRU}
 					in_sphere = THIS
-					NOT = { tag = AUS tag = KUK }
+					NOT = { tag = AUS tag = KUK tag = PRU tag = SWI}
 					OR = { 
 						AND = { 
 							tag = DZG

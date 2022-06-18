@@ -45,32 +45,22 @@ upper_house = {
 }
 
 foreign_training = yes_foreign_training
-set_country_flag = foreign_tactics_flag
 
 foreign_weapons = yes_foreign_weapons
-set_country_flag = foreign_weapons_flag
 
 military_constructions = yes_military_constructions
-set_country_flag = mil_con_flag
 
 foreign_officers = yes_foreign_officers
-set_country_flag = fo_flag
 
 foreign_navies = yes_foreign_navies
-set_country_flag = nu_flag
 
 foreign_naval_officers = yes_foreign_naval_officers
-set_country_flag = no_flag
 
 land_reform = yes_land_reform
-set_country_flag = landr_flag
 
 pre_indust = yes_pre_indust
-set_country_flag = earlyid_flag
 
 industrial_construction = yes_western_science
-set_country_flag = indc_flag
-set_country_flag = indc2_flag
 
 # Technology
 post_napoleonic_thought = 1

@@ -1,48 +1,4 @@
-country_event = {		
-	id = 600001
-	trigger = {
-		tag = RUS
-		NOT = {year = 1840}
-	}
 
-	fire_only_once = yes
-
-	mean_time_to_happen = {
-		days = 1
-	}
-	title = "EVTNAME600001"
-	desc = "EVTDESC600001"
-	option = {
-		name = "This is the path to greatness !"	
-		add_country_modifier = {
-			name = russian_comeback1
-			duration = 1459
-		}
-	}
-}
-country_event = {		
-	id = 600002
-	trigger = {
-		tag = RUS
-		NOT = {year = 1850}
-		year = 1840
-	}
-
-	fire_only_once = yes
-
-	mean_time_to_happen = {
-		days = 1
-	}
-	title = "EVTNAME600002"
-	desc = "EVTDESC600002"
-	option = {
-		name = "This is the path to greatness !"	
-		add_country_modifier = {
-			name = russian_comeback2
-			duration = 3650
-		}
-	}
-}
 
 country_event = {
 

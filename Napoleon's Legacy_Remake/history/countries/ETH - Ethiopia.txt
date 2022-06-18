@@ -1,5 +1,5 @@
 capital = 1852
-primary_culture = african_minor
+primary_culture = ethiopian
 religion = coptic
 government = absolute_monarchy
 plurality = 0.0

@@ -1,6 +1,6 @@
 capital = 1945
 primary_culture = volta
-culture = niger
+culture = nigerian
 religion = sunni
 civilized = no
 government = absolute_monarchy

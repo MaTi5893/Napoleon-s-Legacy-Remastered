@@ -32,7 +32,7 @@ ICF_reactionary_81;Chieftain Faction;Chieftain Faction;Chieftain Faction;;;;Span
 ICF_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;;;Spanish Loc;;;x
 ICF_communist_86;Communists;Communists;Communists;;;;Spanish Loc;;;x
 ICF_fascist_72;Fascists;Fascists;Fascists;;;;Spanish Loc;;;x
-MAH_ADJ;Marathan;Indian;Indian;;;;Spanish Loc;;;x
+MAH_ADJ;Maharashtran;Indian;Indian;;;;Spanish Loc;;;x
 MAH;Maratha Confederacy;Maratha Confederacy;Maratha Confederacy;;;;Spanish Loc;;;x
 MAH_hms_government;Maratha Empire;Maratha Empire;Maratha Empire;;;;Spanish Loc;;;x
 MAH_conservative_92;Conservatives;Conservatives;Conservatives;;;;Spanish Loc;;;x
@@ -202,6 +202,8 @@ USG;The United States of Greater Austria;;;;Spanish Loc;;;x
 USG_ADJ;Danubian;;;;Spanish Loc;;;x
 BUR_absolute_monarchy;The Konbaung Dynasty;;;;Spanish Loc;;;x
 BUR_prussian_constitutionalism;The Konbaung Dynasty;;;;Spanish Loc;;;x
+ZAC;Zachadia;;;;;;;;x
+ZAC_ADJ;Zachadian;;;;;;;;x
 WSF;Panslavia;;;;;;;;;;;;x
 WSF_ADJ;Slavic;;;;;;;;;;;;x
 WSF_absolute_monarchy;Slovanske Kralovstvo;;;;;;;;;;;;x

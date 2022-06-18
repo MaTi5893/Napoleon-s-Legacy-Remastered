@@ -340,7 +340,7 @@ country_event = {
 
 	trigger = {
 		has_global_flag = NobelPhysics
-		has_global_flag = 8NobelPhysics
+		has_global_flag = 6NobelPhysics
 		year = 1907
 		electricity = 1
 		not = {

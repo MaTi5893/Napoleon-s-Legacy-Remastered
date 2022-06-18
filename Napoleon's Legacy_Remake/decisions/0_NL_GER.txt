@@ -1,41 +1,4 @@
 political_decisions = {
-    form_grobgermany = {
-        picture = grobgermany_decision
-        potential = {
-            tag= GER
-            NOT = {has_country_flag = form_grobgermany}
-        }
-        allow = {
-            revolution_n_counterrevolution = 1
-            all_core = {
-                owned_by = THIS
-            }
-            AUS_625 = {owned_by = THIS}
-            AUS_626 = {owned_by = THIS}
-            AUS_619 = {owned_by = THIS}
-            AUS_612 = {owned_by = THIS}
-            war = no
-        }
-        effect = {
-            AUS_625 = {add_core = THIS}
-            AUS_626 = {add_core = THIS}
-            AUS_619 = {add_core = THIS}
-            AUS_612 = {add_core = THIS}
-            prestige = 40
-            BOH = {
-                all_core = {
-                    remove_core = BOH
-                    remove_core = AUS
-                    remove_core = CZH
-                    add_province_modifier = {
-                        name = cultural_unification
-                        duration = 3650
-                    }
-                }
-            }
-            set_country_flag = form_grobgermany
-        }
-    }
 	restore_rhineland = {
 		picture = become_rhine
 		potential = {
@@ -59,7 +22,7 @@ political_decisions = {
 					add_core = THIS
 				}
 			}
-			badboy = 10
+			badboy = 3
 			set_country_flag = restored_rhineland
 		}
 	}
