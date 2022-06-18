@@ -1,6 +1,6 @@
-owner = POR
-controller = POR
-add_core = POR
+owner = UPB
+controller = UPB
+add_core = UPB
 add_core = CHI
 
 trade_goods = precious_metal

@@ -1,6 +1,6 @@
-owner = ECO
-controller = ECO
-add_core = ECO
-add_core = BRZ
+owner = UPB
+controller = UPB
+
+add_core = UPB
 trade_goods = tobacco
 life_rating = 35

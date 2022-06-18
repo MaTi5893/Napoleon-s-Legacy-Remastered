@@ -56,11 +56,7 @@ political_decisions = {
 	glory_to_india = {
 		picture = india_decision
 		potential = {
-			OR = {
-				tag = MUG
-				tag = HND
-				tag = MAH
-			}
+			is_culture_group = south_asian
 			NOT = {has_country_flag = glory_mug}
 		}
 		allow = {

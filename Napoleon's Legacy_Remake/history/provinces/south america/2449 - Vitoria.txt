@@ -1,6 +1,6 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = UPB
+controller = UPB
+add_core = UPB
 trade_goods = coal
 life_rating = 35
 

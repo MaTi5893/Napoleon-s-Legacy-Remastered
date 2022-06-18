@@ -1,0 +1,88 @@
+political_decisions = { 
+	louis_bonaparte = { 
+	picture = louis_bonaparte	#This is actually redundant but i hate it when the validator tells me that there's no decision that uses a pic when the decision and image names are the same 
+		potential = { 
+			tag = FRA
+			NOT = { has_country_flag = chose_heir_nap } #theoretically i could slap a NOT = { has_country_flag = louis jerome alexandre maximilien republic} here but that's kinda cringe
+			ai = no
+		}
+		allow = { }
+		effect = { 
+			set_country_flag = chose_heir_nap
+			set_country_flag = louis
+		}
+	}
+	jerome_bonaparte = { 
+	picture = jerome_bonaparte
+		potential = { 
+			tag = FRA
+			HAN = { ai = yes }
+			NOT = { has_country_flag = chose_heir_nap } 
+			ai = no
+		}
+		allow = { }
+		effect = { 
+			set_country_flag = chose_heir_nap
+			set_country_flag = jerome
+		}
+	}
+	alexandre_walewski = { 
+	picture = alexandre_walewski
+		potential = { 
+			tag = FRA
+			NOT = { has_country_flag = chose_heir_nap } 
+			ai = no
+		}
+		allow = { }
+		effect = { 
+			set_country_flag = chose_heir_nap
+			set_country_flag = alexandre
+		}
+	}
+	maximilien = { 
+	picture = maximilien 
+		potential = { 
+			tag = FRA
+			NOT = { has_country_flag = chose_heir_nap } 
+			ai = no
+		}
+		allow = { }
+		effect = { 
+			set_country_flag = chose_heir_nap
+			set_country_flag = maximilien
+		}
+	}
+	french_republic_choice = { 
+	picture = french_republic
+		potential = { 
+			tag = FRA
+			NOT = { has_country_flag = chose_heir_nap } 
+			ai = no
+		}
+		allow = { }
+		effect = { 
+			set_country_flag = chose_heir_nap
+			set_country_flag = republic
+			government = democracy
+			political_reform = wealth_voting
+			add_country_modifier = {
+				name = french_republic
+				duration = -1
+			}
+		}
+	}
+	marie_louise = { 
+	picture = marie_louise
+		potential = { 
+			tag = LCT	#remove this when marie louise has content to unlock the decision
+			tag = FRA
+			NOT = { has_country_flag = chose_heir_nap } 
+			ai = no
+		}
+		allow = { }
+		effect = { 
+			set_country_flag = chose_heir_nap
+			set_country_flag = marie
+		}
+	}
+}

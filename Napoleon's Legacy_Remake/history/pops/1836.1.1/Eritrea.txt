@@ -33,43 +33,43 @@
 	}
 
 	bureaucrats = {
-		culture = misri
+		culture = ethiopian
 		religion = sunni
 		size = 5
 	}
 
 	soldiers = {
-		culture = misri
+		culture = ethiopian
 		religion = sunni
 		size = 20
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = ethiopian
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = ethiopian
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = ethiopian
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = ethiopian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = ethiopian
 		religion = sunni
 		size = 3600
 	}

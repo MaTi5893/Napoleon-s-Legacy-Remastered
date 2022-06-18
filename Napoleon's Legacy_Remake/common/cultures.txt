@@ -74,7 +74,7 @@ germanic = {
 		"von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin" 
 		"von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
 	}		
-	German = { color = { 0 0 0 } first_names = { sneed } last_names = { sneed } } 
+	German = { color = { 0 0 0 } first_names = { sneed } last_names = { sneed } } #to remove the doubled primary culture cores in germany
 	union = GER
 }
 
@@ -1389,16 +1389,6 @@ southeast_asian = {
                
 		}
 	}
-	asian_minor = {
-		color = {99 150 72}
-		first_names = { Abdul Vijaya Rajkumari Aurobindo Chandrashekhar Gopal Motilal Sardar Sarojini Subhas Srinivasa Mridula Gupinath Chittaranjan
-			
-		}
-		
-		last_names = { Singh Prasad Ambedkar Khan Pandit Besant Sarabhai Gaidinliu Iyengar Baharjee Naidu
-               
-		}
-	}
 	kachin = {
 		color = {255 98 76}
 		first_names = { Sama Sinwa U Zan Hta Duwa Ding Ga Hkyeng
@@ -1406,17 +1396,7 @@ southeast_asian = {
 		}
 		
 		last_names = { Ratang Nawng Sin Lahpai Lahtaw Maran Marip Nhkum
-               
-		}
-	}
-	karen = {
-		color = {99 88 122}
-		first_names = { Po La Paban Hkun Maung Papw Sao Saw
-			
-		}
-		
-		last_names = { Che Baw U Lawi Lasa Pyatin "Law Paw" Kyi Pun Nge Bye Kye
-               
+               			
 		}
 	}
 }

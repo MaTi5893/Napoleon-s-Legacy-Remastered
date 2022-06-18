@@ -2,10 +2,7 @@ political_decisions = {
     form_yugoslavia_easy = {
         picture = form_yugoslavia
         potential = {
-            OR = {
-                tag = DLM
-                tag = SER
-            }
+            has_country_flag = YUGO_EASY #DLM and SER
             OR = {
                 AND = {
                     BOS = {ai = yes}
@@ -32,6 +29,9 @@ political_decisions = {
             }
         }
         effect = {
+	DLM = { clr_country_flag = YUGO_EASY }
+	SER = { clr_country_flag = YUGO_EASY }
+	clr_country_flag = YUGO_EASY	#one time only decision
             set_global_flag = yugoslavia_formed
 			prestige = 20
 			all_core = { add_core = YUG }

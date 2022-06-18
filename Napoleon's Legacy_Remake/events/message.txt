@@ -1,0 +1,1125 @@
+country_event = {	#	LftTxt	VrTxt	RgtTxt						
+	title = "Red_Topple_luxembourg_Regime_To_Vassal_TITLE"									
+	desc = "Red_Topple_luxembourg_Regime_To_Vassal_DESC"									
+	id = 	6212								
+	major = 	yes								
+	trigger = {									
+		# IS the right color								
+		OR = {								
+			AK2							
+			AC2							
+			AF2							
+			AG2							
+			GZ2							
+			AL2							
+			DZ2							
+			ZN2							
+			US2							
+			AD2							
+			AN2							
+			GW2							
+			AB2							
+			A12							
+			SA2							
+			RZ2							
+			RK2							
+			PL2							
+			AR2							
+			KH2							
+			AM2							
+			AU2							
+			AT2							
+			WD2							
+			AZ2							
+			BH2							
+			HR2							
+			BC2							
+			BE2							
+			MF2							
+			BR2							
+			TE2							
+			VS2							
+			BY2							
+			BL2							
+			BZ2							
+			NN2							
+			ME2							
+			HH2							
+			BF2							
+			VO2							
+			BO2							
+			TW2							
+			AI2							
+			ZI2							
+			GB2							
+			BT2							
+			UN2							
+			BG2							
+			RR2							
+			UU2							
+			BN2							
+			CP2							
+			CL2							
+			C12							
+			OO2							
+			CA2							
+			ZP2							
+			ZM2							
+			CT2							
+			CY2							
+			CF2							
+			EY2							
+			TD2							
+			YA2							
+			CE2							
+			C62							
+			CN2							
+			CO2							
+			CM2							
+			ZZ2							
+			SH2							
+			CI2							
+			CS2							
+			CR2							
+			RM2							
+			HV2							
+			CB2							
+			CU2							
+			C32							
+			CZ2							
+			OV2							
+			DG2							
+			KU2							
+			DA2							
+			DK2							
+			DJ2							
+			DC2							
+			DR2							
+			DT2							
+			ET2							
+			UY2							
+			EC2							
+			EG2							
+			SV2							
+			EN2							
+			EQ2							
+			EA2							
+			EE2							
+			E82							
+			FO2							
+			FJ2							
+			FN2							
+			FL2							
+			FR2							
+			ON2							
+			GG2							
+			GA2							
+			GE2							
+			DE2							
+			HA2							
+			GH2							
+			GK2							
+			GL2							
+			GR2							
+			GD2							
+			GT2							
+			GU2							
+			GN2							
+			UI2							
+			GJ2							
+			GY2							
+			HT2							
+			HI2							
+			HD2							
+			HK2							
+			HU2							
+			HB2							
+			IS2							
+			IN2							
+			ID2							
+			IG2							
+			PE2							
+			IZ2							
+			IK2							
+			I12							
+			QK2							
+			IE2							
+			NX2							
+			IL2							
+			IT2							
+			IC2							
+			JM2							
+			JP2							
+			JD2							
+			BK2							
+			KB2							
+			KN2							
+			MY2							
+			KE2							
+			KR2							
+			RN2							
+			KP2							
+			KI2							
+			TA2							
+			AH2							
+			KA2							
+			KY2							
+			RB2							
+			KV2							
+			KO2							
+			KS2							
+			KW2							
+			KZ2							
+			L52							
+			LA2							
+			L32							
+			LE2							
+			LR2							
+			LY2							
+			LT2							
+			LG2							
+			LX2							
+			MK2							
+			MG2							
+			MW2							
+			YM2							
+			LI2							
+			ML2							
+			PU2							
+			MT2							
+			MR2							
+			MB2							
+			UR2							
+			RI2							
+			YO2							
+			HY2							
+			MX2							
+			OS2							
+			MQ2							
+			ZO2							
+			MH2							
+			MD2							
+			CC2							
+			WM2							
+			GO2							
+			MO2							
+			MS2							
+			MA2							
+			MZ2							
+			ND2							
+			BI2							
+			NA2							
+			NP2							
+			CD2							
+			NZ2							
+			NF2							
+			NR2							
+			NI2							
+			NG2							
+			IU2							
+			NS2							
+			NY2							
+			NO2							
+			OM2							
+			PK2							
+			P32							
+			PS2							
+			PA2							
+			GI2							
+			PG2							
+			EU2							
+			PO2							
+			PT2							
+			PR2							
+			JB2							
+			QT2							
+			QC2							
+			RE2							
+			RA2							
+			RO2							
+			RU2							
+			RW2							
+			RY2							
+			SL2							
+			VG2							
+			SM2							
+			AS2							
+			OT2							
+			SC2							
+			SG2							
+			SR2							
+			HN2							
+			CK2							
+			NE2							
+			KK2							
+			LS2							
+			DH2							
+			GP2							
+			SK2							
+			SO2							
+			KT2							
+			LO2							
+			OL2							
+			LL2							
+			S42							
+			SB2							
+			AA2							
+			SS2							
+			HS2							
+			YN2							
+			ES2							
+			LN2							
+			SD2							
+			SU2							
+			SW2							
+			SE2							
+			CH2							
+			SY2							
+			YK2							
+			SZ2							
+			TI2							
+			TJ2							
+			TM2							
+			TL2							
+			NK2							
+			TZ2							
+			TX2							
+			TH2							
+			ZG2							
+			ST2							
+			ER2							
+			GM2							
+			MV2							
+			MI2							
+			NL2							
+			PH2							
+			YH2							
+			T42							
+			TG2							
+			TN2							
+			TB2							
+			IA2							
+			TT2							
+			TP2							
+			TS2							
+			TR2							
+			TK2							
+			MN2							
+			TC2							
+			TV2							
+			TU2							
+			UG2							
+			UA2							
+			UV2							
+			YY2							
+			UZ2							
+			VT2							
+			VZ2							
+			V12							
+			WA2							
+			WL2							
+			WP2							
+			EH2							
+			WT2							
+			YC2							
+			YG2							
+			ZA2							
+			ZB2							
+			R12							
+			A22							
+			S22							
+			H22							
+			B22							
+			B32							
+			H42							
+			SP2							
+			G22							
+			U32							
+			C72							
+			C22							
+			C52							
+			LP2							
+			C42							
+			D22							
+			E42							
+			E22							
+			E92							
+			E12							
+			E72							
+			F22							
+			H32							
+			G32							
+			G42							
+			I52							
+			P22							
+			I22							
+			I32							
+			I42							
+			J32							
+			J22							
+			K22							
+			L62							
+			L12							
+			L22							
+			L42							
+			Y22							
+			M22							
+			M32							
+			N62							
+			N42							
+			N22							
+			N32							
+			O22							
+			P42							
+			Q22							
+			R22							
+			N52							
+			S52							
+			S12							
+			S32							
+			E52							
+			E62							
+			S62							
+			T52							
+			E32							
+			G52							
+			N72							
+			T22							
+			T32							
+			U22							
+			V22							
+			W22							
+			Z22							
+			R32							
+			Z12							
+			Z32							
+			Z42							
+			Z52							
+		}								
+		# Owns the valid province								
+		any_province_region = {								
+			controlled_by = THIS							
+			NOT = {							
+				OR = {						
+					has_siege = yes					
+					unit_in_battle = yes					
+				}						
+			}							
+			NOT = { owned_by = THIS }							
+			NOT = { is_core = THIS }							
+			culture = 	luxembourg						
+			is_capital = yes							
+			# owner not has other valid capital							
+			owner = {							
+				OR = {						
+					AND = {					
+						NOT = {				
+							OR = {			
+								culture_group = 	bosnia_g	
+								culture_group = 	cyprus_g	
+								culture_group = 	lebanon_g	
+								culture_group = 	iraq_g	
+								culture_group = 	south_africa_g	
+								culture_group = 	ethiopia_g	
+								culture_group = 	zimbabwe-rhodesia_g	
+							}			
+						}				
+						NOT = {				
+							any_owned_province = {			
+								NOT = { is_capital = yes }		
+								has_owner_culture = yes		
+							}			
+						}				
+					}					
+					AND = {					
+						culture_group = 	bosnia_g			
+						NOT = {				
+							any_owned_province = {			
+								NOT = { is_capital = yes }		
+								culture_group = 	bosnia_g	
+							}			
+						}				
+					}					
+					AND = {					
+						culture_group = 	lebanon_g			
+						NOT = {				
+							any_owned_province = {			
+								NOT = { is_capital = yes }		
+								culture_group = 	lebanon_g	
+							}			
+						}				
+					}					
+					AND = {					
+						culture_group = 	iraq_g			
+						NOT = {				
+							any_owned_province = {			
+								NOT = { is_capital = yes }		
+								culture_group = 	iraq_g	
+							}			
+						}				
+					}					
+					AND = {					
+						culture_group = 	south_africa_g			
+						NOT = {				
+							any_owned_province = {			
+								NOT = { is_capital = yes }		
+								culture_group = 	south_africa_g	
+							}			
+						}				
+					}					
+					AND = {					
+						culture_group = 	ethiopia_g			
+						NOT = {				
+							any_owned_province = {			
+								NOT = { is_capital = yes }		
+								culture_group = 	ethiopia_g	
+							}			
+						}				
+					}					
+					AND = {					
+						culture_group = 	zimbabwe-rhodesia_g			
+						NOT = {				
+							any_owned_province = {			
+								NOT = { is_capital = yes }		
+								culture_group = 	zimbabwe-rhodesia_g	
+							}			
+						}				
+					}					
+					AND = {					
+						culture_group = 	cyprus_g			
+						NOT = {				
+							any_owned_province = {			
+								NOT = { is_capital = yes }		
+								culture_group = 	cyprus_g	
+							}			
+						}				
+					}					
+				}						
+			}							
+		}								
+		NOT = {								
+			OR = {							
+				any_known_country = {						
+					culture_group = 	luxembourg_g				
+					NOT = { war_with = THIS }					
+					OR = {					
+						AK2				
+						AC2				
+						AF2				
+						AG2				
+						GZ2				
+						AL2				
+						DZ2				
+						ZN2				
+						US2				
+						AD2				
+						AN2				
+						GW2				
+						AB2				
+						A12				
+						SA2				
+						RZ2				
+						RK2				
+						PL2				
+						AR2				
+						KH2				
+						AM2				
+						AU2				
+						AT2				
+						WD2				
+						AZ2				
+						BH2				
+						HR2				
+						BC2				
+						BE2				
+						MF2				
+						BR2				
+						TE2				
+						VS2				
+						BY2				
+						BL2				
+						BZ2				
+						NN2				
+						ME2				
+						HH2				
+						BF2				
+						VO2				
+						BO2				
+						TW2				
+						AI2				
+						ZI2				
+						GB2				
+						BT2				
+						UN2				
+						BG2				
+						RR2				
+						UU2				
+						BN2				
+						CP2				
+						CL2				
+						C12				
+						OO2				
+						CA2				
+						ZP2				
+						ZM2				
+						CT2				
+						CY2				
+						CF2				
+						EY2				
+						TD2				
+						YA2				
+						CE2				
+						C62				
+						CN2				
+						CO2				
+						CM2				
+						ZZ2				
+						SH2				
+						CI2				
+						CS2				
+						CR2				
+						RM2				
+						HV2				
+						CB2				
+						CU2				
+						C32				
+						CZ2				
+						OV2				
+						DG2				
+						KU2				
+						DA2				
+						DK2				
+						DJ2				
+						DC2				
+						DR2				
+						DT2				
+						ET2				
+						UY2				
+						EC2				
+						EG2				
+						SV2				
+						EN2				
+						EQ2				
+						EA2				
+						EE2				
+						E82				
+						FO2				
+						FJ2				
+						FN2				
+						FL2				
+						FR2				
+						ON2				
+						GG2				
+						GA2				
+						GE2				
+						DE2				
+						HA2				
+						GH2				
+						GK2				
+						GL2				
+						GR2				
+						GD2				
+						GT2				
+						GU2				
+						GN2				
+						UI2				
+						GJ2				
+						GY2				
+						HT2				
+						HI2				
+						HD2				
+						HK2				
+						HU2				
+						HB2				
+						IS2				
+						IN2				
+						ID2				
+						IG2				
+						PE2				
+						IZ2				
+						IK2				
+						I12				
+						QK2				
+						IE2				
+						NX2				
+						IL2				
+						IT2				
+						IC2				
+						JM2				
+						JP2				
+						JD2				
+						BK2				
+						KB2				
+						KN2				
+						MY2				
+						KE2				
+						KR2				
+						RN2				
+						KP2				
+						KI2				
+						TA2				
+						AH2				
+						KA2				
+						KY2				
+						RB2				
+						KV2				
+						KO2				
+						KS2				
+						KW2				
+						KZ2				
+						L52				
+						LA2				
+						L32				
+						LE2				
+						LR2				
+						LY2				
+						LT2				
+						LG2				
+						LX2				
+						MK2				
+						MG2				
+						MW2				
+						YM2				
+						LI2				
+						ML2				
+						PU2				
+						MT2				
+						MR2				
+						MB2				
+						UR2				
+						RI2				
+						YO2				
+						HY2				
+						MX2				
+						OS2				
+						MQ2				
+						ZO2				
+						MH2				
+						MD2				
+						CC2				
+						WM2				
+						GO2				
+						MO2				
+						MS2				
+						MA2				
+						MZ2				
+						ND2				
+						BI2				
+						NA2				
+						NP2				
+						CD2				
+						NZ2				
+						NF2				
+						NR2				
+						NI2				
+						NG2				
+						IU2				
+						NS2				
+						NY2				
+						NO2				
+						OM2				
+						PK2				
+						P32				
+						PS2				
+						PA2				
+						GI2				
+						PG2				
+						EU2				
+						PO2				
+						PT2				
+						PR2				
+						JB2				
+						QT2				
+						QC2				
+						RE2				
+						RA2				
+						RO2				
+						RU2				
+						RW2				
+						RY2				
+						SL2				
+						VG2				
+						SM2				
+						AS2				
+						OT2				
+						SC2				
+						SG2				
+						SR2				
+						HN2				
+						CK2				
+						NE2				
+						KK2				
+						LS2				
+						DH2				
+						GP2				
+						SK2				
+						SO2				
+						KT2				
+						LO2				
+						OL2				
+						LL2				
+						S42				
+						SB2				
+						AA2				
+						SS2				
+						HS2				
+						YN2				
+						ES2				
+						LN2				
+						SD2				
+						SU2				
+						SW2				
+						SE2				
+						CH2				
+						SY2				
+						YK2				
+						SZ2				
+						TI2				
+						TJ2				
+						TM2				
+						TL2				
+						NK2				
+						TZ2				
+						TX2				
+						TH2				
+						ZG2				
+						ST2				
+						ER2				
+						GM2				
+						MV2				
+						MI2				
+						NL2				
+						PH2				
+						YH2				
+						T42				
+						TG2				
+						TN2				
+						TB2				
+						IA2				
+						TT2				
+						TP2				
+						TS2				
+						TR2				
+						TK2				
+						MN2				
+						TC2				
+						TV2				
+						TU2				
+						UG2				
+						UA2				
+						UV2				
+						YY2				
+						UZ2				
+						VT2				
+						VZ2				
+						V12				
+						WA2				
+						WL2				
+						WP2				
+						EH2				
+						WT2				
+						YC2				
+						YG2				
+						ZA2				
+						ZB2				
+						R12				
+						A22				
+						S22				
+						H22				
+						B22				
+						B32				
+						H42				
+						SP2				
+						G22				
+						U32				
+						C72				
+						C22				
+						C52				
+						LP2				
+						C42				
+						D22				
+						E42				
+						E22				
+						E92				
+						E12				
+						E72				
+						F22				
+						H32				
+						G32				
+						G42				
+						I52				
+						P22				
+						I22				
+						I32				
+						I42				
+						J32				
+						J22				
+						K22				
+						L62				
+						L12				
+						L22				
+						L42				
+						Y22				
+						M22				
+						M32				
+						N62				
+						N42				
+						N22				
+						N32				
+						O22				
+						P42				
+						Q22				
+						R22				
+						N52				
+						S52				
+						S12				
+						S32				
+						E52				
+						E62				
+						S62				
+						T52				
+						E32				
+						G52				
+						N72				
+						T22				
+						T32				
+						U22				
+						V22				
+						W22				
+						Z22				
+						R32				
+						Z12				
+						Z32				
+						Z42				
+						Z52				
+					}					
+				}						
+				any_known_country = {						
+					NOT = {					
+						culture_group = 	luxembourg_g			
+					}					
+					NOT = { war_with = THIS }					
+					OR = {					
+						alliance_with = THIS				
+						overlord_of = THIS				
+						AND = {				
+							is_subject = yes			
+							overlord = {			
+								exists = yes		
+								overlord_of = THIS		
+							}			
+						}				
+						AND = {				
+							is_subject = yes			
+							overlord = {			
+								exists = yes		
+								is_subject = yes		
+								overlord = {		
+									exists = yes	
+									overlord_of = THIS	
+								}		
+							}			
+						}				
+						vassal_of = THIS				
+						AND = {				
+							is_subject = yes			
+							overlord = {			
+								exists = yes		
+								is_subject = yes		
+								vassal_of = THIS		
+							}			
+						}				
+					}					
+					any_core_province = {					
+						culture = 	luxembourg			
+						controlled_by = THIS				
+						NOT = {				
+							OR = {			
+								has_siege = yes		
+								unit_in_battle = yes		
+							}			
+						}				
+						NOT = { owned_by = THIS }				
+						NOT = { is_core = THIS }				
+					}					
+				}						
+			}							
+		}								
+		NOT = {								
+			exists = 	LX2						
+		}								
+	}									
+	mean_time_to_happen = {									
+		days = 1								
+	}									
+	immediate = {									
+		any_province_region = {								
+			limit = {							
+				controlled_by = THIS						
+				NOT = {						
+					OR = {					
+						has_siege = yes				
+						unit_in_battle = yes				
+					}					
+				}						
+				NOT = { owned_by = THIS }						
+				NOT = { is_core = THIS }						
+				culture = 	luxembourg					
+				is_capital = yes						
+				# owner not has other valid capital						
+				owner = {						
+					OR = {					
+						AND = {				
+							NOT = {			
+								OR = {		
+									culture_group = 	bosnia_g
+									culture_group = 	cyprus_g
+									culture_group = 	lebanon_g
+									culture_group = 	iraq_g
+									culture_group = 	south_africa_g
+									culture_group = 	ethiopia_g
+									culture_group = 	zimbabwe-rhodesia_g
+								}		
+							}			
+							NOT = {			
+								any_owned_province = {		
+									NOT = { is_capital = yes }	
+									has_owner_culture = yes	
+								}		
+							}			
+						}				
+						AND = {				
+							culture_group = 	bosnia_g		
+							NOT = {			
+								any_owned_province = {		
+									NOT = { is_capital = yes }	
+									culture_group = 	bosnia_g
+								}		
+							}			
+						}				
+						AND = {				
+							culture_group = 	lebanon_g		
+							NOT = {			
+								any_owned_province = {		
+									NOT = { is_capital = yes }	
+									culture_group = 	lebanon_g
+								}		
+							}			
+						}				
+						AND = {				
+							culture_group = 	iraq_g		
+							NOT = {			
+								any_owned_province = {		
+									NOT = { is_capital = yes }	
+									culture_group = 	iraq_g
+								}		
+							}			
+						}				
+						AND = {				
+							culture_group = 	south_africa_g		
+							NOT = {			
+								any_owned_province = {		
+									NOT = { is_capital = yes }	
+									culture_group = 	south_africa_g
+								}		
+							}			
+						}				
+						AND = {				
+							culture_group = 	ethiopia_g		
+							NOT = {			
+								any_owned_province = {		
+									NOT = { is_capital = yes }	
+									culture_group = 	ethiopia_g
+								}		
+							}			
+						}				
+						AND = {				
+							culture_group = 	zimbabwe-rhodesia_g		
+							NOT = {			
+								any_owned_province = {		
+									NOT = { is_capital = yes }	
+									culture_group = 	zimbabwe-rhodesia_g
+								}		
+							}			
+						}				
+						AND = {				
+							culture_group = 	cyprus_g		
+							NOT = {			
+								any_owned_province = {		
+									NOT = { is_capital = yes }	
+									culture_group = 	cyprus_g
+								}		
+							}			
+						}				
+					}					
+					NOT = { has_country_flag = 5650_temp_flag }					
+				}						
+			}							
+			owner = {							
+				set_country_flag = 5650_temp_flag						
+			}							
+		}								
+		random_country = {								
+			limit = {							
+				NOT = { tag = THIS }						
+				has_country_flag = 5650_temp_flag						
+				NOT = {						
+					any_owned_province = {					
+						region = any_province_region				
+						NOT = {				
+							is_capital = yes			
+						}				
+					}					
+				}						
+			}							
+			any_owned = {							
+				limit = {						
+					region = war_province_region					
+				}						
+				secede_province = E01						
+			}							
+			capital_scope = {							
+				secede_province = 	LX2					
+			}							
+		}								
+		random_country = {								
+			limit = {							
+				NOT = { tag = THIS }						
+				has_country_flag = 5650_temp_flag						
+				any_owned_province = {						
+					region = any_province_region					
+					NOT = {					
+						is_capital = yes				
+					}					
+				}						
+			}							
+			any_owned = {							
+				limit = {						
+					region = war_province_region					
+				}						
+				secede_province = E01						
+			}							
+			random_owned = {							
+				limit = {						
+					region = any_province_region					
+					NOT = { is_capital = yes }					
+				}						
+				secede_province = 	LX2					
+			}							
+			LX2	= {						
+				set_country_flag = 5650_temp_flag_2						
+			}							
+			country_event = 5650							
+		}								
+		any_country = {								
+			limit = {							
+				has_country_flag = 5650_temp_flag						
+			}							
+			clr_country_flag = 5650_temp_flag							
+		}								
+		vassalize = 	LX2							
+	}									
+	option = {									
+		name = "EVTOPT_OK"								
+	}									
+}		

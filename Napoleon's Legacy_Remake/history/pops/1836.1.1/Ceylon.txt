@@ -123,31 +123,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = maghrebi
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = maghrebi
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = maghrebi
 		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = maghrebi
 		religion = sunni
 		size = 25
 	}
 
 	labourers = {
-		culture = mashriqi
+		culture = maghrebi
 		religion = sunni
 		size = 3375
 	}
@@ -447,31 +447,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = maghrebi
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = maghrebi
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = maghrebi
 		religion = sunni
 		size = 750
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = maghrebi
 		religion = sunni
 		size = 25
 	}
 
 	labourers = {
-		culture = mashriqi
+		culture = maghrebi
 		religion = sunni
 		size = 2150
 	}

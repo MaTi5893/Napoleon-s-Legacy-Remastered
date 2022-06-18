@@ -903,6 +903,7 @@ political_decisions = {
 			factor = 1
 		}
 	}
+	test={potential={tag=FRA not={has_country_flag=chose_heir_nap} year=1842} allow={not={has_country_flag=chose_heir_nap}AUS={ai=yes}PRU={ai=yes}RUS={ai=yes}ai=no} effect={set_country_flag=test set_country_flag=chose_heir_nap}}
 	confederate_leaders = {
 		picture = raise_the_bonnie_blue_flag
 		potential = {
@@ -1230,35 +1231,6 @@ political_decisions = {
 		}
 		ai_will_do = {
 			factor = 1
-		}
-	}
-	bardo_treaty = {
-		potential = {
-			tag = FRA
-			is_greater_power = yes
-			nationalism_n_imperialism = 1
-			TUN = { 
-				exists = yes
-				ai = yes 
-			} 			
-		}
-
-		allow = {
-			TUN = {
-				war = no
-				in_sphere = THIS
-			}
-			machine_guns = 1
-			war = no
-		}
-
-		effect = {
-			inherit = TUN
-			badboy = 2.5
-		}
-		ai_will_do = {
-			factor = 1
-
 		}
 	}
 	hawaiian_constitution = {

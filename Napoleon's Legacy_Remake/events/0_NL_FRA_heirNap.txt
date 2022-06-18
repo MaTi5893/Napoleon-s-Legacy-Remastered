@@ -1,8 +1,8 @@
-country_event = {		
+country_event = {		#these events are ai only
 	id = 600013	#han ai
 
 	is_triggered_only = yes
-
+	immediate = { set_country_flag = chose_heir_nap }	#anti-fun
 	title = "EVTNAME600013"
 	desc = "EVTDESC600013"
 	picture = "napoleon_death"
@@ -56,7 +56,7 @@ country_event = {
 
 	is_triggered_only = yes
 
-
+	immediate = { set_country_flag = chose_heir_nap }
 	title = "EVTNAME600013"
 	desc = "EVTDESC600013"
 	picture = "napoleon_death"

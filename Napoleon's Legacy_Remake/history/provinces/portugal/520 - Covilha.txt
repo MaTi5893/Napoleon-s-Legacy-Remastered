@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
-add_core = POR
+owner = UPB
+controller = UPB
+add_core = POR add_core = UPB
 trade_goods = wool
 life_rating = 35

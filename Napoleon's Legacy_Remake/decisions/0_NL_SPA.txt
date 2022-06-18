@@ -245,10 +245,10 @@ political_decisions = {	#you either form iberia or you accept stuff overseas
 				limit = {
 					vassal_of = THIS
 					OR = {
-						accepted_culture = andean
-						accepted_culture = mexican
-						accepted_culture = central_american
-						accepted_culture = platinean
+						primary_culture = andean
+						primary_culture = mexican
+						primary_culture = central_american
+						primary_culture = platinean
 					}
 				}
 				annex_to = THIS
@@ -258,6 +258,7 @@ political_decisions = {	#you either form iberia or you accept stuff overseas
 				add_core = SPC
 			}
 			change_tag = SPC
+			clr_country_flag = spanish_south_america
 		}
 	}
 }

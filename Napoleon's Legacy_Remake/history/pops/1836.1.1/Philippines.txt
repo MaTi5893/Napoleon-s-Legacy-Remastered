@@ -149,25 +149,25 @@
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = filipino
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = filipino
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = filipino
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = filipino
 		religion = catholic
 		size = 6650
 	}
@@ -350,25 +350,25 @@
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = filipino
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = filipino
 		religion = animist
 		size = 450
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = filipino
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = filipino
 		religion = animist
 		size = 9375
 	}
@@ -631,31 +631,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = filipino
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = filipino
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = filipino
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = filipino
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = filipino
 		religion = animist
 		size = 7375
 	}
@@ -718,31 +718,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = filipino
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = filipino
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = filipino
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = filipino
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = filipino
 		religion = animist
 		size = 8525
 	}

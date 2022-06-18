@@ -525,7 +525,6 @@ political_decisions = {
 			}
 		}
 	}
-	
 	kansas_nebraska_act = {
 		potential = {
 			tag = USA

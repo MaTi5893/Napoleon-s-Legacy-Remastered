@@ -258,7 +258,6 @@ political_decisions = {
 				exists = HRO
 				tag = HRO
 			}
-			NOT = { has_country_flag = no_germany } #Bavaria gets this if they accept both Italian and Czech
 		}
 		
 		allow = {

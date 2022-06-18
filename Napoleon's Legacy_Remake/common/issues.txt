@@ -958,6 +958,7 @@ economic_reforms = {
 		yes_western_science = {
 			technology_cost = 4000
 			civilization_progress_modifier = 0.05
+			allow = { year = 1850 }
 			on_execute = {
 				effect = {
 					set_country_flag = indc_flag

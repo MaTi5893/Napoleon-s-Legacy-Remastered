@@ -1,4 +1,4 @@
-country_event = { 	
+country_event = { 		#the day one setup event
 	id = 600420
 	trigger = { 
 		tag = LCT
@@ -8,6 +8,35 @@ country_event = {
 	title = "Setup Event"
 	desc = "Have fun GMing or whatever you're doing ~Rennes : D"
 	immediate = {	
+		enable_canal = 4
+		enable_canal = 5
+		enable_canal = 6
+		enable_canal = 7
+		enable_canal = 8
+		enable_canal = 9
+		enable_canal = 10
+		enable_canal = 11
+		any_country = { 
+			limit = { 	
+				OR = { 	
+					tag = DLM
+					tag = SER
+				}
+			}
+			set_country_flag = YUGO_EASY
+		}
+		any_country = { 
+			limit = { 		
+				tag = ARG
+			}
+			set_country_flag = ARG
+		}
+		any_country = { 
+			limit = { 		
+				tag = AUS
+			}
+			set_country_flag = AUS
+		}
 		AUS_641 = {
 				any_pop = {
 					limit = {
@@ -27,6 +56,7 @@ country_event = {
 		any_country = { 
 			limit = {
 				tag = FRA 
+				ai = yes
 				HAN = {
 					ai = yes 
 				}
@@ -36,6 +66,7 @@ country_event = {
 		any_country = { 
 			limit = {
 				tag = FRA 
+				ai = yes
 				HAN = {
 					ai = no
 				}
@@ -298,14 +329,6 @@ country_event = {
 	}
 	option = {
 		name = "OK" 
-		enable_canal = 4
-		enable_canal = 5
-		enable_canal = 6
-		enable_canal = 7
-		enable_canal = 8
-		enable_canal = 9
-		enable_canal = 10
-		enable_canal = 11
 	}
 }
 	country_event = { 	
@@ -334,6 +357,6 @@ country_event = {
 		is_triggered_only = yes
 		title = "RIP Bozo"
 		desc = "You just got kicked"
-		immediate = { add_country_modifier = { name = bigchungus duration = 1 } } 
+		immediate = { add_country_modifier = { name = bigchungus duration = 1 } } 	#intentionally invalid modifier to cause an instant crash to desktop
 		option = { name = "lol" } 
 	}
