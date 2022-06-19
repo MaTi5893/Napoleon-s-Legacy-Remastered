@@ -59,7 +59,7 @@ country_event = {
 		year = 1870
 		NOT = { has_country_flag = republic }
 		NOT = { has_country_modifier = emperor_council }
-		set_country_flag = emperorscouncil
+		NOT = { has_country_flag = emperorscouncil }
 	}
 
 	fire_only_once = yes
