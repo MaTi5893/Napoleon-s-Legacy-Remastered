@@ -46,4 +46,7 @@ country_event = {
 		}
         FROM = {set_country_flag = political_bonus_immigration}
 	}
+	option = {
+		name = "Nothing"	
+	}
 }
