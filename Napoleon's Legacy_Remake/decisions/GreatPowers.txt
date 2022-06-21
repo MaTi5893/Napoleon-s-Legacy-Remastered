@@ -64,17 +64,8 @@ political_decisions = {
 	poland_is_no_more = {
 		picture = decision_no_more_pol
         potential = {
-            OR = {
-               tag=RUS
-               tag=PRU
-               tag=AUS 
-			   tag=NGF
-			   tag=GER
-			   tag=KUK
-            }
+           has_country_flag = partitioners
 			PLC = {exists = no}
-			ZAC = { exists = no }
-			NOT = { has_country_flag = poland_is_no_more } 
         }
         allow = {
 			PLC = {exists=no}
@@ -82,7 +73,7 @@ political_decisions = {
             is_greater_power=yes
         }
         effect = {
-			set_country_flag = poland_is_no_more
+			clr_country_flag = partitioners
             prestige=5
             any_pop = {
                 limit = {

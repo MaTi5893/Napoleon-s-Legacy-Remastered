@@ -14,24 +14,32 @@ political_decisions = {
                     empty = yes
                 }
             }
-            NEN = {
-                all_core = {
+	USA_243 = {
                     OR = {
                         owned_by = THIS
                         owner = {
                             vassal_of = THIS
                         }
                     }
-                }
-            }
+             }
+	USA_247 = {
+                    OR = {
+                        owned_by = THIS
+                        owner = {
+                            vassal_of = THIS
+                        }
+                    }
+             }
         }
         effect = {
 	set_country_flag = take_new_england
-            NEN = {
-                all_core = {
-                    add_core = THIS
-                    secede_province = THIS
-                }
+            USA_243 = {
+            	add_core = THIS
+           		secede_province = THIS
+            }
+            USA_247 = {
+            	add_core = THIS
+           		secede_province = THIS
             }
             prestige = 20
         }
@@ -45,10 +53,11 @@ political_decisions = {
         }
         allow = {
             is_vassal = no
-            NEN = {
-                all_core = {
-                    is_core = CAN
-                }
+            USA_243 = {
+                    is_core = CAN    
+            }
+            USA_247 = {
+                    is_core = CAN    
             }
             war = no
             state_n_government = 1

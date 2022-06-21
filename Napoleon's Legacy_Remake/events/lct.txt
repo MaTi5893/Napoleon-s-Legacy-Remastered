@@ -8,6 +8,19 @@ country_event = { 		#the day one setup event
 	title = "Setup Event"
 	desc = "Have fun GMing or whatever you're doing ~Rennes : D"
 	immediate = {	
+		any_country = { 
+			limit = { 
+				OR = { 
+					tag = RUS 
+					tag = PRU 
+					tag = AUS 
+					tag = NGF 
+					tag = GER 
+					tag = KUK
+				}
+			}
+			set_country_flag = partitioners
+		}
 		enable_canal = 4
 		enable_canal = 5
 		enable_canal = 6
@@ -25,18 +38,8 @@ country_event = { 		#the day one setup event
 			}
 			set_country_flag = YUGO_EASY
 		}
-		any_country = { 
-			limit = { 		
-				tag = ARG
-			}
-			set_country_flag = ARG
-		}
-		any_country = { 
-			limit = { 		
-				tag = AUS
-			}
-			set_country_flag = AUS
-		}
+		ARG = { set_country_flag = ARG }
+		AUS = { set_country_flag = AUS }
 		AUS_641 = {
 				any_pop = {
 					limit = {
@@ -309,23 +312,6 @@ country_event = { 		#the day one setup event
 				} 
 			set_country_flag = indc2_flag
 			}
-			any_country = { 
-				limit = { 
-					tag = AUS
-				} 
-				country_event = 600044
-			}
-		any_country = { 
-			limit = { 		
-				OR = { 
-					primary_culture = andean
-					primary_culture = mexican
-					primary_culture = central_american
-					primary_culture = platinean
-				}
-			}
-			set_country_flag = LatinAmerica
-		}
 	}
 	option = {
 		name = "OK" 

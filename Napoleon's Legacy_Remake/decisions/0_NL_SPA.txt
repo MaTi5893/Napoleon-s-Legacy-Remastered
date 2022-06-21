@@ -2,10 +2,7 @@ political_decisions = {	#you either form iberia or you accept stuff overseas
 	form_iberia = {
 		picture = iberia
 		potential = {
-			OR = {
-				tag = SPA 
-				tag = POR
-			}
+			tag = SPA 
 			NOT = { accepted_culture = caribeno }	
 		}
 		allow = {
@@ -38,17 +35,14 @@ political_decisions = {	#you either form iberia or you accept stuff overseas
 		effect = {
 			prestige =10
 			change_tag = IBR
-			POR = { 
-				any_owned = { 
-					limit = { is_core = BRZ } 
+			POR = {
+				all_core = {
+					secede_province = THIS 
 				}
-				secede_province = BRZ 
 			}
-			inherit = POR
 			inherit = SPA 
 			POR = { all_core = { add_core = THIS } } 
 			SPA = { all_core = { add_core = THIS } }
-			clr_country_flag = LatinAmerica #im not sure if this is necessary but whatever
 			add_accepted_culture = spanish
 			add_accepted_culture = catalan
 			add_accepted_culture = basque
@@ -89,7 +83,6 @@ political_decisions = {	#you either form iberia or you accept stuff overseas
 				}
 			}
 			add_accepted_culture=caribeno
-			set_country_flag = LatinAmerica
 			add_accepted_culture=afro_caribeno
 			add_accepted_culture = afro_caribbean
 			badboy = 5
@@ -117,148 +110,6 @@ political_decisions = {	#you either form iberia or you accept stuff overseas
 			SPA_1459 = { add_core = THIS }
 			add_accepted_culture = filipino
 
-		}
-	}
-
-	spain_south_america = { 
-		picture = conquistadors
-		potential = {
-			has_country_flag = LatinAmerica 	#Set by lct.txt and the Caribeno decision in this file
-			NOT = { tag = IBR }
-			NOT = { has_country_flag = spanish_south_america }
-		}
-		allow = { 
-			war = no
-			2247 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						vassal_of = THIS
-					}
-				}
-			}
-			2264 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						vassal_of = THIS
-					}
-				}
-			}
-			2186 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						vassal_of = THIS
-					}
-				}
-			}
-			2172 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						vassal_of = THIS
-					}
-				}
-			}
-			2295 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						vassal_of = THIS
-					}
-				}
-			}
-			2339 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						vassal_of = THIS
-					}
-				}
-			}
-			2348 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						vassal_of = THIS
-					}
-				}
-			}
-			2324 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						vassal_of = THIS
-					}
-				}
-			}
-			2279 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						vassal_of = THIS
-					}
-				}
-			}
-			revolution_n_counterrevolution = 1 
-			is_greater_power = yes
-		}
-		effect = { 
-			set_country_flag = spanish_south_america
-			GCO = { all_core = { add_core = THIS } } 
-			PEU = { all_core = { add_core = THIS } }
-			ARG = { all_core = { add_core = THIS } }
-			PRG = { all_core = { add_core = THIS } }
-			CHL = { all_core = { add_core = THIS } }
-			UCA = { all_core = { add_core = THIS } }
-			MEX = { all_core = { add_core = THIS } }
-			BOL = { all_core = { add_core = THIS } }
-			badboy = 20
-		}
-	}
-
-	hispanic_commonwealth = {
-		picture = spanish_commonwealth_decision
-		potential = {
-			has_country_flag = spanish_south_america
-		}
-		allow = {
-			war = no
-			mass_politics = 1
-			all_core = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						vassal_of = THIS
-					}
-				}
-			}
-			is_greater_power = yes
-		}
-		effect = {
-			add_accepted_culture = andean
-			add_accepted_culture = mexican
-			add_accepted_culture = central_american
-			add_accepted_culture = platinean
-			any_country = {
-				limit = {
-					vassal_of = THIS
-					OR = {
-						primary_culture = andean
-						primary_culture = mexican
-						primary_culture = central_american
-						primary_culture = platinean
-					}
-				}
-				annex_to = THIS
-			}
-			prestige = 50
-			all_core = {
-				add_core = SPC
-			}
-			change_tag = SPC
-			clr_country_flag = spanish_south_america
 		}
 	}
 }

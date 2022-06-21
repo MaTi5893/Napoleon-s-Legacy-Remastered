@@ -30,14 +30,10 @@ political_decisions = {
 		}
 	}
 
-	reconquest_of_north_territory = { 
+	reconquest_of_north_territory = { #MAYBE have these decisions give cores on the land (and PLC would start without it?)
 		picture = decision_prussia_POL
 		potential = {
-			OR = {
-				tag=PLC
-				tag = POL
-				tag =ZAC
-			}
+			primary_culture = polish
 			NOT = {has_country_flag=reconquest_of_north_territory}
 		}
 		allow = {
@@ -59,11 +55,7 @@ political_decisions = {
 	unite_poles1 = {
 		picture = decision_all_POL
 		potential = {
-			OR = {
-				tag=PLC
-				tag = POL
-				tag =ZAC
-			}
+			primary_culture = polish
 			has_country_flag=reconquest_of_north_territory
 			NOT = {has_country_flag=unite_poles1}
 		}
@@ -85,11 +77,7 @@ political_decisions = {
 	unite_poles2={
 		picture = decision_all_POL
 		potential = {
-			OR = {
-				tag=PLC
-				tag = POL
-				tag =ZAC
-			}
+			primary_culture = polish
 			has_country_flag=reconquest_of_north_territory
 			NOT = {has_country_flag=unite_poles2}
 		}
@@ -106,49 +94,6 @@ political_decisions = {
 		effect = {
 			prestige=5
 			set_country_flag=unite_poles2
-		}
-	}
-	all_poles_united = {
-		picture = decision_all_POL
-		potential = {
-			OR = {
-				tag=PLC
-				tag =ZAC
-			}
-			NOT = {has_country_flag=all_poles_united}
-			has_country_flag = reconquest_of_north_territory
-			has_country_flag = unite_poles1
-			has_country_flag = unite_poles2
-		}
-		allow = {
-			POL = {
-				all_core = {
-					owned_by=THIS
-				}
-			}
-			is_greater_power=yes
-		}
-		effect = {
-			prestige = 20
-			any_pop = {
-				limit = {
-					culture=polish
-				}
-				militancy=-2
-				consciousness=-2
-			}
-			POL = {
-				all_core = {
-
-					remove_core = AUS
-					remove_core = GER
-					remove_core = NGF
-					remove_core = KUK
-					remove_core = PRU
-					remove_core = UKR
-				}
-			}
-			set_country_flag = all_poles_united
 		}
 	}
 }

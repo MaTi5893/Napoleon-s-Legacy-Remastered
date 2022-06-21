@@ -41,9 +41,6 @@
 peace_order = { 
 add_to_sphere 
 take_from_sphere 
-recover_homeland
-return_home_annex
-the_true_government
 status_quo 
 gunboat 
 conquest 
@@ -63,7 +60,6 @@ become_independent
 make_puppet
 dismantle_forts
 humiliate
-take_puppet
 demand_concession_casus_belli
 demand_concession_casus_belli_china
 demand_concession_casus_belli_ai_early
@@ -276,7 +272,7 @@ add_to_sphere = {
 	months = 12
 	crisis = no
 
-	badboy_factor = 0.5
+	badboy_factor = 2
 	prestige_factor = 1.8
 	peace_cost_factor = 10
 	penalty_factor = 1
@@ -322,7 +318,7 @@ take_from_sphere = {
 	is_triggered_only = yes
 	months = 12
 	
-	badboy_factor = 0.5
+	badboy_factor = 2
 	prestige_factor = 3
 	peace_cost_factor = 10
 	penalty_factor = 1
@@ -461,9 +457,6 @@ acquire_core_state = {
 			value = 0.25
 		}
 	}
-	on_po_accepted = {
-		country_event =	2650	# Territorial Loss event
-	}
 }
 
 # Annex Core Country
@@ -525,7 +518,7 @@ acquire_substate_region = {
 	
 	badboy_factor = 1
 	prestige_factor = 1.8
-	peace_cost_factor = 0.9
+	peace_cost_factor = 1.2
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -583,7 +576,7 @@ acquire_state = {
 	
 	badboy_factor = 1.1
 	prestige_factor = 1.8
-	peace_cost_factor = 0.85
+	peace_cost_factor = 1.2
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -619,21 +612,6 @@ acquire_state = {
 			}
 		}
 	}
-	allowed_countries = {
-		OR = {
-			FROM = { vassal_of = THIS }
-			FROM = { substate_of = THIS }
-			FROM = { tag = THIS } 
-			AND = { 
-				THIS = { ai = no }
-				FROM = { ai = no } 
-				THIS = { alliance_with = FROM }
-			} 
-		}
-		FROM = {
-			exists = yes
-		}
-	}
 	allowed_states = {
 		is_colonial = no
 		any_owned_province = {
@@ -643,8 +621,7 @@ acquire_state = {
 		not = { any_owned_province = { is_capital = yes } }
 	}		
 
-	po_transfer_provinces = yes
-	#po_demand_state = yes 
+	po_demand_state = yes 
 	war_name = WAR_TAKE_NAME
 	
 	on_add = {
@@ -666,7 +643,7 @@ place_in_the_sun = {
 
 	badboy_factor = 0.5
 	prestige_factor = 1.8
-	peace_cost_factor = 0.85
+	peace_cost_factor = 0.9
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -685,22 +662,7 @@ place_in_the_sun = {
 			is_colonial = yes
 		}	
 	}
-	
-	allowed_countries = {
-		OR = {
-			FROM = { vassal_of = THIS }
-			FROM = { substate_of = THIS }
-			FROM = { tag = THIS } 
-			AND = { 
-				THIS = { ai = no }
-				FROM = { ai = no } 
-				THIS = { alliance_with = FROM }
-			} 
-		}
-		FROM = {
-			exists = yes
-		}
-	}
+
 	allowed_states = {
 		is_colonial = yes
 	}
@@ -715,8 +677,7 @@ place_in_the_sun = {
 			}
 		}
 	}
-
-	po_transfer_provinces = yes
+	po_demand_state = yes 
 
 	war_name = WAR_COLONIAL_NAME
 	
@@ -739,7 +700,7 @@ colonial_competition = {
 
 	badboy_factor = 0
 	prestige_factor = 1.8
-	peace_cost_factor = 0.85
+	peace_cost_factor = 0.9
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -813,7 +774,7 @@ demand_reperations = {
 	
 	badboy_factor = 0.5
 	prestige_factor = 1
-	peace_cost_factor = 15
+	peace_cost_factor = 25
 	penalty_factor = 1
 	
 	construction_speed = 0.5
@@ -865,7 +826,7 @@ cut_down_to_size_boxer = {
 	
 	badboy_factor = 0.65
 	prestige_factor = 1
-	peace_cost_factor = 30
+	peace_cost_factor = 25
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -897,7 +858,7 @@ free_peoples = {
 	is_triggered_only = yes
 	months = 12
 
-	badboy_factor = 0.66
+	badboy_factor = 1.5
 	prestige_factor = 1
 	peace_cost_factor = 1
 	penalty_factor = 1
@@ -975,9 +936,6 @@ free_peoples = {
 			value = 0.25
 		}
 	}
-	on_po_accepted = {
-		country_event =	2651	# Territorial Loss event
-	}
 }
 
 # Liberate country
@@ -988,7 +946,7 @@ liberate_country = {
 	
 	construction_speed = 0.5
 
-	badboy_factor = 1.3
+	badboy_factor = 2.2
 	prestige_factor = 1
 	peace_cost_factor = 1
 	penalty_factor = 1
@@ -1086,9 +1044,9 @@ dismantle_forts = {
 	
 	construction_speed = 0.5
 
-	badboy_factor = 0.3
+	badboy_factor = 1
 	prestige_factor = 1
-	peace_cost_factor = 1.25
+	peace_cost_factor = 5
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -1142,9 +1100,9 @@ release_puppet = {
 	
 	construction_speed = 0.5
 
-	badboy_factor = 1.5
+	badboy_factor = 1
 	prestige_factor = 1
-	peace_cost_factor = 12.5
+	peace_cost_factor = 15
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -1257,9 +1215,9 @@ become_independent = {
 	
 	always = yes
 
-	badboy_factor = 3
+	badboy_factor = 1
 	prestige_factor = 1
-	peace_cost_factor = 40
+	peace_cost_factor = 15
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -1273,21 +1231,13 @@ become_independent = {
 
 	can_use = {
 		is_our_vassal = THIS
-		has_recently_lost_war = no
 	}
 	
 	# THIS - us
 	# FROM - country scope is possible match?
 	# war target country of goal is scope
-	allowed_countries = {
-		OR = {
-			FROM = { is_our_vassal = THIS }
-			war_with = THIS
-		}
-	}
 	
 	po_release_puppet = yes
-	po_add_to_sphere = yes
 
 	war_name = WAR_INDEPENDENCE_NAME
 	
@@ -1385,22 +1335,7 @@ demand_concession_casus_belli = {
 		civilized = no
 		number_of_states = 2
 	}
-	
-	allowed_countries = {
-		OR = {
-			FROM = { vassal_of = THIS }
-			FROM = { substate_of = THIS }
-			FROM = { tag = THIS } 
-			AND = { 
-				THIS = { ai = no }
-				FROM = { ai = no } 
-				THIS = { alliance_with = FROM }
-			} 
-		}
-		FROM = {
-			exists = yes
-		}
-	}
+
 
 	allowed_states = {
 		NOT = { any_owned_province = { is_core = CHI } }
@@ -1410,7 +1345,7 @@ demand_concession_casus_belli = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_transfer_provinces = yes
+	po_demand_state = yes 
 	
 	war_name = WAR_CONCESSION_NAME
 
@@ -2066,7 +2001,7 @@ take_capital = {
 	
 	badboy_factor = 1.4
 	prestige_factor = 10
-	peace_cost_factor = 0.85
+	peace_cost_factor = 1.4
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
@@ -2104,22 +2039,6 @@ take_capital = {
 		
 	}
 
-	allowed_countries = {
-		OR = {
-			FROM = { vassal_of = THIS }
-			FROM = { substate_of = THIS }
-			FROM = { tag = THIS } 
-			AND = { 
-				THIS = { ai = no }
-				FROM = { ai = no } 
-				THIS = { alliance_with = FROM }
-			} 
-		}
-		FROM = {
-			exists = yes
-		}
-	}
-
 	allowed_states = {
 		is_colonial = no
 		any_owned_province = {
@@ -2136,8 +2055,7 @@ take_capital = {
 			}
 		}
 	}		
-
-	po_transfer_provinces = yes
+	po_demand_state = yes 
 	
 	war_name = WAR_TAKE_NAME
 	
@@ -2411,22 +2329,6 @@ demand_colonial_concession_casus_belli = {
 		civilized = no
 		number_of_states = 2
 	}
-	
-	allowed_countries = {
-		OR = {
-			FROM = { vassal_of = THIS }
-			FROM = { substate_of = THIS }
-			FROM = { tag = THIS } 
-			AND = { 
-				THIS = { ai = no }
-				FROM = { ai = no } 
-				THIS = { alliance_with = FROM }
-			} 
-		}
-		FROM = {
-			exists = yes
-		}
-	}
 
 	allowed_states = {
 		any_owned_province = {
@@ -2435,77 +2337,10 @@ demand_colonial_concession_casus_belli = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_transfer_provinces = yes
+	po_demand_state = yes 
 	
 	war_name = WAR_CONCESSION_NAME
 
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.1
-		}
-	}
-}
-#Demand Colony For Allies
-demand_colony_for_allies = {
-	sprite_index = 5
-	is_triggered_only = yes
-	months = 12
-	construction_speed = 0.5
-
-	badboy_factor = 0.5
-	prestige_factor = 1
-	peace_cost_factor = 1
-	penalty_factor = 1
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 1
-	break_truce_militancy_factor = 1
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-
-	# THIS - us
-	# FROM - country scope is possible match?
-	# war target country of goal is scope
-
-	can_use = {
-
-		OR = {
-			colonial_nation = yes
-			civilized = no
-		} 
-		number_of_states = 2
-		NOT = {
-			tag = FROM
-			this_culture_union = FROM
-		}
-		FROM = {
-			exists = yes
-			THIS = {
-				
-			}
-			
-		}
-	}
-
-	# THIS - us
-	# FROM - country scope is possible match?
-	# war target country of goal's state
-	allowed_states = {
-		any_owned_province = {
-			is_colonial = yes
-		}
-		NOT = { any_owned_province = { is_capital = yes } }
-	}
-
-	po_transfer_provinces = yes
-	
-	war_name = WAR_FORALLIES_NAME
-	
 	on_add = {
 		move_issue_percentage = { 
 			from = jingoism 
@@ -2674,22 +2509,7 @@ demand_concession_casus_belli_player_early = {
 		civilized = no
 		number_of_states = 2
 	}
-	
-	allowed_countries = {
-		OR = {
-			FROM = { vassal_of = THIS }
-			FROM = { substate_of = THIS }
-			FROM = { tag = THIS } 
-			AND = { 
-				THIS = { ai = no }
-				FROM = { ai = no } 
-				THIS = { alliance_with = FROM }
-			} 
-		}
-		FROM = {
-			exists = yes
-		}
-	}
+
 
 	allowed_states = {
 		NOT = { any_owned_province = { is_core = CHI } }
@@ -2699,7 +2519,7 @@ demand_concession_casus_belli_player_early = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_transfer_provinces = yes
+	po_demand_state = yes 
 	
 	war_name = WAR_CONCESSION_NAME
 
@@ -2749,22 +2569,6 @@ demand_concession_casus_belli_ai_early = {
 		civilized = no
 		number_of_states = 2
 	}
-	
-	allowed_countries = {
-		OR = {
-			FROM = { vassal_of = THIS }
-			FROM = { substate_of = THIS }
-			FROM = { tag = THIS } 
-			AND = { 
-				THIS = { ai = no }
-				FROM = { ai = no } 
-				THIS = { alliance_with = FROM }
-			} 
-		}
-		FROM = {
-			exists = yes
-		}
-	}
 
 	allowed_states = {
 		NOT = { any_owned_province = { is_core = CHI } }
@@ -2774,7 +2578,7 @@ demand_concession_casus_belli_ai_early = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_transfer_provinces = yes
+	po_demand_state = yes 
 	
 	war_name = WAR_CONCESSION_NAME
 
@@ -2785,111 +2589,4 @@ demand_concession_casus_belli_ai_early = {
 			value = 0.1
 		}
 	}
-}
-
-the_true_government = {
-	sprite_index = 2
-	#is_triggered_only = yes
-	always=no
-	months = -1
-	constructing_cb = no
-	crisis = no
-	
-	can_use = {
-		tag = ENG
-		THIS = {
-			tag = GBR
-		}
-	}
-
-	badboy_factor = 0
-	prestige_factor = 1
-	peace_cost_factor = 0.80
-	penalty_factor = 1
-	is_civil_war = yes #this is a civil war
-
-	break_truce_prestige_factor = 5
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
-	truce_months = 0
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-
-	po_annex = yes
-	
-	war_name = "GBRtrollingENG"
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-}
-take_puppet = {
-    sprite_index = 10
-    is_triggered_only = yes
-    months = 12
-
-    construction_speed = 0.4
-
-    badboy_factor = 1.8
-    prestige_factor = 1
-    peace_cost_factor = 25	#This x2 = actual peacecost for taking a puppet
-    penalty_factor = 1
-
-    break_truce_prestige_factor = 1
-    break_truce_infamy_factor = 1
-    break_truce_militancy_factor = 1
-    truce_months = 0
-
-    good_relation_prestige_factor = 1
-    good_relation_infamy_factor = 1
-    good_relation_militancy_factor = 1
-
-    can_use = {
-        NOT = { is_our_vassal = THIS }
-        civilized = yes
-        OR = { 
-		num_of_vassals_no_substates = 1 
-		AND = { 
-			num_of_substates = 1 
-    			UKR = { 
-				is_substate = yes 
-				overlord = { tag = RUS } 
-			}
-		}
-	}
-    }
-
-    # THIS - us
-    # FROM - country scope is possible match?
-    # war target country of goal is scope
-    allowed_countries = {
-        is_our_vassal = FROM
-        FROM = { OR = { is_substate = no tag = UKR } }
-    }
-
-    po_release_puppet = yes
-    po_add_to_sphere = yes
-
-    war_name = WAR_NAME
-
-    on_add = {
-        any_country = {
-			limit = {
-				exists = yes
-				vassal_of = FROM
-				OR = { is_substate = no tag = UKR }
-			}
-			set_country_flag = transfer_to_new_overlord
-		}
-    }
-
-    on_po_accepted = {
-        THIS = { set_country_flag = new_overlord }
-    }
 }

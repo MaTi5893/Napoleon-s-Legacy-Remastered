@@ -22,6 +22,7 @@ political_decisions = {
 				NGF = { exists = yes }
 				GER = { exists = yes }
 				GCF = { exists = yes } 
+				ITA = { exists = yes }
 				HAN = {is_greater_power = yes}
 				is_greater_power = no
 				

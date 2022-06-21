@@ -98,44 +98,6 @@ political_decisions = {
 			add_accepted_culture = finnish
 		}
 	}
-
-	annex_ukraine = {
-		picture = decision_ukraine
-		potential = {
-			OR = {
-				tag = RUS
-				tag = PLC
-			}
-			NOT = {has_country_flag = annex_ukraine}
-			NOT = {has_country_flag = hide_western_russia}
-			UKR = {exists = yes}
-		}
-		allow = {
-			is_greater_power = yes
-			OR = {
-				UKR = {vassal_of = THIS}
-				UKR = {in_sphere = THIS}
-			}
-			war = no
-			UKR = {
-				all_core = {
-					OR = {
-						owned_by = UKR 
-						owned_by = THIS 
-					}
-				}
-			}
-			nationalism_n_imperialism=1
-		}
-		effect = {
-			prestige = 10
-			UKR = {
-				all_core = {add_core = THIS}
-			}
-			UKR = {annex_to = THIS}
-			set_country_flag = annex_ukraine
-		}
-	}
 	
 	acceptance_of_belarus = {
 		picture = decision_belarus
@@ -170,31 +132,6 @@ political_decisions = {
 		}
 	}
 
-	give_ukraine_to_poland = {
-		picture = decision_ukraine
-		potential = {
-			tag = RUS
-			UKR = {vassal_of = THIS}
-		}
-		allow = {
-			war = no
-		}
-		effect = {
-			prestige = -10
-			release_vassal = UKR
-			PLC = {create_vassal = UKR}
-			PLC = { country_event = 181503 }
-			UKR = {
-				all_core = {
-					limit = {
-						owned_by = PLC
-					}
-					remove_core = UKR
-				}	
-			}
-		}
-		ai_will_do = { factor = 0 }
-	}
 
 	acceptance_of_ukraine = {
 		picture = decision_ukraine
