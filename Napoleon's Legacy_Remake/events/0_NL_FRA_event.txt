@@ -1,8 +1,10 @@
-country_event = {
+country_event = {		#entire file needs to get remade on jah
 	id = 600023
 	trigger = {
 		tag = FRA
-		NOT = {year = 1870}
+		NOT = {year = 1870}		#having 5 seperate NOTs is bad for performance but i dont care
+		NOT = { has_country_flag = republic } 
+		NOT = { government = democracy }
 		NOT = { has_country_modifier = emperor_council }
 		NOT = { has_country_flag = council_disbanded }
 		OR = {
@@ -57,8 +59,10 @@ country_event = {
 	trigger = {
 		tag = FRA
 		year = 1870
-		NOT = { has_country_flag = republic }
+		NOT = { has_country_flag = republic } 
+		NOT = { government = democracy }
 		NOT = { has_country_modifier = emperor_council }
+		NOT = { has_country_flag = emperorcouncilconclusion }
 	}
 
 	fire_only_once = yes
@@ -72,11 +76,13 @@ country_event = {
 	picture = "emperor_council"
     option = {
         name = "Let the council establish a new republic, we can't risk the consequences of opposing it now..."
+	set_country_flag = emperorcouncilconclusion	#im not sure if this is necessary with the fireonlyonce but Jupiter's timelapse had France flipflop all over the place 
         any_pop = {
 			militancy=-1
 			consciousness=-1
 		}
 		government = democracy
+		random_country = { limit = { tag = THIS political_reform = no_voting } political_reform = wealth_voting }
 		add_country_modifier = {
 			name = french_republic
 			duration = -1
@@ -87,6 +93,7 @@ country_event = {
 	}
 	option = {
         name = "I'm the only one who rule over France!"
+set_country_flag = emperorcouncilconclusion
         any_pop = {
 			militancy=2
 			consciousness=2

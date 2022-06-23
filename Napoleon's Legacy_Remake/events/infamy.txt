@@ -13,13 +13,14 @@ country_event = {
 	mean_time_to_happen = {
 		days = 1
 	}
-	
-	option = {
-		name = "God Damnit"
-		add_country_modifier = {
-			name = badboymod
+	immediate = { 
+		add_country_modifier = {	#thanks onions
+			name = badboymod	
 			duration = -1
 		}
+	}
+	option = {
+		name = "God Damnit"
 	}
 }
 
@@ -33,16 +34,18 @@ country_event = {
 	trigger = {
 		has_country_modifier = badboymod
 		NOT = { badboy = 1 }
-				} 
+	} 
 	
 	
 	mean_time_to_happen = {
 		days = 1
 	}
-	
+
+	immediate = { 
+		remove_country_modifier = badboymod
+	}
 	option = {
 		name = "Thank God"
-		remove_country_modifier = badboymod
 	}
 	
 }
