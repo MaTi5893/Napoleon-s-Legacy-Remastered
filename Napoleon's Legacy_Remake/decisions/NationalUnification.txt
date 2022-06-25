@@ -8,7 +8,6 @@ political_decisions = {
 					exists = SGF
 					exists = GER
 					tag = KUK
-					tag = HRO
 				}
 			}
 		}	
@@ -141,7 +140,6 @@ political_decisions = {
 			NOT = {
 				exists = GER
 				exists = NGF
-				exists = HRO
 			}
 		}	
 		allow = {
@@ -255,8 +253,6 @@ political_decisions = {
 				exists = GER
 				exists = GCF
 				tag = KUK
-				exists = HRO
-				tag = HRO
 			}
 		}
 		

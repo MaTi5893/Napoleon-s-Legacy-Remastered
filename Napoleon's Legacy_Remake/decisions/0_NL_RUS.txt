@@ -4,7 +4,6 @@ political_decisions = {
 		potential = {
 			tag = RUS
 			NOT = { has_country_flag = repartition_poland_RUS }
-			NOT = {has_country_flag = hide_western_russia}
 		}
 		allow = {
 			war = no
@@ -31,16 +30,11 @@ political_decisions = {
 			set_country_flag = repartition_poland_RUS
 		}
 	}
-	baltic_influence = {
-		picture = decision_baltic_acceptance
+	baltic_influence_RUS = {
+		picture = decision_baltic_acceptance_RUS
 		potential = {
-			OR = {
-				tag = SWE
-				tag = SCA
-				tag = RUS
-			}
+			tag = RUS
 			NOT = {accepted_culture = estonian}
-			NOT = {accepted_culture = Scotish}
 			NOT = {accepted_culture = georgian}
 			NOT = {accepted_culture = aryan}
 			NOT = {accepted_culture = turkic}
@@ -99,8 +93,8 @@ political_decisions = {
 		}
 	}
 	
-	acceptance_of_belarus = {
-		picture = decision_belarus
+	acceptance_of_belarus_RUS = {
+		picture = decision_belarus_RUS
 		potential = {
 			OR = {
 				tag = RUS
@@ -133,13 +127,10 @@ political_decisions = {
 	}
 
 
-	acceptance_of_ukraine = {
-		picture = decision_ukraine
+	acceptance_of_ukraine_RUS = {
+		picture = decision_ukraine_RUS
 		potential = {
-			OR = {
-				tag = RUS
-				tag = PLC
-			}
+			tag = RUS
 			NOT = {accepted_culture = ukrainian}
 			NOT = {accepted_culture = georgian}
 			NOT = {accepted_culture = aryan}
@@ -164,16 +155,6 @@ political_decisions = {
 			revolution_n_counterrevolution=1
 		}
 		effect = {
-			any_country = {
-				limit = {
-					primary_culture = ukrainian
-					OR = {
-						vassal_of = THIS
-						in_sphere = THIS
-					}
-				}
-				annex_to = THIS
-			}
 			add_accepted_culture = ukrainian
 			prestige = 12
 		}
@@ -376,7 +357,7 @@ political_decisions = {
 		}
 	}
 	hide_western_russia = {
-		picture = decision_ukraine
+		picture = decision_ukraine_RUS
 		potential = {
 			NOT = {has_country_flag = hide_western_russia}
 			NOT = {has_country_flag = hide_southern_russia}

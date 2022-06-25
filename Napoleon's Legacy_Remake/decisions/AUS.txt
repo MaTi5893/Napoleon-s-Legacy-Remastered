@@ -105,14 +105,8 @@ political_decisions = {
 	
 	the_grunderzeit = {
 		potential = {
-			OR = {
-				tag = AUS
-				tag = KUK
-			}
+			has_country_flag = AUS2
 			owns = 619
-			NOT = {
-				has_country_flag = grunderzeit_we_have_done
-			}
 		}
 		allow = {
 			iron_railroad = 1
@@ -129,7 +123,7 @@ political_decisions = {
 				life_rating = 5
 			}
 			prestige = 10
-			set_country_flag = grunderzeit_we_have_done
+			clr_country_flag = AUS2
 		}
 	}
 	
@@ -137,12 +131,7 @@ political_decisions = {
 		potential = {
 			primary_culture = south_german
 			owns = 767 #Maribor
-			NOT = {
-				OR = {
-					tag = HRO
-					has_country_flag = slovene_language_at_celje_gymnasium
-				}
-			}
+			NOT = { has_country_flag = slovene_language_at_celje_gymnasium }
 		}
 		allow = {
 			767 = {
@@ -188,13 +177,7 @@ political_decisions = {
 
 	the_final_abolishment_of_serfdom = { #original VIP event by Hrast
 		potential = {
-			OR = {
-				tag = AUS
-				tag = KUK
-			}
-			NOT = {
-				has_country_flag = the_final_abolishment_of_serfdom
-			}
+			has_country_flag = AUS3
 		}
 		allow = {
 			OR = {
@@ -241,7 +224,7 @@ political_decisions = {
 				ideology = conservative
 				value = 0.25
 			}
-			set_country_flag = the_final_abolishment_of_serfdom
+			clr_country_flag = AUS3
 		}
 	}
 	

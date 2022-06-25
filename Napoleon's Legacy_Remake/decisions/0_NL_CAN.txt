@@ -110,7 +110,7 @@ political_decisions = {
             }
             add_country_modifier = {
 				name = nau_united
-				duration = -1
+				duration = 730
 			}
             prestige = 30
         }

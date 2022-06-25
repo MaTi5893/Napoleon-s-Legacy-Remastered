@@ -1,188 +1,7 @@
 political_decisions = {
-#Brazil
-	fatherland_volunteers = {
-		potential = {
-			tag = BRZ
-			government = hms_government
-			NOT = {
-				has_country_flag = pedro_said_it_best
-			}
-		}
-		allow = {
-			army_decision_making = 1
-			war = yes
-		}
-		effect = {
-			war_exhaustion = -1
-			prestige = 10
-			set_country_flag = pedro_said_it_best
-		}
-	}
-
-	the_golden_law = {
-		potential = {
-			tag = BRZ
-			OR = {
-				government = hms_government
-				government = democracy
-			}
-			NOT = {
-				has_country_flag = free_at_last
-				ruling_party_ideology = reactionary
-				slavery = no_slavery
-			}
-		}
-		allow = {
-			nationalism_n_imperialism = 1
-		}
-		effect = {
-			set_country_flag = free_at_last
-			any_pop = {
-				limit = {
-					pop_type = aristocrats
-				}
-				consciousness = 5
-				militancy = 10
-			}
-			political_reform = no_slavery	
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
-	provincia_cisplatina={
-		picture = banda_oriental
-		potential = {
-			tag = BRZ
-			NOT = {
-				has_country_flag = cisplatina_is_ours 
-			}
-		}
-		
-		allow = {
-			romanticism = 1
-			OR = {
-				is_secondary_power = yes
-				is_greater_power = yes
-			}
-		}
-		
-		effect = {
-			set_country_flag = cisplatina_is_ours #Uruguay provinces
-			2344 = {
-				add_core = BRZ
-			}
-			2345 = {
-				add_core = BRZ
-			}
-			2346 = {
-				add_core = BRZ
-			}
-			2347 = {
-				add_core = BRZ
-			}
-
-		}
-
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
-	rename_uruguay = {
-		picture = banda_oriental
-		potential = {
-			OR = { tag = BRZ
-			       tag = UPB 
-			}
-			owns = 2344
-			owns = 2345
-			owns = 2346
-			owns = 2347
-			has_country_flag = cisplatina_is_ours
-			NOT = {
-				has_global_flag = brazil_has_renamed_cisplatina
-			}
-		}
-		
-		allow = {
-			owns = 2344
-		}
-		
-		effect = {
-			2344 = {
-				change_province_name = "Montevideu"
-				state_scope = {
-					change_region_name = "Cisplatina"
-				}
-			}
-			prestige = 5
-			set_global_flag = brazil_has_renamed_cisplatina
-		}
-	}
-
-	restore_uruguay = {
-		picture = banda_oriental
-		potential = {
-			OR = {
-				tag = URU
-				tag = ARG
-				tag = PRG
-				tag = LPL
-			}
-			has_global_flag = brazil_has_renamed_cisplatina
-			owns = 2344
-			owns = 2345
-			owns = 2346
-			owns = 2347
-		}
-		
-		allow = {
-			owns = 2344
-		}
-		
-		effect = {
-			2344 = {
-				change_province_name = "Montevideo"
-				state_scope = {
-					change_region_name = "Uruguay"
-				}
-			}
-			prestige = 5
-			BRZ = { prestige = -10 }
-			UPB = { prestige = -10 }
-			clr_global_flag = brazil_has_renamed_cisplatina
-		}
-	}
-	
-#Argentina
-	law_1420_of_general_common_education = {
-		potential = {
-			OR = { tag = ARG
-			       tag = LPL }
-			NOT = {
-				has_country_flag = 1420_passed
-			}
-		}
-		allow = {
-			social_science = 1
-			ruling_party_ideology = conservative
-		}
-		effect = {
-			years_of_research = 0.2
-			plurality = 5
-			set_country_flag = 1420_passed
-		}
-	}
-
 	banda_oriental = {
 		potential = {
-			OR = { tag = ARG
-			       tag = LPL }
-			NOT = {
-				has_country_flag = banda_oriental_is_ours
-			}
+			has_country_flag = ARG1
 		}
 		
 		allow = {
@@ -194,7 +13,8 @@ political_decisions = {
 		}
 		
 		effect = {
-			set_country_flag = banda_oriental_is_ours #Uruguay provinces
+			clr_country_flag = ARG1
+			set_country_flag = ARG2
 			2344 = {
 				add_core = ARG
 			}
@@ -216,11 +36,9 @@ political_decisions = {
 	}
 
 	our_brothers_the_gauchos = {
+		picture = our_brothers_the_gauchos
 		potential = {
-			OR = { tag = ARG
-			tag = LPL }
-			NOT = { has_country_flag = rio_grande_del_sur_is_ours }
-			has_country_flag = banda_oriental_is_ours
+			has_country_flag = ARG2
 		}
 		
 		allow = { 
@@ -232,7 +50,7 @@ political_decisions = {
 		}
 		
 		effect = {
-			set_country_flag = rio_grande_del_sur_is_ours
+			clr_country_flag = ARG2
 			2463 = { 
 				add_core = THIS
 			}
@@ -254,54 +72,16 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	a_telegraph_line_to_uruguay = { #original VIP event idea by General Perón, scripted by Scythe
-		potential = {
-			tag = ARG
-			exists = URU
-			NOT = { has_country_flag = a_telegraph_line_to_uruguay }
-		}
-		allow = {
-			electricity = 1
-			relation = { who = URU value = 10 }
-			NOT = { war_with = URU }
-		}
-		effect = {
-			relation = { who = URU value = 35 }
-			treasury = -400
-			set_country_flag = a_telegraph_line_to_uruguay
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
-	found_the_school_of_military_aviation = { #original VIP event idea by General Perón, scripted by Scythe
-		potential = {
-			OR = { tag = ARG
-			       tag = LPL }
-			owns = 2379 #Cordoba de Argentina
-			NOT = { has_country_flag = foundation_of_the_school_of_military_aviation }
-		}
-		allow = {
-			aeronautics = 1
-		}
-		effect = {
-			research_points = 100
-			soldiers = { consciousness = -1 }
-			officers = { consciousness = -1 }
-			leadership = 8
-			set_country_flag = foundation_of_the_school_of_military_aviation
-		}
-	}
 
 #Chile
 	valparaiso_harbor = {
+		picture = valparaiso_harbor
 		potential = {
+			tag = CHL
 			NOT = { is_canal_enabled = 3 }
 			NOT = {
 				has_country_flag = valpariasoharbor_built
 			}
-			tag = CHL
 			owns = 2325
 		}
 		
@@ -324,8 +104,8 @@ political_decisions = {
 	
 	annex_easter_island = {
 		potential = {
-			civilized = yes
 			owns = 2332
+			civilized = yes
 			2336 = { empty = yes }
 		}
 		
@@ -341,33 +121,4 @@ political_decisions = {
 			}
 		}
 	}
-#Ecuador
-	establish_the_observatorio_astronomico = { #original VIP event idea by mfigueras, text and script by Scythe
-		potential = {
-			tag = ECU
-			owns = 2279 #Quito
-			exists = GER
-			NOT = {
-				has_country_flag = establish_the_observatorio_astronomico
-			}
-		}
-		allow = {
-			GER = {
-				semi_automatization = 1
-			}
-			relation = {
-				who = GER
-				value = 0
-			}					
-		}
-		effect = {
-			research_points = 600
-			relation = { who = GER value = 15 }
-			money = -300
-			prestige = 3
-			plurality = 2
-			set_country_flag = establish_the_observatorio_astronomico
-		}
-	}
-
 }

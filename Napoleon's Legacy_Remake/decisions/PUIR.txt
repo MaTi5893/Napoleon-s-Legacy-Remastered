@@ -162,6 +162,7 @@ political_decisions = {
 		}
 	}
 	establish_beiyang_fleet = {
+		picture = establish_beiyang_fleet
 			potential = {
 				tag = CHI
 				NOT = {
@@ -224,7 +225,6 @@ political_decisions = {
 	greece_capital_change = {
 		potential = {
 			tag = GRE
-			NOT = { tag = BYZ } #Byzantium has already moved capital
 			NOT = { has_global_flag = constantinople_restored }
 		}
 		allow = {
@@ -331,6 +331,7 @@ political_decisions = {
 		}
 	}
 	revive_mesopotamian_claims = {
+		picture = revive_mesopotamian_claims
 		potential = {
 			tag = PER
 			NOT = { has_country_flag = back_to_baghdad }
@@ -382,6 +383,7 @@ political_decisions = {
 		}
 	}
 	ottoman_bank = {
+		picture = ottoman_bank
 		potential = {
 			tag = TUR
 			NOT = { has_country_flag = osmanli_bankasi }
@@ -435,6 +437,7 @@ political_decisions = {
 		}
 	}
 	shelter_revolutionaries = {
+		picture = shelter_revolutionaries
 		potential = {
 			tag = TUR
 			NOT = { 
@@ -758,6 +761,7 @@ political_decisions = {
 		}
 	}
 	unite_the_principalities = {
+		picture = unite_the_principalities
 		potential = {
 			OR = {
 			AND = {
@@ -880,6 +884,7 @@ political_decisions = {
 		}
 	}
 	move_capital_to_bucharest = {
+		picture = move_capital_to_bucharest
 		potential = {
 			tag = ROM
 			NOT = { has_country_flag = we_shall_make_it_beautiful }
@@ -980,6 +985,7 @@ political_decisions = {
 		}
 	}
 	milyutin_army_reform = {
+		picture = milyutin_army_reform
 		potential = {
 			tag = RUS
 			government = absolute_monarchy
@@ -1115,6 +1121,7 @@ political_decisions = {
 		}
 	}
 	return_to_athens = {
+		picture = return_to_athens
 		potential = {
 			tag = GRE
 			NOT = { capital = 834 } #Athens
@@ -1138,6 +1145,7 @@ political_decisions = {
 		}
 	}
 	appoint_lin_zexu = {
+	picture = appoint_lin_zexu
 		potential = {
 			tag = CHI
 			owns = 1493
@@ -1234,6 +1242,7 @@ political_decisions = {
 		}
 	}
 	hawaiian_constitution = {
+		picture = hawaiian_constitution
 		potential = {
 			tag = HAW
 			civilization_progress = 0.4
@@ -1264,6 +1273,7 @@ political_decisions = {
 		}
 	}
 	expedition_to_palmyra = {
+		picture = expedition_to_palmyra
 		potential = {
 			tag = HAW
 			OR = { 
@@ -1298,6 +1308,7 @@ political_decisions = {
 		}
 	}
 	form_new_guinea_company = {
+		picture = form_new_guinea_company
 		potential = {
 			tag = GER
 			NOT = { has_country_flag = new_guinea_company_formed }

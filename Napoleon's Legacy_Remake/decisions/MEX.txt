@@ -1,5 +1,6 @@
 political_decisions = {
 	treaty_of_guadalupe_hidalgo = {
+		picture = treaty_of_guadalupe_hidalgo
 		potential = {
 			tag = USA
 			has_country_flag = hasmanifestdestiny

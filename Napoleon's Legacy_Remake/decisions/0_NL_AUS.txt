@@ -77,29 +77,21 @@ political_decisions = {
 	accept_slovak = {
 		picture = slovaks
 		potential = {
-			OR = {
-				tag = AUS
-				tag = KUK
-			}
-			NOT = {accepted_culture = slovak}
+			has_country_flag = AUS1
 		}
 		allow = {
 			state_n_government = 1
 			is_greater_power = yes
 		}
 		effect = {
-			add_accepted_culture = slovak
+			clr_country_flag = AUS1
 			prestige = 5
 		}
 	}
 	reclaim_austria = {
 		picture = decision_austria_AUS
 		potential = {
-			OR = {
-				tag = AUS
-				tag = KUK
-			}
-			NOT = {has_country_flag = reclaim_austria}
+			has_country_flag = AUS4
 		}
 		allow = {
 			owns = 735
@@ -124,7 +116,7 @@ political_decisions = {
 				remove_core = 615
 			}
 			prestige = 5
-			set_country_flag = reclaim_austria
+			clr_country_flag = AUS4
 		}
 	}
 }

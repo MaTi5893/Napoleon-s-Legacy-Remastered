@@ -139,88 +139,10 @@ INO_fascist;Partai Gerakan Indonesia Raya;;;;Spanish Loc;;;x;;;;
 FRA_proletarian_dictatorship;Commune de France;;;;Spanish Loc;;;x
 FRA_fascist_dictatorship;Regime de France;;;;Spanish Loc;;;x
 FRA_democracy;Deuxieme Republique Francaise;;;;Spanish Loc;;;x
-BLE;The Baltic Empire;;;;Spanish Loc;;;x
-BLE_ADJ;Baltics;;;;Spanish Loc;;;x
-BLE_prussian_constitutionalism;The Baltic Empire;;;;Spanish Loc;;;x
-BLE_hms_government;The Baltic Empire;;;;Spanish Loc;;;x
-BLE_absolute_monarchy;The Baltic Empire;;;;;;;
-BLE_conservative;Conservative Party;;;;Spanish Loc;;;x
-BLE_conservative_2;Conservative-Liberal Party;;;;Spanish Loc;;;x
-BLE_reactionary;War Party;;;;Spanish Loc;;;x
-BLE_monarchy;Baltic King Party;;;;Spanish Loc;;;x
-BLE_liberal;Baltic Liberal Party;;;;Spanish Loc;;;x
-BLE_liberal_2;Baltic Republican Party;;;;Spanish Loc;;;x
-BLE_liberal_3;Baltic Democratic Party;;;;Spanish Loc;;;x
-BLE_anarcho_liberal;Free Baltic Republic Party;;;;Spanish Loc;;;x
-BLE_socialist;Union of Baltic Peoples;;;;Spanish Loc;;;x
-BLE_fascist;Great Baltic Empire Party;;;;Spanish Loc;;;x
-BLE_communist;Union of Baltic Socialists;;;;Spanish Loc;;;x
-NWE;The Norwegian Empire;;;;Spanish Loc;;;x
-NWE_ADJ;Norwegian;;;;Spanish Loc;;;x
-NWE_prussian_constitutionalism;The Norwegian Empire;;;;Spanish Loc;;;x
-NWE_hms_government;The Norwegian Empire;;;;Spanish Loc;;;x
-NWE_absolute_monarchy;The Norwegian Empire;;;;;;;
-NWE_conservative;Conservative Party;;;;Spanish Loc;;;x
-NWE_conservative_2;English Crown Party;;;;Spanish Loc;;;x
-NWE_reactionary;Imperialist Party;;;;Spanish Loc;;;x
-NWE_monarchy;Norwegian Crown Party;;;;Spanish Loc;;;x
-NWE_liberal;Norwegian Liberal Party;;;;Spanish Loc;;;x
-NWE_liberal_2;English Merchantile Party;;;;Spanish Loc;;;x
-NWE_liberal_3;Danish Democratic Party;;;;Spanish Loc;;;x
-NWE_anarcho_liberal;Free Norwegian Republic Party;;;;Spanish Loc;;;x
-NWE_socialist;Norwegian Socialist Party;;;;Spanish Loc;;;x
-NWE_fascist;Fascist People's Party of the North Sea;;;;Spanish Loc;;;x
-NWE_communist;North Sea Communist Party;;;;Spanish Loc;;;x
-HRO;The Holy Roman Empire;;;;Spanish Loc;;;x
-HRO_ADJ;Holy Roman;;;;Spanish Loc;;;x
-HRO_prussian_constitutionalism;The Holy Roman Empire;;;;Spanish Loc;;;x
-HRO_hms_government;The Holy Roman Empire;;;;Spanish Loc;;;x
-HRO_absolute_monarchy;The Holy Roman Empire;;;;;;;
-HRO_conservative;German Minor Party;;;;Spanish Loc;;;x
-HRO_conservative_2;Elector Party;;;;Spanish Loc;;;x
-HRO_reactionary;Austrian Party;;;;Spanish Loc;;;x
-HRO_monarchy;Holy Empire Union Party;;;;Spanish Loc;;;x
-HRO_liberal;Liberal Party;;;;Spanish Loc;;;x
-HRO_liberal_2;Merchantile Party;;;;Spanish Loc;;;x
-HRO_liberal_3;Ruhr Party;;;;Spanish Loc;;;x
-HRO_anarcho_liberal;Free Union of Electors;;;;Spanish Loc;;;x
-HRO_socialist;HRE Socialist Party;;;;Spanish Loc;;;x
-HRO_fascist;Great Germanic Party;;;;Spanish Loc;;;x
-HRO_communist;Germanic Democratic Republic Party;;;;Spanish Loc;;;x
 IBR;Iberia;;;;Spanish Loc;;;x
 IBR_ADJ;Iberian;;;;Spanish Loc;;;x
-BRG;Burgundy;;;;Spanish Loc;;;x
-BRG_ADJ;Burgundian;;;;Spanish Loc;;;x
-ADU;The Anglo-Dutch Union;;;;Spanish Loc;;;x
-ADU_ADJ;Anglo-Dutch;;;;Spanish Loc;;;x
-SPC;Hispanic Commonwealth;;;;Spanish Loc;;;x
-SPC_absolute_monarchy;Hispanic Empire;;;;Spanish Loc;;;x
-SPC_prussian_constitutionalism;Hispanic Commonwealth;;;;Spanish Loc;;;x
-SPC_hms_government;Hispanic Commonwealth;;;;Spanish Loc;;;x
-SPC_ADJ;Hispanic;;;;Spanish Loc;;;x
-USG;The United States of Greater Austria;;;;Spanish Loc;;;x
-USG_ADJ;Danubian;;;;Spanish Loc;;;x
 BUR_absolute_monarchy;The Konbaung Dynasty;;;;Spanish Loc;;;x
 BUR_prussian_constitutionalism;The Konbaung Dynasty;;;;Spanish Loc;;;x
-ZAC;Zachadia;;;;;;;;x
-ZAC_ADJ;Zachadian;;;;;;;;x
-WSF;Panslavia;;;;;;;;;;;;x
-WSF_ADJ;Slavic;;;;;;;;;;;;x
-WSF_absolute_monarchy;Slovanske Kralovstvo;;;;;;;;;;;;x
-WSF_prussian_constitutionalism;Slovanske Kralovstvo;;;;;;;;;;;;x
-WSF_hms_government;Slovanske Kralovstvo;;;;;;;;;;;;x
-WSF_proletarian_dictatorship;Slovanska Ludova Republika;;;;;;;;;;;;x
-WSF_fascist_dictatorship;Severna Slavia;;;;;;;;;;;;x
-WSF_democracy;Vseslovansky Svaz;;;;;;;;;;;;x
-EIC;East India Company;;;;;;;;;x;;;;;;;;
-EIC_ADJ;East Indian;;;;;;;;;x;;;;;;;;
-EIC_presidential_dictatorship_ADJ;Company;;;;;;;;;x;;;;;;;;
-EIC_absolute_monarchy;The East Indian Raj;;;;;;;;;x;;;;;;;;
-EIC_prussian_constitutionalism;The East Indian Raj;;;;;;;;;x;;;;;;;;
-EIC_hms_government;The East Indian Raj;;;;;;;;;x;;;;;;;;
-EIC_democracy;East Indian Republic;;;;;;;;;x;;;;;;;;
-EIC_proletarian_dictatorship;East Indian People's Republic;;;;;;;;;x;;;;;;;;
-EIC_fascist_dictatorship;East Indian Corporate State;;;;;;;;;x;;;;;;;;
 HUD_reactionary;The Board of Directors;;;;;;;;;x;;;;;;;;
 HUD_liberal;Business Party;;;;;;;;;x;;;;;;;;
 HUD_conservative;Soldier Party;;;;;;;;;x;;;;;;;;
@@ -228,30 +150,6 @@ HUD_socialist;Socialist Party;;;;;;;;;x;;;;;;;;
 HUD_anarcho_liberal;Native Party;;;;;;;;;x;;;;;;;;
 HUD_communist;Communist Party;;;;;;;;;x;;;;;;;;
 HUD_fascist;Corporatist Party;;;;;;;;;x;;;;;;;;
-DUA;The Dual Monarchy;;;;;;;;;;;;x
-DUA_ADJ;Anglo-French;;;;;;;;;;;;x
-DUA_proletarian_dictatorship;The United Popular Republic;;;;;;;;;;;;x
-DUA_presidential_dictatorship;The United Republic;;;;;;;;;;;;x
-DUA_bourgeois_dictatorship;The United Republic;;;;;;;;;;;;x
-DUA_fascist_dictatorship;The Western Empire;;;;;;;;;;;;x
-DUA_democracy;The United Republic;;;;;;;;;;;;x
-DUA_anarcho_liberal;Parti Radical;;;;;;;;;;;;x
-DUA_communist;Parti Communiste;;;;;;;;;;;;x
-DUA_conservative_1;Parti Conservateur;;;;;;;;;;;;x
-DUA_conservative_2;Parti National;;;;;;;;;;;;x
-DUA_fascist;Parti Fasciste;;;;;;;;;;;;x
-DUA_liberal_1;Parti Modéré;;;;;;;;;;;;x
-DUA_liberal_2;Parti Libéral;;;;;;;;;;;;x
-DUA_reactionary;Ultraroyalistes;;;;;;;;;;;;x
-DUA_social_liberal;Parti Démocratique;;;;;;;;;;;;x
-DUA_socialist_1;Parti Socialiste;;;;;;;;;;;;x
-DUA_socialist_2;Parti Travailliste;;;;;;;;;;;;x
-IBE;Indo-British Empire;;;;;;;;;;;;x
-IBE_ADJ;Indo-British;;;;;;;;;;;;x
-RER;Republica Riograndense;;;;;;;;;;;;x
-RER_ADJ;Riograndensian;;;;;;;;;;;;x
-ECO;Equator Confederation;;;;;;;;;;;;x
-ECO_ADJ;Equatorian;;;;;;;;;;;;x
 SWI_democracy;The Helvetic Republic;;;;;;;x
 NET_democracy;The Batavian Republic;;;;;;;x
 NAU_ADJ;North American;North American;North American;;;;;;;;;;;x;
@@ -265,13 +163,5 @@ NAU_prussian_constitutionalism;North American Union;North American Union;North A
 NAU_hms_government;North American Union;North American Union;North American Union;;;;;;;;;;;x;
 NAU_democracy;North American Union;North American Union;North American Union;;;;;;;;;;;x;
 NAU_technocracy;North American Technate;;;;;;;;;;;x;
-ABE;Austro-Bavarian Empire;;;;;;;;;;;x;
-ABE_ADJ;Austro-Bavarian;;;;;;;;;;;x;
-ABE_proletarian_dictatorship;People's Union of Austro-Bavaria;;;;;;Spanish Loc;;;x
-ABE_presidential_dictatorship;Austro-Bavarian Union;;;;;;Spanish Loc;;;x
-ABE_bourgeois_dictatorship;Austro-Bavarian Union;;;;;;Spanish Loc;;;x
-ABE_fascist_dictatorship;South German Empire;;;;;;Spanish Loc;;;x
-ABE_absolute_monarchy;Austro-Bavarian Empire;;;;;Spanish Loc;;;x
-ABE_prussian_constitutionalism;Austro-Bavarian Empire;;;;;Spanish Loc;;;x
-ABE_hms_government;Austro-Bavarian Empire;;;;;Spanish Loc;;;x
-ABE_democracy;Austro-Bavarian Republic;;;;;;Spanish Loc;;;x
+SLS;Silesia;;;;;;;;;;;x;
+SLS_ADJ;Silesian;;;;;;;;;;;x;

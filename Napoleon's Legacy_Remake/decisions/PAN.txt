@@ -1,5 +1,6 @@
 political_decisions = {
 	rangit_singh = {
+		picture = rangit_singh
 		potential = {
 			tag = PAN
 			NOT = { has_country_flag = singh }

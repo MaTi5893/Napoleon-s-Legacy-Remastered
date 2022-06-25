@@ -312,18 +312,6 @@ country_event = {
 }
 
 country_event = {
-	id = 100010
-	title = "$FROMCOUNTRY$ Declines Aid Request"
-	desc = "$FROMCOUNTRY$ decided against giving us a grant"
-	allow_multiple_instances = yes	
-	is_triggered_only = yes
-	option = {
-	ai_chance = {factor = 100}
-	name = "I guess we just have to print more money..."
-	}
-}
-
-country_event = {
 	id = 100013
 	title = "Choose Aid for $FROMCOUNTRY$"
 	desc = "How much aid would you like to give $FROMCOUNTRY$ (hundreds of pounds)"

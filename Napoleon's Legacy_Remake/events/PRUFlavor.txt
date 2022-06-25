@@ -486,7 +486,6 @@ country_event = {
 			limit = {
 				OR = {
 					tag = FRA
-					tag = POL
 					tag = PLC
 				}
 				exists = yes

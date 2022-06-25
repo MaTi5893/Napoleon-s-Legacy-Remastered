@@ -48,37 +48,4 @@ political_decisions = {
 			badboy = -1
 		}
 	}
-	
-	build_gotthard_tunnel = {
-		potential = {
-			tag = SWI
-			owns = 606
-			NOT = {
-				has_country_flag = gotthard_tunnel_built
-			}
-		}
-		
-		allow = {
-			invention = machine_tools
-			invention = steam_shovel
-		}
-		
-		effect = {
-			606 = {
-				infrastructure = 4
-			}
-			prestige = 5
-			set_country_flag = gotthard_tunnel_built
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = { 
-					steel_railroad = 1
-					year = 1880 
-				}
-			}
-		}
-	}
 }

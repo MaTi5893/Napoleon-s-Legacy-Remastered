@@ -3,8 +3,8 @@ political_decisions = {
 		rgo_change_mining = {
 			picture = alsace_lorraine_mines
 				potential = {
-					NOT = { has_country_modifier = rgo_changed }
 					ai = no
+					NOT = { has_country_modifier = rgo_changed }
 				}	
 				allow = {
 					NOT = { war = yes }
@@ -20,8 +20,8 @@ political_decisions = {
 		rgo_change_agriculture = {
 			picture = tea_production
 				potential = {
-					NOT = { has_country_modifier = rgo_changed }
 					ai = no
+					NOT = { has_country_modifier = rgo_changed }
 				}	
 				allow = {
 					NOT = { war = yes }

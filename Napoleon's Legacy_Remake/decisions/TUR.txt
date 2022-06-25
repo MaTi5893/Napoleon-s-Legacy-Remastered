@@ -146,6 +146,7 @@ political_decisions = {
 	}
 	
 	move_capital_to_ankara = {
+		picture = move_capital_to_ankara
 		potential = {
 			tag = TUR
 			NOT = { capital = 876 }
@@ -258,32 +259,4 @@ political_decisions = {
 		}
 	}
 	
-	the_holy_city = {
-		potential = {
-			1151 = {
-				NOT = { has_province_modifier = holy_city }
-			}
-			OR = {
-				is_culture_group = arab	
-				is_culture_group = turko_semitic
-				is_culture_group = iranian_turanian
-			}
-		}
-		
-		allow = {
-			owns = 1151
-		}
-		
-		effect = {
-			1151 = {
-				add_province_modifier = {
-					name = holy_city
-					duration = -1
-				}
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
 }

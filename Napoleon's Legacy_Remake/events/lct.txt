@@ -7,7 +7,19 @@ country_event = { 		#the day one setup event
 	mean_time_to_happen = { days = 0 } 
 	title = "Setup Event"
 	desc = "Have fun GMing or whatever you're doing ~Rennes : D"
-	immediate = {	
+	immediate = {		#i know you can literally just set country flags in the history files but it's easier to manage if you have all of them in one place (also, it allows for mass setting of country flags like with 'partitioners')
+		any_country = { 	#ENG gets this if they annex canada
+			limit = { 
+				OR = { 
+					tag = USA
+					tag = GBR
+					tag = JAP
+					tag = MEX
+					tag = CAN
+				}
+			}
+			set_country_flag = hawaii_killers
+		}
 		any_country = { 
 			limit = { 
 				OR = { 
@@ -21,14 +33,6 @@ country_event = { 		#the day one setup event
 			}
 			set_country_flag = partitioners
 		}
-		enable_canal = 4
-		enable_canal = 5
-		enable_canal = 6
-		enable_canal = 7
-		enable_canal = 8
-		enable_canal = 9
-		enable_canal = 10
-		enable_canal = 11
 		any_country = { 
 			limit = { 	
 				OR = { 	
@@ -38,8 +42,11 @@ country_event = { 		#the day one setup event
 			}
 			set_country_flag = YUGO_EASY
 		}
-		ARG = { set_country_flag = ARG }
-		AUS = { set_country_flag = AUS }
+		BAV = { set_country_flag = SGF set_country_flag = SGF1 }
+		USA = { set_country_flag = homestead }
+		ARG = { set_country_flag = ARG set_country_flag = ARG1 }	#ARG2 is set by ARG1's decision 
+		AUS = { set_country_flag = AUS set_country_flag = AUS1 set_country_flag = AUS2 set_country_flag = AUS3 set_country_flag = AUS4} 
+		PRU = { set_country_flag = PRU }	
 		AUS_641 = {
 				any_pop = {
 					limit = {
@@ -83,24 +90,6 @@ country_event = { 		#the day one setup event
 		any_country = {
 			limit = { is_greater_power = no }
 			treasury = 50000
-		}
-		any_country = { 
-			limit = {           
-				OR = {
-				tag = CHL
-            			tag = MEX
-            			tag = ARG
-         			tag = CLM
-            			tag = VNZ
-            			tag = ECU
-            			tag = UCA
-            			tag = PRG
-            			tag = TEX
-            			tag = BOL
-            			tag = PEU
-				}	
-			}
-		country_event = 600037
 		}
 			any_country = { 
 				limit = { 
@@ -311,6 +300,71 @@ country_event = { 		#the day one setup event
 					NOT = { has_country_flag = indc2_flag }
 				} 
 			set_country_flag = indc2_flag
+			}
+			enable_canal = 4
+			enable_canal = 5
+			enable_canal = 6
+			enable_canal = 7
+			enable_canal = 8
+			enable_canal = 9
+			enable_canal = 10
+			enable_canal = 11
+			any_country = {
+				any_owned = {
+					limit = {
+						OR = {
+						owned_by = MEX
+						owned_by = CLM
+						owned_by = ENG
+						owned_by = ARG
+						owned_by = UPB
+						owned_by = CHL
+						owned_by = ECU	
+						owned_by = UCA
+						owned_by = VNZ
+						owned_by = URU
+						owned_by = PRG
+						owned_by = PEU
+						}
+					life_rating = 30
+					NOT = { life_rating = 31 }
+					OR = {
+						continent = north_america
+						continent = south_america
+					}
+					}
+					life_rating = 5				
+					}
+			}
+			any_country = {
+				any_owned = {
+					limit = {
+						OR = {
+						owned_by = MEX
+						owned_by = CLM
+						owned_by = ENG
+						owned_by = ARG
+						owned_by = UPB
+						owned_by = CHL
+						owned_by = ECU	
+						owned_by = DOM
+						owned_by = UCA
+						owned_by = VNZ
+						owned_by = URU
+						owned_by = PRG
+						owned_by = BOL
+						owned_by = PEU
+						owned_by = UPB
+						}
+					life_rating = 25
+					NOT = { life_rating = 26 }
+					OR = {
+						continent = north_america
+						continent = south_america
+					}
+					}
+					life_rating = 10				
+					}
 			}
 	}
 	option = {

@@ -4,8 +4,8 @@ political_decisions = {
 	form_arabia = {
 
 		potential = {
-			ARA = { exists = no }
 			is_culture_group = arab
+			ARA = { exists = no }
 		}
 		
 		allow = {

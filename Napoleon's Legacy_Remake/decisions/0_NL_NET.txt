@@ -38,21 +38,22 @@ political_decisions = {
 			all_core = {
 					owned_by = THIS
 				}
-			WLL = {
-				all_core = {
-					owned_by = THIS
-				}
+			394 = {
+				owned_by = THIS
+			}
+			395 = {
+				owned_by = THIS
 			}
 			war = no
 			nationalism_n_imperialism = 1
 		}
 		effect = {
-			WLL = {
-				all_core = {
+			BEL_394 = {
 					add_core = THIS
-				}
 			}
-
+			BEL_395 = {
+					add_core = THIS
+			}
 			set_country_flag = expand_netherlands2
 		}
 	}

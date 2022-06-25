@@ -11,36 +11,6 @@ political_decisions = {
 		allow = {
 			year = 1865
 			invention = silver_standard
-			NOT = { war_with = BEL }
-			NOT = { war_with = SWI }
-			NOT = { war_with = ITA }
-		}
-
-		effect = {
-			prestige = 20
-			add_country_modifier = {
-				name = latin_monetary_union
-				duration = 22630
-			}
-			set_country_flag = joined_lmu
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-
-	latin_monetary_union_BEL = {
-		picture = latin_monetary_union
-		potential = {
-			tag = BEL	
-			NOT = {
-				has_country_flag = joined_lmu
-			}
-		}
-		allow = {
-			year = 1865
-			invention = silver_standard
-			NOT = { war_with = FRA }
 			NOT = { war_with = SWI }
 			NOT = { war_with = ITA }
 		}
@@ -70,7 +40,6 @@ political_decisions = {
 			year = 1865
 			invention = silver_standard
 			NOT = { war_with = FRA }
-			NOT = { war_with = BEL }
 			NOT = { war_with = ITA }
 		}
 
@@ -99,7 +68,6 @@ political_decisions = {
 			year = 1865
 			invention = silver_standard
 			NOT = { war_with = FRA }
-			NOT = { war_with = BEL }
 			NOT = { war_with = SWI }
 		}
 
@@ -125,7 +93,6 @@ political_decisions = {
 			}
 			OR = {
 				FRA = { has_country_flag = joined_lmu }
-				BEL = { has_country_flag = joined_lmu }
 				SWI = { has_country_flag = joined_lmu }
 				ITA = { has_country_flag = joined_lmu }
 			}
@@ -134,9 +101,7 @@ political_decisions = {
 			year = 1868
 			invention = silver_standard
 			NOT = { war_with = FRA }
-			NOT = { war_with = BEL }
 			NOT = { war_with = SWI }
-			NOT = { war_with = GRE }
 		}
 
 		effect = {

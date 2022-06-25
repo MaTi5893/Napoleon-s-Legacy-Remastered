@@ -12,7 +12,6 @@ political_decisions = {
 		}
 		effect = { 
 			PEU = { all_core = { add_core = THIS } } 
-			clr_country_flag = ARG	#having two country flags in one decision is abhorrent but I need this for optimisation
 			set_country_flag = take_peru_arg	
 			prestige = 20
 		}

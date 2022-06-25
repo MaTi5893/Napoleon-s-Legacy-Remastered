@@ -53,6 +53,7 @@ GBU		= "countries/Gabu.txt"
 KNO		= "countries/Kano.txt"
 KWR		= "countries/Kwararafa.txt"
 IFE		= "countries/Ife.txt"
+SLS		= "countries/Silesia.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"
@@ -112,10 +113,8 @@ EST		= "countries/Estonia.txt"
 HUN		= "countries/Hungary.txt"
 LIT		= "countries/Lithuania.txt"
 LAT		= "countries/Latvia.txt"
-POL		= "countries/Poland.txt"
 SLV		= "countries/Slovakia.txt"
 SWI		= "countries/Switzerland.txt"
-RUT		= "countries/Ruthenia.txt"
 SIE		= "countries/Siebenburgen.txt"
 UKR		= "countries/Ukraine.txt"
 CZH		= "countries/Czechoslovakia.txt"
@@ -143,8 +142,6 @@ ETH		="countries/Ethiopia.txt"
 MAD		="countries/Madagascar.txt"
 LIB		="countries/Liberia.txt"
 MOR		="countries/Morocco.txt"
-NAL		="countries/Natalia.txt"
-ORA		="countries/Oranje.txt"
 SAF		="countries/South Africa.txt"
 RHO		="countries/Southern Rhodesia.txt"
 TRI		="countries/Tripoli.txt"
@@ -264,9 +261,7 @@ NZL		="countries/New Zealand.txt"
 
 #new for 1.2
 ISR		="countries/Israel.txt"
-BYZ		="countries/Byzantium.txt"
 ICL		="countries/Iceland.txt"
-BAB		="countries/Babylonia.txt"
 
 
 #AHD 2.3

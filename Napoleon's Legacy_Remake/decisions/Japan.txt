@@ -83,6 +83,7 @@ political_decisions = {
 		}
 	}	
 	new_capital_in_the_east = {
+		picture = new_capital_in_the_east
 		potential = {
 			tag = JAP
 			NOT = { has_country_flag = modern_capital_in_the_east }
@@ -111,6 +112,7 @@ political_decisions = {
 	}
 	
 	iwakura_mission = {
+	picture = iwakura_mission
 		potential = {
 			tag = JAP
 			NOT = { has_country_flag = sent_iwakura_mission }
@@ -205,6 +207,7 @@ political_decisions = {
 		}	
 	}
 	fukoku_kyohei = {
+		picture = fukoku_kyohei
 		potential = {
 			tag = JAP
 			NOT = { has_country_modifier = uncivilized_isolationism }

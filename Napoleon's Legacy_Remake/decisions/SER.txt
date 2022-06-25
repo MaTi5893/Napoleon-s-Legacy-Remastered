@@ -40,6 +40,7 @@ political_decisions = {
 	}
 
         vuk_karadzic_reform = { #Originally Scripted by Slayzer
+			picture = vuk_karadzic_reform
 
                 potential = {
                         tag = SER

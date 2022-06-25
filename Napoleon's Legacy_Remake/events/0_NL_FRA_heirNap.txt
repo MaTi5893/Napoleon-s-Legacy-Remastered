@@ -5,7 +5,6 @@ country_event = {		#these events are ai only
 	immediate = { set_country_flag = chose_heir_nap }	#anti-fun
 	title = "EVTNAME600013"
 	desc = "EVTDESC600013"
-	picture = "napoleon_death"
 	option = {
 		name = "Louis Bonaparte of the Netherlands!"	
 
@@ -59,7 +58,6 @@ country_event = {
 	immediate = { set_country_flag = chose_heir_nap }
 	title = "EVTNAME600013"
 	desc = "EVTDESC600013"
-	picture = "napoleon_death"
 	option = {
 		name = "Louis Bonaparte of the Netherlands!"	
 

@@ -2,11 +2,8 @@ political_decisions = {
 # North-American Minors
 	apply_for_USA_statehood = {
 		potential = {	
+			tag = CAL
 			exists = USA
-			OR = {
-				tag = DES
-				tag = CAL
-			}
 		}
 		allow = {
 			war = no
@@ -140,10 +137,7 @@ political_decisions = {
 	
 	enact_the_homestead_act = {
 		potential = {
-			OR = {
-				tag = USA
-				tag = NAU
-			}
+			has_country_flag = homestead
 			government = democracy
 			NOT = {
 				has_country_modifier = the_homestead_act
@@ -683,21 +677,9 @@ political_decisions = {
 	
 	annex_hawaii = {
 		potential = {
-			NOT = {
-				has_country_flag = hawaii_annexed
-			}
-			exists = HAW
-			OR = { 
-				tag = USA
-				tag = ENG	
-				tag = JAP 
-				tag = MEX
-				AND = { 
-					tag = ENG
-					owns = 13
-				}
-			}
+			has_country_flag = hawaii_killers
 			is_sphere_leader_of = HAW
+			exists = HAW
 			HAW = { ai = yes }
 		}
 		
@@ -712,7 +694,7 @@ political_decisions = {
 			}
 			prestige = 2
 			inherit = HAW
-			set_country_flag = hawaii_annexed
+			clr_country_flag = hawaii_killers
 		}
 	}
 	

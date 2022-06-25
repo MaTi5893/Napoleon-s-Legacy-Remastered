@@ -6,7 +6,6 @@ political_decisions = {
                 tag = SCA
                 tag = DEN
             }
-            NOT = {accepted_culture = estonian}
             NOT = {accepted_culture = Scotish}
         }
         allow = {

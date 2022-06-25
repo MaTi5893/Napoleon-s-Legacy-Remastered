@@ -9,7 +9,6 @@ country_event = {
 		year = 1836
 		civilized = yes
 		literacy = 0.25
-		NOT = {tag = EIC}
 		NOT = {
 			OR = {
 				has_country_flag = liberal_revolution_in_progress

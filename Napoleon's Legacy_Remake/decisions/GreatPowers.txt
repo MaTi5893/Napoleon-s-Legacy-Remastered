@@ -68,8 +68,6 @@ political_decisions = {
 			PLC = {exists = no}
         }
         allow = {
-			PLC = {exists=no}
-            POL = {exists=no}
             is_greater_power=yes
         }
         effect = {

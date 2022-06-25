@@ -176,6 +176,7 @@ political_decisions = {
 	}
 	
  	Execute_Bab = {
+		picture = Execute_Bab
  		potential = {
  			tag = PER
  			NOT = {
@@ -258,51 +259,6 @@ political_decisions = {
 			capital = 1859
 		}
 		
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	
-	build_the_tower_of_babylon = {
-		potential = {
-			tag = IRQ
-			is_greater_power = yes
-		}
-		
-		allow = {
-			advanced_metallurgy = 1
-			the_historical_theory = 1
-		}
-		
-		effect = {
-			IRQ = {
-				all_core = {
-					add_core = BAB
-				}
-			}
-			926 = {
-				change_province_name = Babylon
-			}
-			change_tag = BAB
-			prestige = 20
-		}
-	}
-
-	move_capital_to_algiers = {
-		potential = {
-			tag = ALD
-			NOT = { capital = 1700 }
-		}
-
-		allow = {
-			owns = 1700
-		}
-
-		effect = {
-			prestige = 2
-			capital = 1700
-		}
-
 		ai_will_do = {
 			factor = 1
 		}

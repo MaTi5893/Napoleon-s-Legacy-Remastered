@@ -24,6 +24,7 @@ political_decisions = {
             war = no
         }
         effect = {
+	set_country_flag = homestead 
             all_core = {
                 add_core = NAU
             }

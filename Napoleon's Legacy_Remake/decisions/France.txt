@@ -1,10 +1,10 @@
 political_decisions = {
 	liberty_enlightening_the_world = {
 		potential = {
+			tag = FRA
 			NOT = {
 				has_global_flag = statue_of_liberty_has_been_built
 			}
-			tag = FRA
 			exists = FRA
 		}
 	
@@ -46,6 +46,7 @@ political_decisions = {
 	}
 	
 	french_military_mission_to_japan = {
+		picture = french_military_mission_to_japan
 		potential = {
 			tag = FRA
 			exists = JAP
@@ -82,25 +83,6 @@ political_decisions = {
 					year = 1862
 				}
 			}
-		}
-	}
-	
-	palais_garnier = {
-		potential = {
-			NOT = {
-				has_country_flag = palais_garnier_built
-			}
-			tag = FRA
-			owns = 425
-		}
-		
-		allow = {
-			expressionism = 1
-		}
-		
-		effect = {
-			prestige = 10
-			set_country_flag = palais_garnier_built
 		}
 	}
 	

@@ -92,9 +92,8 @@ political_decisions = {	#you either form iberia or you accept stuff overseas
 		picture = philipines_decision
 		potential = {
 			tag = SPA
-			NOT = { accepted_culture = filipino}
-			NOT = {has_country_flag = spanish_south_america}
 			accepted_culture = caribeno
+			NOT = { accepted_culture = filipino}
 		}
 		allow = {
 			nationalism_n_imperialism = 1

@@ -96,4 +96,59 @@ political_decisions = {
 			set_country_flag=unite_poles2
 		}
 	}
+	acceptance_of_belarus = {
+		picture = decision_belarus
+		potential = {
+			tag = PLC
+			NOT = {accepted_culture = byelorussian}
+		}
+		allow = {
+			war = no
+			BYE = {
+				all_core = {
+					owned_by = THIS
+				} 
+			}
+			nationalism_n_imperialism=1
+		}
+		effect = {
+			BYE = {
+				all_core = {
+					add_core = THIS
+				} 
+			}
+			add_accepted_culture = byelorussian
+			prestige = 12
+		}
+	}
+
+
+	acceptance_of_ukraine = {
+		picture = decision_ukraine
+		potential = {
+			tag = PLC
+			NOT = {accepted_culture = ukrainian}
+		}
+		allow = {
+			war = no
+			UKR = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								vassal_of = THIS
+								in_sphere = THIS
+							}
+						}
+					}
+				} 
+			}
+			revolution_n_counterrevolution=1
+		}
+		effect = {
+			add_accepted_culture = ukrainian
+			prestige = 12
+		}
+	}
 }

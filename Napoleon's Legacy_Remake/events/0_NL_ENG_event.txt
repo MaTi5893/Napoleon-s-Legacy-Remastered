@@ -17,7 +17,7 @@ country_event = {
 	desc = "EVTDESC600034"
 	picture = "debate"
     option = {
-        name = "Establish the Capital in South Africa"
+        name = "Establish the Capital in South Africa (Will stop you from getting immigrants)"
         any_pop = {
             limit = {
                 culture = boer
@@ -38,7 +38,7 @@ country_event = {
     	}
 	}
 	option = {
-        name = "Let the Capital in Sydney"
+        name = "Keep the Capital in Sydney"
         any_pop = {
             limit = {
                 culture = british
