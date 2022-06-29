@@ -77,11 +77,19 @@ political_decisions = {
 		allow = {
 			war = no
 			is_greater_power = yes
-			HAN = {vassal_of = THIS}
-			FRM = {vassal_of = THIS}
-        	NAS = {vassal_of = THIS}
-        	HES = {vassal_of = THIS}
-        	BRA = {vassal_of = THIS}
+			OR = { 
+				AND = { 
+					HAN = {vassal_of = THIS}
+					FRM = {vassal_of = THIS}
+        					NAS = {vassal_of = THIS}
+        					HES = {vassal_of = THIS}
+        					BRA = {vassal_of = THIS}
+				}
+				AND = { 
+					HAN = { vassal_of = THIS }
+					HAN = { has_country_flag = united_westfalen }
+				}	
+			}
 			HAN = {
 				all_core = {
 					OR = {
@@ -94,11 +102,19 @@ political_decisions = {
 		}
 		effect = {
 			prestige = 7
-			HAN = {annex_to = THIS}
-			FRM = {annex_to = THIS}
-        	NAS = {annex_to = THIS}
-        	HES = {annex_to = THIS}
-        	BRA = {annex_to = THIS}
+			any_country = { 
+				limit = { 
+					vassal_of = THIS 
+					OR = { 
+						tag = HAN
+						tag = FRM 
+						tag = NAS
+						tag = HES
+						tag = BRA
+					}
+				}
+			annex_to = THIS 
+			}
 			set_country_flag = annex_westphalia
 			any_pop = {
 				limit = {
@@ -198,6 +214,7 @@ political_decisions = {
 			NOT = {has_country_flag = unite_north_italy_gp}
 		}
 		allow = {
+			exists = LOM
 			is_greater_power = yes
 			war = no
 			NIT = {
@@ -241,7 +258,7 @@ political_decisions = {
 				limit = { 
 					tag = LOM 
 					ai = no 
-					THIS = { NOT = { has_country_flag = maximilien } } #THIS scopes to france. if france isnt going the maximilien path and lombardy is a player then it'll start out as an independent nation
+					THIS = { NOT = { has_country_flag = maximilien } } #THIS scopes to france. if france isnt going the maximilien path and lombardy is a player then it'll start out as an independent nation, so if lombardy is ai you'll puppet them regardless of anything
 				}
 				THIS = { release_vassal = LOM }
 			}

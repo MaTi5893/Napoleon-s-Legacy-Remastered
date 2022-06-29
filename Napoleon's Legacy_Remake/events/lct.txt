@@ -322,7 +322,6 @@ country_event = { 		#the day one setup event
 						owned_by = ECU	
 						owned_by = UCA
 						owned_by = VNZ
-						owned_by = URU
 						owned_by = PRG
 						owned_by = PEU
 						}
@@ -350,11 +349,9 @@ country_event = { 		#the day one setup event
 						owned_by = DOM
 						owned_by = UCA
 						owned_by = VNZ
-						owned_by = URU
 						owned_by = PRG
 						owned_by = BOL
 						owned_by = PEU
-						owned_by = UPB
 						}
 					life_rating = 25
 					NOT = { life_rating = 26 }

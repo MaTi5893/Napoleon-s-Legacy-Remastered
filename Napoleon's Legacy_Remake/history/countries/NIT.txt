@@ -3,7 +3,7 @@
 #========================= H E A D E R =========================
 
 capital = 726
-primary_culture = italian
+primary_culture = Italian
 religion = catholic
 government = hms_government
 plurality = 10

@@ -55,6 +55,11 @@ political_decisions = {
 					owned_by = THIS
 				}
 			}
+			ARG = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
 			invention = national_fraternity
 			rank = 10
 			war_policy = jingoism

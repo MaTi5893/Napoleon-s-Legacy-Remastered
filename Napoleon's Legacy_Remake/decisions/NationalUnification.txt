@@ -3,12 +3,11 @@ political_decisions = {
 		potential = {
 			is_greater_power = yes
 			primary_culture = south_german
-			NOT = {
-				OR = {
+			NOT = { 
 					exists = SGF
 					exists = GER
 					tag = KUK
-				}
+					tag = AUS
 			}
 		}	
 		allow = {
@@ -278,6 +277,7 @@ political_decisions = {
 			change_tag = GER
 			add_accepted_culture = north_german
 			add_accepted_culture = south_german
+			add_accepted_culture = rhenish
 			any_country = {
 				limit = {
 					is_culture_group = germanic
@@ -285,6 +285,38 @@ political_decisions = {
 					NOT = { tag = LCT }
 				}
 				country_event = { id=11101 days=0 }
+			}
+			PRU = { all_core = { remove_core = PRU add_core = GER } }
+			NGF = { all_core = { remove_core = NGF add_core = GER } }
+			ANH = { all_core = { remove_core = ANH add_core = GER } }
+			HES = { all_core = { remove_core = HES add_core = GER } }
+			BAV = { all_core = { remove_core = BAV add_core = GER } }
+			MEC = { all_core = { remove_core = MEC add_core = GER } }
+			LUB = { all_core = { remove_core = LUB add_core = GER } }
+			HOL = { all_core = { remove_core = HOL add_core = GER } }
+			HAN = { all_core = { remove_core = HAN add_core = GER } }
+			BRA = { all_core = { remove_core = BRA add_core = GER } }
+			NAS = { all_core = { remove_core = NAS add_core = GER } }
+			FRM = { all_core = { remove_core = FRM add_core = GER } }
+			COB = { all_core = { remove_core = COB add_core = GER } }
+			MEI = { all_core = { remove_core = MEI add_core = GER } }
+			WEI = { all_core = { remove_core = WEI add_core = GER } }
+			SAX = { all_core = { remove_core = SAX add_core = GER } }
+			WUR = { all_core = { remove_core = WUR add_core = GER } }
+			BAD = { all_core = { remove_core = BAD add_core = GER } }
+			HAN = { all_core = { remove_core = BAD add_core = GER } }
+			WUL = { all_core = { remove_core = BAD add_core = GER } }	
+			any_country = { 
+				limit = { 
+					tag = GER 
+					exists = SWI 
+				}
+				 SWI = {
+				 	all_core = { 
+						remove_core = SWI 
+						add_core = GER 
+					} 
+				} 
 			}
 		}
 		ai_will_do = {

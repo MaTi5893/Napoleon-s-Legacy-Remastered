@@ -78,7 +78,7 @@ political_decisions = {
 		}
 		allow = {
 			war = no
-			ITA = {
+			NIT = {
 				all_core = {
 					OR = {
 						owned_by = THIS
@@ -107,6 +107,12 @@ political_decisions = {
                 annex_to = THIS
             }
 			change_tag = NIT
+			LOM = { all_core = { remove_core = LOM add_core = NIT } }
+			VEN = { all_core = { remove_core = VEN add_core = NIT } }
+			TUS = { all_core = { remove_core = TUS add_core = NIT } }
+			PAR = { all_core = { remove_core = PAR add_core = NIT } }
+			LUC = { all_core = { remove_core = LUC add_core = NIT } }
+			MOD = { all_core = { remove_core = MOD add_core = NIT } }
 		}
 	}
 

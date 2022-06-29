@@ -1,4 +1,4 @@
-#frenchy Region (2388000)
+#Picardy Region (2388000)
 #Lille (620000/155000 POPS)
 399 = {
 	aristocrats = {
@@ -1832,31 +1832,31 @@
 #Moulins (596000/149000 POPS)
 430 = {
 	aristocrats = {
-		culture = occitan
+		culture = french
 		religion = catholic
 		size = 1400
 	}
 
 	clergymen = {
-		culture = occitan
+		culture = french
 		religion = catholic
 		size = 1475
 	}
 
 	artisans = {
-		culture = occitan
+		culture = french
 		religion = catholic
 		size = 7450
 	}
 
 	soldiers = {
-		culture = occitan
+		culture = french
 		religion = catholic
 		size = 1500
 	}
 
 	farmers = {
-		culture = occitan
+		culture = french
 		religion = catholic
 		size = 137375
 	}

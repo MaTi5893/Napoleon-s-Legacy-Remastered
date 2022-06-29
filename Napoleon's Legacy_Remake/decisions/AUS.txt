@@ -25,15 +25,13 @@ political_decisions = {
 				ITA = { exists = yes }
 				HAN = {is_greater_power = yes}
 				is_greater_power = no
+				nationalism_n_imperialism = 1
 				
 			}
-			nationalism_n_imperialism = 1
 			NOT = {
-				OR = {
-					exists = HUN
-					exists = KUK
-					average_militancy = 5
-				}
+				NOT = { HUN = { exists = yes } }
+				NOT = { KUK = { exists = yes } }
+				average_militancy = 5
 			}
 		}
 	
