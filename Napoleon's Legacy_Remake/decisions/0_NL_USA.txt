@@ -103,18 +103,6 @@ political_decisions = {
 			MEX_2142 = {add_core = THIS}
 			MEX_2153 = {add_core = THIS}
 			MEX_2137 = {add_core = THIS}
-			2151 = {
-				add_province_modifier = {
-					name = dye_boost
-					duration = -1
-				}
-			}
-			2152 = {
-				add_province_modifier = {
-					name = dye_boost
-					duration = -1
-				}
-			}
 			MEX = {
 				all_core = {
 					limit = {

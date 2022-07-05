@@ -96,10 +96,7 @@ political_decisions = {
 	acceptance_of_belarus_RUS = {
 		picture = decision_belarus_RUS
 		potential = {
-			OR = {
-				tag = RUS
-				tag = PLC
-			}
+			tag = RUS
 			NOT = {accepted_culture = byelorussian}
 			NOT = {accepted_culture = georgian}
 			NOT = {accepted_culture = aryan}

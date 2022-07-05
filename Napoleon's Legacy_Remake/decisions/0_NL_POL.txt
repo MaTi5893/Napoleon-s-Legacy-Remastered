@@ -37,17 +37,25 @@ political_decisions = {
 			NOT = {has_country_flag=reconquest_of_north_territory}
 		}
 		allow = {
-			owns=695
-			owns=690
+			owns= 695
+			owns= 690
 			owns= 693
 			owns= 691 
-			owns=692
-			owns=697
+			owns= 692
+			owns= 697
 			owns= 698
 			owns= 696
 		}
 		effect = {
 			prestige=5
+			add_core = 695
+			add_core = 690
+			add_core = 693
+			add_core = 691 
+			add_core = 692
+			add_core = 697
+			add_core = 698
+			add_core = 696
 			set_country_flag=reconquest_of_north_territory
 		}
 	}
@@ -66,10 +74,10 @@ political_decisions = {
 			owns = 685
 		}
 		effect = {
-			add_core =682
+			add_core = 682
 			add_core = 683
-			add_core= 684
-			add_core= 685
+			add_core = 684
+			add_core = 685
 			prestige=5
 			set_country_flag=unite_poles1
 		}
@@ -78,7 +86,7 @@ political_decisions = {
 		picture = decision_all_POL
 		potential = {
 			primary_culture = polish
-			has_country_flag=reconquest_of_north_territory
+			#has_country_flag=reconquest_of_north_territory
 			NOT = {has_country_flag=unite_poles2}
 		}
 		allow = {
@@ -93,6 +101,14 @@ political_decisions = {
 		}
 		effect = {
 			prestige=5
+			add_core = 704
+			add_core = 705
+			add_core = 714
+			add_core = 2584
+			add_core = 702
+			add_core = 951
+			add_core = 952
+			add_core = 953
 			set_country_flag=unite_poles2
 		}
 	}

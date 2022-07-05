@@ -137,7 +137,7 @@ political_decisions = {
 	
 	enact_the_homestead_act = {
 		potential = {
-			has_country_flag = homestead
+			tag = USA
 			government = democracy
 			NOT = {
 				has_country_modifier = the_homestead_act

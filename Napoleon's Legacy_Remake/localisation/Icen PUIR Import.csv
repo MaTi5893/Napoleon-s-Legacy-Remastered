@@ -1,25 +1,10 @@
 #############################################;;;;;;;x
-#New Triggered Modifiers;;;;;;;x
-#############################################;;;;;;;x
-desperate_nation;Desperate Nation;;;;Nación desesperada;;;x
-microscopic_nation;Microscopic Nation;;;;Nación ,icroscópica;;;x
-tiny_nation;Tiny Nation;;;;Nación muy pequena;;;x
-small_nation;Small Nation;;;;Nación pequena;;;x
-medium_nation;Medium Nation;;;;Nación mediana;;;x
-average_nation;Average Nation;;;;Nación promedio;;;x
-large_nation;Large Nation;;;;Nación grande;;;x
-empire;Empire;;;;Imperio;;;x
-medium_empire;Medium Empire;;;;Imperio Mediano;;;x
-large_empire;Large Empire;;;;Imperio Grande;;;x
-insane_empire;Insane Empire;;;;Imperio Absurdamente;;;x
-insane_empire2;Large Insane Empire;;;;Imperio Absurdamente Grande;;;x
-#############################################;;;;;;;x
 #New CBs;;;;;;;x
 #############################################;;;;;;;x
 take_capital;Take Capital;;;;Toma de capital;;;x
 take_capital_desc;Take the Capital region of a §Ycountry§W and force them to move their capital elsewhere;;;;Tomar la región de la capital de un §YPaís§W y obligarles a trasladar su capital a otro lugar;;;x
-take_capital_setup;Take Capital $STATE$ for $THIRD$;;;;Toma Capital $STATE$ para $THIRD$;;;x
-take_capital_short;Takes Capital for $THIRD$;;;;Toma de capital de $RECIPIENT$ para $THIRD$;;;x
+take_capital_setup;Take Capital $STATE$;;;;Toma Capital $STATE$;;;x
+take_capital_short;Takes Capital;;;;Toma de capital de $RECIPIENT$;;;x
 minor_conquest;Minor Conquest;;;;Conquista menor;;;x
 minor_conquest_desc;Annex a §Ycountry§W of small size and population by conquest;;;;Anexo un §YPaís§W de pequeno tamano y población por conquista;;;x
 minor_conquest_setup;Annex minor nation of $RECIPIENT$;;;;Anexo nación menor, $RECIPIENT$;;;x
@@ -34,14 +19,14 @@ make_puppet_large_setup;Puppet the nation of $RECIPIENT$;;;;Títere de la nación 
 make_puppet_large_short;Puppet $RECIPIENT$;;;;Marioneta $RECIPIENT$;;;x
 negotiated_transfer;Negotiated Transfer;;;;Transferencia negociada;;;x
 negotiated_transfer_desc;Take a state or colonial region from another player with no effect on infamy, prestige, or jingoism, with their consent;;;;Tomar un estado o región colonial de otro jugador sin efecto en la infamia, el prestigio o el patriotismo, con su consentimiento;;;x
-negotiated_transfer_short;Take $STATE$ from $RECIPIENT$ for $THIRD$;;;;Tomar $STATE$ de $RECIPIENT$ para $THIRD$;;;x
-negotiated_transfer_setup;Take $STATE$ from $RECIPIENT$ for $THIRD$ with their consent;;;;Tomar $STATE$ de $RECIPIENTE$ por $THIRD$ con su consentimiento;;;x
-NORMAL_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $THIRD$;;;;$ORDER$$SECOND$ Transferencia de $STATE$ a $THIRD_COUNTRY$;;;x
-AGRESSION_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$ to $THIRD$;;;;$ORDER$$SECOND$ Transferencia de $STATE$ a $THIRD_COUNTRY$;;x
+negotiated_transfer_short;Take $STATE$ from $RECIPIENT$;;;;Tomar $STATE$ de $RECIPIENT$;;;x
+negotiated_transfer_setup;Take $STATE$ from $RECIPIENT$ with their consent;;;;Tomar $STATE$ de $RECIPIENTE$ con su consentimiento;;;x
+NORMAL_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$;;;;$ORDER$$SECOND$ Transferencia de $STATE$;;;x
+AGRESSION_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$;;;;$ORDER$$SECOND$ Transferencia de $STATE$$;;x
 acquire_state;Acquire State;;;;Adquirir el Estado;;;x
-acquire_state_short;Acquire $STATE$ for $THIRD$;;;;Adquirir $STATE$ para $THIRD$;;;x
+acquire_state_short;Acquire $STATE$ for $THIRD$;;;;Adquirir $STATE$;;;x
 acquire_state_desc;Acquire an enemy §Ystate§W.;;;;Adquirir un enemigo §Yestado§W;;;x
-acquire_state_setup;Acquire $STATE$ from $RECIPIENT$ for $THIRD$;;;;Adquirir $Estado$ de $RECIPIENT$ para $THIRD$;;;x
+acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;;;;Adquirir $Estado$ de $RECIPIENT$;;;x
 demand_concession_casus_belli_china;Chinese Concession;;;;Concesión de China;;;x
 demand_concession_casus_belli_china_short;Demand Concession from China;;;;Exigir una concesión a China;;;x
 demand_concession_casus_belli_china_desc;Force China to concede territory.;;;;Obligar a China a ceder territorio;;;x
@@ -49,8 +34,6 @@ demand_concession_casus_belli_china_setup;Demand that $RECIPIENT$ secede territo
 #############################################;;;;Spanish Loc;;;x
 #More Inventions;;;;Spanish Loc;;;x
 #############################################;;;;Spanish Loc;;;x
-sanitation;Sanitation;;;;Spanish Loc;;;x
-sanitation_desc;It was not until the development of sanitation that the presence of waste and sewage in cities was even considered to be a health issue. Once methods were introduced to remove waste and keep the streets clean, it became possible for rodent infestations to be reduced in size and for cities to rapidly grow.;;;;Spanish Loc;;;x
 antitoxins;Antitoxins;;;;Spanish Loc;;;x
 antitoxins_desc;The development of antitoxins is an advance that not only allows the medical field to combat poisons, but also to develop and further their understanding of how to kill bacteria and other microorganisms which are responsible for many afflictions.;;;;Spanish Loc;;;x
 child_welfare;Child Welfare;;;;Spanish Loc;;;x
@@ -81,12 +64,6 @@ save_the_nation5_desc;Spiteful Resistance;;;;Spanish Loc;;;x
 #############################################;;;;Spanish Loc;;;x
 #Decisions;;;;Spanish Loc;;;x
 #############################################;;;;Spanish Loc;;;x
-romanians_integrated_title;Integrate the Romanians;;;;Spanish Loc;;;x
-romanians_integrated;Integrate the Romanians;;;;Spanish Loc;;;x
-romanians_integrated_desc;The time has come for the Romanian peoples to accept the crown of Hungary.;;;;Spanish Loc;;;x
-spanish_expansion_maghreb_title;Proclaim Spanish Dominion over Maghreb;;;;Spanish Loc;;;x
-spanish_expansion_maghreb;Proclaim Spanish Dominion over Maghreb;;;;Spanish Loc;;;x
-spanish_expansion_maghreb_desc;After taking over Western Aragonese Maghreb, and annexing the local natives we have gained total dominion over North-West Africa.;;;;Spanish Loc;;;x
 mesopotamian_excavations_decision_title;The Cradle of Civilization;;;;Spanish Loc;;;x
 mesopotamian_excavations_decision_desc;Mesopotamia: the onetime home of Babylonia, Akkadia and Assyria holds great promise for archaeological discovery. We've moved beyond the old methods of tomb-raiding and amateur excavations--- we should outfit a modern expedition and seek permission to explore these lands. We might bring back a few trophies for the museum... and learn something along the way.;;;;Spanish Loc;;;x
 minoan_excavations_decision_title;Minoan Excavations;;;;Spanish Loc;;;x

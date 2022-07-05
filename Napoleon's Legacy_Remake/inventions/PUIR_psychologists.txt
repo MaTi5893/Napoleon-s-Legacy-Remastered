@@ -208,42 +208,6 @@ charles_spearman  = {
 	}	
 }
 
-eugenics  = {
-	limit = { biologism = 1 }
-	news = no
-	chance = {
-		base = 0
-		modifier = {
-			factor = 5
-			OR = {
-				ruling_party_ideology = fascist
-				ruling_party_ideology = reactionary
-				ruling_party_ideology = communist
-			}
-		}
-		modifier = {
-			factor = -2
-			NOT = { invention = francis_galton }
-		}
-		modifier = {
-			factor = 2
-			year = 1890
-		}
-		modifier = {
-			factor = -4
-			NOT = { invention = social_darwinism }
-		}
-		modifier = {
-			factor = -10
-			civilized = no
-		}
-	}
-	effect = {
-		#pop_growth = -0.0001			
-	}
-	global_pop_consciousness_modifier = 0.02
-}
-
 #Psychoanalysis (1890)
 sigmund_freud  = {
 	limit = { psychoanalysis = 1 }

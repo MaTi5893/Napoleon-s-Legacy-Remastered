@@ -16,17 +16,6 @@ country_event = {
 			modifier = { factor = 0 USA = { exists = no }}
 		}
 	}
-
-	option = {
-		name = "North American Union"
-		NAU = {
-			country_event = { id=19300 days=0 }
-		}
-		ai_chance = {
-			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
-		}
-	}
 	
 	option = {
 		name = "Canada (NOT the United Kingdom)"
@@ -35,7 +24,7 @@ country_event = {
 		}
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+
 		}
 	}
 	
@@ -46,7 +35,7 @@ country_event = {
 		}
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+
 		}
 	}
 	
@@ -57,7 +46,7 @@ country_event = {
 		}
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+
 		}
 	}
 	
@@ -68,7 +57,7 @@ country_event = {
 		}
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+
 		}
 	}
 	
@@ -79,7 +68,7 @@ country_event = {
 		}
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+
 		}
 	}
 
@@ -90,7 +79,7 @@ country_event = {
 		}
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+
 		}
 	}	
 
@@ -101,7 +90,7 @@ country_event = {
 		}
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+
 		}
 	}
 
@@ -112,7 +101,7 @@ country_event = {
 		}
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+
 		}
 	}
 
@@ -123,7 +112,7 @@ country_event = {
 		} 
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+
 		}
 	}
 	

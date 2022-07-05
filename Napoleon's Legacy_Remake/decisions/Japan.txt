@@ -99,10 +99,6 @@ political_decisions = {
 			set_country_flag = modern_capital_in_the_east
 			prestige = 5
 			1649 = {
-				add_province_modifier = {
-					name = gateway_to_harbor
-					duration = -1
-				}
 				change_province_name = "Tokyo"
 			}
 		}

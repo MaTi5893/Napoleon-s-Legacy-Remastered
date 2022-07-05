@@ -171,10 +171,6 @@ florence_nightingale = {
 		}
 		modifier = {
 			factor = 5
-			invention = sanitation
-		}
-		modifier = {
-			factor = 5
 			invention = combat_medicine
 		}
 	}

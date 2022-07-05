@@ -2,7 +2,6 @@
 		france_flemish = {
 			picture = france_flemish
 			potential = {
-				tag = FRA
 				has_country_flag = franceculture
 				NOT = { accepted_culture = flemish }
 			}
@@ -28,7 +27,6 @@
 		france_cisalpine = {
 			picture = france_cisalpine
 			potential = {
-				tag = FRA
 				has_country_flag = franceculture
 				NOT = { accepted_culture = cisalpine }
 			}
@@ -50,7 +48,6 @@
 		france_rhenish = {
 			picture = france_rhenish
 			potential = {
-				tag = FRA
 				has_country_flag = franceculture
 				NOT = { accepted_culture = rhenish }
 			}
@@ -76,7 +73,6 @@
 		france_catalan = {
 			picture = france_catalan
 			potential = {
-				tag = FRA
 				has_country_flag = franceculture
 				NOT = { accepted_culture = catalan }
 			}

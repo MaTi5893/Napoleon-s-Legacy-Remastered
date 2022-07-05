@@ -413,34 +413,6 @@ witwatersrand_gold_rush = {
 	icon = 11
 }
 
-##### RGO Spread Events (modified to become national modifiers) #####
-country_tractors = {
-	rgo_output = 0.3
-	icon = 11
-}
-
-country_electricity = {
-	rgo_output = 0.3
-	factory_throughput = 0.05
-	icon = 11
-}
-
-country_nitroglycerin = {
-	rgo_output = 0.3
-	icon = 11
-}
-
-country_distribution_channels = {
-	rgo_output = 0.3
-	icon = 11
-}
-
-country_machine_tools = {
-	rgo_output = 0.3
-	factory_throughput = 0.05
-	icon = 11
-}
-
 ##### Diseases & Famines #####
 pandemic_influenza = {
 	global_population_growth = -0.007
@@ -519,12 +491,6 @@ the_yard = {
 	icon = 1
 }
 
-last_stand = {
-	war_exhaustion = -0.01
-	mobilisation_size = 0.02
-	icon = 1
-}
-
 #### SPA - Spain ####
 la_guardia_civil = {
 	tax_efficiency = 0.01
@@ -554,30 +520,6 @@ signed_the_geneva_convention = {
 universal_postal_union = {
 	max_tariff = 0.01
 	icon = 7
-}
-
-#### SWE - Sweden ####
-folkis_educates = {
-	research_points_modifier = 0.01
-	icon = 5
-}
-
-motala_verkstad = {
-	local_factory_throughput = 0.05
-	icon = 13
-}
-
-### NEN - New England ###
-miskatonic_campus = {
-	research_points_modifier = 0.1
-	pop_consciousness_modifier = 0.01
-	icon = 5
-}
-
-### BAV - Bavaria ###
-the_walhalla = {
-	prestige = 0.01
-	icon = 15
 }
 
 ######CB generation######
@@ -661,26 +603,6 @@ badboymod = {
 	icon = 17
 }
 
-### PUIR-Canada###
-dominion_lands_act = {
-	global_immigrant_attract = 0.20
-	global_assimilation_rate = 0.25
-	icon = 17
-}
-
-### PUIR-Portugal###
-instituto_industrial_lisboa = {
-	education_efficiency_modifier = 0.1
-	commerce_tech_research_bonus = 0.05
-	icon = 5
-}
-
-escola_industrial_porto = {
-	factory_throughput = 0.05
-	industry_tech_research_bonus = 0.1
-	icon = 11
-}
-
 ### PUIR-Ottomans###
 ottoman_bank = {
 	tax_efficiency = 0.02
@@ -747,12 +669,6 @@ tanzimat_era = {
 	global_pop_consciousness_modifier = 0.02
 	icon = 7
 }
-### POD-Chile###
-gateway_to_harbor = {
-	immigrant_attract = 1
-	life_rating = 0.02
-	icon = 17
-}
 ### POD-Panjab###
 shastar_vidya = {
 	org_regain = 0.5
@@ -761,12 +677,6 @@ shastar_vidya = {
 	mobilisation_size = 0.02
 	icon = 15
 }
-### POD-Canada ###
-rcmp = {
-	core_pop_militancy_modifier = -0.02
-	icon = 1
-}
-
 ### POD-Germany ###
 otto_von_bismarck = {
 	prestige = 0.02
@@ -777,13 +687,6 @@ otto_von_bismarck = {
 	badboy = -0.01
 	icon = 17
 }
-###POD - Arabia ###
-holy_city = {
-	immigrant_attract = 0.5
-	pop_militancy_modifier = -0.02
-	prestige = 0.05
-	icon = 15
-}
 ### Slayzer-Serbia###
 karadzic_reforms = {
 	education_efficiency_modifier = 0.1
@@ -793,12 +696,6 @@ karadzic_reforms = {
 latin_monetary_union = {
 	tax_efficiency = 0.05
 	icon = 9
-}
-### Icen-Immigration###
-
-Hazardous_Journey = {
-	global_immigrant_attract = -0.15 #-15% immigration
-	icon = 18
 }
 
 ### Archaeology ###
@@ -876,10 +773,6 @@ cop = {
 	local_RGO_output = 0.1
 	local_factory_output = 0.1
 	icon = 19
-}
-fort_constructions = {
-	tax_efficiency = -0.1
-	icon = 10
 }
 
 ##### Triggered mods that were moved to Events + Country Modifiers #####
@@ -969,251 +862,11 @@ an_mein_volk = {
 	icon = 15
 }
 
-cultural_unification = {
-	assimilation_rate = 1
-	population_growth = 0.001
-	icon = 17
-}
-
-russian_comeback1 = {
-	global_population_growth = 0.002
-	mobilisation_size = 0.01
-	farm_rgo_eff = 0.15
-	mine_rgo_eff = 0.15
-	education_efficiency_modifier = 0.1
-	icon = 17
-}
-
-russian_comeback2 = {
-	global_population_growth = 0.001
-	mobilisation_size = 0.01
-	farm_rgo_eff = 0.05
-	mine_rgo_eff = 0.05
-	education_efficiency_modifier = 0.05
-	icon = 17
-}
-
-poniatowski_reforms = {
-	research_points_modifier = 0.10
-	industry_tech_research_bonus = 0.05
-	education_efficiency_modifier = 0.05
-	assimilation_rate = 0.05
-	icon = 17
-}
-
-metternich_way = {
-	diplomatic_points_modifier = 0.20
-	commerce_tech_research_bonus = 0.05
-	education_efficiency_modifier = 0.05
-	icon = 17
-}
-
-liberation_war = {
-	mobilisation_economy_impact = -0.3
-	mobilisation_size = 0.1
-	icon = 17
-}
-
-balkans_war_aftermath_victory = {
-	education_efficiency_modifier = 0.05
-	farm_rgo_eff = 0.1
-	assimilation_rate = 0.1
-	culture_tech_research_bonus = 0.05
-	icon = 17
-}
-
-balkans_war_aftermath_defeat = {
-	mobilisation_size = 0.01
-	army_tech_research_bonus = 0.1
-	icon = 17
-}
-
-liberation_war_aftermath = {
-	education_efficiency_modifier = 0.1
-	mobilisation_size = 0.02
-	farm_rgo_eff = 0.1
-	assimilation_rate = 0.1
-	global_population_growth = 0.001
-	army_tech_research_bonus = 0.05
-	prestige = 0.1
-	icon = 17
-}
-
-golden_eagle_restoration = {
-	culture_tech_research_bonus = 0.1
-	farm_rgo_eff = 0.1
-	education_efficiency_modifier = 0.1
-	mobilisation_size = 0.02
-}
-
-the_pentarchy = {
-	culture_tech_research_bonus = 0.05
-	mobilisation_size = 0.01
-	tax_efficiency = 0.1
-}
-
-anatolia = {
-	army_tech_research_bonus = 0.05
-	mobilisation_size = 0.01
-	tax_efficiency = 0.1
-}
-
-levant = {
-	commerce_tech_research_bonus = 0.05
-	global_population_growth = 0.001
-	tariff_efficiency_modifier = 0.1
-}
-
-north_africa = {
-	industry_tech_research_bonus = 0.05
-	farm_rgo_size = 0.01
-	farm_rgo_eff = 0.1
-}
-
-south_italy = {
-	navy_tech_research_bonus = 0.05
-	naval_organisation = 0.1
-	supply_consumption = -0.1
-}
-
-balkans = {
-	industry_tech_research_bonus = 0.05
-	global_assimilation_rate = 0.1
-	mine_rgo_size = 0.1
-}
-
-north_italy = {
-	culture_tech_research_bonus = 0.05
-	prestige = 0.1
-	education_efficiency_modifier = 0.1
-}
-
-napoleon_death ={
-	prestige = -0.02
-	mobilisation_size = -0.01
-	global_pop_militancy_modifier = 0.01
-	army_tech_research_bonus = -0.05
-	diplomatic_points_modifier = -0.05
-	land_organisation = -0.05
-}
-
-rome ={
-	prestige = 0.1
-	mobilisation_size = 0.01
-	pop_militancy_modifier = -0.01
-}
-
-italian_unification ={
-	prestige = 0.1
-	mobilisation_size = 0.01
-	global_assimilation_rate = 1
-	global_population_growth = 0.001
-	farm_rgo_eff = 0.1
-	mine_rgo_eff = 0.1
-	culture_tech_research_bonus = 0.05
-	education_efficiency_modifier = 0.1
-}
-
-italian_greece = {
-	prestige = 0.01
-	global_population_growth = 0.002
-	navy_tech_research_bonus = 0.05
-}
-
-core_when_done = {
-	icon = 17
-}
-
 french_republic = {
 	global_assimilation_rate = 0.1
 	education_efficiency_modifier = 0.1
 	culture_tech_research_bonus = 0.05
 	army_tech_research_bonus = -0.05
-}
-
-political_bonus_military = {
-	mobilisation_economy_impact = -0.05
-	army_tech_research_bonus = 0.025
-	navy_tech_research_bonus = -0.025
-	org_regain = 0.05
-	land_organisation = 0.05
-	land_unit_start_experience = 0.1
-	supply_consumption = -0.05
-	tax_efficiency = -0.075
-	icon = 10
-}
-
-political_bonus_navy = {
-	army_tech_research_bonus = -0.025
-	navy_tech_research_bonus = 0.05
-	naval_organisation = 0.05
-	tariff_efficiency_modifier = 0.05
-	tax_efficiency = -0.075
-	icon = 10
-}
-
-political_bonus_education = {
-	culture_tech_research_bonus = 0.025
-	commerce_tech_research_bonus = -0.025
-	global_assimilation_rate = 0.05
-	education_efficiency_modifier = 0.075
-	tax_efficiency = -0.075
-	icon = 10
-}
-
-political_bonus_industry = {
-	industry_tech_research_bonus = 0.025
-	culture_tech_research_bonus = -0.025
-	factory_output = 0.05
-	mine_rgo_eff = 0.075
-	farm_rgo_eff = 0.075
-	tax_efficiency = -0.075
-	icon = 10
-}
-
-political_bonus_immigration = {
-	industry_tech_research_bonus = -0.025
-	commerce_tech_research_bonus = 0.025
-	culture_tech_research_bonus = 0.025
-	immigrant_attract = 0.15
-	tax_efficiency = -0.075
-	icon = 10
-}
-
-emperor_council = {
-	land_organisation = 0.05
-	global_pop_militancy_modifier = -0.01
-	global_pop_consciousness_modifier = -0.01
-	global_assimilation_rate = 0.05
-	tax_efficiency = 0.05
-	diplomatic_points_modifier = 0.05
-	icon = 10
-}
-
-emperor_council_disbanded = {
-	land_organisation = -0.05
-	global_pop_militancy_modifier = 0.01
-	global_pop_consciousness_modifier = 0.02
-	global_assimilation_rate = -0.05
-	tax_efficiency = -0.1
-	global_liberal_agitation = 0.01
-	mine_rgo_eff = -0.05
-	farm_rgo_eff = -0.05
-	factory_output = -0.05
-	icon = 10
-}
-
-emperor_council_refused = {
-	land_organisation = -0.1
-	global_pop_militancy_modifier = 0.03
-	global_pop_consciousness_modifier = 0.03
-	global_assimilation_rate = -0.1
-	tax_efficiency = -0.1
-	global_liberal_agitation = 0.04
-	mine_rgo_eff = -0.1
-	farm_rgo_eff = -0.1
-	factory_output = -0.1
-	icon = 10
 }
 
 alexandre_reforms_1 = {
@@ -1233,90 +886,10 @@ french_education = {
 	assimilation_rate = 0.2
 	pop_militancy_modifier = 0.02
 }
-
-paris_lost = {
-	mobilisation_size = 0.01
-	global_liberal_agitation = 0.01
-	global_pop_consciousness_modifier = 0.02
-	global_pop_militancy_modifier = 0.02
-	global_assimilation_rate = -0.05
-	land_organisation = -0.1
-}
-
-brazil_united = {
-	global_immigrant_attract = 0.3
-	education_efficiency_modifier = 0.1
-	global_assimilation_rate = 0.2
-	global_pop_consciousness_modifier = -0.02
-	global_pop_militancy_modifier = -0.02
-}
-
-true_german = {
-	mobilisation_size = 0.02
-	global_population_growth = 0.001
-	global_pop_militancy_modifier = -0.01
-	global_pop_consciousness_modifier = -0.01
-	land_organisation = 0.1
-}
-
-mughals_united = {
-	mobilisation_size = 0.01
-	global_population_growth = 0.001
-	global_pop_militancy_modifier = -0.1
-	research_points_modifier = 0.30
-}
-
-nau_united =  {
-	immigrant_attract = 0.2
-	global_assimilation_rate = 0.3
-	global_pop_militancy_modifier = -0.02
-}
-
-dye_boost = {
-	farm_rgo_eff = 1.5
-	population_growth = 0.001
-	immigrant_attract = 0.2
-}
-
 assimilation = {
 	assimilation_rate = 0.5
 	pop_militancy_modifier = 0.01
 	pop_consciousness_modifier = 0.01
 	mine_rgo_eff = -0.1
 	farm_rgo_eff = -0.1
-}
-
-USA_imperialism = {
-	land_organisation = 0.05
-	naval_organisation = 0.05
-	navy_tech_research_bonus = 0.025
-	army_tech_research_bonus = 0.025
-	culture_tech_research_bonus = -0.025
-	commerce_tech_research_bonus = -0.025
-	diplomatic_points_modifier = -0.10
-}
-
-USA_isolasionist = {
-	navy_tech_research_bonus = -0.025
-	army_tech_research_bonus = -0.025
-	culture_tech_research_bonus = 0.025
-	commerce_tech_research_bonus = 0.025
-	diplomatic_points_modifier = 0.10
-	immigrant_attract = 0.05
-	assimilation_rate = 0.05
-}
-
-monroe = {
-	commerce_tech_research_bonus = 0.05
-	diplomatic_points_modifier = 0.3
-	immigrant_attract = 0.15
-}
-
-fuck_brazil = {
-	immigrant_attract = -0.3
-}
-
-hungarian_nationalism = {
-	pop_militancy_modifier = 0.1
-	assimilation_rate = -0.1
 }

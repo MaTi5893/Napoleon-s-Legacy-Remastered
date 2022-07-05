@@ -54,17 +54,10 @@ wright_n_langleys_aeroplanes = {
 tractors = {
 	limit = { combustion_engine = 1 }
 	chance = {
-		base = 3
-		modifier = {
-			factor = 2
-			average_consciousness = 2
-		}
-		modifier = { 
-			factor = 2
-			economic_policy = laissez_faire
-		}
+		base = 100
 	}
 	effect = {
+		rgo_output = 0.3
 		shared_prestige = 5
 	}
 }
@@ -347,17 +340,11 @@ precision_work = {
 machine_tools = {
 	limit = { interchangeable_parts = 1 }
 	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = precision_work
-		}
-		modifier = {
-			factor = 2
-			early_railroad = 1
-		}
+		base = 100
 	}
 	effect = {
+		rgo_output = 0.3
+		factory_throughput = 0.05
 		factory_goods_output = {
 			machine_parts = 0.02 
 		}
@@ -625,19 +612,7 @@ refrigerator_technology = {
 ammunition_production = {
 	limit = { mechanized_mining = 1 }
 	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = whitney_n_colts_standardized_small_arms
-		}
-		modifier = {
-			factor = 2
-			army_professionalism = 1
-		}
-		modifier = {
-			factor = -100
-			not = { civilized = yes }
-		}
+		base = 100
 	}
 	effect = {
 		activate_building = ammunition_factory 
@@ -646,19 +621,7 @@ ammunition_production = {
 small_arms_production = {
 	limit = { mechanized_mining = 1 }
 	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			strategic_mobility = 1
-		}
-		modifier = {
-			factor = 2
-			early_railroad = 1
-		}
-		modifier = {
-			factor = -100
-			not = { civilized = yes }
-		}
+		base = 100
 	}
 	effect = {
 		activate_building = small_arms_factory
@@ -667,19 +630,7 @@ small_arms_production = {
 explosives_production = {
 	limit = { mechanized_mining = 1 }
 	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			medicine = 1
-		}
-		modifier = {
-			factor = 2
-			invention = nitroglycerin
-		}
-		modifier = {
-			factor = -100
-			not = { civilized = yes }
-		}
+		base = 100
 	}
 	effect = {
 		activate_building = explosives_factory 
@@ -688,19 +639,7 @@ explosives_production = {
 artillery_production = {
 	limit = { mechanized_mining = 1 }
 	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = explosives_production
-		}
-		modifier = {
-			factor = 2
-			iron_muzzle_loaded_artillery = 1
-		}
-		modifier = {
-			factor = -100
-			not = { civilized = yes }
-		}
+		base = 100
 	}
 	effect = {
 		activate_building = artillery_factory 
@@ -1109,17 +1048,10 @@ artificial_fertilizers = {
 nitroglycerin = {
 	limit = { inorganic_chemistry = 1 }
 	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			military_statistics = 1
-		}
-		modifier = {
-			factor = 2
-			scientific_management = 1
-		}
+		base = 100
 	}
 	effect = {
+		rgo_output = 0.3
 		factory_goods_output = {
 			explosives = 0.02
 		} 
@@ -1319,22 +1251,11 @@ bell_n_greys_telephones = {
 electrical_lighting = {
 	limit = { electricity = 1 }
 	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = edison_light_bulb
-		}
-		modifier = {
-			factor = 2
-			invention = gaslights
-		}
-		modifier = {
-			factor = 2
-			electrical_power_generation = 1
-		}
+		base = 100
 	}
 	effect = {
-		factory_throughput = 0.05
+		rgo_output = 0.3
+		factory_throughput = 0.1
 	}
 }
 

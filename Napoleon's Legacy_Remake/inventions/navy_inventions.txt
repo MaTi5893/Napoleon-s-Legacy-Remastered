@@ -468,15 +468,7 @@ steamer_automatic_construction_plants = {
 steamer_transports = {
 	limit = { steamers = 1 }
 	chance = {
-		base = 5
-		modifier = {
-			factor = 2
-			mechanical_production = 1
-		}
-		modifier = {
-			factor = 1
-			clean_coal = 1
-		}
+		base = 100
 	}
 	effect = {
 		activate_unit = steam_transport 
@@ -485,35 +477,7 @@ steamer_transports = {
 commerce_raiders = {
 	limit = { steamers = 1 }
 	chance = {
-		base = 10
-		modifier = {
-			factor = 10
-			fire_control_systems = 1
-		}
-		modifier = {
-			factor = 25
-			raider_group_doctrine = 1
-		}
-		modifier = {
-			factor = 10
-			invention = enemy_plotting_cards
-		}
-		modifier = {
-			factor = 10
-			invention = naval_strike_success_criterium
-		}
-		modifier = {
-			factor = 15
-			invention = independent_command
-		}
-		modifier = {
-			factor = 15
-			invention = steam_auxiliaries
-		}
-		modifier = {
-			factor = 5
-			invention = steamer_automatic_construction_plants
-		}
+		base = 100
 	}
 	effect = {
 		activate_unit = commerce_raider 
@@ -523,31 +487,7 @@ commerce_raiders = {
 ironclads = {
 	limit = { iron_steamers = 1 }
 	chance = {
-		base = 1
-		modifier = {
-			factor = 4
-			invention = monitors
-		}
-		modifier = {
-			factor = 20
-			invention = armour_piercing_projectiles
-		}
-		modifier = {
-			factor = 15
-			invention = armour_piercing_exploding_projectiles
-		}
-		modifier = {
-			factor = 30
-			invention = armoured_turrets
-		}
-		modifier = {
-			factor = 20
-			invention = rifled_guns
-		}
-		modifier = {
-			factor = 10
-			naval_decision_making = 1
-		}
+		base = 100
 	}
 	effect = {
 		activate_unit = ironclad  
@@ -556,31 +496,7 @@ ironclads = {
 monitors = {
 	limit = { iron_steamers = 1 }
 	chance = {
-		base = 1
-		modifier = {
-			factor = 4
-			invention = ironclads
-		}
-		modifier = {
-			factor = 20
-			invention = armour_piercing_projectiles
-		}
-		modifier = {
-			factor = 15
-			invention = armour_piercing_exploding_projectiles
-		}
-		modifier = {
-			factor = 30
-			invention = armoured_turrets
-		}
-		modifier = {
-			factor = 20
-			invention = rifled_guns
-		}
-		modifier = {
-			factor = 10
-			naval_decision_making = 1
-		}
+		base = 100
 	}
 	effect = {
 		activate_unit = monitor 
@@ -618,43 +534,7 @@ torpedo_boats = {
 protected_cruisers = {
 	limit = { steel_steamers = 1 }
 	chance = {
-		base = 1
-		modifier = {
-			factor = 2
-			cheap_steel = 1
-		}
-		modifier = {
-			factor = 2
-			advanced_metallurgy = 1
-		}
-		modifier = {
-			factor = 20
-			invention = cruiser_gun_casemates
-		}
-		modifier = {
-			factor = 10
-			invention = bomb_guns
-		}
-		modifier = {
-			factor = 10
-			invention = quick_firing_guns
-		}
-		modifier = {
-			factor = 20
-			invention = self_propelled_torpedoes
-		}
-		modifier = {
-			factor = 15
-			invention = triple_expansion_engine
-		}
-		modifier = {
-			factor = 10
-			invention = quadruple_expansion
-		}
-		modifier = {
-			factor = 10
-			naval_risk_management = 1
-		}
+		base = 100
 	}
 	effect = {
 		activate_unit = cruiser 
@@ -687,47 +567,7 @@ protected_cruisers = {
 pre_dreadnought = {
 	limit = { steel_steamers = 1 }
 	chance = {
-		base = 1
-		modifier = {
-			factor = 2
-			cheap_steel = 1
-		}
-		modifier = {
-			factor = 2
-			advanced_metallurgy = 1
-		}
-		modifier = {
-			factor = 20
-			invention = heavy_caliber_guns
-		}
-		modifier = {
-			factor = 10
-			invention = harvey_steel_armour
-		}
-		modifier = {
-			factor = 20
-			invention = krupp_steel_armour
-		}
-		modifier = {
-			factor = 5
-			invention = 8in_secondary_guns
-		}
-		modifier = {
-			factor = 5
-			invention = 9in_secondary_guns
-		}
-		modifier = {
-			factor = 15
-			invention = triple_expansion_engine
-		}
-		modifier = {
-			factor = 10
-			invention = quadruple_expansion
-		}
-		modifier = {
-			factor = 10
-			naval_risk_management = 1
-		}
+		base = 100
 	}
 	effect = {
 		activate_unit = battleship 
@@ -737,43 +577,7 @@ pre_dreadnought = {
 dreadnoughts = {
 	limit = { steam_turbine_ships = 1 }
 	chance = {
-		base = 1
-		modifier = {
-			factor = 4
-			electric_furnace = 1
-		}
-		modifier = {
-			factor = 20
-			invention = krupp_steel_armour
-		}
-		modifier = {
-			factor = 5
-			invention = heavy_armour_plates
-		}
-		modifier = {
-			factor = 5
-			invention = large_hull_form
-		}
-		modifier = {
-			factor = 5
-			invention = gun_hydraulics
-		}
-		modifier = {
-			factor = 30
-			invention = geared_turbine_propulsion
-		}
-		modifier = {
-			factor = 20
-			invention = 13in_main_battery
-		}
-		modifier = {
-			factor = 5
-			invention = ap_capped_shell
-		}
-		modifier = {
-			factor = 5
-			naval_nco_training = 1
-		}
+		base = 100
 	}
 	effect = {
 		activate_unit = dreadnought 

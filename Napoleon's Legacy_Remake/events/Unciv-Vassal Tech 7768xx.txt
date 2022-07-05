@@ -5,10 +5,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { water_wheel_power = 1 }
 		overlord = { water_wheel_power = 1 }
+		civilized = no
+		NOT = { water_wheel_power = 1 }
 	}
 	
 	mean_time_to_happen = {
@@ -28,10 +27,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { practical_steam_engine = 1 }
 		overlord = { practical_steam_engine = 1 }
+		civilized = no
+		NOT = { practical_steam_engine = 1 }
 	}
 	
 	mean_time_to_happen = {
@@ -51,10 +49,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { high_n_low_pressure_steam_engines = 1 }
 		overlord = { high_n_low_pressure_steam_engines = 1 }
+		civilized = no
+		NOT = { high_n_low_pressure_steam_engines = 1 }
 	}
 	
 	mean_time_to_happen = {
@@ -74,10 +71,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { steam_turbine = 1 }
 		overlord = { steam_turbine = 1 }
+		civilized = no
+		NOT = { steam_turbine = 1 }
 	}
 	
 	mean_time_to_happen = {
@@ -97,10 +93,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { combustion_engine = 1 }
 		overlord = { combustion_engine = 1 }
+		civilized = no
+		NOT = { combustion_engine = 1 }
 	}
 	
 	mean_time_to_happen = {
@@ -120,10 +115,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { electrical_power_generation = 1 }
 		overlord = { electrical_power_generation = 1 }
+		civilized = no
+		NOT = { electrical_power_generation = 1 }
 	}
 	
 	mean_time_to_happen = {
@@ -143,10 +137,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { mechanized_mining = 1 }
 		overlord = { mechanized_mining = 1 }
+		civilized = no
+		NOT = { mechanized_mining = 1 }
 	}
 	
 	mean_time_to_happen = {
@@ -166,10 +159,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { clean_coal = 1 }
 		overlord = { clean_coal = 1 }
+		civilized = no
+		NOT = { clean_coal = 1 }
 	}
 	
 	mean_time_to_happen = {
@@ -189,10 +181,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { cheap_iron = 1 }
 		overlord = { cheap_iron = 1 }
+		civilized = no
+		NOT = { cheap_iron = 1 }
 	}
 	
 	mean_time_to_happen = {
@@ -212,10 +203,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { cheap_steel = 1 }
 		overlord = { cheap_steel = 1 }
+		civilized = no
+		NOT = { cheap_steel = 1 }
 	}
 	
 	mean_time_to_happen = {
@@ -235,10 +225,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { advanced_metallurgy = 1 }
 		overlord = { advanced_metallurgy = 1 }
+		civilized = no
+		NOT = { advanced_metallurgy = 1 }
 	}
 	
 	mean_time_to_happen = {
@@ -258,10 +247,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { electric_furnace = 1 }
 		overlord = { electric_furnace = 1 }
+		civilized = no
+		NOT = { electric_furnace = 1 }
 	}
 	
 	mean_time_to_happen = {
@@ -281,10 +269,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { experimental_railroad = 1 }
 		overlord = { experimental_railroad = 1 }
+		civilized = no
+		NOT = { experimental_railroad = 1 }
 	}
 	
 	mean_time_to_happen = {
@@ -304,10 +291,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { early_railroad = 1 }
 		overlord = { early_railroad = 1 }
+		civilized = no
+		NOT = { early_railroad = 1 }
 	}
 	
 	mean_time_to_happen = {
@@ -327,10 +313,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { iron_railroad = 1 }
 		overlord = { iron_railroad = 1 }
+		civilized = no
+		NOT = { iron_railroad = 1 }
 	}
 	
 	mean_time_to_happen = {
@@ -350,10 +335,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { steel_railroad = 1 }
 		overlord = { steel_railroad = 1 }
+		civilized = no
+		NOT = { steel_railroad = 1 }
 	}
 	
 	mean_time_to_happen = {
@@ -373,10 +357,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { integral_rail_system = 1 }
 		overlord = { integral_rail_system = 1 }
+		civilized = no
+		NOT = { integral_rail_system = 1 }
 	}
 	
 	mean_time_to_happen = {
@@ -396,10 +379,9 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = no
-		is_independant = no
-		NOT = { limited_access_roads = 1 }
 		overlord = { limited_access_roads = 1 }
+		civilized = no
+		NOT = { limited_access_roads = 1 }
 	}
 	
 	mean_time_to_happen = {

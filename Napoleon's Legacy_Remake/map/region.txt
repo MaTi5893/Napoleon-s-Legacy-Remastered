@@ -1390,3 +1390,101 @@ PEU_2291 = { 2290 2291 2292 2294 } #Cajamarca
 PEU_2295 = { 2295 2299 2293 2296 2297 2298 } #Lima
 
 PEU_2302 = { 2302  2300 2301 2303 } #Ucayali y Cusco
+
+### Meta Regions (no gameplay use, it's just a scope for events)
+breadbasket = {  954 955 956 957 958 959 960 961 962 963 964 965 966 967 968 969 970 971 972 973 974 975 976 978 980 }
+big_breadbasket = { 968 958 972 975 976 }
+gold = {			1				# Sitka
+			2				# Yakutat
+			766			# Sassari
+			769			# Postojna
+			773			# Karlovac
+			1387			# Kuala Lumpur
+			1390			# Kuantan
+			1422			# Muraleve
+			1440			# Sumbawa
+			1564			# Caozhou
+			1884			# Freetown
+			2501			# Kimberley
+			2153			# Durango
+			2157			# Culiacan
+			2179			# Acapulco
+			2295			# Lima
+			2323			# La Serena
+			2575			# Ipoh
+			1659			# Kobe
+			2142			# Chihuahua
+			2255			# Barranquilla
+} 
+gold_1890 = { 		2500			# Kalgoorlie
+			2503			# Wiluna
+			2601			# Sandy Desert
+			2605			# Gibson's  }
+diamonds = { 		2084			# Angra Pequeńa
+			2091			# Mossel Bay
+			2092			# Beaufort
+			1697			# Figuig
+			2107			# Klerksdorp
+			2068			# Salisbury 
+}
+rubber_1885 = { 		1354 #Nakhon Si Thammarat
+			1382 #Hatien
+			1384 #Singapore
+			1385 #Johor Bahru
+			1386 #Malacca
+			1389 #Alor Setar
+			1402 #Tanjungpinang
+			1404 #Palak Pinang
+			1321 #Colombo
+			1398 #Jambi
+			1421 #Madura
+			1406 #Medan
+			1318 #Cochin 
+}
+rubber_1890 = { 1414 #Bogor
+1426 #Pontianak
+1923 #Lagos
+1926 #Ife
+1932 #Bonny
+1957 #Buea
+1986 #Lusambo
+1988 #Mussumba
+1989 #Munza
+1996 #Kisangani
+2057 #Sofala
+2058 #Mossurize
+1977 #Nkuna
+2624 #Loango
+2192 #San Salvador
+2317 #San Ignacio
+2318 #Robore
+2319 #Santa Ana
+1837 #Atbara
+1848 #Asmara 
+}
+rubber_1900 = {		province_id = 1985 #Kumbana
+			province_id = 1364 #Oudong
+			province_id = 1367 #Kampot
+			province_id = 1929 #Akure
+			province_id = 1931 #Warri
+			province_id = 1893 #Sassandra 
+			province_id = 1981 #Impfondo
+			province_id = 1980 #Djambala
+			province_id = 2321 #Cobija
+}
+rubber_1905 = { 		province_id = 1890 #Gbarnga
+			province_id = 1891 #Zwedru
+			province_id = 1827 #Khartoum
+			province_id = 1829 #Kassala
+			province_id = 1833 #Suakin
+			province_id = 1836 #Hayya
+			province_id = 1850 #Akordat
+}
+
+oil_1910 = { 		province_id = 1732		# Ghayran
+			province_id = 1720		# Timimoun
+			province_id = 1167		# Abu Dhabi
+			province_id = 1163		# Qatif
+			province_id = 2270		# Maracaibo
+			province_id = 1170		# Nizwa 
+}

@@ -1,43 +1,4 @@
 political_decisions = {
-	treaty_of_guadalupe_hidalgo = {
-		picture = treaty_of_guadalupe_hidalgo
-		potential = {
-			tag = USA
-			has_country_flag = hasmanifestdestiny
-			NOT = { has_country_flag = treaty_of_guadalupe_hidalgo }
-			MEX = { is_greater_power = no }
-		}
-
-		allow = {
-			OR = {
-				2172 = { controlled_by = USA }
-				MEX = {
-					all_core = {
-						OR = {
-							owned_by = USA
-							controlled_by = USA
-							NOT = { is_core = USA }
-						}
-					}
-				}
-			}
-			NOT = {
-				any_owned_province = { controlled_by = MEX }
-				any_owned_province = {
-					controller = { alliance_with = MEX }
-				}
-			}
-		}
-
-		effect = {
-			set_country_flag = treaty_of_guadalupe_hidalgo
-			MEX = { country_event = 44825 }
-		}
-
-		ai_will_do = {
-			factor = 1
-		}
-	}
 	
 	refute_manifest_destiny = {
 		picture = manifest_destiny

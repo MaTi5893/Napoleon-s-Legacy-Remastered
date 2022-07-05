@@ -16,57 +16,6 @@ political_decisions = {
 			prestige = 20
 		}
 	}
-	ARG_andean_accepted = { 
-	picture = colombia_map
-		potential = { 
-			has_country_flag = take_peru_arg	
-			NOT = { accepted_culture = andean } 
-		}
-		allow = { 
-			ARG = { all_core = { owned_by = THIS } } 
-			BOL = { all_core = { owned_by = THIS } }
-			PEU = { all_core = { owned_by = THIS } } 
-			revolution_n_counterrevolution = 1 
-		}
-		effect = { 
-			add_accepted_culture = andean
-			prestige = 20
-		}
-	}
-	annex_bolivia = {
-		picture = bolivia_decision
-		potential = {
-			tag = ARG
-			BOL = {
-				vassal_of = THIS
-			}
-			NOT = {has_country_flag = annex_bolivia}
-		}
-		allow = {
-			war = no
-			BOL = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							vassal_of = THIS
-						}
-					}
-				}
-			}
-			state_n_government = 1
-		}
-		effect = {
-			BOL = {
-				all_core = {
-					add_core = THIS
-				}
-				annex_to = THIS
-			}
-			set_country_flag = annex_bolivia
-			prestige = 5
-		}
-	}
 }
 	
 		

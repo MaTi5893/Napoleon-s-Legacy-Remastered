@@ -17,35 +17,6 @@ generic_fascist;Generic Fascist;;;;Fascista generico;;;x
 #############################################;;;;;;;x
 #Event and Decision Names;;;;;;;x
 #############################################;;;;;;;x
-EVTOPTA99999901;Nice.;;;;!Me parece bien!;;;x
-EVTOPTA99999902;Nice.;;;;!Me parece bien!;;;x
-EVTOPTA99999903;Nice.;;;;!Me parece bien!;;;x
-EVTOPTA99999904;Nice.;;;;!Me parece bien!;;;x
-EVTOPTA99999905;Nice.;;;;!Me parece bien!;;;x
-EVTNAME99999901;Tractors and Trawlers;;;;Tractores y arrastreros;;;x
-EVTDESC99999901;Mechanized farming, mining, and fishing has arrived in this country, which facilitates an increase in raw resource production.;;;;La agricultura, la minería y la pesca mecanizadas han llegado a este país, lo que facilita el aumento de la producción de materias primas.;;;x
-EVTNAME99999902;Electricity;;;Electricidad;;;x
-EVTDESC99999902;Electricity has arrived in this country, which facilitates an increase in raw resource production and industrial throughput.;;;;La electricidad ha llegado a este país, lo que facilita el aumento de la producción de materias primas y del rendimiento industrial.;;;x
-EVTNAME99999903;Nitroglycerin;;;;Nitroglicerina;;;x
-EVTDESC99999903;Nitroglycerin has arrived in this country, which facilitates an increase in raw resource production.;;;;La nitroglicerina ha llegado a este país, lo que facilita el aumento de la producción de recursos en bruto.;;;x
-EVTNAME99999904;Commercial Retailers;;;;Minoristas comerciales;;;x
-EVTDESC99999904;Establishment of complex distribution channels has begun in this country, which facilitates an increase in raw resource production.;;;;En este país se ha iniciado el establecimiento de complejos canales de distribución, lo que facilita el aumento de la producción de recursos en bruto.;;;x
-EVTNAME99999905;Mechanized Production;;;;Producción mecanizada;;;x
-EVTDESC99999905;Mechanized production has arrived in this country, which facilitates an increase in raw resource production and industrial throughput.;;;;La producción mecanizada ha llegado a este país, lo que facilita el aumento de la producción de recursos brutos y del rendimiento industrial.;;;x
-country_tractors;Tractors and Trawlers;;;;Tractores y arrastreros;;;x
-desc_country_tractors;Mechanized farming, mining, and fishing has arrived in this country, which facilitates an increase in raw resource production.;;;;La agricultura, la minería y la pesca mecanizadas han llegado a este país, lo que facilita el aumento de la producción de materias primas.;;;x
-country_electricity;Electricity;;;;Electricidad;;;x
-desc_country_electricity;Electricity has arrived in this country, which facilitates an increase in raw resource production.;;;;La electricidad ha llegado a este país, lo que facilita el aumento de la producción de materias primas.;;;x
-country_nitroglycerin;Nitroglycerin;;;;Nitroglicerina;;;x
-desc_country_nitroglycerin;Nitroglycerin has arrived in this country, which facilitates an increase in raw resource production.;;;;La nitroglicerina ha llegado a este país, lo que facilita el aumento de la producción de recursos en bruto.;;;x
-country_distribution_channels;Commercial Retailers;;;;Minoristas comerciales;;;x
-desc_country_distribution_channels;Establishment of complex distribution channels have begun in this country, which facilitates an increase in raw resource production.;;;;En este país se han empezado a establecer complejos canales de distribución, lo que facilita el aumento de la producción de recursos en bruto.;;;x
-country_machine_tools;Mechanized Production;;;;Producción mecanizada;;;x
-desc_country_machine_tools;Mechanized production has arrived in this country, which facilitates an increase in raw resource production and industrial throughput.;;;;La producción mecanizada ha llegado a este país, lo que facilita el aumento de la producción de recursos brutos y del rendimiento industrial.;;;x
-equatoria_expedition_ARA_title;Launch Equatoria Expedition;;;;Lanzamiento de la Expedición Equatoria;;;x
-equatoria_expedition_ARA_desc;The Khedive of Egypt, Ismail I commissioned an expedition to explore the Equatoria region south of the Sudan, and to organize a new Egyptian province there. A British explorer and engineer named Samuel White Baker who had led an expedition down the Nile in 1865 was contracted by the Khedive to lead the Egyptian forces and to be the first Governor-General of the new territory..;;;;El jedive de Egipto, Ismail I, encargó una expedición para explorar la región de Ecuatoria, al sur de Sudán, y organizar allí una nueva provincia egipcia. Un explorador e ingeniero británico llamado Samuel White Baker, que había dirigido una expedición por el Nilo en 1865, fue contratado por el jedive para dirigir las fuerzas egipcias y ser el primer gobernador general del nuevo territorio...;;;x
-conquest_of_darfur_ARA_title;Begin Conquest of Darfur;;;;Comienza la conquista de Darfur;;;x
-conquest_of_darfur_ARA_desc;An expansionist Khedive, Ismail I moved to incorporate the territory of Darfur into the Egyptian Sudan in 1874.;;;;Ismail I, un jedive expansionista, se propuso incorporar el territorio de Darfur al Sudán egipcio en 1874.;;;x
 craftsmen_fix_cooldown;Craftsmen Fix Cooldown;;;;Esto hizo que los trabajadores se convirtieran en artesanos.;;;x
 craftsmen_fix_cooldown_desc;Craftsmen Fix Cooldown is 10 years.;;;;Se puede tomar esta decisión cada 10 anos;;;x
 bureaucrats_fix_cooldown;Non-Accepted Bureaucrats Fix Cooldown;;;; Convertir a los burócratas no aceptados en artesanos;;;x

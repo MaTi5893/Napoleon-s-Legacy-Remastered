@@ -28,27 +28,6 @@ political_decisions = {
 		}
 	}
 	
-	schwabing_circles = {
-		potential = {
-			OR = {
-				tag = BAV
-				tag = SGF
-				tag = GER
-			}
-			owns = 599
-			NOT = {
-				has_country_flag = schwabing_encircled
-			}
-		}
-		allow = {
-			expressionism = 1
-		}
-		effect = {
-			prestige = 20
-			set_country_flag = schwabing_encircled
-		}
-	}
-	
 	kaiser_wilhelms_land = {
 		potential = {
 			tag = GER
@@ -100,57 +79,6 @@ political_decisions = {
 			set_country_flag = has_questioned_heligoland
 		}
 	}
-	
-	construct_the_walhalla = {
-		potential = {
-			OR = {
-				tag = BAV
-				tag = SGF
-				tag = GER
-			}
-			owns = 602
-			NOT = {
-				has_global_flag = the_walhalla_is_built
-			}
-		}
-		
-		allow = {
-			romanticism = 1
-		}
-		
-		effect = {
-			602 = {
-				add_province_modifier = {
-					name = the_walhalla
-					duration = -1
-				}
-			}
-			set_global_flag = the_walhalla_is_built
-		}
-	}
-	
-	introduce_the_presbyteries = {
-		potential = {
-			tag = HAN
-			NOT = {
-				has_country_flag = presbyteries_introduced
-			}
-		}
-		allow = {
-			average_militancy = 3
-		}
-		
-		effect = {
-			any_pop = {
-				limit = {
-					has_pop_religion = protestant
-				}
-				militancy = -1
-			}
-			set_country_flag = presbyteries_introduced
-		}
-	}
-	
 	von_moltkes_staff_reforms = {
 		potential = {
 			OR = {

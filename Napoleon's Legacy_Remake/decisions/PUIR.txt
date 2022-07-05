@@ -276,8 +276,7 @@ political_decisions = {
 	call_berne_conference = {
 		picture = postal_union
 		potential = {
-			tag = SWI
-			owns = 605 #Berne
+			ai = no 
 			NOT = {
 				has_global_flag = send_your_letters
 			}
@@ -908,7 +907,7 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	test={potential={tag=FRA not={has_country_flag=chose_heir_nap} year=1842} allow={not={has_country_flag=chose_heir_nap}AUS={ai=yes}PRU={ai=yes}RUS={ai=yes}ai=no} effect={set_country_flag=louis set_country_flag=jerome set_country_flag=alexandre set_country_flag=maximilien set_country_flag=republic set_country_flag=chose_heir_nap}}
+	test={potential={tag=FRA not={has_country_flag=chose_heir_nap} year=1842} allow={not={has_country_flag=chose_heir_nap}AUS={ai=yes}PRU={ai=yes}RUS={ai=yes}ai=no} effect={set_country_flag=louis set_country_flag=jerome set_country_flag=alexandre set_country_flag=maximilien set_country_flag=republic set_country_flag=napoleon2 set_country_flag=chose_heir_nap}}
 	confederate_leaders = {
 		picture = raise_the_bonnie_blue_flag
 		potential = {

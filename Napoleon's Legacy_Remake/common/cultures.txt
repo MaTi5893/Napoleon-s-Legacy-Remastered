@@ -160,25 +160,6 @@ beneluxian = {
 		"van Havre" "van Hoobrouck" "van Innis" "van Meenen" "van Neste" "van Snick" "van Tongerloo" "van Volden de Lombeke" "van Zeeland" 
 		Vandive Verbeke Vercruysse Verduyn Vergauwen "Verseyden de Varick" Verwilghen "Vilain XIIII" Wallaert Wannaar Werbrouck Wyvekens }
 	}
-	wallonian = { 
-		color = { 190 90 20}
-		first_names = { Albert Alexandre Alexis Alphonse Andre Antoine Auguste Barthelemy Baudouin Blaise Camille Clement Charles Constant 
-		Damien David Desire Didier Edmond Edouard Emmanuel Emile Etienne Eugene Felix Fernand Feullien Florent Francois Frederic Georges 
-		Gerard Gilles Guillaume Gustave Henri Hercule Hubert Ignace Isidore Jacques Jean Jean-Baptiste Jean-Francois Jean-Louis 
-		Jean-Jacques Joseph Jules Lambert Laurent Leon Leonard Leopold Louis Lucien Mathieu Maxime Maximilien Nicolas Olivier 
-		Pascal Patrice Paul Philippe Philippe-Joseph Pierre Pierre-Guillaume Sebastien Sylvain Theophile Victor Vincent Werner }
-		
-		last_names = { Allard Barbanson Barthelemy Baugniet Beaucarne Berger Berthels Beyts Biver Blargnies Brialmont Bredart Cauvin Collet 
-		Cols Claus Clerix Coquilhat d'Arenberg d'Huart d'Omalius d'Oreye d'Oultremont David Davignon "de Baillet" "de Beaufort" 
-		"de Behr" "de Bocarme" "de Bousies" "de Brouckere" "de Broqueville" "de Burlet" "de Celles" "de Chasteler" "de Coppin de Falaen"
-		"de Croy" "de Decker" "de Dixmude" "de Gerlache" "de Grez" "de Hemptinne" "de Labbeville" "de Lannoy" "de Ligne" "de Leuze" "de Melin" 
-		"de Merode" "de Pelichy" "de Quarre" "de Riquet" "de Robaulx" "de Rouille" "de Sauvage" "de Secus" "de Selys Longchamps" 
-		"de Stassart" "de Stockem" "de Theux de Meylandt" "de Trazegnies" "de Trooz" "de Viron" "de Waha" Defacqz Deguise Delacroix 
-		"Desmanet de Biesme" Destriveaux Dethier Devaux Deville Dewandre Dhanis Dreze "du Bois" "du Bus" "du Pont" "du Val de Beaulieu" Dumont
-		Fallon Fendius Figeys Fleury-Dubay Fleussu Forgeur Frison Fuchs Gendebien Goffint Henry "Huysman d'Annecroix" Jacques Joos Jottrand 
-		Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb 
-		Orban Petillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangermee Wyvekens Zoude }
-	}
 }
 	
 scandinavian = {
@@ -470,55 +451,6 @@ french = {
 		Pajol Pellissier Petain Picquart "Rigault de Genouilly" Romain-Desfosses Ronarc'h Sarrail Roques Roze Saussier Trehouart Trochu Vaillant Valee Vuillemot Weygand 
 		}
 	}
-	occitan = {
-		color = {130 100 50}
-		first_names = { Achillo Alban Alber Alfons Amedé Andieu Aloi Archambaut Aymar Berot Bérard Bernat Berengar Carle Enric Estève Fidèl 
-		Frederic Filipo Franç Guiraud Huc Ignaç Jan Jacin Laurenç Luis Martin Michele Nicolau Pasqual Pau Pèire Pier Privat Roman 
-		Raimond Rogier Raimond-Rogier Ton Vincenç Vitorio Zeno }
-		
-		last_names = { Amiel Azéma Bec Benet Bézots Dardier Delpuech Ladivèze Gilbert Mistral Claramunt Sala
-		"de Bordeu" Auvernhan Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre
-		d'Usès Nant d'Aurinhac Aramits Challant Guasco Gamba "de Sâteillon" Jotteu Ceppi Becca
-		Colo Carrel Roda Comì Ortèl "de Fenis" "de Saut" "de Cavalhon" "lo Rocoforto" Emperi 
-		Marselhés Alesenc "de Sant Africa" Castrès "de Puylaurenç" Aushés Gasc "lo Cuq" Pèira
-		Valada Bosc Forneiron Faure Avelan Rove Ramond Andrieu "de Lonzac" "de Aurenja" }
-	}
-	corsican = {
-		color = {161 143 49}
-		first_names = { Adalbertu Alesiu Ambrosgiu Andria Antone Biasgiu Baltazaru Benghjaminu Bernardu Calistu 
-		Carlu Conradu Cristofanu Danelu Francescu Gasparu Giacumu Ghjaseppu Larenzu Lisandru Martinu Melchioru 
-		Niculaiu Petru Raimondu Saveriu Silvestru Simone Tumasgiu Volfgangu }
-		
-		last_names = { Amiel Azéma Bec Benet Bézots Dardier Delpuech Ladivèze Gilbert Mistral Claramunt Sala
-		"de Bordeu" Auvernhan Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre
-		d'Usès Nant d'Aurinhac Aramits Challant Guasco Gamba "de Sâteillon" Jotteu Ceppi Becca
-		Colo Carrel Roda Comì Ortèl "de Fenis" "de Saut" "de Cavalhon" "lo Rocoforto" Emperi 
-		Marselhés Alesenc "de Sant Africa" Castrès "de Puylaurenç" Aushés Gasc "lo Cuq" Pèira
-		Valada Bosc Forneiron Faure Avelan Rove Ramond Andrieu "de Lonzac" "de Aurenja" }
-	}
-	breton = {
-		color = {100 110 100}
-		first_names = { Alain  Alfons Andrev Arthus Briac Briog Denoel Efflam Elouan Enora Even Frañsez Frederig Gwendal Helori Hoël Ivin Jakez Jaoua Karenteg Laouen Malo
-		Matilin Meriadeg Morvan Riok Riware Tadeg Tomaz Tugdual Visant Yann Yvon }
-		
-		last_names = { Abgrall Artus Belleg Berthu Calvez Caradeg Eveno Floch Gallo Goff Guelleg Heussaff Huon Jezeguel Karter Kergoulay Kirouag Laouenan Lozach
-		Menez Morvan Omnes Pelan Pinvidig Quemener Ropars Riou Salaun Sezneg Tanet Trahan Treguier }
-	}
-	picard = {
-		color = {100 110 136}
-		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
-		Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
-		François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
-		Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
-		Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas }
-		
-		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
-		Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" 
-		"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
-		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
-		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain "Van Loo" }
-	}
-	union = FRA
 }
 
 south_slavic = {
@@ -682,7 +614,7 @@ polish_culture_group = {
 		Hauke-Boask Iszikowski Jasinski Klicki Konopczynski Krukowiecki Kruszewski Langiewicz Madalinski Mierolawski
 		Mikolajczyk Mokronowski Niepokolczycki Ostrowski Pac Pilsudski Poniatowski Potocki Preadzynski Radziwill
 		Rokossowski Rola-Zymierski Rommel Rozicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski
-		Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
+		Taczanowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
 		radicalism = 10
 	}
 	lithuanian = { 
@@ -1030,7 +962,6 @@ arab = {
         }
         radicalism = 10
     }
-	union = ARA
 }
 
 iranian_turanian = {
@@ -1265,18 +1196,6 @@ south_asian = {
                
 		}
 	}
-	baluchi = {
-		color = {132 70 171}
-		first_names = {
-			Abdullah Ahmad Azam Khudadad
-			Mehrab Mohammad Muhabbat 
-			Nasir Nawaz
-			Samandar Sherdil
-		}
-		last_names = {
-			Khan
-		}
-	}	
 	union = HND
 }
 
@@ -1369,16 +1288,6 @@ southeast_asian = {
                
 		}
 	}
-	shan = {
-		color = {76 122 90}
-		first_names = { Hswe Hso Naw Hkam Hkun Hseng Hpa Pyi Nga Hmu Natsu Pe Than Shwe Hpo Lun Sun
-			
-		}
-		
-		last_names = { Cheng Kaw Mong Hkawt Pak Nan Lek Leng Hmu Letya Hung Thi Hpu Ya Min
-               
-		}
-	}
 	burmese = {
 		color = {99 87 27}
 		first_names = { Thibaw Mindon Pagan Tharawadi Gabyidaw Bodawphaya Maung Singu Hsinbyushin Naungdawkyi Alaungphaya Maha Minkyaw Zeya
@@ -1387,16 +1296,6 @@ southeast_asian = {
 		
 		last_names = { Min Bagyidaw Bandula "Ne Myo" Myo Thura Dabayin
                
-		}
-	}
-	kachin = {
-		color = {255 98 76}
-		first_names = { Sama Sinwa U Zan Hta Duwa Ding Ga Hkyeng
-			
-		}
-		
-		last_names = { Ratang Nawng Sin Lahpai Lahtaw Maran Marip Nhkum
-               			
 		}
 	}
 }

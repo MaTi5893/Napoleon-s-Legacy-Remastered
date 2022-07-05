@@ -6,33 +6,7 @@ province_event = {
 	id = 1100
 
 	trigger = {
-		or = {
-			province_id = 1				# Sitka
-			province_id = 2				# Yakutat
-			province_id = 766			# Sassari
-			province_id = 769			# Postojna
-			province_id = 773			# Karlovac
-			province_id = 1387			# Kuala Lumpur
-			province_id = 1390			# Kuantan
-			province_id = 1422			# Muraleve
-			province_id = 1440			# Sumbawa
-			province_id = 1564			# Caozhou
-			province_id = 1884			# Freetown
-			province_id = 2501			# Kimberley
-			province_id = 2153			# Durango
-			province_id = 2157			# Culiacan
-			province_id = 2179			# Acapulco
-			province_id = 2295			# Lima
-			province_id = 2323			# La Serena
-			#province_id = 2500			# Kalgoorlie
-			#province_id = 2503			# Wiluna
-			province_id = 2575			# Ipoh
-			#province_id = 2601			# Sandy Desert
-			#province_id = 2605			# Gibson's Desert
-			province_id = 1659			# Kobe
-			province_id = 2142			# Chihuahua
-			province_id = 2255			# Barranquilla
-		}
+		region = gold
 		not = { trade_goods = precious_metal }
 	}
 
@@ -89,8 +63,8 @@ province_event = {
 	id = 1102
 
 	trigger = {
-		year = 1850
 		province_id = 1084				# Utchan
+		year = 1850
 		not = { trade_goods = precious_metal }
 	}
 
@@ -263,8 +237,8 @@ province_event = {
 	id = 1000002
 
 	trigger = {
-		year = 1850
 		province_id = 2478			# Ballarat
+		year = 1850
 		not = { trade_goods = precious_metal }
 		not = { year = 1880 }
 	}
@@ -292,8 +266,8 @@ province_event = {
 	id = 1000003
 
 	trigger = {
-		year = 1850
 		province_id = 2476			# Melbourne
+		year = 1850
 		not = { trade_goods = precious_metal }
 		not = { year = 1880 }
 	}
@@ -322,12 +296,7 @@ province_event = {
 
 	trigger = {
 		year = 1890
-		or = {
-			province_id = 2500			# Kalgoorlie
-			province_id = 2503			# Wiluna
-			province_id = 2601			# Sandy Desert
-			province_id = 2605			# Gibson's Desert
-		}
+		region = gold_1890
 		not = { trade_goods = precious_metal }
 	}
 
@@ -356,16 +325,7 @@ province_event = {
 	id = 1105
 
 	trigger = {
-		year = 1836
-		or = {
-			province_id = 2084			# Angra Pequeña
-			province_id = 2091			# Mossel Bay
-			province_id = 2092			# Beaufort
-			province_id = 1697			# Figuig
-		       #province_id = 2108			# Mosega
-			province_id = 2107			# Klerksdorp
-			province_id = 2068			# Salisbury
-		}
+		region = diamonds
 		not = { trade_goods = precious_metal }
 	}
 
@@ -447,21 +407,7 @@ province_event = {
 
 	trigger = {
 		year = 1885
-		or = {
-			province_id = 1354 #Nakhon Si Thammarat
-			province_id = 1382 #Hatien
-			province_id = 1384 #Singapore
-			province_id = 1385 #Johor Bahru
-			province_id = 1386 #Malacca
-			province_id = 1389 #Alor Setar
-			province_id = 1402 #Tanjungpinang
-			province_id = 1404 #Palak Pinang
-			province_id = 1321 #Colombo
-			province_id = 1398 #Jambi
-			province_id = 1421 #Madura
-			province_id = 1406 #Medan
-			province_id = 1318 #Cochin
-		}
+		region = rubber_1885
 		not = { trade_goods = rubber }
 		OR = {
 			owner = {
@@ -509,28 +455,7 @@ province_event = {
 
 	trigger = {
 		year = 1890 
-		or = {
-			province_id = 1414 #Bogor
-			province_id = 1426 #Pontianak
-			province_id = 1923 #Lagos
-			province_id = 1926 #Ife
-			province_id = 1932 #Bonny
-			province_id = 1957 #Buea
-			province_id = 1986 #Lusambo
-			province_id = 1988 #Mussumba
-			province_id = 1989 #Munza
-			province_id = 1996 #Kisangani
-			province_id = 2057 #Sofala
-			province_id = 2058 #Mossurize
-			province_id = 1977 #Nkuna
-			province_id = 2624 #Loango
-			province_id = 2192 #San Salvador
-			province_id = 2317 #San Ignacio
-			province_id = 2318 #Robore
-			province_id = 2319 #Santa Ana
-			province_id = 1837 #Atbara
-			province_id = 1848 #Asmara
-		}
+		region = rubber_1890 
 		not = { trade_goods = rubber }
 		OR = {
 			owner = {
@@ -578,17 +503,7 @@ province_event = {
 
 	trigger = {
 		year = 1900 
-		or = {
-			province_id = 1985 #Kumbana
-			province_id = 1364 #Oudong
-			province_id = 1367 #Kampot
-			province_id = 1929 #Akure
-			province_id = 1931 #Warri
-			province_id = 1893 #Sassandra 
-			province_id = 1981 #Impfondo
-			province_id = 1980 #Djambala
-			province_id = 2321 #Cobija
-		}
+		region = rubber_1900
 		not = { trade_goods = rubber }
 		OR = {
 			owner = {
@@ -636,15 +551,7 @@ province_event = {
 
 	trigger = {
 		year = 1905 
-		or = {
-			province_id = 1890 #Gbarnga
-			province_id = 1891 #Zwedru
-			province_id = 1827 #Khartoum
-			province_id = 1829 #Kassala
-			province_id = 1833 #Suakin
-			province_id = 1836 #Hayya
-			province_id = 1850 #Akordat
-		}
+		region = rubber_1905
 		not = { trade_goods = rubber }
 		OR = {
 			owner = {
@@ -694,8 +601,8 @@ province_event = {
 	id = 1000000
 
 	trigger = {
-		year = 1856
 		province_id = 1102		# Baku
+		year = 1856
 		not = { trade_goods = oil }
 	}
 
@@ -725,8 +632,8 @@ province_event = {
 	id = 1109
 
 	trigger = {
-		year = 1870
 		province_id = 1205		# Kizil Arvat
+		year = 1870
 		not = { trade_goods = oil }
 		OR = {
 			owner = {
@@ -768,8 +675,8 @@ province_event = {
 	id = 1110
 
 	trigger = {
-		year = 1871
 		province_id = 1104		# Sheki
+		year = 1871
 		not = { trade_goods = oil }
 		OR = {
 			owner = {
@@ -811,8 +718,8 @@ province_event = {
 	id = 1111
 
 	trigger = {
-		year = 1872
 		province_id = 1186		# Alma Ata
+		year = 1872
 		not = { trade_goods = oil }
 		OR = {
 			owner = {
@@ -854,8 +761,8 @@ province_event = {
 	id = 1112
 
 	trigger = {
-		year = 1873
 		province_id = 1202		# Kokand
+		year = 1873
 		not = { trade_goods = oil }
 		OR = {
 			owner = {
@@ -897,8 +804,8 @@ province_event = {
 	id = 1113
 
 	trigger = {
-		year = 1874
 		province_id = 1107		# Lankaran
+		year = 1874
 		not = { trade_goods = oil }
 		OR = {
 			owner = {
@@ -940,8 +847,8 @@ province_event = {
 	id = 1114
 
 	trigger = {
-		year = 1875
 		province_id = 132		# Houston
+		year = 1875
 		not = { trade_goods = oil }
 		OR = {
 			owner = {
@@ -983,8 +890,8 @@ province_event = {
 	id = 1115
 
 	trigger = {
-		year = 1876
 		province_id = 667		# Tirgoviste
+		year = 1876
 		not = { trade_goods = oil }
 		OR = {
 			owner = {
@@ -1026,8 +933,8 @@ province_event = {
 	id = 1116
 
 	trigger = {
-		year = 1877
 		province_id = 672		# Bacau
+		year = 1877
 		not = { trade_goods = oil }
 		OR = {
 			owner = {
@@ -1069,8 +976,8 @@ province_event = {
 	id = 1117
 
 	trigger = {
-		year = 1879
 		province_id = 1168		# Dubai
+		year = 1879
 		not = { trade_goods = oil }
 		OR = {
 			owner = {
@@ -1746,14 +1653,7 @@ province_event = {
 
 	trigger = {
 		year = 1910
-		or = {
-			province_id = 1732		# Ghayran
-			province_id = 1720		# Timimoun
-			province_id = 1167		# Abu Dhabi
-			province_id = 1163		# Qatif
-			province_id = 2270		# Maracaibo
-			province_id = 1170		# Nizwa 
-		}
+		region = oil_1910
 		not = { trade_goods = oil }
 		OR = {
 			owner = {

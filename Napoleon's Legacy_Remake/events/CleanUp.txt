@@ -5,6 +5,11 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
+		ruling_party_ideology = communist
+		political_parties = underground_parties
+		vote_franschise = none_voting
+		upper_house_composition = party_appointed
+		civilized = yes
 		NOT = {
 			government = proletarian_dictatorship
 			government = presidential_dictatorship
@@ -12,11 +17,6 @@ country_event = {
 			government = fascist_dictatorship
 			government = absolute_monarchy
 		}
-		civilized = yes
-		political_parties = underground_parties
-		vote_franschise = none_voting
-		upper_house_composition = party_appointed
-		ruling_party_ideology = communist
 	}
 	
 	mean_time_to_happen = {
@@ -36,6 +36,11 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
+		ruling_party_ideology = reactionary
+		political_parties = underground_parties
+		vote_franschise = none_voting
+		upper_house_composition = party_appointed
+		civilized = yes
 		NOT = {
 			government = proletarian_dictatorship
 			government = presidential_dictatorship
@@ -43,11 +48,6 @@ country_event = {
 			government = fascist_dictatorship
 			government = absolute_monarchy
 		}
-		civilized = yes
-		political_parties = underground_parties
-		vote_franschise = none_voting
-		upper_house_composition = party_appointed
-		ruling_party_ideology = reactionary
 	}
 	
 	mean_time_to_happen = {
@@ -67,6 +67,12 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
+		ruling_party_ideology = anarcho_liberal
+		political_parties = underground_parties
+		vote_franschise = none_voting
+		upper_house_composition = party_appointed
+		ruling_party_ideology = anarcho_liberal
+		civilized = yes
 		NOT = {
 			government = proletarian_dictatorship
 			government = presidential_dictatorship
@@ -74,11 +80,6 @@ country_event = {
 			government = fascist_dictatorship
 			government = absolute_monarchy
 		}
-		civilized = yes
-		political_parties = underground_parties
-		vote_franschise = none_voting
-		upper_house_composition = party_appointed
-		ruling_party_ideology = anarcho_liberal
 	}
 	
 	mean_time_to_happen = {
@@ -98,6 +99,12 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
+		ruling_party_ideology = fascist
+		political_parties = underground_parties
+		vote_franschise = none_voting
+		upper_house_composition = party_appointed
+		ruling_party_ideology = fascist
+		civilized = yes
 		NOT = {
 			government = proletarian_dictatorship
 			government = presidential_dictatorship
@@ -105,11 +112,6 @@ country_event = {
 			government = fascist_dictatorship
 			government = absolute_monarchy
 		}
-		civilized = yes
-		political_parties = underground_parties
-		vote_franschise = none_voting
-		upper_house_composition = party_appointed
-		ruling_party_ideology = fascist
 	}
 	
 	mean_time_to_happen = {

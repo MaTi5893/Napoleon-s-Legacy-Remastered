@@ -1,5 +1,4 @@
 chungus;amongus;;;;Spanish Loc;;;x
-return_home_annex;Return Home;;;;!Volver a casa!;;;x
 andean;Andean;;;;Andinos;;;x
 EVTDESC181501;With the help of lobbied Danziger politicians, the Prussian government has assumed power of the City in a blatant violation of the treaties that were signed between our nations. Prussian troops have already been stationed on Danziger land, but we still have the opportunity to act. How should we proceed?;;;;Con la ayuda de pol�ticos de Danzig presionados, el gobierno prusiano ha asumido el poder de la ciudad en una flagrante violaci�n de los tratados que se firmaron entre nuestras naciones. Las tropas prusianas ya han sido estacionadas en la tierra de Danzig, pero todav�a tenemos la oportunidad de actuar. �C�mo debemos proceder?;;;x
 EVTDESC19300;Keep, ancient lands, your storied pomp!' cries she\n' With silent lips. 'Give me your tired, your poor,\nYour huddled masses yearning to breathe free.'\n\nThe people of France have presented to the people of our country a spectacular gift. An enormous copper statue, 151 ft. tall, depicting a woman carrying a torch, representing and named 'Liberty Enlightening The World'. The design has been carried out by one Frederic Auguste Bartholdi, and a place has been set aside for the statue on an island near a great harbour. The statue will henceforth be known, simply, as 'The Statue of Liberty'.;;;;"Tierras de anta�o, qu�dense con sus historias pomposas!" exclama ella\n' con labios silenciosos. Dadme tus cansados, tus pobres,\nTus masas amontonadas gimiento por despirar libres'\n\nEl pueblo de Francia ha presentado al pueblo de nuestro pa�s un regalo espectacular. Una enorme estatua de cobre, de 151 pies de altura, que representa a una mujer que lleva una antorcha, y que lleva el nombre de "La libertad iluminando al mundo". El diseno ha sido realizado por un tal Frederic Auguste Bartholdi, y se ha reservado un lugar para la estatua en una isla cercana a un gran puerto. A partir de ahora, la estatua ser� conocida simplemente como "La Estatua de la Libertad".;;;x
@@ -51,22 +50,6 @@ release_vassals_title;Should we release any vassals?;;;;;;;x
 cisalpine;Arpitan;;;;;;;x
 french_republic;French Republic;;;;;;;x
 french_republic_desc;After the death of the dictator Napoleon the 1st, France can rejoice with the 2nd Republic!;;;;;;;x
-political_bonus_military;Military Focus;;;;;;;x
-political_bonus_military_desc;We chose the military focus for our nation!;;;;;;;x
-political_bonus_navy;Navy Focus;;;;;;;x
-political_bonus_navy_desc;We chose the navy focus for our nation!;;;;;;;x
-political_bonus_industry;Industry Focus;;;;;;;x
-political_bonus_industry_desc;We chose the industry focus for our nation!;;;;;;;x
-political_bonus_education;Education Focus;;;;;;;x
-political_bonus_education_desc;We chose the education focus for our nation!;;;;;;;x
-political_bonus_immigration;Immigration Focus;;;;;;;x
-political_bonus_immigration_desc;We chose the immigration focus for our nation!;;;;;;;x
-emperor_council;Emperor's council;;;;;;;x
-emperor_council_desc;As Emperor Napoleon fell into madness, his best generals and wife decided to create a council to make sure the country was running. With time, it grew in power and now the emperor's political power is a shadow of what it was.;;;;;;;x
-emperor_council_disbanded;Emperor's Council Disbanded!;;;;;;;x
-emperor_council_disbanded_desc;The emperor's council has finally been disbanded. It has huge consequences for France but now the political stability is assured!;;;;;;;x
-emperor_council_refused;Emperor's council coup;;;;;;;x
-emperor_council_refused_desc;We can't accept a coup of the emperor's council, we need to fight it back and dissolve the council!;;;;;;;x
 alexandre_reforms_1;Alexandre's Trade Reforms;;;;;;;x
 alexandre_reforms_1_desc;Seeing how France was left after the Napoleonic wars and the end of Napoleon reign, Alexandre has enacted a lot of reforms to better the working condition of a lot of people as well as the commerce inside the nation;;;;;;;x
 alexandre_reforms_2;Alexandre's Social Reforms;;;;;;;x
@@ -89,7 +72,7 @@ mughals_united;Mughal Empire Reclaimed;;;;;;;x
 mughals_united_desc;The Mughal Empire as been united at last !;;;;;;;x 
 USA_2556;Carolina;;;;;;;x 
 nau_united;End of the 13 colonies;;;;;;;x
-nau_united_desc;Now that we are the last english speaking country of the new world it's our duty to accept all immigrants !;;;;;;;x
+nau_united_desc;Now that we are the last english speaking country of the new world it's our duty to accept all immigrants!;;;;;;;x
 western_african;Western African;;;;spanish loc;;;x
 volta;Volta-Niger;;;;spanish loc;;;x
 nigerian;Nigerian group;;;;spanish loc;;;x
@@ -113,16 +96,7 @@ dye_boost_desc;Dye is the new gold, it's down there in Mexico and we are taking 
 assimilation;Assimilation;;;;spanish loc;;;x
 assimilation_title;Assimilation;;;;spanish loc;;;x
 assimilation_desc;It's time to teach those people good maners !;;;;spanish loc;;;x
-USA_imperialism;Imperialist way;;;;spanish loc;;;x
-USA_imperialism_title;Imperialist way;;;;spanish loc;;;x
-USA_imperialism_desc;We have chosen to embrace our european heritage and to let the eagle be free to act as he wishes !;;;;spanish loc;;;x
-USA_isolasionist;Isolasionism;;;;spanish loc;;;x
-USA_isolasionist_title;Isolasionism;;;;spanish loc;;;x
-USA_isolasionist_desc;We have chosen to detache ourselves of european politics as much as possible. The eagle shall protect America !;;;;spanish loc;;;x
-monroe;Monroe's Doctrine;;;;spanish loc;;;x
-monroe_title;Monroe's Doctrine;;;;spanish loc;;;x
-monroe_desc;The occasion has been judged proper for asserting, as a principle in which the rights and interests of the United States are involved, that the American continents, by the free and independent condition which they have assumed and maintain, are henceforth not to be considered as subjects for future colonization by any European powers;;;;spanish loc;;;x
-monroe_doctrine;Monroe Doctrine;;;;spanish loc;;;x
-fuck_brazil;Brazil Immigrant Attraction Nerf;;;;spanish loc;;;x
-fuck_brazil_title;Brazil Immigrant Attraction Nerf;;;;spanish loc;;;x
-fuck_brazil_desc;You're not cool enough to have this many immigrants!;;;;spanish loc;;;x
+napoleon_ii;Napoleon the Second;;;;Spanish Loc;;;x
+desc_napoleon_ii;Nephew and heir of Napoleon I, he is a man of the people and carries with him a legacy that makes him seemingly invincible.;;;;Spanish Loc;;;x
+breadbasket;The Breadbasket;;;;Spanish Loc;;;x
+big_breadbasket;Big Breadbasket;;;;Spanish Loc;;;x

@@ -2,7 +2,7 @@ country_event = {
 	id = 776405
 	title = "776405"
 	desc = "EVTDESC776405"
-	picture = "xinhai"
+	picture = "chicagofire"
 	
 	fire_only_once = yes 	
 

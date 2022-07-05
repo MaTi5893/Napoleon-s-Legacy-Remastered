@@ -2,5 +2,5 @@ owner = UPB
 controller = UPB
 
 add_core = UPB
-trade_goods = grain
+trade_goods = precious_metal
 life_rating = 35

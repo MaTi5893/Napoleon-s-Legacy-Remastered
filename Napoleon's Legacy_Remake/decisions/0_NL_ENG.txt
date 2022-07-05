@@ -1,24 +1,4 @@
 political_decisions = { 
-	wales_expansion_eng = {
-		picture = wales_decision
-		potential = {
-			tag = ENG
-			NOT = {accepted_culture = welsh}
-		}
-		allow = {
-			war = no
-			all_core = {
-				owned_by = THIS
-			}
-			state_n_government = 1
-		}
-		effect = {
-			add_accepted_culture = cymry
-            add_accepted_culture = welsh
-
-			prestige = 20
-		}
-	}
 	
 	ENG_ireland = { 
 		picture = ireland_decision
@@ -56,42 +36,11 @@ political_decisions = {
 		}
 	}
 
-	reclaim_sa_eng = {
-		picture = sa_decision
-		potential = {
-			tag = ENG
-			NOT = {accepted_culture = anglo_canadian}
-            NOT = {accepted_culture = boer}
-            NOT = {accepted_culture = afro_caribbean}
-		}
-		allow = {
-			war = no
-			all_core = {
-				owned_by = THIS
-			}
-			SAF	= {
-				all_core = {
-					owned_by = THIS
-				}
-			}
-			revolution_n_counterrevolution = 1
-		}
-		effect = {
-			SAF	= {all_core = {
-					add_core = THIS
-				} 
-			}
-			add_accepted_culture = boer
-			prestige = 20
-		}
-	}
-
     na_expansion = {
 		picture = canada_decision
 		potential = {
 			tag = ENG
 			NOT = {accepted_culture = anglo_canadian}
-            NOT = {accepted_culture = boer}
             NOT = {accepted_culture = afro_caribbean}
             CAN = {ai = yes}
 		}
@@ -136,7 +85,6 @@ political_decisions = {
 		potential = {
 			tag = ENG
             NOT = {accepted_culture = anglo_canadian}
-            NOT = {accepted_culture = boer}
             NOT = {accepted_culture = afro_caribbean}
 		}
 		allow = {

@@ -81,10 +81,6 @@ national_socialism = {
 				invention = social_darwinism
 			}
 			modifier = {
-				factor = 2
-				invention = eugenics
-			}
-			modifier = {
 				factor = 1
 				invention = vilfredo_pareto
 			}

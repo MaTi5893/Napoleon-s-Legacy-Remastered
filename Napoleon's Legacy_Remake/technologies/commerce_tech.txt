@@ -5,20 +5,13 @@ private_banks = {
 	cost = 3600
 
 	activate_building = cement_factory 
-	tax_eff = 5
+	tax_eff = 3
 	
 	ai_chance = {
 		factor = 1.1
 		modifier = {
 			factor = 3.5
 			rank = 16
-		}
-		modifier = {
-			factor = 5
-			OR = {
-				NOT = { total_pops = 7500000 }
-				total_pops = 15000000
-			}
 		}
 		modifier = {
 			factor = 1.5
@@ -52,13 +45,6 @@ stock_exchange = {
 			rank = 16
 		}
 		modifier = {
-			factor = 5
-			OR = {
-				NOT = { total_pops = 7500000 }
-				total_pops = 15000000
-			}
-		}
-		modifier = {
 			factor = 1.25
 			economic_policy = laissez_faire
 		}
@@ -90,13 +76,6 @@ business_banks = {
 			rank = 16
 		}
 		modifier = {
-			factor = 5
-			OR = {
-				NOT = { total_pops = 7500000 }
-				total_pops = 15000000
-			}
-		}
-		modifier = {
 			factor = 1.25
 			economic_policy = laissez_faire
 		}
@@ -125,13 +104,6 @@ investment_banks = {
 		modifier = {
 			factor = 3.5
 			rank = 16
-		}
-		modifier = {
-			factor = 5
-			OR = {
-				NOT = { total_pops = 7500000 }
-				total_pops = 15000000
-			}
 		}
 		modifier = {
 			factor = 1.25
@@ -237,13 +209,6 @@ ad_hoc_money_bill_printing = {
 			rank = 16
 		}
 		modifier = {
-			factor = 5
-			OR = {
-				NOT = { total_pops = 7500000 }
-				total_pops = 15000000
-			}
-		}
-		modifier = {
 			factor = 1.25
 			economic_policy = laissez_faire
 		}
@@ -285,7 +250,7 @@ private_bank_money_bill_printing = {
 }
 central_bank_money_bill_printing = {
 	area = monetary_system
-	year = 1870
+	year = 1850
 	cost = 14400
 
 	administrative_efficiency = 0.05
@@ -307,7 +272,7 @@ central_bank_money_bill_printing = {
 }
 modern_central_bank_system = {
 	area = monetary_system
-	year = 1890
+	year = 1870
 	cost = 18000
 
 	administrative_efficiency = 0.05
@@ -337,7 +302,7 @@ modern_central_bank_system = {
 }
 market_determined_exchange_rates = {
 	area = monetary_system
-	year = 1919
+	year = 1900
 	cost = 21600
 
 
@@ -351,14 +316,6 @@ market_determined_exchange_rates = {
 		modifier = {
 			factor = 1.1
 			rank = 16
-		}
-		modifier = {
-			factor = 1.05
-			literacy = 0.3 
-		}
-		modifier = {
-			factor = 1.05
-			literacy = 0.6
 		}
 		modifier = {
 			factor = 1.02
@@ -401,12 +358,12 @@ late_classical_theory = {
 	ai_chance = {
 		factor = 1.01
 		modifier = {
-			factor = 1.02
-			industrial_score = 250 #10
+			factor = 1.2
+			industrial_score = 20 #10
 		}
 		modifier = {
-			factor = 1.02
-			industrial_score = 350 #50
+			factor = 1.2
+			industrial_score = 100 #50
 		}
 		modifier = {
 			factor = 1.05
@@ -424,19 +381,19 @@ late_classical_theory = {
 }
 collectivist_theory = {
 	area = economic_thought_and_critique
-	year = 1848
+	year = 1836
 	cost = 10800
 
 	factory_input = -0.01
 	ai_chance = {
 		factor = 1.01
 		modifier = {
-			factor = 1.02
-			industrial_score = 300 #100
+			factor = 1.2
+			industrial_score = 150 #100
 		}
 		modifier = {
-			factor = 1.02
-			industrial_score = 350 #150
+			factor = 1.2
+			industrial_score = 200 #150
 		}
 		modifier = {
 			factor = 1.02
@@ -454,19 +411,19 @@ collectivist_theory = {
 }
 the_historical_theory = {
 	area = economic_thought_and_critique
-	year = 1870
+	year = 1850
 	cost = 14400
 
 	factory_input = -0.01
 	ai_chance = {
 		factor = 1.01
 		modifier = {
-			factor = 1.02
-			industrial_score = 500 #200
+			factor = 1.1
+			industrial_score = 250 #200
 		}
 		modifier = {
-			factor = 1.02
-			industrial_score = 700 #250
+			factor = 1.2
+			industrial_score = 300 #250
 		}
 		modifier = {
 			factor = 1.02
@@ -484,19 +441,19 @@ the_historical_theory = {
 }
 neoclassical_theory = {
 	area = economic_thought_and_critique
-	year = 1900
+	year = 1870
 	cost = 18000
 
 	factory_input = -0.01
 	ai_chance = {
 		factor = 1
 		modifier = {
-			factor = 1.02
-			industrial_score = 700 #400
+			factor = 1.1
+			industrial_score = 500 #400
 		}
 		modifier = {
-			factor = 1.02
-			industrial_score = 900 #500
+			factor = 1.2
+			industrial_score = 600 #500
 		}
 		modifier = {
 			factor = 1.02
@@ -514,18 +471,18 @@ neoclassical_theory = {
 }
 keynesian_economics = {
 	area = economic_thought_and_critique
-	year = 1919
+	year = 1900
 	cost = 21600
 
 	factory_input = -0.01
 	ai_chance = {
 		factor = 1.01
 		modifier = {
-			factor = 1.02
+			factor = 1.2
 			industrial_score = 1500 #1000
 		}
 		modifier = {
-			factor = 1.02
+			factor = 1.2
 			industrial_score = 2000 #1500
 		}
 		modifier = {
@@ -605,7 +562,7 @@ market_structure = {
 			industrial_score = 50
 		}
 		modifier = {
-			factor = 4.02
+			factor = 1.02
 			tech_school = commerce_tech_school
 		}
 	}	
@@ -634,7 +591,7 @@ business_regulations = {
 			industrial_score = 150
 		}
 		modifier = {
-			factor = 4.02
+			factor = 1.02
 			tech_school = commerce_tech_school
 		}
 	}	
@@ -642,16 +599,10 @@ business_regulations = {
 }
 market_regulations = {
 	area = market_functionality
-	year = 1870
+	year = 1850
 	cost = 14400
 
 	influence = 0.2
-	rgo_goods_throughput = {
-		precious_metal = 0.05
-	}
-	rgo_size = {
-		precious_metal = 0.1
-	}
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -667,7 +618,7 @@ market_regulations = {
 			industrial_score = 250
 		}
 		modifier = {
-			factor = 4.02
+			factor = 1.02
 			tech_school = commerce_tech_school
 		}
 	}	
@@ -675,16 +626,10 @@ market_regulations = {
 }
 economic_responsibility = {
 	area = market_functionality
-	year = 1890
+	year = 1870
 	cost = 18000
 
 	influence = 0.2
-	rgo_goods_throughput = {
-		precious_metal = 0.05
-	}
-	rgo_size = {
-		precious_metal = 0.1
-	}
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -708,16 +653,10 @@ economic_responsibility = {
 }
 government_interventionism = {
 	area = market_functionality
-	year = 1914
+	year = 1900
 	cost = 21600
 
 	influence = 0.2
-	rgo_goods_throughput = {
-		precious_metal = 0.05
-	}
-	rgo_size = {
-		precious_metal = 0.1
-	}
 	ai_chance = {
 		factor = 1.01
 		modifier = {
@@ -748,12 +687,6 @@ guild_based_production = {
 	cost = 3600
 	activate_building = canned_food_factory 
 	factory_output = 0.01
-	rgo_goods_throughput = {
-		precious_metal = 0.025
-	}
-	rgo_size = {
-		precious_metal = 0.05
-	}
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -788,14 +721,12 @@ organized_factories = {
 	cost = 7200
 
 	factory_output = 0.01
-	rgo_goods_throughput = {
-		precious_metal = 0.025
-	}
-	rgo_size = {
-		precious_metal = 0.05
-	}
 		ai_chance = {
 		factor = 1.05
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
 		modifier = {
 			factor = 1.25
 			economic_policy = laissez_faire
@@ -824,18 +755,16 @@ organized_factories = {
 }
 scientific_management = {
 	area = tech_organization
-	year = 1850
+	year = 1836
 	cost = 10800
 
 	factory_output = 0.01
-	rgo_goods_throughput = {
-		precious_metal = 0.025
-	}
-	rgo_size = {
-		precious_metal = 0.05
-	}
 	ai_chance = {
 		factor = 1.05
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
 		modifier = {
 			factor = 1.5
 			economic_policy = laissez_faire
@@ -864,18 +793,16 @@ scientific_management = {
 }
 time_saving_measures = {
 	area = tech_organization
-	year = 1870
+	year = 1850
 	cost = 14400
 
 	factory_output = 0.01
-	rgo_goods_throughput = {
-		precious_metal = 0.025
-	}
-	rgo_size = {
-		precious_metal = 0.05
-	}
 	ai_chance = {
 		factor = 1.05
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
 		modifier = {
 			factor = 1.2
 			industrial_score = 300
@@ -892,18 +819,16 @@ time_saving_measures = {
 }
 management_strategy = {
 	area = tech_organization
-	year = 1900
+	year = 1870
 	cost = 18000
 
 	factory_output = 0.01
-	rgo_goods_throughput = {
-		precious_metal = 0.025
-	}
-	rgo_size = {
-		precious_metal = 0.05
-	}
 	ai_chance = {
 		factor = 1.05
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
 		modifier = {
 			factor = 1.2
 			industrial_score = 500
@@ -920,18 +845,16 @@ management_strategy = {
 }
 organizational_development = {
 	area = tech_organization
-	year = 1919
+	year = 1900
 	cost = 21600
 
 	factory_output = 0.01
-	rgo_goods_throughput = {
-		precious_metal = 0.025
-	}
-	rgo_size = {
-		precious_metal = 0.05
-	}
 	ai_chance = {
 		factor = 1.05
+		modifier = {
+			factor = 1.2
+			is_greater_power = yes
+		}
 		modifier = {
 			factor = 1.2
 			industrial_score = 1000
@@ -946,3 +869,5 @@ organizational_development = {
 		}
 	}	
 }
+
+

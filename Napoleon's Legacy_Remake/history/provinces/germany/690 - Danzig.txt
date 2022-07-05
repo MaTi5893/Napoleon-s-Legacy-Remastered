@@ -4,7 +4,7 @@ add_core = GER
 add_core = DZG
 
 
-add_core = PLC
+#add_core = PLC
 add_core = PRU
 trade_goods = fish
 life_rating = 40

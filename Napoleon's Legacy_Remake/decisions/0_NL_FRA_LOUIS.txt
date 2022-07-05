@@ -1,0 +1,127 @@
+political_decisions = { 
+	reintegrate_the_netherlands = {
+		picture = decision_net_HRE
+		potential = {
+			has_country_flag = louis
+			NOT = {has_country_flag = reintegrate_the_netherlands}
+		}
+		allow = {
+			war=no
+			state_n_government=1
+			NET = {exists = yes}
+			NET = {
+				vassal_of = THIS
+				in_sphere = THIS
+			}
+		}
+		effect = {
+			NET = {annex_to = THIS}
+			set_country_flag = reintegrate_the_netherlands
+			SAR_720 = {add_core = FRA}
+			any_pop = {
+				limit = {
+					culture = north_italian 
+				}
+				militancy = 3
+			}
+		}
+	}
+
+	flemish_integration = {
+		picture = decision_bel_HRE
+		potential = {
+			has_country_flag = louis
+			NOT = {accepted_culture = flemish}
+		}
+		allow = {
+			BEL = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			all_core = {
+				owned_by = THIS
+			}
+			nationalism_n_imperialism = 1
+			war = no
+		}
+		effect = {
+			add_accepted_culture = flemish
+			BEL = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			any_country = {
+				limit = {
+					OR = {
+						vassal_of = THIS
+						in_sphere = THIS
+					}
+					OR = {
+						accepted_culture = flemish
+						primary_culture = flemish
+					}
+				}
+				all_core = {
+					add_core = THIS
+				}
+				annex_to = THIS
+			}
+			prestige = 20
+		}
+	}
+	dutch_integration = {
+		picture = decision_net_HRE
+		potential = {
+			has_country_flag = louis
+			NOT = {accepted_culture = dutch}
+		}
+		allow = {
+			NET = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							vassal_of = THIS
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			all_core = {
+				owned_by = THIS
+			}
+			revolution_n_counterrevolution = 1
+			war = no
+		}
+		effect = {
+			add_accepted_culture = dutch
+			NET = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			any_country = {
+				limit = {
+					OR = {
+						vassal_of = THIS
+						in_sphere = THIS
+					}		
+					primary_culture = dutch
+				}
+				all_core = {
+					add_core = THIS
+				}
+				annex_to = THIS
+			}
+			prestige = 20
+		}
+	}	
+}
