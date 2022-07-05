@@ -4,4 +4,4 @@ add_core = HES
 add_core = GER
 
 trade_goods = cattle
-life_rating = 40
+life_rating = 38

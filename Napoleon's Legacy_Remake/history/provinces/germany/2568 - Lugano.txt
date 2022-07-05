@@ -4,4 +4,4 @@ add_core = LOM
 add_core = NIT
 add_core = ITA
 trade_goods = wool
-life_rating = 40
+life_rating = 38
