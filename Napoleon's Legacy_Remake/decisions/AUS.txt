@@ -14,6 +14,7 @@ political_decisions = {
 			NOT = {
 				has_country_flag = dual_monarchy_done
 			}
+			has_country_flag = hungarian_crisis_solved
 		}
 	
 		allow = {
@@ -22,6 +23,7 @@ political_decisions = {
 				NGF = { exists = yes }
 				GER = { exists = yes }
 				GCF = { exists = yes } 
+				BLE = { exists = yes }
 				HAN = {is_greater_power = yes}
 				is_greater_power = no
 				

@@ -17,7 +17,7 @@ political_decisions = {
 			random_country = { 
 				limit = { 
 					tag = TUR 
-					school_reforms = no_schools 
+					social_reform = no_schools 
 				} 
 			school_reforms = low_schools
 			}

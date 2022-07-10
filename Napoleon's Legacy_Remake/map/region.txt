@@ -877,7 +877,7 @@ PRU_572 = { 570 571 572 573 574 } #Rheinland
 
 PRU_682 = { 682 683 684 685 } #Silesia
 
-PRU_549 = { 549 550 551 552 681 } #Brandenburg	#KOLBERG NEEDS TO BE HERE BECAUSE IT LOOKS REALLY UGLY IF THE SCANDINAVIANS TAKE IT 
+PRU_549 = { 549 550 551 552 } #Brandenburg
 
 #MEC_544 = { 369 370 371 529 530 }
 
@@ -1227,7 +1227,7 @@ PRU_578 = { 578 579 2561 } #Mittelrhein
 
 PRU_546 = { 547 548 } #Vorpommern
 
-PRU_679 = { 679 680 546 } #Hinterpommern
+PRU_679 = { 679 680 681 546 } #Hinterpommern
 
 MEC_545 = { 530 544 545 } #Mecklenburg
 

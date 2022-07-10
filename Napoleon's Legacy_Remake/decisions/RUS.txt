@@ -264,6 +264,35 @@ political_decisions = {
 			factor = 1
 		}
 	}
+	found_the_imperial_academy = {
+			potential = {
+				tag = RUS
+				NOT = { tech_school = russian_tech_school }
+			}
+			
+			allow = {
+				owns = 994
+				idealism = 1
+				army_professionalism = 1
+				naval_professionalism = 1
+			}
+			
+			effect = {
+				tech_school = russian_tech_school
+				prestige = 5
+			}
+			ai_will_do = {
+				factor = 1
+				modifier = { 
+					factor = 0
+					NOT = { business_banks = 1 }
+				}
+				modifier = { 
+					factor = 0
+					NOT = { biologism = 1 }
+				}
+			}
+	}
 	russian_sakhalin = {
 			picture = map_yellow_sea
 			potential = {

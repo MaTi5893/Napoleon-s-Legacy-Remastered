@@ -26,7 +26,6 @@ political_decisions = {
             }
         }
         effect = {
-	set_country_flag = take_new_england
             NEN = {
                 all_core = {
                     add_core = THIS
@@ -111,13 +110,12 @@ political_decisions = {
         picture = canada_decision
         potential = {
             tag = CAN
-	ai = no
-            NOT = { has_country_flag = can_break_free }
+            is_vassal = yes
+            ai = no
         }
         allow = {
         }
         effect = {
-	set_country_flag = can_break_free
             any_country = {
                 release_vassal = CAN
             }

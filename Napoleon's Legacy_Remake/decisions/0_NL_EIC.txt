@@ -1,0 +1,88 @@
+political_decisions = {
+    form_british_india_democracy = {
+        picture = india_decision
+        potential = {
+            tag = EIC
+            EIC = {government = democracy}
+        }
+        allow = {
+            all_core = {
+                owned_by = THIS
+            }
+            HND = {
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+            nationalism_n_imperialism = 1
+            war = no
+            all_core = {
+                owned_by = THIS
+            }
+        }
+        effect = {
+            add_accepted_culture = bengali
+            HND = {
+                all_core = {
+                    add_core = THIS
+                }
+            }
+            change_tag = IBE
+            prestige = 30
+        }
+    }
+    
+    form_british_india_monarchy = {
+        picture = india_decision
+        potential = {
+            tag = EIC
+            EIC = {government = presidential_dictatorship}
+        }
+        allow = {
+            all_core = {
+                owned_by = THIS
+            }
+            HND = {
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+            nationalism_n_imperialism = 1
+            war = no
+            all_core = {
+                owned_by = THIS
+            }
+        }
+        effect = {
+            add_accepted_culture = bengali
+            HND = {
+                all_core = {
+                    add_core = THIS
+                }
+            }
+            government = absolute_monarchy
+            change_tag = IBE
+            prestige = 30
+        }
+    }
+
+    second_acceptance = {
+        picture = india_culutre_decision
+        potential = {
+            tag = IBE
+            accepted_culture = bengali
+            NOT = {has_country_flag = second_acceptance}
+        }
+        allow = {
+            revolution_n_counterrevolution = 1
+            war = no
+            all_core = {
+                owned_by = THIS
+            }
+        }
+        effect = {
+            country_event = {id = 600036 days = 0}
+            set_country_flag = second_acceptance
+        }
+    }
+}

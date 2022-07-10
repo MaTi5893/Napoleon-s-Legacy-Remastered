@@ -1,7 +1,7 @@
 owner = ENG
 controller = ENG
 add_core = ENG
-
+add_core = NWE
 trade_goods = fish
 life_rating = 38
 1861.1.1 = {

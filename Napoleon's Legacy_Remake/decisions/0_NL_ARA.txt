@@ -1,0 +1,103 @@
+political_decisions = { 
+	ARA_caliphate = { 	
+		potential = { 
+			tag = ARA
+			NOT = { has_country_flag = ARA_caliphate }
+		}
+		allow = { 
+			all_core = { 
+				OR = {
+					owned_by = THIS 
+					state_id = 762
+					state_id = 3250
+					owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+				}
+			}
+		}
+		effect = { 	
+			any_country = { 
+				limit = { 
+					is_culture_group = arab 
+					in_sphere = ARA
+				}
+				annex_to = THIS
+			}
+			prestige = 7
+			set_country_flag = ARA_caliphate
+		}
+	}
+	ARA_south_italy_cores = { 	#Mutually exclusive with the iberia cores	
+		potential = { 
+			has_country_flag = ARA_caliphate
+			NOT = { has_country_flag = ARA_south_italy_cores } 
+			NOT = { has_country_flag = ARA_iberia_cores }
+		}
+		allow = { 
+			owns = 762
+		}
+		effect = { 
+			NPL = { 
+				all_core = { add_core = THIS } 
+			}
+			set_country_flag = ARA_south_italy_cores
+			badboy = 7
+		}
+	}
+	ARA_south_italy_culture = { 
+		potential = { 
+			tag = ARA 
+			has_country_flag = ARA_south_italy_cores
+			NOT = { accepted_culture = south_italian } 
+		}
+		allow = { 
+			NPL = { all_core = { owned_by = THIS } }
+			NIT = { is_greater_power = no } 
+			PAP = { is_greater_power = no } 
+			NPL = { is_greater_power = no }
+		}
+		effect = { 
+			add_accepted_culture = south_italian
+			badboy = 8
+		}
+	}
+	ARA_iberia_cores = { 
+		potential = { 
+			has_country_flag = ARA_caliphate
+			NOT = { has_country_flag = ARA_south_italy_cores } 
+			NOT = { has_country_flag = ARA_iberia_cores }
+		}
+		allow = { 
+			owns = 3250
+			owns = 517
+			owns = 513
+		}
+		effect = { 
+			517 = { add_core = ARA } 
+			SPA_513 = { add_core = ARA } 
+			SPA_512 = { add_core = ARA }
+			POR_525 = { add_core = ARA }
+			SPA_503 = { add_core = ARA }
+			SPA_487 = { add_core = ARA }
+			badboy = 7
+			set_country_flag = ARA_iberia_cores
+		}
+	}
+	ARA_iberia_culture = { 
+		potential = { 
+			has_country_flag = ARA_iberia_cores
+			NOT = { accepted_culture = spanish } 
+		}
+		allow = { 	
+			all_core = { owned_by = this } 
+		}
+		effect = { 
+			add_accepted_culture = spanish 
+			badboy = 8 
+		}
+	}
+}

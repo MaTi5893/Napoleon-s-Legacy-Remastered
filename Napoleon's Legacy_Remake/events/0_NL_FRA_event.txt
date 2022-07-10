@@ -1,13 +1,12 @@
-country_event = {		#entire file needs to get remade on jah
+country_event = {
 	id = 600023
 	trigger = {
 		tag = FRA
-		NOT = {year = 1870}		#having 5 seperate NOTs is bad for performance but i dont care
-		NOT = { has_country_flag = republic } 
-		NOT = { government = democracy }
+		NOT = {year = 1870}
 		NOT = { has_country_modifier = emperor_council }
 		NOT = { has_country_flag = council_disbanded }
 		OR = {
+			has_country_flag = joseph
 			has_country_flag = louis
 			has_country_flag = jerome
 			has_country_flag = alexandre
@@ -59,10 +58,8 @@ country_event = {
 	trigger = {
 		tag = FRA
 		year = 1870
-		NOT = { has_country_flag = republic } 
-		NOT = { government = democracy }
+		NOT = { has_country_flag = republic }
 		NOT = { has_country_modifier = emperor_council }
-		NOT = { has_country_flag = emperorcouncilconclusion }
 	}
 
 	fire_only_once = yes
@@ -76,13 +73,11 @@ country_event = {
 	picture = "emperor_council"
     option = {
         name = "Let the council establish a new republic, we can't risk the consequences of opposing it now..."
-	set_country_flag = emperorcouncilconclusion	#im not sure if this is necessary with the fireonlyonce but Jupiter's timelapse had France flipflop all over the place 
         any_pop = {
 			militancy=-1
 			consciousness=-1
 		}
 		government = democracy
-		random_country = { limit = { tag = THIS political_reform = no_voting } political_reform = wealth_voting }
 		add_country_modifier = {
 			name = french_republic
 			duration = -1
@@ -93,7 +88,6 @@ country_event = {
 	}
 	option = {
         name = "I'm the only one who rule over France!"
-set_country_flag = emperorcouncilconclusion
         any_pop = {
 			militancy=2
 			consciousness=2
@@ -386,4 +380,34 @@ country_event = {
 			factor = 0.25
     	}
 	}
+}
+
+country_event = {
+	id = 600028
+
+	trigger = {
+		tag = FRA
+		NOT = {FRA = {controls = 425}}
+		NOT = { has_country_flag = paris_lost }
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	fire_only_once = yes
+
+    title = "EVTNAME600028"
+	desc = "EVTDESC600028"
+	picture = "paris_occupied"
+	option = {
+        name = "Sacrebleu!"
+		FRA = {
+			add_country_modifier = {
+				name = paris_lost
+				duration = 1825
+			}
+		}
+		FRA = {set_country_flag = paris_lost}
+    }
 }

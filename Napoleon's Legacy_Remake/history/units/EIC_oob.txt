@@ -1,0 +1,134 @@
+leader = {
+	name = "William Cochrane"
+	#picture = eng_adm_cochrane
+	date = 1831.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "James Envy"
+	#picture = eng_gen_goughhugh
+	date = 1830.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+
+army = {
+	name = "The Calcutta Army"
+	location = 1256
+
+	regiment = {
+		name= "1.3rd Indian Division"
+		type = infantry
+		home = 1251
+	}
+
+	regiment = {
+		name= "2.3rd Indian Division"
+		type = infantry
+		home = 1247
+	}
+
+	regiment = {
+		name= "3.3rd Indian Division"
+		type = infantry
+		home = 1254
+	}
+
+	regiment = {
+		name= "1.4th Indian Division"
+		type = infantry
+		home = 1248
+	}
+
+	regiment = {
+		name= "2.4th Indian Division"
+		type = artillery
+		home = 1255
+	}
+	regiment = {
+		name= "3.4th Indian Division"
+		type = artillery
+		home = 1258
+	}
+	regiment = {
+		name= "1.5th Indian Division"
+		type = artillery
+		home = 1259
+	}
+	regiment = {
+		name= "2.5th Indian Division"
+		type = artillery
+		home = 1260
+	}
+	regiment = {
+		name= "3.5th Indian Division"
+		type = artillery
+		home = 1257
+	}
+	regiment = {
+		name= "1.6th Indian Division"
+		type = hussar
+		home = 1250
+	}
+}
+
+navy = {
+	name = "4th Reserve Squadron"
+	location = 1251 #Calcutta
+	ship = {
+		name= "HMS Foudroyant"
+		type = manowar
+	}
+
+	ship = {
+		name= "7th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "9th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "19th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "20th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "21th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "22th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "23th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "24th Transport Flotilla"
+		type = clipper_transport
+	}
+}

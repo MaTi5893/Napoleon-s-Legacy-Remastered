@@ -8,7 +8,7 @@ country_event = {
 
 	option = {
 		name = "Convert them to Artisans!"
-		all_core = {
+		any_core = {
 			any_pop = {
 				limit = { 
 					AND = {

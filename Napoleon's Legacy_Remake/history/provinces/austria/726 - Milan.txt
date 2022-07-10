@@ -3,7 +3,7 @@ controller = LOM
 add_core = NIT
 add_core = LOM
 add_core = ITA
-
+add_core = PAP
 trade_goods = iron
 life_rating = 35
 fort = 1

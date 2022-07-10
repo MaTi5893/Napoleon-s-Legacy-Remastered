@@ -14,9 +14,20 @@ political_decisions = {
             state_n_government = 1
         }
         effect = {
+            BRZ = {
+                all_core = {
+                    add_core = THIS
+                }
+            }
             add_country_modifier = {
                 name = brazil_united
                 duration = 3650
+            }
+            all_core = {
+                add_province_modifier = {
+                    name = cultural_unification
+                    duration = 7300
+                }
             }
             set_country_flag = unite_brz
         }

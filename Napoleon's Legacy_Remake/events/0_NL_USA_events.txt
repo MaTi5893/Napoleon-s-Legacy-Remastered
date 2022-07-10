@@ -8,7 +8,7 @@ country_event = {
 	picture = "event_imp_or_isol"
 
     option = {
-        name = "Let the eagle eat his prey!"
+        name = "Let the eagle eat his preys !"
         scaled_militancy = {
 			ideology = liberal
 			factor = 8
@@ -23,7 +23,7 @@ country_event = {
     	}
 	}
 	option = {
-        name = "The Eagle shall protect America!"
+        name = "The Eagle shall protect America !"
         scaled_militancy = {
 			ideology = reactionary
 			factor = 8

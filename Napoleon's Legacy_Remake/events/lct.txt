@@ -8,6 +8,9 @@ country_event = {
 	title = "Setup Event"
 	desc = "Have fun GMing or whatever you're doing ~Rennes : D"
 	immediate = {	
+		PRU = { set_country_flag = anmeinvolk } #for an mein volk
+		ENG = { set_country_flag = adu} 
+		NET = { set_country_flag = adu} 
 		AUS_641 = {
 				any_pop = {
 					limit = {

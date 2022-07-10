@@ -3,7 +3,7 @@ controller = MOD
 add_core = MOD
 add_core = NIT
 add_core = ITA
-
+add_core = PAP
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {

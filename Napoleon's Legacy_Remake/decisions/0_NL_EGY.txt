@@ -45,7 +45,7 @@ political_decisions = {
 		effect = {
 			set_country_flag = egy_sphere_chosen
 			set_country_flag = egy_asked_tur
-			TUR = {
+			FRA = {
 				country_event = 7770004
 			}
 		}
@@ -72,7 +72,7 @@ political_decisions = {
 		effect = {
 			set_country_flag = egy_sphere_chosen
 			set_country_flag = egy_asked_russia
-			RUS = {
+			FRA = {
 				country_event = 7770004
 			}
 		}

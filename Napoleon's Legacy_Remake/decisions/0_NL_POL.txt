@@ -30,7 +30,7 @@ political_decisions = {
 		}
 	}
 
-	reconquest_of_north_territory = { 
+	reconquest_of_north_territory = {
 		picture = decision_prussia_POL
 		potential = {
 			OR = {
@@ -104,6 +104,14 @@ political_decisions = {
 			owns= 953
 		}
 		effect = {
+			add_core=704 
+			add_core=705
+			add_core= 714
+			add_core= 2584
+			add_core=702
+			add_core= 951
+			add_core= 952
+			add_core= 953
 			prestige=5
 			set_country_flag=unite_poles2
 		}
@@ -139,7 +147,10 @@ political_decisions = {
 			}
 			POL = {
 				all_core = {
-
+					add_province_modifier = {
+						name = cultural_unification
+						duration = 7300
+					}
 					remove_core = AUS
 					remove_core = GER
 					remove_core = NGF
