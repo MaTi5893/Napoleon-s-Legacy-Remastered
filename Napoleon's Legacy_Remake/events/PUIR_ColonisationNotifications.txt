@@ -1,6 +1,6 @@
 # Events to remind the player about colonisation dates
 country_event = { 
-		
+		#TLDR liechtenstein gets 2 events, each of these events triggers 200009 for every player
 	id = 200009
 	is_triggered_only = yes
 	allow_multiple_instances = yes

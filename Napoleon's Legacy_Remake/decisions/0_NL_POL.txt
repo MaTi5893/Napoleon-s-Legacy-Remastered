@@ -30,7 +30,7 @@ political_decisions = {
 		}
 	}
 
-	reconquest_of_north_territory = { #MAYBE have these decisions give cores on the land (and PLC would start without it?)
+	reconquest_of_north_territory = { 
 		picture = decision_prussia_POL
 		potential = {
 			primary_culture = polish

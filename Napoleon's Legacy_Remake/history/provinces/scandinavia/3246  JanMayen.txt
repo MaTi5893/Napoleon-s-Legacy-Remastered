@@ -1,7 +1,5 @@
-owner = DEN
-controller = DEN
-add_core = SCA
-add_core = NOR
+owner = JAN
+controller = JAN
 add_core = JAN
 
 trade_goods = fish

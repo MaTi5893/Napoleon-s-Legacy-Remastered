@@ -129,9 +129,6 @@ political_decisions = {
         	BRA = {
 				all_core = {add_core = THIS}
 			}
-			RHI = {
-				all_core = {remove_core = GER}
-			}
 		}
 	}
 	north_german_question = {

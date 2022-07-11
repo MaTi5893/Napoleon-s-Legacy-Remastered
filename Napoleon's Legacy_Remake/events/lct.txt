@@ -1,5 +1,5 @@
 country_event = { 		#the day one setup event
-	id = 600420
+	id = 600420	#this is a certified NLR file (it just doesnt have 0_nl because it's easier to pan to lct in file explorer)
 	trigger = { 
 		tag = LCT
 	}
@@ -8,6 +8,8 @@ country_event = { 		#the day one setup event
 	title = "Setup Event"
 	desc = "Have fun GMing or whatever you're doing ~Rennes : D"
 	immediate = {		#i know you can literally just set country flags in the history files but it's easier to manage if you have all of them in one place 
+		CHI = { country_event = 776405 }	#asian nerfs 7764xx.txt
+		JAN = { country_event = 600001 }	#Monthly repeating cleanup event
 		any_country = { 	#ENG gets this if they annex canada
 			limit = { 
 				OR = { 
@@ -20,6 +22,19 @@ country_event = { 		#the day one setup event
 			}
 			set_country_flag = hawaii_killers
 		}
+		ECU = { set_country_flag = gran_colombian }
+		CLM = { set_country_flag = gran_colombian }
+		VNZ = { set_country_flag = gran_colombian }
+
+		WAL = { set_country_flag = romanian }
+		MOL = { set_country_flag = romanian }
+
+		PRU = { set_country_flag = PRUGERNGF }	#reichsland_elsass
+
+		MEX = { set_country_flag = texas_retaker }
+		USA = { set_country_flag = texas_retaker }
+		LCT = { set_country_flag = unconquerable }
+		JAN = { set_country_flag = unconquerable }
 		any_country = { 
 			limit = { 
 				OR = { 
@@ -33,9 +48,8 @@ country_event = { 		#the day one setup event
 			}
 			set_country_flag = partitioners
 		}
-		BAV = { set_country_flag = SGF set_country_flag = SGF1 }
 		ARG = { set_country_flag = ARG set_country_flag = ARG1 }	#ARG2 is set by ARG1's decision 
-		AUS = { set_country_flag = AUS set_country_flag = AUS1 set_country_flag = AUS2 set_country_flag = AUS3 set_country_flag = AUS4} 
+		AUS = { set_country_flag = AUS set_country_flag = AUS1 set_country_flag = AUS2 set_country_flag = AUS3 } 
 		PRU = { set_country_flag = PRU }	
 		AUS_641 = {
 				any_pop = {
@@ -355,7 +369,6 @@ country_event = { 		#the day one setup event
 					life_rating = 10				
 					}
 			}
-			CHE = { country_event = { id = 600423 } } 
 	}
 	option = {
 		name = "OK" 

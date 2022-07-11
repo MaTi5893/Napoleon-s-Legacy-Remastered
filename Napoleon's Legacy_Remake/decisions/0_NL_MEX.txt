@@ -5,13 +5,6 @@ political_decisions = {
 			tag = MEX
 			government = democracy
 			NOT = { has_country_flag = mexican_empire }
-			FRA = {
-				OR = {
-					government = absolute_monarchy
-					government = prussian_constitutionalism
-					government = hms_government
-				}
-			}
 		}
 		allow = {
 			war = no
@@ -42,11 +35,16 @@ political_decisions = {
 					factor = 8
 				}
 			}
+			random_country = {
+				limit = {
+					tag = UCA 
+					vassal_of = THIS 
+				}
+				MEX = { inherit = UCA }
+			}
             UCA = {
                 all_core = {
-                    secede_province = THIS
                     add_core = THIS
-                    remove_core = UCA
                 }
             }
             add_accepted_culture=central_american
@@ -56,11 +54,7 @@ political_decisions = {
     retake_texas = {
         picture = texas_decision
         potential = {
-            OR = {
-                tag = USA
-                tag = MEX
-            }
-            NOT = {accepted_culture = texan}
+            has_country_flag = texas_retaker
         }
         allow ={
             state_n_government = 1
@@ -87,6 +81,7 @@ political_decisions = {
                 }
             }
             add_accepted_culture = texan
+	clr_country_flag = texas_retaker
             prestige = 20
         }
     }   

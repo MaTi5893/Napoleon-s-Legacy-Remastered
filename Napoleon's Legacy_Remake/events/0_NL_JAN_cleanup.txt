@@ -1,0 +1,486 @@
+country_event = { 
+	id = 600001
+	is_triggered_only = yes 
+	title = "AI Monthly Cleanup"	
+	desc = "Get out of Jan Mayen!"
+	immediate = {
+		any_country = { 
+			limit = { 
+				tag = FRA				#If France stops being a Great Power - gets an event and loses influence modifier
+				has_country_modifier = french_hegemony
+				is_greater_power = no 	
+			}
+		country_event = 600424
+		}
+		any_country = { 
+			limit = { 
+				tag = GER					#In case Germany forms by crown from the gutter
+				NOT = { has_country_flag = PRUGERNGF }	
+			}
+		set_country_flag = PRUGERNGF				#reichsland elsass
+		}
+		#ideological country modifiers
+		any_country = {
+			limit = { 
+				OR = {
+					government = proletarian_dictatorship
+					government = fascist_dictatorship
+				}
+				NOT = { has_country_modifier = policestate_modifier }
+				invention = the_police_state
+			}
+		country_event = 7771010
+		}
+		any_country = { 
+			limit = { 
+				has_country_modifier = policestate_modifier
+				NOT = {
+					government = proletarian_dictatorship
+					government = fascist_dictatorship
+				}
+			}
+		country_event = 7771011
+		}
+		any_country = { 
+			limit = { 
+				OR = {
+					government = proletarian_dictatorship
+					government = fascist_dictatorship
+				}
+				NOT = { has_country_modifier = one_party_state_modifier }
+				invention = the_one_party_state
+			}
+		country_event = 7771012
+		}
+		any_country = { 
+			limit = { 
+				has_country_modifier = one_party_state_modifier
+				NOT = {
+					government = proletarian_dictatorship
+					government = fascist_dictatorship
+				}
+			}
+		country_event = 7771013
+		}
+		any_country = { 
+			limit = { 
+				OR = {
+					government = proletarian_dictatorship
+					government = fascist_dictatorship
+				}
+				NOT = { has_country_modifier = totalitarianism_modifier }
+				invention = totalitarianism
+			}
+		country_event = 7771014
+		}
+		any_country = { 
+			limit = { 
+				has_country_modifier = totalitarianism_modifier
+				NOT = {
+					government = proletarian_dictatorship
+					government = fascist_dictatorship
+				}
+			}
+		country_event = 7771015
+		}
+		any_country = { 
+			limit = { 
+				government = fascist_dictatorship
+				NOT = { has_country_modifier = leadership_principle_modifier }
+				invention = the_leadership_principle
+			}
+		country_event = 7771016
+		}
+		any_country = { 
+			limit = { 
+				has_country_modifier = leadership_principle_modifier
+				NOT = {
+					government = fascist_dictatorship
+				}
+			}
+		country_event = 7771017
+		}
+		any_country = { 
+			limit = { 
+				government = fascist_dictatorship
+				NOT = { has_country_modifier = ultranationalism_modifier }
+				invention = ultranationalism_n_the_volk
+			}
+		country_event = 7771018
+		}
+		any_country = { 
+			limit = { 
+				has_country_modifier = ultranationalism_modifier
+				NOT = {
+					government = fascist_dictatorship
+				}
+			}
+		country_event = 7771019
+		}
+		any_country = { 
+			limit = { 
+				government = proletarian_dictatorship
+				NOT = { has_country_modifier = collectivisation_modifier }
+				invention = collectivisation
+			}
+		country_event = 7771020
+		}
+		any_country = { 
+			limit = { 
+				has_country_modifier = collectivisation_modifier
+				NOT = {
+					government = proletarian_dictatorship
+				}
+			}
+		country_event = 7771021
+		}
+		any_country = { 
+			limit = { 
+				government = proletarian_dictatorship
+				NOT = { has_country_modifier = classless_society_modifier }
+				invention = the_classless_society
+			}
+		country_event = 7771022
+		}
+		any_country = { 
+			limit = { 
+				has_country_modifier = classless_society_modifier
+				NOT = {
+					government = proletarian_dictatorship
+				}
+			}
+		country_event = 7771023
+		}
+		####################unciv vassal tech
+		any_country = { 
+			limit = { 
+				overlord = { water_wheel_power = 1 }
+				civilized = no
+				NOT = { water_wheel_power = 1 }
+			}
+		country_event = 776801 
+		}
+		any_country = { 
+			limit = { 
+				overlord = { practical_steam_engine = 1 }
+				civilized = no
+				NOT = { practical_steam_engine = 1 }
+			}
+		country_event = 776802
+		}
+		any_country = { 
+			limit = { 		
+				overlord = { high_n_low_pressure_steam_engines = 1 }
+				civilized = no
+				NOT = { high_n_low_pressure_steam_engines = 1 }
+			}
+		country_event = 776803
+		}
+		any_country = { 
+			limit = { 
+				overlord = { steam_turbine = 1 }
+				civilized = no
+				NOT = { steam_turbine = 1 }
+			}
+		country_event = 776804
+		}
+		any_country = { 
+			limit = { 
+				overlord = { combustion_engine = 1 }
+				civilized = no
+				NOT = { combustion_engine = 1 } 
+			}
+		country_event = 776805
+		}
+		any_country = { 
+			limit = { 
+				overlord = { electrical_power_generation = 1 }
+				civilized = no
+				NOT = { electrical_power_generation = 1 }
+			}
+		country_event = 776806
+		}
+		any_country = { 
+			limit = { 
+				overlord = { mechanized_mining = 1 }
+				civilized = no
+				NOT = { mechanized_mining = 1 }
+			}
+		country_event = 776808	#there is no 776807
+		}
+		any_country = { 
+			limit = { 
+				overlord = { clean_coal = 1 }
+				civilized = no
+				NOT = { clean_coal = 1 }
+			}
+		country_event = 776809
+		}
+		any_country = { 
+			limit = { 
+				overlord = { cheap_iron = 1 }
+				civilized = no
+				NOT = { cheap_iron = 1 }
+			}
+		country_event = 776810
+		}
+		any_country = { 
+			limit = { 
+				overlord = { cheap_steel = 1 }
+				civilized = no
+				NOT = { cheap_steel = 1 } 
+			}
+		country_event = 776811
+		}
+		any_country = { 
+			limit = { 
+				overlord = { advanced_metallurgy = 1 }
+				civilized = no
+				NOT = { advanced_metallurgy = 1 } 
+			}
+		country_event = 776812
+		}
+		any_country = { 
+			limit = { 
+				overlord = { electric_furnace = 1 }
+				civilized = no
+				NOT = { electric_furnace = 1 } 
+			}
+		country_event = 776813
+		}
+		any_country = { 	
+			limit = { 
+				overlord = { experimental_railroad = 1 }
+				civilized = no
+				NOT = { experimental_railroad = 1 }
+			}
+		country_event = 776815	#there is no 776814
+		}
+		any_country = { 
+			limit = { 
+				overlord = { early_railroad = 1 }
+				civilized = no
+				NOT = { early_railroad = 1 }
+			}
+		country_event = 776816
+		}
+		any_country = { 
+			limit = { 
+				overlord = { iron_railroad = 1 }
+				civilized = no
+				NOT = { iron_railroad = 1 }
+			}
+		country_event = 776817
+		}
+		any_country = { 
+			limit = { 
+				overlord = { steel_railroad = 1 }
+				civilized = no
+				NOT = { steel_railroad = 1 }
+			}
+		country_event = 776818
+		}
+		any_country = { 
+			limit = { 
+				overlord = { integral_rail_system = 1 }
+				civilized = no
+				NOT = { integral_rail_system = 1 }
+			}
+		country_event = 776819
+		}
+		any_country = { 
+			limit = { 
+				overlord = { limited_access_roads = 1 }
+				civilized = no
+				NOT = { limited_access_roads = 1 }
+			}
+		country_event = 776820
+		}
+	######government changes (cleanup.txt)
+	any_country = { 
+		limit = { 
+			ruling_party_ideology = communist
+			political_parties = underground_parties
+			vote_franschise = none_voting
+			upper_house_composition = party_appointed
+			civilized = yes
+			NOT = {
+				government = proletarian_dictatorship
+				government = presidential_dictatorship
+				government = bourgeois_dictatorship
+				government = fascist_dictatorship
+				government = absolute_monarchy
+			}
+		}
+	country_event = 60000
+	}
+	any_country = { 
+		limit = { 
+			ruling_party_ideology = reactionary
+			political_parties = underground_parties
+			vote_franschise = none_voting
+			upper_house_composition = party_appointed
+			civilized = yes
+			NOT = {
+				government = proletarian_dictatorship
+				government = presidential_dictatorship
+				government = bourgeois_dictatorship
+				government = fascist_dictatorship
+				government = absolute_monarchy
+			}
+		}
+	country_event = 60010
+	}
+	any_country = { 
+		limit = { 
+			ruling_party_ideology = anarcho_liberal
+			political_parties = underground_parties
+			vote_franschise = none_voting
+			upper_house_composition = party_appointed
+			civilized = yes
+			NOT = {
+				government = proletarian_dictatorship
+				government = presidential_dictatorship
+				government = bourgeois_dictatorship
+				government = fascist_dictatorship
+				government = absolute_monarchy
+			}
+		}
+	country_event = 60020
+	}
+	any_country = { 
+		limit = { 
+			ruling_party_ideology = fascist
+			political_parties = underground_parties
+			vote_franschise = none_voting
+			upper_house_composition = party_appointed
+			civilized = yes
+			NOT = {
+				government = proletarian_dictatorship
+				government = presidential_dictatorship
+				government = bourgeois_dictatorship
+				government = fascist_dictatorship
+				government = absolute_monarchy
+			}
+		}
+	country_event = 60030
+	}
+	any_country = { 
+		limit = { 
+			OR = {
+				government = proletarian_dictatorship
+				government = presidential_dictatorship
+				government = bourgeois_dictatorship
+				government = fascist_dictatorship
+			}
+			civilized = yes
+			NOT = {
+				political_parties = underground_parties
+				vote_franschise = none_voting
+				upper_house_composition = party_appointed
+			}
+		}
+	country_event = 60050
+	}
+	any_country = { 
+		limit = { 
+			OR = {
+				government = hms_government
+				government = prussian_constitutionalism
+			}
+			civilized = yes
+			NOT = { ruling_party_ideology = fascist }
+			NOT = { ruling_party_ideology = anarcho_liberal }
+			NOT = { ruling_party_ideology = communist }
+			vote_franschise = none_voting
+		}
+	country_event = 60040
+	}
+	any_country = { 
+		limit = { 
+			government = absolute_monarchy
+			NOT = {
+					vote_franschise = none_voting
+			}	
+			civilized = yes	
+		}
+	country_event = 60060
+	}
+	any_country = { 
+		limit = { 
+			government = prussian_constitutionalism
+			OR = {
+				political_parties = secret_ballots
+				political_parties = non_secret_ballots
+			}
+			civilized = yes
+		}
+	country_event = 60070
+	}
+	any_country = { 
+		limit = { 
+			government = democracy
+			vote_franschise = none_voting		
+			OR = {
+				ruling_party_ideology = conservative
+				ruling_party_ideology = reactionary
+			}
+			civilized = yes
+		}
+	country_event = 60080
+	}
+	any_country = { 
+		limit = { 
+			government = democracy
+			vote_franschise = none_voting
+			OR = {
+				ruling_party_ideology = liberal
+				ruling_party_ideology = anarcho_liberal
+			}
+			civilized = yes
+		}
+	country_event = 60090
+	}
+	any_country = { 
+		limit = { 
+			government = democracy
+			vote_franschise = none_voting
+			OR = {
+				ruling_party_ideology = socialist
+				ruling_party_ideology = communist
+			}
+			civilized = yes
+		}
+	country_event = 60100
+	}
+	any_country = { 
+		limit = { 
+			government = democracy
+			vote_franschise = none_voting
+			ruling_party_ideology = fascist
+			civilized = yes
+		}
+	country_event = 60110
+	}
+	any_country = { 
+		limit = { 
+			upper_house_composition = party_appointed
+			ruling_party_ideology = liberal 
+		}
+	country_event = 60140
+	}
+	any_country = { 
+		limit = { 
+			has_country_modifier = female_suffrage
+			NOT = {
+				vote_franschise = universal_weighted_voting
+				vote_franschise = universal_voting
+			}
+		}
+	country_event = 60150
+	}
+	##########end of cleanup.txt
+	JAN = { country_event = { days = 30 id = 600001 } }
+	}
+	option = { name = "" } 
+}

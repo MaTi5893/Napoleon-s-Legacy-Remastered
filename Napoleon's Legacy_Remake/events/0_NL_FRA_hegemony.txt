@@ -1,0 +1,26 @@
+country_event = {
+	id = 600423
+	title = "EVTNAME600423"
+	desc = "EVTDESC600423"
+	picture = "france_begin"
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA600423"
+		add_country_modifier = { name = french_hegemony duration = -1 }
+	}
+}
+
+country_event = {
+	id = 600424
+	title = "EVTNAME600424"
+	desc = "EVTDESC600424"
+	picture = "france_end"
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA600424"
+		remove_country_modifier = { name = french_hegemony }
+	}
+}
+

@@ -1913,7 +1913,7 @@ conquest_low = {
 				}
 			}
 		}
-		NOT = { tag = LCT } 
+		NOT = { has_country_flag = unconquerable } #LCT and JAN
 		is_independant = yes
 	}
 

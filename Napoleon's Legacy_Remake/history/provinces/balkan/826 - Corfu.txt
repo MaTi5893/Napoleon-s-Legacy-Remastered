@@ -1,5 +1,5 @@
-owner = GRE
-controller = GRE
+owner = FRA
+controller = FRA
 add_core = GRE
 trade_goods = fish
 life_rating = 40

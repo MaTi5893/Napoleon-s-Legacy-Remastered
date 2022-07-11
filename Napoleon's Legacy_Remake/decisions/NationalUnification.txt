@@ -63,7 +63,6 @@ political_decisions = {
 		potential = {
 			tag = AUS
 			is_greater_power = yes
-			primary_culture = south_german
 			NOT = {
 				exists = GER
 				exists = SGF
@@ -199,9 +198,7 @@ political_decisions = {
 				is_culture_group = arab
 				is_culture_group = south_slavic
 				is_culture_group = polish_culture_group
-				tag = ECU
-				tag = CLM
-				tag = VNZ
+				has_country_flag = gran_colombian
 			}
 		}
 		
@@ -226,8 +223,6 @@ political_decisions = {
 				limit = {
 					NOT = {
 						is_greater_power = yes
-						tag = AUS
-						tag = KUK
 					}
 					is_culture_group = THIS
 					in_sphere = THIS
@@ -330,7 +325,6 @@ political_decisions = {
 		news_desc_short = "form_italy_NEWS_SHORT"
 		potential = {
 			is_culture_group = italian
-			
 			NOT = {
 				exists = ITA
 			}
@@ -378,10 +372,7 @@ political_decisions = {
 		news_desc_medium = "form_scandinavia_NEWS_MEDIUM"
 		news_desc_short = "form_scandinavia_NEWS_SHORT"
 		potential = {
-			OR = {
-				is_culture_group = scandinavian
-				is_culture_group = bears
-			}
+			is_culture_group = scandinavian
 			NOT = {
 				exists = SCA
 			}
@@ -443,11 +434,7 @@ political_decisions = {
 	
 	reichsland_elsass = {
 		potential = {
-			OR = {
-				tag = PRU
-				tag = GER
-				tag = NGF
-			}
+			has_country_flag = PRUGERNGF
 			owns = 410
 			owns = 409
 			owns = 412
@@ -505,11 +492,7 @@ political_decisions = {
 	
 	form_gran_colombia = {
 		potential = {
-			OR = {
-				tag = ECU
-				tag = CLM
-				tag = VNZ
-			}
+			has_country_flag = grancolombian
 			NOT = {
 				exists = GCO
 			}
@@ -583,10 +566,7 @@ political_decisions = {
 
 unite_moldavia_wallachia = {
 		potential = {
-			OR = {
-				tag = WAL
-				tag = MOL
-			}
+			has_country_flag = romanian
 			exists = WAL
 			exists = MOL
 			NOT = { exists = ROM }

@@ -19,36 +19,6 @@ auguste_comte = {
 	}	
 }
 
-# Functionalism
-jg_taylor = {
-	limit = { functionalism = 1 }
-	news = no
-	chance = {
-		base = 2
-	}
-	effect = {
-		shared_prestige = 5
-	}	
-}
-
-heinrich_schliemann = {
-	limit = { functionalism = 1 }
-	news = no
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = jg_taylor
-		}
-		modifier = {
-			factor = -4
-			NOT = { year = 1860 }
-		}
-	}
-	effect = {
-		shared_prestige = 5
-	}	
-}
 
 # Biologism
 th_huxley = {
@@ -86,26 +56,6 @@ franz_boas = {
 		shared_prestige = 5
 	}	
 }
-
-flinders_petrie = {
-	limit = { social_science = 1 }
-	news = no
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = jg_taylor
-		}
-		modifier = {
-			factor = 2
-			invention = heinrich_schliemann
-		}
-	}
-	effect = {
-		shared_prestige = 5
-	}	
-}
-
 ferdinand_de_saussure = {
 	limit = { social_science = 1 }
 	news = no
@@ -162,22 +112,6 @@ max_weber = {
 		political_reform_desire = 0.2
 }
 
-#Social Alienation
-arthur_evans = {
-	limit = { social_alienation = 1 }
-	news = no
-	chance = {
-		base = 2
-		modifier = {
-			factor = 2
-			invention = franz_boas
-		}
-	}
-	effect = {
-		shared_prestige = 10
-	}	
-}
-
 marcel_mauss = {
 	limit = { social_alienation = 1 }
 	news = no
@@ -206,25 +140,6 @@ branislaw_malinowski = {
 	}
 	effect = {
 		influence = 0.1
-		shared_prestige = 10
-	}	
-}
-
-cl_wooley = {
-	limit = { social_alienation = 1 }
-	news = no
-	chance = {
-		base = 0
-		modifier = {
-			factor = 2
-			invention = arthur_evans
-		}
-		modifier = {
-			factor = 2
-			year = 1920
-		}
-	}
-	effect = {
 		shared_prestige = 10
 	}	
 }

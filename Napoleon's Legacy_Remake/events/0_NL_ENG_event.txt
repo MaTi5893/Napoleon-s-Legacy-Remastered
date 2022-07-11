@@ -15,7 +15,7 @@ country_event = {
 
     title = "EVTNAME600034"
 	desc = "EVTDESC600034"
-	picture = "ashes" #actually debate
+	picture = "debate"
     option = {
         name = "Establish the Capital in South Africa (Will stop you from getting immigrants)"
         any_pop = {

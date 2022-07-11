@@ -3,16 +3,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { water_wheel_power = 1 }
-		civilized = no
-		NOT = { water_wheel_power = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"
@@ -25,16 +18,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { practical_steam_engine = 1 }
-		civilized = no
-		NOT = { practical_steam_engine = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"
@@ -47,16 +33,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { high_n_low_pressure_steam_engines = 1 }
-		civilized = no
-		NOT = { high_n_low_pressure_steam_engines = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"
@@ -69,16 +48,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { steam_turbine = 1 }
-		civilized = no
-		NOT = { steam_turbine = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"
@@ -91,16 +63,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { combustion_engine = 1 }
-		civilized = no
-		NOT = { combustion_engine = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"
@@ -113,16 +78,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { electrical_power_generation = 1 }
-		civilized = no
-		NOT = { electrical_power_generation = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"
@@ -135,16 +93,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { mechanized_mining = 1 }
-		civilized = no
-		NOT = { mechanized_mining = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"
@@ -157,16 +108,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { clean_coal = 1 }
-		civilized = no
-		NOT = { clean_coal = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"
@@ -179,16 +123,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { cheap_iron = 1 }
-		civilized = no
-		NOT = { cheap_iron = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"
@@ -201,16 +138,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { cheap_steel = 1 }
-		civilized = no
-		NOT = { cheap_steel = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"
@@ -223,16 +153,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { advanced_metallurgy = 1 }
-		civilized = no
-		NOT = { advanced_metallurgy = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"
@@ -245,16 +168,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { electric_furnace = 1 }
-		civilized = no
-		NOT = { electric_furnace = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"
@@ -267,16 +183,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { experimental_railroad = 1 }
-		civilized = no
-		NOT = { experimental_railroad = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"
@@ -289,16 +198,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { early_railroad = 1 }
-		civilized = no
-		NOT = { early_railroad = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"
@@ -311,16 +213,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { iron_railroad = 1 }
-		civilized = no
-		NOT = { iron_railroad = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"
@@ -333,16 +228,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { steel_railroad = 1 }
-		civilized = no
-		NOT = { steel_railroad = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"
@@ -355,16 +243,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { integral_rail_system = 1 }
-		civilized = no
-		NOT = { integral_rail_system = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"
@@ -377,16 +258,9 @@ country_event = {
 	title = "EVTNAME776801"
 	desc = "EVTDESC776801"
 	picture = "Unite"
+	is_triggered_only = yes
 	
-	trigger = {
-		overlord = { limited_access_roads = 1 }
-		civilized = no
-		NOT = { limited_access_roads = 1 }
-	}
-	
-	mean_time_to_happen = {
-		days = 1
-	}
+
 	
 	option = {
 		name = "EVTOPTA776801"

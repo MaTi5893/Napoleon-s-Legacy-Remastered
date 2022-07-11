@@ -10,18 +10,13 @@ https://github.com/elisandreo/Napoleon-s-Legacy-Remastered/tree/main/Napoleon's%
 
 Info: 
 	This is a 'what if Napoleon won?' alternate history scenario, based on IGoR PUIR (an mp mod you can find here https://github.com/Nurse-Reno/IGoR_puir)
-	Some of the more interesting countries to play would be:  
-	Spain
-	Austria
-	Greece
-	
 
 Installation: Open your Victoria 2 game files
 (if you bought the game on Steam, right click on it in your library, click on properties, then on 'browse local files'), 
 open the NLR zip file, 
 copy the Napoleon's Legacy Remake folder and Napoleon's Legacy Remake .mod file to the /mod folder in your game files.
 
-###The NLR Low Res submod changes the terrain textures to be smaller, so that they have less an impact on performance, while still looking... passable, to me.###											
+###The NLR Low Res submod changes the terrain textures to be smaller, so that they have less an impact on performance, while still looking... passable, to me.###					
 ##This submod doesn't change the checksum									      ##
 #If you don't want to keep having to click on the submod in the launcher, you can just copy the files of a submod into the main mod folder. 	      #
 

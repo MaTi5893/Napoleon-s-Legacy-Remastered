@@ -169,7 +169,7 @@ country_event = {
 
 country_event = {
 	id = 199937 #Agriculture Decision Change
-	picture = austflag
+	picture = farming
 	title = "EVTNAME199937"
 	desc = "EVTDESC199937"
 	

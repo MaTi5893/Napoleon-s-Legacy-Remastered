@@ -669,14 +669,6 @@ tanzimat_era = {
 	global_pop_consciousness_modifier = 0.02
 	icon = 7
 }
-### POD-Panjab###
-shastar_vidya = {
-	org_regain = 0.5
-	land_organisation = 0.5
-	land_unit_start_experience = 3
-	mobilisation_size = 0.02
-	icon = 15
-}
 ### POD-Germany ###
 otto_von_bismarck = {
 	prestige = 0.02

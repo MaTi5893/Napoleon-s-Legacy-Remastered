@@ -1,70 +1,58 @@
-#############################################;;;;;;;x
-#New CBs;;;;;;;x
-#############################################;;;;;;;x
-take_capital;Take Capital;;;;Toma de capital;;;x
-take_capital_desc;Take the Capital region of a §Ycountry§W and force them to move their capital elsewhere;;;;Tomar la región de la capital de un §YPaís§W y obligarles a trasladar su capital a otro lugar;;;x
-take_capital_setup;Take Capital $STATE$;;;;Toma Capital $STATE$;;;x
-take_capital_short;Takes Capital;;;;Toma de capital de $RECIPIENT$;;;x
-minor_conquest;Minor Conquest;;;;Conquista menor;;;x
-minor_conquest_desc;Annex a §Ycountry§W of small size and population by conquest;;;;Anexo un §YPaís§W de pequeno tamano y población por conquista;;;x
-minor_conquest_setup;Annex minor nation of $RECIPIENT$;;;;Anexo nación menor, $RECIPIENT$;;;x
-minor_conquest_short;Annex $RECIPIENT$;;;;Anexo $RECIPIENT$;;;x
-make_puppet_small;Make Small Puppet;;;;Hacer una pequena marioneta;;;x
-make_puppet_small_desc;Puppet a §Ycountry§W of small size and population by aggression;;;;Marioneta un §YPaís§W de pequeno tamano y población por agresión;;;x
-make_puppet_small_setup;Puppet the minor nation of $RECIPIENT$;;;;Títere de la nación menor de $RECIPIENT$;;;x
-make_puppet_small_short;Puppet $RECIPIENT$;;;;Marioneta $RECIPIENT$;;;x
-make_puppet_large;Make Large Puppet;;;;Hacer una marioneta grande;;;x
-make_puppet_large_desc;Puppet a §Ycountry§W of respectable size and population by aggression;;;;Marioneta de un §YPaís§W de tamano y población respetables mediante la agresión;;;x
-make_puppet_large_setup;Puppet the nation of $RECIPIENT$;;;;Títere de la nación de $RECIPIENT$;;;x
-make_puppet_large_short;Puppet $RECIPIENT$;;;;Marioneta $RECIPIENT$;;;x
-negotiated_transfer;Negotiated Transfer;;;;Transferencia negociada;;;x
-negotiated_transfer_desc;Take a state or colonial region from another player with no effect on infamy, prestige, or jingoism, with their consent;;;;Tomar un estado o región colonial de otro jugador sin efecto en la infamia, el prestigio o el patriotismo, con su consentimiento;;;x
-negotiated_transfer_short;Take $STATE$ from $RECIPIENT$;;;;Tomar $STATE$ de $RECIPIENT$;;;x
-negotiated_transfer_setup;Take $STATE$ from $RECIPIENT$ with their consent;;;;Tomar $STATE$ de $RECIPIENTE$ con su consentimiento;;;x
-NORMAL_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$;;;;$ORDER$$SECOND$ Transferencia de $STATE$;;;x
-AGRESSION_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$;;;;$ORDER$$SECOND$ Transferencia de $STATE$$;;x
-acquire_state;Acquire State;;;;Adquirir el Estado;;;x
-acquire_state_short;Acquire $STATE$ for $THIRD$;;;;Adquirir $STATE$;;;x
-acquire_state_desc;Acquire an enemy §Ystate§W.;;;;Adquirir un enemigo §Yestado§W;;;x
-acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;;;;Adquirir $Estado$ de $RECIPIENT$;;;x
-demand_concession_casus_belli_china;Chinese Concession;;;;Concesión de China;;;x
-demand_concession_casus_belli_china_short;Demand Concession from China;;;;Exigir una concesión a China;;;x
-demand_concession_casus_belli_china_desc;Force China to concede territory.;;;;Obligar a China a ceder territorio;;;x
-demand_concession_casus_belli_china_setup;Demand that $RECIPIENT$ secede territory.;;;;Exigir que el $RECIPIENTE$ se separe del territorio;;;x
-#############################################;;;;Spanish Loc;;;x
-#More Inventions;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x
-antitoxins;Antitoxins;;;;Spanish Loc;;;x
-antitoxins_desc;The development of antitoxins is an advance that not only allows the medical field to combat poisons, but also to develop and further their understanding of how to kill bacteria and other microorganisms which are responsible for many afflictions.;;;;Spanish Loc;;;x
-child_welfare;Child Welfare;;;;Spanish Loc;;;x
-child_welfare_desc;The quaint new idea of basic care & legal rights for children has been established.;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x
-#Save The Nation;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x
-save_the_nation0.5;Moderate Patriotism;;;;Spanish Loc;;;x
-save_the_nation0.5_desc;Moderate Patriotism;;;;Spanish Loc;;;x
-save_the_nation1;Patriotism;;;;Spanish Loc;;;x
-save_the_nation1_desc;Patriotism;;;;Spanish Loc;;;x
-save_the_nation1.5;Moderate Naionalism;;;;Spanish Loc;;;x
-save_the_nation1.5_desc;Moderate Nationalism;;;;Spanish Loc;;;x
-save_the_nation2;Heightened Naionalism;;;;Spanish Loc;;;x
-save_the_nation2_desc;Heightened Nationalism;;;;Spanish Loc;;;x
-save_the_nation2.5;Limited Desperate Defense;;;;Spanish Loc;;;x
-save_the_nation2.5_desc;Limited Desperate Defense;;;;Spanish Loc;;;x
-save_the_nation3;Full Desperate Defense;;;;Spanish Loc;;;x
-save_the_nation3_desc;Full Desperate Defense;;;;Spanish Loc;;;x
-save_the_nation3.5;Nearing the Final Hour;;;;Spanish Loc;;;x
-save_the_nation3.5_desc;Nearing the Final Hour;;;;Spanish Loc;;;x
-save_the_nation4;Final Hour;;;;Spanish Loc;;;x
-save_the_nation4_desc;Final Hour;;;;Spanish Loc;;;x
-save_the_nation4.5;Somewhat Spiteful Resistance;;;;Spanish Loc;;;x
-save_the_nation4.5_desc;Somewhat Spiteful Resistance;;;;Spanish Loc;;;x
-save_the_nation5;Spiteful Resistance;;;;Spanish Loc;;;x
-save_the_nation5_desc;Spiteful Resistance;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x
-#Decisions;;;;Spanish Loc;;;x
-#############################################;;;;Spanish Loc;;;x
-mesopotamian_excavations_decision_title;The Cradle of Civilization;;;;Spanish Loc;;;x
-mesopotamian_excavations_decision_desc;Mesopotamia: the onetime home of Babylonia, Akkadia and Assyria holds great promise for archaeological discovery. We've moved beyond the old methods of tomb-raiding and amateur excavations--- we should outfit a modern expedition and seek permission to explore these lands. We might bring back a few trophies for the museum... and learn something along the way.;;;;Spanish Loc;;;x
-minoan_excavations_decision_title;Minoan Excavations;;;;Spanish Loc;;;x
-minoan_excavations_decision_desc;We must plunder the secrets of the ancient Minoan civilization, for the good of science.;;;;Spanish Loc;;;x
+Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+take_capital;Take Capital;;;;Toma de capital;;;;;;;;;
+take_capital_desc;Take the Capital region of a §Ycountry§W and force them to move their capital elsewhere;;;;Tomar la región de la capital de un §YPaís§W y obligarles a trasladar su capital a otro lugar;;;;;;;;;
+take_capital_setup;Take Capital $STATE$;;;;Toma Capital $STATE$;;;;;;;;;
+take_capital_short;Takes Capital;;;;Toma de capital de $RECIPIENT$;;;;;;;;;
+minor_conquest;Minor Conquest;;;;Conquista menor;;;;;;;;;
+minor_conquest_desc;Annex a §Ycountry§W of small size and population by conquest;;;;Anexo un §YPaís§W de pequeno tamano y población por conquista;;;;;;;;;
+minor_conquest_setup;Annex minor nation of $RECIPIENT$;;;;Anexo nación menor, $RECIPIENT$;;;;;;;;;
+minor_conquest_short;Annex $RECIPIENT$;;;;Anexo $RECIPIENT$;;;;;;;;;
+make_puppet_small;Make Small Puppet;;;;Hacer una pequena marioneta;;;;;;;;;
+make_puppet_small_desc;Puppet a §Ycountry§W of small size and population by aggression;;;;Marioneta un §YPaís§W de pequeno tamano y población por agresión;;;;;;;;;
+make_puppet_small_setup;Puppet the minor nation of $RECIPIENT$;;;;Títere de la nación menor de $RECIPIENT$;;;;;;;;;
+make_puppet_small_short;Puppet $RECIPIENT$;;;;Marioneta $RECIPIENT$;;;;;;;;;
+make_puppet_large;Make Large Puppet;;;;Hacer una marioneta grande;;;;;;;;;
+make_puppet_large_desc;Puppet a §Ycountry§W of respectable size and population by aggression;;;;Marioneta de un §YPaís§W de tamano y población respetables mediante la agresión;;;;;;;;;
+make_puppet_large_setup;Puppet the nation of $RECIPIENT$;;;;Títere de la nación de $RECIPIENT$;;;;;;;;;
+make_puppet_large_short;Puppet $RECIPIENT$;;;;Marioneta $RECIPIENT$;;;;;;;;;
+negotiated_transfer;Negotiated Transfer;;;;Transferencia negociada;;;;;;;;;
+negotiated_transfer_desc;Take a state or colonial region from another player with no effect on infamy, prestige, or jingoism, with their consent;;;;Tomar un estado o región colonial de otro jugador sin efecto en la infamia, el prestigio o el patriotismo, con su consentimiento;;;;;;;;;
+negotiated_transfer_short;Take $STATE$ from $RECIPIENT$;;;;Tomar $STATE$ de $RECIPIENT$;;;;;;;;;
+negotiated_transfer_setup;Take $STATE$ from $RECIPIENT$ with their consent;;;;Tomar $STATE$ de $RECIPIENT$ con su consentimiento;;;;;;;;;
+NORMAL_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$;;;;$ORDER$$SECOND$ Transferencia de $STATE$;;;;;;;;;
+AGRESSION_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$;;;;$ORDER$$SECOND$ Transferencia de $STATE$$;;;;;;;;;
+acquire_state;Acquire State;;;;Adquirir el Estado;;;;;;;;;
+acquire_state_short;Acquire $STATE$ for $THIRD$;;;;Adquirir $STATE$;;;;;;;;;
+acquire_state_desc;Acquire an enemy §Ystate§W.;;;;Adquirir un enemigo §YSTATE§W;;;;;;;;;
+acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;;;;Adquirir $STATE$ de $RECIPIENT$;;;;;;;;;
+demand_concession_casus_belli_china;Chinese Concession;;;;Concesión de China;;;;;;;;;
+demand_concession_casus_belli_china_desc;Force China to concede territory.;;;;Obligar a China a ceder territorio;;;;;;;;;
+demand_concession_casus_belli_china_setup;Demand that $RECIPIENT$ secede territory.;;;;Exigir que el $RECIPIENT$ se separe del territorio;;;;;;;;;
+antitoxins;Antitoxins;;;;Antitoxinas;;;;;;;;x
+antitoxins_desc;The development of antitoxins is an advance that not only allows the medical field to combat poisons, but also to develop and further their understanding of how to kill bacteria and other microorganisms which are responsible for many afflictions.;;;;El desarrollo de antitoxinas es un avance que no solo le permite al campo médico combatir los venenos, sino también desarrollar y ampliar su comprensión de cómo matar bacterias y otros microorganismos que son responsables de muchas afecciones.;;;;;;;;x
+child_welfare;Child Welfare;;;;Bienestar infantil;;;;;;;;x
+child_welfare_desc;The quaint new idea of basic care & legal rights for children has been established.;;;;Se ha establecido la nueva y pintoresca idea del cuidado básico y los derechos legales de los ni?os.;;;;;;;;x
+save_the_nation0.5;Moderate Patriotism;;;;Patriotismo moderado;;;;;;;;x
+save_the_nation0.5_desc;Moderate Patriotism;;;;Patriotismo moderado;;;;;;;;x
+save_the_nation1;Patriotism;;;;Patriotismo;;;;;;;;x
+save_the_nation1_desc;Patriotism;;;;Patriotismo;;;;;;;;x
+save_the_nation1.5;Moderate Naionalism;;;;nacionalismo moderado;;;;;;;;x
+save_the_nation1.5_desc;Moderate Nationalism;;;;nacionalismo moderado;;;;;;;;x
+save_the_nation2;Heightened Naionalism;;;;nacionalismo elevado;;;;;;;;x
+save_the_nation2_desc;Heightened Nationalism;;;;nacionalismo elevado;;;;;;;;x
+save_the_nation2.5;Limited Desperate Defense;;;;Defensa desesperada limitada;;;;;;;;x
+save_the_nation2.5_desc;Limited Desperate Defense;;;;Defensa desesperada limitada;;;;;;;;x
+save_the_nation3;Full Desperate Defense;;;;Defensa desesperada completa;;;;;;;;x
+save_the_nation3_desc;Full Desperate Defense;;;;Defensa desesperada completa;;;;;;;;x
+save_the_nation3.5;Nearing the Final Hour;;;;Acercándose a la hora final;;;;;;;;x
+save_the_nation3.5_desc;Nearing the Final Hour;;;;Acercándose a la hora final;;;;;;;;x
+save_the_nation4;Final Hour;;;;Hora final;;;;;;;;x
+save_the_nation4_desc;Final Hour;;;;Hora final;;;;;;;;x
+save_the_nation4.5;Somewhat Spiteful Resistance;;;;Resistencia algo rencorosa;;;;;;;;x
+save_the_nation4.5_desc;Somewhat Spiteful Resistance;;;;Resistencia algo rencorosa;;;;;;;;x
+save_the_nation5;Spiteful Resistance;;;;Resistencia rencorosa;;;;;;;;x
+save_the_nation5_desc;Spiteful Resistance;;;;Resistencia rencorosa;;;;;;;;x
+mesopotamian_excavations_decision_title;The Cradle of Civilization;;;;La cuna de la civilización;;;;;;;;x
+mesopotamian_excavations_decision_desc;Mesopotamia: the onetime home of Babylonia, Akkadia and Assyria holds great promise for archaeological discovery. We've moved beyond the old methods of tomb-raiding and amateur excavations--- we should outfit a modern expedition and seek permission to explore these lands. We might bring back a few trophies for the museum... and learn something along the way.;;;;Mesopotamia: el antiguo hogar de Babilonia, Akkadia y Asiria es una gran promesa para el descubrimiento arqueológico. Hemos ido más allá de los viejos métodos de allanamiento de tumbas y excavaciones de aficionados: deberíamos equipar una expedición moderna y pedir permiso para explorar estas tierras. Podríamos traer algunos trofeos para el museo... y aprender algo en el camino.;;;;;;;;x
+minoan_excavations_decision_title;Minoan Excavations;;;;Excavaciones minoicas;;;;;;;;x
+minoan_excavations_decision_desc;We must plunder the secrets of the ancient Minoan civilization, for the good of science.;;;;Debemos saquear los secretos de la antigua civilización minoica, por el bien de la ciencia.;;;;;;;;x

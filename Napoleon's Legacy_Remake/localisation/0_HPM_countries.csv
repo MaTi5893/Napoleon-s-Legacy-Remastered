@@ -1,649 +1,605 @@
-;;;;Spanish Loc;;;x
-ROM_reactionary;Partidul National Roman;;;;Partidul National Roman;;;x
-ROM_reactionary_2;Partidul Nationalist-Democrat;;;;Partidul Nationalist-Democrat;;;x
-ROM_reactionary_3;Partidul Poporului;;;;Partidul Poporului;;;x
-ROM_conservative;Partidul Conservator;;;;Partidul Conservator;;;x
-ROM_conservative_2;Partidul Taranesc;;;;Partidul Taranesc;;;x
-ROM_conservative_3;Partidul National Taranesc;;;;Partidul National Taranesc;;;x
-ROM_liberal;Fractionistii;;;;Fractionistii;;;x
-ROM_liberal_2;Partidul National Liberal;;;;Partidul National Liberal;;;x
-ROM_anarcho_liberal;Partidul din Drepturile Omulu;;;;Partidul din Drepturile Omulu;;;x
-ROM_socialist;Partidul Social-Democrat;;;;Partidul Social-Democrat;;;x
-ROM_communist;Partidul Comunist;;;;Partidul Comunist;;;x
-ROM_fascist;Garda de Fier;;;;Garda de Fier;;;x
-POR_fascist;Movimento Nacional-Sindicalista;;;;Movimento Nacional-Sindicalista;;;x
-IRE_fascist;Chungus Lovers;;;;Amantes de los Chungus;;;x
-IRE_communist;Communist Party of Ireland;;;;Partido Comunista de Irlanda;;;x
-IRE_conservative;Irish Conservative Party;;;;Partido Conservador Irland�s;;;x
-AST_fascist;New Guard;;;;New Guard;;;x
-SGF_ADJ;South German;;;;Alem�n del Sur;;;x
-USA_conservative_2;Bourbon Democrats;;;;Dem�cratas de Borb�n;;;x
-USA_conservative_4;Democrats;;;;Dem�cratas;;;x
-YUG_fascist;ZBOR;;;;ZBOR;;;x
-YUG_ADJ;Yugoslav;;;;Yugoslava;;;x
-AUS_fascist;Vaterlandische Front;;;;Vaterlandische Front;;;x
-SWI_liberal;Freisinnig-Demokratische Partei;;;;Freisinnig-Demokratische Partei;;;x
-GCO_communist;Partido Communista;;;;Partido Communista;;;x
-GCO_fascist;Partido Fascista;;;;Partido Fascista;;;x
-MNP;Manipur;;;;Manipur;;;x
-MNP_ADJ;Manipuri;;;;Manipuri;;;x
-GEO_conservative;Demokratiuli Modzraoba;;;;Demokratiuli Modzraoba;;;x
-GEO_liberal;Sakartvelos Respublikuri;;;;Sakartvelos Respublikuri;;;x
-GEO_reactionary;Natsionaluri Modzraoba;;;;Natsionaluri Modzraoba;;;x
-GEO_anarcho_liberal;Sakartvelos Gza;;;;Sakartvelos Gza;;;x
-GEO_socialist;Sakartvelos Leiboristuli;;;;Sakartvelos Leiboristuli;;;x
-GEO_communist;Sakartvelos Komunisturi;;;;Sakartvelos Komunisturi;;;x
-GEO_fascist;Erovnuli Sotsialisturi;;;;Erovnuli Sotsialisturi;;;x
-UKR_conservative;Ukrainian Democratic Agrarian Party;;;;Partido Agrario Democr�tico de Ucrania;;;x
-UKR_liberal;Ukrainian Democratic Party;;;;Partido Democr�tico Ucraniano;;;x
-UKR_reactionary;Congress of Landowners;;;;Congreso de Propietarios de Tierras;;;x
-UKR_anarcho_liberal;Ukrainian Radical Party;;;;Partido Radical Ucraniano;;;x
-UKR_socialist;Ukrainian Social Democratic Labour Party;;;;Partido Laborista Socialdem�crata de Ucrania;;;x
-UKR_communist;Ukrainian Communist Party;;;;Partido Comunista de Ucrania;;;x
-UKR_fascist;Organization of Ukrainian Nationalists;;;;Organizaci�n de Nacionalistas Ucranianos;;;x
-TUN;Tunisia;;;;T�nez;;;x
-TUN_absolute_monarchy;Tunis;;;;T�nez;;;x
-TUN_prussian_constitutionalism;Tunis;;;;T�nez;;;x
-ALB_communist;Partia e Punes e Shqiperise;;;;Partia e Punes e Shqiperise;;;x
-ALB_fascist;Partia Fashiste e Shqiperise;;;;Partia Fashiste e Shqiperise;;;x
-ALB_conservative;Levizja Legalitetit;;;;Levizja Legalitetit;;;x
-AUS_communist;Kommunistische Partei Osterreichs;;;;Kommunistische Partei Osterreichs;;;x
-BEL_communist;Parti Communiste de Belgique;;;;Parti Communiste de Belgique;;;x
-BUL_socialist;BRSDP;;;;BRSDP;;;x
-BUL_liberal;Balgarski Zemedelski Naroden Sayuz;;;;Balgarski Zemedelski Naroden Sayuz;;;x
-BUL_anarcho_liberal;Radoslavists;;;;Radoslavists;;;x
-BUL_communist;Balgarska Komunisticheska Partiya;;;;Balgarska Komunisticheska Partiya;;;x
-BUL_conservative;Mladoliberalna Partija-Toncevisti;;;;Mladoliberalna Partija-Toncevisti;;;x
-CAN_socialist;Socialist Party of Canada;;;;Partido Socialista de Canad�;;;x
-CAN_communist;Communist Party of Canada;;;;Partido Comunista de Canad�;;;x
-CAN_conservative;Conservative Party of Canada;;;;Partido Conservador de Canad�;;;x
-CAN_reactionary;Tories;;;;Conservadores;;;x
-CAN_liberal_1;Red Party;;;;Partido Rojo;;;x
-CAN_liberal_2;Liberal Party of Canada;;;;Partido Liberal de Canad�;;;x
-DAI;Vietnam;;;;Vietnam;;;x
-DAI_communist;Dang Cong san Viet Nam;;;;Dang Cong san Vietnam;;;x
-ENG_communist;Communist Party of Great Britain;;;;Partido Comunista de Gran Bretana;;;x
-FIN_fascist;Isanmaallinen kansanliike;;;;Isanmaallinen kansanliike;;;x
-MEX_socialist;Partido Laborista Mexicano;;;;Partido Laborista Mexicano;;;x
-MEX_communist;Partido Socialista Obrero;;;;Partido Socialista Obrero;;;x
-MEX_fascist;Union Nacional Sinarquista;;;;Union Nacional Sinarquista;;;x
-NET_conservative;Anti-Revolutionaire Partij;;;;Anti-Revolutionaire Partij;;;x
-HOL_socialist_1;Sociaal-Democratische Vereeniging;;;;Sociaal-Democratische Vereeniging;;;x
-HOL_socialist_2;Sociaal-Democratische Bond;;;;Sociaal-Democratische Bond;;;x
-HOL_socialist_3;Sociaal Democratische Arbeiders Partij;;;;Sociaal Democratische Arbeiders Partij;;;x
-HOL_fascist;Verbond Van Actualisten;;;;Verbond Van Actualisten;;;x
-POR_socialist;Partido Socialista Portugues;;;;Partido Socialista Portugues;;;x
-POR_communist;Partido Comunista Portugues;;;;Partido Comunista Portugues;;;x
-RUS_fascist;All-Russian Fascist Party;;;;Partido Fascista de toda Rusia;;;x
-SER_reactionary;Nacionalna Stranka;;;;Nacionalna Stranka;;;x
-SER_communist;Srpska Socijaldemokratska Partija;;;;Srpska Socijaldemokratska Partija;;;x
-SER_fascist;Narodna Odbrana;;;;Narodna Odbrana;;;x
-SER_conservative;Ustavobranitelji;;;;Ustavobranitelji;;;x
-SER_conservative_2;Konzervativna Stranka;;;;Konzervativna Stranka;;;x
-SER_conservative_3;Srpska Napredna Stranka;;;;Srpska Napredna Stranka;;;x
-SER_socialist;Samostalna Radikalna Stranka;;;;Samostalna Radikalna Stranka;;;x
-SER_liberal;Liberalna Stranka;;;;Liberalna Stranka;;;x
-SER_liberal_2;Narodna Radikalna Stranka;;;;Narodna Radikalna Stranka;;;x
-SER_anarcho_liberal;Anarho-Liberalno Stranka;;;;Anarho-Liberalno Stranka;;;x
-GRE_communist;Kommounistiko Komma Elladas;;;;Kommounistiko Komma Elladas;;;x
-GRE_socialist;Sosialistiko Komma Elladas;;;;Sosialistiko Komma Elladas;;;x
-GRE_fascist;Ethniki Enosis Ellados;;;;Ethniki Enosis Ellados;;;x
-GRE_anarcho_liberal;Ethnikon Rizospastikon Komma;;;;Ethnikon Rizospastikon Komma;;;x
-GRE_reactionary;Komma ton Napaion;;;;Komma ton Napaion;;;x
-GRE_conservative;Syntagmatiko Komma;;;;Syntagmatiko Komma;;;x
-GRE_conservative_2;Komma Ethnikofronon;;;;Komma Ethnikofronon;;;x
-GRE_liberal;Ethniko Komma;;;;Ethniko Komma;;;x
-GRE_liberal_2;Neoteristikon Komma;;;;Neoteristikon Komma;;;x
-USA_socialist;Workingmen's Party;;;;Partido de Trabajadores;;;x
-USA_communist;Communist Party USA;;;;Partido Comunista USA;;;x
-USA_fascist;Silver Legion of America;;;;Legi�n de Plata de Am�rica;;;x
-YUG_reactionary;Jugoslovenska Nacionalna Stranka;;;;Jugoslovenska Nacionalna Stranka;;;x
-YUG_liberal;Samostalna Demokratska Stranka;;;;Samostalna Demokratska Stranka;;;x
-YUG_anarcho_liberal;Narodna Radikalna Stranka;;;;Narodna Radikalna Stranka;;;x
-YUG_communist;Komunisticka Partija Jugoslavije;;;;Komunisticka Partija Jugoslavije;;;x
-YUG_socialist;Socijalisticka Radnicka Partija Jugoslavije;;;;Socijalisticka Radnicka Partija Jugoslavije;;;x 
-YUG_conservative;Jugoslovanska Demokratska Stranka;;;;Jugoslovanska Demokratska Stranka;;;x
-UBD;The United Baltic Provinces;;;;Las Provincias B�lticas Unidas;;;x
-UBD_democracy;The Baltic Union;;;;La Uni�n B�ltica;;;x
-UBD_proletarian_dictatorship;The Baltic Worker's Union;;;;La Uni�n de Trabajadores del B�ltico;;;x
-UBD_fascist;Baltic Fascist Union;;;;Uni�n Fascista B�ltica;;;x
-UBD_communist;Baltic Communist Party;;;;Partido Comunista B�ltico;;;x
-UBD_socialist;Union of Baltic Workers and Socialists;;;;Uni�n de Trabajadores y Socialistas del B�ltico;;;x
-UBD_socialist_2;Baltic Labour Party;;;;Partido Laborista B�ltico;;;x
-UBD_anarcho_liberals;Radical Party;;;;Partido Radical;;;x
-UBD_liberal_2;The All-Baltic Landtag;;;;El Landtag del B�ltico;;;x
-UBD_liberal;Progressive Union;;;;Uni�n Progresista;;;x
-UBD_conservative_2;Union of Landowners and Farmers;;;;Uni�n de Terratenientes y Agricultores;;;x
-UBD_reactionary;Royalist Faction;;;;Facci�n realista;;;x
-UBD_conservative;German Landtag;;;;Landtag alem�n;;;x
-EST_fascist;Vabadussojalased;;;;Vabadussojalased;;;x
-EST_communist;Eestimaa Kommunistlik Partei;;;;Eestimaa Kommunistlik Partei;;;x
-EST_socialist;Eesti Sotsialistlik Tooliste Partei;;;;Eesti Sotsialistlik Tooliste Partei;;;x
-EST_socialist_2;Eesti Tooerakond;;;;Eesti Tooerakond;;;x
-EST_anarcho_liberal;Radikaal-Demokraatlik Erakond;;;;Radikaal-Demokraatlik Erakond;;;x
-EST_liberal;Asunikkude Partei;;;;Asunikkude Partei;;;x
-EST_conservative;Pollumeeste Kogud;;;;Pollumeeste Kogud;;;x
-EST_conservative_2;Kristlik Rahvaerakond;;;;Spanish Loc;;;x
-EST_reactionary;Eesti Rojalistlik Partei;;;;Spanish Loc;;;x
-EST_reactionary_2;Isamaaliit;;;;Spanish Loc;;;x
-LIV_fascist;Perkonkrusts;;;;Spanish Loc;;;x
-LIV_communist;Latvijas Komunistiska Partija;;;;Spanish Loc;;;x
-LIV_socialist_2;Mazinieki;;;;Spanish Loc;;;x
-LIV_socialist;LSDSP;;;;Spanish Loc;;;x
-LIV_anarcho_liberal;Latvijas Radikaldemokratu Partija;;;;Spanish Loc;;;x
-LIV_liberal_2;Blodnieka Partija;;;;Spanish Loc;;;x
-LIV_liberal;Demokratiskais Centrs;;;;Spanish Loc;;;x
-LIV_conservative_2;Kristigo Zemnieku un Katolu Partija;;;;Spanish Loc;;;x
-LIV_conservative;Latviesu Zemnieku Savieniba;;;;Spanish Loc;;;x
-LIV_reactionary_2;Nacionala Apvieniba;;;;Spanish Loc;;;x
-LIV_reactionary;Rojalistu Partija;;;;Spanish Loc;;;x
-URU_liberal_2;Colorados;;;;Spanish Loc;;;x
-URU_socialist;Partido Socialista;;;;Spanish Loc;;;x
-URU_communist;Partido Comunista;;;;Spanish Loc;;;x
-LIT_reactionary;Monarchizmas Frakcija;;;;Spanish Loc;;;x
-LIT_reactionary_2;Lietuviu Tautininku Sajunga;;;;Spanish Loc;;;x
-LIT_conservative;Lietuvos Darbo Federacija;;;;Spanish Loc;;;x
-LIT_conservative_2;LKDP;;;;Spanish Loc;;;x
-LIT_anarcho_liberal;Tautos Pazangos Partija;;;;Spanish Loc;;;x
-LIT_liberal;Lietuviu Demokratu Partij;;;;Spanish Loc;;;x
-LIT_liberal_2;Lietuvos Valstieciu Liaudininku Sajunga;;;;Spanish Loc;;;x
-LIT_socialist;LSDP;;;;Spanish Loc;;;x
-LIT_communist;Lietuvos Komunistu Partija;;;;Spanish Loc;;;x
-LIT_fascist;Lietuvos Sauliu Sajunga;;;;Spanish Loc;;;x
-EGY_democracy;The Republic of Egypt;;;;Spanish Loc;;;x
-QUE_ADJ;Quebecois;;;;Spanish Loc;;;x
-LIB_conservative;Republican Party;;;;Spanish Loc;;;x
-LIB_conservative_2;Democratic Party;;;;Spanish Loc;;;x
-LIB_liberal;True Whig Party;;;;Spanish Loc;;;x
-LIB_liberal_2;Pan-African Party;;;;Spanish Loc;;;x
-LIB_socialist;African Revolutionary Party;;;;Spanish Loc;;;x
-LIB_reactionary;Nationalist Party;;;;Spanish Loc;;;x
-LIB_anarcho_liberal;Radical Party;;;;Spanish Loc;;;x
-LIB_communist;Communist Party;;;;Spanish Loc;;;x
-LIB_fascist;Fascist Party;;;;Spanish Loc;;;x
-WEI;Saxe-Weimar;;;;Spanish Loc;;;x
-ENG_fascist_dictatorship;The Union of Britain;;;;Spanish Loc;;;x
-ENG_democracy;The British Commonwealth;;;;Spanish Loc;;;x
-ENG_presidential_dictatorship;The British Commonwealth;;;;Spanish Loc;;;x
-ENG_bourgeois_dictatorship;The British Commonwealth;;;;Spanish Loc;;;x
-shilluk;Shilluk;;;;Shilluk;;;x
-YNN_reactionary_2;Confucianist Tusi;;;;Spanish Loc;;;x
-YNN_liberal_2;Westernizer Tusi;;;;Spanish Loc;;;x
-YNN_conservative_2;Local Tusi;;;;Spanish Loc;;;x
-XIN_reactionary_2;Confucianist Faction;;;;Spanish Loc;;;x
-XIN_conservative_2;Amban Faction;;;;Spanish Loc;;;x
-XIN_liberal_2;Reformer Faction;;;;Spanish Loc;;;x
-KOR;Korea;;;;Spanish Loc;;;x
-KOR_absolute_monarchy;The Kingdom of Joseon;;;;Spanish Loc;;;x
-KOR_proletarian_dictatorship;DPRK;;;;Spanish Loc;;;x
-KOR_reactionary;Bandong;;;;Spanish Loc;;;x
-KOR_liberal;Taewon'gun;;;;Spanish Loc;;;x
-KOR_liberal_2;Songgyungwan;;;;Spanish Loc;;;x
-KOR_conservative;Tong Hak;;;;Spanish Loc;;;x
-KOR_liberal_3;Silhak;;;;Spanish Loc;;;x
-KOR_anarcho_liberal;Geubjinpa;;;;Spanish Loc;;;x
-KOR_conservative_2;Wangdangpa;;;;Spanish Loc;;;x
-KOR_socialist;Sahoe-tang;;;;Spanish Loc;;;x
-KOR_communist;Choson Kongsantang;;;;Spanish Loc;;;x
-KOR_fascist;Pasiseuteu Pati;;;;Spanish Loc;;;x
-MCK;Manchuria;;;;Spanish Loc;;;x
-MCK_fascist_dictatorship;Manzhouguo;;;;Spanish Loc;;;x
-MCK_presidential_dictatorship;Fengtian Clique;;;;Spanish Loc;;;x
-MCK_ADJ;Manchu;;;;Spanish Loc;;;x
-MCK_presidential_dictatorship_ADJ;Fengtian;;;;Spanish Loc;;;x
-PROV2281;Esmeraldas;;;;Esmeraldas;;;x
-PROV1363;Pakse;;;;Pakse;;;x
-PROV1364;Phnom Penh;;;;Phnom Penh;;;x
-PROV1464;Jolo;;;;Jolo;;;x
-ATJ;Aceh;;;;Spanish Loc;;;x
-ATJ_ADJ;Acehnese;;;;Spanish Loc;;;x
-JOH;Johor;;;;Spanish Loc;;;x
-BRZ_absolute_monarchy;The Empire of Brazil;;;;Spanish Loc;;;x
-BRZ_prussian_constitutionalism;The Empire of Brazil;;;;Spanish Loc;;;x
-BRZ_hms_government;The Empire of Brazil;;;;Spanish Loc;;;x
-BRZ_dominion;The Kingdom of Brazil;;;;Spanish Loc;;;x
-ARC;Argentina;;;;Spanish Loc;;;x
-ARC_democracy;Argentine Confederation;;;;Spanish Loc;;;x
-ARC_presidential_dictatorship;Argentine Confederation;;;;Spanish Loc;;;x
-ARC_proletarian_dictatorship;Communist Federation of Argentina;;;;Spanish Loc;;;x
-ARC_ADJ;Argentinian;;;;Spanish Loc;;;x
-MUG_absolute_monarchy;The Mughal Empire;;;;Spanish Loc;;;x
-MUG_prussian_constitutionalism;The Mughal Empire;;;;Spanish Loc;;;x
-MUG_fascist_dictatorship;The Gurkani Republic;;;;Spanish Loc;;;x
-MUG_proletarian_dictatorship;People's Republic of Mughalistan;;;;Spanish Loc;;;x
-MUG_conservative;Mir Saman;;;;Spanish Loc;;;x
-MUG_liberal;Hanafi;;;;Spanish Loc;;;x
-MUG_reactionary;Mir Bakshi;;;;Spanish Loc;;;x
-MUG_anarcho_liberal;The Radical Party;;;;Spanish Loc;;;x
-MUG_socialist;The Socialist Party;;;;Spanish Loc;;;x
-MUG_communist;The Communist Party;;;;Spanish Loc;;;x
-MUG_fascist;The Fascist Party;;;;Spanish Loc;;;x
-CAN_liberal;Liberal Party;;;;Spanish Loc;;;x
-CAN_anarcho_liberal;One Big Union;;;;Spanish Loc;;;x
-CAN_fascist;National Unity Party;;;;Spanish Loc;;;x
-BRZ_liberal;Partido Liberal;;;;Spanish Loc;;;x
-BRZ_conservative;Partido Conservador;;;;Spanish Loc;;;x
-BRZ_reactionary;Partido Restaurador;;;;Spanish Loc;;;x
-BRZ_reactionary2;Partido Republicano Riograndense;;;;Spanish Loc;;;x
-BRZ_conservative_2;Partido Republicano Paulista;;;;Spanish Loc;;;x
-BRZ_liberal_2;Partido Republicano Carioca;;;;Spanish Loc;;;x
-BRZ_anarcho_liberal;Partido Anarquista;;;;Spanish Loc;;;x
-BRZ_socialist;Partido Socialista;;;;Spanish Loc;;;x
-BRZ_communist;Partido Comunista;;;;Spanish Loc;;;x
-BRZ_fascist;Acao Integralista Brasileira;;;;Spanish Loc;;;x
-SWI_communist;Kommunistische Partei;;;;Spanish Loc;;;x
-SWI_fascist;Nationale Front;;;;Spanish Loc;;;x
-FRA_fascist;Parti Franciste;;;;Spanish Loc;;;x
-FRA_reactionary_2;Droite Nationaliste;;;;Spanish Loc;;;x
-FRA_anarcho_liberal;Republicain Radical;;;;Spanish Loc;;;x
-GER_fascist;NSDAP;;;;Spanish Loc;;;x
-POL_fascist;ONR-Falanga;;;;Spanish Loc;;;x
-HAI_conservative;Parti National;;;;Spanish Loc;;;x
-HAI_liberal;Parti Liberal;;;;Spanish Loc;;;x
-HAI_reactionary;Haitien Nationaliste Parti;;;;Spanish Loc;;;x
-HAI_anarcho_liberal;Parti Radical;;;;Spanish Loc;;;x
-HAI_socialist;Parti Socialiste;;;;Spanish Loc;;;x
-HAI_communist;Parti Communiste Haitien;;;;Spanish Loc;;;x
-HAI_fascist;Parti Fasciste;;;;Spanish Loc;;;x
-CHK;Champassak;;;;Spanish Loc;;;x
-CHK_ADJ;Champassaki;;;;Spanish Loc;;;x
-CHK_conservative;Royal Faction;;;;Spanish Loc;;;x
-CHK_liberal;The Liberal Faction;;;;Spanish Loc;;;x
-CHK_reactionary;The Nationalist Faction;;;;Spanish Loc;;;x
-CHK_anarcho_liberal;The Radical Faction;;;;Spanish Loc;;;x
-CHK_socialist;The Socialist Faction;;;;Spanish Loc;;;x
-CHK_communist;The Communist Faction;;;;Spanish Loc;;;x
-CHK_fascist;The Fascist Faction;;;;Spanish Loc;;;x
-CRO_conservative;Hrvatska Stranka Prava;;;;Spanish Loc;;;x
-CRO_liberal;Narodna Stranka;;;;Spanish Loc;;;x
-CRO_reactionary;Nacionalisticka Partija;;;;Spanish Loc;;;x
-CRO_anarcho_liberal;Anarhisticki Partija;;;;Spanish Loc;;;x
-CRO_socialist;Socijalisticka Partija;;;;Spanish Loc;;;x
-CRO_communist;Komunisticka Partija;;;;Spanish Loc;;;x
-CRO_fascist;Ustasha;;;;Spanish Loc;;;x
-ABU;United Arab Emirates;;;;Spanish Loc;;;x
-ABU_ADJ;Emirati;;;;Spanish Loc;;;x
-ABU_absolute_monarchy;The Trucial States;;;;Spanish Loc;;;x
-ABU_absolute_monarchy_ADJ;Trucial;;;;Spanish Loc;;;x
-ABU_bourgeois_dictatorship;United Arab Councils;;;;Spanish Loc;;;x
-ABU_bourgeois_dictatorship_ADJ;Arabic;;;;Spanish Loc;;;x
-ABU_fascist_dictatorship;The Emirate;;;;Spanish Loc;;;x
-ABU_fascist_dictatorship_ADJ;Emirati;;;;Spanish Loc;;;x
-ABU_proletarian_dictatorship;People's Arabic Republic;;;;Spanish Loc;;;x
-ABU_proletarian_dictatorship_ADJ;Arabic;;;;Spanish Loc;;;x
-ANI_absolute_monarchy;Antillean Empire;;;;Spanish Loc;;;x
-ANI_proletarian_dictatorship;Antillean Republic;;;;Spanish Loc;;;x
-ANI_presidential_dictatorship;Antillean Republic;;;;Spanish Loc;;;x
-ANI_fascist_dictatorship;Antillean Republic;;;;Spanish Loc;;;x
-ANI_bourgeois_dictatorship;Antillean Republic;;;;Spanish Loc;;;x
-ANI;Antilles Confederation;;;;Spanish Loc;;;x
-ANI_ADJ;Antillean;;;;Spanish Loc;;;x
-AOT;Aotearoa;;;;Spanish Loc;;;x
-AOT_ADJ;Maori;;;;Spanish Loc;;;x
-AOT_conservative;Kingitanga;;;;Spanish Loc;;;x
-AOT_liberal;Ropu o te Rangatahi;;;;Spanish Loc;;;x
-AOT_socialist;Ratana;;;;Spanish Loc;;;x
-AOT_communist;Toputanga-a-iwi;;;;Spanish Loc;;;x
-AOT_reactionary;Kauhanganui;;;;Spanish Loc;;;x
-AOT_anarcho_liberal;Mana Maori Motuhake;;;;Spanish Loc;;;x
-AOT_fascist;Kawanatanga Whakahawini;;;;Spanish Loc;;;x
-ARA;Arabia;;;;Spanish Loc;;;x
-ARA_ADJ;Arabian;;;;Spanish Loc;;;x
-ARA_reactionary;Al Sa'ud;;;;Spanish Loc;;;x
-ARA_reactionary2;Al Rashid;;;;Spanish Loc;;;x
-ARA_conservative;Al Muhafidh;;;;Spanish Loc;;;x
-ARA_liberal;Al Mutaharir;;;;Spanish Loc;;;x
-ARA_anarcho_liberal;Al Anarkiliberali;;;;Spanish Loc;;;x
-ARA_socialist;Al Ishtiraki;;;;Spanish Loc;;;x
-ARA_communist;Al Shiu'i;;;;Spanish Loc;;;x
-ARA_fascist;Al Fashi;;;;Spanish Loc;;;x
-BRU_ADJ;Bruneian;;;;Spanish Loc;;;x
-CHI;China;;;;Spanish Loc;;;x
-CLM_fascist_dictatorship;Gran Colombia;;;;Spanish Loc;;;x
-CLM_absolute_monarchy;New Granada;;;;Spanish Loc;;;x
-CLM_prussian_constitutionalism;New Granada;;;;Spanish Loc;;;x
-CLM_hms_government;New Granada;;;;Spanish Loc;;;x
-CPL;Congress Poland;;;;Spanish Loc;;;x
-CPL_ADJ;Polish;;;;Spanish Loc;;;x
-CSA_democracy;The Confederate States of America;;;;Spanish Loc;;;x
-CSA_presidential_dictatorship;The Confederate States of America;;;;Spanish Loc;;;x
-CSA_bourgeois_dictatorship;The Confederate States of America;;;;Spanish Loc;;;x
-CSA_absolute_monarchy;The Imperial Confederacy;;;;Spanish Loc;;;x
-CSA_prussian_constitutionalism;The Imperial Confederacy;;;;Spanish Loc;;;x
-CSA;The Confederate States of America;;;;Spanish Loc;;;x
-CSA_fascist_dictatorship;The Confederacy;;;;Spanish Loc;;;x
-CSA_proletarian_dictatorship;The People's Confederacy;;;;Spanish Loc;;;x
-DLM;Illyria;;;;Illyria;;;x
-DLM_ADJ;Illyrian;;;;Ilirica;;;x
-FRA_liberal;Republicain;;;;Spanish Loc;;;x
-FRA_liberal_2;Union liberale;;;;Spanish Loc;;;x
-FRA_liberal_3;Republicain liberale;;;;Spanish Loc;;;x
-FRA_conservative;Orleaniste;;;;Spanish Loc;;;x
-FRA_conservative_2;Bonapartiste;;;;Spanish Loc;;;x
-FRA_conservative_3;Republicain modere;;;;Spanish Loc;;;x
-FRA_conservative_4;Orleaniste;;;;Spanish Loc;;;x
-FRA_conservative_5;Royaliste;;;;Spanish Loc;;;x
-GCO;Gran Colombia;;;;Spanish Loc;;;x
-GCO_ADJ;Colombian;;;;Spanish Loc;;;x
-GCO_absolute_monarchy;New Granada;;;;Spanish Loc;;;x
-GCO_prussian_constitutionalism;New Granada;;;;Spanish Loc;;;x
-GCO_hms_government;New Granada;;;;Spanish Loc;;;x
-GCO_absolute_monarchy_ADJ;New Granadan;;;;Spanish Loc;;;x
-GCO_prussian_constitutionalism_ADJ;New Granadan;;;;Spanish Loc;;;x
-GCO_hms_government_ADJ;New Granadan;;;;Spanish Loc;;;x
-GXI_presidential_dictatorship;Guangxi Clique;;;;Spanish Loc;;;x
-HOL_anarcho_liberal;Radicale Partij;;;;Spanish Loc;;;x
-ITA_reactionary;Fazione Monarchica;;;;Spanish Loc;;;x
-ITA_conservative;Destra Liberale;;;;Spanish Loc;;;x
-ITA_liberal;Sinistra Liberale;;;;Spanish Loc;;;x
-ITA_liberal_2;Partito Repubblicano Italiano;;;;Spanish Loc;;;x
-ITA_conservative_2;Partito Liberale Italiano;;;;Spanish Loc;;;x
-ITA_conservative_3;Partito Popolare Italiano;;;;Spanish Loc;;;x
-ITA_socialist;Partito Socialista Italiano;;;;Spanish Loc;;;x
-ITA_anarcho_liberal;Estrema Sinistra Liberale;;;;Spanish Loc;;;x
-ITA_communist;Partito Comunista d'Italia;;;;Spanish Loc;;;x
-ITA_fascist;Partito Nazionale Fascista;;;;Spanish Loc;;;x
-CSA_presidential_dictatorship;The Confederate States of America;;;;Spanish Loc;;;x
-CSA;The Confederate States of America;;;;Spanish Loc;;;x
-CSA_bourgeois_dictatorship;The Confederate States of America;;;;Spanish Loc;;;x
-CSA_fascist_dictatorship;The Confederacy;;;;Spanish Loc;;;x
-CSA_proletarian_dictatorship;The People's Confederacy;;;;Spanish Loc;;;x
-ITA_democracy;The Italian Republic;;;;Spanish Loc;;;x
-ITA_bourgeois_dictatorship_ADJ;Italian;;;;Spanish Loc;;;x
-ITA_proletarian_dictatorship;The People's Republic of Italy;;;;Spanish Loc;;;x
-ITA_proletarian_dictatorship_ADJ;Italian;;;;Spanish Loc;;;x
-JAP_absolute_monarchy;Imperial Japan;;;;Spanish Loc;;;x
-JAP_reactionary;Handoutou;;;;Spanish Loc;;;x
-JAP_conservative;Rikken Teiseitou;;;;Spanish Loc;;;x
-JAP_conservative_2;Rikken Kaishintou;;;;Spanish Loc;;;x
-JAP_reactionary_2;Handoutou;;;;Spanish Loc;;;x
-JAP_conservative_3;Tachiagare Nippon;;;;Spanish Loc;;;x
-JAP_liberal;Aikokusha;;;;Spanish Loc;;;x
-JAP_socialist;Shakaitou;;;;Spanish Loc;;;x
-JAP_anarcho_liberal;Ishin Seito Shimpu;;;;Spanish Loc;;;x
-JAP_communist;Kyousantou;;;;Spanish Loc;;;x
-JAP_fascist;Kokuhonsha;;;;Spanish Loc;;;x
-KLM;Kalimantan;;;;Kalimantan;;;x
-KLM_ADJ;Kalimantan;;;;Kalimantan;;;x
-KTI;Kutai;;;;Kutai;;;x
-KTI_ADJ;Kutain;;;;Kutaina;;;x
-KTI_conservative;Royal Faction;;;;Facci�n Real;;;x
-KTI_liberal;The Liberal Faction;;;;La Facci�n Liberal;;;x
-KTI_reactionary;The Nationalist Faction;;;;La Facci�n Nacionalista;;;x
-KTI_anarcho_liberal;The Radical Faction;;;;La Facci�n Radical;;;x
-KTI_socialist;The Socialist Faction;;;;La Facci�n Socialista;;;x
-KTI_communist;The Communist Faction;;;;La Facci�n Comunista;;;x
-KTI_fascist;The Fascist Faction;;;;La Facci�n Fascista;;;x
-LAN;Lanfang;;;;Lanfang;;;x
-LAN_ADJ;Lanfang;;;;Lanfang;;;x
-LAN_conservative;Conservative Kongsi;;;;Kongsi conservador;;;x
-LAN_liberal;Liberal Kongsi;;;;Kongsi liberal;;;x
-LAN_reactionary;Nationalist Kongsi;;;;Kongsi nacionalista;;;x
-LAN_anarcho_liberal;Radical Kongsi;;;;Kongsi radical;;;x
-LAN_socialist;Socialist Kongsi;;;;Kongsi socialista;;;x
-LAN_communist;The Communist Kongsi;;;;Kongsi comunista;;;x
-LAN_fascist;Fascist Kongsi;;;;Spanish Loc;;;x
-LOM_reactionary;Monarchici;;;;Spanish Loc;;;x
-LOM_liberal;Intransigenti;;;;Spanish Loc;;;x
-LOM_conservative;Transigenti;;;;Spanish Loc;;;x
-LOM_socialist;Socialisti;;;;Spanish Loc;;;x
-LOM_communist;Rivoluzionari;;;;Spanish Loc;;;x
-LOM_reactionary_2;Cattolici;;;;Spanish Loc;;;x
-LOM_anarcho_liberal;Radicali;;;;Spanish Loc;;;x
-LOM_fascist;Fascisti;;;;Spanish Loc;;;x
-LPL;La Plata;;;;La Plata;;;x
-LPL_ADJ;Platinean;;;;Platina;;;x
-LPL_fascist_dictatorship_ADJ;Goslingian;;;;Spanish Loc;;;x
-LPL_fascist_dictatorship;Goslingia;;;;Spanish Loc;;;x
-MOD_reactionary;Restaurazionisti;;;;Spanish Loc;;;x
-MOD_conservative;Moderati ;;;;Spanish Loc;;;x
-MOD_liberal;Riformisti ;;;;Spanish Loc;;;x
-MOD_liberal_2;Liberali;;;;Spanish Loc;;;x
-MOD_socialist;Socialisti;;;;Spanish Loc;;;x
-MOD_conservative_2;Popolari;;;;Spanish Loc;;;x
-MOD_anarcho_liberal;Radicali;;;;Spanish Loc;;;x
-MOD_communist;Comunisti;;;;Spanish Loc;;;x
-MOD_fascist;Fascisti;;;;Spanish Loc;;;x
-NEJ_absolute_monarchy;Nejd Emirate;;;;Spanish Loc;;;x
-NEJ_prussian_constitutionalism;Nejd Emirate;;;;Spanish Loc;;;x
-NEJ_hms_government;Nejd Emirate;;;;Spanish Loc;;;x
-NEJ_absolute_monarchy_ADJ;Saudi;;;;Spanish Loc;;;x
-NEJ_prussian_constitutionalism_ADJ;Saudi;;;;Spanish Loc;;;x
-NEJ_hms_government_ADJ;Saudi;;;;Spanish Loc;;;x
-NEJ_conservative;Al-Sa'ud;;;;Spanish Loc;;;x
-NEJ_liberal;Al-Ahrar;;;;Spanish Loc;;;x
-NEJ_reactionary;Al-Da'wa al-Wahhabiyyah;;;;Spanish Loc;;;x
-NEJ_anarcho_liberal;Al-Hizb al-Metterf;;;;Spanish Loc;;;x
-NEJ_socialist;Hizb al-Ba'ath al-'Arabi al-Ishtiraki;;;;Spanish Loc;;;x
-NEJ_communist;Al-Hizb al-Shuyu'i;;;;Spanish Loc;;;x
-NEJ_fascist;Al-Hizb al-Fashy;;;;Spanish Loc;;;x
-NOR_liberal;Liberals;;;;Spanish Loc;;;x
-NOR_liberal_2;Venstre;;;;Spanish Loc;;;x
-NOR_conservative;Conservatives;;;;Spanish Loc;;;x
-NOR_conservative_2;Hoyre;;;;Spanish Loc;;;x
-NOR_conservative_3;Moderate Venstre;;;;Spanish Loc;;;x
-NOR_conservative_4;Samlingspartiet;;;;Spanish Loc;;;x
-NOR_conservative_5;Frisinnede Venstre;;;;Spanish Loc;;;x
-NOR_conservative_6;Kristelig Folkeparti;;;;Spanish Loc;;;x
-NOR_anarcho_liberal_2;Arbeiderdemokratene;;;;Spanish Loc;;;x
-NOR_socialist;Socialists;;;;Spanish Loc;;;x
-NOR_socialist_2;Det Norske Arbeiderparti;;;;Spanish Loc;;;x
-NOR_socialist_3;Norges Socialdemokratiske Arbeiderparti;;;;Spanish Loc;;;x
-NOR_socialist_4;Bondepartiet;;;;Spanish Loc;;;x
-NOR_communist_2;Det Norske Arbeiderparti;;;;Spanish Loc;;;x
-NOR_communist_3;Norges Kommunistiske Parti;;;;Spanish Loc;;;x
-NOR_fascist;Nationalists;;;;Spanish Loc;;;x
-NOR_fascist_2;Nasjonal Samling;;;;Spanish Loc;;;x
-CZH_fascist;Vlajka;;;;Spanish Loc;;;x
-SLV_fascist;Slovenska Ludova Strana;;;;Spanish Loc;;;x
-BEL_fascist;Parti Rexiste;;;;Spanish Loc;;;x
-YEM_proletarian_dictatorship;People's Republic of Yemen;;;;Spanish Loc;;;x
-PAR_reactionary;Restaurazionisti;;;;Spanish Loc;;;x
-PAR_conservative;Moderati ;;;;Spanish Loc;;;x
-PAR_liberal;Riformisti ;;;;Spanish Loc;;;x
-PAR_liberal_2;Liberali;;;;Spanish Loc;;;x
-PAR_socialist;Socialisti;;;;Spanish Loc;;;x
-PAR_conservative_2;Popolari;;;;Spanish Loc;;;x
-PAR_anarcho_liberal;Radicali;;;;Spanish Loc;;;x
-PAR_communist;Comunisti;;;;Spanish Loc;;;x
-PAR_fascist;Fascisti;;;;Spanish Loc;;;x
-PER;Iran;;;;Spanish Loc;;;x
-PER_ADJ;Iranian;;;;Spanish Loc;;;x
-PER_absolute_monarchy;Persia;;;;Spanish Loc;;;x
-PER_absolute_monarchy_ADJ;Persian;;;;Spanish Loc;;;x
-PER_prussian_constitutionalism;The Imperial State of Iran;;;;Spanish Loc;;;x
-PER_hms_government;The Imperial State of Iran;;;;Spanish Loc;;;x
-PER_bourgeois_dictatorship;The Iranian Free State;;;;Spanish Loc;;;x
-PER_communist;Tudeh Party of Iran;;;;Spanish Loc;;;x
-PER_conservative;Shahist Faction;;;;Spanish Loc;;;x
-PER_reactionary;Ulama Faction;;;;Spanish Loc;;;x
-PER_anarcho_liberal;Bazaari Faction;;;;Spanish Loc;;;x
-PER_socialist;Hizb-e Socialyist;;;;Spanish Loc;;;x
-PER_fascist;SUMKA;;;;Spanish Loc;;;x
-PER_liberal;Constitutionalist Party;;;;Spanish Loc;;;x
-PER_liberal_2;National Front;;;;Spanish Loc;;;x
-PAN_absolute_monarchy;The Sikh Empire;;;;Spanish Loc;;;x
-PAN_prussian_constitutionalism;The Sikh Empire;;;;Spanish Loc;;;x
-PAN_absolute_monarchy_ADJ;Sikh;;;;Spanish Loc;;;x
-PAN_prussian_constitutionalism_ADJ;Sikh;;;;Spanish Loc;;;x
-PAN_fascist_dictatorship;Khalistan;;;;Spanish Loc;;;x
-PAN_fascist_dictatorship_ADJ;Khalistani;;;;Spanish Loc;;;x
-PLC;The Polish-Lithuanian Commonwealth;;;;Spanish Loc;;;x
-PLC_ADJ;Polish-Lithuanian;;;;Spanish Loc;;;x
-PLC_proletarian_dictatorship;The Polish-Lithuanian Republic;;;;Spanish Loc;;;x
-PLC_fascist_dictatorship;The Polish-Lithuanian Republic;;;;Spanish Loc;;;x
-PLC_presidential_dictatorship;The Polish-Lithuanian Republic;;;;Spanish Loc;;;x
-PLC_democracy;Poland-Lithuania;;;;Spanish Loc;;;x
-CHI_conservative;Junjichu;;;;Spanish Loc;;;x
-CHI_conservative_2;Zhiqiang Yundong;;;;Spanish Loc;;;x
-CHI_conservative_3;Beiyang;;;;Spanish Loc;;;x
-CHI_conservative_4;Kuomintang;;;;Spanish Loc;;;x
-CHI_conservative_5;Minzhudang;;;;Spanish Loc;;;x
-CHI_liberal;Gai Liang Pai;;;;Spanish Loc;;;x
-CHI_liberal_2;Xingzhonghui;;;;Spanish Loc;;;x
-CHI_liberal_3;Zhongguo Minzhu Tongmeng;;;;Spanish Loc;;;x
-CHI_liberal_4;Yang Wu Pai;;;;Spanish Loc;;;x
-CHI_reactionary;Kongjiao Yundong;;;;Spanish Loc;;;x
-CHI_reactionary_2;Jenbudang;;;;Spanish Loc;;;x
-CHI_anarcho_liberal;Zhongguo Minzhu Jianguo Hue;;;;Spanish Loc;;;x
-CHI_socialist;Zhongguo Guojia Shehui Dang;;;;Spanish Loc;;;x
-CHI_communist;Zhongguo Gongchandang;;;;Spanish Loc;;;x
-CHI_fascist;Kai-tsu P'ai;;;;Spanish Loc;;;x
-RHI;Rhineland;;;;Renania;;;x
-RHI_ADJ;Rhinelander;;;;Palatina;;;x
-RHI_liberal;Liberaldem. Partei;;;;Liberaldem. Partei;;;x
-RHI_conservative;Zentrumspartei;;;;Zentrumspartei;;;x
-RHI_liberal_2;Nationalliberale;;;;Nationalliberale;;;x
-RHI_liberal_3;Freisinnige Partei;;;;Freisinnige Partei;;;x
-RHI_socialist;Deutscher Arbeiterverein;;;;Deutscher Arbeiterverein;;;x
-RHI_socialist_2;Sozialdem. Arbeiterpartei;;;;Sozialdem. Arbeiterpartei;;;x
-RHI_socialist_3;Sozial. Arbeiterpartei;;;;Sozial. Arbeiterpartei;;;x
-RHI_reactionary;Nationale Partei;;;;Nationale Partei;;;x
-RHI_conservative_2;Konservative Partei;;;;Konservative Partei;;;x
-RHI_conservative_3;Christsoz. Arbeiterpartei;;;;Christsoz. Arbeiterpartei;;;x
-RHI_anarcho_liberal;Radical Arbeiterpartei;;;;Radical Arbeiterpartei;;;x
-RHI_communist;Communist Arbeiterpartei;;;;Communist Arbeiterpartei;;;x
-RHI_fascist;NSDP;;;;NSDP;;;x
-RHO_democracy;Rhodesia;;;;Spanish Loc;;;x
-RUT_proletarian_dictatorship;West Ukrainian People's Republic;;;;Spanish Loc;;;x
-RUT_proletarian_dictatorship_ADJ;West Ukrainian;;;;Spanish Loc;;;x
-RUT_democracy;West Ukraine;;;;Spanish Loc;;;x
-RUT_democracy_ADJ;West Ukrainian;;;;Spanish Loc;;;x
-RUT_presidential_dictatorship;West Ukraine;;;;Spanish Loc;;;x
-RUT_presidential_dictatorship_ADJ;West Ukrainian;;;;Spanish Loc;;;x
-SAR_reactionary;Restaurazionisti;;;;Spanish Loc;;;x
-SAR_conservative;Moderati;;;;Spanish Loc;;;x
-SAR_liberal;Riformisti;;;;Spanish Loc;;;x
-SAR_liberal_2;Liberali;;;;Spanish Loc;;;x
-SAR_socialist;Socialisti;;;;Spanish Loc;;;x
-SAR_conservative_2;Popolari;;;;Spanish Loc;;;x
-SAR_anarcho_liberal;Radicali;;;;Spanish Loc;;;x
-SAR_communist;Comunisti;;;;Spanish Loc;;;x
-SAR_fascist;Fascisti;;;;Spanish Loc;;;x
-SAK;Siak;;;;Siak;;;x
-SAK_ADJ;Siak;;;;Siak;;;x
-SLW;Celebes;;;;celebesense;;;x
-SLW_ADJ;Sulawesian;;;;Celebesense;;;x
-SLW_absolute_monarchy;Bone Sultanate;;;;Sultanato de Bone;;;x
-SLW_prussian_constitutionalism;Bone Sultanate;;;;Sultanato de Bone;;;x
-SLW_hms_government;Bone Sultanate;;;;Sultanato de Bone;;;x
-SUL;Sulu;;;;Jolo;;;x
-SUL_ADJ;Sulu;;;;Joloana;;;x
-SUL_conservative;Conservatist Faction;;;;Facci�n Conservadora;;;x
-SUL_liberal;Reformist Faction;;;;Facci�n Reformista;;;x
-SUL_socialist;Progressive Faction;;;;Facci�n Progresista;;;x
-SUL_communist;Communist Faction;;;;Facci�n Comunista;;;x
-SUL_reactionary;Nationalist Faction;;;;Facci�n Nacionalista;;;x
-SUL_anarcho_liberal;Radical Faction;;;;Facci�n Radical;;;x
-SUL_fascist;Fascist Faction;;;;Fracci�n Fascista;;;x
-SWK;Sarawak;;;;Sarawak;;;x
-SWK_ADJ;Sarawakian;;;;Sarawakiana;;;x
-SWK_fascist_dictatorship;Borneo Republic;;;;Rep�blica de Borneo;;;x
-SWK_fascist_dictatorship_ADJ;Bornean;;;;Borneana;;;x
-SWK_conservative;Rajah Faction;;;;Facci�n Raj�;;;x
-SWK_liberal;The Liberal Faction;;;;La Facci�n Liberal;;;x
-SWK_reactionary;The Nationalist Faction;;;;La Facci�n Nacionalista;;;x
-SWK_anarcho_liberal;The Radical Faction;;;;La Facci�n Radical;;;x
-SWK_socialist;The Socialist Faction;;;;La Facci�n Socialista;;;x
-SWK_communist;The Communist Faction;;;;La Facci�n Comunista;;;x
-SWK_fascist;The Borneo Faction;;;;La Facci�n de Borneo;;;x
-SIE;Transylvania;;;;Spanish Loc;;;x
-SIE_ADJ;Transylvanian;;;;Spanish Loc;;;x
-SXI;Shanxi;;;;Spanish Loc;;;x
-SXI_presidential_dictatorship;Shanxi Clique;;;;Spanish Loc;;;x
-TRE_reactionary;Monarchici;;;;Spanish Loc;;;x
-TRE_liberal;Intransigenti;;;;Spanish Loc;;;x
-TRE_conservative;Transigenti;;;;Spanish Loc;;;x
-TRE_socialist;Socialisti;;;;Spanish Loc;;;x
-TRE_communist;Rivoluzionari;;;;Spanish Loc;;;x
-TRE_reactionary_2;Cattolici;;;;Spanish Loc;;;x
-TRE_anarcho_liberal;Radicali;;;;Spanish Loc;;;x
-TRE_fascist;Fascisti;;;;Spanish Loc;;;x
-BYZ;Byzantine Empire;;;;Spanish Loc;;;x
-BYZ_ADJ;Byzantine;;;;Spanish Loc;;;x
-BYZ_democracy;The Byzantine Federation;;;;Spanish Loc;;;x
-BYZ_presidential_dictatorship;The Byzantine Federation;;;;Spanish Loc;;;x
-BYZ_bourgeois_dictatorship;The Byzantine Federation;;;;Spanish Loc;;;x
-BYZ_proletarian_dictatorship;The Socialist Byzantine Union;;;;Spanish Loc;;;x
-TUR;Turkey;;;;Spanish Loc;;;x
-TUR_ADJ;Turkish;;;;Spanish Loc;;;x
-TUR_absolute_monarchy;The Ottoman Empire;;;;Spanish Loc;;;x
-TUR_absolute_monarchy_ADJ;Ottoman;;;;Spanish Loc;;;x
-TUR_prussian_constitutionalism;The Ottoman Empire;;;;Spanish Loc;;;x
-TUR_prussian_constitutionalism_ADJ;Ottoman;;;;Spanish Loc;;;x
-TUR_hms_government;The Ottoman Empire;;;;Spanish Loc;;;x
-TUR_hms_government_ADJ;Ottoman;;;;Spanish Loc;;;x
-TUR_bourgeois_dictatorship;Turkish Free State;;;;Spanish Loc;;;x
-TUR_proletarian_dictatorship;Turkish Socialist Republic;;;;Spanish Loc;;;x
-TUR_proletarian_dictatorship_ADJ;Turkish;;;;Spanish Loc;;;x
-TUR_reactionary;Nizam-i Alem;;;;Spanish Loc;;;x
-TUR_reactionary_2;Ittihad-i Muhammedi Firkasi;;;;Spanish Loc;;;x
-TUR_reactionary_3;Halaskar Zabitan;;;;Spanish Loc;;;x
-TUR_reactionary_4;Fedailer Cemiyeti;;;;Spanish Loc;;;x
-TUR_conservative;Hukumet-i Humayun;;;;Spanish Loc;;;x
-TUR_conservative_2;Selamet-i Osmaniye;;;;Spanish Loc;;;x
-TUR_conservative_3;Hurriyet ve Itilaf Firkasi;;;;Spanish Loc;;;x
-TUR_liberal_2;Tanzimat Firkasi;;;;Spanish Loc;;;x
-TUR_liberal_4;Osmanli Demokrat Firkasi;;;;Spanish Loc;;;x
-TUR_liberal_5;Halk Firkasi;;;;Spanish Loc;;;x
-TUR_socialist;Osmanli Koylu ve Amele Firkasi;;;;Spanish Loc;;;x
-TUR_socialist_3;Sosyalist Firka;;;;Spanish Loc;;;x
-TUR_communist;Ihtilalci Avam Firkasi;;;;Spanish Loc;;;x
-TUR_communist_2;Komunist Firka;;;;Spanish Loc;;;x
-TUR_communist_3;Halk Istirakiyun Firkasi;;;;Spanish Loc;;;x
-TUR_liberal;Ittihat ve Terakki Firkasi;;;;Spanish Loc;;;x
-TUR_liberal_3;Yeni Osmanlilar Cemiyeti;;;;Spanish Loc;;;x
-TUR_socialist_2;Osmanli Ahali Firkasi;;;;Spanish Loc;;;x
-TUR_anarcho_liberal;Osmanli Ahrar Firkasi;;;;Spanish Loc;;;x
-TUR_fascist;Ittihat ve Terakki Firkasi;;;;Spanish Loc;;;x
-TUR_fascist_2;Turk Ocagi;;;;Spanish Loc;;;x
-TUR_fascist_3;Milli Firka;;;;Spanish Loc;;;x
-TUS_reactionary;Restaurazionisti;;;;Spanish Loc;;;x
-TUS_conservative;Moderati ;;;;Spanish Loc;;;x
-TUS_liberal;Riformisti ;;;;Spanish Loc;;;x
-TUS_liberal_2;Liberali;;;;Spanish Loc;;;x
-TUS_socialist;Socialisti;;;;Spanish Loc;;;x
-TUS_conservative_2;Popolari;;;;Spanish Loc;;;x
-TUS_anarcho_liberal;Radicali;;;;Spanish Loc;;;x
-TUS_communist;Comunisti;;;;Spanish Loc;;;x
-TUS_fascist;Fascisti;;;;Spanish Loc;;;x
-USA;The United States of America;;;;Spanish Loc;;;x
-USA_bourgeois_dictatorship;The United States of America;;;;Spanish Loc;;;x
-USA_absolute_monarchy;The American Empire;;;;Spanish Loc;;;x
-USA_prussian_constitutionalism;The American Empire;;;;Spanish Loc;;;x
-USA_hms_government;The Kingdom of America;;;;Spanish Loc;;;x
-USA_proletarian_dictatorship;The People's Republic of America;;;;Spanish Loc;;;x
-VEN_democracy;The Republic of San Marco;;;;Spanish Loc;;;x
-VEN_presidential_dictatorship;The Republic of San Marco;;;;Spanish Loc;;;x
-VEN_reactionary;Monarchici;;;;Spanish Loc;;;x
-VEN_liberal;Intransigenti;;;;Spanish Loc;;;x
-VEN_conservative;Transigenti;;;;Spanish Loc;;;x
-VEN_socialist;Socialisti;;;;Spanish Loc;;;x
-VEN_communist;Rivoluzionari;;;;Spanish Loc;;;x
-VEN_reactionary_2;Cattolici;;;;Spanish Loc;;;x
-VEN_anarcho_liberal;Radicali;;;;Spanish Loc;;;x
-VEN_fascist;Fascisti;;;;Spanish Loc;;;x
-WES;Westfalen;;;;Spanish Loc;;;x
-WES_ADJ;Westphalian ;;;;Spanish Loc;;;x
-WES_liberal;Liberaldem. Partei;;;;Spanish Loc;;;x
-WES_conservative;Zentrumspartei;;;;Spanish Loc;;;x
-WES_liberal_2;Nationalliberale ;;;;Spanish Loc;;;x
-WES_liberal_3;Freisinnige Partei;;;;Spanish Loc;;;x
-WES_socialist;Deutscher Arbeiterverein;;;;Spanish Loc;;;x
-WES_socialist_2;Sozialdem. Arbeiterpartei ;;;;Spanish Loc;;;x
-WES_socialist_3;Sozial. Arbeiterpartei ;;;;Spanish Loc;;;x
-WES_reactionary;Nationale Partei;;;;Spanish Loc;;;x
-WES_conservative_2;Konservative Partei;;;;Spanish Loc;;;x
-WES_conservative_3;Christsoz. Arbeiterpartei;;;;Spanish Loc;;;x
-WES_anarcho_liberal;Radical Arbeiterpartei;;;;Spanish Loc;;;x
-WES_communist;Communist Arbeiterpartei;;;;Spanish Loc;;;x
-WES_fascist;NSDP;;;;Spanish Loc;;;x
-XBI_ADJ;Qinghai;;;;Spanish Loc;;;x
-XBI_presidential_dictatorship;Ma Clique;;;;Spanish Loc;;;x
-XBI_presidential_dictatorship_ADJ;Hui;;;;Spanish Loc;;;x
-XBI_reactionary_2;Confucianist Faction;;;;Spanish Loc;;;x
-XBI_conservative_2;Amban Faction;;;;Spanish Loc;;;x
-XBI_liberal_2;Reformer Faction;;;;Spanish Loc;;;x
-XIN_presidential_dictatorship;Xinjiang Clique;;;;Spanish Loc;;;x
-YNN_presidential_dictatorship;Yunnan Clique;;;;Spanish Loc;;;x
-DEN;Denmark-Norway;;;;Denmark-Norway;;;x
+Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+ROM_reactionary;Partidul National Roman;;;;Partidul National Roman;;;;;;;;;
+ROM_reactionary_2;Partidul Nationalist-Democrat;;;;Partidul Nationalist-Democrat;;;;;;;;;
+ROM_reactionary_3;Partidul Poporului;;;;Partidul Poporului;;;;;;;;;
+ROM_conservative;Partidul Conservator;;;;Partidul Conservator;;;;;;;;;
+ROM_conservative_2;Partidul Taranesc;;;;Partidul Taranesc;;;;;;;;;
+ROM_conservative_3;Partidul National Taranesc;;;;Partidul National Taranesc;;;;;;;;;
+ROM_liberal;Fractionistii;;;;Fractionistii;;;;;;;;;
+ROM_liberal_2;Partidul National Liberal;;;;Partidul National Liberal;;;;;;;;;
+ROM_anarcho_liberal;Partidul din Drepturile Omulu;;;;Partidul din Drepturile Omulu;;;;;;;;;
+ROM_socialist;Partidul Social-Democrat;;;;Partidul Social-Democrat;;;;;;;;;
+ROM_communist;Partidul Comunist;;;;Partidul Comunist;;;;;;;;;
+ROM_fascist;Garda de Fier;;;;Garda de Fier;;;;;;;;;
+POR_fascist;Movimento Nacional-Sindicalista;;;;Movimento Nacional-Sindicalista;;;;;;;;;
+IRE_fascist;Chungus Lovers;;;;Amantes de los Chungus;;;;;;;;;
+IRE_communist;Communist Party of Ireland;;;;Partido Comunista de Irlanda;;;;;;;;;
+IRE_conservative;Irish Conservative Party;;;;Partido Conservador Irland?s;;;;;;;;;
+AST_fascist;New Guard;;;;New Guard;;;;;;;;;
+SGF_ADJ;South German;;;;Alem?n del Sur;;;;;;;;;
+USA_conservative_2;Bourbon Democrats;;;;Dem?cratas de Borb?n;;;;;;;;;
+USA_conservative_4;Democrats;;;;Dem?cratas;;;;;;;;;
+YUG_fascist;ZBOR;;;;ZBOR;;;;;;;;;
+YUG_ADJ;Yugoslav;;;;Yugoslava;;;;;;;;;
+AUS_fascist;Vaterlandische Front;;;;Vaterlandische Front;;;;;;;;;
+SWI_liberal;Freisinnig-Demokratische Partei;;;;Freisinnig-Demokratische Partei;;;;;;;;;
+GCO_communist;Partido Communista;;;;Partido Communista;;;;;;;;;
+GCO_fascist;Partido Fascista;;;;Partido Fascista;;;;;;;;;
+MNP;Manipur;;;;Manipur;;;;;;;;;
+MNP_ADJ;Manipuri;;;;Manipuri;;;;;;;;;
+GEO_conservative;Demokratiuli Modzraoba;;;;Demokratiuli Modzraoba;;;;;;;;;
+GEO_liberal;Sakartvelos Respublikuri;;;;Sakartvelos Respublikuri;;;;;;;;;
+GEO_reactionary;Natsionaluri Modzraoba;;;;Natsionaluri Modzraoba;;;;;;;;;
+GEO_anarcho_liberal;Sakartvelos Gza;;;;Sakartvelos Gza;;;;;;;;;
+GEO_socialist;Sakartvelos Leiboristuli;;;;Sakartvelos Leiboristuli;;;;;;;;;
+GEO_communist;Sakartvelos Komunisturi;;;;Sakartvelos Komunisturi;;;;;;;;;
+GEO_fascist;Erovnuli Sotsialisturi;;;;Erovnuli Sotsialisturi;;;;;;;;;
+UKR_conservative;Ukrainian Democratic Agrarian Party;;;;Partido Agrario Democr?tico de Ucrania;;;;;;;;;
+UKR_liberal;Ukrainian Democratic Party;;;;Partido Democr?tico Ucraniano;;;;;;;;;
+UKR_reactionary;Congress of Landowners;;;;Congreso de Propietarios de Tierras;;;;;;;;;
+UKR_anarcho_liberal;Ukrainian Radical Party;;;;Partido Radical Ucraniano;;;;;;;;;
+UKR_socialist;Ukrainian Social Democratic Labour Party;;;;Partido Laborista Socialdem?crata de Ucrania;;;;;;;;;
+UKR_communist;Ukrainian Communist Party;;;;Partido Comunista de Ucrania;;;;;;;;;
+UKR_fascist;Organization of Ukrainian Nationalists;;;;Organizaci?n de Nacionalistas Ucranianos;;;;;;;;;
+TUN;Tunisia;;;;T?nez;;;;;;;;;
+TUN_absolute_monarchy;Tunis;;;;T?nez;;;;;;;;;
+TUN_prussian_constitutionalism;Tunis;;;;T?nez;;;;;;;;;
+ALB_communist;Partia e Punes e Shqiperise;;;;Partia e Punes e Shqiperise;;;;;;;;;
+ALB_fascist;Partia Fashiste e Shqiperise;;;;Partia Fashiste e Shqiperise;;;;;;;;;
+ALB_conservative;Levizja Legalitetit;;;;Levizja Legalitetit;;;;;;;;;
+AUS_communist;Kommunistische Partei Osterreichs;;;;Kommunistische Partei Osterreichs;;;;;;;;;
+BEL_communist;Parti Communiste de Belgique;;;;Parti Communiste de Belgique;;;;;;;;;
+BUL_socialist;BRSDP;;;;BRSDP;;;;;;;;;
+BUL_liberal;Balgarski Zemedelski Naroden Sayuz;;;;Balgarski Zemedelski Naroden Sayuz;;;;;;;;;
+BUL_anarcho_liberal;Radoslavists;;;;Radoslavists;;;;;;;;;
+BUL_communist;Balgarska Komunisticheska Partiya;;;;Balgarska Komunisticheska Partiya;;;;;;;;;
+BUL_conservative;Mladoliberalna Partija-Toncevisti;;;;Mladoliberalna Partija-Toncevisti;;;;;;;;;
+CAN_socialist;Socialist Party of Canada;;;;Partido Socialista de Canad?;;;;;;;;;
+CAN_communist;Communist Party of Canada;;;;Partido Comunista de Canad?;;;;;;;;;
+CAN_conservative;Conservative Party of Canada;;;;Partido Conservador de Canad?;;;;;;;;;
+CAN_reactionary;Tories;;;;Conservadores;;;;;;;;;
+CAN_liberal_1;Red Party;;;;Partido Rojo;;;;;;;;;
+CAN_liberal_2;Liberal Party of Canada;;;;Partido Liberal de Canad?;;;;;;;;;
+DAI;Vietnam;;;;Vietnam;;;;;;;;;
+DAI_communist;Dang Cong san Viet Nam;;;;Dang Cong san Vietnam;;;;;;;;;
+ENG_communist;Communist Party of Great Britain;;;;Partido Comunista de Gran Bretana;;;;;;;;;
+FIN_fascist;Isanmaallinen kansanliike;;;;Isanmaallinen kansanliike;;;;;;;;;
+MEX_socialist;Partido Laborista Mexicano;;;;Partido Laborista Mexicano;;;;;;;;;
+MEX_communist;Partido Socialista Obrero;;;;Partido Socialista Obrero;;;;;;;;;
+MEX_fascist;Union Nacional Sinarquista;;;;Union Nacional Sinarquista;;;;;;;;;
+NET_conservative;Anti-Revolutionaire Partij;;;;Anti-Revolutionaire Partij;;;;;;;;;
+HOL_socialist_1;Sociaal-Democratische Vereeniging;;;;Sociaal-Democratische Vereeniging;;;;;;;;;
+HOL_socialist_2;Sociaal-Democratische Bond;;;;Sociaal-Democratische Bond;;;;;;;;;
+HOL_socialist_3;Sociaal Democratische Arbeiders Partij;;;;Sociaal Democratische Arbeiders Partij;;;;;;;;;
+HOL_fascist;Verbond Van Actualisten;;;;Verbond Van Actualisten;;;;;;;;;
+POR_socialist;Partido Socialista Portugues;;;;Partido Socialista Portugues;;;;;;;;;
+POR_communist;Partido Comunista Portugues;;;;Partido Comunista Portugues;;;;;;;;;
+RUS_fascist;All-Russian Fascist Party;;;;Partido Fascista de toda Rusia;;;;;;;;;
+SER_reactionary;Nacionalna Stranka;;;;Nacionalna Stranka;;;;;;;;;
+SER_communist;Srpska Socijaldemokratska Partija;;;;Srpska Socijaldemokratska Partija;;;;;;;;;
+SER_fascist;Narodna Odbrana;;;;Narodna Odbrana;;;;;;;;;
+SER_conservative;Ustavobranitelji;;;;Ustavobranitelji;;;;;;;;;
+SER_conservative_2;Konzervativna Stranka;;;;Konzervativna Stranka;;;;;;;;;
+SER_conservative_3;Srpska Napredna Stranka;;;;Srpska Napredna Stranka;;;;;;;;;
+SER_socialist;Samostalna Radikalna Stranka;;;;Samostalna Radikalna Stranka;;;;;;;;;
+SER_liberal;Liberalna Stranka;;;;Liberalna Stranka;;;;;;;;;
+SER_liberal_2;Narodna Radikalna Stranka;;;;Narodna Radikalna Stranka;;;;;;;;;
+SER_anarcho_liberal;Anarho-Liberalno Stranka;;;;Anarho-Liberalno Stranka;;;;;;;;;
+GRE_communist;Kommounistiko Komma Elladas;;;;Kommounistiko Komma Elladas;;;;;;;;;
+GRE_socialist;Sosialistiko Komma Elladas;;;;Sosialistiko Komma Elladas;;;;;;;;;
+GRE_fascist;Ethniki Enosis Ellados;;;;Ethniki Enosis Ellados;;;;;;;;;
+GRE_anarcho_liberal;Ethnikon Rizospastikon Komma;;;;Ethnikon Rizospastikon Komma;;;;;;;;;
+GRE_reactionary;Komma ton Napaion;;;;Komma ton Napaion;;;;;;;;;
+GRE_conservative;Syntagmatiko Komma;;;;Syntagmatiko Komma;;;;;;;;;
+GRE_conservative_2;Komma Ethnikofronon;;;;Komma Ethnikofronon;;;;;;;;;
+GRE_liberal;Ethniko Komma;;;;Ethniko Komma;;;;;;;;;
+GRE_liberal_2;Neoteristikon Komma;;;;Neoteristikon Komma;;;;;;;;;
+USA_socialist;Workingmen's Party;;;;Partido de Trabajadores;;;;;;;;;
+USA_communist;Communist Party USA;;;;Partido Comunista USA;;;;;;;;;
+USA_fascist;Silver Legion of America;;;;Legi?n de Plata de Am?rica;;;;;;;;;
+YUG_reactionary;Jugoslovenska Nacionalna Stranka;;;;Jugoslovenska Nacionalna Stranka;;;;;;;;;
+YUG_liberal;Samostalna Demokratska Stranka;;;;Samostalna Demokratska Stranka;;;;;;;;;
+YUG_anarcho_liberal;Narodna Radikalna Stranka;;;;Narodna Radikalna Stranka;;;;;;;;;
+YUG_communist;Komunisticka Partija Jugoslavije;;;;Komunisticka Partija Jugoslavije;;;;;;;;;
+YUG_socialist;Socijalisticka Radnicka Partija Jugoslavije;;;;Socijalisticka Radnicka Partija Jugoslavije;;;x ;;;;;;
+YUG_conservative;Jugoslovanska Demokratska Stranka;;;;Jugoslovanska Demokratska Stranka;;;;;;;;;
+UBD;The United Baltic Provinces;;;;Las Provincias B?lticas Unidas;;;;;;;;;
+UBD_democracy;The Baltic Union;;;;La Uni?n B?ltica;;;;;;;;;
+UBD_proletarian_dictatorship;The Baltic Worker's Union;;;;La Uni?n de Trabajadores del B?ltico;;;;;;;;;
+UBD_fascist;Baltic Fascist Union;;;;Uni?n Fascista B?ltica;;;;;;;;;
+UBD_communist;Baltic Communist Party;;;;Partido Comunista B?ltico;;;;;;;;;
+UBD_socialist;Union of Baltic Workers and Socialists;;;;Uni?n de Trabajadores y Socialistas del B?ltico;;;;;;;;;
+UBD_socialist_2;Baltic Labour Party;;;;Partido Laborista B?ltico;;;;;;;;;
+UBD_anarcho_liberals;Radical Party;;;;Partido Radical;;;;;;;;;
+UBD_liberal_2;The All-Baltic Landtag;;;;El Landtag del B?ltico;;;;;;;;;
+UBD_liberal;Progressive Union;;;;Uni?n Progresista;;;;;;;;;
+UBD_conservative_2;Union of Landowners and Farmers;;;;Uni?n de Terratenientes y Agricultores;;;;;;;;;
+UBD_reactionary;Royalist Faction;;;;Facci?n realista;;;;;;;;;
+UBD_conservative;German Landtag;;;;Landtag alem?n;;;;;;;;;
+EST_fascist;Vabadussojalased;;;;Vabadussojalased;;;;;;;;;
+EST_communist;Eestimaa Kommunistlik Partei;;;;Eestimaa Kommunistlik Partei;;;;;;;;;
+EST_socialist;Eesti Sotsialistlik Tooliste Partei;;;;Eesti Sotsialistlik Tooliste Partei;;;;;;;;;
+EST_socialist_2;Eesti Tooerakond;;;;Eesti Tooerakond;;;;;;;;;
+EST_anarcho_liberal;Radikaal-Demokraatlik Erakond;;;;Radikaal-Demokraatlik Erakond;;;;;;;;;
+EST_liberal;Asunikkude Partei;;;;Asunikkude Partei;;;;;;;;;
+EST_conservative;Pollumeeste Kogud;;;;Pollumeeste Kogud;;;;;;;;;
+EST_conservative_2;Kristlik Rahvaerakond;;;;;;;;;;;;;
+EST_reactionary;Eesti Rojalistlik Partei;;;;;;;;;;;;;
+EST_reactionary_2;Isamaaliit;;;;;;;;;;;;;
+LIV_fascist;Perkonkrusts;;;;;;;;;;;;;
+LIV_communist;Latvijas Komunistiska Partija;;;;;;;;;;;;;
+LIV_socialist_2;Mazinieki;;;;;;;;;;;;;
+LIV_socialist;LSDSP;;;;;;;;;;;;;
+LIV_anarcho_liberal;Latvijas Radikaldemokratu Partija;;;;;;;;;;;;;
+LIV_liberal_2;Blodnieka Partija;;;;;;;;;;;;;
+LIV_liberal;Demokratiskais Centrs;;;;;;;;;;;;;
+LIV_conservative_2;Kristigo Zemnieku un Katolu Partija;;;;;;;;;;;;;
+LIV_conservative;Latviesu Zemnieku Savieniba;;;;;;;;;;;;;
+LIV_reactionary_2;Nacionala Apvieniba;;;;;;;;;;;;;
+LIV_reactionary;Rojalistu Partija;;;;;;;;;;;;;
+URU_liberal_2;Colorados;;;;;;;;;;;;;
+URU_socialist;Partido Socialista;;;;;;;;;;;;;
+URU_communist;Partido Comunista;;;;;;;;;;;;;
+LIT_reactionary;Monarchizmas Frakcija;;;;;;;;;;;;;
+LIT_reactionary_2;Lietuviu Tautininku Sajunga;;;;;;;;;;;;;
+LIT_conservative;Lietuvos Darbo Federacija;;;;;;;;;;;;;
+LIT_conservative_2;LKDP;;;;;;;;;;;;;
+LIT_anarcho_liberal;Tautos Pazangos Partija;;;;;;;;;;;;;
+LIT_liberal;Lietuviu Demokratu Partij;;;;;;;;;;;;;
+LIT_liberal_2;Lietuvos Valstieciu Liaudininku Sajunga;;;;;;;;;;;;;
+LIT_socialist;LSDP;;;;;;;;;;;;;
+LIT_communist;Lietuvos Komunistu Partija;;;;;;;;;;;;;
+LIT_fascist;Lietuvos Sauliu Sajunga;;;;;;;;;;;;;
+EGY_democracy;The Republic of Egypt;;;;;;;;;;;;;
+QUE_ADJ;Quebecois;;;;;;;;;;;;;
+LIB_conservative;Republican Party;;;;;;;;;;;;;
+LIB_conservative_2;Democratic Party;;;;;;;;;;;;;
+LIB_liberal;True Whig Party;;;;;;;;;;;;;
+LIB_liberal_2;Pan-African Party;;;;;;;;;;;;;
+LIB_socialist;African Revolutionary Party;;;;;;;;;;;;;
+LIB_reactionary;Nationalist Party;;;;;;;;;;;;;
+LIB_anarcho_liberal;Radical Party;;;;;;;;;;;;;
+LIB_communist;Communist Party;;;;;;;;;;;;;
+LIB_fascist;Fascist Party;;;;;;;;;;;;;
+WEI;Saxe-Weimar;;;;;;;;;;;;;
+ENG_fascist_dictatorship;The Union of Britain;;;;;;;;;;;;;
+ENG_democracy;The British Commonwealth;;;;;;;;;;;;;
+ENG_presidential_dictatorship;The British Commonwealth;;;;;;;;;;;;;
+ENG_bourgeois_dictatorship;The British Commonwealth;;;;;;;;;;;;;
+shilluk;Shilluk;;;;Shilluk;;;;;;;;;
+YNN_reactionary_2;Confucianist Tusi;;;;;;;;;;;;;
+YNN_liberal_2;Westernizer Tusi;;;;;;;;;;;;;
+YNN_conservative_2;Local Tusi;;;;;;;;;;;;;
+XIN_reactionary_2;Confucianist Faction;;;;;;;;;;;;;
+XIN_conservative_2;Amban Faction;;;;;;;;;;;;;
+XIN_liberal_2;Reformer Faction;;;;;;;;;;;;;
+KOR;Korea;;;;;;;;;;;;;
+KOR_absolute_monarchy;The Kingdom of Joseon;;;;;;;;;;;;;
+KOR_proletarian_dictatorship;DPRK;;;;;;;;;;;;;
+KOR_reactionary;Bandong;;;;;;;;;;;;;
+KOR_liberal;Taewon'gun;;;;;;;;;;;;;
+KOR_liberal_2;Songgyungwan;;;;;;;;;;;;;
+KOR_conservative;Tong Hak;;;;;;;;;;;;;
+KOR_liberal_3;Silhak;;;;;;;;;;;;;
+KOR_anarcho_liberal;Geubjinpa;;;;;;;;;;;;;
+KOR_conservative_2;Wangdangpa;;;;;;;;;;;;;
+KOR_socialist;Sahoe-tang;;;;;;;;;;;;;
+KOR_communist;Choson Kongsantang;;;;;;;;;;;;;
+KOR_fascist;Pasiseuteu Pati;;;;;;;;;;;;;
+MCK;Manchuria;;;;;;;;;;;;;
+MCK_fascist_dictatorship;Manzhouguo;;;;;;;;;;;;;
+MCK_presidential_dictatorship;Fengtian Clique;;;;;;;;;;;;;
+MCK_ADJ;Manchu;;;;;;;;;;;;;
+MCK_presidential_dictatorship_ADJ;Fengtian;;;;;;;;;;;;;
+PROV2281;Esmeraldas;;;;Esmeraldas;;;;;;;;;
+PROV1363;Pakse;;;;Pakse;;;;;;;;;
+PROV1364;Phnom Penh;;;;Phnom Penh;;;;;;;;;
+PROV1464;Jolo;;;;Jolo;;;;;;;;;
+ATJ;Aceh;;;;;;;;;;;;;
+ATJ_ADJ;Acehnese;;;;;;;;;;;;;
+JOH;Johor;;;;;;;;;;;;;
+BRZ_absolute_monarchy;The Empire of Brazil;;;;;;;;;;;;;
+BRZ_prussian_constitutionalism;The Empire of Brazil;;;;;;;;;;;;;
+BRZ_hms_government;The Empire of Brazil;;;;;;;;;;;;;
+MUG_absolute_monarchy;The Mughal Empire;;;;;;;;;;;;;
+MUG_prussian_constitutionalism;The Mughal Empire;;;;;;;;;;;;;
+MUG_fascist_dictatorship;The Gurkani Republic;;;;;;;;;;;;;
+MUG_proletarian_dictatorship;People's Republic of Mughalistan;;;;;;;;;;;;;
+MUG_conservative;Mir Saman;;;;;;;;;;;;;
+MUG_liberal;Hanafi;;;;;;;;;;;;;
+MUG_reactionary;Mir Bakshi;;;;;;;;;;;;;
+MUG_anarcho_liberal;The Radical Party;;;;;;;;;;;;;
+MUG_socialist;The Socialist Party;;;;;;;;;;;;;
+MUG_communist;The Communist Party;;;;;;;;;;;;;
+MUG_fascist;The Fascist Party;;;;;;;;;;;;;
+CAN_liberal;Liberal Party;;;;;;;;;;;;;
+CAN_anarcho_liberal;One Big Union;;;;;;;;;;;;;
+CAN_fascist;National Unity Party;;;;;;;;;;;;;
+BRZ_liberal;Partido Liberal;;;;;;;;;;;;;
+BRZ_conservative;Partido Conservador;;;;;;;;;;;;;
+BRZ_reactionary;Partido Restaurador;;;;;;;;;;;;;
+BRZ_reactionary2;Partido Republicano Riograndense;;;;;;;;;;;;;
+BRZ_conservative_2;Partido Republicano Paulista;;;;;;;;;;;;;
+BRZ_liberal_2;Partido Republicano Carioca;;;;;;;;;;;;;
+BRZ_anarcho_liberal;Partido Anarquista;;;;;;;;;;;;;
+BRZ_socialist;Partido Socialista;;;;;;;;;;;;;
+BRZ_communist;Partido Comunista;;;;;;;;;;;;;
+BRZ_fascist;Acao Integralista Brasileira;;;;;;;;;;;;;
+SWI_communist;Kommunistische Partei;;;;;;;;;;;;;
+SWI_fascist;Nationale Front;;;;;;;;;;;;;
+FRA_fascist;Parti Franciste;;;;;;;;;;;;;
+FRA_reactionary_2;Droite Nationaliste;;;;;;;;;;;;;
+FRA_anarcho_liberal;Republicain Radical;;;;;;;;;;;;;
+GER_fascist;NSDAP;;;;;;;;;;;;;
+POL_fascist;ONR-Falanga;;;;;;;;;;;;;
+HAI_conservative;Parti National;;;;;;;;;;;;;
+HAI_liberal;Parti Liberal;;;;;;;;;;;;;
+HAI_reactionary;Haitien Nationaliste Parti;;;;;;;;;;;;;
+HAI_anarcho_liberal;Parti Radical;;;;;;;;;;;;;
+HAI_socialist;Parti Socialiste;;;;;;;;;;;;;
+HAI_communist;Parti Communiste Haitien;;;;;;;;;;;;;
+HAI_fascist;Parti Fasciste;;;;;;;;;;;;;
+CRO_conservative;Hrvatska Stranka Prava;;;;;;;;;;;;;
+CRO_liberal;Narodna Stranka;;;;;;;;;;;;;
+CRO_reactionary;Nacionalisticka Partija;;;;;;;;;;;;;
+CRO_anarcho_liberal;Anarhisticki Partija;;;;;;;;;;;;;
+CRO_socialist;Socijalisticka Partija;;;;;;;;;;;;;
+CRO_communist;Komunisticka Partija;;;;;;;;;;;;;
+CRO_fascist;Ustasha;;;;;;;;;;;;;
+ABU;United Arab Emirates;;;;;;;;;;;;;
+ABU_ADJ;Emirati;;;;;;;;;;;;;
+ABU_absolute_monarchy;The Trucial States;;;;;;;;;;;;;
+ABU_absolute_monarchy_ADJ;Trucial;;;;;;;;;;;;;
+ABU_bourgeois_dictatorship;United Arab Councils;;;;;;;;;;;;;
+ABU_bourgeois_dictatorship_ADJ;Arabic;;;;;;;;;;;;;
+ABU_fascist_dictatorship;The Emirate;;;;;;;;;;;;;
+ABU_fascist_dictatorship_ADJ;Emirati;;;;;;;;;;;;;
+ABU_proletarian_dictatorship;People's Arabic Republic;;;;;;;;;;;;;
+ABU_proletarian_dictatorship_ADJ;Arabic;;;;;;;;;;;;;
+ARA;Arabia;;;;;;;;;;;;;
+ARA_ADJ;Arabian;;;;;;;;;;;;;
+ARA_reactionary;Al Sa'ud;;;;;;;;;;;;;
+ARA_reactionary2;Al Rashid;;;;;;;;;;;;;
+ARA_conservative;Al Muhafidh;;;;;;;;;;;;;
+ARA_liberal;Al Mutaharir;;;;;;;;;;;;;
+ARA_anarcho_liberal;Al Anarkiliberali;;;;;;;;;;;;;
+ARA_socialist;Al Ishtiraki;;;;;;;;;;;;;
+ARA_communist;Al Shiu'i;;;;;;;;;;;;;
+ARA_fascist;Al Fashi;;;;;;;;;;;;;
+BRU_ADJ;Bruneian;;;;;;;;;;;;;
+CHI;China;;;;;;;;;;;;;
+CLM_fascist_dictatorship;Gran Colombia;;;;;;;;;;;;;
+CLM_absolute_monarchy;New Granada;;;;;;;;;;;;;
+CLM_prussian_constitutionalism;New Granada;;;;;;;;;;;;;
+CLM_hms_government;New Granada;;;;;;;;;;;;;
+CSA_democracy;The Confederate States of America;;;;;;;;;;;;;
+CSA_presidential_dictatorship;The Confederate States of America;;;;;;;;;;;;;
+CSA_bourgeois_dictatorship;The Confederate States of America;;;;;;;;;;;;;
+CSA_absolute_monarchy;The Imperial Confederacy;;;;;;;;;;;;;
+CSA_prussian_constitutionalism;The Imperial Confederacy;;;;;;;;;;;;;
+CSA;The Confederate States of America;;;;;;;;;;;;;
+CSA_fascist_dictatorship;The Confederacy;;;;;;;;;;;;;
+CSA_proletarian_dictatorship;The People's Confederacy;;;;;;;;;;;;;
+DLM;Illyria;;;;Illyria;;;;;;;;;
+DLM_ADJ;Illyrian;;;;Ilirica;;;;;;;;;
+FRA_liberal;Republicain;;;;;;;;;;;;;
+FRA_liberal_2;Union liberale;;;;;;;;;;;;;
+FRA_liberal_3;Republicain liberale;;;;;;;;;;;;;
+FRA_conservative;Orleaniste;;;;;;;;;;;;;
+FRA_conservative_2;Bonapartiste;;;;;;;;;;;;;
+FRA_conservative_3;Republicain modere;;;;;;;;;;;;;
+FRA_conservative_4;Orleaniste;;;;;;;;;;;;;
+FRA_conservative_5;Royaliste;;;;;;;;;;;;;
+GCO;Gran Colombia;;;;;;;;;;;;;
+GCO_ADJ;Colombian;;;;;;;;;;;;;
+GCO_absolute_monarchy;New Granada;;;;;;;;;;;;;
+GCO_prussian_constitutionalism;New Granada;;;;;;;;;;;;;
+GCO_hms_government;New Granada;;;;;;;;;;;;;
+GCO_absolute_monarchy_ADJ;New Granadan;;;;;;;;;;;;;
+GCO_prussian_constitutionalism_ADJ;New Granadan;;;;;;;;;;;;;
+GCO_hms_government_ADJ;New Granadan;;;;;;;;;;;;;
+GXI_presidential_dictatorship;Guangxi Clique;;;;;;;;;;;;;
+HOL_anarcho_liberal;Radicale Partij;;;;;;;;;;;;;
+ITA_reactionary;Fazione Monarchica;;;;;;;;;;;;;
+ITA_conservative;Destra Liberale;;;;;;;;;;;;;
+ITA_liberal;Sinistra Liberale;;;;;;;;;;;;;
+ITA_liberal_2;Partito Repubblicano Italiano;;;;;;;;;;;;;
+ITA_conservative_2;Partito Liberale Italiano;;;;;;;;;;;;;
+ITA_conservative_3;Partito Popolare Italiano;;;;;;;;;;;;;
+ITA_socialist;Partito Socialista Italiano;;;;;;;;;;;;;
+ITA_anarcho_liberal;Estrema Sinistra Liberale;;;;;;;;;;;;;
+ITA_communist;Partito Comunista d'Italia;;;;;;;;;;;;;
+ITA_fascist;Partito Nazionale Fascista;;;;;;;;;;;;;
+ITA_democracy;The Italian Republic;;;;;;;;;;;;;
+ITA_bourgeois_dictatorship_ADJ;Italian;;;;;;;;;;;;;
+ITA_proletarian_dictatorship;The People's Republic of Italy;;;;;;;;;;;;;
+ITA_proletarian_dictatorship_ADJ;Italian;;;;;;;;;;;;;
+JAP_absolute_monarchy;Imperial Japan;;;;;;;;;;;;;
+JAP_reactionary;Handoutou;;;;;;;;;;;;;
+JAP_conservative;Rikken Teiseitou;;;;;;;;;;;;;
+JAP_conservative_2;Rikken Kaishintou;;;;;;;;;;;;;
+JAP_reactionary_2;Handoutou;;;;;;;;;;;;;
+JAP_conservative_3;Tachiagare Nippon;;;;;;;;;;;;;
+JAP_liberal;Aikokusha;;;;;;;;;;;;;
+JAP_socialist;Shakaitou;;;;;;;;;;;;;
+JAP_anarcho_liberal;Ishin Seito Shimpu;;;;;;;;;;;;;
+JAP_communist;Kyousantou;;;;;;;;;;;;;
+JAP_fascist;Kokuhonsha;;;;;;;;;;;;;
+KLM;Kalimantan;;;;Kalimantan;;;;;;;;;
+KLM_ADJ;Kalimantan;;;;Kalimantan;;;;;;;;;
+KTI;Kutai;;;;Kutai;;;;;;;;;
+KTI_ADJ;Kutain;;;;Kutaina;;;;;;;;;
+KTI_conservative;Royal Faction;;;;Facci?n Real;;;;;;;;;
+KTI_liberal;The Liberal Faction;;;;La Facci?n Liberal;;;;;;;;;
+KTI_reactionary;The Nationalist Faction;;;;La Facci?n Nacionalista;;;;;;;;;
+KTI_anarcho_liberal;The Radical Faction;;;;La Facci?n Radical;;;;;;;;;
+KTI_socialist;The Socialist Faction;;;;La Facci?n Socialista;;;;;;;;;
+KTI_communist;The Communist Faction;;;;La Facci?n Comunista;;;;;;;;;
+KTI_fascist;The Fascist Faction;;;;La Facci?n Fascista;;;;;;;;;
+LAN;Lanfang;;;;Lanfang;;;;;;;;;
+LAN_ADJ;Lanfang;;;;Lanfang;;;;;;;;;
+LAN_conservative;Conservative Kongsi;;;;Kongsi conservador;;;;;;;;;
+LAN_liberal;Liberal Kongsi;;;;Kongsi liberal;;;;;;;;;
+LAN_reactionary;Nationalist Kongsi;;;;Kongsi nacionalista;;;;;;;;;
+LAN_anarcho_liberal;Radical Kongsi;;;;Kongsi radical;;;;;;;;;
+LAN_socialist;Socialist Kongsi;;;;Kongsi socialista;;;;;;;;;
+LAN_communist;The Communist Kongsi;;;;Kongsi comunista;;;;;;;;;
+LAN_fascist;Fascist Kongsi;;;;;;;;;;;;;
+LOM_reactionary;Monarchici;;;;;;;;;;;;;
+LOM_liberal;Intransigenti;;;;;;;;;;;;;
+LOM_conservative;Transigenti;;;;;;;;;;;;;
+LOM_socialist;Socialisti;;;;;;;;;;;;;
+LOM_communist;Rivoluzionari;;;;;;;;;;;;;
+LOM_reactionary_2;Cattolici;;;;;;;;;;;;;
+LOM_anarcho_liberal;Radicali;;;;;;;;;;;;;
+LOM_fascist;Fascisti;;;;;;;;;;;;;
+LPL;La Plata;;;;La Plata;;;;;;;;;
+LPL_ADJ;Platinean;;;;Platina;;;;;;;;;
+LPL_fascist_dictatorship_ADJ;Goslingian;;;;;;;;;;;;;
+LPL_fascist_dictatorship;Goslingia;;;;;;;;;;;;;
+MOD_reactionary;Restaurazionisti;;;;;;;;;;;;;
+MOD_conservative;Moderati ;;;;;;;;;;;;;
+MOD_liberal;Riformisti ;;;;;;;;;;;;;
+MOD_liberal_2;Liberali;;;;;;;;;;;;;
+MOD_socialist;Socialisti;;;;;;;;;;;;;
+MOD_conservative_2;Popolari;;;;;;;;;;;;;
+MOD_anarcho_liberal;Radicali;;;;;;;;;;;;;
+MOD_communist;Comunisti;;;;;;;;;;;;;
+MOD_fascist;Fascisti;;;;;;;;;;;;;
+NEJ_absolute_monarchy;Nejd Emirate;;;;;;;;;;;;;
+NEJ_prussian_constitutionalism;Nejd Emirate;;;;;;;;;;;;;
+NEJ_hms_government;Nejd Emirate;;;;;;;;;;;;;
+NEJ_absolute_monarchy_ADJ;Saudi;;;;;;;;;;;;;
+NEJ_prussian_constitutionalism_ADJ;Saudi;;;;;;;;;;;;;
+NEJ_hms_government_ADJ;Saudi;;;;;;;;;;;;;
+NEJ_conservative;Al-Sa'ud;;;;;;;;;;;;;
+NEJ_liberal;Al-Ahrar;;;;;;;;;;;;;
+NEJ_reactionary;Al-Da'wa al-Wahhabiyyah;;;;;;;;;;;;;
+NEJ_anarcho_liberal;Al-Hizb al-Metterf;;;;;;;;;;;;;
+NEJ_socialist;Hizb al-Ba'ath al-'Arabi al-Ishtiraki;;;;;;;;;;;;;
+NEJ_communist;Al-Hizb al-Shuyu'i;;;;;;;;;;;;;
+NEJ_fascist;Al-Hizb al-Fashy;;;;;;;;;;;;;
+NOR_liberal;Liberals;;;;;;;;;;;;;
+NOR_liberal_2;Venstre;;;;;;;;;;;;;
+NOR_conservative;Conservatives;;;;;;;;;;;;;
+NOR_conservative_2;Hoyre;;;;;;;;;;;;;
+NOR_conservative_3;Moderate Venstre;;;;;;;;;;;;;
+NOR_conservative_4;Samlingspartiet;;;;;;;;;;;;;
+NOR_conservative_5;Frisinnede Venstre;;;;;;;;;;;;;
+NOR_conservative_6;Kristelig Folkeparti;;;;;;;;;;;;;
+NOR_anarcho_liberal_2;Arbeiderdemokratene;;;;;;;;;;;;;
+NOR_socialist;Socialists;;;;;;;;;;;;;
+NOR_socialist_2;Det Norske Arbeiderparti;;;;;;;;;;;;;
+NOR_socialist_3;Norges Socialdemokratiske Arbeiderparti;;;;;;;;;;;;;
+NOR_socialist_4;Bondepartiet;;;;;;;;;;;;;
+NOR_communist_2;Det Norske Arbeiderparti;;;;;;;;;;;;;
+NOR_communist_3;Norges Kommunistiske Parti;;;;;;;;;;;;;
+NOR_fascist;Nationalists;;;;;;;;;;;;;
+NOR_fascist_2;Nasjonal Samling;;;;;;;;;;;;;
+CZH_fascist;Vlajka;;;;;;;;;;;;;
+SLV_fascist;Slovenska Ludova Strana;;;;;;;;;;;;;
+BEL_fascist;Parti Rexiste;;;;;;;;;;;;;
+YEM_proletarian_dictatorship;People's Republic of Yemen;;;;;;;;;;;;;
+PAR_reactionary;Restaurazionisti;;;;;;;;;;;;;
+PAR_conservative;Moderati ;;;;;;;;;;;;;
+PAR_liberal;Riformisti ;;;;;;;;;;;;;
+PAR_liberal_2;Liberali;;;;;;;;;;;;;
+PAR_socialist;Socialisti;;;;;;;;;;;;;
+PAR_conservative_2;Popolari;;;;;;;;;;;;;
+PAR_anarcho_liberal;Radicali;;;;;;;;;;;;;
+PAR_communist;Comunisti;;;;;;;;;;;;;
+PAR_fascist;Fascisti;;;;;;;;;;;;;
+PER;Iran;;;;;;;;;;;;;
+PER_ADJ;Iranian;;;;;;;;;;;;;
+PER_absolute_monarchy;Persia;;;;;;;;;;;;;
+PER_absolute_monarchy_ADJ;Persian;;;;;;;;;;;;;
+PER_prussian_constitutionalism;The Imperial State of Iran;;;;;;;;;;;;;
+PER_hms_government;The Imperial State of Iran;;;;;;;;;;;;;
+PER_bourgeois_dictatorship;The Iranian Free State;;;;;;;;;;;;;
+PER_communist;Tudeh Party of Iran;;;;;;;;;;;;;
+PER_conservative;Shahist Faction;;;;;;;;;;;;;
+PER_reactionary;Ulama Faction;;;;;;;;;;;;;
+PER_anarcho_liberal;Bazaari Faction;;;;;;;;;;;;;
+PER_socialist;Hizb-e Socialyist;;;;;;;;;;;;;
+PER_fascist;SUMKA;;;;;;;;;;;;;
+PER_liberal;Constitutionalist Party;;;;;;;;;;;;;
+PER_liberal_2;National Front;;;;;;;;;;;;;
+PAN_absolute_monarchy;The Sikh Empire;;;;;;;;;;;;;
+PAN_prussian_constitutionalism;The Sikh Empire;;;;;;;;;;;;;
+PAN_absolute_monarchy_ADJ;Sikh;;;;;;;;;;;;;
+PAN_prussian_constitutionalism_ADJ;Sikh;;;;;;;;;;;;;
+PAN_fascist_dictatorship;Khalistan;;;;;;;;;;;;;
+PAN_fascist_dictatorship_ADJ;Khalistani;;;;;;;;;;;;;
+PLC;The Polish-Lithuanian Commonwealth;;;;;;;;;;;;;
+PLC_ADJ;Polish-Lithuanian;;;;;;;;;;;;;
+PLC_proletarian_dictatorship;The Polish-Lithuanian Republic;;;;;;;;;;;;;
+PLC_fascist_dictatorship;The Polish-Lithuanian Republic;;;;;;;;;;;;;
+PLC_presidential_dictatorship;The Polish-Lithuanian Republic;;;;;;;;;;;;;
+PLC_democracy;Poland-Lithuania;;;;;;;;;;;;;
+CHI_conservative;Junjichu;;;;;;;;;;;;;
+CHI_conservative_2;Zhiqiang Yundong;;;;;;;;;;;;;
+CHI_conservative_3;Beiyang;;;;;;;;;;;;;
+CHI_conservative_4;Kuomintang;;;;;;;;;;;;;
+CHI_conservative_5;Minzhudang;;;;;;;;;;;;;
+CHI_liberal;Gai Liang Pai;;;;;;;;;;;;;
+CHI_liberal_2;Xingzhonghui;;;;;;;;;;;;;
+CHI_liberal_3;Zhongguo Minzhu Tongmeng;;;;;;;;;;;;;
+CHI_liberal_4;Yang Wu Pai;;;;;;;;;;;;;
+CHI_reactionary;Kongjiao Yundong;;;;;;;;;;;;;
+CHI_reactionary_2;Jenbudang;;;;;;;;;;;;;
+CHI_anarcho_liberal;Zhongguo Minzhu Jianguo Hue;;;;;;;;;;;;;
+CHI_socialist;Zhongguo Guojia Shehui Dang;;;;;;;;;;;;;
+CHI_communist;Zhongguo Gongchandang;;;;;;;;;;;;;
+CHI_fascist;Kai-tsu P'ai;;;;;;;;;;;;;
+RHI;Rhineland;;;;Renania;;;;;;;;;
+RHI_ADJ;Rhinelander;;;;Palatina;;;;;;;;;
+RHI_liberal;Liberaldem. Partei;;;;Liberaldem. Partei;;;;;;;;;
+RHI_conservative;Zentrumspartei;;;;Zentrumspartei;;;;;;;;;
+RHI_liberal_2;Nationalliberale;;;;Nationalliberale;;;;;;;;;
+RHI_liberal_3;Freisinnige Partei;;;;Freisinnige Partei;;;;;;;;;
+RHI_socialist;Deutscher Arbeiterverein;;;;Deutscher Arbeiterverein;;;;;;;;;
+RHI_socialist_2;Sozialdem. Arbeiterpartei;;;;Sozialdem. Arbeiterpartei;;;;;;;;;
+RHI_socialist_3;Sozial. Arbeiterpartei;;;;Sozial. Arbeiterpartei;;;;;;;;;
+RHI_reactionary;Nationale Partei;;;;Nationale Partei;;;;;;;;;
+RHI_conservative_2;Konservative Partei;;;;Konservative Partei;;;;;;;;;
+RHI_conservative_3;Christsoz. Arbeiterpartei;;;;Christsoz. Arbeiterpartei;;;;;;;;;
+RHI_anarcho_liberal;Radical Arbeiterpartei;;;;Radical Arbeiterpartei;;;;;;;;;
+RHI_communist;Communist Arbeiterpartei;;;;Communist Arbeiterpartei;;;;;;;;;
+RHI_fascist;NSDP;;;;NSDP;;;;;;;;;
+RHO_democracy;Rhodesia;;;;;;;;;;;;;
+RUT_proletarian_dictatorship;West Ukrainian People's Republic;;;;;;;;;;;;;
+RUT_proletarian_dictatorship_ADJ;West Ukrainian;;;;;;;;;;;;;
+RUT_democracy;West Ukraine;;;;;;;;;;;;;
+RUT_democracy_ADJ;West Ukrainian;;;;;;;;;;;;;
+RUT_presidential_dictatorship;West Ukraine;;;;;;;;;;;;;
+RUT_presidential_dictatorship_ADJ;West Ukrainian;;;;;;;;;;;;;
+SAR_reactionary;Restaurazionisti;;;;;;;;;;;;;
+SAR_conservative;Moderati;;;;;;;;;;;;;
+SAR_liberal;Riformisti;;;;;;;;;;;;;
+SAR_liberal_2;Liberali;;;;;;;;;;;;;
+SAR_socialist;Socialisti;;;;;;;;;;;;;
+SAR_conservative_2;Popolari;;;;;;;;;;;;;
+SAR_anarcho_liberal;Radicali;;;;;;;;;;;;;
+SAR_communist;Comunisti;;;;;;;;;;;;;
+SAR_fascist;Fascisti;;;;;;;;;;;;;
+SAK;Siak;;;;Siak;;;;;;;;;
+SAK_ADJ;Siak;;;;Siak;;;;;;;;;
+SLW;Celebes;;;;celebesense;;;;;;;;;
+SLW_ADJ;Sulawesian;;;;Celebesense;;;;;;;;;
+SLW_absolute_monarchy;Bone Sultanate;;;;Sultanato de Bone;;;;;;;;;
+SLW_prussian_constitutionalism;Bone Sultanate;;;;Sultanato de Bone;;;;;;;;;
+SLW_hms_government;Bone Sultanate;;;;Sultanato de Bone;;;;;;;;;
+SUL;Sulu;;;;Jolo;;;;;;;;;
+SUL_ADJ;Sulu;;;;Joloana;;;;;;;;;
+SUL_conservative;Conservatist Faction;;;;Facci?n Conservadora;;;;;;;;;
+SUL_liberal;Reformist Faction;;;;Facci?n Reformista;;;;;;;;;
+SUL_socialist;Progressive Faction;;;;Facci?n Progresista;;;;;;;;;
+SUL_communist;Communist Faction;;;;Facci?n Comunista;;;;;;;;;
+SUL_reactionary;Nationalist Faction;;;;Facci?n Nacionalista;;;;;;;;;
+SUL_anarcho_liberal;Radical Faction;;;;Facci?n Radical;;;;;;;;;
+SUL_fascist;Fascist Faction;;;;Fracci?n Fascista;;;;;;;;;
+SWK;Sarawak;;;;Sarawak;;;;;;;;;
+SWK_ADJ;Sarawakian;;;;Sarawakiana;;;;;;;;;
+SWK_fascist_dictatorship;Borneo Republic;;;;Rep?blica de Borneo;;;;;;;;;
+SWK_fascist_dictatorship_ADJ;Bornean;;;;Borneana;;;;;;;;;
+SWK_conservative;Rajah Faction;;;;Facci?n Raj?;;;;;;;;;
+SWK_liberal;The Liberal Faction;;;;La Facci?n Liberal;;;;;;;;;
+SWK_reactionary;The Nationalist Faction;;;;La Facci?n Nacionalista;;;;;;;;;
+SWK_anarcho_liberal;The Radical Faction;;;;La Facci?n Radical;;;;;;;;;
+SWK_socialist;The Socialist Faction;;;;La Facci?n Socialista;;;;;;;;;
+SWK_communist;The Communist Faction;;;;La Facci?n Comunista;;;;;;;;;
+SWK_fascist;The Borneo Faction;;;;La Facci?n de Borneo;;;;;;;;;
+SIE;Transylvania;;;;;;;;;;;;;
+SIE_ADJ;Transylvanian;;;;;;;;;;;;;
+SXI;Shanxi;;;;;;;;;;;;;
+SXI_presidential_dictatorship;Shanxi Clique;;;;;;;;;;;;;
+TRE_reactionary;Monarchici;;;;;;;;;;;;;
+TRE_liberal;Intransigenti;;;;;;;;;;;;;
+TRE_conservative;Transigenti;;;;;;;;;;;;;
+TRE_socialist;Socialisti;;;;;;;;;;;;;
+TRE_communist;Rivoluzionari;;;;;;;;;;;;;
+TRE_reactionary_2;Cattolici;;;;;;;;;;;;;
+TRE_anarcho_liberal;Radicali;;;;;;;;;;;;;
+TRE_fascist;Fascisti;;;;;;;;;;;;;
+TUR;Turkey;;;;;;;;;;;;;
+TUR_ADJ;Turkish;;;;;;;;;;;;;
+TUR_absolute_monarchy;The Ottoman Empire;;;;;;;;;;;;;
+TUR_absolute_monarchy_ADJ;Ottoman;;;;;;;;;;;;;
+TUR_prussian_constitutionalism;The Ottoman Empire;;;;;;;;;;;;;
+TUR_prussian_constitutionalism_ADJ;Ottoman;;;;;;;;;;;;;
+TUR_hms_government;The Ottoman Empire;;;;;;;;;;;;;
+TUR_hms_government_ADJ;Ottoman;;;;;;;;;;;;;
+TUR_bourgeois_dictatorship;Turkish Free State;;;;;;;;;;;;;
+TUR_proletarian_dictatorship;Turkish Socialist Republic;;;;;;;;;;;;;
+TUR_proletarian_dictatorship_ADJ;Turkish;;;;;;;;;;;;;
+TUR_reactionary;Nizam-i Alem;;;;;;;;;;;;;
+TUR_reactionary_2;Ittihad-i Muhammedi Firkasi;;;;;;;;;;;;;
+TUR_reactionary_3;Halaskar Zabitan;;;;;;;;;;;;;
+TUR_reactionary_4;Fedailer Cemiyeti;;;;;;;;;;;;;
+TUR_conservative;Hukumet-i Humayun;;;;;;;;;;;;;
+TUR_conservative_2;Selamet-i Osmaniye;;;;;;;;;;;;;
+TUR_conservative_3;Hurriyet ve Itilaf Firkasi;;;;;;;;;;;;;
+TUR_liberal_2;Tanzimat Firkasi;;;;;;;;;;;;;
+TUR_liberal_4;Osmanli Demokrat Firkasi;;;;;;;;;;;;;
+TUR_liberal_5;Halk Firkasi;;;;;;;;;;;;;
+TUR_socialist;Osmanli Koylu ve Amele Firkasi;;;;;;;;;;;;;
+TUR_socialist_3;Sosyalist Firka;;;;;;;;;;;;;
+TUR_communist;Ihtilalci Avam Firkasi;;;;;;;;;;;;;
+TUR_communist_2;Komunist Firka;;;;;;;;;;;;;
+TUR_communist_3;Halk Istirakiyun Firkasi;;;;;;;;;;;;;
+TUR_liberal;Ittihat ve Terakki Firkasi;;;;;;;;;;;;;
+TUR_liberal_3;Yeni Osmanlilar Cemiyeti;;;;;;;;;;;;;
+TUR_socialist_2;Osmanli Ahali Firkasi;;;;;;;;;;;;;
+TUR_anarcho_liberal;Osmanli Ahrar Firkasi;;;;;;;;;;;;;
+TUR_fascist;Ittihat ve Terakki Firkasi;;;;;;;;;;;;;
+TUR_fascist_2;Turk Ocagi;;;;;;;;;;;;;
+TUR_fascist_3;Milli Firka;;;;;;;;;;;;;
+TUS_reactionary;Restaurazionisti;;;;;;;;;;;;;
+TUS_conservative;Moderati ;;;;;;;;;;;;;
+TUS_liberal;Riformisti ;;;;;;;;;;;;;
+TUS_liberal_2;Liberali;;;;;;;;;;;;;
+TUS_socialist;Socialisti;;;;;;;;;;;;;
+TUS_conservative_2;Popolari;;;;;;;;;;;;;
+TUS_anarcho_liberal;Radicali;;;;;;;;;;;;;
+TUS_communist;Comunisti;;;;;;;;;;;;;
+TUS_fascist;Fascisti;;;;;;;;;;;;;
+USA;The United States of America;;;;;;;;;;;;;
+USA_bourgeois_dictatorship;The United States of America;;;;;;;;;;;;;
+USA_absolute_monarchy;The American Empire;;;;;;;;;;;;;
+USA_prussian_constitutionalism;The American Empire;;;;;;;;;;;;;
+USA_hms_government;The Kingdom of America;;;;;;;;;;;;;
+USA_proletarian_dictatorship;The People's Republic of America;;;;;;;;;;;;;
+VEN_democracy;The Republic of San Marco;;;;;;;;;;;;;
+VEN_presidential_dictatorship;The Republic of San Marco;;;;;;;;;;;;;
+VEN_reactionary;Monarchici;;;;;;;;;;;;;
+VEN_liberal;Intransigenti;;;;;;;;;;;;;
+VEN_conservative;Transigenti;;;;;;;;;;;;;
+VEN_socialist;Socialisti;;;;;;;;;;;;;
+VEN_communist;Rivoluzionari;;;;;;;;;;;;;
+VEN_reactionary_2;Cattolici;;;;;;;;;;;;;
+VEN_anarcho_liberal;Radicali;;;;;;;;;;;;;
+VEN_fascist;Fascisti;;;;;;;;;;;;;
+WES;Westfalen;;;;;;;;;;;;;
+WES_ADJ;Westphalian ;;;;;;;;;;;;;
+WES_liberal;Liberaldem. Partei;;;;;;;;;;;;;
+WES_conservative;Zentrumspartei;;;;;;;;;;;;;
+WES_liberal_2;Nationalliberale ;;;;;;;;;;;;;
+WES_liberal_3;Freisinnige Partei;;;;;;;;;;;;;
+WES_socialist;Deutscher Arbeiterverein;;;;;;;;;;;;;
+WES_socialist_2;Sozialdem. Arbeiterpartei ;;;;;;;;;;;;;
+WES_socialist_3;Sozial. Arbeiterpartei ;;;;;;;;;;;;;
+WES_reactionary;Nationale Partei;;;;;;;;;;;;;
+WES_conservative_2;Konservative Partei;;;;;;;;;;;;;
+WES_conservative_3;Christsoz. Arbeiterpartei;;;;;;;;;;;;;
+WES_anarcho_liberal;Radical Arbeiterpartei;;;;;;;;;;;;;
+WES_communist;Communist Arbeiterpartei;;;;;;;;;;;;;
+WES_fascist;NSDP;;;;;;;;;;;;;
+XBI_ADJ;Qinghai;;;;;;;;;;;;;
+XBI_presidential_dictatorship;Ma Clique;;;;;;;;;;;;;
+XBI_presidential_dictatorship_ADJ;Hui;;;;;;;;;;;;;
+XBI_reactionary_2;Confucianist Faction;;;;;;;;;;;;;
+XBI_conservative_2;Amban Faction;;;;;;;;;;;;;
+XBI_liberal_2;Reformer Faction;;;;;;;;;;;;;
+XIN_presidential_dictatorship;Xinjiang Clique;;;;;;;;;;;;;
+YNN_presidential_dictatorship;Yunnan Clique;;;;;;;;;;;;;
+DEN;Denmark-Norway;;;;Denmark-Norway;;;;;;;;;
