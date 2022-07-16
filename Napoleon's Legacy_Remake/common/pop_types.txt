@@ -1035,7 +1035,7 @@ assimilation_chance = {
 	factor = 1
 
 
-#IMPORTANT DO NOT DELETE - blocks assimilation if the state is colonial and/or the country trying to assimilate pops is unciv and/or the pop is below 100% life needs.	
+#IMPORTANT DO NOT DELETE - blocks assimilation if the state is colonial and/or the country trying to assimilate pops is unciv and/or the pop is Afro-American in the USA or Texas.	
 	modifier = {
 		factor = -1000
 		OR = {
@@ -1045,11 +1045,9 @@ assimilation_chance = {
 					is_culture_group = american_cultures
 				}
 			}
-			OR = {
-				state_scope = { is_colonial = yes }
-				country = {	
-					civilized = no
-				}
+			state_scope = { is_colonial = yes }
+			country = {	
+				civilized = no
 			}
 		}
 	}

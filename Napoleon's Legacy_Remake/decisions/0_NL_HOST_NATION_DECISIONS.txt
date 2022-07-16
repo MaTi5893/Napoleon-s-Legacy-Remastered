@@ -1,0 +1,25 @@
+political_decisions = {
+	the_setup_be_like = { 
+		potential = { 
+			NOT = { has_global_flag = setupset }
+			ai = yes
+			exists = yes
+		}
+		allow = { }
+		effect = { 	
+			set_global_flag = setupset
+			JAN = { country_event = 600420 }
+		} 
+	}
+	host_options = { 
+		picture = host_nation
+		potential = { 
+			tag = LCT 
+			ai = no 
+		}
+		allow = { } 
+		effect = {
+			country_event = 600421
+		}
+	}
+}

@@ -1,12 +1,22 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-ANY_ALL;Any province;;;;Cualquier provincia;;;;;;;;x
-HAS_NOT_GOODS;produces ;;;;produce;;;;;;;;x
-IS_IN_REGION; is in the region ;;;;está en la región;;;;;;;;x
-TRIGGER_CIV_PROGRESS_LESS;Civilization progress: §Y50§W%;;;;Progreso de la civilización: §Y50§W%;;;;;;;;x
-MAJORITY_IS_NOT;Majority of the population is not ;;;;La mayoría de la población no es;;;;;;;;x
-nationalist_agitation;Nationalist Agitation;;;;Agitación nacionalista;;;;;;;;;
-nationalist_agitation_desc;Nationalists are active in the province, stirring up trouble with random acts of violence. If left unchecked, they may rise in rebellion against us.;;;;Los nacionalistas están activos en la provincia, provocando problemas con actos de violencia al azar. Si no se les controla, pueden rebelarse contra nosotros.;;;;;;;;;
-integration_refusal;No Integration;;;;No hay integración;;;;;;;;;
-integration_refusal_desc;The province is not being integrated into the rest of the country, and being allowed to maintain its separate identity.;;;;La provincia no se integra en el resto del país y se le permite mantener su identidad separada.;;;;;;;;;
-core_integration;Core Integration;;;;Integración del núcleo;;;;;;;;;
-core_integration_desc;The province is being integrated into the rest of the country, a slow process that may cause problems here.;;;;La provincia se está integrando en el resto del país, un proceso lento que puede causar problemas aquí.;;;;;;;;;
+####Buildings;;;;;;;x
+leather_factory;Industrial Tannery;;;;Curtiduría industrial;;;x
+leather_factory_desc;Cattle are processed into leather products here.;;;;Aquí se transforma el ganado en productos de cuero.;;;x
+wool_fabric_factory;Wool Fabric Factory;;;;Fábrica de tejidos de lana;;;x
+wool_fabric_factory_desc;Wool is processed into fabric here.;;;;Aquí se transforma la lana en tejido.;;;x
+fabric_factory;Cotton Fabric Factory;;;;Fábrica de tejidos de algodón;;;x
+fabric_factory_desc;Cotton is processed into fabric here.;;;;Aquí se transforma el algodón en tejido.;;;x
+synthetic_rubber_factory;Synthetic Rubber Factory;;;;Fábrica de caucho sintético;;;x
+synthetic_rubber_factory_desc;Synthetic rubber, like other polymers, is made from various petroleum-based monomers. A mixture of coal and oil is added together and then refined to produce the flammable hydrocarbon naphtha, which is then combined with natural gas to produce monomers. Chemical additives bond together with the monomers to form chains of polymers and the resulting product then undergoes vulcanisation in order to produce synthetic rubber.;;;;El caucho sintético, al igual que otros polímeros, se fabrica a partir de diversos monómeros derivados del petróleo. Se anade una mezcla de carbón y petróleo y se refina para producir el hidrocarburo inflamable nafta, que luego se combina con gas natural para producir monómeros. Los aditivos químicos se unen a los monómeros para formar cadenas de polímeros y el producto resultante se somete a la vulcanización para producir caucho sintético.;;;x
+####Other events;;;;;;x
+EVTNAME776801;Colonial Tech Inheritance;;;;Herencia tecnológica colonial;;;x
+EVTDESC776801;Uncivilized Puppets gain basic industrial techs to further the out-sourcing of resources.;;;;Los títeres incivilizados adquieren tecnologías industriales básicas para fomentar la extracción de recursos.;;;x
+EVTOPTA776801;Isn't this just exploitation of our natural resources?;;;;?No es esto sólo la explotación de nuestros recursos naturales?;;;x
+776405;Chinese Pop Nerf;;;;Pop Nerf chino;;;x
+EVTDESC776405;China gets nerfs to their large population to help with balance & late-game lag.;;;;China recibe nerfs a su gran población para ayudar con el equilibrio y el lag del juego tardío.;;;x
+EVTOPTA776405;Damn the acts of attempting to balance Asia.;;;;Malditos sean los actos de intentar equilibrar Asia.;;;x
+####Modifiers;;;;;;;x
+help_ai;Moderate Boost to AI Economy;;;;Impulso moderado a la economía de la IA;;;x
+player_unciv_mobilization;Player Controlled Uncivilized Nation;;;;Nación incivilizada controlada por un jugador;;;x
+tariff_efficiency_boost;Tariff Hotfix Boost;;;;Mejora en la eficiencia en las tarifas;;;x
+fairer_taxation;Taxation Relief;Allegement de la fiscalite;Besteuerung Relief;;Alivio de impuestos;;;;;;;x

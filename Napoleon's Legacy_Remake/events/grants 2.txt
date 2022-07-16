@@ -63,49 +63,58 @@ country_event = {
 	option = {
 	name = "1000 pounds"
 	ai_chance = {factor = 100}
-	treasury = -1000
+	random_country = { limit = { tag = THIS money = 1000 } treasury = -1000
 	FROM = {treasury = 1000}
+	}
 	}
 	option = {
 	name = "2000 pounds"
-	treasury = -2000
+	random_country = { limit = { tag = THIS money = 2000 } treasury = -2000
 	FROM = {treasury = 2000}
+	}
 	}
 	option = {
 	name = "3000 pounds"
-	treasury = -3000
+	random_country = { limit = { tag = THIS money = 3000 } treasury = -3000
 	FROM = {treasury = 3000}
 	}  
+	}
 	option = {
 	name = "4000 pounds"
-	treasury = -4000
+	random_country = { limit = { tag = THIS money = 4000 } treasury = -4000
 	FROM = {treasury = 4000}
 	}  
+	}
 	option = {
 	name = "5000 pounds"
-	treasury = -5000
+	random_country = { limit = { tag = THIS money = 5000 } treasury = -5000
 	FROM = {treasury = 5000}
 	}  
+	}
 	option = {
 	name = "6000 pounds"
-	treasury = -6000
+	random_country = { limit = { tag = THIS money = 6000 } treasury = -6000
 	FROM = {treasury = 6000}
-	}  
+	}  	
+	}
 	option = {
 	name = "7000 pounds"
-	treasury = -7000
+	random_country = { limit = { tag = THIS money = 7000 } treasury = -7000
 	FROM = {treasury = 7000}
-	}  
+	}  	
+	}
 	option = {
 	name = "8000 pounds"
-	treasury = -8000
+	random_country = { limit = { tag = THIS treasury = 8000 } treasury = -8000
 	FROM = {treasury = 8000}
 	}  
+	}
 	option = {
 	name = "9000 pounds"
-	treasury = -9000
-	FROM = {treasury = 9000}
+	random_country = { limit = { tag = THIS money = 9000 } treasury = -9000
+	FROM = {money = 9000}
 	}  
+	}
 }
 
 country_event = {
@@ -118,50 +127,59 @@ country_event = {
 	name = "0 pounds"
 	}
 	option = {
-	name = "10000 pounds"
+	name = "10,000 pounds"
 	ai_chance = {factor = 100}
-	treasury = -10000
+	random_country = { limit = { tag = THIS money = 10000 } treasury = -10000
 	FROM = {treasury = 10000}
 	}
-	option = {
-	name = "20000 pounds"
-	treasury = -20000
-	FROM = {treasury = 20000}
 	}
 	option = {
-	name = "30000 pounds"
-	treasury = -30000
+	name = "20,000 pounds"
+	random_country = { limit = { tag = THIS money = 20000 } treasury = -20000
+	FROM = {treasury = 20000}
+	}
+	}
+	option = {
+	name = "30,000 pounds"
+	random_country = { limit = { tag = THIS money = 30000 } treasury = -30000
 	FROM = {treasury = 30000}
 	}  
+	}
 	option = {
-	name = "40000 pounds"
-	treasury = -40000
+	name = "40,000 pounds"
+	random_country = { limit = { tag = THIS money = 40000 } treasury = -40000
 	FROM = {treasury = 40000}
 	}  
+	}
 	option = {
-	name = "50000 pounds"
-	treasury = -50000
+	name = "50,000 pounds"
+	random_country = { limit = { tag = THIS money = 50000 } treasury = -50000
 	FROM = {treasury = 50000}
 	}  
+	}
 	option = {
-	name = "60000 pounds"
-	treasury = -60000
+	name = "60,000 pounds"
+	random_country = { limit = { tag = THIS money = 60000 } treasury = -60000
 	FROM = {treasury = 60000}
+	}
 	}  
 	option = {
-	name = "70000 pounds"
-	treasury = -70000
+	name = "70,000 pounds"
+	random_country = { limit = { tag = THIS money = 70000 } treasury = -70000
 	FROM = {treasury = 70000}
+	}
 	}  
 	option = {
-	name = "80000 pounds"
-	treasury = -80000
+	name = "80,000 pounds"
+	random_country = { limit = { tag = THIS money = 80000 } treasury = -80000
 	FROM = {treasury = 80000}
+	}
 	}  
 	option = {
-	name = "90000 pounds"
-	treasury = -90000
-	FROM = {treasury = 90000}
+	name = "90,000 pounds"
+	random_country = { limit = { tag = THIS money = 90000 } treasury = -90000
+	FROM = {money = 90000}
+	}
 	}  
 }
 
@@ -175,50 +193,59 @@ country_event = {
 	name = "0 pounds"
 	}
 	option = {
-	name = "100000 pounds"
+	name = "100,000 pounds"
 	ai_chance = {factor = 100}
-	treasury = -100000
+	random_country = { limit = { tag = THIS money = 100000 } treasury = -100000
 	FROM = {treasury = 100000}
 	}
-	option = {
-	name = "200000 pounds"
-	treasury = -200000
-	FROM = {treasury = 200000}
 	}
 	option = {
-	name = "300000 pounds"
-	treasury = -300000
+	name = "200,000 pounds"
+	random_country = { limit = { tag = THIS money = 200000 } treasury = -200000
+	FROM = {treasury = 200000}
+	}
+	}
+	option = {
+	name = "300,000 pounds"
+	random_country = { limit = { tag = THIS money = 300000 } treasury = -300000
 	FROM = {treasury = 300000}
+	}
 	}  
 	option = {
-	name = "400000 pounds"
-	treasury = -400000
+	name = "400,000 pounds"
+	random_country = { limit = { tag = THIS money = 400000 } treasury = -400000
 	FROM = {treasury = 400000}
+	}
 	}  
 	option = {
-	name = "500000 pounds"
-	treasury = -500000
+	name = "500,000 pounds"
+	random_country = { limit = { tag = THIS money = 500000 } treasury = -500000
 	FROM = {treasury = 500000}
+	}
 	}  
 	option = {
-	name = "600000 pounds"
-	treasury = -600000
+	name = "600,000 pounds"
+	random_country = { limit = { tag = THIS money = 600000 } treasury = -600000
 	FROM = {treasury = 600000}
+	}
 	}  
 	option = {
-	name = "700000 pounds"
-	treasury = -700000
+	name = "700,000 pounds"
+	random_country = { limit = { tag = THIS money = 700000 } treasury = -700000
 	FROM = {treasury = 700000}
+	}
 	}  
 	option = {
-	name = "800000 pounds"
-	treasury = -800000
+	name = "800,000 pounds"
+	random_country = { limit = { tag = THIS money = 800000 } treasury = -800000
 	FROM = {treasury = 800000}
+	}
 	}  
 	option = {
-	name = "900000 pounds"
-	treasury = -900000
-	FROM = {treasury = 900000}
+	name = "900,000 pounds"
+	random_country = { limit = { tag = THIS money = 900000 } treasury = -900000
+	FROM = {money = 900000}
+	}
 	}  
 }
 
@@ -232,51 +259,57 @@ country_event = {
 	name = "0 pounds"
 	}
 	option = {
-	name = "1000000 pounds"
+	name = "1,000,000 pounds"
 	ai_chance = {factor = 100}
+	random_country = { limit = { tag = THIS money = 1000000 } money = -1000000
+	FROM = {money = 1000000}
+	}
+	}
+	option = {
+	name = "2,000,000 pounds"
+	random_country = { limit = { tag = THIS money = 2000000 } money = -2000000
+	FROM = {money = 2000000}
+	}
+	}
+	option = {
+	name = "3,000,000 pounds"
+	random_country = { limit = { tag = THIS money = 3000000 } money = -2000000
+	FROM = {money = 2000000}
 	money = -1000000
 	FROM = {money = 1000000}
 	}
+	}  
 	option = {
-	name = "2000000 pounds"
+	name = "4,000,000 pounds"
+	random_country = { limit = { tag = THIS money = 4000000 } money = -2000000
+	FROM = {money = 2000000}
 	money = -2000000
 	FROM = {money = 2000000}
 	}
-	option = {
-	name = "3000000 pounds"
-	money = -2000000
-	FROM = {money = 2000000}
-	money = -1000000
-	FROM = {money = 1000000}
 	}  
 	option = {
-	name = "4000000 pounds"
-	money = -2000000
-	FROM = {money = 2000000}
-	money = -2000000
-	FROM = {money = 2000000}
-	}  
-	option = {
-	name = "5000000 pounds"
-	money = -2000000
+	name = "5,000,000 pounds"
+	random_country = { limit = { tag = THIS money = 5000000 } money = -2000000
 	FROM = {money = 2000000}
 	money = -2000000
 	FROM = {money = 2000000}
 	money = -1000000
 	FROM = {money = 1000000}
+	}
 	}  
 	option = {
-	name = "6000000 pounds"
-	money = -2000000
+	name = "6,000,000 pounds"
+	random_country = { limit = { tag = THIS money = 6000000 } money = -2000000
 	FROM = {money = 2000000}
 	money = -2000000
 	FROM = {money = 2000000}
 	money = -2000000
 	FROM = {money = 2000000}
+	}
 	}  
 	option = {
-	name = "7000000 pounds"
-	money = -2000000
+	name = "7,000,000 pounds"
+	random_country = { limit = { tag = THIS money = 7000000 } money = -2000000
 	FROM = {money = 2000000}
 	money = -2000000
 	FROM = {money = 2000000}
@@ -284,10 +317,11 @@ country_event = {
 	FROM = {money = 2000000}
 	money = -1000000
 	FROM = {money = 1000000}
+	}
 	}  
 	option = {
-	name = "8000000 pounds"
-	money = -2000000
+	name = "8,000,000 pounds"
+	random_country = { limit = { tag = THIS money = 8000000 } money = -2000000
 	FROM = {money = 2000000}
 	money = -2000000
 	FROM = {money = 2000000}
@@ -295,10 +329,11 @@ country_event = {
 	FROM = {money = 2000000}
 	money = -2000000
 	FROM = {money = 2000000}
+	}
 	}  
 	option = {
-	name = "9000000 pounds"
-	money = -2000000
+	name = "9,000,000 pounds"
+	random_country = { limit = { tag = THIS money = 9000000 } money = -2000000
 	FROM = {money = 2000000}
 	money = -2000000
 	FROM = {money = 2000000}
@@ -308,6 +343,7 @@ country_event = {
 	FROM = {money = 2000000}
 	money = -1000000
 	FROM = {money = 1000000}
+	}
 	}  
 }
 
@@ -323,48 +359,57 @@ country_event = {
 	option = {
 	name = "100 pounds"
 	ai_chance = {factor = 100}
-	treasury = -100
+	random_country = { limit = { tag = THIS money = 100 } treasury = -100
 	FROM = {treasury = 100}
+	}
 	}
 	option = {
 	name = "200 pounds"
-	treasury = -200
+	random_country = { limit = { tag = THIS money = 200 } treasury = -200
 	FROM = {treasury = 200}
+	}
 	}
 	option = {
 	name = "300 pounds"
-	treasury = -300
+	random_country = { limit = { tag = THIS money = 300 } treasury = -300
 	FROM = {treasury = 300}
 	}  
+	}
 	option = {
 	name = "400 pounds"
-	treasury = -400
+	random_country = { limit = { tag = THIS money = 400 } treasury = -400
 	FROM = {treasury = 400}
 	}  
+	}
 	option = {
 	name = "500 pounds"
-	treasury = -500
+	random_country = { limit = { tag = THIS money = 500 } treasury = -500
 	FROM = {treasury = 500}
 	}  
+	}
 	option = {
 	name = "600 pounds"
-	treasury = -600
+	random_country = { limit = { tag = THIS money = 600 } treasury = -600
 	FROM = {treasury = 600}
 	}  
+	}
 	option = {
 	name = "700 pounds"
-	treasury = -700
+	random_country = { limit = { tag = THIS money = 700 } treasury = -700
 	FROM = {treasury = 700}
-	}  
+	}  	
+	}
 	option = {
 	name = "800 pounds"
-	treasury = -800
+	random_country = { limit = { tag = THIS money = 800 } treasury = -800
 	FROM = {treasury = 800}
 	}  
+	}
 	option = {
 	name = "900 pounds"
-	treasury = -900
+	random_country = { limit = { tag = THIS money = 900 } treasury = -900
 	FROM = {treasury = 900}
+	}
 	}  
 
 }  

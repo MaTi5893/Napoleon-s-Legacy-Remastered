@@ -12,7 +12,7 @@ is_releasable_vassal = no	#In accordance with group rules
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
-vote_franschise = landed_voting
+vote_franschise = none_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions

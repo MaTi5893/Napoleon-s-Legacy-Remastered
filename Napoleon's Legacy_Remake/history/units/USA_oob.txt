@@ -14,19 +14,10 @@ VNZ = {
 BRZ = {
 	value = 100	
 }
-ARA = {
-	value = 100	
-}
 CHL = {
 	value = 100	
 }
-RER = {
-	value = 100	
-}
 PRG = {
-	value = 100	
-}
-ECO = {
 	value = 100	
 }
 URU = {

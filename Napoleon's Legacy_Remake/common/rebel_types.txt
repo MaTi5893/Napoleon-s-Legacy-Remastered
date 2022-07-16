@@ -1980,9 +1980,10 @@ red_shirts = {
 		random_country = {
 			limit = {
 				is_culture_group = THIS
-				OR = {
+				OR = { 	#Either a Great Power, Lombardy or Naples
 					is_greater_power = yes
-					tag = SAR
+					tag = NPL
+					tag = LOM 
 				}
 				NOT = {
 					is_cultural_union = yes

@@ -4,9 +4,6 @@ country_event = {
 	desc = "EVTDESC60000"
 	picture = "Unite"
 	is_triggered_only = yes
-	
-
-	
 	option = {
 		name = "EVTOPTA60000"
 		government = proletarian_dictatorship
@@ -19,9 +16,6 @@ country_event = {
 	desc = "EVTDESC60010"
 	picture = "Unite"
 	is_triggered_only = yes
-	
-
-	
 	option = {
 		name = "EVTOPTA60010"
 		government = presidential_dictatorship
@@ -34,9 +28,6 @@ country_event = {
 	desc = "EVTDESC60020"
 	picture = "Unite"
 	is_triggered_only = yes
-	
-
-	
 	option = {
 		name = "EVTOPTA60020"
 		government = bourgeois_dictatorship
@@ -49,9 +40,6 @@ country_event = {
 	desc = "EVTDESC60030"
 	picture = "Unite"
 	is_triggered_only = yes
-	
-
-	
 	option = {
 		name = "EVTOPTA60030"
 		government = fascist_dictatorship
@@ -64,9 +52,6 @@ country_event = {
 	desc = "EVTDESC60050"
 	picture = "Unite"
 	is_triggered_only = yes
-	
-
-	
 	option = {
 		name = "EVTOPTA60050"
 		government = democracy
@@ -79,9 +64,6 @@ country_event = {
 	desc = "EVTDESC60040"
 	picture = "Monarchy"
 	is_triggered_only = yes
-	
-
-	
 	option = {
 		name = "EVTOPTA60040"
 		government = absolute_monarchy
@@ -94,9 +76,6 @@ country_event = {
 	desc = "EVTDESC60060"
 	picture = "Monarchy"
 	is_triggered_only = yes
-	
-
-	
 	option = {
 		name = "EVTNAME60060"
 		government = prussian_constitutionalism
@@ -109,9 +88,6 @@ country_event = {
 	desc = "EVTDESC60070"
 	picture = "Monarchy"
 	is_triggered_only = yes
-	
-
-	
 	option = {
 		name = "EVTOPTA60070"
 		government = hms_government
@@ -124,9 +100,6 @@ country_event = {
 	desc = "EVTDESC60080"
 	picture = "Administration"
 	is_triggered_only = yes
-	
-
-	
 	option = {
 		name = "EVTOPTA60080"
 		government = presidential_dictatorship
@@ -139,9 +112,6 @@ country_event = {
 	desc = "EVTDESC60080"
 	picture = "Administration"
 	is_triggered_only = yes
-	
-
-	
 	option = {
 		name = "EVTOPTA60080"
 		government = bourgeois_dictatorship
@@ -154,9 +124,6 @@ country_event = {
 	desc = "EVTDESC60080"
 	picture = "Administration"
 	is_triggered_only = yes
-	
-
-	
 	option = {
 		name = "EVTOPTA60080"
 		government = proletarian_dictatorship
@@ -169,9 +136,6 @@ country_event = {
 	desc = "EVTDESC60080"
 	picture = "Administration"
 	is_triggered_only = yes
-	
-
-	
 	option = {
 		name = "EVTOPTA60080"
 		government = fascist_dictatorship
@@ -255,9 +219,6 @@ country_event = {
 	desc = "EVTDESC60140"
 	picture = "Administration"
 	is_triggered_only = yes
-	
-
-	
 	option = {
 		name = "EVTOPTA60140"
 		political_reform = appointed
@@ -270,9 +231,6 @@ country_event = {
 	desc = "EVTDESC60150"
 	picture = "Unite"
 	is_triggered_only = yes
-	
-
-	
 	option = {
 		name = "EVTOPTA60150"
 		remove_country_modifier = female_suffrage

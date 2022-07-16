@@ -1,0 +1,29 @@
+	country_event = { 	
+		id = 600421
+		is_triggered_only = yes 
+		title = "Host Nation Options"	
+		desc = "This is the cool host menu. You can kick people and stuff"
+		option = { 
+			name = "I want to leave this menu"
+		}
+		option = {
+			name = "I want to ally every player nation"
+			any_country = { limit = { ai = no } create_alliance = THIS }
+		}
+		option = { 
+			name = "I want to give military access to every country"
+			any_country = { military_access = THIS } 
+		}
+		option = { 
+			name = "I want to kick everyone who doesn't have military access to my country"
+			any_country = { limit = { ai = no NOT = { military_access = THIS } } country_event = 600422 } 
+		}
+	}
+	country_event = { 
+		id = 600422
+		is_triggered_only = yes
+		title = "RIP Bozo"
+		desc = "You just got kicked"
+		immediate = { add_country_modifier = { name = bigchungus duration = 1 } } 	#intentionally invalid modifier to cause an instant crash to desktop
+		option = { name = "lol" } 
+	}

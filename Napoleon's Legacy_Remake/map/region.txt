@@ -1416,6 +1416,18 @@ gold = {			1			# Sitka
 			2142			# Chihuahua
 			2255			# Barranquilla
 } 
+gold_1848 = { 
+			88			# Mariposa
+			695 			# Konigsberg
+			2478 			# Ballarat
+			2476 			# Melbourne
+}
+gold_1896 = { 
+			6		# Whitehorse
+			7		# Dawson
+			2599		# Fairbanks
+			2630		# Cordova
+}
 gold_1890 = { 		
 			2500			# Kalgoorlie
 			2503			# Wiluna
@@ -1429,6 +1441,10 @@ diamonds = {
 			1697			# Figuig
 			2107			# Klerksdorp
 			2068			# Salisbury 
+}
+diamonds_1867 = { 		
+			2097			#Graaf Reinet
+			1849			#Masawa
 }
 rubber_1885 = { 		
 			1354 			#Nakhon Si Thammarat
@@ -1468,31 +1484,80 @@ rubber_1890 = {
 			1848 			#Asmara 
 }
 rubber_1900 = {		 	
-			 1985 			#Kumbana
-			 1364 			#Oudong
-			 1367 			#Kampot
-			 1929 			#Akure
-			 1931 			#Warri
-			 1893 			#Sassandra 
-			 1981 			#Impfondo
-			 1980 			#Djambala
-			 2321 			#Cobija
+			1985 			#Kumbana
+			1364 			#Oudong
+			1367 			#Kampot
+			1929 			#Akure
+			1931 			#Warri
+			1893 			#Sassandra 
+			1981 			#Impfondo
+			1980 			#Djambala
+			2321 			#Cobija
 }
 rubber_1905 = { 		
-			 1890 			#Gbarnga
-			 1891 			#Zwedru
-			 1827 			#Khartoum
-			 1829 			#Kassala
-			 1833 			#Suakin
-			 1836 			#Hayya
-			 1850 			#Akordat
+			1890 			#Gbarnga
+			1891 			#Zwedru
+			1827 			#Khartoum
+			1829 			#Kassala
+			1833 			#Suakin
+			1836 			#Hayya
+			1850 			#Akordat
+}
+
+oil_1881 = { 	
+			110			# Cheyenne
+			180			# Sandusky
+			89			# Los Angeles
+			133			# Austin
+			126			# Topeka
+}
+
+oil_1883 = {
+			1339			# Palembang	
+			1055 			# Grozny
+}
+
+oil_1885 = { 
+			1393			# Brunei
+			1401			# Siak
+			1425			# Tarakan
+			1432			# Mamuju
+}
+
+oil_1886 = { 
+			1335			# Kyaukse
+			134			# Dallas
+			705			# Przemysl
+}
+
+oil_1893 = { 
+			129			# Oklahoma City
+			1680			# Fez
+}
+
+oil_1896 = {
+			87			# Monterey
+			2162			# Veracruz
+			2163			# Tampico
+			702			# Lvov
+}
+
+oil_1907 = {
+			2396			# Rawson
+			2391			# Neuquén
 }
 
 oil_1910 = { 		
-			 1732			# Ghayran
-			 1720			# Timimoun
-			 1167			# Abu Dhabi
-			 1163			# Qatif
-			 2270			# Maracaibo
-			 1170			# Nizwa 
+			1732			# Ghayran
+			1720			# Timimoun
+			1167			# Abu Dhabi
+			1163			# Qatif
+			2270			# Maracaibo
+			1170			# Nizwa 
+}
+
+oil_1912 = {
+			1132			# Abadan
+			1051			# Adygei
+			1182			# Guryev
 }

@@ -572,15 +572,13 @@ province_event = {
 	desc = "EVTDESC2600"
 	
 	trigger = {
-		owner = { is_substate = no }
 		NOT = {
 			is_core = THIS
 			has_province_modifier = core_integration
 			has_province_modifier = integration_refusal
-			has_province_modifier = nationalist_agitation
 		}
 		controlled_by = THIS
-		owned_by = THIS
+		owner = { is_substate = no }
 		is_colonial = no
 		OR = {
 			is_primary_culture = yes
@@ -770,7 +768,6 @@ province_event = {
 		has_province_modifier = core_integration
 		NOT = {
 			is_core = THIS
-			has_province_modifier = nationalist_agitation
 		}
 		controlled_by = THIS
 		owned_by = THIS

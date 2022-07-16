@@ -61,12 +61,12 @@ CANAL_7;Impassable's Strait;;;;Estrecho de Infranqueable;;;;;;;;x
 CANAL_8;The Dead Men's Strait;;;;El estrecho de los hombres muertos;;;;;;;;x
 CANAL_9;The Last Stand Strait;;;;El estrecho de Last Stand;;;;;;;;x
 CANAL_10;No White's Men Strait;;;;No hay estrecho de hombres blancos;;;;;;;;x
-CANAL_11;The Settler Strait;;;;El estrecho de los colonos;;;x ;;;;;x
-CHI_1086;Kouriles Islands;;;;Islas Kouriles;;;x ;;;;;x
+CANAL_11;The Settler Strait;;;;El estrecho de los colonos;;;;;x
+CHI_1086;Kouriles Islands;;;;Islas Kouriles;;;;;x
 JAP_1087;Sakhalin;;;;Sajalín;;;;;;;;x
-mughals_united;Mughal Empire Reclaimed;;;;Imperio mogol reclamado;;;x ;;;;;x
-mughals_united_desc;The Mughal Empire as been united at last !;;;;?El Imperio mogol se ha unido por fin!;;;x ;;;;;x
-USA_2556;Carolina;;;;carolina;;;x ;;;;;x
+mughals_united;Mughal Empire Reclaimed;;;;Imperio mogol reclamado;;;;;x
+mughals_united_desc;The Mughal Empire as been united at last!;;;;?El Imperio mogol se ha unido por fin!;;;x ;;;;;x
+USA_2556;Carolina;;;;Carolina;;;;;;x
 western_african;Western African;;;;africano occidental;;;;;;;;x
 volta;Volta-Niger;;;;volta-níger;;;;;;;;x
 nigerian;Nigerian group;;;;grupo nigeriano;;;;;;;;x
@@ -84,12 +84,11 @@ FRA_411;Lorraine;;;;Lorena;;;;;;;;x
 FRA_408;Champagne;;;;Champán;;;;;;;;x
 FRA_432;Franche-Comte;;;;Franco Condado;;;;;;;;x
 MEX_2151;Coahuila y Nuevo Leon;;;;Coahuila y Nuevo León;;;;;;;;x
-dye_boost;Dye Rush;;;;Fiebre del tinte;;;;;;;;x
-dye_boost_title;Dye Rush;;;;Fiebre del tinte;;;;;;;;x
-dye_boost_desc;Dye is the new gold, it's down there in Mexico and we are taking care of it !;;;;?El tinte es el nuevo oro, está allá en México y lo estamos cuidando!;;;;;;;;x
 assimilation;Assimilation;;;;Asimilación;;;;;;;;x
 assimilation_title;Assimilation;;;;Asimilación;;;;;;;;x
 assimilation_desc;It's time to teach those people good manners!;;;;?Es hora de ense?ar buenos modales a esas personas!;;;;;;;;x
 breadbasket;The Breadbasket;;;;El Granero;;;;;;;;x
 big_breadbasket;Big Breadbasket;;;;Panera Grande;;;;;;;;x
 vassal_nation;Vassal Nation;;;;Nación Vasalla;;;;;;;;x
+USAlouisiana;Took Louisiana;;;;Tomó louisiana;;;;x
+hasmanifestdestiny;Manifested Destiny;;;;Destino manifestado;;;;x

@@ -41,6 +41,8 @@ political_decisions = {
 		effect = {
 			capital = 2447
 			prestige = 20
+			primary_culture = brazilian
+			add_accepted_culture = portuguese
 			set_country_flag = moved_capital_to_rio
 			set_country_flag = new_world_nation
 		}

@@ -1,0 +1,27 @@
+Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+rgo_change_mining_title;Change Mining RGO;;;;Cambiar el TOR de la minería;;;x
+rgo_change_mining_desc;Allows the switching of a single RGO province of the following types: Coal, Iron, Sulphur, or Precious Metal into Coal, Iron, or Sulphur. Causes a cooldown of 25 years.;;;;Permite cambiar una sola provincia TOR de los siguientes tipos: Carbón, Hierro, Azufre o Metal Precioso en Carbón, Hierro o Azufre. Puede hacerse cada 25 anos.;;;x
+rgo_change_agriculture_title;Change Agriculture RGO;;;;Cambiar el TOR de Agricultura;;;x
+rgo_change_agriculture_desc;Allows the switching of a single RGO province of the following types: Grain, Fruit, Fish, Cattle, Wool, Cotton, Timber, or Precious Goods into Grain, Fruit, Fish, Cattle, Wool, Cotton, or Timber. Causes a cool down of 12.5 years.;;;;Permite el cambio de una sola provincia TOR de los siguientes tipos: Grano, fruta, pescado, ganado, lana, algodón, madera o bienes preciosos en grano, fruta, pescado, ganado, lana, algodón o madera. Puede hacerse cada 12,5 anos.;;;x
+199937;Agriculture RGO Change;;;;Cambio de TOR en Agricultura;;;x
+EVTNAME199937;Agriculture RGO Change;;;;Cambio de TOR en Agricultura;;;x
+EVTDESC199937;Choose to change a province to the following RGO types, cool down is 12.5 years for changing, 1 year for not choosing one. Fish require an available costal province, Timber requires forested terrain.;;;;Elige cambiar una provincia a los siguientes tipos de TOR, puede hacerlo de nuevo después de 25 anos si cambia, después de 1 ano si no lo hace. Los peces requieren una provincia costera disponible, la madera requiere un terreno boscoso.;;;x
+EVT199937OPTA;Change a province to produce Wool.;;;;Cambiar produccion de una provincia a Lana.;;;x
+EVT199937OPTB;Change a province to produce Timber.;;;;Cambiar produccion de una provincia a Madera.;;;x
+EVT199937OPTC;Change a province to produce Cotton.;;;;Cambiar produccion de una provincia a Algodón.;;;x
+EVT199937OPTD;Change a province to produce Cattle.;;;;Cambiar produccion de una provincia a Ganado.;;;x
+EVT199937OPTE;Change a province to produce Fish.;;;;Cambiar produccion de una provincia a Pescado.;;;x
+EVT199937OPTF;Change a province to produce Fruit.;;;;Cambiar produccion de una provincia a Fruta.;;;x
+EVT199937OPTG;Change a province to produce Grain.;;;;Cambiar produccion de una provincia a Grano.;;;x
+EVT199937OPTH;I'd rather not change anything.;;;;Preferiría no cambiar nada.;;;x
+rgo_changed;RGO Change Cooldown;;;;Tiempo de espera para cambiar la produccion de una provincia;;;x
+rgo_changed_title;RGO Change Cooldown;;;;Tiempo de espera para cambiar la produccion de una provincia;;;x
+rgo_changed_desc;You have recently taken a decision to change a RGO, you must wait a while before doing so again.;;;;Has tomado recientemente la decisión de cambiar la produccion de una provincia, debes esperar un tiempo antes de volver a hacerlo.;;;x
+switched_production;Switched Production;;;;Producción cambiada;;;x
+switched_production_desc;The province has just switched its major production, and locals are still acclimatizing to the change.;;;;La provincia acaba de cambiar su principal producción, y los lugarenos aún se están acostumbrando al cambio.;;;x
+migration_factor_reduced;No Migration from Province;;;;No hay migración desde la provincia;;;x
+migration_factor_reduced_title;No Migration from Province;;;;No hay migración desde la provincia;;;x
+migration_factor_reduced_desc;Due to the unemployment caused by switching to Lumber RGO, this province will not have any migration for two years untill pops can be reemployed with time.;;;;Debido al desempleo causado por el cambio a la TOR de la madera, esta provincia no tendrá ninguna migración durante dos anos hasta que los popes puedan ser reempleados con el tiempo.;;;x
+timber_employment_fix;Timber Employment Fix;;;;Arreglo del empleo en el sector de la madera;;;x
+timber_employment_fix_title;Timber Employment Fix;;;;Arreglo del empleo en el sector de la madera;;;x
+timber_employment_fix_desc;A temporary market reset for Lumber prices inorder to fix the unemployment bug caused by switching a province to a Lumber RGO.;;;;Un reajuste temporal del mercado para los precios de la madera con el fin de arreglar el error de desempleo causado por el cambio de una provincia a un TOR de madera.;;;x

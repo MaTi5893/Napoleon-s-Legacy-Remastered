@@ -3,3 +3,12 @@ roundhead_leagacy;The Roundhead Legacy;;;;El legado de los cabezas redondas;;;;;
 cop;The Central Industrial Region;;;;La región central industrial;;;;;;;;;
 Francias_Enlightenment;Francia's Enlightenment;;;;La Ilustración de Francia;;;;;;;;;
 Francias_Enlightenment_desc;Jose Gaspar Rodriguez de Francia is ruling this nation firmly but fairly. Paraguay is strengthened by him;;;;José Gaspar Rodríguez de Francia gobierna esta nación con firmeza pero con justicia. El Paraguay se fortalece con él;;;;;;;;;
+immunity_from_influenza;Immunity from Influenza;;;;Inmunidad a la gripe;;;x
+immunity_from_influenza_desc;Prevents Pandemic Influenza from recurring in your country as long as modifier is active.;;;;Evita que la gripe pandémica se repita en su país mientras el modificador esté activo.;;;x
+no_more_war_reperations;No More War Reperations Can be Added on You.;;;;No se pueden anadir más reparaciones de guerra sobre ti.;;;x
+no_more_war_reperations_desc;Due to the nature of stacking of War Reperations by multiple countries on a single nation, it is possible to earn 80% or even 120% of all income in a country leading to a unrecoverable situation when Reperations are added every-war.;;;;Debido a la naturaleza del acumulamiento de las Reperaciones de Guerra por parte de varios países en una sola nación, es posible ganar el 80% o incluso el 120% de todos los ingresos de un país, lo que lleva a una situación irrecuperable cuando se suman las Reperaciones de cada guerra.;;;x
+chinese_economic_compensation;;;;Compensacion economica China;;;x
+integration_refusal;No Integration;;;;No hay integración;;;;;;;;;
+integration_refusal_desc;The province is not being integrated into the rest of the country, and being allowed to maintain its separate identity.;;;;La provincia no se integra en el resto del país y se le permite mantener su identidad separada.;;;;;;;;;
+core_integration;Core Integration;;;;Integración del núcleo;;;;;;;;;
+core_integration_desc;The province is being integrated into the rest of the country, a slow process that may cause problems here.;;;;La provincia se está integrando en el resto del país, un proceso lento que puede causar problemas aquí.;;;;;;;;;

@@ -22,8 +22,8 @@ negotiated_transfer_setup;Take $STATE$ from $RECIPIENT$ with their consent;;;;To
 NORMAL_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$;;;;$ORDER$$SECOND$ Transferencia de $STATE$;;;;;;;;;
 AGRESSION_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$;;;;$ORDER$$SECOND$ Transferencia de $STATE$$;;;;;;;;;
 acquire_state;Acquire State;;;;Adquirir el Estado;;;;;;;;;
-acquire_state_short;Acquire $STATE$ for $THIRD$;;;;Adquirir $STATE$;;;;;;;;;
-acquire_state_desc;Acquire an enemy 即state劬.;;;;Adquirir un enemigo 即STATE劬;;;;;;;;;
+acquire_state_short;Acquire $STATE$;;;;Adquirir $STATE$;;;;;;;;;
+acquire_state_desc;Acquire an enemy 即state劬.;;;;Adquirir un enemigo 即estado劬;;;;;;;;;
 acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;;;;Adquirir $STATE$ de $RECIPIENT$;;;;;;;;;
 demand_concession_casus_belli_china;Chinese Concession;;;;Concesi鏮 de China;;;;;;;;;
 demand_concession_casus_belli_china_desc;Force China to concede territory.;;;;Obligar a China a ceder territorio;;;;;;;;;

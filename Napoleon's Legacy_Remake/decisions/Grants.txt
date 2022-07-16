@@ -6,12 +6,10 @@ political_decisions = {
 		potential = {
 		civilized = yes
 			ai = no
-			NOT = { has_country_flag = will_receive_grants }
+			NOT = { has_country_flag = will_receive_grants }	#This country flag isn't set anywhere - hosts can save edit it in to disable a nation's ability to get grants
 		}
 		
 		allow = { 
-			NOT = { has_country_flag = will_receive_grants } 
-			ai = no
 		}
 		effect = {
 			country_event = {id = 100000 days = 0}
