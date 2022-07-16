@@ -136,6 +136,7 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = marathi
+			add_accepted_culture = telegu
 		}
 	}
 }

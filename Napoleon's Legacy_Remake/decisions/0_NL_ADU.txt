@@ -139,7 +139,7 @@ political_decisions = {
 				tag = DUA
 			}
 			accepted_culture = irish
-			NOT = {accepted_culture = boer}
+			NOT = { has_country_flag = ADU_SA }
 		}
 		allow = {
 			war = no
@@ -160,6 +160,7 @@ political_decisions = {
 				}
 			}
 			add_accepted_culture = boer
+			set_country_flag = ADU_SA
 			prestige = 20
 		}
 	}

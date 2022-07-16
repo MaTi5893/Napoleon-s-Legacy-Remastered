@@ -4,7 +4,7 @@ political_decisions = {
 		potential = {
 			tag = RUS
 			NOT = { has_country_flag = repartition_poland_RUS }
-			NOT = {has_country_flag = hide_western_russia}
+			#NOT = {has_country_flag = hide_western_russia}	#This isn't actually part of that path
 		}
 		allow = {
 			war = no

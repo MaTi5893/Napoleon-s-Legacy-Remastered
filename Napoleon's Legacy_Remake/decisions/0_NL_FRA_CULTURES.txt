@@ -1,0 +1,102 @@
+	political_decisions = { 
+		france_flemish = {
+			picture = france_flemish
+			potential = {
+				has_country_flag = franceculture
+				NOT = { accepted_culture = flemish }
+			}
+			allow = {
+			}
+			effect = {
+				add_accepted_culture = flemish
+				BEL = {
+					all_core = {
+						add_core = FRA
+					}
+				}	
+				any_pop = {
+					limit = {
+						culture = flemish
+					}
+					militancy=-1
+					consciousness=-1
+				}
+				clr_country_flag = franceculture
+			}
+		}
+		france_cisalpine = {
+			picture = france_cisalpine
+			potential = {
+				has_country_flag = franceculture
+				NOT = { accepted_culture = cisalpine }
+			}
+			allow = {
+			}
+			effect = {
+				add_accepted_culture = cisalpine
+				SAR_720  = { add_core = FRA }	
+				any_pop = {
+					limit = {
+						culture = cisalpine
+					}
+					militancy=-1
+					consciousness=-1
+				}
+				clr_country_flag = franceculture
+			}
+		}
+		france_rhenish = {
+			picture = france_rhenish
+			potential = {
+				has_country_flag = franceculture
+				NOT = { accepted_culture = rhenish }
+			}
+			allow = {
+			}
+			effect = {
+				add_accepted_culture = rhenish
+				RHI = {
+					all_core = {
+						add_core = FRA
+					}
+				}	
+				any_pop = {
+					limit = {
+						culture = rhenish
+					}
+					militancy=-1
+					consciousness=-1
+				}
+				clr_country_flag = franceculture
+			}
+		}
+		france_catalan = {
+			picture = france_catalan
+			potential = {
+				has_country_flag = franceculture
+				NOT = { accepted_culture = catalan }
+			}
+			allow = {
+			}
+			effect = {
+				add_accepted_culture = catalan
+				add_accepted_culture = basque
+				CAT = {
+					all_core = {
+						add_core = FRA
+					}
+				}	
+				any_pop = {
+					limit = {
+						OR = { 
+							culture = catalan
+							culture = basque
+						}
+					}
+					militancy=-1
+					consciousness=-1
+				}
+				clr_country_flag = franceculture
+			}
+		}
+	}

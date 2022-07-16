@@ -84,7 +84,7 @@ political_decisions = {
 					tag = NIT
 					NOT = {has_country_flag = get_rome}
 				}
-				AND = {
+				AND = {	
 					tag = SPA
 					NOT = {accepted_culture = south_italian}
 					NOT = {accepted_culture = caribeno}
