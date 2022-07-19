@@ -334,8 +334,6 @@ DEN_367 = { 367 366 368 2557 } #Jylland
 
 DEN_372 = { 372 373  } #Sjaelland
 
-DEN_374 = { 374 } #Bornholm
-
 #SWE_309 = { 309 311 310 312 } #Vestlandet
 
 SWE_308 = { 305 308 306 307 } #Nordnorge
@@ -348,7 +346,7 @@ SWE_313 = { 313 309 316 312 310 311 314 315 } #S�r-Norge
 
 SWE_329 = { 329 330 332  333 335 334 } #Skane
 
-SWE_331 = { 331 } #Gotaland
+SWE_331 = { 331 374 } #Gotland and Bornholm
 
 #SWE_318 = { 318 317 319 320 321 } #Norrland
 

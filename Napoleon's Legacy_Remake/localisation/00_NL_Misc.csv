@@ -1,46 +1,17 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
 andean;Andean;;;;Andinos;;;;;;;;;
-EVTDESC181501;With the help of lobbied Danziger politicians, the Prussian government has assumed power of the City in a blatant violation of the treaties that were signed between our nations. Prussian troops have already been stationed on Danziger land, but we still have the opportunity to act. How should we proceed?;;;;Con la ayuda de pol?ticos de Danzig presionados, el gobierno prusiano ha asumido el poder de la ciudad en una flagrante violaci?n de los tratados que se firmaron entre nuestras naciones. Las tropas prusianas ya han sido estacionadas en la tierra de Danzig, pero todav?a tenemos la oportunidad de actuar. ?C?mo debemos proceder?;;;;;;;;;
-EVTDESC19300;Keep, ancient lands, your storied pomp!' cries she\n' With silent lips. 'Give me your tired, your poor,\nYour huddled masses yearning to breathe free.'\n\nThe people of France have presented to the people of our country a spectacular gift. An enormous copper statue, 151 ft. tall, depicting a woman carrying a torch, representing and named 'Liberty Enlightening The World'. The design has been carried out by one Frederic Auguste Bartholdi, and a place has been set aside for the statue on an island near a great harbour. The statue will henceforth be known, simply, as 'The Statue of Liberty'.;;;;Tierras de anta?o, qu?dense con sus historias pomposas! exclama ella\n' con labios silenciosos. Dadme tus cansados, tus pobres,\nTus masas amontonadas gimiento por despirar libres'\n\nEl pueblo de Francia ha presentado al pueblo de nuestro pa?s un regalo espectacular. Una enorme estatua de cobre, de 151 pies de altura, que representa a una mujer que lleva una antorcha, y que lleva el nombre de "La libertad iluminando al mundo". El diseno ha sido realizado por un tal Frederic Auguste Bartholdi, y se ha reservado un lugar para la estatua en una isla cercana a un gran puerto. A partir de ahora, la estatua ser? conocida simplemente como "La Estatua de la Libertad".;;;;;;;;;
-BRZ_2401;Amazonas;;;;Amazonas;;;;;;;;;
-BRZ_2416;Mato Grosso;;;;Mato Grosso;;;;;;;;;
-BRZ_2439;Bahia;;;;Bahia;;;;;;;;;
-BRZ_2447;Rio de Janeiro;;;;Rio de Janeiro;;;;;;;;;
-BRZ_2463;Sul;;;;Sul;;;;;;;;;
-BRZ_2432;Pernambuco;;;;Pernambuco;;;;;;;;;
-BRZ_2450;Sao Paulo;;;;Sao Paulo;;;;;;;;;
-BRZ_2414;Para;;;;Para;;;;;;;;;
-BRZ_2435;Pernambuco;;;;Pernambuco;;;;;;;;;
-BRZ_2421;Goias;;;;Goias;;;;;;;;;
-BRZ_2443;Minas Gerais;;;;Minas Gerais;;;;;;;;;
-BRZ_2424;Ceara;;;;Ceara;;;;;;;;;
-ENG_1923;Yorubaland;;;;Yorubaland;;;;;;;;;
-EVTDESC32509;The feelers put out by Eduard Andreevich Stoeckl have had results, as $FROMCOUNTRY$ has today offered to enter into negotiations over a proposed sale of our territories in North America. The $FROMCOUNTRY_ADJ$ government is offering us a price of 2.3 cents per acre for the Alaskan territories, and that price seems relatively fair. The colonies could become hard to defend in the event of war with the United Kingdom, so getting rid of them for a price now might not be such a bad idea. What say you, $MONARCHTITLE$?;;;;Los tanteos realizados por Eduard Andreevich Stoeckl han dado resultado, ya que $FROMCOUNTRY$ ha ofrecido hoy entrar en negociaciones sobre una propuesta de venta de nuestros territorios en Norteam?rica. El gobierno de $FROMCOUNTRY_ADJ$ nos ofrece un precio de 2,3 centavos por acre por los territorios de Alaska, y ese precio parece relativamente justo. Las colonias podr?an ser dif?ciles de defender en caso de guerra con el Reino Unido, as? que deshacerse de ellas por un precio ahora podr?a no ser tan mala idea. ?Qu? dices, $MONARCHTITLE$?;;;;;;;;;
 trinket_health_care;Trinket Health Care;;;;Atenci?n m?dica de bajo presupuesto;;;;;;;;;
 own_panama_canal;Owning the Panama Canal;;;;posee el Canal de Panam?;;;;;;;;;
 WEGAINCB_3;'$CASUS$' Casus Belli;;;;'$CASUS$' Casus Belli;;;;;;;;x
-NORMAL_WAR_CONQUEST_NAME;$ORDER$Conquest of $SECOND_COUNTRY$;;;;Conquista de $SECOND_COUNTRY$;;;;;;;;;
 GC_NAME;Le Grande Campagne;;;;Le Grande Campagne;;;;;;;;x
 GC_DESC;A tentative new order reigns in Europe. Napoleon's France defied her enemies and now stands victorious and triumphant in western Europe, with all her rivals greatly humbled. But despite victory, peace did not come cheap - in exchange for lasting peace France agreed to limit her direct rule to lands west of the Rhine, and to grant autonomy to some of her previous subjects. The future is uncertain. Resentful Austrians and Prussians continue to chip away at the fringes of French influence, waiting to see if the young empire falters. And with the growing bubblings of nationalism and increasing industrialization across the continent, internal strife threatens to once again upend peace in Europe. Meanwhile the remnants of the exiled and shattered United Kingdom, with her Native American allies, are locked in a bitter struggle of containment against American expansionism. The outcome of the war could decide the fate of not only North America, but the wider British Empire.;;;;Un tentativo nuevo orden reina en Europa. La Francia de Napole?n desafi? a sus enemigos y ahora se alza victoriosa y triunfante en Europa occidental, con todos sus rivales humillados. Pero, a pesar de la victoria, la paz no le sali? barata: a cambio de una paz duradera, Francia acept? limitar su dominio directo a las tierras situadas al oeste del Rin y conceder autonom?a a algunos de sus anteriores s?bditos. El futuro es incierto. Los austriacos y prusianos, resentidos, siguen astillando los m?rgenes de la influencia francesa, a la espera de ver si el joven imperio se tambalea. Y con el creciente burbujeo del nacionalismo y la creciente industrializaci?n en todo el continente, las luchas internas amenazan con volver a poner en peligro la paz en Europa. Mientras tanto, los restos del Reino Unido, exiliados y destrozados, con sus aliados nativos americanos, se enzarzan en una amarga lucha de contenci?n contra el expansionismo americano. El resultado de la guerra podr?a decidir el destino no s?lo de Am?rica del Norte, sino del Imperio Brit?nico en general.;;;;;;;;;
 Scotish;Scottish;;;;Escocesa;;;;;;;;;
 british;English;;;;Inglesa;;;;;;;;;
-PROV2126;Reunion;;;;Reunion;;;;;;;;x
-west_rhine_bank;Control Over the West Rhine Bank;;;;Control de la Ribera Occidental del Rin;;;;;;;;;
-east_rhine_bank;Control Over the East Rhine Bank;;;;Control de la Ribera Oriental del Rin;;;;;;;;;
-full_rhine;Control Over The Entire Rhine;;;;Control de todo el Rin;;;;;;;;;
-an_mein_volk;An Mein Volk;;;;An Mein Folk;;;;;;;;;
+an_mein_volk;An Mein Volk;;;;An Mein Volk;;;;;;;;;
 an_mein_volk_desc;We have called all Germans to unite against the French!;;;;!Hemos llamado a todos los alemanes a unirse contra los franceses!;;;;;;;;;
-new_world_nation;New World Nation;;;;Naci?n del Nuevo Mundo;;;;;;;;;
-PRU_701;Wielkopolskie;;;;Wielkopolskie;;;;;;;;x
-RUS_710;Malopolskie;;;;Malopolskie;;;;;;;;x
-AUS_2538;Vojvodina;;;;Voivodina;;;;;;;;;
-PRU_575;Nordrhein;;;;Nordrhein;;;;;;;;x
-PRU_578;Mittelrhein;;;;Mittelrhein;;;;;;;;x
-PRU_546;Vorpommern;;;;Vorpommern;;;;;;;;x
+new_world_nation;New World Nation;;;;Nacion del Nuevo Mundo;;;;;;;;;
 social_reformed_nation;Fully Socially Reformed Nation;;;;Naci?n totalmente reformada socialmente;;;;;;;;;
 rhenish;Rhenish;;;;Palatina;;;;;;;;;
-welsh;Welsh;;;;galés;;;;;;;;x
-cymry;Cornish;;;;de Cornualles;;;;;;;;x
 napoleon_tech_school;Napoleonic Heritage;;;;Herencia napoleónica;;;;;;;;x
 release_vassals_title;Should we release any vassals?;;;;?Deberíamos liberar a algún vasallo?;;;;;;;;x
 cisalpine;Arpitan;;;;Arpitan;;;;;;;;x
@@ -55,18 +26,14 @@ french_education;French Education;;;;Educación francesa;;;;;;;;x
 french_education_desc;It's time to teach the French ways to those Germans to further their integration inside our empire!;;;;?Es hora de ense?ar las formas francesas a esos alemanes para promover su integración dentro de nuestro imperio!;;;;;;;;x
 corsican;Corsican;;;;corso;;;;;;;;x
 LEDGER_COUNTRY_NAME;Country;;;;País;;;;;;;;x
-PROV255;Derry;;;;Derry;;;;;;;;x
 CANAL_6;Le canal des Francais;;;;El canal des Francais;;;;;;;;x
 CANAL_7;Impassable's Strait;;;;Estrecho de Infranqueable;;;;;;;;x
 CANAL_8;The Dead Men's Strait;;;;El estrecho de los hombres muertos;;;;;;;;x
 CANAL_9;The Last Stand Strait;;;;El estrecho de Last Stand;;;;;;;;x
 CANAL_10;No White's Men Strait;;;;No hay estrecho de hombres blancos;;;;;;;;x
 CANAL_11;The Settler Strait;;;;El estrecho de los colonos;;;;;x
-CHI_1086;Kouriles Islands;;;;Islas Kouriles;;;;;x
-JAP_1087;Sakhalin;;;;Sajalín;;;;;;;;x
 mughals_united;Mughal Empire Reclaimed;;;;Imperio mogol reclamado;;;;;x
 mughals_united_desc;The Mughal Empire as been united at last!;;;;?El Imperio mogol se ha unido por fin!;;;x ;;;;;x
-USA_2556;Carolina;;;;Carolina;;;;;;x
 western_african;Western African;;;;africano occidental;;;;;;;;x
 volta;Volta-Niger;;;;volta-níger;;;;;;;;x
 nigerian;Nigerian group;;;;grupo nigeriano;;;;;;;;x
@@ -78,12 +45,6 @@ malagasy;Malagasy;;;;madagascarí;;;;;;;;x
 khoikhoi;Khoikhoi;;;;khoikhoi;;;;;;;;x
 eastern_bantu;Eastern Bantu;;;;bantú oriental;;;;;;;;x
 nilotic;Nilosaharan;;;;nilosahariano;;;;;;;;x
-FRA_402;Picardie;;;;Picardía;;;;;;;;x
-FRA_399;Nord-Pas-De-Calais;;;;Norte-Paso-de-Calais;;;;;;;;x
-FRA_411;Lorraine;;;;Lorena;;;;;;;;x
-FRA_408;Champagne;;;;Champán;;;;;;;;x
-FRA_432;Franche-Comte;;;;Franco Condado;;;;;;;;x
-MEX_2151;Coahuila y Nuevo Leon;;;;Coahuila y Nuevo León;;;;;;;;x
 assimilation;Assimilation;;;;Asimilación;;;;;;;;x
 assimilation_title;Assimilation;;;;Asimilación;;;;;;;;x
 assimilation_desc;It's time to teach those people good manners!;;;;?Es hora de ense?ar buenos modales a esas personas!;;;;;;;;x

@@ -1,7 +1,4 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-demand_reperations;Demand Reparations;;;;Reparaciones de Demanda;;;;;;;;x
-demand_reperations_short;Make $RECIPIENT$ pay reparations;;;;Hacer que $RECIPIENT$ pague las reparaciones;;;;;;;;x
-demand_reperations_setup;Make $RECIPIENT$ pay reparations;;;;Hacer que $RECIPIENT$ pague las reparaciones;;;;;;;;x
 Execute_Bab_title;Bab Execution;;;;Ejecución de Bab;;;;;;;;;
 Execute_Bab_desc;The Bab, leader of the Babist movement has for some time been in our possession. Due to recent unrest among the followers of Babism, powerful figures in our court wish to execute him. This will hopefully restore unity to the empire, but might cause short term turmoil.;;;;El Bab, líder del movimiento babista, está desde hace tiempo en nuestro poder.Debido a los recientes disturbios entre los seguidores del babilismo, poderosas figuras de nuestra corte desean ejecutarlo.  Se espera que esto restaure la unidad del imperio, pero podría causar una agitación a corto plazo.;;;;;;;;;
 Bonus_Immigration;Bonus Immigration;;;;Bonificación por inmigración;;;;;;;;;

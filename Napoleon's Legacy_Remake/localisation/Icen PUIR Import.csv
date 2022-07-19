@@ -1,33 +1,4 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-take_capital;Take Capital;;;;Toma de capital;;;;;;;;;
-take_capital_desc;Take the Capital region of a §Ycountry§W and force them to move their capital elsewhere;;;;Tomar la región de la capital de un §YPaís§W y obligarles a trasladar su capital a otro lugar;;;;;;;;;
-take_capital_setup;Take Capital $STATE$;;;;Toma Capital $STATE$;;;;;;;;;
-take_capital_short;Takes Capital;;;;Toma de capital de $RECIPIENT$;;;;;;;;;
-minor_conquest;Minor Conquest;;;;Conquista menor;;;;;;;;;
-minor_conquest_desc;Annex a §Ycountry§W of small size and population by conquest;;;;Anexo un §YPaís§W de pequeno tamano y población por conquista;;;;;;;;;
-minor_conquest_setup;Annex minor nation of $RECIPIENT$;;;;Anexo nación menor, $RECIPIENT$;;;;;;;;;
-minor_conquest_short;Annex $RECIPIENT$;;;;Anexo $RECIPIENT$;;;;;;;;;
-make_puppet_small;Make Small Puppet;;;;Hacer una pequena marioneta;;;;;;;;;
-make_puppet_small_desc;Puppet a §Ycountry§W of small size and population by aggression;;;;Marioneta un §YPaís§W de pequeno tamano y población por agresión;;;;;;;;;
-make_puppet_small_setup;Puppet the minor nation of $RECIPIENT$;;;;Títere de la nación menor de $RECIPIENT$;;;;;;;;;
-make_puppet_small_short;Puppet $RECIPIENT$;;;;Marioneta $RECIPIENT$;;;;;;;;;
-make_puppet_large;Make Large Puppet;;;;Hacer una marioneta grande;;;;;;;;;
-make_puppet_large_desc;Puppet a §Ycountry§W of respectable size and population by aggression;;;;Marioneta de un §YPaís§W de tamano y población respetables mediante la agresión;;;;;;;;;
-make_puppet_large_setup;Puppet the nation of $RECIPIENT$;;;;Títere de la nación de $RECIPIENT$;;;;;;;;;
-make_puppet_large_short;Puppet $RECIPIENT$;;;;Marioneta $RECIPIENT$;;;;;;;;;
-negotiated_transfer;Negotiated Transfer;;;;Transferencia negociada;;;;;;;;;
-negotiated_transfer_desc;Take a state or colonial region from another player with no effect on infamy, prestige, or jingoism, with their consent;;;;Tomar un estado o región colonial de otro jugador sin efecto en la infamia, el prestigio o el patriotismo, con su consentimiento;;;;;;;;;
-negotiated_transfer_short;Take $STATE$ from $RECIPIENT$;;;;Tomar $STATE$ de $RECIPIENT$;;;;;;;;;
-negotiated_transfer_setup;Take $STATE$ from $RECIPIENT$ with their consent;;;;Tomar $STATE$ de $RECIPIENT$ con su consentimiento;;;;;;;;;
-NORMAL_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$;;;;$ORDER$$SECOND$ Transferencia de $STATE$;;;;;;;;;
-AGRESSION_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$;;;;$ORDER$$SECOND$ Transferencia de $STATE$$;;;;;;;;;
-acquire_state;Acquire State;;;;Adquirir el Estado;;;;;;;;;
-acquire_state_short;Acquire $STATE$;;;;Adquirir $STATE$;;;;;;;;;
-acquire_state_desc;Acquire an enemy §Ystate§W.;;;;Adquirir un enemigo §Yestado§W;;;;;;;;;
-acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;;;;Adquirir $STATE$ de $RECIPIENT$;;;;;;;;;
-demand_concession_casus_belli_china;Chinese Concession;;;;Concesión de China;;;;;;;;;
-demand_concession_casus_belli_china_desc;Force China to concede territory.;;;;Obligar a China a ceder territorio;;;;;;;;;
-demand_concession_casus_belli_china_setup;Demand that $RECIPIENT$ secede territory.;;;;Exigir que el $RECIPIENT$ se separe del territorio;;;;;;;;;
 antitoxins;Antitoxins;;;;Antitoxinas;;;;;;;;x
 antitoxins_desc;The development of antitoxins is an advance that not only allows the medical field to combat poisons, but also to develop and further their understanding of how to kill bacteria and other microorganisms which are responsible for many afflictions.;;;;El desarrollo de antitoxinas es un avance que no solo le permite al campo médico combatir los venenos, sino también desarrollar y ampliar su comprensión de cómo matar bacterias y otros microorganismos que son responsables de muchas afecciones.;;;;;;;;x
 child_welfare;Child Welfare;;;;Bienestar infantil;;;;;;;;x

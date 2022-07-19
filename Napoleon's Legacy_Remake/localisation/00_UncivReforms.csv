@@ -299,22 +299,6 @@ apache_raiders;Apache Raiders;;;;Asaltantes apaches;;;;;;;;x
 generalised_debt_default;Debt Default;;;;Incumplimiento de la deuda;;;;;;;;x
 debt_default_to;Debt Defaulted To;;;;Deuda en mora;;;;;;;;x
 STRONGER_ARMY_THAN;has a stronger army than;;;;tiene un ejército más fuerte que;;;;;;;;x
-acquire_treaty_port;Acquire Treaty Port;;;;Adquirir puerto de tratado;;;;;;;;x
-acquire_treaty_port_desc;Acquire a treaty port concession by force from China;;;;Adquirir una concesión portuaria de tratado por la fuerza de China;;;;;;;;x
-acquire_treaty_port_setup;Acquire the treaty port of $STATE$ from $RECIPIENT$;;;;Adquirir el puerto de tratado de $STATE$ de $RECIPIENT$;;;;;;;;x
-acquire_treaty_port_short;Acquires concession of $STATE$;;;;Adquiere concesión de $STATE$;;;;;;;;x
-conquest_low;Minor Conquest;;;;Conquista menor;;;;;;;;x
-conquest_low_desc;Annex a ?Ycountry?W of small size and population by conquest;;;;Anexo a ?Ypaís?W de peque?o tama?o y población por conquista;;;;;;;;x
-conquest_low_setup;Annex minor nation of $RECIPIENT$;;;;Anexo nación menor de $RECIPIENT$;;;;;;;;x
-conquest_low_short;Annex $RECIPIENT$;;;;Anexo $RECEPTOR$;;;;;;;;x
-establish_colonial_protectorate_casus_belli;Annex African nation;;;;Anexo nación africana;;;;;;;;x
-establish_colonial_protectorate_casus_belli_desc;Establish a protectorate over an African nation that has been blocked from early annexation;;;;Establecer un protectorado sobre una nación africana que ha sido bloqueada desde la anexión temprana;;;;;;;;x
-establish_colonial_protectorate_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;;;;Anexo $RECIPIENT$ estableciendo un protectorado sobre ellos.;;;;;;;;x
-establish_colonial_protectorate_casus_belli_short;Annex $RECIPIENT$;;;;Anexo $RECEPTOR$;;;;;;;;x
-demand_colonial_concession_casus_belli;Demand African concession;;;;Exigir concesión africana;;;;;;;;x
-demand_colonial_concession_casus_belli_desc;Demand a colonial concession from African nation that could not be attacked early;;;;Exigir una concesión colonial de la nación africana que no pudo ser atacada temprano;;;;;;;;x
-demand_colonial_concession_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;Exige que $RECIPIENT$ se separe del territorio para formar una concesión colonial.;;;;;;;;x
-demand_colonial_concession_casus_belli_short;Demand $STATE$ for $THIRD$;;;;Demanda $STATE$ por $THIRD$;;;;;;;;x
 bardo_treaty_title;Enforce the Bardo Treaty;;;;Hacer cumplir el Tratado de Bardo;;;;;;;;x
 bardo_treaty_desc;On May 12,1881, the reigning Bey of Tunisia signed the Treaty of Kasser Said, known also as the Bardo Treaty, which acknowledged Tunisia to be a French protectorate. This marked the effective end of Tunisian independence.;;;;El 12 de mayo de 1881, el Bey reinante de Túnez firmó el Tratado de Kasser Said, conocido también como Tratado de Bardo, que reconocía a Túnez como un protectorado francés. Esto marcó el fin efectivo de la independencia de Túnez.;;;;;;;;x
 form_new_guinea_company_title;Form Deutsche Neuguinea-Kompagnie;;;;Formulario Deutsche Neuguinea-Kompagnie;;;;;;;;x
@@ -407,8 +391,6 @@ sign_the_geneva_convention_desc;Our country has not yet signed the Geneva conven
 #Ordered by Continent Europe-Asia-Africa-Americas;;;;;;;;;;;;;;
 #Sub-ordered alphabetically by nation;;;;;;;;;;;;;;
 ##### Austria #####;;;;;;;;;;;;;;
-slovene_language_at_celje_gymnasium_title;Allow Slovene Language at Celje Gymnasium;;;;Permitir el idioma esloveno en Celje Gymnasium;;;;;;;;x
-slovene_language_at_celje_gymnasium_desc;Beginning in 1888 Slovene deputies in the Reichsrat raised demands for the introduction of Slovene classes at the Gymnasium in Celje, a town in Lower Styria historically German but demographicaly with a Slovene majority. German deputies ralied against the proposal and a fierce debate began in Austria regarding language use in historically German towns experiencing growing settlement of Slavs.;;;;A partir de 1888, los diputados eslovenos en el Reichsrat plantearon demandas para la introducción de clases de esloveno en el Gymnasium en Celje, una ciudad en la Baja Estiria históricamente alemana pero demográficamente con una mayoría eslovena. Los diputados alemanes se manifestaron en contra de la propuesta y comenzó un feroz debate en Austria sobre el uso del idioma en ciudades históricamente alemanas que experimentaban un asentamiento creciente de eslavos.;;;;;;;;x
 the_final_abolishment_of_serfdom_title;Complete the Final Abolishment of Serfdom;;;;Completa la abolición final de la servidumbre;;;;;;;;x
 the_final_abolishment_of_serfdom_desc;Weakened by the many revolutions in the Empire in 1848, some reformers argued that to pacify discontented serfs, serfdom should be abolished fully throughout the Empire. Some called for landowners to receive a compensation equal to two thirds of the value of the land lost. Half of the compensation was to be paid by the state and other half by serfs themselves.;;;;Debilitados por las muchas revoluciones en el Imperio en 1848, algunos reformadores argumentaron que para pacificar a los siervos descontentos, la servidumbre debería abolirse por completo en todo el Imperio. Algunos pidieron que los terratenientes reciban una compensación equivalente a dos tercios del valor de la tierra perdida. La mitad de la compensación debía ser pagada por el estado y la otra mitad por los propios siervos.;;;;;;;;x
 embrace_slovene_minority_title;Embrace the Slovene Minority;;;;Abrazar a la minoría eslovena;;;;;;;;x
@@ -689,29 +671,3 @@ USA_anarcho_liberal;Liberty Party;;;;Partido de la libertad;;;;;;;;x
 USA_anarcho_liberal_2;Free Soil Party;;;;Fiesta del suelo libre;;;;;;;;x
 USA_anarcho_liberal_3;Revolutionary Party;;;;Partido Revolucionario;;;;;;;;x
 USA_communist_2;Communist Party;;;;fiesta comunista;;;;;;;;x
-#Localisations for Parties with changed TAGs;;;;;;;;;;;;;;
-PNJ_ADJ;Panjabi;;;;panyabí;;;;;;;;x
-PNJ_conservative;Shahi Panchayata;;;;Shahi Panchayata;;;;;;;;x
-PNJ_conservative_2;Shahi Panchayata;;;;Shahi Panchayata;;;;;;;;x
-PNJ_liberal;Pragatishila Panchayata;;;;Pragatishila Panchayata;;;;;;;;x
-PNJ_reactionary;Paramparavadi Panchayata;;;;Paramparavadi Panchayata;;;;;;;;x
-PNJ_anarcho_liberal;Krantikari Panchayata;;;;Krantikari Panchayata;;;;;;;;x
-PNJ_socialist;Samajatantravadi Panchayata;;;;Samajatantravadi Panchayata;;;;;;;;x
-PNJ_communist;Samyavadi Panchayata;;;;Samyavadi Panchayata;;;;;;;;x
-PNJ_fascist;Punarjanana Panchayata;;;;Punarjanana Panchayata;;;;;;;;x
-PNJ_absolute_monarchy;Sikh Empire;;;;Imperio sij;;;;;;;;x
-PNJ_prussian_constitutionalism;Sikh Empire;;;;Imperio sij;;;;;;;;x
-PNJ_absolute_monarchy_ADJ;Sikh;;;;sij;;;;;;;;x
-PNJ_prussian_constitutionalism_ADJ;Sikh;;;;sij;;;;;;;;x
-PNJ_fascist_dictatorship;Khalistan;;;;Khalistán;;;;;;;;x
-PNJ_fascist_dictatorship_ADJ;Khalistani;;;;Khalistani;;;;;;;;x
-PROV12;Red Deer;;;;ciervo rojo;;;;;;;;x
-PROV2595;Peace River;;;;Río de la paz;;;;;;;;x
-PROV2629;Kamloops;;;;Kamloops;;;;;;;;x
-PROV3249;Guangzhouwan;;;;Cantónwan;;;;;;;;x
-PROV3250;Ceuta;;;;Ceuta;;;;;;;;x
-PROV3251;Trankebar;;;;Trankebar;;;;;;;;x
-PROV3252;Vaduz;;;;Vaduz;;;;;;;;x
-PROV3253;Diu;;;;diu;;;;;;;;x
-PROV3254;Bandung;;;;Bandung;;;;;;;;x
-PROV3255;Cuneo;;;;Cuneo;;;;;;;;x

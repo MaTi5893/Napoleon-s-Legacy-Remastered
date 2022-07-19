@@ -151,3 +151,55 @@ NORMAL_WAR_PROTECTORATE_NAME;$ORDER$$FIRST$ Acquisition of $SECOND_COUNTRY$;;;;$
 AGRESSION_WAR_PUPPET_NAME;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;;;;$ORDER$Guerra de $FIRST$ Control de $SECOND_COUNTRY$;;;;;;;;x
 AGRESSION_WAR_PUPPET_NAME_TUR_ROM;$ORDER$Romanian War of Independence;;;;$ORDER$Guerra de Independencia de Rumania;;;;;;;;x
 NORMAL_WAR_PUPPET_NAME_TUR_ROM;$ORDER$Romanian War of Independence;;;;$ORDER$Guerra de Independencia de Rumania;;;;;;;;x
+acquire_treaty_port;Acquire Treaty Port;;;;Adquirir puerto de tratado;;;;;;;;x
+acquire_treaty_port_desc;Acquire a treaty port concession by force from China;;;;Adquirir una concesión portuaria de tratado por la fuerza de China;;;;;;;;x
+acquire_treaty_port_setup;Acquire the treaty port of $STATE$ from $RECIPIENT$;;;;Adquirir el puerto de tratado de $STATE$ de $RECIPIENT$;;;;;;;;x
+acquire_treaty_port_short;Acquires concession of $STATE$;;;;Adquiere concesión de $STATE$;;;;;;;;x
+conquest_low;Minor Conquest;;;;Conquista menor;;;;;;;;x
+conquest_low_desc;Annex a ?Ycountry?W of small size and population by conquest;;;;Anexo a ?Ypaís?W de peque?o tama?o y población por conquista;;;;;;;;x
+conquest_low_setup;Annex minor nation of $RECIPIENT$;;;;Anexo nación menor de $RECIPIENT$;;;;;;;;x
+conquest_low_short;Annex $RECIPIENT$;;;;Anexo $RECEPTOR$;;;;;;;;x
+establish_colonial_protectorate_casus_belli;Annex African nation;;;;Anexo nación africana;;;;;;;;x
+establish_colonial_protectorate_casus_belli_desc;Establish a protectorate over an African nation that has been blocked from early annexation;;;;Establecer un protectorado sobre una nación africana que ha sido bloqueada desde la anexión temprana;;;;;;;;x
+establish_colonial_protectorate_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;;;;Anexo $RECIPIENT$ estableciendo un protectorado sobre ellos.;;;;;;;;x
+establish_colonial_protectorate_casus_belli_short;Annex $RECIPIENT$;;;;Anexo $RECEPTOR$;;;;;;;;x
+demand_colonial_concession_casus_belli;Demand African concession;;;;Exigir concesión africana;;;;;;;;x
+demand_colonial_concession_casus_belli_desc;Demand a colonial concession from African nation that could not be attacked early;;;;Exigir una concesión colonial de la nación africana que no pudo ser atacada temprano;;;;;;;;x
+demand_colonial_concession_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;Exige que $RECIPIENT$ se separe del territorio para formar una concesión colonial.;;;;;;;;x
+demand_colonial_concession_casus_belli_short;Demand $STATE$ for $THIRD$;;;;Demanda $STATE$ por $THIRD$;;;;;;;;x
+demand_reperations;Demand Reparations;;;;Reparaciones de Demanda;;;;;;;;x
+demand_reperations_short;Make $RECIPIENT$ pay reparations;;;;Hacer que $RECIPIENT$ pague las reparaciones;;;;;;;;x
+demand_reperations_setup;Make $RECIPIENT$ pay reparations;;;;Hacer que $RECIPIENT$ pague las reparaciones;;;;;;;;x
+take_capital;Take Capital;;;;Toma de capital;;;;;;;;;
+take_capital_desc;Take the Capital region of a §Ycountry§W and force them to move their capital elsewhere;;;;Tomar la región de la capital de un §YPaís§W y obligarles a trasladar su capital a otro lugar;;;;;;;;;
+take_capital_setup;Take Capital $STATE$;;;;Toma Capital $STATE$;;;;;;;;;
+take_capital_short;Takes Capital $STATE$;;;;Toma de capital de $RECIPIENT$;;;;;;;;;
+minor_conquest;Minor Conquest;;;;Conquista menor;;;;;;;;;
+minor_conquest_desc;Annex a §Ycountry§W of small size and population by conquest;;;;Anexo un §YPaís§W de pequeno tamano y población por conquista;;;;;;;;;
+minor_conquest_setup;Annex minor nation of $RECIPIENT$;;;;Anexo nación menor, $RECIPIENT$;;;;;;;;;
+minor_conquest_short;Annex $RECIPIENT$;;;;Anexo $RECIPIENT$;;;;;;;;;
+make_puppet_small;Make Small Puppet;;;;Hacer una pequena marioneta;;;;;;;;;
+make_puppet_small_desc;Puppet a §Ycountry§W of small size and population by aggression;;;;Marioneta un §YPaís§W de pequeno tamano y población por agresión;;;;;;;;;
+make_puppet_small_setup;Puppet the minor nation of $RECIPIENT$;;;;Títere de la nación menor de $RECIPIENT$;;;;;;;;;
+make_puppet_small_short;Puppet $RECIPIENT$;;;;Marioneta $RECIPIENT$;;;;;;;;;
+make_puppet_large;Make Large Puppet;;;;Hacer una marioneta grande;;;;;;;;;
+make_puppet_large_desc;Puppet a §Ycountry§W of respectable size and population by aggression;;;;Marioneta de un §YPaís§W de tamano y población respetables mediante la agresión;;;;;;;;;
+make_puppet_large_setup;Puppet the nation of $RECIPIENT$;;;;Títere de la nación de $RECIPIENT$;;;;;;;;;
+make_puppet_large_short;Puppet $RECIPIENT$;;;;Marioneta $RECIPIENT$;;;;;;;;;
+negotiated_transfer;Negotiated Transfer;;;;Transferencia negociada;;;;;;;;;
+negotiated_transfer_desc;Take a state or colonial region from another player with no effect on infamy, prestige, or jingoism, with their consent;;;;Tomar un estado o región colonial de otro jugador sin efecto en la infamia, el prestigio o el patriotismo, con su consentimiento;;;;;;;;;
+negotiated_transfer_short;Take $STATE$ from $RECIPIENT$;;;;Tomar $STATE$ de $RECIPIENT$;;;;;;;;;
+negotiated_transfer_setup;Take $STATE$ from $RECIPIENT$ with their consent;;;;Tomar $STATE$ de $RECIPIENT$ con su consentimiento;;;;;;;;;
+NORMAL_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$;;;;$ORDER$$SECOND$ Transferencia de $STATE$;;;;;;;;;
+AGRESSION_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$;;;;$ORDER$$SECOND$ Transferencia de $STATE$$;;;;;;;;;
+acquire_state;Acquire State;;;;Adquirir el Estado;;;;;;;;;
+acquire_state_short;Acquire $STATE$;;;;Adquirir $STATE$;;;;;;;;;
+acquire_state_desc;Acquire an enemy §Ystate§W.;;;;Adquirir un enemigo §Yestado§W;;;;;;;;;
+acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;;;;Adquirir $STATE$ de $RECIPIENT$;;;;;;;;;
+demand_concession_casus_belli_china;Chinese Concession;;;;Concesión de China;;;;;;;;;
+demand_concession_casus_belli_china_desc;Force China to concede territory.;;;;Obligar a China a ceder territorio;;;;;;;;;
+demand_concession_casus_belli_china_setup;Demand that $RECIPIENT$ secede territory.;;;;Exigir que el $RECIPIENT$ se separe del territorio;;;;;;;;;
+NORMAL_WAR_CONQUEST_NAME;$ORDER$Conquest of $SECOND_COUNTRY$;;;;Conquista de $SECOND_COUNTRY$;;;;;;;;;
+NORMAL_WAR_NAME_COMMUNISM;The $ORDER$$FIRST$-$SECOND$ Revolutionary War;;;;;;;;;;;;;
+AGRESSION_WAR_NAME_COMMUNISM;The $ORDER$$FIRST$-$SECOND$ Revolutionary War;;;;;;;;;;;;;
+demand_concession_casus_belli_china_short;Demand $STATE$ from China;;;;Exigir $STATE$ a China;;;;;;;;;

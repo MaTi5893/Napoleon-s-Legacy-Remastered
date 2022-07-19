@@ -41,13 +41,6 @@ vassal = {
 	start_date = 1836.1.1
 	end_date = 1950.1.1
 }
-substate = {
-	first = RUS
-	second = UKR
-	start_date = 1836.1.1
-	end_date = 1950.1.1
-}
-
 #vassal = {
 #	first = CHI
 #	second = KOR

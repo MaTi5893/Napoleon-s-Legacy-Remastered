@@ -28,7 +28,7 @@ political_decisions = {
 			NOT = { has_country_flag = india_treaty_ports }         
 		}
 		allow = {
-			HND = { all_core = { owned_by = HND } }                                            
+			has_unclaimed_cores = no                                 
 		}
 		effect = {
 			prestige = 30

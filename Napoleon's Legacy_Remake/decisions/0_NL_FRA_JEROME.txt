@@ -29,7 +29,7 @@ political_decisions = {
 					}
 				}
 			}
-			state_n_government=1
+			nationalism_n_imperialism=1
 		}
 		effect = {
 			prestige = 7
@@ -98,7 +98,7 @@ political_decisions = {
 		}
 		allow = {
 			war = no
-			nationalism_n_imperialism = 1
+			revolution_n_counterrevolution = 1
 			RHI = {
 				all_core = {
 					owned_by = THIS
