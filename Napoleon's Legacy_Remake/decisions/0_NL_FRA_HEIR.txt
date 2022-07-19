@@ -23,6 +23,11 @@ political_decisions = {
 		}
 		allow = { }
 		effect = { 
+				create_vassal = HAN
+      			create_vassal = FRM
+        		create_vassal = NAS
+        		create_vassal = HES
+        		create_vassal = BRA
 			BAV = { country_event = 60040 }
 			set_country_flag = chose_heir_nap
 			set_country_flag = jerome
