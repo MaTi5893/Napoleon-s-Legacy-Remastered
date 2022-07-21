@@ -115,20 +115,4 @@ political_decisions = {
 			MOD = { all_core = { remove_core = MOD add_core = NIT } }
 		}
 	}
-
-	renounce_corsica = {
-		picture = corsica_decision
-		potential = {
-			tag = ITA
-			is_core = 473
-			NOT = {owns = 473}
-		}
-		allow = {
-			war = no
-		}
-		effect = {
-			remove_core = 473
-			prestige = -5
-		}
-	}
 }

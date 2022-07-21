@@ -316,4 +316,141 @@ political_decisions = {
 				factor = 1
 			}
 	}
+
+	milyutin_army_reform = {
+		picture = milyutin_army_reform
+		potential = {
+			tag = RUS
+			government = absolute_monarchy
+			NOT = { has_country_flag = milyutin_is_minister }
+		}
+		
+		allow = {
+			war = no
+			OR = {
+				breech_loaded_rifles = 1
+				military_statistics = 1
+			}
+			OR = {
+				NOT = { rank = 8 } #Fell out of GP status
+				has_recently_lost_war = yes #Historical Condition
+				NOT = { total_amount_of_divisions = 100 } #Weak state of military by Russian standards
+				ENG = { stronger_army_than = THIS } #United Kingdom has a bigger army
+			}
+		}
+
+		effect = {
+			set_country_flag = milyutin_is_minister
+			add_country_modifier = {
+				name = dmitry_alekseyevich_milyutin
+				duration = 7300
+			}
+			any_pop = {
+				limit = { type = soldiers }
+				consciousness = 2
+				literacy = 0.05
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	soviet_cities = {
+		potential = {
+			tag = RUS
+			year = 1900
+			government = proletarian_dictatorship
+			NOT = {
+				has_country_flag = soviet_cities
+			}
+		}
+		
+		allow = {
+			invention = vangaurd_party
+			owns = 994 #St Petersburg
+			owns = 1020 #Nizhni Novgorod
+			owns = 1033 #Simbirsk
+			owns = 1034 #Samara
+        		owns = 1039 #Tsaritsyn
+        		owns = 1058 #Ekaterinburg
+        		owns = 2637 #Novo Mariinsk
+		}
+		
+		effect = {
+			994 = {
+				change_province_name = "Leningrad"
+			}
+			1020 = {
+				change_province_name = "Gorky"
+			}
+			1033 = {
+				change_province_name = "Ulyanovsk"
+			}
+			1034 = {
+				change_province_name = "Kuybyshev"
+			}
+			1039 = {
+				change_province_name = "Stalingrad"
+			}
+			1058 = {
+				change_province_name = "Sverdlovsk"
+			}
+			2637 = {
+				change_province_name = "Anadyr"
+			}
+			prestige = 20
+			set_country_flag = soviet_cities
+		}
+	}
+	restore_russian_cities = {
+		picture = soviet_cities
+		potential = {
+			tag = RUS
+			has_country_flag = soviet_cities
+			NOT = { has_country_flag = the_old_names_are_back }
+			NOT = { government = proletarian_dictatorship }
+		}
+		
+		allow = {
+			NOT = {
+				OR = {
+					ruling_party_ideology = communist
+					ruling_party_ideology = socialist
+				}
+			}
+			owns = 994 #St Petersburg
+			owns = 1020 #Nizhni Novgorod
+			owns = 1033 #Simbirsk
+			owns = 1034 #Samara
+        		owns = 1039 #Tsaritsyn
+        		owns = 1058 #Ekaterinburg
+        		owns = 2637 #Novo Mariinsk
+		}
+		
+		effect = {
+			994 = {
+				change_province_name = "St Petersburg"
+			}
+			1020 = {
+				change_province_name = "Nizhni Novgorod"
+			}
+			1033 = {
+				change_province_name = "Simbirsk"
+			}
+			1034 = {
+				change_province_name = "Samara"
+			}
+			1039 = {
+				change_province_name = "Tsaritsyn"
+			}
+			1058 = {
+				change_province_name = "Ekaterinburg"
+			}
+			2637 = {
+				change_province_name = "Novo Mariinsk"
+			}
+			clr_country_flag = soviet_cities
+			set_country_flag = the_old_names_are_back
+		}
+	}
 }

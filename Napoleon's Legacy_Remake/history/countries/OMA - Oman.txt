@@ -1,6 +1,5 @@
 capital = 1166
-primary_culture = mashriqi
-culture = bedouin
+primary_culture = peninsular_arab
 religion = shiite
 government = absolute_monarchy
 plurality = 0.0

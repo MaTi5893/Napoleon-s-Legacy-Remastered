@@ -1,6 +1,5 @@
 capital = 1945
 primary_culture = nigerian
-culture = bedouin
 religion = sunni
 civilized = no
 government = absolute_monarchy

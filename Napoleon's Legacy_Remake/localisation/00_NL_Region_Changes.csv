@@ -4,33 +4,33 @@ PROV255;Derry;;;;Derry;;;;;;;;x
 PROV360;Wilno;;;;Wilno;;;;;;;;x
 PROV361;Kowno;;;;Kowno;;;;;;;;x
 PROV362;Mariampol;;;;Mariampol;;;;;;;;x
-PROV363;Poniewie≈º;;;;Poniewie≈º;;;;;;;;x
+PROV363;Poniewieø;;;;Poniewieø;;;;;;;;x
 PROV364;Szawle;;;;Szawle;;;;;;;;x
-PROV365;Po≈ÇƒÖga;;;;Po≈ÇƒÖga;;;;;;;;x
-PROV694;Toru≈Ñ;;;;Toru≈Ñ;;;;;;;;x
-PROV699;Pozna≈Ñ;;;;Pozna≈Ñ;;;;;;;;x
+PROV365;Po≥πga;;;;Po≥πga;;;;;;;;x
+PROV694;ToruÒ;;;;ToruÒ;;;;;;;;x
+PROV699;PoznaÒ;;;;PoznaÒ;;;;;;;;x
 PROV700;Bydgoszcz;;;;Bydgoszcz;;;;;;;;x
-PROV703;Krak√≥w;;;;Krak√≥w;;;;;;;;x
+PROV703;KrakÛw;;;;KrakÛw;;;;;;;;x
 PROV706;Warszawa;;;;Warszawa;;;;;;;;x
-PROV707;Suwa≈Çki;;;;Suwa≈Çki;;;;;;;;x
-PROV709;≈Åom≈ºa;;;;≈Åom≈ºa;;;;;;;;x
+PROV707;Suwa≥ki;;;;Suwa≥ki;;;;;;;;x
+PROV709;£omøa;;;;£omøa;;;;;;;;x
 PROV711;Siedlce;;;;Siedlce;;;;;;;;x
-PROV718;Mi≈Ñsk;;;;Mi≈Ñsk;;;;;;;;x
-PROV719;Bia≈Çystok;;;;Bia≈Çystok;;;;;;;;x
+PROV718;MiÒsk;;;;MiÒsk;;;;;;;;x
+PROV719;Bia≥ystok;;;;Bia≥ystok;;;;;;;;x
 PROV936;Grodno;;;;Grodno;;;;;;;;x
-PROV937;Brze≈õƒá Litewski;;;;Brze≈õƒá Litewski;;;;;;;;x
+PROV937;BrzeúÊ Litewski;;;;BrzeúÊ Litewski;;;;;;;;x
 PROV939;Baranowicze;;;;Baranowicze;;;;;;;;x
-PROV940;Pi≈Ñsk;;;;Pi≈Ñsk;;;;;;;;x
-PROV941;S≈Çuck;;;;S≈Çuck;;;;;;;;x
+PROV940;PiÒsk;;;;PiÒsk;;;;;;;;x
+PROV941;S≥uck;;;;S≥uck;;;;;;;;x
 PROV942;Mozyrz;;;;Mozyrz;;;;;;;;x
 PROV947;Postawy;;;;Postawy;;;;;;;;x
 PROV954;Winnica;;;;Winnica;;;;;;;;x
-PROV955;P≈Çoskir√≥w;;;;P≈Çoskir√≥w;;;;;;;;x
+PROV955;P≥oskirÛw;;;;P≥oskirÛw;;;;;;;;x
 PROV956;Rowne;;;;Rowne;;;;;;;;x
 PROV957;Kowel;;;;Kowel;;;;;;;;x
-PROV958;Kij√≥w;;;;Kij√≥w;;;;;;;;x
-PROV959;Koroste≈Ñ;;;;Koroste≈Ñ;;;;;;;;x
-PROV960;≈ªytomierz;;;;≈ªytomierz;;;;;;;;x
+PROV958;KijÛw;;;;KijÛw;;;;;;;;x
+PROV959;KorosteÒ;;;;KorosteÒ;;;;;;;;x
+PROV960;Øytomierz;;;;Øytomierz;;;;;;;;x
 PROV961;Czerkasy;;;;Czerkasy;;;;;;;;x
 PROV1363;Pakse;;;;Pakse;;;;;;;;;
 PROV1364;Phnom Penh;;;;Phnom Penh;;;;;;;;;
@@ -39,7 +39,7 @@ PROV2126;Reunion;;;;Reunion;;;;;;;;x
 PROV2281;Esmeraldas;;;;Esmeraldas;;;;;;;;;
 PROV2595;Peace River;;;;Peace River;;;;;;;;x
 PROV2629;Kamloops;;;;Kamloops;;;;;;;;x
-PROV3249;Guangzhouwan;;;;Cant√≥nwan;;;;;;;;x
+PROV3249;Guangzhouwan;;;;CantÛnwan;;;;;;;;x
 PROV3250;Ceuta;;;;Ceuta;;;;;;;;x
 PROV3251;Trankebar;;;;Trankebar;;;;;;;;x
 PROV3252;Vaduz;;;;Vaduz;;;;;;;;x
@@ -68,20 +68,20 @@ CHI_1086;Kouriles Islands;;;;Islas Kouriles;;;;;x
 DEN_251;Greenland;;;;Groenlandia;;;;;;;;;
 ENG_1923;Yorubaland;;;;Yorubaland;;;;;;;;;
 FRA_399;Nord-Pas-De-Calais;;;;Norte-Paso-de-Calais;;;;;;;;x
-FRA_402;Picardie;;;;Picard√≠a;;;;;;;;x
-FRA_408;Champagne;;;;Champ√°n;;;;;;;;x
+FRA_402;Picardie;;;;PicardÌa;;;;;;;;x
+FRA_408;Champagne;;;;Champ·n;;;;;;;;x
 FRA_411;Lorraine;;;;Lorena;;;;;;;;x
 FRA_432;Franche-Comte;;;;Franco Condado;;;;;;;;x
 GRE_837;Greece;;;;Grecia;;;;;;;;;
-JAP_1087;Sakhalin;;;;Sajal√≠n;;;;;;;;x
-MEX_2151;Coahuila y Nuevo Leon;;;;Coahuila y Nuevo Le√≥n;;;;;;;;x
+JAP_1087;Sakhalin;;;;SajalÌn;;;;;;;;x
+MEX_2151;Coahuila y Nuevo Leon;;;;Coahuila y Nuevo LeÛn;;;;;;;;x
 MOR_1696;Western Sahara;;;;Sahara Occidental;;;;;;;;;
 PAP_752;Lazio-Campania;;;;Lazio-Campania;;;;;;;;;
 PRU_546;Vorpommern;;;;Vorpommern;;;;;;;;x
 PRU_575;Nordrhein;;;;Nordrhein;;;;;;;;x
 PRU_578;Mittelrhein;;;;Mittelrhein;;;;;;;;x
 PRU_701;Wielkopolskie;;;;Wielkopolskie;;;;;;;;x
-RUS_710;Ma≈Çopolskie;;;;Ma≈Çopolskie;;;;;;;;x
+RUS_710;Ma≥opolskie;;;;Ma≥opolskie;;;;;;;;x
 SER_794;Serbia;;;;Serbia;;;;;;;;;
 TUR_853;Albania-Montenegro;;;;Albania-Montenegro;;;;;;;;;
 USA_2556;Carolina;;;;Carolina;;;;;;x

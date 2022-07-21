@@ -6,6 +6,7 @@
 				NOT = { accepted_culture = flemish }
 			}
 			allow = {
+				any_owned_province = { is_core = FLA } 
 			}
 			effect = {
 				add_accepted_culture = flemish
@@ -31,6 +32,7 @@
 				NOT = { accepted_culture = cisalpine }
 			}
 			allow = {
+				720 = { owned_by = THIS }
 			}
 			effect = {
 				add_accepted_culture = cisalpine
@@ -52,6 +54,7 @@
 				NOT = { accepted_culture = rhenish }
 			}
 			allow = {
+				any_owned_province = { is_core = RHI }
 			}
 			effect = {
 				add_accepted_culture = rhenish
@@ -77,6 +80,7 @@
 				NOT = { accepted_culture = catalan }
 			}
 			allow = {
+				any_owned_province = { is_core = CAT }
 			}
 			effect = {
 				add_accepted_culture = catalan

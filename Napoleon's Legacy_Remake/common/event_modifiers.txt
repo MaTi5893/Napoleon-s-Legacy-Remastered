@@ -878,10 +878,3 @@ french_education = {
 	assimilation_rate = 0.2
 	pop_militancy_modifier = 0.02
 }
-assimilation = {
-	assimilation_rate = 0.5
-	pop_militancy_modifier = 0.01
-	pop_consciousness_modifier = 0.01
-	mine_rgo_eff = -0.1
-	farm_rgo_eff = -0.1
-}

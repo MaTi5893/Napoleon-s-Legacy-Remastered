@@ -45,49 +45,49 @@
 	}
 
 	bureaucrats = {
-		culture = misri
+		culture = egyptian
 		religion = sunni
 		size = 50
 	}
 
 	officers = {
-		culture = misri
+		culture = egyptian
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = misri
+		culture = egyptian
 		religion = sunni
 		size = 300
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 275
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 800
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 14650
 	}
@@ -551,31 +551,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 6375
 	}
@@ -649,31 +649,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 2700
 	}
@@ -755,31 +755,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 12775
 	}
@@ -853,31 +853,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 3600
 	}
@@ -945,31 +945,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 5475
 	}
@@ -1007,31 +1007,31 @@
 #Salima (8000/2000 POPS)
 2564 = {
 	aristocrats = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 1800
 	}
@@ -1285,31 +1285,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = egyptian
 		religion = sunni
 		size = 1800
 	}

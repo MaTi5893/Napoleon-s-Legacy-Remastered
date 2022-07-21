@@ -45,68 +45,6 @@ country_event = {
 	}
 }
 
-province_event = {
-
-	id = 33004 #will set up DAN36206
-	news = yes
-	news_desc_long = "EVTDESC33004_NEWS_LONG"
-	news_desc_medium = "EVTDESC33004_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC33004_NEWS_SHORT"
-
-	trigger = {
-		province_id = 371 #Aabenra/North Schleswig
-		owned_by = GER
-		year = 1896
-		culture = danish
-		NOT = {
-			year = 1899
-			has_global_flag = GermanizeSchlewsigDanes
-			has_global_flag = NOGermanizeSchlewsigDanes
-			}
-		}
- 
-	mean_time_to_happen =  {
-		months = 6
-
-		modifier = {
-			factor = 0.85 #increase likelihood to happen
-			year = 1897
-		}
-
-		modifier = {
-			factor = 0.95 #increase likelihood to happen
-			year = 1898
-		}
-	}
-
-	title = "EVTNAME33004"
-	desc = "EVTDESC33004"
-
-	option = {
-		name = "EVTOPTA33004" 
-		any_pop = {
-			limit = {
-				has_pop_culture = danish
-			}
-			militancy = 2
-		}
-		relation = { who = DEN value = -100 }
-		set_global_flag = GermanizeSchlewsigDanes
-	}
-
-	option = {
-		name = "EVTOPTB33004" 
-		any_pop = {
-			dominant_issue = {
-				value = jingoism
-				factor = 0.1
-			}
-		}
-		relation = { who = DEN value = 100 }
-		set_global_flag = NOGermanizeSchlewsigDanes
-	}
-}
-
 country_event = {
 
 	id = 33000

@@ -377,32 +377,32 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = nilotic
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = nilotic
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = nilotic
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = nilotic
 		religion = sunni
 		size= 100
 
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = nilotic
 		religion = sunni
 		size = 7300
 	}
@@ -441,32 +441,32 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = nilotic
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = nilotic
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = nilotic
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = nilotic
 		religion = sunni
 		size= 50
 
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = nilotic
 		religion = sunni
 		size = 5400
 	}
@@ -513,32 +513,32 @@
 #Mao (752000/188000 POPS)
 1824 = {
 	aristocrats = {
-		culture = bedouin
+		culture = nilotic
 		religion = sunni
 		size = 2600
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = nilotic
 		religion = sunni
 		size = 1300
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = nilotic
 		religion = sunni
 		size = 5300
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = nilotic
 		religion = sunni
 		size= 1400
 
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = nilotic
 		religion = sunni
 		size = 93400
 	}

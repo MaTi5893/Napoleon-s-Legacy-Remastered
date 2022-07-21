@@ -47,62 +47,51 @@ political_decisions = {
 		}
 	}
 
-	italian_submission = {
-		picture = north_italy_decision
-		potential = {
-			has_country_flag = maximilien
-			ITA = {exists = no}
-			NOT = {accepted_culture = north_italian}
-		}
-		allow = {
-			NIT = {
-				all_core = {
-					owned_by = THIS
-				}
-			}
-			PAP_749 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							vassal_of = THIS
-							in_sphere = THIS
-						}
-					}
-				}
-			}
-			is_greater_power = yes
-			revolution_n_counterrevolution = 1
-			war = no
-		}
-		effect = {
-			add_accepted_culture = north_italian
-			NIT = {
-				all_core = {
-					add_core = THIS
-				}
-			}
-			any_country = {
-				limit = {
-					OR = {
-						vassal_of = THIS
-						in_sphere = THIS
-					}
-					OR = {
-						accepted_culture = north_italian
-						primary_culture = north_italian
-					}
-				}
-				all_core = {
-					add_core = THIS
-				}
-				annex_to = THIS
-			}
-			SAR_720 = {add_core = FRA}
-			PAP_749 = {add_core = FRA}
-			add_core = 751
-			add_core = 752
-			prestige = 20
-		}
-	}
+	#italian_submission = {
+	#	picture = north_italy_decision
+	#	potential = {
+	#		has_country_flag = maximilien
+	#		ITA = {exists = no}
+	#		NOT = {accepted_culture = north_italian}
+	#	}
+	#	allow = {
+	#		NIT = {
+	#			all_core = {
+	#				owned_by = THIS
+	#			}
+	#		}
+	#		PAP_749 = {
+	#			OR = {
+	#				owned_by = THIS
+	#				owner = {
+	#					OR = {
+	#						vassal_of = THIS
+	#						in_sphere = THIS
+	#					}
+	#				}
+	#			}
+	#		}
+	#		is_greater_power = yes
+	#		revolution_n_counterrevolution = 1
+	#		war = no
+	#	}
+	#	effect = {
+	#		add_accepted_culture = north_italian
+	#		any_country = {
+	#			limit = {
+	#				OR = {
+	#					vassal_of = THIS
+	#					in_sphere = THIS
+	#				}
+	#				OR = {
+	#					accepted_culture = north_italian
+	#					primary_culture = north_italian
+	#				}
+	#			}
+	#			annex_to = THIS
+	#		}
+	#		SAR_720 = {add_core = FRA}
+	#		prestige = 20
+	#		}
+	#}
 }

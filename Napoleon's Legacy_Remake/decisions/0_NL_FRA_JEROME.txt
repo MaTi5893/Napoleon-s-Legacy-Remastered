@@ -98,7 +98,7 @@ political_decisions = {
 		}
 		allow = {
 			war = no
-			revolution_n_counterrevolution = 1
+			state_n_government = 1
 			RHI = {
 				all_core = {
 					owned_by = THIS
@@ -112,21 +112,6 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = rhenish
 			RHI = {
-				all_core = {add_core = THIS}
-			}
-			HAN = {
-				all_core = {add_core = THIS}
-			}
-			FRM = {
-				all_core = {add_core = THIS}
-			}
-        	NAS = {
-				all_core = {add_core = THIS}
-			}
-        	HES = {
-				all_core = {add_core = THIS}
-			}
-        	BRA = {
 				all_core = {add_core = THIS}
 			}
 		}

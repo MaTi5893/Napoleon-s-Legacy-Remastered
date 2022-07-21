@@ -1,0 +1,106 @@
+political_decisions = { 
+
+	establish_beiyang_fleet = {
+		picture = establish_beiyang_fleet
+			potential = {
+				tag = CHI
+				NOT = {
+					has_country_flag = beiyang_fleet_built
+				}
+				exists = GER
+			}
+			
+			allow = {
+				GER = {
+					invention = pre_dreadnought
+					invention = protected_cruisers
+				}
+				money = 25000
+				NOT = { 
+					invention = pre_dreadnought
+					invention = protected_cruisers
+				}
+			}
+			
+			effect = {
+				GER = {
+					treasury = 250000
+				}
+				treasury = -250000
+				1617 = {
+					sub_unit = {
+						type = battleship
+						value = current
+					}
+					sub_unit = {
+						type = battleship
+						value = current
+					}
+				}
+				1617 = {
+					sub_unit = {
+						type = cruiser
+						value = current
+					}
+					sub_unit = {
+						type = cruiser
+						value = current
+					}
+					sub_unit = {
+						type = cruiser
+						value = current
+					}
+					sub_unit = {
+						type = cruiser
+						value = current
+					}
+				}
+				set_country_flag = beiyang_fleet_built
+			}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	appoint_lin_zexu = {
+	picture = appoint_lin_zexu
+		potential = {
+			tag = CHI
+			owns = 1493
+			owns = 1496
+			NOT = { has_country_flag = lin_is_commissioner }
+		}
+		allow = {
+			year = 1839
+			war = no
+			NOT = {
+				has_truce = ENG
+			} 
+			OR = { 
+				1493 = { 
+					has_province_modifier = local_opium_habit
+				}
+				1496 = { 
+					has_province_modifier = local_opium_habit
+				}
+			}
+				
+		}
+
+		effect = {
+			set_country_flag = lin_is_commissioner
+			treasury = 5000
+			prestige = 25
+			relation = { 
+				with = ENG
+				value = -200
+			}
+			ENG = {
+				prestige = -10
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

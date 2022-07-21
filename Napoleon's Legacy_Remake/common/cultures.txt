@@ -873,7 +873,7 @@ turko_semitic = {
 arab = {
 	leader = arab
 	unit = MiddleEasternGC
-	maghrebi = {
+	north_african = {		#used to be maghrebi
 		color = {24 103 22}
 		first_names = { 
 			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali 
@@ -893,7 +893,7 @@ arab = {
 			"ibn Umar" "ibn Uthman" "ibn Yusuf"  
 			}
 		}
-	misri = {
+	egyptian = {		#used to be misri
 		color = {34 145 86}
 		first_names = { 
 			Abdullah Abdulhamid Abdulkerim Ahmet Ali Bekir Cemal Enver Fevzi Fuat Halil 
@@ -906,7 +906,7 @@ arab = {
 			Bey Pasha 
 			}
 	}
-	mashriqi = {
+	peninsular_arab = {	#used to be mashriqi
 		color = {40 183 54}
 		first_names = { 
 			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali 
@@ -924,24 +924,6 @@ arab = {
 			"ibn Umar" "ibn Uthman" "ibn Yusuf"  
 			}
 	}
-	bedouin = {
-		color = {128 172 181}
-		first_names = { 
-			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" "Abu Bakr" Ahmad Ali 
-			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Ja'far Jamal Kamil Khalid 
-			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim  Sa'ud Shukri
-			Tawfiq Umar Uthman Yahya Yusuf Zafir 		
-			}
-		
-		last_names = { 
-			"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
-			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
-			"ibn Muhammad" "ibn Mustafa" "ibn Salim"  
-			"ibn Umar" "ibn Uthman" "ibn Yusuf"
-			"al-Najdi" "al-Hijazi"   
-			}
-			radicalism = 10
-		}
 	berber = {
 		color = {51 75 70}
 		first_names = {

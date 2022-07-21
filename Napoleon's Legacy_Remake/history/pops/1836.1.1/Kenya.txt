@@ -556,31 +556,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = eastern_bantu
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = eastern_bantu
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = eastern_bantu
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = eastern_bantu
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = eastern_bantu
 		religion = sunni
 		size = 500
 	}

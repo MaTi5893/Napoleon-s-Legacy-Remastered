@@ -3,43 +3,43 @@
 #Mukalla (32000/8000 POPS)   
 1173 = {
 	aristocrats = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 135
 	}
 
 	bureaucrats = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 15
 	}
 
 	officers = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 6350
 	}
@@ -47,31 +47,31 @@
 #Ghaydah (20000/5000 POPS)   
 1175 = {
 	aristocrats = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 4650
 	}
@@ -79,31 +79,31 @@
 #Bayda (68000/17000 POPS)   
 1176 = {
 	aristocrats = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 275
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 175
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 850
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 175
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 15525
 	}
@@ -112,31 +112,31 @@
 #Socotra (16000/4000 POPS)   
 1177 = {
 	aristocrats = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 2775
 	}
@@ -152,73 +152,73 @@
 #Sana (124000/31000 POPS)   
 1178 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = shiite
 		size = 475
 	}
 
 	bureaucrats = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = shiite
 		size = 50
 	}
 
 	officers = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = shiite
 		size = 75
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = shiite
 		size = 250
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = shiite
 		size = 1275
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = shiite
 		size = 4000
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = shiite
 		size = 19375
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 3650
 	}
@@ -238,61 +238,61 @@
 #Hodeida (48000/12000 POPS)   
 1179 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = sunni
 		size = 8250
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 1800
 	}
@@ -300,61 +300,61 @@
 #Taizz (52000/13000 POPS)   
 1180 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = sunni
 		size = 1100
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = sunni
 		size = 3625
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = shiite
 		size = 125
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = shiite
 		size = 75
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = shiite
 		size = 400
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = shiite
 		size = 75
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = shiite
 		size = 6400
 	}
@@ -362,91 +362,91 @@
 #Aden (40000/10000 POPS)   
 1412 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = sunni
 		size = 3625
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = shiite
 		size = 50
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = shiite
 		size = 75
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = shiite
 		size = 150
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = shiite
 		size = 1100
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = peninsular_arab
 		religion = shiite
 		size = 2675
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = peninsular_arab
 		religion = sunni
 		size = 1825
 	}

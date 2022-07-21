@@ -1,5 +1,5 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-####To do: maybe merge some of these events and regions?;;;x
+####To do: maybe merge some of these events and regions? Don't need 1881,1883,1885,1886 to be seperate;;;x
 gold;Precious metals;;;;Metales preciosos;;;;;;;;x
 gold_1848;Precious metals after 1848;;;;Metales preciosos después de 1848;;;;;;;;x
 gold_1896;Precious metals after 1896;;;;Metales preciosos después de 1896;;;;;;;;x
@@ -19,4 +19,5 @@ oil_1896;Oil after 1896;;;;Petróleo después de 1896;;;;;;;;x
 oil_1907;Oil after 1907;;;;Petróleo después de 1907;;;;;;;;x
 oil_1910;Oil after 1910;;;;Petróleo después de 1910;;;;;;;;x
 oil_1912;Oil after 1912;;;;Petróleo después de 1912;;;;;;;;x
-new_world;The New World;;;;Nuevo Mundo;;;;;;;;x
+breadbasket;The Breadbasket;;;;El Granero;;;;;;;;x
+big_breadbasket;Big Breadbasket;;;;Panera Grande;;;;;;;;x

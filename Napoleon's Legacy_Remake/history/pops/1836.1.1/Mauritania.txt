@@ -322,31 +322,31 @@
 #Bir Maghrein (16000/4000 POPS) #now part of Mauritania 
 1782 = {
 	aristocrats = {
-		culture = bedouin
+		culture = western_african
 		religion = sunni
 		size = 10
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = western_african
 		religion = sunni
 		size = 15
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = western_african
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = western_african
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = western_african
 		religion = sunni
 		size = 900
 	}

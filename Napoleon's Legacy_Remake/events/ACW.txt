@@ -19,8 +19,8 @@ country_event = {
 		}
 	}
 	
-	immediate = { clr_country_flag = the_slavery_debate }
 	immediate = {
+		clr_country_flag = the_slavery_debate
 		CSA = {
 			set_country_flag = the_slavery_debate
 		}

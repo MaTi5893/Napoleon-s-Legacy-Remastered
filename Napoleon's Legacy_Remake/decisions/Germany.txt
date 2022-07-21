@@ -189,4 +189,49 @@ political_decisions = {
 			}
 		}
 	}
+	form_new_guinea_company = {
+		picture = form_new_guinea_company
+		potential = {
+			tag = GER
+			NOT = { has_country_flag = new_guinea_company_formed }
+			invention = mission_to_civilize
+			OR = {
+				government = hms_government
+				government = prussian_constitutionalism
+				government = absolute_monarchy
+			}
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+			2531 = {
+				OR = {
+					empty = yes
+					owner = {
+						civilized = no
+						ai = yes
+					}
+				}
+			}		
+		}
+
+		allow = {
+			war = no
+			OR = {
+				invention = colonial_negotiations
+				year = 1884
+			}
+		}
+
+		effect = {
+			set_country_flag = new_guinea_company_formed
+			prestige = 10
+			2531 = { 
+				secede_province = GER
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

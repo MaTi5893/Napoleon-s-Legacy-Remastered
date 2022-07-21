@@ -291,7 +291,11 @@ political_decisions = {
 		picture = mongolia_decision
 		potential = {
 			tag = RUS
-			accepted_culture = turkic
+			#accepted_culture = turkic
+			NOT = {accepted_culture = finnish}
+			NOT = {accepted_culture = byelorussian}
+			NOT = {accepted_culture = ukrainian}
+			NOT = {accepted_culture = estonian}
 			NOT = {accepted_culture = mongol}
 			NOT = {has_country_flag = hide_southern_russia}
 		}

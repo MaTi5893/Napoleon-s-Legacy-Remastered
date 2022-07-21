@@ -168,9 +168,8 @@ political_decisions = {
 			remove_accepted_culture = bosniak
 			remove_accepted_culture = albanian
 			remove_accepted_culture = bulgarian
-			add_accepted_culture = misri
-			add_accepted_culture = mashriqi
-			add_accepted_culture = bedouin
+			add_accepted_culture = egyptian
+			add_accepted_culture = peninsular_arab
 			add_accepted_culture = azerbaijani
 			all_core = {
 				limit = {
@@ -259,4 +258,165 @@ political_decisions = {
 		}
 	}
 	
+	ottoman_bank = {
+		picture = ottoman_bank
+		potential = {
+			tag = TUR
+			NOT = { has_country_flag = osmanli_bankasi }
+		}
+		allow = {
+			OR = {
+			  	business_banks = 1
+				central_bank_money_bill_printing = 1		
+			}
+		}
+		effect = {
+			set_country_flag = osmanli_bankasi
+			treasury = 8000
+			prestige = 5
+			research_points = 100
+			add_country_modifier = {
+				name = ottoman_bank
+				duration = 14600
+			}
+			relation = {
+				with = FRA
+				value = 50
+			}
+			relation = {
+				with = ENG
+				value = 50
+			}
+			any_pop = {
+				limit = { type = aristocrats }
+				consciousness = 2
+			}
+			any_pop = {
+				limit = { type = capitalists }
+				consciousness = 2
+			}
+			any_pop = {
+				limit = { type = officers }
+				consciousness = 2
+			}
+			any_pop = {
+				limit = { type = clerks }
+				consciousness = 1
+			}
+			any_pop = {
+				limit = { type = clergymen }
+				militancy = 1
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	shelter_revolutionaries = {
+		picture = shelter_revolutionaries
+		potential = {
+			tag = TUR
+			NOT = { 
+				has_country_flag = a_home_for_revolutionaries 
+			}
+			AUS = { 
+				OR = { 
+					has_country_flag = liberal_revolution_fired
+					has_country_flag = had_liberal_revolution
+				}
+			}	
+		}
+		allow = {
+			year = 1849
+			NOT = {
+				exists = HUN
+				exists = PLC
+			}
+		}
+		effect = {
+			set_country_flag = a_home_for_revolutionaries
+			plurality = 1
+			define_general = {
+				name = "Ismail Pasha" ## born György Kméty -- hungarian patriot ##
+				personality = defence_3.1
+				background = attack_3.1
+			}
+			define_general = {
+				name = "Hursid Pasha" ## born Richard Guyon -- anglo-hungarian patriot ##
+				personality = defence_3.1
+				background = attack_3.1
+			}
+			define_general = {
+				name = "Mehmet Sadik Pasha" ## born Michal Czajkowski -- polish patriot ##
+				personality = defence_3.1
+				background = attack_3.1
+			}
+			relation = {
+				with = RUS
+				value = -50
+			}
+			relation = {
+				with = AUS
+				value = -100
+			}
+			scaled_militancy = {
+				ideology = liberal
+				factor = -2
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	restore_istanbul = {
+		picture = greece_capital_change
+		potential = {
+			tag = TUR
+			NOT = { has_global_flag = istanbul_restored }
+			has_global_flag = constantinople_restored
+		}
+		allow = {
+			owns = 860	# Istanbul
+			owns = 828      # Edirne
+		}
+		effect = {
+			set_global_flag = istanbul_restored
+			clr_global_flag = constantinople_restored
+			capital = 860
+			prestige = 50
+			860 = { change_province_name = "Istanbul" }
+			828 = { change_province_name = "Edirne" }
+			858 = { change_province_name = "Kirklareli" }
+			861 = { change_province_name = "Üsküdar" }
+			860 = {
+				state_scope = {
+					any_pop = {
+						limit = { culture = greek }
+						militancy = 8
+						consciousness = 8
+						reduce_pop = 0.8
+					}
+					any_pop = {
+						limit = { 
+							NOT = { culture = turkish }
+							OR = {
+								type = bureaucrats
+								type = soldiers
+							}	 
+						}
+						reduce_pop = 0.0
+					}
+					any_pop = {
+						limit = { culture = turkish }
+						militancy = -8
+						consciousness = 8
+						reduce_pop = 1.5
+					}
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

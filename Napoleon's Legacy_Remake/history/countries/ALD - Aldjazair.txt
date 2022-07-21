@@ -1,5 +1,5 @@
 capital = 1700
-primary_culture = maghrebi
+primary_culture = north_african
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

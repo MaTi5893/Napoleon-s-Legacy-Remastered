@@ -1,0 +1,248 @@
+political_decisions = { 
+
+	pursue_unification = {
+		potential = {
+			AND = {
+				tag = MOL
+				NOT = {
+				AND = { 
+					ai = yes
+					WAL = { ai = no } 
+				}
+				}
+			}
+			AND = {
+				tag = WAL
+				ai = no
+				MOL = { ai = yes }
+			}
+			NOT = {
+				exists = ROM
+			}
+			NOT = { has_country_flag = romanian_dream }
+		}
+		
+		allow = {
+			exists = WAL
+			exists = MOL
+			OR = {
+				year = 1859
+				WAL = { is_vassal = no }
+			}
+		}
+
+		effect = {
+			set_country_flag = romanian_dream
+			set_global_flag = romanian_dream
+			MOL = { 
+				set_variable = {
+					which = unification_count
+					value = 1
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	support_unification = {
+		picture = pursue_unification
+		potential = {
+			has_global_flag = romanian_dream
+			NOT = { has_country_flag = romanian_dream }
+			OR = {
+				is_greater_power = yes
+				tag = RUS
+				tag = TUR
+				#tag = ENG
+				#tag = FRA
+				AND = {
+					tag = AUS
+					NOT = { exists = KUK }
+				}
+				tag = KUK
+				#tag = PRU
+				#tag = NGF
+				#tag = GER
+				#tag = SAR
+				#tag = ITA
+			}
+			NOT = { exists = ROM }
+			exists = MOL
+			exists = WAL
+		}
+		
+		allow = {
+		}
+
+		effect = {
+			set_country_flag = romanian_dream
+			MOL = { 
+				change_variable = {
+				which = unification_count
+				value = 1
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				OR = {
+					tag = AUS
+					tag = KUK
+					tag = TUR
+					tag = ENG
+				}
+			}
+		}
+	}
+	unite_the_principalities = {
+		picture = unite_the_principalities
+		potential = {
+			OR = {
+			AND = {
+				tag = MOL
+				NOT = {
+				AND = { 
+					ai = yes
+					WAL = { ai = no } 
+				}
+				}
+			}
+			AND = {
+				tag = WAL
+				ai = no
+				MOL = { ai = yes }
+			}
+			}
+			MOL = {
+			OR = {
+				check_variable = {
+				which = unification_count
+				value = 4
+				}
+				check_variable = {
+				which = unification_count
+				value = 5
+				}
+				check_variable = {
+				which = unification_count
+				value = 6
+				}
+				check_variable = {
+				which = unification_count
+				value = 7
+				}
+				check_variable = {
+				which = unification_count
+				value = 8
+				}
+				check_variable = {
+				which = unification_count
+				value = 9
+				}
+				check_variable = {
+				which = unification_count
+				value = 10
+				}
+				check_variable = {
+				which = unification_count
+				value = 11
+				}
+			}
+			}
+		}
+			
+		allow = {
+		}
+
+		effect = {
+			treasury = 10000
+			change_tag = ROM
+			inherit = WAL
+			inherit = MOL
+			ruling_party_ideology = liberal
+			nationalvalue = nv_liberty
+			government = hms_government
+			political_reform = wealth_voting
+			WAL_665 = {
+				add_core = ROM
+			}
+			MOL_673 = {
+				add_core = ROM
+			}
+			AUS_654 = {
+				add_core = ROM
+			}
+			AUS_657 = {
+				add_core = ROM
+			}
+			TUR_674 = {
+				add_core = ROM
+			}
+			AUS_647 = {
+				add_core = ROM
+			}
+			RUS_676 = {
+				add_core = ROM
+			}
+			ROM = {
+				all_core = { 
+					remove_core = WAL
+					remove_core = MOL 
+				}
+			}
+			RUS = {
+				any_owned = {
+					remove_core = WAL
+					remove_core = MOL 
+				}
+			}
+			TUR = {
+				any_owned = {
+					remove_core = WAL
+					remove_core = MOL 
+				}
+			}
+			AUS = {
+				any_owned = {
+					remove_core = WAL
+					remove_core = MOL 
+				}
+			}
+			add_country_modifier = {
+				name = alexandru_ioan_cuza
+				duration = 2555
+			}		
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	move_capital_to_bucharest = {
+		picture = move_capital_to_bucharest
+		potential = {
+			tag = ROM
+			NOT = { has_country_flag = we_shall_make_it_beautiful }
+			664 = { owned_by = THIS }
+			NOT = { 
+				664 = { is_capital = yes }
+			}		
+		}
+
+		allow = {
+			war = no
+			
+		}
+
+		effect = {
+			set_country_flag = we_shall_make_it_beautiful
+			prestige = 2
+			capital = 664
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

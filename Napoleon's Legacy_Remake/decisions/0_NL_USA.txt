@@ -103,18 +103,7 @@ political_decisions = {
 			MEX_2142 = {add_core = THIS}
 			MEX_2153 = {add_core = THIS}
 			MEX_2137 = {add_core = THIS}
-			MEX = {
-				all_core = {
-					limit = {
-						owned_by = THIS
-					}
-					add_province_modifier = {
-						name = assimilation
-						duration = 3650
-					}
-				}
-			}
-			prestige = 20
+			prestige = 10
 		}
 	}
 }

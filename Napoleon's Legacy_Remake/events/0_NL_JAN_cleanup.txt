@@ -7,6 +7,7 @@ country_event = { 		#the day one setup event
 	title = "Setup Event"
 	desc = "Get off Jan Mayen! You're gonna get annoying events monthly!"
 	immediate = {		#i know you can literally just set country flags in the history files but it's easier to manage if you have all of them in one place 
+		JAP = { country_event = 9999910 }	#Starting stockpile (clippers)
 		CHI = { country_event = 776405 }	#asian nerfs 7764xx.txt
 		JAN = { country_event = 600001 }	#Monthly repeating cleanup event
 		any_country = { 	#ENG gets this if they annex canada
@@ -392,14 +393,6 @@ country_event = {
                 			}
 			}
 			annex_to = FROM
-		}
-		any_country = { 
-			limit = { 
-				tag = FRA				#If France stops being a Great Power - gets an event and loses influence modifier
-				has_country_modifier = french_hegemony
-				is_greater_power = no 	
-			}
-		country_event = 600424
 		}
 		any_country = { 
 			limit = { 

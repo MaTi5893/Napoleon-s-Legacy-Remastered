@@ -2414,32 +2414,32 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = volta
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = volta
 		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = volta
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = volta
 		religion = sunni
 		size= 100
 
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = volta
 		religion = sunni
 		size = 7200
 	}

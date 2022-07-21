@@ -1,0 +1,68 @@
+political_decisions = {
+	hawaiian_constitution = {
+		picture = hawaiian_constitution
+		potential = {
+			tag = HAW
+			civilization_progress = 0.4
+			NOT = {
+				has_country_flag = constitution_proclaimed
+			}
+		}
+		allow = {
+			OR = {
+				civilized = yes
+				enlightenment_thought = 1
+				year = 1852
+			}
+		}
+
+		effect = {
+			set_country_flag = constitution_proclaimed
+			prestige = 20
+			government = hms_government
+			add_accepted_culture = yankee
+			political_reform = universal_voting
+			political_reform = yes_meeting
+			political_reform = free_press
+			social_reform = low_schools
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	expedition_to_palmyra = {
+		picture = expedition_to_palmyra
+		potential = {
+			tag = HAW
+			OR = { 
+				civilization_progress = 0.5
+				civilized = yes
+			}
+			year = 1855
+			NOT = {
+				has_country_flag = palmyra_annexed
+			}
+		}
+		allow = {
+		        2526 = {
+				empty = yes
+			}
+			OR = {
+				clipper_design = 1
+				steamers = 1
+				year = 1862
+			}
+		}
+
+		effect = {
+			prestige = 5
+			set_country_flag = palmyra_annexed
+			2526 = {
+				secede_province = HAW
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}	

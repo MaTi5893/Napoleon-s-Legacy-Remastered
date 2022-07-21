@@ -2,14 +2,17 @@ political_decisions = {	#Republic can also do the "french_rhur_boom" decision fr
 	republic_culture_decision_1 = {
 		picture = culture_1_decision
 		potential = {
-			has_country_flag = republic
+			OR = { 
+				has_country_flag = republic
+				has_country_flag = alexandre
+			}
 			NOT = {has_country_flag = republic_culture_decision_1}
 		}
 		allow = {
 			war = no
-			all_core = {
-				owned_by = THIS
-			}
+			#all_core = {
+			#	owned_by = THIS
+			#}
 			state_n_government = 1
 		}
 		effect = {
@@ -30,9 +33,9 @@ political_decisions = {	#Republic can also do the "french_rhur_boom" decision fr
 		}
 		allow = {
 			war = no
-			all_core = {
-				owned_by = THIS
-			}
+			#all_core = {
+			#	owned_by = THIS
+			#}
 			nationalism_n_imperialism = 1
 		}
 		effect = {
@@ -45,17 +48,14 @@ political_decisions = {	#Republic can also do the "french_rhur_boom" decision fr
 		picture = culture_3_decision
 		potential = {
 			tag = FRA
-			OR = {
-				has_country_flag = republic
-				has_country_flag = alexandre
-			}
+			has_country_flag = republic
 			NOT = {has_country_flag = republic_culture_decision_3}
 		}
 		allow = {
 			war = no
-			all_core = {
-				owned_by = THIS
-			}
+			#all_core = {
+			#	owned_by = THIS
+			#}
 			revolution_n_counterrevolution = 1
 		}
 		effect = {

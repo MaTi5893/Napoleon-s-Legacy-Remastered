@@ -370,59 +370,6 @@ country_event = {
 
 country_event = {
 
-	id = 36206
-
-	trigger = {
-		tag = DEN 
-		year = 1896
-		neighbour = GER
-		NOT = {
-			year = 1901
-			has_country_flag = SchlewsigDENesGermanized
-			}
-		}
- 
-	mean_time_to_happen =  {
-		months = 8
-
-		modifier = {
-			factor = 0.75 #increase likelihood to happen
-			year = 1897
-		}
-
-
-		modifier = {
-			factor = 0.95 #increase likelihood to happen
-			year = 1898
-		}
-
-		modifier = {
-			factor = 0.95 #increase likelihood to happen
-			year = 1899
-		}
-	}
-
-	title = "EVTNAME36206"
-	desc = "EVTDESC36206"
-	picture = "Administration"
-
-
-	option = {
-		name = "EVTOPTA36206" 
-		set_country_flag = SchlewsigDENesGermanized
-		relation = { who = GER value = -100 }
-		any_pop = {
-			dominant_issue = {
-				value = jingoism
-				factor = 0.1
-			}
-		}
-	}
-
-}
-
-country_event = {
-
 	id = 36207
 	trigger = {
 		tag = DEN 

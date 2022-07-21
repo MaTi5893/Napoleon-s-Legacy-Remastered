@@ -1,6 +1,5 @@
 capital = 1745
-primary_culture = misri
-culture = mashriqi
+primary_culture = egyptian
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

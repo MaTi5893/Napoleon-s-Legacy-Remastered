@@ -1143,37 +1143,37 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = eastern_bantu
 		religion = shiite
 		size = 150
 	}
 
 	bureaucrats = {
-		culture = mashriqi
+		culture = eastern_bantu
 		religion = shiite
 		size = 75
 	}
 
 	officers = {
-		culture = mashriqi
+		culture = eastern_bantu
 		religion = shiite
 		size = 75
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = eastern_bantu
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = eastern_bantu
 		religion = shiite
 		size = 200
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = eastern_bantu
 		religion = shiite
 		size = 450
 	}
