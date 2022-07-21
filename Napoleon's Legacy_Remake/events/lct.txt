@@ -30,6 +30,7 @@ country_event = {
 		any_country = { 
 			limit = {
 				tag = FRA 
+				ai = yes
 				HAN = {
 					ai = yes 
 				}
@@ -39,6 +40,7 @@ country_event = {
 		any_country = { 
 			limit = {
 				tag = FRA 
+				ai = yes
 				HAN = {
 					ai = no
 				}
