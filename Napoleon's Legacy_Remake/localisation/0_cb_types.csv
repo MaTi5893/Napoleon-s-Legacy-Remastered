@@ -71,13 +71,9 @@ demand_concession_casus_belli;Demand Concession;;;;Concesión de Demanda;;;;;;;;x
 demand_concession_casus_belli_short;Demand $STATE$;;;;Demanda $STATE$;;;;;;;;x
 demand_concession_casus_belli_desc;Force an §Yuncivilized country§W to secede territory to form a colonial concession.;;;;Obligar a un §YPaís sin civilizar§W a separarse del territorio para formar una concesión colonial.;;;;;;;;x
 demand_concession_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;Exige que $RECIPIENT$ se separe del territorio para formar una concesión colonial.;;;;;;;;x
-demand_concession_casus_belli_player_early;Demand Concession Early;;;;Concesión de Demanda Anticipada;;;;;;;;x
-demand_concession_casus_belli_player_early_short;Demand $STATE$ for 100% more warscore.;;;;Exige $STATE$ por un 100 % más de puntos de guerra.;;;;;;;;x
-demand_concession_casus_belli_player_early_desc;Force the §Yuncivilized country§W to secede territory to form a colonial concession for 100% more warscore.;;;;Obligar al §YPaís Yuncivilizado§W a separarse del territorio para formar una concesión colonial por un 100% más de puntos de guerra.;;;;;;;;x
-demand_concession_casus_belli_ai_early_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;Exige que $RECIPIENT$ se separe del territorio para formar una concesión colonial.;;;;;;;;x
-demand_concession_casus_belli_ai_early;Demand Concession Early;;;;Concesión de Demanda Anticipada;;;;;;;;x
-demand_concession_casus_belli_ai_early_short;Demand $STATE$ for 10% more warscore.;;;;Exige $STATE$ por un 10 % más de puntos de guerra.;;;;;;;;x
-demand_concession_casus_belli_ai_early_desc;Force the §Yuncivilized country§W to secede territory to form a colonial concession for 100% more warscore.;;;;Obligar al §YPaís Yuncivilizado§W a separarse del territorio para formar una concesión colonial por un 100% más de puntos de guerra.;;;;;;;;x
+demand_concession_casus_belli_player_early;Demand Concession;;;;Exigir Concesión;;;;;;;;x
+demand_concession_casus_belli_player_early_short;Demand $STATE$.;;;;Exige $STATE$.;;;;;;;;x
+demand_concession_casus_belli_player_early_desc;Force the §Yuncivilized country§W to secede territory to form a colonial concession.;;;;Obligar al §YPaís Yuncivilizado§W a separarse del territorio para formar una concesión colonial.;;;;;;;;x
 demand_concession_casus_belli_player_early_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;Exige que $RECIPIENT$ se separe del territorio para formar una concesión colonial.;;;;;;;;x
 rude_boy;Containment;;;;Contención;;;;;;;;x
 rude_boy_short;Contain $RECIPIENT$;;;;Contiene $RECIPIENT$;;;;;;;;x
@@ -159,14 +155,6 @@ conquest_low;Minor Conquest;;;;Conquista menor;;;;;;;;x
 conquest_low_desc;Annex a ?Ycountry?W of small size and population by conquest;;;;Anexo a ?Ypaís?W de peque?o tama?o y población por conquista;;;;;;;;x
 conquest_low_setup;Annex minor nation of $RECIPIENT$;;;;Anexo nación menor de $RECIPIENT$;;;;;;;;x
 conquest_low_short;Annex $RECIPIENT$;;;;Anexo $RECEPTOR$;;;;;;;;x
-establish_colonial_protectorate_casus_belli;Annex African nation;;;;Anexo nación africana;;;;;;;;x
-establish_colonial_protectorate_casus_belli_desc;Establish a protectorate over an African nation that has been blocked from early annexation;;;;Establecer un protectorado sobre una nación africana que ha sido bloqueada desde la anexión temprana;;;;;;;;x
-establish_colonial_protectorate_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;;;;Anexo $RECIPIENT$ estableciendo un protectorado sobre ellos.;;;;;;;;x
-establish_colonial_protectorate_casus_belli_short;Annex $RECIPIENT$;;;;Anexo $RECEPTOR$;;;;;;;;x
-demand_colonial_concession_casus_belli;Demand African concession;;;;Exigir concesión africana;;;;;;;;x
-demand_colonial_concession_casus_belli_desc;Demand a colonial concession from African nation that could not be attacked early;;;;Exigir una concesión colonial de la nación africana que no pudo ser atacada temprano;;;;;;;;x
-demand_colonial_concession_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;Exige que $RECIPIENT$ se separe del territorio para formar una concesión colonial.;;;;;;;;x
-demand_colonial_concession_casus_belli_short;Demand $STATE$ for $THIRD$;;;;Demanda $STATE$ por $THIRD$;;;;;;;;x
 demand_reperations;Demand Reparations;;;;Reparaciones de Demanda;;;;;;;;x
 demand_reperations_short;Make $RECIPIENT$ pay reparations;;;;Hacer que $RECIPIENT$ pague las reparaciones;;;;;;;;x
 demand_reperations_setup;Make $RECIPIENT$ pay reparations;;;;Hacer que $RECIPIENT$ pague las reparaciones;;;;;;;;x

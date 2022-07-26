@@ -83,11 +83,7 @@ political_decisions = {
 	acceptance_of_the_bengali = {
 		picture = decision_bengal
 		potential = {
-			OR = {
-				tag = MAH
-				tag = MUG
-			}
-			NOT = {accepted_culture = bengali}
+			has_country_flag = bengal_accept #MAH or MUG
 		}
 		allow = {
 			war = no
@@ -101,17 +97,14 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = bengali
+			clr_country_flag = bengal_accept
 		}
 	}
 
 	acceptance_of_the_south = {
 		picture = mysore_decision
 		potential = {
-			OR = {
-				tag = MAH
-				tag = MUG
-			}
-			NOT = {accepted_culture = telegu}
+			has_country_flag = south_india_accept
 		}
 		allow = {
 			war = no
@@ -127,7 +120,7 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = marathi
-			add_accepted_culture = telegu
+			clr_country_flag = south_india_accept
 		}
 	}
 }

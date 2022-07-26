@@ -1,4 +1,4 @@
-name = "Balkans revolts"
+name = "Balkan revolts"
 
 1835.1.1 = {
 	add_attacker = TUR

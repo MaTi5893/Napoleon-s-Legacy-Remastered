@@ -700,22 +700,7 @@ political_decisions = {
 	
 	alaskan_purchase = {
 		potential = {
-			OR = { 
-				AND = { tag = USA 
-					OR = { 
-						owns = 78 #Seattle
-						owns = 81 #Portland
-						owns = 85 #Eureka
-						owns = 13 #Vancouver
-					}
-				}
-				AND = { 
-					OR = { tag = ENG tag = GBR } 
-					owns = 13 
-				} 
-				AND = { tag = JAP owns = 13 }
-				AND = { tag = MEX rank = 8 }
-			}
+			has_country_flag = alaska_purchasers
 			OR = { 
 				tag = USA
 				ai = no 

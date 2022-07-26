@@ -87,8 +87,8 @@ political_decisions = {
 				}
 			}
 			OR = { 
-				EGY = { owns = 1839 } #Egyptian provinces bordering Darfur
-				EGY = { owns = 1838 }
+				owns = 1839  #Egyptian provinces bordering Darfur
+				owns = 1838
 			}		
 		}
 		

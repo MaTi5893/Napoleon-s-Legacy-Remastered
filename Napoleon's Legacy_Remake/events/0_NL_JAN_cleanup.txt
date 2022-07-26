@@ -9,7 +9,11 @@ country_event = { 		#the day one setup event
 	immediate = {		#i know you can literally just set country flags in the history files but it's easier to manage if you have all of them in one place 
 		JAP = { country_event = 9999910 }	#Starting stockpile (clippers)
 		CHI = { country_event = 776405 }	#asian nerfs 7764xx.txt
-		JAN = { country_event = 600001 }	#Monthly repeating cleanup event
+		JAN = { country_event = 600001 }	#Monthly repeating cleanup event		
+		MAH = { set_country_flag = bengal_accept }
+		MUG = { set_country_flag = bengal_accept }
+		MAH = { set_country_flag = south_india_accept }
+		MUG = { set_country_flag = south_india_accept }
 		any_country = { 	#ENG gets this if they annex canada
 			limit = { 
 				OR = { 
@@ -862,6 +866,61 @@ country_event = {
 	country_event = 60150
 	}
 	##########end of cleanup.txt
+	#ACW.txt tldr USA, MEX if rank 10, JAP or ENG if they own vancouver
+	any_country = { 
+		limit = { 
+			tag = USA 
+			OR = { 
+				owns = 78 #Seattle
+				owns = 81 #Portland
+				owns = 85 #Eureka
+				owns = 13 #Vancouver
+			}
+		}
+	set_country_flag = alaska_purchasers
+	}
+	any_country = { 
+		limit = { 
+			tag = USA 
+			NOT = { 
+				owns = 78 #Seattle
+				owns = 81 #Portland
+				owns = 85 #Eureka
+				owns = 13 #Vancouver
+			}
+		}
+	clr_country_flag = alaska_purchasers
+	}
+	any_country = { 
+		limit = { 
+			OR = { tag = ENG tag = JAP }
+			owns = 13 #Vancouver
+		}
+	set_country_flag = alaska_purchasers
+	}
+	any_country = { 
+		limit = { 
+			OR = { tag = ENG tag = JAP }
+			NOT = { 
+				owns = 13 #Vancouver
+			}
+		}
+	clr_country_flag = alaska_purchasers
+	}
+	any_country = { 
+		limit = { 
+			tag = MEX
+			rank = 10
+		}
+	set_country_flag = alaska_purchasers
+	}
+	any_country = { 
+		limit = { 
+			tag = MEX
+			NOT = { rank = 10 }
+		}
+	clr_country_flag = alaska_purchasers
+	}
 	##########Formables deleting minor cores from their land (even if the minors still exist, i don't care)
 	any_country = { 
 		limit = { 

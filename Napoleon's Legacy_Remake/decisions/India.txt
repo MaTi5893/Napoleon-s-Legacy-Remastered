@@ -21,7 +21,7 @@ political_decisions = {
 		}
 	}
 	
-	take_what_is_ours = {
+	take_what_is_ours = {	#NLR addition
 		picture = indiaboaposter #Random pic I found online of an Indian man kicking the Portuguese out of Boa 
 		potential = {
 			tag = HND
