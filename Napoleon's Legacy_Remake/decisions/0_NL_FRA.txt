@@ -78,4 +78,41 @@ political_decisions = {
 			set_country_flag = unite_north_italy_gp
 		}
 	}
+	french_rhur_boom = {
+		picture = rhur_boom_decision
+		potential = { 
+			OR = {
+				tag = HRE
+				tag = FRA
+			}
+			tag = FRA
+			accepted_culture = rhenish
+			NOT = {has_country_flag = french_ruhr}
+		}
+		allow = {
+			is_greater_power = yes
+			nationalism_n_imperialism = 1
+			interchangeable_parts = 1
+			scientific_management = 1
+			iron_railroad = 1
+			RHI = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			war = no
+		}
+		effect = {
+			set_country_flag = french_ruhr
+			tech_school = prussian_tech_school
+			RHI = {
+				all_core = {
+					add_province_modifier = {
+						name = ruhr_boom
+						duration = 7300
+					}
+				}
+			}
+		}
+	}
 }

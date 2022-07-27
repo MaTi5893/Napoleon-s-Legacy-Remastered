@@ -534,7 +534,6 @@ political_decisions = {
 		}
 		effect = {
 			tech_school = french_tech_school
-			prestige = 20
 		}
 	}
 
@@ -639,6 +638,7 @@ political_decisions = {
 		picture = spanish_commonwealth_decision
 		potential = {
 			has_country_flag = spanish_south_america
+			NOT = { has_country_flag = SPC } 
 		}
 		allow = {
 			war = no
