@@ -50,31 +50,6 @@ political_decisions = {
 			set_country_flag = reintegrate_illiya 
 		}
 	}
-
-	the_crown_of_Bosnia = {
-		picture = decision_bosnia_KUK
-		potential = {
-			tag = KUK
-			NOT = {accepted_culture = bosniak}
-		}
-		allow = {
-			war=no
-			BOS = {
-				all_core = {
-					owned_by=THIS
-				}
-			}
-			revolution_n_counterrevolution=1
-		}
-		effect = {
-			BOS = {
-				all_core = {
-					add_core=THIS
-				}
-			}
-			add_accepted_culture=bosniak
-		}
-	}
 	accept_slovak = {
 		picture = slovaks
 		potential = {
@@ -86,6 +61,7 @@ political_decisions = {
 		}
 		effect = {
 			clr_country_flag = AUS1
+			add_accepted_culture = slovak
 			prestige = 5
 		}
 	}

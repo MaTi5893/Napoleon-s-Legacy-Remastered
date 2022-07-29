@@ -1,7 +1,6 @@
-
+political_decisions = {
 	form_peru_bolivia_confederation = {
 		picture = peru_bolivia
-		alert = yes
 		potential = {
 			tag = PEU
 			NOT = {
@@ -71,5 +70,5 @@
 			}
 			change_tag = PBC
 		}
-
 	}
+}

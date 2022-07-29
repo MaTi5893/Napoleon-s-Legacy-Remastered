@@ -48,6 +48,7 @@ political_decisions = {
 		picture = cuba_decision
 		potential = {
 			primary_culture = spanish	
+			NOT = { accepted_culture=caribeno }
 		}
 		allow = {
 			CUB = {

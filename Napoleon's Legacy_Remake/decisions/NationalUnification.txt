@@ -22,6 +22,7 @@ political_decisions = {
 							province_id = 410
 							province_id = 409
 							province_id = 412
+							is_core = SWI
 							owner = {
 								in_sphere = THIS
 							}
@@ -130,7 +131,6 @@ political_decisions = {
 	
 	form_north_german_confederation = {
 		potential = {
-			is_greater_power = yes
 			primary_culture = north_german
 			NOT = { 	
 				tag = GCF 
@@ -146,6 +146,7 @@ political_decisions = {
 				all_core = {
 					OR = {
 						OR = {
+							owned_by = FRA
 							owned_by = THIS
 							owner = {
 								in_sphere = THIS
@@ -168,9 +169,6 @@ political_decisions = {
 						tag = SCH 
 					}
 					in_sphere = THIS
-					NOT = {
-						tag = THIS
-					}
 				}
 				annex_to = THIS
 			}
@@ -452,9 +450,9 @@ political_decisions = {
 				change_province_name = "Kolmar"
 			}
 			409 = {
-				change_province_name = "Stra�burg"
+				change_province_name = "Strassburg"
 				state_scope = {
-					change_region_name = "Elsa�-Lothringen"
+					change_region_name = "Elsass-Lothringen"
 				}
 			}
 			prestige = 5

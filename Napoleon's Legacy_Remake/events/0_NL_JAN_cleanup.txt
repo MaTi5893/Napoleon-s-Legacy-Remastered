@@ -706,9 +706,11 @@ country_event = {
 			}
 			civilized = yes
 			NOT = {
-				political_parties = underground_parties
-				vote_franschise = none_voting
-				upper_house_composition = party_appointed
+				AND = { 
+					political_parties = underground_parties
+					vote_franschise = none_voting
+					upper_house_composition = party_appointed
+				}
 			}
 		}
 	country_event = 60050	#republic
