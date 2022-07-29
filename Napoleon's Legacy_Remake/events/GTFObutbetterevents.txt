@@ -5,7 +5,6 @@ country_event = {				#stolen from Victoria Universalis (this entire thing)
 	id = 91306
 	title = "EVTNAME91306"
 	desc = "EVTDESC91306"
-	picture = upper_house
 
 
 	is_triggered_only = yes
@@ -28,7 +27,6 @@ country_event = {
 	id = 91307
 	title = "EVTNAME91307"
 	desc = "EVTDESC91307"
-	picture = upper_house
 
 
 	is_triggered_only = yes
@@ -42,7 +40,6 @@ country_event = {
 	id = 91308
 	title = "EVTNAME91308"
 	desc = "EVTDESC91308"
-	picture = upper_house
 
 	allow_multiple_instances = yes
 

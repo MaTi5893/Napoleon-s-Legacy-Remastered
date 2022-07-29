@@ -187,34 +187,12 @@ political_decisions = {
 			RUS_676 = {
 				add_core = ROM
 			}
-			WAL = { all_core = { add_core = ROM remove_core = WAL } 
-			MOL = { all_core = { add_core = ROM remove_core = MOL } 
+			WAL = { all_core = { add_core = ROM remove_core = WAL } }
+			MOL = { all_core = { add_core = ROM remove_core = MOL } }
 			add_country_modifier = {
 				name = alexandru_ioan_cuza
 				duration = 2555
 			}		
-		}
-	}
-	move_capital_to_bucharest = {
-		picture = move_capital_to_bucharest
-		potential = {
-			tag = ROM
-			NOT = { has_country_flag = we_shall_make_it_beautiful }
-			664 = { owned_by = THIS }
-			NOT = { 
-				664 = { is_capital = yes }
-			}		
-		}
-
-		allow = {
-			war = no
-			
-		}
-
-		effect = {
-			set_country_flag = we_shall_make_it_beautiful
-			prestige = 2
-			capital = 664
 		}
 	}
 }

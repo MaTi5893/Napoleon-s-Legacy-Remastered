@@ -325,10 +325,6 @@ unite_the_principalities_title;Unite the Principalities;;;;Unir los Principados;
 unite_the_principalities_desc;Alexandru Ioan Cuza and the Partida Nationala, representing the pro-unification forces in both Principalities,win the vote decisively in Moldavia. After a majority of the Powers of Europe supported him, the divided electors in Wallachia switched their votes to Cuza as well. With the switch of support in Bucaresti, he became Domnitor (Prince) Alexandru Ioan I of both Principalities. Thus, a united Romania was born!;;;;Alexandru Ioan Cuza y la Partida Nationala, en representación de las fuerzas pro-unificación en ambos Principados, ganan la votación decisivamente en Moldavia. Después de que la mayoría de las Potencias de Europa lo apoyaran, los electores divididos en Valaquia también cambiaron sus votos a Cuza. Con el cambio de apoyo en Bucaresti, se convirtió en Domnitor (Príncipe) Alexandru Ioan I de ambos Principados. ?Así nació una Rumanía unida!;;;;;;;;x
 alexandru_ioan_cuza;Alexandru Ioan Cuza;;;;Alexandru Ioan Cuza;;;;;;;;x
 desc_alexandru_ioan_cuza;Born into the ranks of the Boyar aristocracy of Moldavia, Cuza supported the Liberal Revolution of 1848 and became a political exile for a time. As the new Prince of Romania, he advocates reform and modernisation, However, he faces significant Conservative opposition from within and the machinations of the European Powers from without.;;;;Nacido en las filas de la aristocracia boyarda de Moldavia, Cuza apoyó la Revolución Liberal de 1848 y se exilió políticamente por un tiempo. Como nuevo Príncipe de Rumanía, aboga por la reforma y la modernización. Sin embargo, se enfrenta a una importante oposición conservadora desde dentro ya las maquinaciones de las potencias europeas desde fuera.;;;;;;;;x
-move_capital_to_bucharest_title;Move Capital to Bucharest;;;;Mover capital a Bucarest;;;;;;;;x
-move_capital_to_bucharest_desc;The new Romanian state decided to make Bucharest its capital in 1862. Cuza and his successors spent large sums of money to construct boulevards and bridges, protect the city from Danubian floods, and encourage the development of enterprise and industry. The city became known as the 'Little Paris' between the World Wars for its culture and beauty.;;;;El nuevo estado rumano decidió hacer de Bucarest su capital en 1862. Cuza y sus sucesores gastaron grandes sumas de dinero para construir bulevares y puentes, proteger la ciudad de las inundaciones del Danubio y fomentar el desarrollo de empresas e industrias. La ciudad se hizo conocida como el "peque?o París" entre las guerras mundiales por su cultura y belleza.;;;;;;;;x
-complete_circassian_pacification_title;Complete Circassian Pacification;;;;Pacificación circasiana completa;;;;;;;;x
-complete_circassian_pacification_desc;The Caucasian War had been ongoing since 1817. Several major pacification campaigns had been launched against the Circassians, all of them unsuccessful. In 1858, Tsar Alexander II sent General Baryatinsky with overwhelming force into the region. Between 1858 and 1864 resistance was finally suppressed and the region pacified. Mass population expulsions and massacres occured, many Circassians resettling in The Ottoman Empire.;;;;La Guerra del Cáucaso había estado en curso desde 1817. Se habían lanzado varias campa?as importantes de pacificación contra los circasianos, todas ellas sin éxito. En 1858, el zar Alejandro II envió al general Baryatinsky con una fuerza abrumadora a la región. Entre 1858 y 1864 finalmente se suprimió la resistencia y se pacificó la región. Se produjeron expulsiones masivas de población y masacres, y muchos circasianos se reasentaron en el Imperio Otomano.;;;;;;;;x
 soviet_cities_title;Proclaim Soviet Cities;;;;Proclamar ciudades soviéticas;;;;;;;;x
 soviet_cities_desc;After the Russian Revolution, the ruling Bolsheviks renamed several Russian cities, notably to recognize early leaders and intellectuals in the Communist Party or simply to remove names tied to the old Tsarist era.;;;;Después de la Revolución Rusa, los bolcheviques gobernantes cambiaron el nombre de varias ciudades rusas, en particular para reconocer a los primeros líderes e intelectuales del Partido Comunista o simplemente para eliminar los nombres vinculados a la antigua era zarista.;;;;;;;;x
 restore_russian_cities_title;Restore Russian Cities;;;;Restaurar ciudades rusas;;;;;;;;x
@@ -495,7 +491,6 @@ LCT_liberal;Freisinnige Fraktion;;;;Fracción Freisinnige;;;;;;;;x
 LCT_reactionary;Haus von Liechtenstein;;;;Casa de Liechtenstein;;;;;;;;x
 LCT_conservative;Konservative Fraktion;;;;Fracción conservadora;;;;;;;;x
 LCT_socialist;Sozialistische Fraktion;;;;Fracción Sozialistische;;;;;;;;x
-LCT_anarcho_liberal;Radikale Fraktion;;;;Fracción Radikale;;;;;;;;x
 LCT_communist;Communist Fraktion;;;;Fracción Comunista;;;;;;;;x
 LCT_fascist;VDBL;;;;VDBL;;;;;;;;x
 BIH;Bihar;;;;Bihar;;;;;;;;x
@@ -504,7 +499,6 @@ BIH_proletarian_dictatorship;Bihari People's Republic;;;;República Popular de Bi
 BIH_conservative;Lok Janshakti Party;;;;Partido Lok Janshakti;;;;;;;;x
 BIH_liberal;Samata Party;;;;Fiesta Samata;;;;;;;;x
 BIH_reactionary;Bihar Vikas;;;;Bihar Vikas;;;;;;;;x
-BIH_anarcho_liberal;Bihari Radical Party;;;;Partido Radical Bihari;;;;;;;;x
 BIH_socialist;Janata Dal;;;;janata dal;;;;;;;;x
 BIH_communist;Bihari Communist Party;;;;Partido Comunista de Bihari;;;;;;;;x
 BIH_fascist;Bihari Fascist Party;;;;Partido fascista de Bihari;;;;;;;;x
@@ -519,7 +513,6 @@ PRI_ADJ;Puerto Rican;;;;puertorrique?o;;;;;;;;x
 PRI_liberal;Partido Liberal;;;;Partido Liberal;;;;;;;;x
 PRI_socialist;Partido Socialista;;;;Partido Socialista;;;;;;;;x
 PRI_conservative;Partido Estadista Republicano;;;;Partido Estadista Republicano;;;;;;;;x
-PRI_anarcho_liberal;Partido Anarchista;;;;partido anarquista;;;;;;;;x
 PRI_communist;Partido Comunista;;;;Partido Comunista;;;;;;;;x
 PRI_fascist;Partido Nacionalista;;;;Partido Nacionalista;;;;;;;;x
 PRI_reactionary;Union Republicana;;;;Unión Republicana;;;;;;;;x
@@ -529,7 +522,6 @@ SYR_liberal;Hizb al-Islah al-Suriy;;;;Hizb al-Islah al-Suriy;;;;;;;;x
 SYR_conservative;Jam'iyat al-Arabiya al-Fatat;;;;Jam'iyat al-Arabiya al-Fatat;;;;;;;;x
 SYR_socialist;Haraka al-Ishtirakiyyun al-Arab;;;;Haraka al-Ishtirakiyyun al-Arab;;;;;;;;x
 SYR_reactionary;Haraka al-Ahd al-Watani;;;;Haraka al-Ahd al-Watani;;;;;;;;x
-SYR_anarcho_liberal;Hizb al-Wataniyyin al-Ahrar;;;;Hizb al-Wataniyyin al-Ahrar;;;;;;;;x
 SYR_communist;Al-hizb ash-Shuyu'i as-Suri;;;;Al-hizb ash-Shuyu'i as-Suri;;;;;;;;x
 SYR_fascist;Hizb al-Ba'ath;;;;Hizb al-Baaz;;;;;;;;x
 CHI_presidential_dictatorship;Beiyang China;;;;Pekín China;;;;;;;;x
@@ -547,7 +539,6 @@ GNG_communist;Chinese Communist Party;;;;Partido Comunista Chino;;;;;;;;x
 GNG_liberal;Liberal Party;;;;Partido Liberal;;;;;;;;x
 GNG_conservative;Kuomintang Faction;;;;Facción del Kuomintang;;;;;;;;x
 GNG_fascist;Fascist Party;;;;partido fascista;;;;;;;;x
-GNG_anarcho_liberal;Freedom Party;;;;Partido de la libertad;;;;;;;;x
 EVTNAME12341234;Infamy Limit Violated!;;;;?Límite de infamia violado!;;;;;;;;x
 EVTDESC12341234;You're the worst scum of the earth and you deserve what's coming for you;;;;Eres la peor escoria de la tierra y te mereces lo que viene por ti;;;;;;;;x
 badboymod;Over Infamy Limit;;;;Sobre el límite de infamia;;;;;;;;x

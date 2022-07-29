@@ -280,11 +280,11 @@ political_decisions = {
 				duration = 14600
 			}
 			relation = {
-				with = FRA
+				who = FRA
 				value = 50
 			}
 			relation = {
-				with = ENG
+				who = ENG
 				value = 50
 			}
 			any_pop = {
@@ -352,11 +352,11 @@ political_decisions = {
 				background = attack_3.1
 			}
 			relation = {
-				with = RUS
+				who = RUS
 				value = -50
 			}
 			relation = {
-				with = AUS
+				who = AUS
 				value = -100
 			}
 			scaled_militancy = {

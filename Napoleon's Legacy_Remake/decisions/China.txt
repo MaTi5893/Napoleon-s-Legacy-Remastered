@@ -92,7 +92,7 @@ political_decisions = {
 			treasury = 5000
 			prestige = 25
 			relation = { 
-				with = ENG
+				who = ENG
 				value = -200
 			}
 			ENG = {

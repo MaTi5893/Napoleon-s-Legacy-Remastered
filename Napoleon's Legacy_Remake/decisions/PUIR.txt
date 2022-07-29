@@ -82,11 +82,12 @@ political_decisions = {
 					war_with = TUR
 				}
 				relation = {
+					who = THIS 
 					value = 100
 				}
 			}
 			relation = {
-				with = TUR
+				who = TUR
 				value = -150
 			}
 			TUR_923 = {

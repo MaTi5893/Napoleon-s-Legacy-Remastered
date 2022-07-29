@@ -105,7 +105,7 @@ country_event = {
 	}
 	option = {
 	name = "8000 pounds"
-	random_country = { limit = { tag = THIS treasury = 8000 } treasury = -8000
+	random_country = { limit = { tag = THIS money = 8000 } treasury = -8000
 	FROM = {treasury = 8000}
 	}  
 	}

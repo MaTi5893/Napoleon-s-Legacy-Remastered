@@ -1,0 +1,20 @@
+country_event = {
+	id = 600035
+	is_triggered_only = yes
+    	title = "EVTNAME600035"
+	desc = "EVTDESC600035"
+	picture = "debate"
+
+    	option = {
+        		name = "The Western Path"
+		set_country_flag = western_russia_path
+	}
+	option = {
+        		name = "The Eastern Path"
+		set_country_flag = southern_russia_path
+	}
+	option = {
+        		name = "Let me think about it"
+	}
+}
+

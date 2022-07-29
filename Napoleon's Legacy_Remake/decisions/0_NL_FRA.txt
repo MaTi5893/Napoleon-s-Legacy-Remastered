@@ -75,7 +75,7 @@ political_decisions = {
                 value = 300
             }
 			LOM = {change_tag = NIT}	
-			NIT = { any_core = { remove_core = LOM } } 
+			NIT = { all_core = { remove_core = LOM } } 
 			set_country_flag = unite_north_italy_gp
 		}
 	}
