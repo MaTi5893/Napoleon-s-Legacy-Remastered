@@ -16,12 +16,7 @@ country_event = {
 	trigger = {
 		is_ideology_enabled = socialist
 		civilized = yes
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = proletarian_dictatorship }
 		OR = {
 			trade_unions = non_socialist
 			trade_unions = all_trade_unions
@@ -115,12 +110,7 @@ country_event = {
 	trigger = {
 		is_ideology_enabled = socialist
 		civilized = yes
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = proletarian_dictatorship }
 		OR = {
 			trade_unions = non_socialist
 			trade_unions = all_trade_unions
@@ -242,12 +232,7 @@ country_event = {
 	trigger = {
 		is_ideology_enabled = socialist
 		civilized = yes
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = proletarian_dictatorship }
 		OR = {
 			trade_unions = non_socialist
 			trade_unions = all_trade_unions
@@ -361,12 +346,7 @@ country_event = {
 	trigger = {
 		is_ideology_enabled = socialist
 		civilized = yes
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = proletarian_dictatorship }
 		OR = {
 			trade_unions = non_socialist
 			trade_unions = all_trade_unions
@@ -479,12 +459,7 @@ country_event = {
 	trigger = {
 		is_ideology_enabled = socialist
 		civilized = yes
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = proletarian_dictatorship }
 		OR = {
 			trade_unions = non_socialist
 			trade_unions = all_trade_unions
@@ -600,12 +575,7 @@ country_event = {
 	trigger = {
 		is_ideology_enabled = socialist
 		civilized = yes
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = proletarian_dictatorship }
 		OR = {
 			trade_unions = non_socialist
 			trade_unions = all_trade_unions
@@ -722,12 +692,7 @@ country_event = {
 		is_ideology_enabled = socialist
 		civilized = yes
 		year = 1886
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = proletarian_dictatorship }
 		OR = {
 			trade_unions = non_socialist
 			trade_unions = all_trade_unions
@@ -839,12 +804,7 @@ country_event = {
 	trigger = {
 		is_ideology_enabled = socialist
 		civilized = yes
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = proletarian_dictatorship }
 		press_rights = free_press
 	}
 	
@@ -955,12 +915,7 @@ country_event = {
 	trigger = {
 		is_ideology_enabled = socialist
 		civilized = yes
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = proletarian_dictatorship }
 	}
 	
 	mean_time_to_happen = {
@@ -1074,12 +1029,7 @@ country_event = {
 	trigger = {
 		is_ideology_enabled = socialist
 		civilized = yes
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = proletarian_dictatorship }
 	}
 	
 	mean_time_to_happen = {
@@ -1197,12 +1147,7 @@ country_event = {
 			fascist = 5
 		}
 		civilized = yes
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = fascist_dictatorship }
 	}
 	
 	mean_time_to_happen = {
@@ -1324,12 +1269,7 @@ country_event = {
 		NOT = {
 			has_country_flag = paramilitaries_outlawed
 		}
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = fascist_dictatorship }
 		public_meetings = yes_meeting
 	}
 	
@@ -1428,12 +1368,7 @@ country_event = {
 		civilized = yes
 		fascist = 5
 		unemployment = 0.05
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = fascist_dictatorship }
 	}
 	
 	mean_time_to_happen = {
@@ -1535,12 +1470,7 @@ country_event = {
 		civilized = yes
 		fascist = 30
 		average_militancy = 4
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = fascist_dictatorship }
 	}
 	
 	mean_time_to_happen = {
@@ -1643,12 +1573,7 @@ country_event = {
 		war = no
 		war_exhaustion = 1
 		unemployment = 0.04
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = fascist_dictatorship }
 	}
 	
 	mean_time_to_happen = {
@@ -1747,12 +1672,7 @@ country_event = {
 			press_rights = censored_press
 			press_rights = free_press
 		}
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = fascist_dictatorship }
 	}
 	
 	mean_time_to_happen = {
@@ -1854,12 +1774,7 @@ country_event = {
 		civilized = yes
 		fascist = 10
 		average_militancy = 4
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = fascist_dictatorship }
 		NOT = {
 			administration_spending = 0.7
 		}
@@ -1959,12 +1874,7 @@ country_event = {
 		is_ideology_enabled = fascist
 		civilized = yes
 		fascist = 10
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = fascist_dictatorship }
 	}
 	
 	mean_time_to_happen = {
@@ -2097,12 +2007,7 @@ country_event = {
 		}
 		civilized = yes
 		fascist = 10
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = fascist_dictatorship }
 	}
 	
 	mean_time_to_happen = {
@@ -2206,12 +2111,7 @@ country_event = {
 		is_ideology_enabled = fascist
 		civilized = yes
 		fascist = 20
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = fascist_dictatorship }
 	}
 	
 	mean_time_to_happen = {
@@ -2325,12 +2225,7 @@ country_event = {
 		NOT = {
 			trade_unions = no_trade_unions
 		}
-		OR = {
-			government = prussian_constitutionalism
-			government = democracy
-			government = hms_government
-			government = absolute_monarchy
-		}
+		NOT = { government = fascist_dictatorship government = proletarian_dictatorship }
 	}
 	
 	mean_time_to_happen = {

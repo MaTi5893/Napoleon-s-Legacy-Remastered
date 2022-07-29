@@ -5,10 +5,10 @@ political_decisions = {
 			AND = {
 				tag = MOL
 				NOT = {
-				AND = { 
-					ai = yes
-					WAL = { ai = no } 
-				}
+					AND = { 
+						ai = yes
+						WAL = { ai = no } 
+					}
 				}
 			}
 			AND = {
@@ -101,56 +101,56 @@ political_decisions = {
 		picture = unite_the_principalities
 		potential = {
 			OR = {
-			AND = {
-				tag = MOL
-				NOT = {
-				AND = { 
-					ai = yes
-					WAL = { ai = no } 
+				AND = {
+					tag = MOL
+					NOT = {
+						AND = { 
+							ai = yes
+							WAL = { ai = no } 
+						}
+					}
 				}
+				AND = {
+					tag = WAL
+					ai = no
+					MOL = { ai = yes }
 				}
-			}
-			AND = {
-				tag = WAL
-				ai = no
-				MOL = { ai = yes }
-			}
 			}
 			MOL = {
-			OR = {
-				check_variable = {
-				which = unification_count
-				value = 4
+				OR = {
+					check_variable = {
+					which = unification_count
+					value = 4
+					}
+					check_variable = {
+					which = unification_count
+					value = 5
+					}
+					check_variable = {
+					which = unification_count
+					value = 6
+					}
+					check_variable = {
+					which = unification_count
+					value = 7
+					}
+					check_variable = {
+					which = unification_count
+					value = 8
+					}
+					check_variable = {
+					which = unification_count
+					value = 9
+					}
+					check_variable = {
+					which = unification_count
+					value = 10
+					}
+					check_variable = {
+					which = unification_count
+					value = 11
+					}
 				}
-				check_variable = {
-				which = unification_count
-				value = 5
-				}
-				check_variable = {
-				which = unification_count
-				value = 6
-				}
-				check_variable = {
-				which = unification_count
-				value = 7
-				}
-				check_variable = {
-				which = unification_count
-				value = 8
-				}
-				check_variable = {
-				which = unification_count
-				value = 9
-				}
-				check_variable = {
-				which = unification_count
-				value = 10
-				}
-				check_variable = {
-				which = unification_count
-				value = 11
-				}
-			}
 			}
 		}
 			
@@ -187,37 +187,12 @@ political_decisions = {
 			RUS_676 = {
 				add_core = ROM
 			}
-			ROM = {
-				all_core = { 
-					remove_core = WAL
-					remove_core = MOL 
-				}
-			}
-			RUS = {
-				any_owned = {
-					remove_core = WAL
-					remove_core = MOL 
-				}
-			}
-			TUR = {
-				any_owned = {
-					remove_core = WAL
-					remove_core = MOL 
-				}
-			}
-			AUS = {
-				any_owned = {
-					remove_core = WAL
-					remove_core = MOL 
-				}
-			}
+			WAL = { all_core = { add_core = ROM remove_core = WAL } 
+			MOL = { all_core = { add_core = ROM remove_core = MOL } 
 			add_country_modifier = {
 				name = alexandru_ioan_cuza
 				duration = 2555
 			}		
-		}
-		ai_will_do = {
-			factor = 1
 		}
 	}
 	move_capital_to_bucharest = {
@@ -240,9 +215,6 @@ political_decisions = {
 			set_country_flag = we_shall_make_it_beautiful
 			prestige = 2
 			capital = 664
-		}
-		ai_will_do = {
-			factor = 1
 		}
 	}
 }

@@ -3,7 +3,6 @@ GBR_ADJ;British;British;British;;británico;;Spanish Loc;;;;;;x
 GBR;Great Britain;Great Britain;Great Britain;;Gran Breta?a;;Gran Bretana;;;;;;x
 GBR_proletarian_dictatorship;British Commonwealth;British Commonwealth;British Commonwealth;;Mancomunidad Británica;;Spanish Loc;;;;;;x
 GBR_presidential_dictatorship;British Commonwealth;British Commonwealth;British Commonwealth;;Mancomunidad Británica;;Spanish Loc;;;;;;x
-GBR_bourgeois_dictatorship;British Commonwealth;British Commonwealth;British Commonwealth;;Mancomunidad Británica;;Spanish Loc;;;;;;x
 GBR_fascist_dictatorship;British Commonwealth;British Commonwealth;British Commonwealth;;Mancomunidad Británica;;Spanish Loc;;;;;;x
 GBR_absolute_monarchy;Great Britain;Great Britain;Great Britain;;Gran Breta?a;;Spanish Loc;;;;;;x
 GBR_prussian_constitutionalism;Great Britain;Great Britain;Great Britain;;Gran Breta?a;;Spanish Loc;;;;;;x
@@ -15,7 +14,6 @@ GBR_liberal_87;National Liberals;National Liberals;National Liberals;;Liberales 
 GBR_socialist_85;Socialists;Socialists;Socialists;;Socialistas;;Spanish Loc;;;;;;x
 GBR_socialist_99;National Socialists;National Socialists;National Socialists;;Nacionalsocialistas;;Spanish Loc;;;;;;x
 GBR_reactionary_84;Roundheads;Roundheads;Roundheads;;Cabezas redondas;;Spanish Loc;;;;;;x
-GBR_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;Liberales radicales;;Spanish Loc;;;;;;x
 GBR_communist_86;Communists;Communists;Communists;;Comunistas;;Spanish Loc;;;;;;x
 GBR_fascist_72;Fascists;Fascists;Fascists;;Fascistas;;Spanish Loc;;;;;;x
 ICF_ADJ;Indian;Indian;Indian;;indio;;Spanish Loc;;;;;;x
@@ -29,7 +27,6 @@ ICF_liberal_87;National Liberals;National Liberals;National Liberals;;Liberales 
 ICF_socialist_85;Socialists;Socialists;Socialists;;Socialistas;;Spanish Loc;;;;;;x
 ICF_socialist_99;National Socialists;National Socialists;National Socialists;;Nacionalsocialistas;;Spanish Loc;;;;;;x
 ICF_reactionary_81;Chieftain Faction;Chieftain Faction;Chieftain Faction;;Facción del Jefe;;Spanish Loc;;;;;;x
-ICF_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;Liberales Radicales;;Spanish Loc;;;;;;x
 ICF_communist_86;Communists;Communists;Communists;;Comunistas;;Spanish Loc;;;;;;x
 ICF_fascist_72;Fascists;Fascists;Fascists;;Fascistas;;Spanish Loc;;;;;;x
 MAH_ADJ;Maharashtran;Indian;Indian;;Maharashtrán;;Spanish Loc;;;;;;x
@@ -41,7 +38,6 @@ MAH_liberal_87;National Liberals;National Liberals;National Liberals;;Liberales 
 MAH_socialist_85;Socialists;Socialists;Socialists;;Socialistas;;Spanish Loc;;;;;;x
 MAH_socialist_99;National Socialists;National Socialists;National Socialists;;Nacionalsocialistas;;Spanish Loc;;;;;;x
 MAH_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;Liderazgo de la Monarquía;;Spanish Loc;;;;;;x
-MAH_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;Liberales Radicales;;Spanish Loc;;;;;;x
 MAH_communist_86;Communists;Communists;Communists;;Comunistas;;Spanish Loc;;;;;;x
 MAH_fascist_72;Fascists;;;;Fascistas;;;;;;;;x
 UPB_ADJ;Portuguese-Brazilian;;;;portugués-brasile?o;;;;;;;;x
@@ -56,7 +52,6 @@ UPB_liberal_87;National Liberals;National Liberals;National Liberals;;Liberales 
 UPB_socialist_85;Socialists;Socialists;Socialists;;socialistas;;Spanish Loc;;;;;;x
 UPB_socialist_99;National Socialists;National Socialists;National Socialists;;Nacionalsocialistas;;Spanish Loc;;;;;;x
 UPB_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;Liderazgo de la monarquía;;Spanish Loc;;;;;;x
-UPB_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;Liberales radicales;;Spanish Loc;;;;;;x
 UPB_communist_86;Communists;Communists;Communists;;comunistas;;Spanish Loc;;;;;;x
 UPB_fascist_72;Fascists;Fascists;Fascists;;Fascistas;;Spanish Loc;;;;;;x
 NIT_ADJ;Italian;Italian;Italian;;italiano;;Spanish Loc;;;;;;x
@@ -67,7 +62,6 @@ NIT_liberal_87;National Liberals;National Liberals;National Liberals;;Liberales 
 NIT_socialist_85;Socialists;Socialists;Socialists;;socialistas;;Spanish Loc;;;;;;x
 NIT_socialist_99;National Socialists;National Socialists;National Socialists;;Nacionalsocialistas;;Spanish Loc;;;;;;x
 NIT_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;Liderazgo de la monarquía;;Spanish Loc;;;;;;x
-NIT_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;Liberales radicales;;Spanish Loc;;;;;;x
 NIT_communist_86;Communists;Communists;Communists;;comunistas;;Spanish Loc;;;;;;x
 NIT_fascist_72;Fascists;Fascists;Fascists;;Fascistas;;Spanish Loc;;;;;;x
 NPL_ADJ;Neapolitan;Neapolitan;Neapolitan;;napolitano;;Spanish Loc;;;;;;x
@@ -78,7 +72,6 @@ NAP_liberal_87;National Liberals;National Liberals;National Liberals;;Liberales 
 NAP_socialist_85;Socialists;Socialists;Socialists;;socialistas;;Spanish Loc;;;;;;x
 NAP_socialist_99;National Socialists;National Socialists;National Socialists;;Nacionalsocialistas;;Spanish Loc;;;;;;x
 NAP_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;Liderazgo de la monarquía;;Spanish Loc;;;;;;x
-NAP_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;Liberales radicales;;Spanish Loc;;;;;;x
 NAP_communist_86;Communists;Communists;Communists;;comunistas;;Spanish Loc;;;;;;x
 NAP_fascist_72;Fascists;Fascists;Fascists;;Fascistas;;Spanish Loc;;;;;;x
 SYC_ADJ;Siclian;Sicilian;Sicilian;;sicliano;;Spanish Loc;;;;;;x
@@ -89,7 +82,6 @@ SYC_liberal_87;National Liberals;National Liberals;National Liberals;;Liberales 
 SYC_socialist_85;Socialists;Socialists;Socialists;;socialistas;;Spanish Loc;;;;;;x
 SYC_socialist_99;National Socialists;National Socialists;National Socialists;;Nacionalsocialistas;;Spanish Loc;;;;;;x
 SYC_reactionary_84;Monarchy Leadership;Monarchy Leadership;Monarchy Leadership;;Liderazgo de la monarquía;;Spanish Loc;;;;;;x
-SYC_anarcho_liberal_93;Radical Liberals;Radical Liberals;Radical Liberals;;Liberales radicales;;Spanish Loc;;;;;;x
 SYC_communist_86;Communists;Communists;Communists;;comunistas;;Spanish Loc;;;;;;x
 SYC_fascist_72;Fascists;Fascists;Fascists;;Fascistas;;Spanish Loc;;;;;;x
 HAN_ADJ;Westfalian;Westfalian;Westfalian;;westfaliano;;Spanish Loc;;;;;;x
@@ -100,9 +92,6 @@ TUS;Etruria;;;;Etruria;;;;;;;;x
 TUS_hms_government;Tuscany;;;;Toscana;;;;;;;;x
 TUS_absolute_monarchy;Tuscany;;;;Toscana;;;;;;;;x
 TUS_prussian_constitutionalism;Tuscany;;;;Toscana;;;;;;;;x
-FRA_prussian_constitutionalism;The French Empire;;;;El Imperio Francés;;;;;;;;x
-FRA_hms_government;The French Empire;;;;El Imperio Francés;;;;;;;;x
-FRA_absolute_monarchy;The French Empire;;;;El Imperio Francés;;;;;;;;x
 WUL;Wurzburg;;;;Würzburg;;;;;;;;x
 WUL_ADJ;Wurzburgian;;;;Wurzburgiano;;;;;;;;x
 BRA;Berg;;;;Berg;;;;;;;;x
@@ -113,7 +102,6 @@ INO_conservative;Partai Golongan Karya;;;;Partai Golongan Karya;;;;;;;;x
 INO_liberal;Partai Majelis Syuro Muslimin Indonesia;;;;Partai Majelis Syuro Muslim en Indonesia;;;;;;;;x
 INO_liberal_2;Partai Demokrat;;;;Partai Demócrata;;;;;;;;x
 INO_reactionary;Nahdlatul Ulama;;;;Nahdlatul Ulama;;;;;;;;x
-INO_anarcho_liberal;Partai Nasdem;;;;Partai Nasdem;;;;;;;;x
 INO_socialist;Partai Sosialis Indonesia;;;;Partai Sosialis Indonesia;;;;;;;;x
 INO_socialist_2;Partai Nasional Indonesia;;;;Partai Nacional Indonesia;;;;;;;;x
 INO_communist;Partai Komunis Indonesia;;;;Partai Komunis Indonesia;;;;;;;;x
@@ -129,3 +117,13 @@ SWI_democracy;The Helvetic Republic;;;;La República Helvética;;;;;;;;x
 NET_democracy;The Batavian Republic;;;;La República de Batavia;;;;;;;;x
 SLS;Silesia;;;;Silesia;;;;;;;;x
 SLS_ADJ;Silesian;;;;Silesiano;;;;;;;;x
+PBC;Peru-Bolivian Confederation;;;;SPANISH LOC;;;;;;;;x
+PBC_ADJ;Peru-Bolivian;;;;SPANISH LOC;;;;;;;;x
+PBC_democracy;The Andean Republic;;;;SPANISH LOC;;;;;;;;x
+PBC_proletarian_dictatorship;The People's Republic of Peru-Bolivia;;;;SPANISH LOC;;;;;;;;x
+PBC_proletarian_dictatorship_ADJ;Peru-Bolivian;;;;SPANISH LOC;;;;;;;;x
+PBC_absolute_monarchy;Great Peru;;;;SPANISH LOC;;;;;;;;x
+PBC_proletarian_dictatorship;The People's Andine Republic;;;;SPANISH LOC;;;;;;;;x
+PBC_proletarian_dictatorship_ADJ;Andine;;;;SPANISH LOC;;;;;;;;x
+PBC_democracy;Andine Federation;;;;SPANISH LOC;;;;;;;;x
+PBC_democracy_ADJ;Andine;;;;SPANISH LOC;;;;;;;;x

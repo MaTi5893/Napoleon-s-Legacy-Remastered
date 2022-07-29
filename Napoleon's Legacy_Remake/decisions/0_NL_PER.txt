@@ -6,9 +6,9 @@ political_decisions = {
 		}
 		allow = {
 			PER = {
-			all_core = {
-				owned_by = THIS
-			}
+				all_core = {
+					owned_by = THIS
+				}
 			}
 			OR = {
 				is_greater_power = yes

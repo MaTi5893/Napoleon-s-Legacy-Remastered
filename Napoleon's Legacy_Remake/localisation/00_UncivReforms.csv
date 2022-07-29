@@ -616,7 +616,6 @@ BEL_liberal_4;Progressieve Partij;;;;Partido Progresivo;;;;;;;;x
 DAN_conservative_2;Konservative Folkeparti;;;;Folkeparti conservador;;;;;;;;x
 DAN_liberal_3;Radikale-Venstre;;;;Radikale-Venstre;;;;;;;;x
 DAN_liberal_4;Danmarks Retsforbund;;;;Retsforbund de Dinamarca;;;;;;;;x
-FRA_anarcho_liberal_2;Confederation Generale du Travail;;;;Confederación General del Trabajo;;;;;;;;x
 FRA_conservative_6;Action Liberale;;;;acción liberal;;;;;;;;x
 FRA_liberal_4;Parti Republicain Radical;;;;Partido Republicano Radical;;;;;;;;x
 FRA_liberal_5;Alliance Republicaine Democratique;;;;Alianza Republicana Democrática;;;;;;;;x
@@ -632,7 +631,6 @@ ITA_liberal_3;Sinistra Dissidente;;;;Sinistra Disidente;;;;;;;;x
 ITA_liberal_4;Partito Repubblicano Italiano;;;;Partito Republicano Italiano;;;;;;;;x
 ITA_liberal_5;Partito Liberale Democratico;;;;Partido Liberal Democrático;;;;;;;;x
 ITA_socialist_2;Partito Socialista Italiano;;;;Partido Socialista Italiano;;;;;;;;x
-ITA_anarcho_liberal_2;Partito Radicale;;;;Partito Radical;;;;;;;;x
 POR_conservative_3;Novo Partido Progressista;;;;Nuevo Partido Progresista;;;;;;;;x
 POR_conservative_4;Partido Conservador;;;;Partido Conservador;;;;;;;;x
 SPA_conservative;Partido Moderado;;;;partido moderado;;;;;;;;x
@@ -650,9 +648,6 @@ SPA_conservative_3;Lliga Regionalista Cat.;;;;Liga Regionalista Cat.;;;;;;;;x
 SPA_liberal_7;Solidaridad Catalana;;;;Solidaridad Catalana;;;;;;;;x
 SPA_conservative_4;Nacionalista Vasco;;;;nacionalista vasco;;;;;;;;x
 SPA_conservative_5;Union Nacional;;;;Unión Nacional;;;;;;;;x
-SPA_anarcho_liberal;Partido Democratico;;;;Partido Democrático;;;;;;;;x
-SPA_anarcho_liberal_2;Republicano Federal;;;;republicano federal;;;;;;;;x
-SPA_anarcho_liberal_3;Radical Republicano;;;;republicano radical;;;;;;;;x
 SPA_fascist;Falange;;;;Falange;;;;;;;;x
 TUR_conservative_4;Terakkiperver Cumhuriyet Firkasi;;;;Terakkiperver Cumhuriyet Firkasi;;;;;;;;x
 USA_conservative;Democrats;;;;Demócratas;;;;;;;;x
@@ -667,7 +662,4 @@ USA_liberal_4;Democratic Party;;;;partido Democrático;;;;;;;;x
 USA_liberal_5;Populist Party;;;;partido populista;;;;;;;;x
 USA_liberal_6;Progressive Party;;;;Partido Progresista;;;;;;;;x
 USA_reactionary_2;American Party;;;;partido americano;;;;;;;;x
-USA_anarcho_liberal;Liberty Party;;;;Partido de la libertad;;;;;;;;x
-USA_anarcho_liberal_2;Free Soil Party;;;;Fiesta del suelo libre;;;;;;;;x
-USA_anarcho_liberal_3;Revolutionary Party;;;;Partido Revolucionario;;;;;;;;x
 USA_communist_2;Communist Party;;;;fiesta comunista;;;;;;;;x

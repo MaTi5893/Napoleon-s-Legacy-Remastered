@@ -89,7 +89,6 @@ political_decisions = {
 #			OR = {
 #				ruling_party_ideology = conservative
 #				ruling_party_ideology = liberal
-#				ruling_party_ideology = anarcho_liberal
 #			}
 #			pro_military = 5
 #			laissez_faire = 5
@@ -165,7 +164,6 @@ political_decisions = {
 #			tech_school = traditional_academic
 #			OR = {
 #				ruling_party_ideology = liberal
-#				ruling_party_ideology = anarcho_liberal
 #			}
 #			laissez_faire = 5
 #			free_trade = 5

@@ -1,0 +1,43 @@
+	country_event = { 	
+		id = 600500
+		is_triggered_only = yes 
+		title = "The Ancien Regime"	
+		desc = "Today, troops from $FROMCOUNTRY$ marched into our capital and proclaimed the restoration of the pre-Napoleonic monarchy."
+		picture = SaxeCoburgGotha 		#picture of a royal-looking family
+		immediate = { 
+			government = absolute_monarchy		
+			political_reform = none_voting
+			political_reform = party_appointed
+			political_reform = no_meeting
+			political_reform = state_press
+			political_reform = no_trade_unions
+			political_reform = underground_parties
+			#neutrality = yes
+			#maybe uncomment above?
+		}
+		option = { 
+			name = "Vive le Roi!"
+		}
+	}
+	country_event = { 	
+		id = 600501
+		is_triggered_only = yes 
+		title = "The Napoleonic Republic"	
+		desc = "Today, troops from $FROMCOUNTRY$ marched into our capital and proclaimed the beginning of a new Republic."
+		picture = god 		#you know what painting this is 
+		immediate = { 
+			government = revolutionary_republic
+			political_reform = universal_weighted_voting
+			political_reform = population_equal_weight
+			political_reform = yes_meeting
+			political_reform = free_press
+			political_reform = non_socialist
+			political_reform = gerrymandering
+			#neutrality = yes
+			#maybe uncomment above?
+		}
+		option = { 
+			name = "Vive le Republique!"
+		}
+	}	
+

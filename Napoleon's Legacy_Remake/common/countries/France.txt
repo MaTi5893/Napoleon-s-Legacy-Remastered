@@ -4,13 +4,12 @@ color = { 23 42 85 }				#navy blue or something
 #color = { 45  45  97 }			#GFM Argentine Confederation
 #absolute_monarchy = { 0 0 128 }		#navy
 #absolute_monarchy = { 0 0 102 }		#old NLR france color
-absolute_monarchy = { 20 20 100 }		#same as the culture
+#absolute_monarchy = { 20 20 100 }		#same as the culture
+absolute_monarchy = { 255 255 255 }		#pure hwhite
+napoleonic_empire = { 45  45  97 } 		#random color off a map, light purple
 presidential_dictatorship = { 17 30 108 } 	#royal
 #democracy = { 114 133 165 }			#pigeon
 democracy = { 115 135 190 } 			#AoE color
-#bourgeois_dictatorship = { 0 49 82 }		#prussian blue
-#bourgeois_dictatorship = { 79 151 163 } 	#turkish blue
-bourgeois_dictatorship = { 79 81 109 } 		#independence
 #proletarian_dictatorship = { 229 0 39 }	#France's communist party color
 proletarian_dictatorship = { 237 40 57 }	#Imperial Red
 fascist_dictatorship = { 12 0 45 }		#Took this color from anon's hfm submod, looks nice
@@ -42,34 +41,6 @@ party = {
 	religious_policy = pluralism
 	citizenship_policy = limited_citizenship
 	war_policy = anti_military
-}
-
-party = {
-	name = "FRA_conservative"
-	start_date = 2000.1.1
-	end_date = 1870.1.1
-
-	ideology = conservative
-
-	economic_policy = interventionism
-	trade_policy = protectionism
-	religious_policy = secularized
-	citizenship_policy = full_citizenship
-	war_policy = anti_military
-}
-
-party = {
-	name = "FRA_socialist"
-	start_date = 2000.1.1
-	end_date = 1870.1.1
-
-	ideology = socialist
-
-	economic_policy = state_capitalism
-	trade_policy = protectionism
-	religious_policy = secularized
-	citizenship_policy = limited_citizenship
-	war_policy = pacifism
 }
 
 party = {
@@ -138,20 +109,6 @@ party = {
 	economic_policy = laissez_faire
 	trade_policy = protectionism
 	religious_policy = pluralism
-	citizenship_policy = full_citizenship
-	war_policy = anti_military
-}
-
-party = {
-	name = "FRA_anarcho_liberal"
-	start_date = 1830.1.1
-	end_date = 2000.1.1
-
-	ideology = anarcho_liberal
-
-	economic_policy = interventionism
-	trade_policy = protectionism
-	religious_policy = secularized
 	citizenship_policy = full_citizenship
 	war_policy = anti_military
 }

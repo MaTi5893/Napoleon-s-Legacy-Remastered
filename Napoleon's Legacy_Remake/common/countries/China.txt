@@ -58,20 +58,6 @@ party = {
 }
 
 party = {
-	name = "CHI_anarcho_liberal"
-	start_date = 1830.1.1
-	end_date = 2000.1.1
-
-	ideology = anarcho_liberal
-
-	economic_policy = state_capitalism
-	trade_policy = free_trade
-	religious_policy = secularized
-	citizenship_policy = full_citizenship
-	war_policy = anti_military
-}
-
-party = {
 	name = "CHI_conservative_3"
 	start_date = 1880.1.1
 	end_date = 1915.1.1

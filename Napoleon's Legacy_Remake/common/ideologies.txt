@@ -431,31 +431,5 @@ liberal_group = {
 			base = 1
 		}
 	}
-	
-	anarcho_liberal = {
-		color = { 150 150 10 }
-		date = 1848.1.1
-		
-		add_political_reform = {
-			base = 0
-		}
-		remove_political_reform = {
-			base = 0
-		}
-		add_social_reform = {
-			base = 0
-		}
-		remove_social_reform = {
-			base = 1
-		}
-		
-		add_military_reform = {
-			base = -1
-		}
-		
-		add_economic_reform = {
-			base = -1
-		}
-	}
 }
 	

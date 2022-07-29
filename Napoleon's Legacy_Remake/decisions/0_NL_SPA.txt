@@ -1,9 +1,8 @@
-political_decisions = {	#you either form iberia or you accept stuff overseas
+political_decisions = {
 	form_iberia = {
 		picture = iberia
 		potential = {
-			tag = SPA 
-			NOT = { accepted_culture = caribeno }	
+			tag = SPA
 		}
 		allow = {
 			war=no
@@ -40,20 +39,15 @@ political_decisions = {	#you either form iberia or you accept stuff overseas
 					secede_province = THIS 
 				}
 			}
-			inherit = SPA 
 			POR = { all_core = { add_core = THIS } } 
-			SPA = { all_core = { add_core = THIS } }
-			add_accepted_culture = spanish
-			add_accepted_culture = catalan
-			add_accepted_culture = basque
+			SPA = { all_core = { add_core = THIS remove_core = SPA } }
 			add_accepted_culture = portuguese
 		}
 	}
 	expand_citizenship1 = {
 		picture = cuba_decision
 		potential = {
-			tag = SPA 
-			NOT = { accepted_culture = caribeno }		
+			primary_culture = spanish	
 		}
 		allow = {
 			CUB = {
@@ -91,7 +85,7 @@ political_decisions = {	#you either form iberia or you accept stuff overseas
 	expand_citizenship2 = {
 		picture = philipines_decision
 		potential = {
-			tag = SPA
+			primary_culture = spanish	
 			accepted_culture = caribeno
 			NOT = { accepted_culture = filipino}
 		}

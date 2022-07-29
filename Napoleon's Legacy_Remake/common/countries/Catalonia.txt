@@ -30,20 +30,6 @@ party = {
 }
 
 party = {
-	name = "CAT_anarcho_liberal"
-	start_date = 1830.1.1
-	end_date = 2000.1.1
-
-	ideology = anarcho_liberal
-
-	economic_policy = interventionism
-	trade_policy = free_trade
-	religious_policy = secularized
-	citizenship_policy = residency
-	war_policy = anti_military
-}
-
-party = {
 	name = "CAT_conservative_2"
 	start_date = 1901.1.1
 	end_date = 2000.1.1

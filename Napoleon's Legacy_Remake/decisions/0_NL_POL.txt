@@ -2,7 +2,7 @@ political_decisions = {
 	create_cop = {
 		picture = duchy_of_warsaw
 		potential = {
-			primary_culture = polish
+			tag = PLC
 			NOT = { any_owned_province = { has_province_modifier = cop } }
 			owns = 703
 		}
@@ -33,7 +33,7 @@ political_decisions = {
 	reconquest_of_north_territory = { 
 		picture = decision_prussia_POL
 		potential = {
-			primary_culture = polish
+			tag = PLC
 			NOT = {has_country_flag=reconquest_of_north_territory}
 		}
 		allow = {
@@ -63,7 +63,7 @@ political_decisions = {
 	unite_poles1 = {
 		picture = decision_all_POL
 		potential = {
-			primary_culture = polish
+			tag = PLC
 			has_country_flag=reconquest_of_north_territory
 			NOT = {has_country_flag=unite_poles1}
 		}
@@ -85,7 +85,7 @@ political_decisions = {
 	unite_poles2={
 		picture = decision_all_POL
 		potential = {
-			primary_culture = polish
+			tag = PLC
 			#has_country_flag=reconquest_of_north_territory
 			NOT = {has_country_flag=unite_poles2}
 		}

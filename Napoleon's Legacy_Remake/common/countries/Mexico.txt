@@ -30,20 +30,6 @@ party = {
 }
 
 party = {
-	name = "MEX_anarcho_liberal"
-	start_date = 1830.1.1
-	end_date = 2000.1.1
-
-	ideology = anarcho_liberal
-
-	economic_policy = laissez_faire
-	trade_policy = free_trade
-	religious_policy = pluralism
-	citizenship_policy = limited_citizenship
-	war_policy = anti_military
-}
-
-party = {
 	name = "MEX_conservative_2"
 	start_date = 1853.1.1
 	end_date = 2000.1.1

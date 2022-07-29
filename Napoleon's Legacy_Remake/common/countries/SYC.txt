@@ -75,17 +75,6 @@ citizenship_policy = residency
 war_policy = jingoism
 }
 party = {
-name = "SYC_anarcho_liberal_93"
-start_date = 1850.1.1
-end_date = 2000.1.1
-ideology = anarcho_liberal
-economic_policy = laissez_faire
-trade_policy = free_trade
-religious_policy = pro_atheism
-citizenship_policy = full_citizenship
-war_policy = pro_military
-}
-party = {
 name = "SYC_communist_86"
 start_date = 1850.1.1
 end_date = 2000.1.1

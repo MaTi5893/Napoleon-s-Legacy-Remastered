@@ -434,7 +434,7 @@ political_decisions = {
 	
 	reichsland_elsass = {
 		potential = {
-			has_country_flag = PRUGERNGF
+			is_culture_group = germanic
 			owns = 410
 			owns = 409
 			owns = 412
@@ -492,7 +492,7 @@ political_decisions = {
 	
 	form_gran_colombia = {
 		potential = {
-			has_country_flag = grancolombian
+			has_country_flag = gran_colombian
 			NOT = {
 				exists = GCO
 			}
@@ -573,10 +573,7 @@ unite_moldavia_wallachia = {
 		}
 
 		allow = {
-			OR = {
-				state_n_government = 1
-				is_vassal = no
-			}
+			state_n_government = 1
 			WAL = {
 				war = no
 				is_vassal = no

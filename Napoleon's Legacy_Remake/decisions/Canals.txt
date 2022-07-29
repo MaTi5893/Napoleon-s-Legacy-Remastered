@@ -1,8 +1,8 @@
 political_decisions = {
 	build_kiel_canal = {
 		potential = {
-			NOT = { is_canal_enabled = 1 }
 			owns = 369
+			NOT = { is_canal_enabled = 1 }
 			is_greater_power = yes
 			mechanical_production = 1
 		}

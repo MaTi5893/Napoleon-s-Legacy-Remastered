@@ -1259,10 +1259,6 @@ ideologies = {
 		}
 		modifier = {
 			factor = 1.1
-			NOT = { is_ideology_enabled = anarcho_liberal }
-		}
-		modifier = {
-			factor = 1.1
 			nationalvalue = nv_liberty
 		}
 		modifier = {
@@ -1332,57 +1328,6 @@ ideologies = {
 			poor_strata_militancy = 8
 			middle_strata_militancy = 8
 			}
-		}
-	}
-	anarcho_liberal = {
-		factor = 1
-		modifier = {
-			factor = 2
-			ruling_party_ideology = anarcho_liberal
-		}
-		modifier = {
-			factor = 0.1
-			NOT = { militancy = 6 }
-		}
-		modifier = {
-			factor = 1.1
-			political_reform_want = 0.10
-		}
-		modifier = {
-			factor = 1.1
-			political_reform_want = 0.20
-		}
-		modifier = {
-			factor = 1.1
-			political_reform_want = 0.30
-		}
-		modifier = {
-			factor = 1.1
-			political_reform_want = 0.40
-		}
-		modifier = {
-			factor = 1.1
-			political_reform_want = 0.50
-		}
-		modifier = {
-			factor = 1.1
-			political_reform_want = 0.60
-		}
-		modifier = {
-			factor = 1.1
-			political_reform_want = 0.70
-		}
-		modifier = {
-			factor = 1.1
-			political_reform_want = 0.80
-		}
-		modifier = {
-			factor = 1.1
-			political_reform_want = 0.90
-		}
-		modifier = {
-			factor = 1.1
-			political_reform_want = 1
 		}
 	}
 }

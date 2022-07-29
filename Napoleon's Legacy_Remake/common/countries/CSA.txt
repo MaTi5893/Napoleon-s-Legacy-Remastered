@@ -2,20 +2,6 @@ graphical_culture = ConfederateGC
 color = { 190  186  202 }
 
 party = {
-	name = "CSA_anarcho_liberal"
-	start_date = 1830.1.1
-	end_date = 2000.1.1
-
-	ideology = anarcho_liberal
-
-	economic_policy = laissez_faire
-	trade_policy = free_trade
-	religious_policy = pluralism
-	citizenship_policy = residency
-	war_policy = jingoism
-}
-
-party = {
 	name = "CSA_conservative"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
@@ -27,34 +13,6 @@ party = {
 	religious_policy = pluralism
 	citizenship_policy = residency
 	war_policy = pro_military
-}
-
-party = {
-	name = "CSA_liberal"
-	start_date = 2000.1.1
-	end_date = 2000.1.1
-
-	ideology = liberal
-
-	economic_policy = interventionism
-	trade_policy = protectionism
-	religious_policy = pluralism
-	citizenship_policy = limited_citizenship
-	war_policy = pro_military
-}
-
-party = {
-	name = "CSA_liberal_2"
-	start_date = 2000.1.1
-	end_date = 2000.1.1
-
-	ideology = liberal
-
-	economic_policy = laissez_faire
-	trade_policy = free_trade
-	religious_policy = pluralism
-	citizenship_policy = residency
-	war_policy = anti_military
 }
 
 party = {

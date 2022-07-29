@@ -253,11 +253,4 @@ party_loyalty_focus =
 		loyalty_value = 0.001 # By that much pops will be more loyal
 		icon = 30
 	}
-	
-	anarcho_liberal_focus =
-	{
-		ideology = anarcho_liberal
-		loyalty_value = 0.001 # By that much pops will be more loyal
-		icon = 31
-	}
 }

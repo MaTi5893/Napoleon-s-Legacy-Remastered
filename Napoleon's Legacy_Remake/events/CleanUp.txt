@@ -23,18 +23,6 @@ country_event = {
 }
 
 country_event = {
-	id = 60020
-	title = "EVTNAME60020"
-	desc = "EVTDESC60020"
-	picture = "Unite"
-	is_triggered_only = yes
-	option = {
-		name = "EVTOPTA60020"
-		government = bourgeois_dictatorship
-	}
-}
-
-country_event = {
 	id = 60030
 	title = "EVTNAME60030"
 	desc = "EVTDESC60030"
@@ -103,18 +91,6 @@ country_event = {
 	option = {
 		name = "EVTOPTA60080"
 		government = presidential_dictatorship
-	}
-}
-
-country_event = {
-	id = 60090
-	title = "EVTNAME60080"
-	desc = "EVTDESC60080"
-	picture = "Administration"
-	is_triggered_only = yes
-	option = {
-		name = "EVTOPTA60080"
-		government = bourgeois_dictatorship
 	}
 }
 

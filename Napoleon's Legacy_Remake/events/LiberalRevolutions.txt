@@ -1180,6 +1180,7 @@ province_event = {
 				government = hms_government
 				government = prussian_constitutionalism
 				government = absolute_monarchy
+				government = napoleonic_empire
 			}
 		}
 	}

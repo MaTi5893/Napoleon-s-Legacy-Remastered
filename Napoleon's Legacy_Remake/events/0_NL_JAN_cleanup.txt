@@ -33,25 +33,10 @@ country_event = { 		#the day one setup event
 		WAL = { set_country_flag = romanian }
 		MOL = { set_country_flag = romanian }
 
-		PRU = { set_country_flag = PRUGERNGF }	#reichsland_elsass
-
 		MEX = { set_country_flag = texas_retaker }
 		USA = { set_country_flag = texas_retaker }
 		LCT = { set_country_flag = unconquerable }
 		JAN = { set_country_flag = unconquerable }
-		any_country = { 
-			limit = { 
-				OR = { 
-					tag = RUS 
-					tag = PRU 
-					tag = AUS 
-					tag = NGF 
-					tag = GER 
-					tag = KUK
-				}
-			}
-			set_country_flag = partitioners
-		}
 		ARG = { set_country_flag = ARG set_country_flag = ARG1 }	#ARG2 is set by ARG1's decision 
 		AUS = { set_country_flag = AUS set_country_flag = AUS1 set_country_flag = AUS2 set_country_flag = AUS3 } 
 		PRU = { set_country_flag = PRU }	
@@ -345,30 +330,29 @@ country_event = { 		#the day one setup event
 					life_rating = 5				
 					}
 			}
-			any_country = {
+			any_country = {	#Don't ask me if this has any effect
 				any_owned = {
 					limit = {
 						OR = {
-						owned_by = MEX
-						owned_by = CLM
-						owned_by = ENG
-						owned_by = ARG
-						owned_by = UPB
-						owned_by = CHL
-						owned_by = ECU	
-						owned_by = DOM
-						owned_by = UCA
-						owned_by = VNZ
-						owned_by = PRG
-						owned_by = BOL
-						owned_by = PEU
+							continent = north_america
+							continent = south_america
 						}
-					life_rating = 25
-					NOT = { life_rating = 26 }
-					OR = {
-						continent = north_america
-						continent = south_america
-					}
+						OR = {
+							owned_by = MEX
+							owned_by = CLM
+							owned_by = ENG
+							owned_by = ARG
+							owned_by = UPB
+							owned_by = CHL
+							owned_by = ECU	
+							owned_by = DOM
+							owned_by = UCA
+							owned_by = VNZ
+							owned_by = PRG
+							owned_by = PEU
+						}
+						life_rating = 25
+						NOT = { life_rating = 26 }
 					}
 					life_rating = 10				
 					}
@@ -378,33 +362,13 @@ country_event = { 		#the day one setup event
 		name = "OK" 
 	}
 }
-
+		##################################################MONTHLY
 country_event = { 
 	id = 600001
 	is_triggered_only = yes 
 	title = "AI Monthly Cleanup"	
 	desc = "Get out of Jan Mayen!"
 	immediate = {
-		#ghost units monthly cleanup - stolen from AoE (V2ME?)
-		any_country = {
-			limit = {
-				exists = no
-                			is_greater_power = no
-                			capital_scope = { NOT = { province_control_days = 120 } }
-             			 OR = {
-                    				is_mobilised = yes
-                    				total_amount_of_ships = 1
-                			}
-			}
-			annex_to = FROM
-		}
-		any_country = { 
-			limit = { 
-				tag = GER					#In case Germany forms by crown from the gutter
-				NOT = { has_country_flag = PRUGERNGF }	
-			}
-		set_country_flag = PRUGERNGF				#reichsland elsass
-		}
 		#ideological country modifiers
 		any_country = {
 			limit = { 
@@ -693,7 +657,6 @@ country_event = {
 			NOT = {
 				government = proletarian_dictatorship
 				government = presidential_dictatorship
-				government = bourgeois_dictatorship
 				government = fascist_dictatorship
 				government = absolute_monarchy
 			}
@@ -710,29 +673,12 @@ country_event = {
 			NOT = {
 				government = proletarian_dictatorship
 				government = presidential_dictatorship
-				government = bourgeois_dictatorship
 				government = fascist_dictatorship
 				government = absolute_monarchy
+				government = napoleonic_empire	
 			}
 		}
-	country_event = 60010
-	}
-	any_country = { 
-		limit = { 
-			ruling_party_ideology = anarcho_liberal
-			political_parties = underground_parties
-			vote_franschise = none_voting
-			upper_house_composition = party_appointed
-			civilized = yes
-			NOT = {
-				government = proletarian_dictatorship
-				government = presidential_dictatorship
-				government = bourgeois_dictatorship
-				government = fascist_dictatorship
-				government = absolute_monarchy
-			}
-		}
-	country_event = 60020
+	country_event = 60010 #pres dict
 	}
 	any_country = { 
 		limit = { 
@@ -744,9 +690,9 @@ country_event = {
 			NOT = {
 				government = proletarian_dictatorship
 				government = presidential_dictatorship
-				government = bourgeois_dictatorship
 				government = fascist_dictatorship
 				government = absolute_monarchy
+				government = napoleonic_empire	
 			}
 		}
 	country_event = 60030
@@ -756,7 +702,6 @@ country_event = {
 			OR = {
 				government = proletarian_dictatorship
 				government = presidential_dictatorship
-				government = bourgeois_dictatorship
 				government = fascist_dictatorship
 			}
 			civilized = yes
@@ -766,7 +711,7 @@ country_event = {
 				upper_house_composition = party_appointed
 			}
 		}
-	country_event = 60050
+	country_event = 60050	#republic
 	}
 	any_country = { 
 		limit = { 
@@ -776,11 +721,10 @@ country_event = {
 			}
 			civilized = yes
 			NOT = { ruling_party_ideology = fascist }
-			NOT = { ruling_party_ideology = anarcho_liberal }
 			NOT = { ruling_party_ideology = communist }
 			vote_franschise = none_voting
 		}
-	country_event = 60040
+	country_event = 60040	#absol mon
 	}
 	any_country = { 
 		limit = { 
@@ -790,7 +734,7 @@ country_event = {
 			}	
 			civilized = yes	
 		}
-	country_event = 60060
+	country_event = 60060 #semi-con monarchy
 	}
 	any_country = { 
 		limit = { 
@@ -801,7 +745,7 @@ country_event = {
 			}
 			civilized = yes
 		}
-	country_event = 60070
+	country_event = 60070 #con mon
 	}
 	any_country = { 
 		limit = { 
@@ -813,19 +757,7 @@ country_event = {
 			}
 			civilized = yes
 		}
-	country_event = 60080
-	}
-	any_country = { 
-		limit = { 
-			government = democracy
-			vote_franschise = none_voting
-			OR = {
-				ruling_party_ideology = liberal
-				ruling_party_ideology = anarcho_liberal
-			}
-			civilized = yes
-		}
-	country_event = 60090
+	country_event = 60080 #pres dict
 	}
 	any_country = { 
 		limit = { 
@@ -837,7 +769,7 @@ country_event = {
 			}
 			civilized = yes
 		}
-	country_event = 60100
+	country_event = 60100 #prol dict
 	}
 	any_country = { 
 		limit = { 
@@ -846,14 +778,14 @@ country_event = {
 			ruling_party_ideology = fascist
 			civilized = yes
 		}
-	country_event = 60110
+	country_event = 60110 #fasc dict
 	}
 	any_country = { 
 		limit = { 
 			upper_house_composition = party_appointed
 			ruling_party_ideology = liberal 
 		}
-	country_event = 60140
+	country_event = 60140 #UH not party only to prevent exploiting
 	}
 	any_country = { 
 		limit = { 

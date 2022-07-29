@@ -198,20 +198,6 @@ party = {
 }
 
 party = {
-	name = "SWE_anarcho_liberal"
-	start_date = 1830.1.1
-	end_date = 2000.1.1
-
-	ideology = anarcho_liberal
-
-	economic_policy = laissez_faire
-	trade_policy = free_trade
-	religious_policy = pluralism
-	citizenship_policy = limited_citizenship
-	war_policy = jingoism
-}
-
-party = {
 	name = "SWE_fascist"
 	start_date = 1905.1.1
 	end_date = 2000.1.1

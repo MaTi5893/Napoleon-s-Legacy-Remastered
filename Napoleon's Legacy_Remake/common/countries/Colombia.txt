@@ -2,20 +2,6 @@ color = { 255  234  168 }
 graphical_culture = SouthAmericanGC
 
 party = {
-	name = "CLM_anarcho_liberal"
-	start_date = 1830.1.1
-	end_date = 2000.1.1
-
-	ideology = anarcho_liberal
-
-	economic_policy = laissez_faire
-	trade_policy = free_trade
-	religious_policy = pluralism
-	citizenship_policy = limited_citizenship
-	war_policy = pro_military
-}
-
-party = {
 	name = "CLM_conservative"
 	start_date = 1830.1.1
 	end_date = 2000.1.1

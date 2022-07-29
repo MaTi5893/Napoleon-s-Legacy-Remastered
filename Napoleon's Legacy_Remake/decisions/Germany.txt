@@ -1,13 +1,9 @@
 political_decisions = {
 	construct_germania_werft = {
 		potential = {
+			is_culture_group = germanic
 			NOT = {
 				has_global_flag = germania_werft_has_been_built
-			}
-			OR = {
-				tag = PRU
-				tag = GER
-				tag = NGF
 			}
 			owns = 369
 		}
@@ -81,6 +77,7 @@ political_decisions = {
 	}
 	von_moltkes_staff_reforms = {
 		potential = {
+			is_culture_group = germanic	#redundant check - reduces total amount of checks needed
 			OR = {
 				tag = PRU
 				tag = GER
@@ -112,11 +109,7 @@ political_decisions = {
 	
 	the_ruhr_boom = {
 		potential = {
-			OR = {
-				tag = PRU
-				tag = GER
-				tag = NGF
-			}
+			is_culture_group = germanic
 			owns = 578
 			owns = 2561
 			owns = 575
@@ -141,6 +134,7 @@ political_decisions = {
 	}
 	appoint_von_bismarck = {
 		potential = {
+			is_culture_group = germanic
 			OR = {
 				tag = PRU
 				tag = NGF

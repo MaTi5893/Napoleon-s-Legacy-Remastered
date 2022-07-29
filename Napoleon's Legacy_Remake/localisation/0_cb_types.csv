@@ -1,4 +1,16 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+NORMAL_WAR_REVOLUTIONARY_NAME;$ORDER$$FIRST$ Overthrow of the $SECOND$ Monarchy;;;SPANISH LOC;;;;;;;;;x;;
+AGRESSION_WAR_REVOLUTIONARY_NAME;$ORDER$$FIRST$ Overthrow of the $SECOND$ Monarchy;;;SPANISH LOC;;;;;;;;;x;;
+NORMAL_WAR_ANCIEN_NAME;$ORDER$$FIRST$ Overthrow of the $SECOND$ Republic;;;SPANISH LOC;;;;;;;;;x;;
+AGRESSION_WAR_ANCIEN_NAME;$ORDER$$FIRST$ Overthrow of the $SECOND$ Republic;;;SPANISH LOC;;;;;;;;;x;;
+force_republic_desc;Overthrow $RECIPIENT$'s monarchy;;;SPANISH LOC;;;;;;;;;x;;
+force_republic;Overthrow Monarchy;;;SPANISH LOC;;;;;;;;;x;;
+force_republic_short;Overthrow $RECIPIENT$'s monarchy;;;;;;;SPANISH LOC;;;;;;;;;x;;;;
+force_republic_setup;Change $RECIPIENT$'s government form into a Revolutionary Republic;;;SPANISH LOC;;;;;;;;;x;;
+force_monarchy_desc;Overthrow $RECIPIENT$'s republic and make it into an absolute monarchy;;;SPANISH LOC;;;;;;;;;x;;
+force_monarchy;Overthrow Republic;;;SPANISH LOC;;;;;;;;;x;;
+force_monarchy_short;Restore $RECIPIENT$'s government;;;;;;;SPANISH LOC;;;;;;;;;x;;;;
+force_monarchy_setup;Change $RECIPIENT$'s government form into an Absolute Monarchy;;;SPANISH LOC;;;;;;;;;x;;
 dismantle_factories_desc;Dismantle factories and cancel all constructions and recruitments.\n\n§YNOTE: §RBecause of coding limitations this CB only works with one country at a time, if you are going to add it for more than one country then make sure to peace out separately.§W;;;;Desmantelar las fábricas y cancelar todas las construcciones y reclutamientos.\n\n§YNota: §RDebido a las limitaciones de codificación este CB sólo funciona con un país a la vez, si vas a anadirlo para más de un país entonces asegúrate de pacificar por separado.§!;;;;;;;;;
 dismantle_factories;Dismantle Industry;;;;Desmantelar la industria;;;;;;;;;
 dismantle_factories_short;Dismantle industry in $STATE$;;;;Desmantelar la industria en $STATE$;;;;;;;;;

@@ -58,20 +58,6 @@ party = {
 }
 
 party = {
-	name = "RHO_anarcho_liberal"
-	start_date = 1830.1.1
-	end_date = 2000.1.1
-
-	ideology = anarcho_liberal
-
-	economic_policy = laissez_faire
-	trade_policy = free_trade
-	religious_policy = pro_atheism
-	citizenship_policy = limited_citizenship
-	war_policy = pro_military
-}
-
-party = {
 	name = "RHO_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1

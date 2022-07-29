@@ -16,7 +16,6 @@ political_decisions = {
 				liberal = 60
 				government = proletarian_dictatorship
 				government = fascist_dictatorship
-				government = bourgeois_dictatorship
 				government = presidential_dictatorship
 			}
 		}
@@ -50,7 +49,6 @@ political_decisions = {
 				OR = {
 					government = proletarian_dictatorship
 					government = fascist_dictatorship
-					government = bourgeois_dictatorship
 					government = presidential_dictatorship
 					NOT = {	
 						liberal = 50 

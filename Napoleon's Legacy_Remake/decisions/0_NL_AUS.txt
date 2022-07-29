@@ -36,6 +36,7 @@ political_decisions = {
 			OR = {
 				DLM = {in_sphere = THIS}
 				DLM = {vassal_of = THIS}
+				DLM = { all_core = { owned_by = THIS } } 
 			}
 		}
 		effect = {
