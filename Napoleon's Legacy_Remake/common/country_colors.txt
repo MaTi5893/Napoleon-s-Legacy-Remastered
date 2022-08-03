@@ -50,14 +50,6 @@ BEL	 = {
     color3= { 107 170 77  }
 }
 
-# Baltic Empire FIXED
-BLE	 = {
-    color1= { 15  5  107  }
-    color2= { 25 50 100  }
-    color3= { 5 25 100  }
-}
-
-
 # Bosnia
 BOS = {
     color1= { 240 167 130  }
@@ -156,13 +148,6 @@ IRE = {
     color1= { 112 150 105  }
     color2= { 136 157 23  }
     color3= { 117 127 174  }
-}
-
-# Ionian Islands FIXED
-ION = {
-    color1= { 69 80 169  }
-    color2= { 248 199 67  }
-    color3= { 131 101 85  }
 }
 
 # Scotland
@@ -292,13 +277,6 @@ LIB = {
     color3= { 210 106 47  }
 }
 
-# Poland
-POL = {
-    color1= { 197 92 106  }
-    color2= { 69 157 208  }
-    color3= { 187 79 86  }
-}
-
 # Prussia
 PRU = {
     color1= { 80 79 88  }
@@ -373,13 +351,6 @@ HAN = {
 HES = {
     color1= { 255 255 255  }
     color2= { 244 56 49  }
-    color3= { 195 149 155  }
-}
-
-# Hesse-Kassel FIXED
-HEK = {
-    color1= { 244 56 49  }
-    color2= { 255 255 255  }
     color3= { 195 149 155  }
 }
 
@@ -468,13 +439,6 @@ ITA = {
     color3= { 80 79 88  }
 }
 
-# Manhattan Commune
-MAN = {
-    color1= { 191 83 101  }
-    color2= { 126 203 120  }
-    color3= { 99 137 153  }
-}
-
 # Modena
 MOD = {
     color1= { 241 252 151  }
@@ -552,25 +516,11 @@ HOL = {
     color3= { 122 179 97  }
 }
 
-# Lippe-Detmold FIXED
-LIP = {
-    color1= { 248 199 67  }
-    color2= { 244 56 49  }	
-    color3= { 255 255 255  }
-}
-
 # Luxembourg FIXED
 LUX = {
     color1= { 122 182 242 }
     color2= { 255 255 255  }
     color3= { 132 11 11  }
-}
-
-# Lubeck FIXED
-LUB = {
-    color1= { 255 255 255  }
-    color2= { 244 56 49  }
-    color3= { 195 149 155  }
 }
 
 # Netherlands FIXED
@@ -652,13 +602,6 @@ HDJ = {
     color3= { 69 157 208  }
 }
 
-# Krakow FIXED
-KRA = {
-    color1= { 255 255 255  }
-    color2= { 128 146 202  }
-    color3= { 255 255 255  }
-}
-
 # Trieste
 TRE = {
     color1= { 40 164 157  }
@@ -708,13 +651,6 @@ TUN = {
     color3= { 121 162 109  }
 }
 
-
-# Oranje
-ORA = {
-    color1= { 255 154 82  }
-    color2= { 94 117 55  }
-    color3= { 112 150 105  }
-}
 
 # Madagascar FIXED
 MAD = {

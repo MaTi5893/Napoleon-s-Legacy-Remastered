@@ -6,7 +6,6 @@ plurality = 10.0
 literacy = 0.12
 civilized = yes
 set_country_flag = new_world_nation
-plurality = 25.0
 nationalvalue = nv_liberty
 literacy = 0.12
 non_state_culture_literacy = 0.02
@@ -39,7 +38,6 @@ upper_house = {
     liberal = 20
     conservative = 70
     reactionary = 10
-    anarcho_liberal = 0
     socialist = 0
     communist = 0
 }

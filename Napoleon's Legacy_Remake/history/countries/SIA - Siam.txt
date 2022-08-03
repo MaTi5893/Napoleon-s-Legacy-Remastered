@@ -33,7 +33,6 @@ upper_house = {
 	liberal = 12
 	conservative = 69
 	reactionary = 19
-	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
@@ -55,41 +54,3 @@ set_country_flag = indc_flag
 private_banks = 1
 late_enlightenment_philosophy = 1
 basic_chemistry = 1
-
-1855.1.1 = { 
-	decision = sign_bowring_treaty
-}
-
-1861.1.1 = {
-	oob = "/1861/SIA_oob.txt"
-	literacy = 0.10
-	non_state_culture_literacy = 0.05
-	
-	#Economic Reforms
-	land_reform = land_reform_two
-	set_country_flag = landr_flag
-	set_country_flag = landr2_flag
-
-	education_reform = yes_education_reform
-	set_country_flag = edu_flag
-
-	#Military Reforms
-	foreign_training = yes_foreign_training
-	set_country_flag = foreign_tactics_flag
-
-	foreign_weapons = yes_foreign_weapons
-	set_country_flag = foreign_weapons_flag
-
-	foreign_officers = yes_foreign_officers
-	set_country_flag = fo_flag
-	
-	#Technologies
-	post_napoleonic_thought = 1
-	flintlock_rifles = 1
-	army_command_principle = 1
-	freedom_of_trade = 1
-	malthusian_thought = 1
-	water_wheel_power = 1
-	practical_steam_engine = 1
-	mechanized_mining = 1
-}

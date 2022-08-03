@@ -1,7 +1,10 @@
-FRA_prussian_constitutionalism;The Kingdom of France;;;;El Reino Francés;;;;;;;;x
-FRA_hms_government;The Kingdom of France;;;;El Reino Francés;;;;;;;;x
-FRA_absolute_monarchy;The Kingdom of France;;;;El Reino Francés;;;;;;;;x
-FRA_napoleonic_empire;The French Empire;;;;El Imperio Francés;;;;;;;;x
+###Country names;;;x
+FRA_prussian_constitutionalism;The French Empire;;;;El Imperio Francés;;;;;;;;x
+FRA_hms_government;The French Empire;;;;El Imperio Francés;;;;;;;;x
+FRA_absolute_monarchy;The French Empire;;;;El Imperio Francés;;;;;;;;x
+FRA_proletarian_dictatorship;Commune de France;;;;Comuna de Francia;;;;;;;;x
+FRA_fascist_dictatorship;Regime de France;;;;Régimen de Francia;;;;;;;;x
+FRA_democracy;Deuxieme Republique Francaise;;;;Segunda República Francesa;;;;;;;;x
 ###Heirs;;;x
 alexandre_walewski_title;Alexandre Walewski;;;;Alexandre Walewski;;;;;;;;x
 alexandre_walewski_desc;Alexandre is Napoleon's purported bastard son. Due to him being considered an "outsider", he might achieve some level of popularity with the ethnic minorities that reside in the frontiers of the French Empire - surely not as much as a hypothetical Second Republic would.;;;;Alexandre es el supuesto hijo bastardo de Napoleón. Debido a que se le considera un "forastero", podría alcanzar cierto nivel de popularidad entre las minorías étnicas que residen en las fronteras del Imperio francés, seguramente no tanto como lo haría una hipotética Segunda República.;;;;;;;;x

@@ -35,7 +35,6 @@ upper_house = {
 	liberal = 15
 	conservative = 70
 	reactionary = 15
-	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
@@ -74,5 +73,3 @@ consciousness = 3
 nonstate_consciousness = 1
 
 schools = culture_tech_school
-
-oob = "UKR_oob.txt"

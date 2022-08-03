@@ -22,7 +22,6 @@ reactionary_rebels = {
 	government = {
 		proletarian_dictatorship = presidential_dictatorship
 		presidential_dictatorship = absolute_monarchy
-		napoleonic_empire = absolute_monarchy
 		fascist_dictatorship = presidential_dictatorship
 		absolute_monarchy = absolute_monarchy
 		prussian_constitutionalism = absolute_monarchy
@@ -221,7 +220,6 @@ fascist_rebels = {
 	government = {
 		proletarian_dictatorship = fascist_dictatorship
 		presidential_dictatorship = fascist_dictatorship
-		napoleonic_empire = fascist_dictatorship
 		fascist_dictatorship = fascist_dictatorship
 		absolute_monarchy = fascist_dictatorship
 		prussian_constitutionalism = fascist_dictatorship
@@ -422,7 +420,6 @@ communist_rebels = {
 	government = {
 		proletarian_dictatorship = proletarian_dictatorship
 		presidential_dictatorship = proletarian_dictatorship
-		napoleonic_empire = proletarian_dictatorship
 		fascist_dictatorship = proletarian_dictatorship
 		absolute_monarchy = proletarian_dictatorship
 		prussian_constitutionalism = proletarian_dictatorship
@@ -639,7 +636,6 @@ nationalist_rebels = {
 	government = {
 		proletarian_dictatorship = proletarian_dictatorship
 		presidential_dictatorship = presidential_dictatorship
-		napoleonic_empire = napoleonic_empire
 		fascist_dictatorship = fascist_dictatorship
 		absolute_monarchy = absolute_monarchy
 		prussian_constitutionalism = prussian_constitutionalism
@@ -733,10 +729,6 @@ nationalist_rebels = {
 			pop_majority_ideology = liberal
 		}
 		modifier = {
-			factor = 10
-			location = { has_province_modifier = nationalist_agitation }
-		}
-		modifier = {
 			factor = 0
 			culture = british
 			country = { primary_culture = boer }
@@ -758,17 +750,11 @@ nationalist_rebels = {
 		}
 		modifier = {
 			factor = 0
-			culture = manchu
-			country = { tag = CHI }
-		}
-		modifier = {
-			factor = 0
-			culture = beifaren
-			country = { tag = CHI }
-		}
-		modifier = {
-			factor = 0
-			culture = nanfaren
+			OR = { 
+				culture = manchu
+				culture = beifaren
+				culture = nanfaren
+			}
 			country = { tag = CHI }
 		}
 		modifier = {
@@ -887,7 +873,6 @@ pan_nationalist_rebels = {
 	government = {
 		proletarian_dictatorship = proletarian_dictatorship
 		presidential_dictatorship = presidential_dictatorship
-		napoleonic_empire = napoleonic_empire
 		fascist_dictatorship = fascist_dictatorship
 		absolute_monarchy = absolute_monarchy
 		prussian_constitutionalism = prussian_constitutionalism
@@ -1163,7 +1148,6 @@ carlist_rebels = {
 	government = {
 		proletarian_dictatorship = absolute_monarchy
 		presidential_dictatorship = absolute_monarchy
-		napoleonic_empire = absolute_monarchy
 		fascist_dictatorship = absolute_monarchy
 		absolute_monarchy = absolute_monarchy
 		prussian_constitutionalism = absolute_monarchy
@@ -1335,7 +1319,6 @@ boxer_rebels = {
 	government = {
 		proletarian_dictatorship = absolute_monarchy
 		presidential_dictatorship = absolute_monarchy
-		napoleonic_empire = absolute_monarchy
 		fascist_dictatorship = absolute_monarchy
 		absolute_monarchy = absolute_monarchy
 		prussian_constitutionalism = absolute_monarchy
@@ -1559,7 +1542,6 @@ red_shirts = {
 	government = {
 		proletarian_dictatorship = proletarian_dictatorship
 		presidential_dictatorship = presidential_dictatorship
-		napoleonic_empire = napoleonic_empire
 		fascist_dictatorship = fascist_dictatorship
 		absolute_monarchy = absolute_monarchy
 		prussian_constitutionalism = prussian_constitutionalism
@@ -1797,7 +1779,6 @@ indian_sepoys = {
 	government = {
 		proletarian_dictatorship = proletarian_dictatorship
 		presidential_dictatorship = presidential_dictatorship
-		napoleonic_empire = napoleonic_empire
 		fascist_dictatorship = fascist_dictatorship
 		absolute_monarchy = absolute_monarchy
 		prussian_constitutionalism = prussian_constitutionalism
@@ -2008,7 +1989,6 @@ liberal_rebels = {
 	government = {
 		proletarian_dictatorship = democracy
 		presidential_dictatorship = democracy
-		napoleonic_empire = democracy
 		fascist_dictatorship = democracy
 		absolute_monarchy = hms_government
 		prussian_constitutionalism = democracy
@@ -2215,7 +2195,6 @@ unciv_reactionary_rebels = {
 	government = {
 		proletarian_dictatorship = absolute_monarchy
 		presidential_dictatorship = absolute_monarchy
-		napoleonic_empire = absolute_monarchy
 		fascist_dictatorship = absolute_monarchy
 		absolute_monarchy = absolute_monarchy
 		prussian_constitutionalism = absolute_monarchy

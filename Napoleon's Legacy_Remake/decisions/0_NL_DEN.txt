@@ -2,7 +2,7 @@ political_decisions = {
     acceptance_of_stotland = {
 		picture = scotland_decision
         potential = {
-            is_culture_group = scandinavian
+            primary_culture = danish
             NOT = {accepted_culture = Scotish}
         }
         allow = {

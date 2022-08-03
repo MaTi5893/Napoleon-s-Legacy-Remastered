@@ -24,7 +24,6 @@ conservative = 60
 socialist = 0
 communist = 0
 liberal = 15
-anarcho_liberal = 0
 }
 slavery = no_slavery
 vote_franschise = wealth_weighted_voting
@@ -75,5 +74,3 @@ post_napoleonic_army_doctrine = yes
 
 
 #========================= END OF FILE =========================
-
-schools = army_tech_school

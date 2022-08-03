@@ -3,6 +3,5 @@ controller = BUN
 add_core = BUN
 add_core = HND
 add_core = MUG
-add_core = MUG
 trade_goods = iron
 life_rating = 32

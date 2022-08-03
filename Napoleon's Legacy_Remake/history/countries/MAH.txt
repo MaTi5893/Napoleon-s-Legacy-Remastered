@@ -24,7 +24,6 @@ conservative = 60
 socialist = 0
 communist = 0
 liberal = 15
-anarcho_liberal = 0
 }
 slavery = no_slavery
 vote_franschise = landed_voting

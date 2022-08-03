@@ -119,11 +119,8 @@ SLS;Silesia;;;;Silesia;;;;;;;;x
 SLS_ADJ;Silesian;;;;Silesiano;;;;;;;;x
 PBC;Peru-Bolivian Confederation;;;;SPANISH LOC;;;;;;;;x
 PBC_ADJ;Peru-Bolivian;;;;SPANISH LOC;;;;;;;;x
-PBC_democracy;The Andean Republic;;;;SPANISH LOC;;;;;;;;x
-PBC_proletarian_dictatorship;The People's Republic of Peru-Bolivia;;;;SPANISH LOC;;;;;;;;x
-PBC_proletarian_dictatorship_ADJ;Peru-Bolivian;;;;SPANISH LOC;;;;;;;;x
 PBC_absolute_monarchy;Great Peru;;;;SPANISH LOC;;;;;;;;x
 PBC_proletarian_dictatorship;The People's Andine Republic;;;;SPANISH LOC;;;;;;;;x
 PBC_proletarian_dictatorship_ADJ;Andine;;;;SPANISH LOC;;;;;;;;x
-PBC_democracy;Andine Federation;;;;SPANISH LOC;;;;;;;;x
+PBC_democracy;The Andine Federation;;;;SPANISH LOC;;;;;;;;x
 PBC_democracy_ADJ;Andine;;;;SPANISH LOC;;;;;;;;x

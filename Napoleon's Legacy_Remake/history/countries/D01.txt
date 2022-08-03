@@ -6,7 +6,6 @@ plurality = 25.1
 nationalvalue = nv_order
 literacy = 0.17
 civilized = yes
-civilized = yes
 #dominion=yes
 
 # Political reforms - inherit
@@ -34,7 +33,6 @@ upper_house = { # inherit
 	liberal = 25
 	conservative = 65
 	reactionary = 10
-	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }

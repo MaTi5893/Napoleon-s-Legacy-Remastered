@@ -746,8 +746,8 @@ country_event = {
 	picture = "prisonworkers"
 		
 	trigger = {
-		slavery = yes_slavery
 		tag = USA
+		slavery = yes_slavery
 		any_state = {
 			is_slave = yes
 		}
@@ -2006,15 +2006,15 @@ province_event = {
 	desc = "EVTDESC16250"
 	
 	trigger = {
-		NOT = {
-			is_core = CSA
-		}
 		owner = {
 			tag = USA
 			slavery = yes_slavery
 			NOT = {
 				has_global_flag = american_civil_war_has_happened
 			}
+		}
+		NOT = {
+			is_core = CSA
 		}
 		state_scope = {
 			is_slave = yes
@@ -2236,9 +2236,9 @@ country_event = {
 	picture = "Sioux"
 	
 	trigger = {
+		tag = USA
 		owns = 105
 		year = 1840
-		tag = USA
 		NOT = {
 			has_country_flag = apache_wars
 		}
@@ -2279,10 +2279,10 @@ province_event = {
 	picture = "Sioux"
 	
 	trigger = {
+		owner = { has_country_flag = apache_wars }
 		has_pop_culture = native_american_minor
-		has_country_flag = apache_wars
 		is_colonial = yes
-		not = { has_country_flag = apache_wars_over }
+		not = { owner = { has_country_flag = apache_wars_over } }
 	}
 	
 	mean_time_to_happen = {

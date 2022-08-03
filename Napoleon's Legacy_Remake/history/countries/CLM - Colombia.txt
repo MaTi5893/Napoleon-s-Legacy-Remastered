@@ -25,20 +25,9 @@ upper_house = {
 	liberal = 52
 	conservative = 31
 	reactionary = 17
-	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }
-
-# Political reforms
-slavery = no_slavery
-upper_house_composition = state_equal_weight
-vote_franschise = landed_voting
-public_meetings = yes_meeting
-press_rights = state_press
-trade_unions = no_trade_unions
-voting_system = first_past_the_post
-political_parties = non_secret_ballots
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -84,7 +73,4 @@ schools = culture_tech_school
 #Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 0
-
-
-oob = "CLM_oob.txt"
 

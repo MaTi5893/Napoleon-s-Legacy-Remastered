@@ -2,6 +2,7 @@ political_decisions = {
 	expand_german_influence = {
 		picture = mecklemburg_decision
 		potential = {
+			is_culture_group = scandinavian
 			OR = {
 				tag = SWE
 				tag = SCA
@@ -29,6 +30,7 @@ political_decisions = {
 	expand_german_territory = {
 		picture = pomerania_decision
 		potential = {
+			is_culture_group = scandinavian
 			OR = {
 				tag = SWE
 				tag = SCA
@@ -56,6 +58,7 @@ political_decisions = {
 	baltic_influence = {
 		picture = decision_baltic_acceptance
 		potential = {
+			is_culture_group = scandinavian
 			OR = { tag = SWE tag = SCA } 
 			NOT = { accepted_culture = estonian } 
 		}

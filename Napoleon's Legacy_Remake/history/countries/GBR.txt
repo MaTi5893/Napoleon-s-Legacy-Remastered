@@ -28,7 +28,6 @@ conservative = 60
 socialist = 0
 communist = 0
 liberal = 20
-anarcho_liberal = 0
 }
 slavery = no_slavery
 upper_house_composition = appointed

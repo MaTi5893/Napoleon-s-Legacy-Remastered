@@ -227,28 +227,28 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Alto PerE Bolivia Charcas "Cristo de la Concordia" "General Sucre" Iscanahuaya Samapaita "Seis de Agosto" "Simón Bolivar" Tricolor
+		"Alto Peru" Bolivia Charcas "Cristo de la Concordia" "General Sucre" Iscanahuaya Samapaita "Seis de Agosto" "Simón Bolivar" Tricolor
 	}
 	ironclad = {
 		Altiplano Andes Independencia Júpiter Neptuno Occidental Oriental Plutón Real Republiquetas
 	}
 	manowar = {
-		Confederación Congreso "La Fállete" Libertad "Marú} Luisa" Morro "San BartolomE "San Francisco" "Santo Tomás" Yanacocha
+		Confederación Congreso "La Fállete" Libertad Luisa "San Bartolome" "San Francisco" "Santo Tomás" Yanacocha
 	}
 	cruiser = {
-		Cobija Desaguadero Illampu Illimani Madera Mamore "Nevado Sajada" PoopETiticaca Trinidad
+		Cobija Desaguadero Illampu Illimani Madera Mamore "Nevado Sajada" Titicaca Trinidad
 	}
 	frigate = {
-		Antofagasta Beni Chuquisaca Cochabamba "La Paz" Oruro Pando PotosE"Santa Cruz" Tarija
+		Antofagasta Beni Chuquisaca Cochabamba "La Paz" Oruro Pando Potosi "Santa Cruz" Tarija
 	}
 	monitor = {
 		Constitución "Gran Chaco" Inca Libertador Mercurio Saturno Tihauano Urano Vulcano Yungas
 	}
 	clipper_transport = { 
-		"Águila Roja" Ana Aymara Beatriz Carmen "Cóndor Negro" Marú} Marta Raquel SalomE		"San Antonio" "San Judas" "San Pablo" Sirena Tahuamanu Tetis Tritón Vencedora Victoria Voladora
+		"Águila Roja" Ana Aymara Beatriz Carmen "Cóndor Negro"  Marta Raquel "San Antonio" "San Judas" "San Pablo" Sirena Tahuamanu Tetis Tritón Vencedora Victoria Voladora
 	}
 	steam_transport = { 
-		"Águila Roja" Ana Aymara Beatriz Carmen "Cóndor Negro" Marú} Marta Raquel SalomE		"San Antonio" "San Judas" "San Pablo" Sirena Tahuamanu Tetis Tritón Vencedora Victoria Voladora
+		"Águila Roja" Ana Aymara Beatriz Carmen "Cóndor Negro" Marta Raquel "San Antonio" "San Judas" "San Pablo" Sirena Tahuamanu Tetis Tritón Vencedora Victoria Voladora
 	}
 	commerce_raider = {
 		Audaz "Castro Rojas" Destructora Fortaleza "Madre de Dios" Manoa Manu Pando Sorata Temor

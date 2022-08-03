@@ -140,8 +140,8 @@ country_event = {
 	picture = "News"
 	
 	trigger = {
-		civilized = yes
 		press_rights = free_press
+		civilized = yes
 		has_pop_type = capitalists
 		any_state = {
 			is_colonial = no
@@ -234,8 +234,8 @@ country_event = {
 	picture = "News"
 	
 	trigger = {
-		civilized = yes
 		political_parties = underground_parties
+		civilized = yes
 	}
 	
 	mean_time_to_happen = {
@@ -306,8 +306,8 @@ country_event = {
 	picture = "Harassment"
 	
 	trigger = {
-		civilized = yes
 		political_parties = harassment 
+		civilized = yes
 	}
 	
 	mean_time_to_happen = {
@@ -385,9 +385,9 @@ country_event = {
 	picture = "treaty"
 	
 	trigger = {
-		civilized = yes
 		political_parties = gerrymandering
 		ruling_party_ideology = conservative
+		civilized = yes
 	}
 	
 	mean_time_to_happen = {
@@ -450,8 +450,8 @@ country_event = {
 	picture = "Voting"
 	
 	trigger = {
-		civilized = yes
 		political_parties = non_secret_ballots
+		civilized = yes
 	}
 	
 	mean_time_to_happen = {
@@ -517,8 +517,8 @@ country_event = {
 	picture = "treaty"
 	
 	trigger = {
-		civilized = yes
 		political_parties = secret_ballots
+		civilized = yes
 	}
 	
 	mean_time_to_happen = {
@@ -660,8 +660,8 @@ country_event = {
 	picture = "Strike"
 	
 	trigger = {
-		civilized = yes
 		trade_unions = state_controlled
+		civilized = yes
 	}
 	
 	mean_time_to_happen = {
@@ -774,8 +774,8 @@ country_event = {
 	picture = "Demonstration"
 	
 	trigger = {
-		civilized = yes
 		trade_unions = all_trade_unions
+		civilized = yes
 		is_ideology_enabled = socialist
 		average_militancy = 5
 	}
@@ -844,8 +844,8 @@ country_event = {
 	picture = "Policeaction"
 	
 	trigger = {
-		civilized = yes
 		public_meetings = no_meeting
+		civilized = yes
 	}
 	
 	mean_time_to_happen = {
@@ -901,8 +901,8 @@ country_event = {
 	picture = "Revolution"
 	
 	trigger = {
-		civilized = yes
 		public_meetings = no_meeting
+		civilized = yes
 		plurality = 7
 		NOT = {
 			average_militancy = 6
@@ -1028,10 +1028,10 @@ country_event = {
 	desc = "EVTDESC3753"
 	picture = "Demonstration"
 	
-	trigger = {
+	trigger = {		
+		public_meetings = yes_meeting
 		civilized = yes
 		average_militancy = 5
-		public_meetings = yes_meeting
 	}
 	
 	mean_time_to_happen = {
@@ -1085,8 +1085,8 @@ country_event = {
 	picture = "meeting3"
 	
 	trigger = {
-		civilized = yes
 		public_meetings = yes_meeting
+		civilized = yes
 		NOT = {
 			government = democracy
 		}
@@ -1143,11 +1143,11 @@ country_event = {
 	
 	trigger = {
 		civilized = yes
+		public_meetings = yes_meeting
 		OR = {
 			unemployment_subsidies = no_subsidies
 			unemployment_subsidies = trinket_subsidies
 		}
-		public_meetings = yes_meeting
 		unemployment = 0.1
 	}
 	
@@ -1214,8 +1214,8 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = yes
 		public_meetings = yes_meeting
+		civilized = yes
 		political_reform_want = 0.15
 	}
 	
@@ -1293,8 +1293,8 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		civilized = yes
 		upper_house_composition = party_appointed
+		civilized = yes
 		political_reform_want = 0.3
 		average_militancy = 5
 		poor_strata_life_needs = 0.8
@@ -1350,8 +1350,8 @@ country_event = {
 	picture = "Demonstration"
 	
 	trigger = {
-		civilized = yes
 		upper_house_composition = appointed
+		civilized = yes
 		political_reform_want = 0.2
 		average_militancy = 4
 		plurality = 6
@@ -1420,8 +1420,8 @@ country_event = {
 	picture = "Demonstration"
 	
 	trigger = {
-		civilized = yes
 		upper_house_composition = state_equal_weight
+		civilized = yes
 		political_reform_want = 0.2
 		any_state = {
 			average_militancy = 6
@@ -1483,8 +1483,8 @@ country_event = {
 	picture = "Prosper"
 	
 	trigger = {
-		civilized = yes
 		upper_house_composition = population_equal_weight
+		civilized = yes
 	}
 	
 	mean_time_to_happen = {
@@ -1606,8 +1606,8 @@ country_event = {
 	picture = "meeting3"
 	
 	trigger = {
-		civilized = yes
 		voting_system = jefferson_method
+		civilized = yes
 	}
 	
 	mean_time_to_happen = {
@@ -1657,8 +1657,8 @@ country_event = {
 	picture = "treaty"
 	
 	trigger = {
-		civilized = yes
 		voting_system = proportional_representation
+		civilized = yes
 		upper_house = {
 			ideology = liberal
 			value = 0.5
@@ -1723,9 +1723,9 @@ country_event = {
 	picture = "Demonstration"
 	
 	trigger = {
-		civilized = yes
 		vote_franschise = none_voting
 		average_militancy = 8
+		civilized = yes
 		political_reform_want = 0.2
 	}
 	
@@ -1792,8 +1792,8 @@ country_event = {
 	picture = "treaty"
 	
 	trigger = {
-		civilized = yes
 		vote_franschise = landed_voting
+		civilized = yes
 		middle_strata_everyday_needs = 0.9
 	}
 	
@@ -1854,8 +1854,8 @@ country_event = {
 	picture = "treaty"
 	
 	trigger = {
-		civilized = yes
 		vote_franschise = wealth_weighted_voting
+		civilized = yes
 	}
 	
 	mean_time_to_happen = {
@@ -1915,8 +1915,8 @@ country_event = {
 	picture = "Revolution"
 	
 	trigger = {
-		civilized = yes
 		vote_franschise = wealth_voting
+		civilized = yes
 	}
 	
 	mean_time_to_happen = {
@@ -1969,8 +1969,8 @@ country_event = {
 	picture = "treaty"
 	
 	trigger = {
-		civilized = yes
 		vote_franschise = universal_weighted_voting
+		civilized = yes
 		universal_voting = 15
 	}
 	
@@ -3517,9 +3517,9 @@ country_event = {
 	picture = "news"
 	
 	trigger = {
-		civilized = yes
 		religious_policy = pluralism
 		press_rights = free_press
+		civilized = yes
 		average_consciousness = 6
 		literacy = 0.6
 		secularized = 5
@@ -3582,8 +3582,8 @@ country_event = {
 	picture = "Upperhouse"
 	
 	trigger = {
-		civilized = yes
 		upper_house_composition = party_appointed
+		civilized = yes
 		political_reform_want = 0.15
 	}
 	

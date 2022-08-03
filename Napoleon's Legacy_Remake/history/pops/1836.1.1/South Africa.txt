@@ -169,12 +169,6 @@
     soldiers = {
         culture = boer
         religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
         size = 1
     }
 
@@ -283,12 +277,6 @@
     soldiers = {
         culture = boer
         religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
         size = 1
     }
 
@@ -349,67 +337,12 @@
     soldiers = {
         culture = khoikhoi
         religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
         size = 4
     }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
     soldiers = {
         culture = khoikhoi
         religion = animist
         size = 5
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
     }
 
     soldiers = {
@@ -421,31 +354,7 @@
     soldiers = {
         culture = boer
         religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
         size = 2
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
     }
 
     soldiers = {

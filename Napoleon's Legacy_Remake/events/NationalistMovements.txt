@@ -2768,6 +2768,7 @@ province_event = {
 	desc = "EVTDESC15250"
 	
 	trigger = {
+		is_primary_culture = no
 		owner = {
 			civilized = yes
 			NOT = {
@@ -2776,7 +2777,6 @@ province_event = {
 			}
 		}
 		is_colonial = no
-		is_primary_culture = no
 		is_accepted_culture = no
 		is_state_religion = no
 		any_pop = {
@@ -3411,7 +3411,7 @@ province_event = {
 	title = "EVTNAME15300"
 	desc = "EVTDESC15300"
 	
-	trigger ={
+	trigger = {
 		is_primary_culture = no
 		is_accepted_culture = no
 		is_colonial = no
@@ -3525,15 +3525,15 @@ province_event = {
 	desc = "EVTDESC15310"
 	
 	trigger = {
-		not = {
-			has_province_modifier = flying_university
-		}
 		is_primary_culture = no
 		is_accepted_culture = no
 		is_colonial = no
 		average_consciousness = 5
 		owner = {
 			has_country_modifier = discriminatory_school_system
+		}
+		not = {
+			has_province_modifier = flying_university
 		}
 		controlled_by = owner
 	}

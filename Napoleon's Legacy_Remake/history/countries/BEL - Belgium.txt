@@ -1,6 +1,5 @@
 capital = 387
-primary_culture = wallonian
-culture = flemish
+primary_culture = flemish
 culture = french
 religion = catholic
 government = hms_government
@@ -37,7 +36,6 @@ upper_house = {
 	liberal = 35
 	conservative = 55
 	reactionary = 10
-	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }

@@ -675,7 +675,6 @@ country_event = {
 				government = presidential_dictatorship
 				government = fascist_dictatorship
 				government = absolute_monarchy
-				government = napoleonic_empire	
 			}
 		}
 	country_event = 60010 #pres dict
@@ -692,7 +691,6 @@ country_event = {
 				government = presidential_dictatorship
 				government = fascist_dictatorship
 				government = absolute_monarchy
-				government = napoleonic_empire	
 			}
 		}
 	country_event = 60030
@@ -870,7 +868,6 @@ country_event = {
 		HES = { all_core = { remove_core = HES add_core = GER } }
 		BAV = { all_core = { remove_core = BAV add_core = GER } }
 		MEC = { all_core = { remove_core = MEC add_core = GER } }
-		LUB = { all_core = { remove_core = LUB add_core = GER } }
 		HOL = { all_core = { remove_core = HOL add_core = GER } }
 		HAN = { all_core = { remove_core = HAN add_core = GER } }
 		BRA = { all_core = { remove_core = BRA add_core = GER } }

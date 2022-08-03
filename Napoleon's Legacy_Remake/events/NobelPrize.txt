@@ -12,6 +12,7 @@ country_event = {
 	news_desc_short = "EVTDESC23450_NEWS_SHORT"
 
 	trigger = {
+		is_culture_group = scandinavian	#redundant check to reduce total amount of checks like a boss
 		OR = {
 			tag = SWE
 			tag = SCA

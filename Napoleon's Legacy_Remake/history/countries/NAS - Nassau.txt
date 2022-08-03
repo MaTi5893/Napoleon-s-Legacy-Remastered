@@ -34,7 +34,6 @@ upper_house = {
 	liberal = 30
 	conservative = 55
 	reactionary = 15
-	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
 }

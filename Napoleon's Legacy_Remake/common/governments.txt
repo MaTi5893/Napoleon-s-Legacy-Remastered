@@ -1,31 +1,6 @@
 # Do not change tags in here without changing every other reference to them.
 # If adding new forms of governemnts, make sure they are uniquely named.
 
-napoleonic_empire = {	#only for france
-	liberal = yes
-	socialist = yes
-	conservative = yes
-	reactionary = yes
-
-	appoint_ruling_party = yes
-	#flag is FRA.tga
-	election = no 
-	
-}
-
-revolutionary_republic = {
-	liberal = yes
-	socialist = yes
-	conservative = yes
-	reactionary = yes
-	
-	
-	election = yes
-	duration = 48
-	#flags are TAG.tga
-	appoint_ruling_party = no
-}
-
 proletarian_dictatorship =
 {
 	#which ideology of parties.

@@ -1,16 +1,4 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-NORMAL_WAR_REVOLUTIONARY_NAME;$ORDER$$FIRST$ Overthrow of the $SECOND$ Monarchy;;;SPANISH LOC;;;;;;;;;x;;
-AGRESSION_WAR_REVOLUTIONARY_NAME;$ORDER$$FIRST$ Overthrow of the $SECOND$ Monarchy;;;SPANISH LOC;;;;;;;;;x;;
-NORMAL_WAR_ANCIEN_NAME;$ORDER$$FIRST$ Overthrow of the $SECOND$ Republic;;;SPANISH LOC;;;;;;;;;x;;
-AGRESSION_WAR_ANCIEN_NAME;$ORDER$$FIRST$ Overthrow of the $SECOND$ Republic;;;SPANISH LOC;;;;;;;;;x;;
-force_republic_desc;Overthrow $RECIPIENT$'s monarchy;;;SPANISH LOC;;;;;;;;;x;;
-force_republic;Overthrow Monarchy;;;SPANISH LOC;;;;;;;;;x;;
-force_republic_short;Overthrow $RECIPIENT$'s monarchy;;;;;;;SPANISH LOC;;;;;;;;;x;;;;
-force_republic_setup;Change $RECIPIENT$'s government form into a Revolutionary Republic;;;SPANISH LOC;;;;;;;;;x;;
-force_monarchy_desc;Overthrow $RECIPIENT$'s republic and make it into an absolute monarchy;;;SPANISH LOC;;;;;;;;;x;;
-force_monarchy;Overthrow Republic;;;SPANISH LOC;;;;;;;;;x;;
-force_monarchy_short;Restore $RECIPIENT$'s government;;;;;;;SPANISH LOC;;;;;;;;;x;;;;
-force_monarchy_setup;Change $RECIPIENT$'s government form into an Absolute Monarchy;;;SPANISH LOC;;;;;;;;;x;;
 dismantle_factories_desc;Dismantle factories and cancel all constructions and recruitments.\n\n§YNOTE: §RBecause of coding limitations this CB only works with one country at a time, if you are going to add it for more than one country then make sure to peace out separately.§W;;;;Desmantelar las fábricas y cancelar todas las construcciones y reclutamientos.\n\n§YNota: §RDebido a las limitaciones de codificación este CB sólo funciona con un país a la vez, si vas a anadirlo para más de un país entonces asegúrate de pacificar por separado.§!;;;;;;;;;
 dismantle_factories;Dismantle Industry;;;;Desmantelar la industria;;;;;;;;;
 dismantle_factories_short;Dismantle industry in $STATE$;;;;Desmantelar la industria en $STATE$;;;;;;;;;
@@ -122,8 +110,6 @@ AGRESSION_WAR_UNIFICATION_NAME;$ORDER$$FIRST$ Liberation of $STATE$;;;;$ORDER$$F
 NORMAL_WAR_UNIFICATION_NAME;$ORDER$$FIRST$ Liberation of $STATE$;;;;$ORDER$$FIRST$ Liberación de $STATE$;;;;;;;;x
 AGRESSION_CIVIL_WAR_NAME;$ORDER$$FIRST$ Civil War;;;;$ORDER$$FIRST$ Guerra Civil;;;;;;;;x
 NORMAL_CIVIL_WAR_NAME;$ORDER$$FIRST$ Civil War;;;;$ORDER$$FIRST$ Guerra Civil;;;;;;;;x
-NORMAL_CIVIL_WAR_NAME_NEJ_HAL;$ORDER$War of Arabian Domination;;;;$ORDER$Guerra de dominación árabe;;;;;;;;;
-NORMAL_CIVIL_WAR_NAME_HAL_NEJ;$ORDER$War of Arabian Domination;;;;$ORDER$Guerra de dominación árabe;;;;;;;;;
 AGRESSION_WAR_UNIFICATION_ANNEX_NAME;$ORDER$$FIRST$ Liberation of $SECOND_COUNTRY$;;;;$ORDER$$FIRST$ Liberación de $SECOND_COUNTRY$;;;;;;;;;
 NORMAL_WAR_UNIFICATION_ANNEX_NAME;$ORDER$$FIRST$ Liberation of $SECOND_COUNTRY$;;;;$ORDER$$FIRST$ Liberación de $SECOND_COUNTRY$;;;;;;;;;
 AGRESSION_WAR_RESTORE_ORDER_NAME;$ORDER$$FIRST$ Restoration of Order to the $SECOND$ provinces;;;;$ORDER$$FIRST$ Restauración del Orden a las provincias de la $SECOND$;;;;;;;;x
@@ -166,7 +152,7 @@ acquire_treaty_port_short;Acquires concession of $STATE$;;;;Adquiere concesión d
 conquest_low;Minor Conquest;;;;Conquista menor;;;;;;;;x
 conquest_low_desc;Annex a ?Ycountry?W of small size and population by conquest;;;;Anexo a ?Ypaís?W de peque?o tama?o y población por conquista;;;;;;;;x
 conquest_low_setup;Annex minor nation of $RECIPIENT$;;;;Anexo nación menor de $RECIPIENT$;;;;;;;;x
-conquest_low_short;Annex $RECIPIENT$;;;;Anexo $RECEPTOR$;;;;;;;;x
+conquest_low_short;Annex $RECIPIENT$;;;;Anexo $RECIPIENT$;;;;;;;;x
 demand_reperations;Demand Reparations;;;;Reparaciones de Demanda;;;;;;;;x
 demand_reperations_short;Make $RECIPIENT$ pay reparations;;;;Hacer que $RECIPIENT$ pague las reparaciones;;;;;;;;x
 demand_reperations_setup;Make $RECIPIENT$ pay reparations;;;;Hacer que $RECIPIENT$ pague las reparaciones;;;;;;;;x
@@ -191,7 +177,7 @@ negotiated_transfer_desc;Take a state or colonial region from another player wit
 negotiated_transfer_short;Take $STATE$ from $RECIPIENT$;;;;Tomar $STATE$ de $RECIPIENT$;;;;;;;;;
 negotiated_transfer_setup;Take $STATE$ from $RECIPIENT$ with their consent;;;;Tomar $STATE$ de $RECIPIENT$ con su consentimiento;;;;;;;;;
 NORMAL_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$;;;;$ORDER$$SECOND$ Transferencia de $STATE$;;;;;;;;;
-AGRESSION_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$;;;;$ORDER$$SECOND$ Transferencia de $STATE$$;;;;;;;;;
+AGRESSION_WAR_NEGOTIATE_NAME;$ORDER$$SECOND$ Transfer of $STATE$;;;;$ORDER$$SECOND$ Transferencia de $STATE$;;;;;;;;;
 acquire_state;Acquire State;;;;Adquirir el Estado;;;;;;;;;
 acquire_state_short;Acquire $STATE$;;;;Adquirir $STATE$;;;;;;;;;
 acquire_state_desc;Acquire an enemy §Ystate§W.;;;;Adquirir un enemigo §Yestado§W;;;;;;;;;
