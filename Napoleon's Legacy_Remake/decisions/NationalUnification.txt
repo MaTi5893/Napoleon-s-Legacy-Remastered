@@ -431,8 +431,8 @@ political_decisions = {
 	
 	reichsland_elsass = {
 		potential = {
-			is_culture_group = germanic
 			owns = 410
+			is_culture_group = germanic
 			owns = 409
 			owns = 412
 			NOT = {
@@ -489,7 +489,12 @@ political_decisions = {
 	
 	form_gran_colombia = {
 		potential = {
-			has_country_flag = gran_colombian
+			primary_culture = andean	#Redundant check used to reduce the amount of checks
+			OR = { 
+				tag = ECU
+				tag = VNZ
+				tag = CLM
+			}
 			NOT = {
 				exists = GCO
 			}
@@ -563,8 +568,8 @@ political_decisions = {
 
 unite_moldavia_wallachia = {
 		potential = {
-			has_country_flag = romanian
-			exists = WAL
+			primary_culture = romanian	#Either Wallachia or Moldavia
+			exists = WAL			#Since Transylvania is Hungarian primary
 			exists = MOL
 			NOT = { exists = ROM }
 		}

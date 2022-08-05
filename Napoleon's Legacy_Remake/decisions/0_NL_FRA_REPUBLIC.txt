@@ -2,6 +2,7 @@ political_decisions = {	#Republic can also do the "french_rhur_boom" decision fr
 	republic_culture_decision_1 = {
 		picture = culture_1_decision
 		potential = {
+			tag = FRA
 			OR = { 
 				has_country_flag = republic
 				has_country_flag = alexandre

@@ -370,25 +370,17 @@ MYS_1314 = { 1314 1313 1316 1315 } #Mysore
 
 ENG_1317 = { 1317 1318 1319 } #Travancore
 
-ENG_1304 = { 1304 1309 1310 1311 } #Madras
+ENG_1304 = { 1304 1309 1310 1311 1312 3251 } #Madras, Pondicherry and Trankebar
 
 PAN_1224 = { 1224 1225 1226 } #Kashmir
 
 HYD_1283 = { 1283 1284 1285 1286 1287 } #Hyderabad
 
-ENG_1291 = { 1291 1296 1294 1295 1292 1293 } #Beroda
+ENG_1291 = { 1291 1296 1294 1295 1292 1293 3253 } #Beroda and Diu
 
 ENG_1275 = { 1275 1276 1270 1271 1272 1273 1274 } #Central India
 
-ENG_1297 = { 1297 1298 1299 1300 1301 1302 } #Bombay
-
-GOA_1303 = { 1303 } #Goa
-
-DIU_3253 = { 3253 } #Diu
-
-TRA_3251 = { 3251 } #Trankebar
-
-PON_1312 = { 1312 } #Pondicherry
+ENG_1297 = { 1297 1298 1299 1300 1301 1302 1303 } #Bombay and Goa
 
 ENG_1247 = { 1247 1248 1249 1250 } #Bihar
 

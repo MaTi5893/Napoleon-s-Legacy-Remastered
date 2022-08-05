@@ -41,8 +41,6 @@ political_decisions = {
 		potential = {
 			tag = ENG
 			NOT = {accepted_culture = anglo_canadian}
-            		#NOT = {accepted_culture = afro_caribbean}
-
 		}
 		allow = {
 			CAN = {ai = yes}

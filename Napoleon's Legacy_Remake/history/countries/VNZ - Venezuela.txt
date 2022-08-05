@@ -77,5 +77,3 @@ consciousness = 2
 nonstate_consciousness = 0
 
 
-oob = "VNZ_oob.txt"
-

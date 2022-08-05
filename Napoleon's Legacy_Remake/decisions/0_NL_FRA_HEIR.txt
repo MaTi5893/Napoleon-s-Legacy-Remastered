@@ -3,7 +3,7 @@ political_decisions = {
 	picture = louis_bonaparte	#This is actually redundant but i hate it when the validator tells me that there's no decision that uses a pic when the decision and image names are the same 
 		potential = { 
 			tag = FRA
-			NOT = { has_country_flag = chose_heir_nap } #theoretically i could slap a NOT = { has_country_flag = louis jerome alexandre maximilien republic} here but that's kinda cringe
+			NOT = { has_country_flag = chose_heir_nap }
 			ai = no
 		}
 		allow = { }

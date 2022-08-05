@@ -3,4 +3,4 @@ controller = MAH
 add_core = MAH
 add_core = HND
 trade_goods = tea
-life_rating = 32
+life_rating = 30

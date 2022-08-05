@@ -48,6 +48,7 @@ political_decisions = {
 	accept_cisalpine = {
 		picture = piedmonte_decision
 		potential = {
+			is_culture_group = italian
 			OR = {
 				tag = NIT
 				tag = ITA

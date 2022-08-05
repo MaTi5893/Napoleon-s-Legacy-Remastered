@@ -20,27 +20,4 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	
-	take_what_is_ours = {	#NLR addition
-		picture = indiaboaposter #Random pic I found online of an Indian man kicking the Portuguese out of Boa 
-		potential = {
-			tag = HND
-			NOT = { has_country_flag = india_treaty_ports }         
-		}
-		allow = {
-			has_unclaimed_cores = no                                 
-		}
-		effect = {
-			prestige = 30
-			badboy = 5
-			1303 = { add_core = HND } # Goa
-			1312 = { add_core = HND } # all cops are bastards (Pondicherry)
-			1320 = { add_core = HND } # Andaman Islands
-			1325 = { add_core = HND } # Maldives
-			2128 = { add_core = HND } # Diego Garcia
-			3251 = { add_core = HND } # Trankebar
-			3253 = { add_core = HND } # Diu
-			set_country_flag = india_treaty_ports
-		}
-	}
 }

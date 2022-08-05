@@ -1,5 +1,5 @@
 owner = GBR
 controller = GBR
 trade_goods = fish
-life_rating = 32
+life_rating = 30
 colonial = 2

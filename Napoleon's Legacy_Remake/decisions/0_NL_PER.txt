@@ -5,11 +5,7 @@ political_decisions = {
 			NOT = { has_country_flag = restored_persian_empire }
 		}
 		allow = {
-			PER = {
-				all_core = {
-					owned_by = THIS
-				}
-			}
+			has_unclaimed_cores = no
 			OR = {
 				is_greater_power = yes
 				AND = {
@@ -18,7 +14,7 @@ political_decisions = {
 					army_schools = army_schools_two
 				}
 			}
-			owns = 1209
+			#owns = 1209
 		}
 		effect = {
 			AFG = {
@@ -32,11 +28,7 @@ political_decisions = {
 				}
 			}
 			1222 = { add_core = THIS }
-			RUS_1196 = {
-				any_owned = {
-					add_core = THIS
-				}
-			}
+			RUS_1196 = { add_core = THIS }
 			set_country_flag = restored_persian_empire
 		}
 	}

@@ -1,20 +1,22 @@
 political_decisions = { 
-
 	pursue_unification = {
 		potential = {
-			AND = {
-				tag = MOL
-				NOT = {
-					AND = { 
-						ai = yes
-						WAL = { ai = no } 
+			primary_culture = romanian
+			OR = {
+				AND = {
+					tag = MOL
+					NOT = {
+						AND = { 
+							ai = yes
+							WAL = { ai = no } 
+						}
 					}
 				}
-			}
-			AND = {
-				tag = WAL
-				ai = no
-				MOL = { ai = yes }
+				AND = {
+					tag = WAL
+					ai = no
+					MOL = { ai = yes }
+				}
 			}
 			NOT = {
 				exists = ROM
@@ -100,6 +102,7 @@ political_decisions = {
 	unite_the_principalities = {
 		picture = unite_the_principalities
 		potential = {
+			primary_culture = romanian
 			OR = {
 				AND = {
 					tag = MOL

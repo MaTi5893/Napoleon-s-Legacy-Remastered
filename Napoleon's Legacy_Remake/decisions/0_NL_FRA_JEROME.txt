@@ -104,9 +104,6 @@ political_decisions = {
 					owned_by = THIS
 				}
 			}
-			all_core = {
-				owned_by = THIS
-			}
 			is_greater_power = yes
 		}
 		effect = {
@@ -124,9 +121,6 @@ political_decisions = {
 		}
 		allow = {
 			war = no
-			all_core = {
-				owned_by = THIS
-			}
 			is_greater_power = yes
 			revolution_n_counterrevolution = 1
 		}

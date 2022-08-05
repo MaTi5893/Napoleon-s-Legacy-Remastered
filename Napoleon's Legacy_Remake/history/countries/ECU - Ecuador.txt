@@ -76,5 +76,3 @@ schools = culture_tech_school
 consciousness = 2
 nonstate_consciousness = 0
 
-
-oob = "ECU_oob.txt"

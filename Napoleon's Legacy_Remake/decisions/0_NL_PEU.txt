@@ -41,10 +41,7 @@ political_decisions = {
 			prestige = 10
 			any_country = {
 				limit = {
-					OR = {
-						tag = PEU
-						tag = BOL
-					}
+					tag = BOL
 					OR = {
 						vassal_of = THIS
 						in_sphere = THIS

@@ -4,7 +4,7 @@ name = "Egyptian revolts"
 	add_attacker = TUR
 	add_defender = EGY
 	war_goal = {
-		casus_belli = make_puppet
+		casus_belli = conquest
 		actor = TUR
 		receiver = EGY
 	}

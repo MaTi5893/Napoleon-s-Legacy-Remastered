@@ -45,9 +45,6 @@ political_decisions = {
 					}
 				}
 			}
-			all_core = {
-				owned_by = THIS
-			}
 			empiricism = 1
 			war = no
 		}
@@ -94,9 +91,6 @@ political_decisions = {
 						}
 					}
 				}
-			}
-			all_core = {
-				owned_by = THIS
 			}
 			phenomenology_n_hermeneutic = 1
 			war = no

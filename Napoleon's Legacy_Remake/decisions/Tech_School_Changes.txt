@@ -261,11 +261,5 @@ political_decisions = {
 		ai_will_do = {
 			factor = 0
 		}
-
-		#news = yes
-		#news_title = "SOME_TEXT_TITLE"
-		#news_desc_long = "SOME_TEXT_LONG"
-		#news_desc_medium = "SOME_TEXT_MEDIUM"
-		#news_desc_short = "SOME_TEXT_SHORT"
 	}
 }
