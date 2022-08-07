@@ -1,5 +1,6 @@
 political_decisions = {
 	construct_germania_werft = {
+		picture = construct_germania_werft
 		potential = {
 			is_culture_group = germanic
 			NOT = {
@@ -25,6 +26,7 @@ political_decisions = {
 	}
 	
 	kaiser_wilhelms_land = {
+		picture = kaiser_wilhelms_land
 		potential = {
 			tag = GER
 			#owns = 1531
@@ -54,6 +56,7 @@ political_decisions = {
 	}
 	
 	the_heligoland_question = {
+		picture = the_heligoland_question
 		potential = {
 			tag = GER
 			NOT = {
@@ -76,6 +79,7 @@ political_decisions = {
 		}
 	}
 	von_moltkes_staff_reforms = {
+		picture = von_moltkes_staff_reforms
 		potential = {
 			is_culture_group = germanic	#redundant check - reduces total amount of checks needed
 			OR = {
@@ -108,6 +112,7 @@ political_decisions = {
 	}
 	
 	the_ruhr_boom = {
+		picture = the_ruhr_boom
 		potential = {
 			is_culture_group = germanic
 			owns = 578
@@ -133,6 +138,7 @@ political_decisions = {
 		}
 	}
 	appoint_von_bismarck = {
+		picture = appoint_von_bismarck
 		potential = {
 			is_culture_group = germanic
 			OR = {

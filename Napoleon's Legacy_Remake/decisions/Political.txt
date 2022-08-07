@@ -1,5 +1,6 @@
 political_decisions = {
 	enact_liquor_prohibition = {
+		picture = enact_liquor_prohibition
 		potential = {
 			social_science = 1
 			has_country_modifier = temperance_league
@@ -33,15 +34,14 @@ political_decisions = {
 			modifier = {
 				factor = 0
 				NOT = {
-					OR = {
-						moralism = 30
-						liberal = 60
-					}
+					moralism = 30
+					liberal = 60
 				}
 			}		
 		}
 	}
 	abolish_prohibition = {
+		picture = abolish_prohibition
 		potential = {
 			has_country_modifier = liquor_prohibition
 		}
@@ -65,6 +65,7 @@ political_decisions = {
 		}
 	}
 	institute_central_bank = {
+		picture = institute_central_bank
 		potential = {
 			NOT = {
 				has_country_modifier = central_bank_established
@@ -89,6 +90,7 @@ political_decisions = {
 	}
 	
 	enact_female_suffrage = {
+		picture = enact_female_suffrage
 		potential = {
 			year = 1870
 			civilized = yes
@@ -133,6 +135,7 @@ political_decisions = {
 		}
 	}
 	the_meiji_restoration = {
+		picture = the_meiji_restoration
 		potential = {
 			tag = JAP
 			civilized = no
@@ -153,6 +156,7 @@ political_decisions = {
 	}
 	
 	the_meiji_restoration2 = {
+		picture = the_meiji_restoration2
 		potential = {
 			tag = JAP
 			civilized = no
@@ -205,6 +209,7 @@ political_decisions = {
 	}
 	
 	leave_soi = {
+		picture = leave_soi
 		alert = no
 		potential = {
 			part_of_sphere = yes
@@ -247,6 +252,7 @@ political_decisions = {
 	}
 	
 	nationalize = {
+		picture = nationalize
 		alert = no
 			
 		potential = {

@@ -1,5 +1,6 @@
 political_decisions = {
 	abolish_serfdom = {
+		picture = abolish_serfdom
 		potential = {
 			tag = RUS
 			has_country_flag = serfdom_not_abolished
@@ -36,6 +37,7 @@ political_decisions = {
 		}
 	}
 	establish_the_sovnarkom = {
+		picture = establish_the_sovnarkom
 		potential = {
 			tag = RUS
 			NOT = {
@@ -62,6 +64,7 @@ political_decisions = {
 	}
 	
 	manifesto_on_unshakable_autocracy = {
+		picture = manifesto_on_unshakable_autocracy
 		potential = {
 			tag = RUS
 			government = absolute_monarchy
@@ -87,6 +90,7 @@ political_decisions = {
 	}
 	
 	promulgate_the_ems_ukaz = {
+		picture = promulgate_the_ems_ukaz
 		potential = {
 			tag = RUS
 			NOT = {
@@ -118,6 +122,7 @@ political_decisions = {
 	}
 
 	protect_eastern_christians = {
+		picture = protect_eastern_christians
 		potential = {
 			tag = RUS
 			is_greater_power = yes
@@ -165,6 +170,7 @@ political_decisions = {
 	}
 	
 	peking_convention = {
+		picture = peking_convention
 		potential = {
 			tag = RUS
 			MCK = {
@@ -201,6 +207,7 @@ political_decisions = {
 	}
 
 	russian_vladivostok = {
+		picture = russian_vladivostok
 		potential = {
 		tag = RUS
 		owns = 1085
@@ -242,6 +249,7 @@ political_decisions = {
 	}
 	
 	move_capital_to_moscow = {
+		picture = move_capital_to_moscow
 		potential = {
 			tag = RUS
 			AND = {

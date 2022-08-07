@@ -1,5 +1,6 @@
 political_decisions = {
 	liberty_enlightening_the_world = {
+		picture = liberty_enlightening_the_world
 		potential = {
 			tag = FRA
 			NOT = {
@@ -26,6 +27,7 @@ political_decisions = {
 		}
 	}
 	support_french_foreign_legion = {
+		picture = support_french_foreign_legion
 		potential = {
 			tag = FRA
 			owns = 1700
@@ -46,6 +48,7 @@ political_decisions = {
 	}
 	
 	the_lambert_charter = {
+		picture = the_lambert_charter
 		potential = {
 			tag = FRA
 			NOT = {
@@ -76,6 +79,7 @@ political_decisions = {
 	}
 	
 	end_the_merina_monarchy = {
+		picture = end_the_merina_monarchy
 		potential = {
 			tag = FRA
 			OR = {
@@ -110,6 +114,7 @@ political_decisions = {
 	}
 	
 	brazzas_expedition = {
+		picture = brazzas_expedition
 		potential = {
 			tag = FRA
 			owns = 1977
@@ -132,6 +137,7 @@ political_decisions = {
 	}
 
 	build_the_eiffel_tower = {
+		picture = build_the_eiffel_tower
 		potential = {
 			tag = FRA
 			NOT = {
@@ -157,6 +163,7 @@ political_decisions = {
 	}
 	
 	haussmanns_renovations = {
+		picture = haussmanns_renovations
 		potential = {
 			tag = FRA
 			owns = 425

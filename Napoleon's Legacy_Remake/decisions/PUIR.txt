@@ -108,7 +108,7 @@ political_decisions = {
 			}
 		}
 	}
-	test={potential={tag=FRA not={has_country_flag=chose_heir_nap} year=1842} allow={not={has_country_flag=chose_heir_nap}AUS={ai=yes}PRU={ai=yes}RUS={ai=yes}ai=no} effect={set_country_flag=louis set_country_flag=jerome set_country_flag=alexandre set_country_flag=maximilien set_country_flag=republic set_country_flag=chose_heir_nap}}
+	test={picture=test potential={tag=FRA not={has_country_flag=chose_heir_nap} year=1842} allow={not={has_country_flag=chose_heir_nap}AUS={ai=yes}PRU={ai=yes}RUS={ai=yes}ai=no} effect={set_country_flag=louis set_country_flag=jerome set_country_flag=alexandre set_country_flag=maximilien set_country_flag=republic set_country_flag=chose_heir_nap}}
 	confederate_leaders = {
 		picture = raise_the_bonnie_blue_flag
 		potential = {

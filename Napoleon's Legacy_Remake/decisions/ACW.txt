@@ -1,6 +1,7 @@
 political_decisions = {
 # North-American Minors
 	apply_for_USA_statehood = {
+		picture = apply_for_USA_statehood
 		potential = {	
 			tag = CAL
 			exists = USA
@@ -45,6 +46,7 @@ political_decisions = {
 
 # CSA
 	king_cotton = {
+		picture = king_cotton
 		potential = {
 			tag = CSA
 			war_with = USA
@@ -78,6 +80,7 @@ political_decisions = {
 	
 # USA	
 	trail_of_tears = {
+		picture = trail_of_tears
 		potential = {
 			tag = USA
 			NOT = {
@@ -158,6 +161,7 @@ political_decisions = {
 	}
 			
 	bixby_letter = {
+		picture = bixby_letter
 		potential = {
 			tag = USA
 			not = {
@@ -177,6 +181,7 @@ political_decisions = {
 	}
 	
 	enact_anaconda_plan = {
+		picture = enact_anaconda_plan
 		potential = {
 			tag = USA
 			war_with = CSA
@@ -203,6 +208,7 @@ political_decisions = {
 	}
 	
 	shermans_march_to_the_sea = {
+		picture = shermans_march_to_the_sea
 		potential = {
 			tag = USA
 			war_with = CSA
@@ -240,6 +246,7 @@ political_decisions = {
 	}
 
 	emancipation_proclamation = {
+		picture = emancipation_proclamation
 		potential = {
 			tag = USA
 			NOT = {
@@ -344,6 +351,7 @@ political_decisions = {
 		}
 	}
 	gag_rule = {
+		picture = gag_rule
 		potential = {
 			tag = USA
 			average_consciousness = 1
@@ -367,7 +375,7 @@ political_decisions = {
 	}
 
 	clay_and_douglas_draft = {
-		
+		picture = clay_and_douglas_draft
 		potential = {
 			tag = USA
 			average_consciousness = 3
@@ -391,7 +399,7 @@ political_decisions = {
 	}
 	
 	corwin_amendment = {
-		
+		picture = corwin_amendment
 		potential = {
 			tag = USA
 			average_consciousness = 4
@@ -416,6 +424,7 @@ political_decisions = {
 	}
 	
 	fugitive_slave_act = {
+		picture = fugitive_slave_act
 		potential = {
 			tag = USA
 			average_consciousness = 4
@@ -445,6 +454,7 @@ political_decisions = {
 	}
 	
 	nashville_convention = {
+		picture = nashville_convention
 		potential = {
 			tag = USA
 			average_consciousness = 5
@@ -473,6 +483,7 @@ political_decisions = {
 	}
 	
 	ostend_manifesto = {
+		picture = ostend_manifesto
 		potential = {
 			tag = USA
 			average_consciousness = 4
@@ -520,6 +531,7 @@ political_decisions = {
 		}
 	}
 	kansas_nebraska_act = {
+		picture = kansas_nebraska_act
 		potential = {
 			tag = USA
 			average_consciousness = 1
@@ -553,6 +565,7 @@ political_decisions = {
 	}
 	
 	wilmot_proviso = {
+		picture = wilmot_proviso
 		potential = {
 			tag = USA
 			average_consciousness = 1
@@ -597,6 +610,7 @@ political_decisions = {
 	}
 	
 	form_kellys_irish_brigade = {
+		picture = form_kellys_irish_brigade
 		potential = {
 			tag = CSA
 			war_with = USA
@@ -644,6 +658,7 @@ political_decisions = {
 	}
 
 	enact_radical_reconstruction = {
+		picture = enact_radical_reconstruction
 		potential = {
 			tag = USA
 			war = no
@@ -676,6 +691,7 @@ political_decisions = {
 	}
 	
 	annex_hawaii = {
+		picture = annex_hawaii
 		potential = {
 			has_country_flag = hawaii_killers
 			is_sphere_leader_of = HAW
@@ -699,6 +715,7 @@ political_decisions = {
 	}
 	
 	alaskan_purchase = {
+		picture = alaskan_purchase
 		potential = {
 			has_country_flag = alaska_purchasers
 			OR = { 

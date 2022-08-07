@@ -1,5 +1,6 @@
 political_decisions = {
 	tanzimat_reforms = {
+		picture = tanzimat_reforms
 		potential = {
 			tag = TUR
 			NOT = {
@@ -39,6 +40,7 @@ political_decisions = {
 	}
 
 	kanun_i_esasi = {
+		picture = kanun_i_esasi
 		potential = {
 			tag = TUR
 			NOT = {
@@ -71,6 +73,7 @@ political_decisions = {
 	}
 	
 	form_israel = {
+		picture = form_israel
 		potential = {
 			916 = {
 				OR = {

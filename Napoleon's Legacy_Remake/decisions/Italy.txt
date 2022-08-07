@@ -1,5 +1,6 @@
 political_decisions = {
 	build_vittoriano = {
+		picture = build_vittoriano
 		potential = {
 			tag = ITA
 			government = absolute_monarchy
@@ -21,6 +22,7 @@ political_decisions = {
 		}
 	}
 	law_of_guarantees = {
+		picture = law_of_guarantees
 		potential = {
 			tag = ITA
 			NOT = {
@@ -70,6 +72,7 @@ political_decisions = {
 	}
 
 	italia_irredenta = {
+		picture = italia_irredenta
 		potential = {
 			tag = ITA
 			NOT = {

@@ -1,7 +1,7 @@
 political_decisions = { 
 
 	establish_beiyang_fleet = {
-		picture = establish_beiyang_fleet
+		picture = beiyang_fleet
 			potential = {
 				tag = CHI
 				NOT = {

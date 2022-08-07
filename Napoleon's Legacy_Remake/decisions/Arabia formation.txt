@@ -70,7 +70,6 @@ political_decisions = {
 			}
 			
 			TRI_1734 = { add_core = ARA } 
-			SIC_763 = { add_core = ARA }
 			add_core = 854
 			add_core = 901
 			

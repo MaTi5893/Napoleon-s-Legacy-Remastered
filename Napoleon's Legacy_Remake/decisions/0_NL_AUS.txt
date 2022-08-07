@@ -54,7 +54,7 @@ political_decisions = {
 	accept_slovak = {
 		picture = slovaks
 		potential = {
-			has_country_flag = AUS1
+			tag = KUK
 		}
 		allow = {
 			state_n_government = 1

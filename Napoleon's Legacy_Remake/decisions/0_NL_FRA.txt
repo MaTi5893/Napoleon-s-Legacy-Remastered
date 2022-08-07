@@ -17,9 +17,10 @@ political_decisions = {
 		picture = north_italy_decision
 		potential = {
 			tag = FRA
-			ITA = {exists = no}
-			NIT = {exists = no}
-			NOT = {has_country_flag = unite_north_italy_gp}
+			NOT = { has_country_flag = maximilien }
+			ITA = { exists = no }
+			NIT = { exists = no }
+			NOT = { has_country_flag = unite_north_italy_gp }
 		}
 		allow = {
 			exists = LOM
@@ -42,17 +43,17 @@ political_decisions = {
 		effect = {
 			prestige = 20
 			any_country = {
-                limit = {
-                    primary_culture = north_italian
-                    ai = yes
+                			limit = {
+                  				primary_culture = north_italian
+                    				ai = yes
 					NOT = {tag = LOM}
-                    OR = {
-                        in_sphere = THIS
-                        vassal_of = THIS
-                    }
-                }
-                annex_to = THIS
-            }
+                    				OR = {
+                       					in_sphere = THIS
+                        				vassal_of = THIS
+                    				}
+                			}
+               			annex_to = THIS
+            		}
 			any_owned = {
 				limit = {
 					is_core = NIT
@@ -60,20 +61,19 @@ political_decisions = {
 				}
 				secede_province = LOM
 			}
-            create_vassal = LOM
-            create_alliance = LOM
+           			create_vassal = LOM
+            		create_alliance = LOM
 			any_country = { 
 				limit = { 
 					tag = LOM 
 					ai = no 
-					THIS = { NOT = { has_country_flag = maximilien } } #THIS scopes to france. if france isnt going the maximilien path and lombardy is a player then it'll start out as an independent nation, so if lombardy is ai you'll puppet them regardless of anything
 				}
-				THIS = { release_vassal = LOM }
+				THIS = { release_vassal = LOM }	#if lombardy is a player then release
 			}
-            diplomatic_influence = {
-                who = LOM
-                value = 300
-            }
+            		diplomatic_influence = {
+                			who = LOM
+                			value = 300
+            		}
 			LOM = {change_tag = NIT}	
 			NIT = { all_core = { remove_core = LOM } } 
 			set_country_flag = unite_north_italy_gp
@@ -84,8 +84,9 @@ political_decisions = {
 	picture = greece_pic
 		potential = {
 			tag = FRA
-			owns = 826
-			owns = 827
+			owns = 826	#Corfu
+			owns = 827	#Zante
+			GRE = { owns = 837 } #Missolonghi, province in Greece region
 			NOT = {
 				truce_with = GRE
 			}			

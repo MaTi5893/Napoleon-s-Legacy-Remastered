@@ -1,5 +1,6 @@
 political_decisions = {
 	torching_of_the_summer_palace = {
+		picture = torching_of_the_summer_palace
 		potential = {
 			war_with = CHI
 			NOT = {
@@ -34,6 +35,7 @@ political_decisions = {
 	}
 	
 	clear_out_the_manchu_elite = {
+		picture = clear_out_the_manchu_elite
 		potential = {
 			tag = CHI
 			government = absolute_monarchy
@@ -61,6 +63,7 @@ political_decisions = {
 	}
 	
 	support_boxers = {
+		picture = support_boxers
 		potential = {
 			tag = CHI
 			NOT = {
@@ -109,6 +112,7 @@ political_decisions = {
 	}
 	
 	enact_muhammad_alis_reforms = {
+		picture = enact_muhammad_alis_reforms
 		potential = {
 			tag = EGY
 			civilized = no
@@ -130,6 +134,7 @@ political_decisions = {
 	}
 	
 	establish_the_dar_al_funun = {
+		picture = establish_the_dar_al_funun
 		potential = {
 			tag = PER
 			civilized = no
@@ -180,6 +185,7 @@ political_decisions = {
 		}
  	}
 	become_negusa_nagast = {
+		picture = become_negusa_nagast
 		potential = {
 			tag = ETH
 			government = absolute_monarchy

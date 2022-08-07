@@ -13,8 +13,8 @@ country_event = {
 	major = yes
 	
 	trigger = {
-		year = 1908
 		owns = 2694
+		year = 1908
 	}
 	
 	mean_time_to_happen = {
@@ -47,8 +47,8 @@ country_event = {
 	major = yes
 	
 	trigger = {
-		year = 1883
 		owns = 1414
+		year = 1883
 	}
 	
 	mean_time_to_happen = {
@@ -81,8 +81,8 @@ country_event = {
 	major = yes
 	
 	trigger = {
-		year = 1906
 		owns = 84
+		year = 1906
 	}
 	
 	mean_time_to_happen = {
@@ -114,8 +114,8 @@ country_event = {
 	major = yes
 	
 	trigger = {
-		year = 1851
 		owns = 1509
+		year = 1851
 	}
 	
 	mean_time_to_happen = {
@@ -243,8 +243,8 @@ country_event = {
 	major = yes
 	
 	trigger = {
-		year = 1887
 		owns = 1508
+		year = 1887
 	}
 	
 	mean_time_to_happen = {
@@ -362,8 +362,8 @@ country_event = {
 	major = yes
 	
 	trigger = {
-		year = 1931
 		owns = 1508
+		year = 1931
 	}
 	
 	mean_time_to_happen = {

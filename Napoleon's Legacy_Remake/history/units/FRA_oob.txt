@@ -50,19 +50,9 @@ DLM = {
 	influence_value = 25
 }
 
-SIC = {
-	value = 125
-	level = 3
-	influence_value = 25
-}
 SWI = {
 	value = 125
 	level = 5
-	influence_value = 25
-}
-SAR = {
-	value = 125
-	level = 4	
 	influence_value = 25
 }
 LOM = {
@@ -91,7 +81,7 @@ TUR = {
 SPA = {
 	value = 100
 }
-POR = {
+UPB = {
 	value = -75
 }
 leader = {

@@ -1,5 +1,6 @@
 political_decisions = {
 	form_south_german_confederation = {
+		picture = form_south_german_confederation
 		potential = {
 			is_greater_power = yes
 			primary_culture = south_german
@@ -7,7 +8,6 @@ political_decisions = {
 					exists = SGF
 					exists = GER
 					tag = KUK
-					tag = AUS
 			}
 		}	
 		allow = {
@@ -61,6 +61,7 @@ political_decisions = {
 	}
 	
 	austrian_form_south_german_confederation = {
+		picture = austrian_form_south_german_confederation
 		potential = {
 			tag = AUS
 			is_greater_power = yes
@@ -130,6 +131,7 @@ political_decisions = {
 	}	
 	
 	form_north_german_confederation = {
+		picture = form_north_german_confederation
 		potential = {
 			primary_culture = north_german
 			NOT = { 	
@@ -186,6 +188,7 @@ political_decisions = {
 	}
 	
 	form_union_nation = {
+		picture = form_union_nation
 		potential = {
 			culture_has_union_tag = yes
 			NOT = {
@@ -196,7 +199,7 @@ political_decisions = {
 				is_culture_group = arab
 				is_culture_group = south_slavic
 				is_culture_group = polish_culture_group
-				has_country_flag = gran_colombian
+				primary_culture = andean
 			}
 		}
 		
@@ -301,7 +304,7 @@ political_decisions = {
 			any_country = { 
 				limit = { 
 					tag = GER 
-					exists = SWI 
+					owns = 605
 				}
 				 SWI = {
 				 	all_core = { 
@@ -316,6 +319,7 @@ political_decisions = {
 		}
 	}
 	form_italy = {
+		picture = form_italy
 		news = yes
 		news_desc_long = "form_italy_NEWS_LONG"
 		news_desc_medium = "form_italy_NEWS_MEDIUM"
@@ -364,6 +368,7 @@ political_decisions = {
 		}
 	}
 	form_scandinavia = {
+		picture = form_scandinavia
 		news = yes
 		news_desc_long = "form_scandinavia_NEWS_LONG"
 		news_desc_medium = "form_scandinavia_NEWS_MEDIUM"
@@ -430,6 +435,7 @@ political_decisions = {
 
 	
 	reichsland_elsass = {
+		picture = reichsland_elsass
 		potential = {
 			owns = 410
 			is_culture_group = germanic
@@ -460,6 +466,7 @@ political_decisions = {
 	}
 	
 	restore_alsace = {
+		picture = restore_alsace
 		potential = {
 			tag = FRA
 			has_global_flag = germany_has_renamed_elsass
@@ -488,6 +495,7 @@ political_decisions = {
 	}
 	
 	form_gran_colombia = {
+		picture = form_gran_colombia
 		potential = {
 			primary_culture = andean	#Redundant check used to reduce the amount of checks
 			OR = { 
@@ -566,7 +574,7 @@ political_decisions = {
 		}
 	}	
 
-unite_moldavia_wallachia = {
+	unite_moldavia_wallachia = {
 		potential = {
 			primary_culture = romanian	#Either Wallachia or Moldavia
 			exists = WAL			#Since Transylvania is Hungarian primary
@@ -612,6 +620,7 @@ unite_moldavia_wallachia = {
 	}
 
 	form_yugoslavia = {
+		picture = form_yugoslavia
 		potential = {
 			is_culture_group = south_slavic
 			NOT = { exists = YUG }

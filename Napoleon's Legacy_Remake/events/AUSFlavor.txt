@@ -3,11 +3,11 @@ country_event = {
 	id = 31501
 
 	trigger = {
+		primary_culture = south_german
 		OR = {
 			tag = AUS
 			tag = KUK
 		}
-		year = 1836
 		tobacco = 100
 	}
 	
@@ -47,6 +47,7 @@ country_event = {
 	news_desc_short = "EVTDESC31502_NEWS_SHORT"
 
 	trigger = {
+		primary_culture = south_german
 		OR = {
 			tag = AUS
 			tag = KUK
@@ -104,6 +105,7 @@ country_event = {
 	id = 31503
 
 	trigger = {
+		primary_culture = south_german
 		OR = {
 			tag = AUS
 			tag = KUK
@@ -167,6 +169,7 @@ country_event = {
 	news_desc_short = "EVTDESC31504_NEWS_SHORT"
 
 	trigger = {
+		primary_culture = south_german
 		OR = {
 			tag = AUS
 			tag = KUK
@@ -234,6 +237,7 @@ country_event = {
 	news_desc_short = "EVTDESC31505_NEWS_SHORT"
 
 	trigger = {
+		primary_culture = south_german
 		OR = {
 			tag = AUS
 			tag = KUK
@@ -291,6 +295,7 @@ country_event = {
 	id = 31506
 
 	trigger = {
+		primary_culture = south_german
 		OR = {
 			tag = AUS
 			tag = KUK
@@ -379,7 +384,7 @@ country_event = {
 
 country_event = {
 
-	id = 31508 #see PRU34610 and RUS32501 for parallel events
+	id = 31508 
 	
 	trigger = {
 		NOT = { exists = PLC } 

@@ -1,5 +1,6 @@
 political_decisions = {
 	establish_la_guardia_civil = {
+		picture = establish_la_guardia_civil
 		potential = {
 			tag = SPA
 			OR = {

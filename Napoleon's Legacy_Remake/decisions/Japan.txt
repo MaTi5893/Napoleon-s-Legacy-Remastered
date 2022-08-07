@@ -282,6 +282,7 @@ political_decisions = {
 			}
 	}
 	establish_shinto_worship_bureau = {
+		picture = establish_shinto_worship_bureau
 		potential = {
 			tag = JAP
 			NOT = {

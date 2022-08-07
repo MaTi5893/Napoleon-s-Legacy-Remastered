@@ -1,5 +1,6 @@
 political_decisions = {
 	hellenic_parliament = {
+		picture = hellenic_parliament
 		potential = {
 			tag = GRE
 			government = absolute_monarchy
@@ -38,6 +39,7 @@ political_decisions = {
 	}
 	
 	megali_idea = {
+		picture = megali_idea
 		potential = {
 			tag = GRE
 			NOT = {
@@ -74,9 +76,6 @@ political_decisions = {
 			TUR_863 = {
 				add_core = GRE
 			}
-			#TUR_869 = {
-				#add_core = GRE
-			#}
 			TUR_884 = {
 				add_core = GRE
 			}

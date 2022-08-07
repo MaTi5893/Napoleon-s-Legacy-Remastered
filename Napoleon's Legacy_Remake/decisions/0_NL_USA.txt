@@ -51,7 +51,7 @@ political_decisions = {
 			71 = {
 				owner = { 
 					OR = { 
-						is_vassal = THIS 
+						vassal_of = THIS 
 						tag = THIS 
 					}
 				}
@@ -59,7 +59,7 @@ political_decisions = {
 			58 = {
 				owner = { 
 					OR = { 
-						is_vassal = THIS 
+						vassal_of = THIS 
 						tag = THIS 
 					}
 				}
@@ -67,7 +67,7 @@ political_decisions = {
 			57 = {
 				owner = { 
 					OR = { 
-						is_vassal = THIS 
+						vassal_of = THIS 
 						tag = THIS 
 					}
 				}

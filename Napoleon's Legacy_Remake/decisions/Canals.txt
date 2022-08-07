@@ -1,5 +1,6 @@
 political_decisions = {
 	build_kiel_canal = {
+		picture = build_kiel_canal
 		potential = {
 			owns = 369
 			NOT = { is_canal_enabled = 1 }
@@ -44,6 +45,7 @@ political_decisions = {
 	}	
 
 	build_panama_canal = {
+		picture = build_panama_canal
 		potential = {
 			NOT = { is_canal_enabled = 3 }
 			is_greater_power = yes

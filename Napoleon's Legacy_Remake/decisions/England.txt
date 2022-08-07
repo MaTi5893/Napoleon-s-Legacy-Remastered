@@ -1,5 +1,6 @@
 political_decisions = {
 	repeal_the_corn_laws = {
+		picture = repeal_the_corn_laws
 		potential = {
 			tag = ENG
 			NOT = {
@@ -24,6 +25,7 @@ political_decisions = {
 	}
 
 	found_the_bbc = {
+		picture = found_the_bbc
 		potential = {
 			tag = ENG
 			year = 1900
@@ -51,6 +53,7 @@ political_decisions = {
 		}
 	}
 	the_scotland_yard = {
+		picture = the_scotland_yard
 		potential = {
 			tag = ENG
 			NOT = {
@@ -72,6 +75,7 @@ political_decisions = {
 	}
 
 	rhodesia_charter = {
+		picture = rhodesia_charter
 		potential = {
 			tag = ENG
 			owns = 2068

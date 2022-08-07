@@ -28,7 +28,7 @@ country_event = { 		#the day one setup event
 		LCT = { set_country_flag = unconquerable }	#can't do minor conquest on lct and jan
 		JAN = { set_country_flag = unconquerable }
 		ARG = { set_country_flag = ARG set_country_flag = ARG1 }	#ARG2 is set by ARG1's decision 
-		AUS = { set_country_flag = AUS set_country_flag = AUS1 set_country_flag = AUS2 set_country_flag = AUS3 } 
+		AUS = { set_country_flag = AUS set_country_flag = AUS2 set_country_flag = AUS3 } #aus1 not there because i deleted it
 		PRU = { set_country_flag = PRU }	
 		AUS_641 = {
 				any_pop = {
@@ -45,28 +45,6 @@ country_event = { 		#the day one setup event
 					}
 					literacy = 0.15 #15 percent increase
 				}
-		}
-		any_country = { 
-			limit = {
-				tag = FRA
-				ai = yes
-				NOT = { has_country_flag = chose_heir_nap }
-				HAN = {
-					ai = yes 
-				}
-			}
-		country_event = 600013
-		}
-		any_country = { 
-			limit = {
-				tag = FRA 
-				ai = yes
-				NOT = { has_country_flag = chose_heir_nap }
-				HAN = {
-					ai = no
-				}
-			}
-		country_event = 600018
 		}
 		any_country = {
 			limit = { is_greater_power = yes }
@@ -299,14 +277,12 @@ country_event = { 		#the day one setup event
 					limit = {
 						OR = {
 						owned_by = MEX
-						owned_by = CLM
+						owned_by = GCO
 						owned_by = ENG
 						owned_by = ARG
 						owned_by = UPB
 						owned_by = CHL
-						owned_by = ECU	
 						owned_by = UCA
-						owned_by = VNZ
 						owned_by = PRG
 						owned_by = PEU
 						}
@@ -329,15 +305,13 @@ country_event = { 		#the day one setup event
 						}
 						OR = {
 							owned_by = MEX
-							owned_by = CLM
+							owned_by = GCO
 							owned_by = ENG
 							owned_by = ARG
 							owned_by = UPB
-							owned_by = CHL
-							owned_by = ECU	
+							owned_by = CHL	
 							owned_by = DOM
 							owned_by = UCA
-							owned_by = VNZ
 							owned_by = PRG
 							owned_by = PEU
 						}

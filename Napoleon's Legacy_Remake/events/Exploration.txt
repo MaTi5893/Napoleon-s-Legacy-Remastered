@@ -8,13 +8,13 @@ country_event = {
 	id =  23200 # First attempt
 
 	trigger = {
+		is_greater_power = yes # Nation is a great power
 		not = { has_global_flag = NileDiscovered }
 		not = { has_country_flag = NoGoToNile }
 		not = { has_country_flag = YesGoToNileAgain }
 		not = { has_country_flag = YesGoToNile }
 		not = { has_country_flag = YesGoToNileThird }
 		not = { owns = 2019 } # Entebbe, where direct source of Nile is located
-		is_greater_power = yes # Nation is a great power
 		year = 1866 # Will happen sometime after 1866
 	}
 
@@ -210,12 +210,12 @@ country_event = {
 	id = 23204 # First attempt
 
 	trigger = {
+		is_greater_power = yes # Nation is a great power
 		not = { has_global_flag = NorthPoleDiscovered }
 		not = { has_country_flag = NoGoToNorthPole }
 		not = { has_country_flag = YesGoToNorthPole }
 		not = { has_country_flag = YesGoToNorthPole }
 		not = { has_country_flag = YesGoToNorthPoleThird }
-		is_greater_power = yes # Nation is a great power
 		year = 1895 # Will happen sometime after 1895
 	}
 
@@ -408,12 +408,12 @@ country_event = {
 	id = 23208 # First attempt
 
 	trigger = {
+		is_greater_power = yes # Nation is a great power
 		not = { has_global_flag = SouthPoleDiscovered }
 		not = { has_country_flag = NoGoToSouthPole }
 		not = { has_country_flag = YesGoToSouthPoleAgain }
 		not = { has_country_flag = YesGoToSouthPole }
 		not = { has_country_flag = YesGoToSouthPoleThird }
-		is_greater_power = yes # Nation is a great power
 		year = 1906 # Will happen sometime after 1906
 	}
 
