@@ -4,7 +4,6 @@ political_decisions = {
 		potential = { 
 			tag = FRA
 			NOT = { has_country_flag = chose_heir_nap }
-			ai = no
 		}
 		allow = { }
 		effect = { 
@@ -16,11 +15,11 @@ political_decisions = {
 	picture = jerome_bonaparte
 		potential = { 
 			tag = FRA
-			HAN = { ai = yes }
 			NOT = { has_country_flag = chose_heir_nap } 
-			ai = no
 		}
-		allow = { }
+		allow = { 
+			HAN = { ai = yes }	
+		}
 		effect = { 
 			create_vassal = HAN
       		  	create_vassal = FRM
@@ -36,7 +35,6 @@ political_decisions = {
 		potential = { 
 			tag = FRA
 			NOT = { has_country_flag = chose_heir_nap } 
-			ai = no
 		}
 		allow = { }
 		effect = { 
@@ -49,7 +47,6 @@ political_decisions = {
 		potential = { 
 			tag = FRA
 			NOT = { has_country_flag = chose_heir_nap } 
-			ai = no
 		}
 		allow = { }
 		effect = { 
@@ -57,18 +54,11 @@ political_decisions = {
 			any_country = {
                 			limit = {
                   				primary_culture = north_italian
-                    				ai = yes
-					NOT = {tag = LOM}
+					NOT = {tag = LOM tag = TUS}
                 			}
-               			annex_to = THIS
+				all_core = { add_core = NIT } 
+               			annex_to = LOM
             		}
-			any_owned = {
-				limit = {
-					is_core = NIT
-					NOT = {is_core = THIS}
-				}
-				secede_province = LOM
-			}
            			create_vassal = LOM
             		create_alliance = LOM
             		diplomatic_influence = {
@@ -76,7 +66,8 @@ political_decisions = {
                 			value = 300
             		}
 			LOM = {change_tag = NIT}	
-			NIT = { all_core = { remove_core = LOM } } 
+			NIT = { all_core = { remove_core = LOM remove_core = VEN remove_core = PAR remove_core = MOD remove_core = LUC } } 
+			NIT = { prestige = -100 }
 			set_country_flag = maximilien
 		}
 	}
@@ -85,7 +76,6 @@ political_decisions = {
 		potential = { 
 			tag = FRA
 			NOT = { has_country_flag = chose_heir_nap } 
-			ai = no
 		}
 		allow = { }
 		effect = { 

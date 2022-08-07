@@ -1,6 +1,6 @@
 owner = MOD
 controller = MOD
-add_core = NIT
+#add_core = NIT
 add_core = MOD
 add_core = ITA
 

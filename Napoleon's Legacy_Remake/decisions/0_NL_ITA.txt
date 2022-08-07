@@ -16,6 +16,7 @@ political_decisions = {
 						province_id = 472
 						province_id = 738
 						province_id = 737
+						province_id = 738
 						region = SAR_720
 						owned_by = THIS
 						owner = {
@@ -30,7 +31,7 @@ political_decisions = {
 		}
 		effect = {
 			change_tag = ITA
-			any_owned = { remove_core = NIT } 
+			NIT = { all_core = { add_core = ITA remove_core = NIT } }
 			add_accepted_culture = south_italian
 			any_country = {
 				limit = {
@@ -79,10 +80,13 @@ political_decisions = {
 		}
 		allow = {
 			war = no
-			NIT = {
+			ITA = {
 				all_core = {
 					OR = {
 						owned_by = THIS
+						is_core = TUS
+						region = AUS_736
+						province_id = 738
 						NOT = { culture = north_italian } 
 						owner = {
 							OR = {
@@ -97,16 +101,16 @@ political_decisions = {
 		effect = {
 			prestige = 20
 			any_country = {
-                limit = {
-                    primary_culture = north_italian
-                    ai = yes
-                    OR = {
-                        in_sphere = THIS
-                        vassal_of = THIS
-                    }
-                }
-                annex_to = THIS
-            }
+                			limit = {
+                    				primary_culture = north_italian
+                    				ai = yes
+                    				OR = {
+                        				in_sphere = THIS
+                        				vassal_of = THIS
+                    				}
+                			}
+                			annex_to = THIS
+            		}
 			change_tag = NIT
 			LOM = { all_core = { remove_core = LOM add_core = NIT } }
 			VEN = { all_core = { remove_core = VEN add_core = NIT } }

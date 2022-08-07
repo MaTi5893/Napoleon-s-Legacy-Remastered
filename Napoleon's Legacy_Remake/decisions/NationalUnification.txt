@@ -301,6 +301,7 @@ political_decisions = {
 			BAD = { all_core = { remove_core = BAD add_core = GER } }
 			HAN = { all_core = { remove_core = BAD add_core = GER } }
 			WUL = { all_core = { remove_core = BAD add_core = GER } }	
+			remove_accepted_culture = German
 			any_country = { 
 				limit = { 
 					tag = GER 

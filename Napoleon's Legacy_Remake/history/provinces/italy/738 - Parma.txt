@@ -1,6 +1,6 @@
-owner = PAR
-controller = PAR
-add_core = NIT
+owner = FRA
+controller = FRA
+#add_core = NIT
 add_core = PAR
 add_core = ITA
 
