@@ -12,7 +12,7 @@ political_decisions = {
 			state_n_government = 1 
 		}
 		effect = { 
-			country_event = 600034
+			country_event = 600005
 		}
 	}
 	repartition_poland_RUS = {

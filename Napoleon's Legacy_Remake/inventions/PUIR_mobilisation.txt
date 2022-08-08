@@ -77,14 +77,12 @@ total_war_mobilisation = {
 		government_interventionism = 1
 		NOT = { invention = non_interventionism }
 		NOT = { 
-			OR = {
-				tag = CHI
-				tag = GXI
-				tag = YNN
-				tag = XBI
-				tag = MCK
-				tag = HUI 
-			}
+			tag = CHI
+			tag = GXI
+			tag = YNN
+			tag = XBI
+			tag = MCK
+			tag = HUI 
 		} 
 	}
 	chance = {

@@ -1,6 +1,12 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
 rgo_change_mining_title;Change Mining RGO;;;;Cambiar el TOR de la minería;;;x
 rgo_change_mining_desc;Allows the switching of a single RGO province of the following types: Coal, Iron, Sulphur, or Precious Metal into Coal, Iron, or Sulphur. Causes a cooldown of 25 years.;;;;Permite cambiar una sola provincia TOR de los siguientes tipos: Carbón, Hierro, Azufre o Metal Precioso en Carbón, Hierro o Azufre. Puede hacerse cada 25 anos.;;;x
+EVTNAME199936;Mining RGO Change;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVTDESC199936;Choose to change a province to the following RGO types, cool down is 25 years for changing, 1 year for not choosing one.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199936OPTA;Change a province to produce Coal.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199936OPTB;Change a province to produce Iron.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199936OPTC;Change a province to produce Sulphur.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+EVT199936OPTD;I'd rather not change anything.;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 rgo_change_agriculture_title;Change Agriculture RGO;;;;Cambiar el TOR de Agricultura;;;x
 rgo_change_agriculture_desc;Allows the switching of a single RGO province of the following types: Grain, Fruit, Fish, Cattle, Wool, Cotton, Timber, or Precious Goods into Grain, Fruit, Fish, Cattle, Wool, Cotton, or Timber. Causes a cool down of 12.5 years.;;;;Permite el cambio de una sola provincia TOR de los siguientes tipos: Grano, fruta, pescado, ganado, lana, algodón, madera o bienes preciosos en grano, fruta, pescado, ganado, lana, algodón o madera. Puede hacerse cada 12,5 anos.;;;x
 199937;Agriculture RGO Change;;;;Cambio de TOR en Agricultura;;;x

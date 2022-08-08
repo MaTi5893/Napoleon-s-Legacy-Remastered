@@ -1,12 +1,31 @@
 political_decisions = { 
+	french_republic_choice = { 	#AI will always pick Republic (safest choice)
+	picture = french_republic
+		potential = { 
+			tag = FRA
+			NOT = { has_country_flag = chose_heir_nap } 
+		}
+		allow = { }
+		effect = { 
+			set_country_flag = chose_heir_nap
+			set_country_flag = republic
+			government = democracy
+			political_reform = wealth_voting
+			add_country_modifier = {
+				name = french_republic
+				duration = -1
+			}
+		}
+	}
 	louis_bonaparte = { 
 	picture = louis_bonaparte	#This is actually redundant but i hate it when the validator tells me that there's no decision that uses a pic when the decision and image names are the same 
 		potential = { 
 			tag = FRA
 			NOT = { has_country_flag = chose_heir_nap }
 		}
-		allow = { }
+		allow = { NET = { ai = yes } }
 		effect = { 
+			create_vassal = NET
 			set_country_flag = chose_heir_nap
 			set_country_flag = louis
 		}
@@ -66,27 +85,9 @@ political_decisions = {
                 			value = 300
             		}
 			LOM = {change_tag = NIT}	
-			NIT = { all_core = { remove_core = LOM remove_core = VEN remove_core = PAR remove_core = MOD remove_core = LUC } } 
+			NIT = { all_core = { remove_core = LOM remove_core = VEN remove_core = MOD remove_core = LUC } } 
 			NIT = { prestige = -100 }
 			set_country_flag = maximilien
-		}
-	}
-	french_republic_choice = { 
-	picture = french_republic
-		potential = { 
-			tag = FRA
-			NOT = { has_country_flag = chose_heir_nap } 
-		}
-		allow = { }
-		effect = { 
-			set_country_flag = chose_heir_nap
-			set_country_flag = republic
-			government = democracy
-			political_reform = wealth_voting
-			add_country_modifier = {
-				name = french_republic
-				duration = -1
-			}
 		}
 	}
 }
