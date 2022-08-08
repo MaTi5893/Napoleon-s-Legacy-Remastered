@@ -55,13 +55,13 @@ political_decisions = {
 		picture = slovaks
 		potential = {
 			tag = KUK
+			NOT = { accepted_culture = slovak } 
 		}
 		allow = {
 			state_n_government = 1
 			is_greater_power = yes
 		}
 		effect = {
-			clr_country_flag = AUS1
 			add_accepted_culture = slovak
 			prestige = 5
 		}
