@@ -625,7 +625,7 @@ country_event = {
 				government = absolute_monarchy
 			}
 		}
-	country_event = 60000
+	country_event = 60000 #communism
 	}
 	any_country = { 
 		limit = { 
@@ -657,7 +657,7 @@ country_event = {
 				government = absolute_monarchy
 			}
 		}
-	country_event = 60030
+	country_event = 60030 #fascism
 	}
 	any_country = { 
 		limit = { 
@@ -668,11 +668,9 @@ country_event = {
 			}
 			civilized = yes
 			NOT = {
-				AND = { 
-					political_parties = underground_parties
-					vote_franschise = none_voting
-					upper_house_composition = party_appointed
-				}
+				political_parties = underground_parties
+				vote_franschise = none_voting
+				upper_house_composition = party_appointed
 			}
 		}
 	country_event = 60050	#republic
