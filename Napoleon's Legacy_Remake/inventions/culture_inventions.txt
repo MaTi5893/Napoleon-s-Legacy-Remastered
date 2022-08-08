@@ -1262,14 +1262,6 @@ national_fraternity = {
 	effect = {
 		war_exhaustion = -0.05
 		plurality = 0.05
-		rebel_org_gain = {
-			faction = pan_nationalist_rebels
-			value = 0.25
-		}
-		rebel_org_gain = {
-			faction = red_shirts
-			value = 0.25
-		}
 	}
 }
 biased_multiculturalism = {
