@@ -105,7 +105,7 @@ country_event = {
 
 	title = "$FROMCOUNTRY$ Grants Aid"
 
-	desc = "$FROMCOUNTRY$ has decided to give us aid on the order of hundereds of thousands of pounds."
+	desc = "$FROMCOUNTRY$ has decided to give us aid on the order of hundreds of thousands of pounds."
 
 	is_triggered_only = yes
 	allow_multiple_instances = yes

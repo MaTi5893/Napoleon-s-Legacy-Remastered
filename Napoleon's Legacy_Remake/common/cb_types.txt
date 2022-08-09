@@ -924,29 +924,25 @@ liberate_country = {
 			tag = FROM
 			this_culture_union = FROM	
 		}
-		from = {
-			OR = {
-				exists = yes
-				NOT = {
-						OR = {
-							tag = GER
-							tag = NGF
-							tag = PRU
-							tag = SCA
-							tag = SWE
-							tag = ITA
-							#tag = SIC
-							tag = YUG
-							tag = AUS
-							tag = HUN
-							tag = HND
-							#tag = PLC
-							tag = UKR
-							tag = CSA
-						}
-					}
-				}
+		OR = {
+			exists = yes
+			NOT = {
+					tag = GER
+					tag = NGF
+					tag = PRU
+					tag = SCA
+					tag = SWE
+					tag = ITA
+					#tag = SIC
+					tag = YUG
+					tag = AUS
+					tag = HUN
+					tag = HND
+					#tag = PLC
+					tag = UKR
+					tag = CSA
 			}
+		}
 		
 		any_owned_province = {
 			is_core = FROM
