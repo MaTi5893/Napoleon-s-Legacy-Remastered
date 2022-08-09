@@ -603,18 +603,6 @@ colonialmigration_chance =
 		}
 	}
 	
-#If pop group meets at least 99% of its life needs, then -0.25% chance to migrate to a colony.	(-0.25% total)
-#	modifier = {
-#		factor = -0.25
-#		life_needs = 0.99
-#	}
-#	
-#If pop group meets at least 99% of its everyday needs, then -0.25% chance to migrate to a colony.	(-0.25% total)
-#	modifier = {
-#		factor = -0.25
-#		everyday_needs = 0.99
-#	}
-	
 #If pop group meets at least 10%/20%/30%/40%/50%/60%/70%/80%/90%/99% of its luxury needs, then -0.05% chance to migrate to a colony per threshold.	(-0.5% total)
 	group = {
 		modifier = {
@@ -658,14 +646,6 @@ colonialmigration_chance =
 			luxury_needs = 0.99
 		}
 	}
-	
-#If pop group is in a state that has a factory, then -0.3% chance to migrate to another state.
-#	modifier = {
-#		factor = -0.3
-#		state_scope = {
-#			has_factories = yes
-#		}
-#	}
 	
 ###Special Factors###
 

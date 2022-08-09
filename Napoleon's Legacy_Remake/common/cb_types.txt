@@ -2178,6 +2178,7 @@ negotiated_transfer = {
 		THIS = { ai = no }
 		ai = no
 		number_of_states = 2 # annex if you want their last state
+		NOT = { truce_with = THIS } 
 		THIS = { civilized = yes }
 	}
 	
@@ -2202,10 +2203,10 @@ negotiated_transfer = {
 			is_colonial = no
 		}
 		any_owned_province = {
-                     OR = {
-			is_colonial = yes
-			is_colonial = no
-                     }
+                     		OR = {
+				is_colonial = yes
+				is_colonial = no
+                     		}
 		}
 		not = { any_owned_province = { is_capital = yes } }
 	}
