@@ -13,7 +13,7 @@ country_event = {
 		days = 1
 	}
 	title = "A New General Arrives"
-	desc = "Our prayers to RNGesus have been answered"
+	desc = "Our prayers to RNGesus have been answered. If you feel like using him in singleplayer is cheating, then uncheck Ryan's box in the general menu"
 	immediate = {
 		define_general = {
 			name = "Ryan Gosling"

@@ -24,12 +24,12 @@ objectTypes = {
 		name = "construction_small"
 		actorfile = "gfx\anims\Construction.xac"
 		idle   = "gfx\anims\Construction_animation.xsm"
-		scale = 0
+		scale = 0.20
 	}	
 	EMFXActorType = {
 		name = "building_factory_small"
 		actorfile = "gfx\anims\factory.xac"
-		scale = 0
+		scale = 0.20
 		animation = {
 			name = "idle"
 			file ="gfx\anims\Factory_Anim.xsm"
