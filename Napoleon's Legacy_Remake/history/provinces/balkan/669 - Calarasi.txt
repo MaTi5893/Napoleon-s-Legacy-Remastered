@@ -2,7 +2,7 @@ owner = WAL
 controller = WAL
 add_core = WAL
 add_core = ROM
-trade_goods = coal
+trade_goods = precious_metal
 life_rating = 35
 
 1861.1.1 = {
