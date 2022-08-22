@@ -65,9 +65,7 @@ political_decisions = {
 		picture = sa_decision
 		potential = {
 			tag = ENG
-			NOT = {accepted_culture = anglo_canadian}
-            NOT = {accepted_culture = boer}
-            NOT = {accepted_culture = afro_caribbean}
+            		NOT = {accepted_culture = boer}
 		}
 		allow = {
 			war = no
@@ -96,8 +94,6 @@ political_decisions = {
 		potential = {
 			tag = ENG
 			NOT = {accepted_culture = anglo_canadian}
-            NOT = {accepted_culture = boer}
-            NOT = {accepted_culture = afro_caribbean}
             CAN = {ai = yes}
 		}
 		allow = {
@@ -139,9 +135,7 @@ political_decisions = {
 		picture = caraibes_decision
 		potential = {
 			tag = ENG
-            NOT = {accepted_culture = anglo_canadian}
-            NOT = {accepted_culture = boer}
-            NOT = {accepted_culture = afro_caribbean}
+            		NOT = {accepted_culture = afro_caribbean}
 		}
 		allow = {
 			war = no
@@ -199,6 +193,43 @@ political_decisions = {
 		effect = {
 			tech_school = british_tech_school
 			prestige = 20
+		}
+	}
+    form_imperial_fed = { 
+		picture = imp_fed
+		potential = { 
+			tag = ENG
+			NOT = { exists = IMP }
+		}
+		allow = { 
+			accepted_culture = anglo_canadian
+			accepted_culture = boer
+			accepted_culture = caribeno
+            		war = no
+            		all_core = {
+				OR = { 
+					empty = yes
+                				owned_by = THIS
+				}
+     			}
+		}
+		effect = {
+			change_tag = IMP
+			SAF = { 	
+				all_core = {
+					add_core = THIS 
+				}
+			}
+			EIC = { 	
+				all_core = {
+					add_core = THIS 
+				}
+			}
+			GBR = { 
+				all_core = { 
+					add_core = THIS 
+				}
+			}
 		}
 	}
 }

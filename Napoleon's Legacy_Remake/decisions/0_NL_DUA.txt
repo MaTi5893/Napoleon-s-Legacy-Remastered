@@ -121,9 +121,9 @@ political_decisions = {
 			NOT = {accepted_culture = anglo_canadian}
 			NOT = {accepted_culture = boer}
 			NOT = {accepted_culture = caribeno}
-            has_country_flag = paris_capture
 		}
 		allow = { 
+	            has_country_flag = paris_capture
             war = no
             all_core = {
                 owned_by = THIS

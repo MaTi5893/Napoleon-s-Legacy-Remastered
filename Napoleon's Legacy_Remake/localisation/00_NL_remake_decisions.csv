@@ -420,7 +420,7 @@ occitan_expansion_dua_desc;The Occitan kingdom was always a part of France. Now 
 irish_expansion_title;Expansion into §GIreland§!;;;;spanish loc;;;x
 irish_expansion_desc;The Irish people had been liberated by Napoleon when he invaded Ireland. Now that France no longer exists, we should reintegrate the land and its people;;;;spanish loc;;;x
 form_anglo_french_title;Formation of the Dual Monarchy;;;;spanish loc;;;x
-form_anglo_french_desc;The Dual Monarchy is an old British dream to see the nations of France and England united under the English crown. It's first appearance was during the Hundred Years War, during which English kings Edward II and Edward III had a strong claim on the French throne. But after England lost the war and its land on the European continent, the dream faded away. Now that we have restored our claim on the French kingdom and conquered it, we can officialy proclam the Dual Monarchy!;;;;spanish loc;;;x
+form_anglo_french_desc;The Dual Monarchy is an old British dream to see the nations of France and England united under the English crown. It's first appearance was during the Hundred Years War, during which English kings Edward II and Edward III had a strong claim on the French throne. Now that we have restored our claim on the French kingdom and conquered it, we can officialy proclam the Dual Monarchy! §RYou cannot accept Irish, Anglo-Canadian, Boer or Caribeno if you want to form the Dual Monarchy.;;;;spanish loc;;;x
 ENG_ireland_title;§GAccept the Irish§!;;;;spanish loc;;;x
 ENG_ireland_desc;We have ended the reconquest of the British Isles and should accept the Irish people living there!;;;;spanish loc;;;x
 reclaim_sa_eng_title;Reclaim §gSouth Africa§!;;;;spanish loc;;;x
@@ -509,3 +509,5 @@ france_catalan_title;Accept Catalonia;;;;Aceptar Catalu?a;;;;;;;;x
 france_catalan_desc;Catalonia has always been closely related to France, but for ages has been ruled by oppressive Spanish rulers. Catalan people view us as saviors.;;;;Catalu?a siempre ha estado estrechamente relacionada con Francia, pero durante siglos ha sido gobernada por gobernantes espa?oles opresores. Los catalanes nos ven como salvadores.;;;;;;;;x
 france_cisalpine_title;Accept Arpitania;;;;Aceptar Arpitania;;;;;;;;x
 france_cisalpine_desc;Despite Arpitania not being as francized as other territories we've conquered, locals are generally receptive to cooperating with the Second Republic.;;;;A pesar de que Arpitania no está tan francizada como otros territorios que hemos conquistado, los lugare?os son generalmente receptivos a cooperar con la Segunda República.;;;;;;;;x
+form_imperial_fed_title;Form the Imperial Federation!;;;;;;;;x
+form_imperial_fed_desc;To prevent our Empire from splintering again, this time we will accept the foreigners as true citizens of the Imperial Federation.;;;;;;;;x

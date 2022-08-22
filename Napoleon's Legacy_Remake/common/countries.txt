@@ -70,6 +70,7 @@ DNB		= "countries/Danubian Federation.txt"
 KNO		= "countries/Kano.txt"
 KWR		= "countries/Kwararafa.txt"
 IFE		= "countries/Ife.txt"
+IMP		= "countries/Imperial Federation.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"
