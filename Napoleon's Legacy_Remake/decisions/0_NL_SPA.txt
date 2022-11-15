@@ -520,6 +520,7 @@ political_decisions = {
 			NOT = { tech_school = spanish_tech_school }
 			NOT = { tech_school = british_tech_school }
 			NOT = { tech_school = french_tech_school }
+			NOT = { tech_school = prussian_tech_school }
 		}
 		allow = {
 			army_decision_making = 1

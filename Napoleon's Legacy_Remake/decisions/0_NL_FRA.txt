@@ -81,10 +81,6 @@ political_decisions = {
 	french_rhur_boom = {
 		picture = rhur_boom_decision
 		potential = { 
-			OR = {
-				tag = HRE
-				tag = FRA
-			}
 			tag = FRA
 			accepted_culture = rhenish
 			NOT = {has_country_flag = french_ruhr}
@@ -105,14 +101,6 @@ political_decisions = {
 		effect = {
 			set_country_flag = french_ruhr
 			tech_school = prussian_tech_school
-			RHI = {
-				all_core = {
-					add_province_modifier = {
-						name = ruhr_boom
-						duration = 7300
-					}
-				}
-			}
 		}
 	}
 }
