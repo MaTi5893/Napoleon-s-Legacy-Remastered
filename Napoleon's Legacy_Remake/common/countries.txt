@@ -50,8 +50,8 @@ WSF     = "countries/Zapadoslavia.txt"
 EIC     = "countries/East India Company.txt"
 DUA		= "countries/Dual Monarchy.txt"
 IBE     = "countries/Indo-British Empire.txt"
-ECO     = "countries/Equator Confederation.txt"
-RER     = "countries/Republica Riograndense.txt"
+ECO     = "countries/Equator Confederation.txt" ##UNUSED
+RER     = "countries/Republica Riograndense.txt" ##UNUSED
 NAU		= "countries/North American Union.txt"
 JAL		= "countries/Jallon.txt"
 ARO		= "countries/Aro.txt"
@@ -269,7 +269,7 @@ UCA		="countries/United States of Central America.txt"
 
 # South America
 ARG		="countries/Argentina.txt"
-BOL		="countries/Bolivia.txt"
+BOL		="countries/Bolivia.txt" ##KINDA USED, DELETABLE
 BRZ		="countries/Brazil.txt"
 CHL		="countries/Chile.txt"
 CLM		="countries/Colombia.txt"

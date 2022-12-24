@@ -1,6 +1,6 @@
 owner = PRG
 controller = PRG
-add_core = BOL
+add_core = BOL add_core = ARG
 add_core = PRG
 
 trade_goods = timber

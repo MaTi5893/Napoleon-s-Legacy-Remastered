@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
+owner = UPB
+controller = UPB
 add_core = BER
 #add_core = HND
 trade_goods = precious_metal

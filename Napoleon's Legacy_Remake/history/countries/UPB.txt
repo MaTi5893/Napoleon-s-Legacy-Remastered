@@ -73,3 +73,5 @@ basic_chemistry = 1
 # Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 1
+
+oob = "UPB_oob.txt"

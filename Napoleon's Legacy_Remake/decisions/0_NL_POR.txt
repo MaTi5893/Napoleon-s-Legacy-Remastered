@@ -2,10 +2,7 @@ political_decisions = {
 	portuguese_civil_code = {
 		picture = enact_the_homestead_act
 		potential = {
-			OR = {
-				tag = POR
-				tag = UPB
-			}
+			tag = UPB
 			state_n_government = 1
 			NOT = { has_country_flag = portuguese_civil_code }
 		}
@@ -32,10 +29,7 @@ political_decisions = {
 	}
     the_regenerador = {
 		potential = {
-			OR = {
-				tag = POR
-				tag = UPB
-			}
+			tag = UPB
 			NOT = { has_global_flag = portuguese_regeneration }
 			year = 1851
 			NOT = { year = 1875 }
@@ -86,7 +80,7 @@ political_decisions = {
 
 	instituto_industrial_de_lisboa = {
 		potential = {
-			OR = { tag = POR tag = UPB } 
+			tag = UPB
 			has_global_flag = portuguese_regeneration
 			OR = {
 				tag = POR
@@ -134,71 +128,6 @@ political_decisions = {
 		}
 		ai_will_do = {
 			factor = 1
-		}
-	}
-	
-    form_UPB = {
-		picture = upb_decision
-		potential = {
-			OR = {
-				tag = BRZ
-				tag = POR
-			}
-			NOT = { exists = UPB }
-		}
-		
-		allow = {
-			war = no
-			POR = { 
-				all_core = {
-					owned_by = THIS
-				}
-			}
-			BRZ = {
-				all_core = {
-                    owned_by = THIS
-                }
-			}
-			owns = 2447 #Rio De Janeiro
-			owns = 2436 #Salvador De Bahia
-			owns = 2432 #Recife
-			
-		}
-		effect = {
-			POR = { 
-				all_core = {
-					add_core = UPB
-				}
-			}
-			BRZ = {
-				all_core = {
-                    add_core = UPB
-                }
-			}
-			prestige = 30
-			add_accepted_culture = brazilian
-			add_accepted_culture = afro_brazilian
-            add_accepted_culture = portuguese
-			all_core = {
-                add_province_modifier = {
-                    name = cultural_unification
-                    duration = 3650
-                }
-            }
-			change_tag = UPB
-			any_pop = {
-				limit = { is_primary_culture = yes }
-				ideology = {
-					value = reactionary
-					factor = 0.15
-				}
-				ideology = {
-					value = anarcho_liberal
-					factor = 0.15
-				}
-				consciousness = 1
-				militancy = 1
-			}
 		}
 	}
 }

@@ -33,40 +33,6 @@ political_decisions = {
 			prestige = 20
 		}
 	}
-	annex_bolivia = {
-		picture = bolivia_decision
-		potential = {
-			tag = ARG
-			BOL = {
-				vassal_of = THIS
-			}
-			NOT = {has_country_flag = annex_bolivia}
-		}
-		allow = {
-			war = no
-			BOL = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							vassal_of = THIS
-						}
-					}
-				}
-			}
-			state_n_government = 1
-		}
-		effect = {
-			BOL = {
-				all_core = {
-					add_core = THIS
-				}
-				annex_to = THIS
-			}
-			set_country_flag = annex_bolivia
-			prestige = 5
-		}
-	}
 }
 	
 		

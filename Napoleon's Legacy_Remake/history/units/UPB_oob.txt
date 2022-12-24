@@ -1,2 +1,449 @@
 
 
+OMA = {
+	value = 100		#relation
+}
+
+ZUL = {
+	value = 100		#relation
+}
+
+leader = {
+	name = "Pierre Labatut"
+	date = 1824.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+
+leader = {
+	name = "Lima e Silva"
+	date = 1824.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+
+leader = {
+	name = "Sebastiao Pinto"
+	date = 1825.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.0
+}
+
+leader = {
+	name = "de Lajes"
+	date = 1830.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.0
+}
+
+leader = {
+	name = "Bellegarde"
+	date = 1833.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.0
+}
+
+leader = {
+	name = "Jose de Oliveira"
+	##picture = brz_gen_oliveira
+	type = land
+	date = 1808.1.1
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+
+leader = {
+	name = "Felisberto Caldeira"
+	##picture = brz_gen_caldeira
+	type = land
+	date = 1811.1.1
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+
+leader = {
+	name = "Luis da Cunha"
+	##picture = brz_adm_cunha
+	type = sea
+	date = 1820.1.1
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+
+leader = {
+	name = "Pedro Labatut"
+	##picture = brz_gen_labatut
+	type = land
+	date = 1822.1.1
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+
+leader = {
+	name = "Sebastiao Barreto"
+	##picture = brz_gen_barreto
+	type = land
+	date = 1823.1.1
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+
+leader = {
+	name = "Joao Vieira"
+	##picture = brz_gen_vieira
+	type = land
+	date= 1824.1.1
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+
+leader = {
+	name = "Francisco de Lima"
+	##picture = brz_gen_lima
+	type = land
+	date = 1824.1.1
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "John Grenfell"
+	##picture = brz_adm_grenfell
+	type = sea
+	date = 1828.1.1
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+
+
+
+
+
+CHI = {
+	value = 125		#relation
+}
+
+
+
+
+army = {
+	name = "I Corpo do exercito"
+	location = 2447
+	regiment = {
+		name= "1. Brigada de Infantaria"
+		type = infantry
+		home = 2447
+	}
+
+	regiment = {
+		name= "2. Brigada de Infantaria"
+		type = infantry
+		home = 2450
+	}
+
+	regiment = {
+		name= "3. Brigada de Infantaria"
+		type = infantry
+		home = 2450
+	}
+
+	regiment = {
+		name= "1. Brigada de Cavalaria"
+		type = hussar
+		home = 2429
+	}
+	
+	regiment = {
+		name= "4. Brigada de Infantaria"
+		type = infantry
+		home = 2463
+	}
+
+	regiment = {
+		name= "1. Divisao Colonial"
+		type = artillery
+		home = 2457
+	}
+
+	regiment = {
+		name= "2. Divisao Colonial"
+		type = artillery
+		home = 2447
+	}
+	
+	regiment = {
+		name= "3. Divisao Colonial"
+		type = artillery
+		home = 2441
+	}
+
+	regiment = {
+		name= "4. Divisao Colonial"
+		type = artillery
+		home = 2447
+	}
+
+	regiment = {
+		name= "5. Divisao Colonial"
+		type = artillery
+		home = 2447
+	}
+}
+
+leader = {
+	name = "Jacinto de Sena"
+	##picture = brz_adm_sena
+	type = sea
+	date = 1828.1.1
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "Bento Manuel Ribeiro"
+	##picture = brz_gen_ribeiro
+	type = land
+	date = 1830.1.1
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+
+leader = {
+	name = "Manuel de Fonseca"
+	##picture = brz_gen_fonseca
+	type = land
+	date = 1831.1.1
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+
+leader = {
+	name = "Antero Jose Ferreira"
+	##picture = brz_gen_ferreira
+	type = land
+	date = 1832.1.1
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Jose Travassos Valdez"
+	#picture = por_gen_bonfim
+	date = 1832.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Joao Carlos de Saldanha"
+	#picture = por_gen_saldanha
+	date = 1835.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Antonio Jose Severim de Noronha"
+	#picture = por_gen_terceira
+	date = 1823.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "Francisco Xavier da Silva Pereira"
+	#picture = por_gen_antas
+	date = 1834.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+	
+}
+leader = {
+	name = "Luis do Rego Barreto"
+	date = 1817.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+
+army = {
+	name = "Exercito Portugues"
+	location = 521
+	regiment = {
+		name= "1. Brigada de Infantaria"
+		type = hussar
+		home = 521
+	}
+
+	regiment = {
+		name= "2. Brigada de Infantaria"
+		type = infantry
+		home = 524
+	}
+
+	regiment = {
+		name= "3. Brigada de Infantaria"
+		type = infantry
+		home = 518
+	}
+
+	regiment = {
+		name= "4. Brigada de Infantaria"
+		type = infantry
+		home = 520
+	}
+
+	regiment = {
+		name= "5. Brigada de Infantaria"
+		type = infantry
+		home = 522
+	}
+	
+	regiment = {
+		name= "6. Brigada de Infantaria"
+		type = artillery
+		home = 521
+	}
+
+	regiment = {
+		name= "1. Brigada de Caballaria"
+		type = artillery
+		home = 519
+	}
+
+	regiment = {
+		name = "1. Divisao Colonial"
+		type = artillery
+		home = 525
+	}
+	
+	regiment = {
+		name = "2. Divisao Colonial"
+		type = artillery
+		home = 2134
+	}
+	
+	regiment = {
+		name = "3. Divisao Colonial"
+		type = artillery
+		home = 1303
+	}
+}
+
+navy = {
+	name = "Portugese Royal Navy"
+	location = 524
+	ship = {
+		name= "Rainha de Portugal "
+		type = manowar
+	}
+
+	ship = {
+		name= "Dom Joao VI "
+		type = manowar
+	}
+
+	ship = {
+		name= "Nossa Senhora da Conceicao"
+		type = manowar
+	}
+
+	ship = {
+		name= "Sao Sebastiao"
+		type = manowar
+	}
+
+	ship = {
+		name= "Amazonia"
+		type = manowar
+	}
+
+	ship = {
+		name= "Princesa Carlota"
+		type = manowar
+	}
+
+	ship = {
+		name= "Teresa"
+		type = manowar
+	}
+
+	ship = {
+		name= "Principe do Brasil"
+		type = manowar
+	}
+
+	ship = {
+		name= "1o Navios de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2o Navios de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3o Navios de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4o Navios de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5o Navios de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "6o Navios de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "7o Navios de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "8o Navios de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "9o Navios de Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "10o Navios de Transporte"
+		type = clipper_transport
+	}
+}
