@@ -1,10 +1,11 @@
+This mod is not in active development anymore.
+
 Links:
-	https://discord.gg/G5jGFgCbEg - This mod's Discord
-	https://discord.gg/Qsdcw94WXu - The Victoria 2 Modding Server
+	https://discord.gg/G5jGFgCbEg - This mod's Discord 
+	https://discord.gg/Qsdcw94WXu - The Victoria 2 Modding Server 
 	https://github.com/elisandreo/Napoleon-s-Legacy-Remastered - The singleplayer version
 	https://github.com/basedking/Napoleon-s-Legacy-Remastered-MP - The multiplayer version
-	https://github.com/elisandreo/Napoleon-s-Legacy-Remastered/tree/main/Napoleon's%20Legacy_Remake/dev_diary/Scandinavia.md - The latest dev diary
-	https://github.com/elisandreo/Napoleon-s-Legacy-Remastered/tree/main/Napoleon's%20Legacy_Remake/Napoleon's-Europe.md - The mod's lore
+
 
 Info: 
 	This is a 'what if Napoleon won?' alternate history scenario, based on IGoR PUIR (an mp mod you can find here https://github.com/Nurse-Reno/IGoR_puir)
@@ -28,4 +29,3 @@ Rascalnag (and Jman): Rascalnag for creating the beautiful graphical mod Belle C
 Sveera: Original creator of Napoleon's Legacy 
 Bearabia: Creator of Columbia Divided, for the Anglo-Dutch Union (https://discord.gg/YAE8C29W2n)
 Rileyo: Creator of DoDE, for letting me take the WSF tag (in SP it's used for Panslavia) https://github.com/rileyo92/Divergence-Expanded-MP/
-The Victoria 2 Modding Server and all the people in it: for all the help. By the way, to any modders: you're free to take parts of this mod and do your own thing with it. Even the PUIR parts, I'm sure all the 4 currently absent PUIR developers won't care about you taking their code. It'd be cool if you didn't take the entire mod and reupload it under your own name, but I don't know why you'd want to do that in the first place.
