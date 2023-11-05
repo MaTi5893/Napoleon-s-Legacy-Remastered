@@ -1,3 +1,4 @@
+key12;Klucz;;;;x
 ALD_1700;Algiers;;;;;;x
 ITA_1848;Eritrea;;;;;;x
 ETH_1864;Galla;;;;;;x
@@ -126,10 +127,7 @@ BAL_1438;Lesser Sundas;;;;;;x
 POR_1446;Timor;;;;;;x
 NET_1449;Moluccas;;;;;;x
 GOA_1303;Goa;;;;;;x
-PON_1312
-#############################################;;;;;;;;;;;;;;x
-#State Localisations - Europe;;;;;;;;;;;;;;x
-#############################################;;;;;;;;;;;;;;x
+PON_1312;Pondicherry;;;;;;x
 ENG_854;Malta;;;;;;x
 ENG_264;Leinster;;;;;;x
 ENG_258;Connacht;;;;;;x
@@ -141,8 +139,8 @@ NET_379;Zeeland;;;;;;x
 AUS_2538;Vojvodina;;;;;;x
 AUS_736;Friuli;Frioul;Friaul;;Friuli;;;;;;;;;x;;;;
 AUS_778;Istria;Istrie;Istrien;;Istria;;;;;;;;;x;;;;
-AUS_781;North Dalmatia;La Dalmatie du Nord;Nord-Dalmatien;;Dalmacia del norte;;;;;;;;;x;;;;
-AUS_780;South Dalmatia;Dalmatie du Sud;Süd-Dalmatien;;Dalmacia del sur;;;;;;;;;x;;;;
+AUS_781;North Dalmatia;;;;;x
+AUS_780;South Dalmatia;;;;;x
 SIC_756;Apulia-Calabria;;;;;;x
 ITA_753;Abruzzo-Marche;;;;;;x
 HAN_538;East Friesland;;;;;;x
@@ -152,7 +150,7 @@ SCH_370;Schleswig;;;;;;x
 HOL_369;Holstein;;;;;;x
 GER_533;Heligoland;;;;;;x
 MEC_545;Mecklenburg;;;;;;x
-PRU_679;Hinterpommern;Poméranie plus loin;Hinterpommern;;Más adelante Pomerania;;;;;;;;;x;;;;
+PRU_679;Hinterpommern;;;;x
 PRU_578;Mittelrhein;;;;;;x
 RUS_2622;Chukotka;;;;;;x
 RUS_2647;Indigirka;;;;;;x
