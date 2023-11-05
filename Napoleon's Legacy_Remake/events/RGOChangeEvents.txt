@@ -1,6 +1,6 @@
 country_event = {
 	id = 199936 #Mining Decision Change
-	picture = mining
+	picture = Mining
 	title = "EVTNAME199936"
 	desc = "EVTDESC199936"
 

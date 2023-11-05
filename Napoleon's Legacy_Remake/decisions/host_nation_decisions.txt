@@ -7,20 +7,26 @@ political_decisions = {
 		}
 		allow = { } 
 		effect = {
+			
+			any_country = { 
+				any_owned={
+				secede_province = this
+				}
+			}
 			country_event = 600421
 		}
 	}
-	ai_setup_decision = {
+	1836_initial_setup = { #history/countries/LCT.txt
 		potential = { 
-			NOT = { has_global_flag = ai_setup_done }
-			ai = yes
+			NOT = { has_global_flag = ai_setup_done}
+			ai=no
 		}
+		allow = {
+			always = yes
+		} 
 		effect = { 
 			set_global_flag = ai_setup_done
-			LCT = {  country_event = 600420 } 
-		}
-		ai_will_do = {
-			factor = 1
+			LCT = { country_event = 600420 } 
 		}
 	}
 

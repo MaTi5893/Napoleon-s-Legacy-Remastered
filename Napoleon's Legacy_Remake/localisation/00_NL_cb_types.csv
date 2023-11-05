@@ -1,5 +1,5 @@
-enforce_monroe;Enforce Monroe's Doctrine;;;x
-enforce_monroe_short;Enforce Monroe's Doctrine on $RECIPIENT$;;;x
-enforce_monroe_desc;We need to make sure that all territory in America stays within US controls !;;;x
+enforce_monroe;Enforce Monroe Doctrine;;;x
+enforce_monroe_short;Enforce Monroe Doctrine on $RECIPIENT$;;;x
+enforce_monroe_desc;We need to make sure that all territory in America stays under American control!;;;x
 NORMAL_WAR_ENFORCE_MONROE_DOCTRINE_NAME;$ORDER$$FIRST$ Enforcement of Monroe's Doctrine $SECOND$;;;x
 AGRESSION_WAR_ENFORCE_MONROE_DOCTRINE_NAME;$ORDER$$FIRST$ Aggression for Monroe's doctrine on $STATE$;;;x

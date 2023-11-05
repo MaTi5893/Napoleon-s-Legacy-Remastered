@@ -14,7 +14,8 @@ country_event = {
 	}
 	title = "A New General Arrives"
 	desc = "Our prayers to RNGesus have been answered. If you feel like using him in singleplayer is cheating, then uncheck Ryan's box in the general menu"
-	immediate = {
+
+	option = {
 		define_general = {
 			name = "Ryan Gosling"
 			#+3 defence, +15% reliability, +7.5% morale
@@ -22,8 +23,6 @@ country_event = {
 			#+3 attack, +15% reliability, -3% attrition
 			background = attack_3.3
 		}
-	}
-	option = {
 		name = "He's literally me!"		
 	}
 }

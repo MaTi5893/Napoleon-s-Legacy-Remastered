@@ -53,7 +53,6 @@ absolute_monarchy = {
 	
 	election = no
 	appoint_ruling_party = yes
-	flagType = monarchy
 }
  
 prussian_constitutionalism = {
@@ -66,7 +65,6 @@ prussian_constitutionalism = {
 	election = yes
 	duration = 48
 	appoint_ruling_party = yes
-	flagType = monarchy
 }
 
 hms_government = {
@@ -82,7 +80,6 @@ hms_government = {
 	election = yes
 	duration = 48
 	appoint_ruling_party = yes
-	flagType = monarchy
 }
 
 democracy = {

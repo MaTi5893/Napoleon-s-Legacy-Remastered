@@ -397,7 +397,7 @@ enforce_monroe = {
 				continent = south_america
 			}
 		}
-		has_country_flag = new_world_nation 
+		NOT = { has_country_flag = new_world_nation }
 	}
 	
 	po_demand_state = yes
