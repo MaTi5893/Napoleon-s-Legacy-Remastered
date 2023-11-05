@@ -529,7 +529,7 @@ luxury_clothes_factory = {
 		value = 0.15
 	}
 	bonus = {
-		has_building = regular_clothes_factory
+		trigger = { has_building = regular_clothes_factory }
 		value = 0.15
 	}
 }

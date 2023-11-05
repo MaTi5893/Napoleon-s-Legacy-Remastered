@@ -374,25 +374,11 @@ political_decisions = {
 		}
 		effect = {
 			set_country_flag = back_to_baghdad
-			any_country = {
-				limit = {
-					war_with = TUR
-				}
-				relation = {
-					value = 100
-				}
-			}
 			relation = {
 				with = TUR
 				value = -150
 			}
 			TUR_923 = {
-				add_core = PER
-			}
-			TUR_935 = {
-				add_core = PER
-			}
-			TUR_931 = {
 				add_core = PER
 			}
 		}
@@ -1170,7 +1156,7 @@ political_decisions = {
 			year = 1839
 			war = no
 			NOT = {
-				has_truce = ENG
+				truce_with = ENG
 			} 
 			OR = { 
 				1493 = { 

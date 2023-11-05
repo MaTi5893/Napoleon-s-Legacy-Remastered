@@ -3,8 +3,7 @@ country_event = {
 	trigger = { 
 		tag = LCT
 	}
-	fire_only_once = yes 
-	mean_time_to_happen = { days = 0 } 
+	is_triggered_only = yes
 	title = "Setup Event"
 	desc = "Have fun GMing or whatever you're doing ~Rennes : D"
 	immediate = {	
@@ -283,12 +282,6 @@ country_event = {
 				} 
 			set_country_flag = indc2_flag
 			}
-			any_country = { 
-				limit = { 
-					tag = AUS
-				} 
-				country_event = 600044
-			}
 		any_country = { 
 			limit = { 		
 				OR = { 
@@ -300,6 +293,100 @@ country_event = {
 			}
 			set_country_flag = LatinAmerica
 		}
+		any_country = {
+				any_owned = {
+					limit = {
+						OR = {
+						owned_by = MEX
+						owned_by = CLM
+						owned_by = ENG
+						owned_by = ARG
+						owned_by = BRZ
+						owned_by = CHL
+						owned_by = ECU	
+						owned_by = DOM
+						owned_by = UCA
+						owned_by = VNZ
+						owned_by = URU
+						owned_by = PRG
+						owned_by = BOL
+						owned_by = PEU
+						#owned_by = RPL
+						owned_by = HAI
+						owned_by = SPA
+						owned_by = BRZ
+						}
+					life_rating = 35
+					NOT = { life_rating = 36 }
+					OR = {
+						continent = north_america
+						continent = south_america
+					}
+					}
+					life_rating = 0			
+					}
+			}
+			any_country = {
+				any_owned = {
+					limit = {
+						OR = {
+						owned_by = MEX
+						owned_by = CLM
+						owned_by = ENG
+						owned_by = ARG
+						owned_by = BRZ
+						owned_by = CHL
+						owned_by = ECU	
+						owned_by = DOM
+						owned_by = UCA
+						owned_by = VNZ
+						owned_by = URU
+						owned_by = PRG
+						owned_by = BOL
+						owned_by = PEU
+						#owned_by = RPL
+						}
+					life_rating = 30
+					NOT = { life_rating = 31 }
+					OR = {
+						continent = north_america
+						continent = south_america
+					}
+					}
+					life_rating = 5				
+					}
+			}
+			any_country = {
+				any_owned = {
+					limit = {
+						OR = {
+						owned_by = MEX
+						owned_by = CLM
+						owned_by = ENG
+						owned_by = ARG
+						owned_by = BRZ
+						owned_by = CHL
+						owned_by = ECU	
+						owned_by = DOM
+						owned_by = UCA
+						owned_by = VNZ
+						owned_by = URU
+						owned_by = PRG
+						owned_by = BOL
+						owned_by = PEU
+						#owned_by = RPL
+						owned_by = UPB
+						}
+					life_rating = 25
+					NOT = { life_rating = 26 }
+					OR = {
+						continent = north_america
+						continent = south_america
+					}
+					}
+					life_rating = 10				
+					}
+			}
 	}
 	option = {
 		name = "OK" 
@@ -317,7 +404,7 @@ country_event = {
 		id = 600421
 		is_triggered_only = yes 
 		title = "Host Nation Options"	
-		desc = "This is the cool host menu. You can kick people and stuff"
+		desc = "This is the cool host menu"
 		option = { 
 			name = "I want to leave this menu"
 		}
@@ -325,20 +412,4 @@ country_event = {
 			name = "I want to ally every player nation"
 			any_country = { limit = { ai = no } create_alliance = THIS }
 		}
-		option = { 
-			name = "I want to give military access to every country"
-			any_country = { military_access = THIS } 
-		}
-		option = { 
-			name = "I want to kick everyone who doesn't have military access to my country"
-			any_country = { limit = { ai = no NOT = { military_access = THIS } } country_event = 600422 } 
-		}
-	}
-	country_event = { 
-		id = 600422
-		is_triggered_only = yes
-		title = "RIP Bozo"
-		desc = "You just got kicked"
-		immediate = { add_country_modifier = { name = bigchungus duration = 1 } } 
-		option = { name = "lol" } 
 	}

@@ -1,154 +1,154 @@
-chungus;Sus;;;;Spanish Loc;;;x
-dismantle_factories_desc;Dismantle factories and cancel all constructions and recruitments.\n\n§YNOTE: §RBecause of coding limitations this CB only works with one country at a time, if you are going to add it for more than one country then make sure to peace out separately.§W;;;;Desmantelar las fábricas y cancelar todas las construcciones y reclutamientos.\n\n§YNota: §RDebido a las limitaciones de codificación este CB sólo funciona con un país a la vez, si vas a anadirlo para más de un país entonces asegúrate de pacificar por separado.§!;;;x
-dismantle_factories;Dismantle Industry;;;;Desmantelar la industria;;;x
-dismantle_factories_short;Dismantle industry in $STATE$;;;;Desmantelar la industria en $STATE$;;;x
-dismantle_factories_setup;Dismantle factories and cancel all constructions and recruitments in $STATE$;;;;Desmantelar las fábricas y cancelar todas las construcciones y contrataciones en $STATE$;;;x
-negotiated_transfer;Negotiated Transfer;;;;Transferencia negociada;;;x
-acquire_core_state;Acquire core;;;;Adquirir el núcleo;;;x
-acquire_core_state_short;Acquire $STATE$;;;;Adquirir $STATE$;;;x
-acquire_core_state_desc;Acquire an enemy §Ystate§W where we have §Ycore provinces§W;;;;Adquirir un §Yestado§W enemigo donde tengamos §provincias núcleo§W;;;x
-acquire_core_state_setup;Acquire core $STATE$ from $RECIPIENT$;;;;Adquirir el núcleo $STATE$ de $RECIPIENT$;;;x
-unification_casus_belli;War of Unification;;;;Guerra de Unificación;;;x
-unification_casus_belli_short;Liberate $STATE$;;;;Liberar $STATE$;;;x
-unification_casus_belli_desc;Liberate core territory of our §YCultural Union§W;;;;Liberar el territorio central de nuestra §Unión Cultural§W;;;x
-unification_casus_belli_setup;Liberate core territory of our §YCultural Union§W.;;;;Liberar el territorio central de nuestra §Unión Cultural§W;;;x
-civil_war;Civil War;;;;Guerra Civil;;;x
-civil_war_short;Unite the nation;;;;Unir a la nación;;;x
-civil_war_desc;Your nation is in a state of civil war;;;;Su nación está en estado de guerra civil;;;x
-civil_war_setup;End the war by reuniting our nation under a common banner again.;;;;Poner fin a la guerra reuniendo de nuevo a nuestra nación bajo una bandera común.;;;x
-unification_annex_casus_belli;War of Unification;;;;Guerra de Unificación;;;x
-unification_annex_casus_belli_short;Annexation of $RECIPIENT$;;;;Anexión de $RECIPIENT$;;;x
-unification_annex_casus_belli_desc;Liberate core territory of our §YCultural Union§W.;;;;Liberar el territorio central de nuestra §YUnión Cultural§W.;;;x
-unification_annex_casus_belli_setup;Liberate core territory of our §YCultural Union§W.;;;;Liberar el territorio central de nuestra §YUnión Cultural§W.;;;x
-annex_core_country;Restore Order;;;;Spanish Loc;;;x
-annex_core_country_short;Annex $RECIPIENT$;;;;Spanish Loc;;;x
-annex_core_country_desc;Annex a foreign §Ycountry§W all provinces of which are your cores.;;;;Spanish Loc;;;x
-annex_core_country_setup;Annex $RECIPIENT$;;;;Spanish Loc;;;x
-add_to_sphere;Add to Sphere;;;;Spanish Loc;;;x
-add_to_sphere_short;Add $RECIPIENT$ to Sphere of Influence;;;;Spanish Loc;;;x
-add_to_sphere_desc;Add country to our §YSphere of Influence§W;;;;Spanish Loc;;;x
-add_to_sphere_setup;Add $RECIPIENT$ to Sphere of Influence;;;;Spanish Loc;;;x
-unification_humiliate_cb;Assert Hegemony;;;;Afirmar la hegemonía;;;x
-unification_humiliate_cb_short;Admit Hegemony;;;;Admitir la hegemonía;;;x
-unification_humiliate_cb_desc;Force another Great Power to concede your leadership over your common cultural union. All his influence over countries in the area will be lost.;;;;Obliga a otra Gran Potencia a ceder su liderazgo sobre su unión cultural común. Toda su influencia sobre los países de la zona se perderá.;;;x
-unification_humiliate_cb_setup;Force another Great Power to concede your leadership over your common cultural union.;;;;Obligar a otra Gran Potencia a ceder su liderazgo sobre su unión cultural común.;;;x
-unification_GP_humiliate;Unification Humiliate;;;;Unificación Humillación;;;x
-unification_GP_humiliate_short;Humiliate $RECIPIENT$;;;;Humillar a $RECIPIENT$;;;x
-unification_GP_humiliate_desc;Show our military might by humiliating an enemy §Ygreater power of our culture group§W, thus increasing our §Yprestige§W while lowering theirs;;;;Demostrar nuestro poderío militar humillando a un enemigo §Ya más poderoso que nuestro grupo cultural§W, aumentando así nuestro §Yprestigio§W y rebajando el suyo;;;x;;;
-unification_GP_humiliate_setup;Humiliate $RECIPIENT$;;;;Humillar a $RECIPIENT$;;;x
-unification_add_to_sphere;Unification Add to Sphere;;;;Unificación Anadir a la esfera;;;x
-unification_add_to_sphere_short;Add $RECIPIENT$ to Sphere of Influence;;;;Anadir $RECIPIENT$ a la esfera de influencia;;;x
-unification_add_to_sphere_desc;Add country §Yof our culture group§W to our §YSphere of Influence§W;;;;Anadir el país §Y de nuestro grupo cultural§W a nuestra §YSfera de influencia§W;;;x
-unification_add_to_sphere_setup;Add $RECIPIENT$ to Sphere of Influence;;;;Anadir $RECIPIENT$ a la esfera de influencia;;;x
-take_from_sphere;Take from sphere of influence;;;;Tomar de la esfera de influencia;;;x
-take_from_sphere_short;Take $THIRD$ from sphere of influence;;;;Spanish Loc;;;x
-take_from_sphere_desc;Remove a country from someone's §YSphere of Influence§W and add it to our own;;;;Spanish Loc;;;x
-take_from_sphere_setup;Take $THIRD$ from $RECIPIENT$'s sphere of influence;;;;Spanish Loc;;;x
-free_peoples;Free People Early;;;;Spanish Loc;;;x
-free_peoples_short;$THIRD$ acquires $STATE$;;;;Spanish Loc;;;x
-free_peoples_desc;Liberate a §Ycountry§W's state from its oppressors;;;;Spanish Loc;;;x
-free_peoples_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;;;;Spanish Loc;;;x
-liberate_country;Liberate Country;;;;Spanish Loc;;;x
-liberate_country_short;$THIRD$ acquires $STATE$;;;;Spanish Loc;;;x
-liberate_country_desc;Liberate an §Yentire country§W from its oppressors;;;;Spanish Loc;;;x
-liberate_country_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;;;;Spanish Loc;;;x;;;
-release_puppet;Release Puppet;;;;Spanish Loc;;;x
-release_puppet_short;$THIRD$ is released;;;;Spanish Loc;;;x
-release_puppet_desc;Release a §Ycountry§W from its sovereign nation;;;;Spanish Loc;;;x
-release_puppet_setup;Release $THIRD$ from $RECIPIENT$;;;;Spanish Loc;;;x
-cut_down_to_size_boxer;Cut down to size;;;;Spanish Loc;;;x
-cut_down_to_size_boxer_short;Cut $RECIPIENT$ down to size;;;;Spanish Loc;;;x
-cut_down_to_size_boxer_desc;Force another §Ycountry§W to disarm and pay reparations to us;;;;Spanish Loc;;;x
-cut_down_to_size_boxer_setup;Cut $RECIPIENT$ down to size;;;;Spanish Loc;;;x
-humiliate;Humiliate;;;;Spanish Loc;;;x
-humiliate_short;Humiliate $RECIPIENT$;;;;Spanish Loc;;;x
-humiliate_desc;Show our military might by humiliating an enemy §Ycountry§W, thus increasing our §Yprestige§W while lowering theirs;;;;Spanish Loc;;;x
-humiliate_setup;Humiliate $RECIPIENT$;;;;Spanish Loc;;;x
-place_in_the_sun;Place in the sun;;;;Spanish Loc;;;x
-place_in_the_sun_short;Acquire $STATE$;;;;Spanish Loc;;;x
-place_in_the_sun_desc;Aquire an enemy §Ycolonial state§W;;;;Spanish Loc;;;x
-place_in_the_sun_setup;Acquire colony $STATE$ from $RECIPIENT$;;;;Spanish Loc;;;x
-demand_concession_casus_belli;Demand Concession;;;;Spanish Loc;;;x
-demand_concession_casus_belli_short;Demand $STATE$;;;;Spanish Loc;;;x
-demand_concession_casus_belli_desc;Force an §Yuncivilized country§W to secede territory to form a colonial concession.;;;;Spanish Loc;;;x
-demand_concession_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;Spanish Loc;;;x
-demand_concession_casus_belli_player_early;Demand Concession Early;;;;Spanish Loc;;;x
-demand_concession_casus_belli_player_early_short;Demand $STATE$ for 100% more warscore.;;;;Spanish Loc;;;x
-demand_concession_casus_belli_player_early_desc;Force the §Yuncivilized country§W to secede territory to form a colonial concession for 100% more warscore.;;;;Spanish Loc;;;x
-demand_concession_casus_belli_ai_early_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;Spanish Loc;;;x
-demand_concession_casus_belli_ai_early;Demand Concession Early;;;;Spanish Loc;;;x
-demand_concession_casus_belli_ai_early_short;Demand $STATE$ for 10% more warscore.;;;;Spanish Loc;;;x
-demand_concession_casus_belli_ai_early_desc;Force the §Yuncivilized country§W to secede territory to form a colonial concession for 100% more warscore.;;;;Spanish Loc;;;x
-demand_concession_casus_belli_player_early_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;;Spanish Loc;;;x
-rude_boy;Containment;;;;Spanish Loc;;;x
-rude_boy_short;Contain $RECIPIENT$;;;;Spanish Loc;;;x
-rude_boy_desc;Force another §Ycountry§W, which has thrown off all pretenses of civilized conduct in the realm of international affairs, to vastly reduce its ambitions.;;;;Spanish Loc;;;x
-rude_boy_setup;Contain $RECIPIENT$ by reducing their territory, prestige and military.;;;;Spanish Loc;;;x
-conquest;Conquest;;;;Spanish Loc;;;x
-conquest_short;Annex $RECIPIENT$;;;;Spanish Loc;;;x
-conquest_desc;Annex a single-state §Ycountry§W;;;;Spanish Loc;;;x
-conquest_setup;Annex $RECIPIENT$;;;;Spanish Loc;;;x
-establish_protectorate_casus_belli;Establish Protectorate;;;;Spanish Loc;;;x
-establish_protectorate_casus_belli_short;Annex $RECIPIENT$;;;;Spanish Loc;;;x
-establish_protectorate_casus_belli_desc;Annex an §Yuncivilized country§W by forcing them to become a protectorate of ours.;;;;Spanish Loc;;;x
-establish_protectorate_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;;;;Spanish Loc;;;x
-demand_reperations_desc;Demand that a §Ycountry§W pay us §Ywar reparations§W;;;;Spanish Loc;;;x
-status_quo;Status Quo;;;;Spanish Loc;;;x
-status_quo_short;Status Quo;;;;Spanish Loc;;;x
-status_quo_desc;Attempt to intervene in a war, neglecting any side to fulfill their §Ywargoals§W;;;;Spanish Loc;;;x
-status_quo_setup;All we ask is to be left alone;;;;Spanish Loc;;;x
-install_communism;Install Communism;;;;Spanish Loc;;;x
-install_communism_short;Install a communist government in $RECIPIENT$;;;;Spanish Loc;;;x
-install_communism_desc;Install a §Yfriendly communist government§W in the country's capital;;;;Spanish Loc;;;x
-install_communism_setup;Install a communist government in $RECIPIENT$;;;;Spanish Loc;;;x
-AGRESSION_WAR_NAME;$ORDER$War of $FIRST$ Aggression;;;;Spanish Loc;;;x
-NORMAL_WAR_NAME;$ORDER$$FIRST$-$SECOND$ War;;;;Spanish Loc;;;x
-NORMAL_WAR_NAME_ENG_USA;$ORDER$$FIRST$-$SECOND$ War;;;;Spanish Loc;;;x
-AGRESSION_WAR_TAKE_CORE_NAME;$ORDER$$FIRST$ Aggression for $STATE$;;;;Spanish Loc;;;x
-NORMAL_WAR_TAKE_CORE_NAME;$ORDER$$FIRST$ Liberation of $STATE$;;;;Spanish Loc;;;x
-NORMAL_WAR_TAKE_CORE_NAME_ENG_USA;$ORDER$$FIRST$ Liberation of $STATE$;;;;Spanish Loc;;;x
-AGRESSION_WAR_ALL_CORES_NAME;$ORDER$War of $FIRST$ Liberation;;;;Spanish Loc;;;x
-AGRESSION_WAR_ALL_CORES_NAME_USA_MEX;$ORDER$Mexican-American War;;;;Spanish Loc;;;x
-NORMAL_WAR_ALL_CORES_NAME;$ORDER$War of $FIRST$ Liberation;;;;Spanish Loc;;;x
-NORMAL_WAR_ALL_CORES_NAME_USA_MEX;$ORDER$Mexican-American War;;;;Spanish Loc;;;x
-AGRESSION_WAR_UNIFICATION_NAME;$ORDER$$FIRST$ Liberation of $STATE$;;;;Spanish Loc;;;x
-NORMAL_WAR_UNIFICATION_NAME;$ORDER$$FIRST$ Liberation of $STATE$;;;;Spanish Loc;;;x
-AGRESSION_CIVIL_WAR_NAME;$ORDER$$FIRST$ Civil War;;;;Spanish Loc;;;x
-NORMAL_CIVIL_WAR_NAME;$ORDER$$FIRST$ Civil War;;;;Spanish Loc;;;x
-NORMAL_CIVIL_WAR_NAME_NEJ_HAL;$ORDER$War of Arabian Domination;;;;$ORDER$Guerra de dominación árabe;;;x
-NORMAL_CIVIL_WAR_NAME_HAL_NEJ;$ORDER$War of Arabian Domination;;;;$ORDER$Guerra de dominación árabe;;;x
-AGRESSION_WAR_UNIFICATION_ANNEX_NAME;$ORDER$$FIRST$ Liberation of $SECOND_COUNTRY$;;;;$ORDER$$FIRST$ Liberación de $SECOND_COUNTRY$;;;x
-NORMAL_WAR_UNIFICATION_ANNEX_NAME;$ORDER$$FIRST$ Liberation of $SECOND_COUNTRY$;;;;$ORDER$$FIRST$ Liberación de $SECOND_COUNTRY$;;;x
-AGRESSION_WAR_RESTORE_ORDER_NAME;$ORDER$$FIRST$ Restoration of Order to the $SECOND$ provinces;;;;Spanish Loc;;;x
-NORMAL_WAR_RESTORE_ORDER_NAME;$ORDER$$FIRST$ Restoration of Order to the $SECOND$ provinces;;;;Spanish Loc;;;x
-AGRESSION_WAR_ADD_SPHERE_NAME;$ORDER$War of $SECOND$ Subjugation;;;;Spanish Loc;;;x
-NORMAL_WAR_ADD_SPHERE_NAME;$ORDER$War of $SECOND$ Submission;;;;Spanish Loc;;;x
-AGRESSION_UNIFICATION_HUMILIATE_NAME;The $FIRST$-$SECOND$ Brother's War;;;;La $FIRST$-$SECOND$ Guerra de los Hermanos;;;x
-NORMAL_UNIFICATION_HUMILIATE_NAME;The $FIRST$-$SECOND$ Brother's War;;;;La $FIRST$-$SECOND$ Guerra de los Hermanos;;;x
-AGRESSION_WAR_TAKE_SPHERE_NAME;$ORDER$$FIRST$-$SECOND$ War over $COUNTRY$;;;;$ORDER$$FIRST$-$SECOND$ Guerra por el $COUNTRY$;;;x
-NORMAL_WAR_TAKE_SPHERE_NAME;$ORDER$$COUNTRY$ War;;;;Spanish Loc;;;x
-AGRESSION_WAR_FREE_NAME;$ORDER$$FIRST$ War of Propping up $COUNTRY$;;;;Spanish Loc;;;x
-NORMAL_WAR_FREE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;;;;Spanish Loc;;;x
+chungus;Sus;;;x
+dismantle_factories_desc;Dismantle factories and cancel all constructions and recruitments.\n\n§YNOTE: §RBecause of coding limitations this CB only works with one country at a time, if you are going to add it for more than one country then make sure to peace out separately.§W;;;x
+dismantle_factories;Dismantle Industry;;;x
+dismantle_factories_short;Dismantle industry in $STATE$;;;x
+dismantle_factories_setup;Dismantle factories and cancel all constructions and recruitments in $STATE$;;;x
+negotiated_transfer;Negotiated Transfer;;;x
+acquire_core_state;Acquire core;;;x
+acquire_core_state_short;Acquire $STATE$;;;x
+acquire_core_state_desc;Acquire an enemy §Ystate§W where we have §Ycore provinces§W;;;x
+acquire_core_state_setup;Acquire core $STATE$ from $RECIPIENT$;;;x
+unification_casus_belli;War of Unification;;;x
+unification_casus_belli_short;Liberate $STATE$;;;x
+unification_casus_belli_desc;Liberate core territory of our §YCultural Union§W;;;x
+unification_casus_belli_setup;Liberate core territory of our §YCultural Union§W.;;;x
+civil_war;Civil War;;;x
+civil_war_short;Unite the nation;;;x
+civil_war_desc;Your nation is in a state of civil war;;;x
+civil_war_setup;End the war by reuniting our nation under a common banner again.;;;x
+unification_annex_casus_belli;War of Unification;;;x
+unification_annex_casus_belli_short;Annexation of $RECIPIENT$;;;x
+unification_annex_casus_belli_desc;Liberate core territory of our §YCultural Union§W.;;;x
+unification_annex_casus_belli_setup;Liberate core territory of our §YCultural Union§W.;;;x
+annex_core_country;Restore Order;;;x
+annex_core_country_short;Annex $RECIPIENT$;;;x
+annex_core_country_desc;Annex a foreign §Ycountry§W all provinces of which are your cores.;;;x
+annex_core_country_setup;Annex $RECIPIENT$;;;x
+add_to_sphere;Add to Sphere;;;x
+add_to_sphere_short;Add $RECIPIENT$ to Sphere of Influence;;;x
+add_to_sphere_desc;Add country to our §YSphere of Influence§W;;;x
+add_to_sphere_setup;Add $RECIPIENT$ to Sphere of Influence;;;x
+unification_humiliate_cb;Assert Hegemony;;;x
+unification_humiliate_cb_short;Admit Hegemony;;;x
+unification_humiliate_cb_desc;Force another Great Power to concede your leadership over your common cultural union. All his influence over countries in the area will be lost.;;;x
+unification_humiliate_cb_setup;Force another Great Power to concede your leadership over your common cultural union.;;;x
+unification_GP_humiliate;Unification Humiliate;;;x
+unification_GP_humiliate_short;Humiliate $RECIPIENT$;;;x
+unification_GP_humiliate_desc;Show our military might by humiliating an enemy §Ygreater power of our culture group§W, thus increasing our §Yprestige§W while lowering theirs;;;x;;;
+unification_GP_humiliate_setup;Humiliate $RECIPIENT$;;;x
+unification_add_to_sphere;Unification Add to Sphere;;;x
+unification_add_to_sphere_short;Add $RECIPIENT$ to Sphere of Influence;;;x
+unification_add_to_sphere_desc;Add country §Yof our culture group§W to our §YSphere of Influence§W;;;x
+unification_add_to_sphere_setup;Add $RECIPIENT$ to Sphere of Influence;;;x
+take_from_sphere;Take from sphere of influence;;;x
+take_from_sphere_short;Take $THIRD$ from sphere of influence;;;x
+take_from_sphere_desc;Remove a country from someone's §YSphere of Influence§W and add it to our own;;;x
+take_from_sphere_setup;Take $THIRD$ from $RECIPIENT$'s sphere of influence;;;x
+free_peoples;Free People Early;;;x
+free_peoples_short;$THIRD$ acquires $STATE$;;;x
+free_peoples_desc;Liberate a §Ycountry§W's state from its oppressors;;;x
+free_peoples_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;;;x
+liberate_country;Liberate Country;;;x
+liberate_country_short;$THIRD$ acquires $STATE$;;;x
+liberate_country_desc;Liberate an §Yentire country§W from its oppressors;;;x
+liberate_country_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;;;x;;;
+release_puppet;Release Puppet;;;x
+release_puppet_short;$THIRD$ is released;;;x
+release_puppet_desc;Release a §Ycountry§W from its sovereign nation;;;x
+release_puppet_setup;Release $THIRD$ from $RECIPIENT$;;;x
+cut_down_to_size_boxer;Cut down to size;;;x
+cut_down_to_size_boxer_short;Cut $RECIPIENT$ down to size;;;x
+cut_down_to_size_boxer_desc;Force another §Ycountry§W to disarm and pay reparations to us;;;x
+cut_down_to_size_boxer_setup;Cut $RECIPIENT$ down to size;;;x
+humiliate;Humiliate;;;x
+humiliate_short;Humiliate $RECIPIENT$;;;x
+humiliate_desc;Show our military might by humiliating an enemy §Ycountry§W, thus increasing our §Yprestige§W while lowering theirs;;;x
+humiliate_setup;Humiliate $RECIPIENT$;;;x
+place_in_the_sun;Place in the sun;;;x
+place_in_the_sun_short;Acquire $STATE$;;;x
+place_in_the_sun_desc;Aquire an enemy §Ycolonial state§W;;;x
+place_in_the_sun_setup;Acquire colony $STATE$ from $RECIPIENT$;;;x
+demand_concession_casus_belli;Demand Concession;;;x
+demand_concession_casus_belli_short;Demand $STATE$;;;x
+demand_concession_casus_belli_desc;Force an §Yuncivilized country§W to secede territory to form a colonial concession.;;;x
+demand_concession_casus_belli_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;x
+demand_concession_casus_belli_player_early;Demand Concession Early;;;x
+demand_concession_casus_belli_player_early_short;Demand $STATE$ for 100% more warscore.;;;x
+demand_concession_casus_belli_player_early_desc;Force the §Yuncivilized country§W to secede territory to form a colonial concession for 100% more warscore.;;;x
+demand_concession_casus_belli_ai_early_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;x
+demand_concession_casus_belli_ai_early;Demand Concession Early;;;x
+demand_concession_casus_belli_ai_early_short;Demand $STATE$ for 10% more warscore.;;;x
+demand_concession_casus_belli_ai_early_desc;Force the §Yuncivilized country§W to secede territory to form a colonial concession for 100% more warscore.;;;x
+demand_concession_casus_belli_player_early_setup;Demand that $RECIPIENT$ secede territory to form a colonial concession.;;;x
+rude_boy;Containment;;;x
+rude_boy_short;Contain $RECIPIENT$;;;x
+rude_boy_desc;Force another §Ycountry§W, which has thrown off all pretenses of civilized conduct in the realm of international affairs, to vastly reduce its ambitions.;;;x
+rude_boy_setup;Contain $RECIPIENT$ by reducing their territory, prestige and military.;;;x
+conquest;Conquest;;;x
+conquest_short;Annex $RECIPIENT$;;;x
+conquest_desc;Annex a single-state §Ycountry§W;;;x
+conquest_setup;Annex $RECIPIENT$;;;x
+establish_protectorate_casus_belli;Establish Protectorate;;;x
+establish_protectorate_casus_belli_short;Annex $RECIPIENT$;;;x
+establish_protectorate_casus_belli_desc;Annex an §Yuncivilized country§W by forcing them to become a protectorate of ours.;;;x
+establish_protectorate_casus_belli_setup;Annex $RECIPIENT$ by establishing a protectorate over them.;;;x
+demand_reperations_desc;Demand that a §Ycountry§W pay us §Ywar reparations§W;;;x
+status_quo;Status Quo;;;x
+status_quo_short;Status Quo;;;x
+status_quo_desc;Attempt to intervene in a war, neglecting any side to fulfill their §Ywargoals§W;;;x
+status_quo_setup;All we ask is to be left alone;;;x
+install_communism;Install Communism;;;x
+install_communism_short;Install a communist government in $RECIPIENT$;;;x
+install_communism_desc;Install a §Yfriendly communist government§W in the country's capital;;;x
+install_communism_setup;Install a communist government in $RECIPIENT$;;;x
+AGRESSION_WAR_NAME;$ORDER$War of $FIRST$ Aggression;;;x
+NORMAL_WAR_NAME;$ORDER$$FIRST$-$SECOND$ War;;;x
+NORMAL_WAR_NAME_ENG_USA;$ORDER$$FIRST$-$SECOND$ War;;;x
+AGRESSION_WAR_TAKE_CORE_NAME;$ORDER$$FIRST$ Aggression for $STATE$;;;x
+NORMAL_WAR_TAKE_CORE_NAME;$ORDER$$FIRST$ Liberation of $STATE$;;;x
+NORMAL_WAR_TAKE_CORE_NAME_ENG_USA;$ORDER$$FIRST$ Liberation of $STATE$;;;x
+AGRESSION_WAR_ALL_CORES_NAME;$ORDER$War of $FIRST$ Liberation;;;x
+AGRESSION_WAR_ALL_CORES_NAME_USA_MEX;$ORDER$Mexican-American War;;;x
+NORMAL_WAR_ALL_CORES_NAME;$ORDER$War of $FIRST$ Liberation;;;x
+NORMAL_WAR_ALL_CORES_NAME_USA_MEX;$ORDER$Mexican-American War;;;x
+AGRESSION_WAR_UNIFICATION_NAME;$ORDER$$FIRST$ Liberation of $STATE$;;;x
+NORMAL_WAR_UNIFICATION_NAME;$ORDER$$FIRST$ Liberation of $STATE$;;;x
+AGRESSION_CIVIL_WAR_NAME;$ORDER$$FIRST$ Civil War;;;x
+NORMAL_CIVIL_WAR_NAME;$ORDER$$FIRST$ Civil War;;;x
+NORMAL_CIVIL_WAR_NAME_NEJ_HAL;$ORDER$War of Arabian Domination;;;x
+NORMAL_CIVIL_WAR_NAME_HAL_NEJ;$ORDER$War of Arabian Domination;;;x
+AGRESSION_WAR_UNIFICATION_ANNEX_NAME;$ORDER$$FIRST$ Liberation of $SECOND_COUNTRY$;;;x
+NORMAL_WAR_UNIFICATION_ANNEX_NAME;$ORDER$$FIRST$ Liberation of $SECOND_COUNTRY$;;;x
+AGRESSION_WAR_RESTORE_ORDER_NAME;$ORDER$$FIRST$ Restoration of Order to the $SECOND$ provinces;;;x
+NORMAL_WAR_RESTORE_ORDER_NAME;$ORDER$$FIRST$ Restoration of Order to the $SECOND$ provinces;;;x
+AGRESSION_WAR_ADD_SPHERE_NAME;$ORDER$War of $SECOND$ Subjugation;;;x
+NORMAL_WAR_ADD_SPHERE_NAME;$ORDER$War of $SECOND$ Submission;;;x
+AGRESSION_UNIFICATION_HUMILIATE_NAME;The $FIRST$-$SECOND$ Brother's War;;;x
+NORMAL_UNIFICATION_HUMILIATE_NAME;The $FIRST$-$SECOND$ Brother's War;;;x
+AGRESSION_WAR_TAKE_SPHERE_NAME;$ORDER$$FIRST$-$SECOND$ War over $COUNTRY$;;;x
+NORMAL_WAR_TAKE_SPHERE_NAME;$ORDER$$COUNTRY$ War;;;x
+AGRESSION_WAR_FREE_NAME;$ORDER$$FIRST$ War of Propping up $COUNTRY$;;;x
+NORMAL_WAR_FREE_NAME;$ORDER$$FIRST$ War of $COUNTRY_ADJ$ Freedom;;;x
 AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME;$ORDER$War of $FIRST$ Aggression;;;;;;;;;;
-AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME_RUS_TUR;$ORDER$Crimean War;;;;Spanish Loc;;;x
-NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME;$ORDER$$FIRST$-$SECOND$ War;;;;Spanish Loc;;;x
-NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME_RUS_TUR;$ORDER$Crimean War;;;;Spanish Loc;;;x
-AGRESSION_WAR_HUMILIATE_NAME;$ORDER$$FIRST$ War to Humiliate $SECOND$;;;;Spanish Loc;;;x
-AGRESSION_WAR_COLONIAL_NAME;$ORDER$$FIRST$ Colonial War for $STATE$;;;;Spanish Loc;;;x
-NORMAL_WAR_COLONIAL_NAME;$ORDER$$FIRST$ Colonial Conquest of $STATE$;;;;Spanish Loc;;;x
-AGRESSION_WAR_TAKE_NAME;$ORDER$$FIRST$ War of $STATE$;;;;Spanish Loc;;;x
-NORMAL_WAR_TAKE_NAME;$ORDER$$FIRST$ Conquest of $STATE$;;;;Spanish Loc;;;x
-NORMAL_WAR_TAKE_NAME_ENG_QNG;$ORDER$Opium War;;;;Spanish Loc;;;x
-NORMAL_WAR_TAKE_NAME_ENG_USA;$ORDER$$FIRST$ Conquest of $STATE$;;;;Spanish Loc;;;x
-AGRESSION_WAR_CONCESSION_NAME;$ORDER$War of The $STATE$ Concession;;;;Spanish Loc;;;x
-NORMAL_WAR_CONCESSION_NAME;$ORDER$War of The $STATE$ Concession;;;;Spanish Loc;;;x
-AGRESSION_EARLY_WAR_CONCESSION_NAME;$ORDER$War of The $STATE$ Concession;;;;Spanish Loc;;;x
-NORMAL_EARLY_WAR_CONCESSION_NAME;$ORDER$War of The $STATE$ Concession;;;;Spanish Loc;;;x
-AGRESSION_WAR_RUDEBOI_NAME;$ORDER$$FIRST$ of $SECOND$ Containment;;;;Spanish Loc;;;x
-NORMAL_WAR_RUDEBOI_NAME;$ORDER$$FIRST$ War of $SECOND$ Containment;;;;Spanish Loc;;;x
-AGRESSION_WAR_CONQUEST_NAME;$ORDER$War of $FIRST$ Aggression against $SECOND_COUNTRY$;;;;Spanish Loc;;;x
-AGRESSION_WAR_PROTECTORATE_NAME;$ORDER$Acquisition of $FIRST$ $SECOND_COUNTRY$;;;;Spanish Loc;;;x
-NORMAL_WAR_PROTECTORATE_NAME;$ORDER$$FIRST$ Acquisition of $SECOND_COUNTRY$;;;;Spanish Loc;;;x
-AGRESSION_WAR_PUPPET_NAME;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;;;;Spanish Loc;;;x
-AGRESSION_WAR_PUPPET_NAME_TUR_ROM;$ORDER$Romanian War of Independence;;;;Spanish Loc;;;x
-NORMAL_WAR_PUPPET_NAME_TUR_ROM;$ORDER$Romanian War of Independence;;;;Spanish Loc;;;x
+AGRESSION_CUT_DOWN_TO_SIZE_WAR_NAME_RUS_TUR;$ORDER$Crimean War;;;x
+NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME;$ORDER$$FIRST$-$SECOND$ War;;;x
+NORMAL_CUT_DOWN_TO_SIZE_WAR_NAME_RUS_TUR;$ORDER$Crimean War;;;x
+AGRESSION_WAR_HUMILIATE_NAME;$ORDER$$FIRST$ War to Humiliate $SECOND$;;;x
+AGRESSION_WAR_COLONIAL_NAME;$ORDER$$FIRST$ Colonial War for $STATE$;;;x
+NORMAL_WAR_COLONIAL_NAME;$ORDER$$FIRST$ Colonial Conquest of $STATE$;;;x
+AGRESSION_WAR_TAKE_NAME;$ORDER$$FIRST$ War of $STATE$;;;x
+NORMAL_WAR_TAKE_NAME;$ORDER$$FIRST$ Conquest of $STATE$;;;x
+NORMAL_WAR_TAKE_NAME_ENG_QNG;$ORDER$Opium War;;;x
+NORMAL_WAR_TAKE_NAME_ENG_USA;$ORDER$$FIRST$ Conquest of $STATE$;;;x
+AGRESSION_WAR_CONCESSION_NAME;$ORDER$War of The $STATE$ Concession;;;x
+NORMAL_WAR_CONCESSION_NAME;$ORDER$War of The $STATE$ Concession;;;x
+AGRESSION_EARLY_WAR_CONCESSION_NAME;$ORDER$War of The $STATE$ Concession;;;x
+NORMAL_EARLY_WAR_CONCESSION_NAME;$ORDER$War of The $STATE$ Concession;;;x
+AGRESSION_WAR_RUDEBOI_NAME;$ORDER$$FIRST$ of $SECOND$ Containment;;;x
+NORMAL_WAR_RUDEBOI_NAME;$ORDER$$FIRST$ War of $SECOND$ Containment;;;x
+AGRESSION_WAR_CONQUEST_NAME;$ORDER$War of $FIRST$ Aggression against $SECOND_COUNTRY$;;;x
+AGRESSION_WAR_PROTECTORATE_NAME;$ORDER$Acquisition of $FIRST$ $SECOND_COUNTRY$;;;x
+NORMAL_WAR_PROTECTORATE_NAME;$ORDER$$FIRST$ Acquisition of $SECOND_COUNTRY$;;;x
+AGRESSION_WAR_PUPPET_NAME;$ORDER$War of $FIRST$ Control Over $SECOND_COUNTRY$;;;x
+AGRESSION_WAR_PUPPET_NAME_TUR_ROM;$ORDER$Romanian War of Independence;;;x
+NORMAL_WAR_PUPPET_NAME_TUR_ROM;$ORDER$Romanian War of Independence;;;x

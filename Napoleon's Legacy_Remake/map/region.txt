@@ -342,7 +342,7 @@ SWE_308 = { 305 308 306 307 } #Nordnorge
 
 DEN_3246 = { 3246 } #Jan Mayen
 
-SWE_313 = { 313 309 316 312 310 311 314 315 } #S�r-Norge
+SWE_313 = { 313 309 316 312 310 311 314 315 } #Sur-Norge
 
 #SWE_313 = { 313 316 314 315 } #Ostlandet
 
@@ -1061,7 +1061,7 @@ POR_2059 = { 2059 2053 2057 2065 } #Zambezia-Sofala
 
 POR_2054 = { 2054 2055 2056 2058 } #Tete 
 
-POR_2049 = { 2049 2050 2051 2052 } #Louren�o Marques 
+POR_2049 = { 2049 2050 2051 2052 } #Lourenco Marques 
 
 FRA_2123 = { 2123 2124 } #Comoros-Mayotte 
 

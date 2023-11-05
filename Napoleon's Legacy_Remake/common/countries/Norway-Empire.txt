@@ -143,49 +143,46 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Duke of Rothesay" "Edinburgh" "Glasgow" "Aberdeen" "Dundee" "Inverness" "Perth"
-		"Strathclyde" "Stirling" ï¿½ss Vanr ï¿½lfr Jï¿½tunn
-		"Ulrik Christian Gyldenlï¿½ve" Kï¿½benhavn ï¿½rhus ï¿½lborg Odense Fredriksberg Esbjerg "Nï¿½rrejyske ï¿½" Fyn Jï¿½tlandshaf
+		"Clas Eriksson Fleming" "Axel Nilsson Ryning" "Carl Carlsson Gyllenhielm" "Gustaf Otto Stenbock" "Lorentz Creutz" "Hans Wachtmeister af Johannishus" 
+		"Henrik af Trolle" "Carl August Ehrensvärd" Fredrik Johan "Manligheten" "Dristigheten" "Sverige" Áss Vanr Álfr Jötunn
+		"Ulrik Christian Gyldenløve" København Århus Ålborg Odense Fredriksberg Esbjerg "Nørrejyske Ø" Fyn Jótlandshaf 
+	}
+	battleship = {
+		"Clas Eriksson Fleming" "Axel Nilsson Ryning" "Carl Carlsson Gyllenhielm" "Gustaf Otto Stenbock" "Lorentz Creutz" "Hans Wachtmeister af Johannishus" 
+		"Henrik af Trolle" "Carl August Ehrensvärd" Fredrik Johan "Manligheten" "Dristigheten" "Sverige" Áss Vanr Álfr Jötunn
+		"Ulrik Christian Gyldenløve" København Århus Ålborg Odense Fredriksberg Esbjerg "Nørrejyske Ø" Fyn Jótlandshaf 
 	}
 	ironclad = {
-		"Arran" "Islay" "Jura" "Lewis" "Harris" "Skye" Ellida Sleipner Viking Frithjof Rjukan Sarpen Lougen Glommen
-		Helgoland Danmark Gorm Lindormen Odin "Rolf Krake" Tordenskjold "Peder Skram" Dannebrog Gorm "Olfert Fischer" Absalon
+		Göteborg Malmö Uppsala Västerås Örebro Linköping Helsingborg Nynäshamn Karlshamn Halmstad Blenda Astrid Ellida Sleipner Viking Frithjof
+		Rjukan Sarpen Lougen Glommen Helgoland Danmark Gorm Lindormen Odin "Rolf Krake" Tordenskjold "Peder Skram" Dannebrog Gorm "Olfert Fischer" Absalon 
 	}
 	manowar = {
-		"Duke of Rothesay" "Edinburgh" "Glasgow" "Aberdeen" "Dundee" "Inverness" "Perth"
-		"Strathclyde" "Stirling" Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros ï¿½rnen
-		"Prins Christian Frederik" Skjold Absalon Ingolf Dannebrog Dagmar Gesjer "Dronning Marie" Waldemar Fredrik
+		"Carl XIII" "Karl XIV Johan" "Prins Oscar" "Gustav den Store" Stockholm Försiktigheten Tapperheten "Kung Adolph Fredric" Henrik Tomas 
+		Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros Ørnen 
+		"Prins Christian Frederik" Skjold Absalon Ingolf Dannebrog Dagmar Gesjer "Dronning Marie" Waldemar Fredrik 
 	}
 	cruiser = {
-		"Hamilton" "Buccleuch" "Lennox" "Argyll" "Atholl" "Montrose" "Roxburghe" "Lothian"
-		"Selkirk" Thor Odin Njord Freyr Tyr Bragl Heimdall Hoder Vidar Ale Ullr Forseti
-		Fyen Geiser Heimdal Hekla "St. Thomas" Valkyrien "Herluf Trolle" Sï¿½eormen Susï¿½en Gudenï¿½en
+		"Claes Uggla" Psilander "Claes Horn" "Jacob Bakke" Ornen Fylgia "Tre Kronor" "Göta Lejon" Östersund Borgholm
+		Thor Odin Njord Freyr Tyr Bragl Heimdall Hoder Vidar Ale Ullr Forseti
+		Fyen Geiser Heimdal Hekla "St. Thomas" Valkyrien "Herluf Trolle" Søeormen Susåen Gudenåen
 	}
 	frigate = {
-		"Loch Lomond" "Loch Ness" "Loch Morar" "Loch Tay" "Loch Awe" Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros ï¿½rnen
-		Najaden Hummer Stralsund Sï¿½ridder Leopard Raae "Esbern Snare" ï¿½rnen Sjï¿½lland Gefion Thetis "Niels Juel" Rota
+		Packa "Svarta Örn" Jarramas Vainqueur Delphin Illerim "Lilla Phoenix" Växjö Gävle "Baron Gustaf Bonde" 
+		Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros Ørnen
+		Najaden Hummer Stralsund Søridder Leopard Raae "Esbern Snare" Ørnen Sjælland Gefion Thetis "Niels Juel" Rota
 	}
 	monitor = {
-		"Duke of Rothesay" "Edinburgh" "Glasgow" "Aberdeen" "Dundee" "Inverness" "Perth"
-		"Strathclyde" "Stirling" Skorpionen Mjï¿½lner Thrudvang
-		Freia Diana Lindormen Stï¿½ren Stubberkï¿½bing Gejser Kiel Falster Narhvalen Tumleren
+		"John Ericsson" Loke Sköld Tirfing Tordön Berserk Björn Folke Sölve Ulf Fenris Garmer Gerda Hildur
+		Skorpionen Mjølner Thrudvang
+		Freia Diana Lindormen Støren Stubberkøbing Gejser Kiel Falster Narhvalen Tumleren
 	}
-	clipper_transport = { 
-		"Flying Spur" "Cutty Sark" "Falls of Clyde" "Glenlee" "Mull of Kintyre" "Walter Scott"
-		"William Wallace" Parkhead Govan Gorgie Leith "Mount Florida" "James Bruce"
-		"David Douglas" "Alexander Gordon Laing" "Patrick Miller" "William Symington"
-		"Archibald Cochrane" "Andrew Moray" "Water of Leith" "River Tay" "Alexander Dalzeel"
-		"John Gow" "William Kidd" "William Greaves"
+	clipper_transport = {
 	}
-	steam_transport = {
-		"Flying Spur" "Cutty Sark" "Falls of Clyde" "Glenlee" "Mull of Kintyre" "Walter Scott"
-		"William Wallace" Parkhead Govan Gorgie Leith "Mount Florida" "James Bruce"
-		"David Douglas" "Alexander Gordon Laing" "Patrick Miller" "William Symington"
-		"Archibald Cochrane" "Andrew Moray" "Water of Leith" "River Tay" "Alexander Dalzeel"
-		"John Gow" "William Kidd" "William Greaves"
+	steam_transport = { 
 	}
 	commerce_raider = {
-		"Enterprise" "Ossian" "Tweed" "Stornoway" Heimdal "Fridtjof Nansen" Nordkapp
-		"Esbern Snare" Fylla Fï¿½rï¿½erne Grï¿½nland Vï¿½kingr "Harald Klak" "Svend Tveskï¿½g" Kattegat ï¿½resund Silkeborg
+		"Björn Järnsida" "Erik Segersäll" "Gardarr Svavarsson" Birka Asgård Kraken Bäckahäst Storsjön Vänern Vättern  
+		Heimdal "Fridtjof Nansen" Nordkapp   
+		"Esbern Snare" Fylla Færøerne Grønland Víkingr "Harald Klak" "Svend Tveskæg" Kattegat Øresund Silkeborg
 	}
 }

@@ -1,31 +1,31 @@
-;;;;Spanish Loc;;;x;
-ANY_ALL;Any province;;;;Spanish Loc;;;x
-HAS_NOT_GOODS;produces ;;;;Spanish Loc;;;x
-IS_IN_REGION; is in the region ;;;;Spanish Loc;;;x
-TRIGMOD_HEADER;The $MONARCHTITLE$ reports that;;;;Spanish Loc;;;x
-TRIGMODLOST_HEADER;The $MONARCHTITLE$ reports that;;;;Spanish Loc;;;x
-TRIGGER_CIV_PROGRESS_LESS;Civilization progress: �Y50�W%;;;;Spanish Loc;;;x
-MAJORITY_IS_NOT;Majority of the population is not ;;;;Spanish Loc;;;x
-nationalist_agitation;Nationalist Agitation;;;;Spanish Loc;;;x
-nationalist_agitation_desc;Nationalists are active in the province, stirring up trouble with random acts of violence. If left unchecked, they may rise in rebellion against us.;;;;Spanish Loc;;;x
-patriot_uprising;Patriot Uprising;;;;Spanish Loc;;;x
-patriot_uprising_desc;Foreign patriots have taken control of the province.;;;;Spanish Loc;;;x
-holy_city;The Holy City;;;;La Ciudad Santa;;;x
-holy_city_desc;Mecca is the center of all Islam. To hold it is to stand above all others, and prove to them that the fate of all Islam lies in our hands.;;;;La Meca es el centro de todo el Islam. Mantenerla es estar por encima de todos los demás, y demostrarles que el destino de todo el Islam está en nuestras manos.;;;x
-shastar_vidya;Shastar Vidiya;;;;Spanish Loc;;;x
-shastar_vidya_desc;The renowned Sikh fighting style, it is a martial art involving sword play ...and has made the Sikhs into fearsome combatants.;;;;Spanish Loc;;;x
-rcmp;R.C.M.P.;;;;R.C.M.P.;;;x
-rcmp_desc;The Royal Canadian Mounted Police was formed to patrol the newly-acquired North-West Territories, eventually uniting with the Dominion Police to keep order throughout all Canadian provinces.;;;;La Real Policía Montada de Canadá se formó para patrullar los recién adquiridos Territorios del Noroeste, y finalmente se unió a la Policía del Dominio para mantener el orden en todas las provincias canadienses.;;;x
-integration_refusal;No Integration;;;;No hay integración;;;x
-integration_refusal_desc;The province is not being integrated into the rest of the country, and being allowed to maintain its separate identity.;;;;La provincia no se integra en el resto del país y se le permite mantener su identidad separada.;;;x
-core_integration;Core Integration;;;;Integración del núcleo;;;x
-core_integration_desc;The province is being integrated into the rest of the country, a slow process that may cause problems here.;;;;La provincia se está integrando en el resto del país, un proceso lento que puede causar problemas aquí.;;;x
-national_confusion;National Confusion;;;;Spanish Loc;;;x
-national_confusion_desc;There has been a great deal of change in our country. It will take some time to sort things out, before business as usual can resume.;;;;Spanish Loc;;;x
-apache_raiders;Apache Raiders;;;;Spanish Loc;;;x
-switched_production;Switched Production;;;;Spanish Loc;;;x
-switched_production_desc;The province has just switched its major production, and locals are still acclimatizing to the change.;;;;Spanish Loc;;;x
-international_pariah;International Pariah;;;;Paria Internacional;;;x
-international_pariah_desc;We are a pariah in the international community for our aggressive policies.;;;;Somos un paria en la comunidad internacional por nuestras políticas agresivas.;;;x
-gateway_to_harbor;Gateway to a New Land;;;;Spanish Loc;;;x
-gateway_to_harbor_desc;Many immigrants from around the world will pass through our great harbor, and a great number of them will remain in the city.;;;;Spanish Loc;;;x
+;;;x;
+ANY_ALL;Any province;;;x
+HAS_NOT_GOODS;produces ;;;x
+IS_IN_REGION; is in the region ;;;x
+TRIGMOD_HEADER;The $MONARCHTITLE$ reports that;;;x
+TRIGMODLOST_HEADER;The $MONARCHTITLE$ reports that;;;x
+TRIGGER_CIV_PROGRESS_LESS;Civilization progress: �Y50�W%;;;x
+MAJORITY_IS_NOT;Majority of the population is not ;;;x
+nationalist_agitation;Nationalist Agitation;;;x
+nationalist_agitation_desc;Nationalists are active in the province, stirring up trouble with random acts of violence. If left unchecked, they may rise in rebellion against us.;;;x
+patriot_uprising;Patriot Uprising;;;x
+patriot_uprising_desc;Foreign patriots have taken control of the province.;;;x
+holy_city;The Holy City;;;x
+holy_city_desc;Mecca is the center of all Islam. To hold it is to stand above all others, and prove to them that the fate of all Islam lies in our hands.;;;x
+shastar_vidya;Shastar Vidiya;;;x
+shastar_vidya_desc;The renowned Sikh fighting style, it is a martial art involving sword play ...and has made the Sikhs into fearsome combatants.;;;x
+rcmp;R.C.M.P.;;;x
+rcmp_desc;The Royal Canadian Mounted Police was formed to patrol the newly-acquired North-West Territories, eventually uniting with the Dominion Police to keep order throughout all Canadian provinces.;;;x
+integration_refusal;No Integration;;;x
+integration_refusal_desc;The province is not being integrated into the rest of the country, and being allowed to maintain its separate identity.;;;x
+core_integration;Core Integration;;;x
+core_integration_desc;The province is being integrated into the rest of the country, a slow process that may cause problems here.;;;x
+national_confusion;National Confusion;;;x
+national_confusion_desc;There has been a great deal of change in our country. It will take some time to sort things out, before business as usual can resume.;;;x
+apache_raiders;Apache Raiders;;;x
+switched_production;Switched Production;;;x
+switched_production_desc;The province has just switched its major production, and locals are still acclimatizing to the change.;;;x
+international_pariah;International Pariah;;;x
+international_pariah_desc;We are a pariah in the international community for our aggressive policies.;;;x
+gateway_to_harbor;Gateway to a New Land;;;x
+gateway_to_harbor_desc;Many immigrants from around the world will pass through our great harbor, and a great number of them will remain in the city.;;;x

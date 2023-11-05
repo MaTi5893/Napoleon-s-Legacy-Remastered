@@ -211,22 +211,22 @@ party = {
 	war_policy = jingoism
 }
 
-#Same as for Austria
+#Same as for Austria-Hungary
 unit_names = {
 	dreadnought = {
 		"Kaiser Max" "Don Juan D'Austria" "Austria" "Hungary" "Budapest" "Wien" "Praha"
 		"Erz. Karl" "Erz. Ferndinand Max" "Erz. Friedrich" "K. Erz. Stephanie" "K. Erz. Rudolf"
-		"Szent Lï¿½szlï¿½" "Monarch" "Arpad" "Babenburg" "Custoza" "Kaiser Franz I" "Kaiser Karl V"
+		"Szent László" "Monarch" "Arpad" "Babenburg" "Custoza" "Kaiser Franz I" "Kaiser Karl V"
 		"Kaiser Franz Joseph II" "Kaiserin Maria Theresia" "Erz. Franz Ferdinand" "Radetzky"
 		"Zrinyi" "Viribis Unitis" "Tegetthoff" "Prinz Eugen" "Prinz Metternich" "Szent Istvan"
 	}
 	battleship = {
-		Habsburg ï¿½rpï¿½d Babenburg "Erzherzog Karl" "Erzherzog Friedrich" "Erzherzog Ferdinand Max" "Erzherzog Franz Ferdinand" Radetzky Zrï¿½nyi
+		Habsburg Árpád Babenburg "Erzherzog Karl" "Erzherzog Friedrich" "Erzherzog Ferdinand Max" "Erzherzog Franz Ferdinand" Radetzky Zrínyi
 	}
 	ironclad = {
-		"Hum" "Trabant" "Taurus" "Vesta" "Dalmat" "Camï¿½lion" "Kopernik" "Drach" "Salamander"
+		"Hum" "Trabant" "Taurus" "Vesta" "Dalmat" "Camälion" "Kopernik" "Drach" "Salamander"
 		"Aquila" "Sterneck" "Principesse Augusta" "Maros" "Leitha"
-		"Szamos" "Kï¿½rï¿½s" "Rï¿½ka" "Gï¿½a" "Gigant"
+		"Szamos" "Körös" "Réka" "Gäa" "Gigant"
 	}
 	manowar = {
 		"Habsburg" "Viribus Unitis" "Ferdinand Max" "Aquila" "Montecuccoli" "Sterneck"
@@ -235,18 +235,18 @@ unit_names = {
 	cruiser = {
 		"Habsburg" "Kaiser Karl IV" "Sankt Georg" "Admiral Spaun" "Saida" "Helgoland"
 		"Novara" "Donau" "Laudon" "Minerva" "Tiger" "Leopold" "Panther" "Csepel" "Dukla"
-		"Kaiman" "Zenta" "Szigetvï¿½r" "Aspern" "Boa" "Pluto" "Zenta" "Uzsok" "Ulan" "Warasdiner"
-		"Streiter" "Schrafschutze" "Wildfang" "Hï¿½chstï¿½dt" "Schwarzenberg" "Frundsberg"
+		"Kaiman" "Zenta" "Szigetvár" "Aspern" "Boa" "Pluto" "Zenta" "Uzsok" "Ulan" "Warasdiner"
+		"Streiter" "Schrafschutze" "Wildfang" "Höchstädt" "Schwarzenberg" "Frundsberg"
 		"Kaiserin Elizabeth" "Kaiser Franz Joseph I" "Aurora" "Inn" "Pola" "Triest"
-		"Lissa" "Tatra" "Triglav" "Balaton" "Csepel" "Huszï¿½r"
+		"Lissa" "Tatra" "Triglav" "Balaton" "Csepel" "Huszár"
 	}
 	frigate = {
 		"Guerriera" "Bellona" "Medea" "Venus" "Admiral Spaun" "Kaiserin Elisabeth" "Saida"
 		"Sankt Georg" "Austria" "Schwarzenberg" "Aurora" "Donau" "Inn" "Pola" "Triest"
 	}
 	monitor = {
-		"Principesse Augusta" "Maros" "Leitha" "Szamos" "Kï¿½rï¿½s" "Rï¿½ka" "Gï¿½a" "Gigant" "Hum"
-		"Trabant" "Taurus" "Vesta" "Dalmat" "Camï¿½lion" "Kopernik" "Drach" "Salamander"
+		"Principesse Augusta" "Maros" "Leitha" "Szamos" "Körös" "Réka" "Gäa" "Gigant" "Hum"
+		"Trabant" "Taurus" "Vesta" "Dalmat" "Camälion" "Kopernik" "Drach" "Salamander"
 		"Aquila" "Sterneck"
 	}
 	clipper_transport = { 
@@ -259,6 +259,6 @@ unit_names = {
 	commerce_raider = {
 		"Novara" "Schwarzenberg" "Helgoland" "Frundsberg" "Aurora" "Saida" "Nautilus"
 		"Albatros" "Donau" "Lacroma" "Lika" "Principesse Augusta" "Austria"
-		"Saida" "Maria Theresia" "Hï¿½chstï¿½dt" "Falke" "Adler" "Delphin"
+		"Saida" "Maria Theresia" "Höchstädt" "Falke" "Adler" "Delphin"
 	}
 }

@@ -140,68 +140,48 @@ party = {
 	citizenship_policy = residency
 	war_policy = jingoism
 }
-
 unit_names = {
 	dreadnought = {
 		"Clas Eriksson Fleming" "Axel Nilsson Ryning" "Carl Carlsson Gyllenhielm" "Gustaf Otto Stenbock" "Lorentz Creutz" "Hans Wachtmeister af Johannishus" 
-		"Henrik af Trolle" "Carl August Ehrensvï¿½rd" Fredrik Johan "Manligheten" "Dristigheten" "Sverige" ï¿½ss Vanr ï¿½lfr Jï¿½tunn
-		"Ulrik Christian Gyldenlï¿½ve" Kï¿½benhavn ï¿½rhus ï¿½lborg Odense Fredriksberg Esbjerg "Nï¿½rrejyske ï¿½" Fyn Jï¿½tlandshaf 
-        Derfflinger "Friedrich der Groï¿½e" Goeben "Groï¿½er Kurfï¿½rst" Helgoland Hindenburg Kaiser Kaiserin Kï¿½nig "Kï¿½nig Albert" Kronprinz Lï¿½tzow 
-		Mackensen Markgraf Moltke Nassau Oldenburg Ostfriesland Posen Rheinland Sachsen Seydlitz Thï¿½ringen Westfalen 
+		"Henrik af Trolle" "Carl August Ehrensvärd" Fredrik Johan "Manligheten" "Dristigheten" "Sverige" Áss Vanr Álfr Jötunn
+		"Ulrik Christian Gyldenløve" København Århus Ålborg Odense Fredriksberg Esbjerg "Nørrejyske Ø" Fyn Jótlandshaf 
+	}
+	battleship = {
+		"Clas Eriksson Fleming" "Axel Nilsson Ryning" "Carl Carlsson Gyllenhielm" "Gustaf Otto Stenbock" "Lorentz Creutz" "Hans Wachtmeister af Johannishus" 
+		"Henrik af Trolle" "Carl August Ehrensvärd" Fredrik Johan "Manligheten" "Dristigheten" "Sverige" Áss Vanr Álfr Jötunn
+		"Ulrik Christian Gyldenløve" København Århus Ålborg Odense Fredriksberg Esbjerg "Nørrejyske Ø" Fyn Jótlandshaf 
 	}
 	ironclad = {
-		Gï¿½teborg Malmï¿½ Uppsala Vï¿½sterï¿½s ï¿½rebro Linkï¿½ping Helsingborg Nynï¿½shamn Karlshamn Halmstad Blenda Astrid Ellida Sleipner Viking Frithjof
-		Rjukan Sarpen Lougen Glommen Helgoland Danmark Gorm Lindormen Odin "Rolf Krake" Tordenskjold "Peder Skram" Dannebrog Gorm "Olfert Fischer" Absalon
-        Arminius Bremen Carola Charlotte Frankfurt "Friedrich Carl" "Friedrich der Groï¿½e" "Groï¿½er Kurfï¿½rst" Hamburg Hansa Kaiser "Kï¿½nig Wilhelm" 
-		Kronprinz Leipzig Lï¿½beck Marie Medusa Mï¿½we Moltke Nixe Oldenburg Olga Otter Pfeil Preuï¿½en "Preuï¿½ischer Adler" "Prinz Adalbert" Sophie 
+		Göteborg Malmö Uppsala Västerås Örebro Linköping Helsingborg Nynäshamn Karlshamn Halmstad Blenda Astrid Ellida Sleipner Viking Frithjof
+		Rjukan Sarpen Lougen Glommen Helgoland Danmark Gorm Lindormen Odin "Rolf Krake" Tordenskjold "Peder Skram" Dannebrog Gorm "Olfert Fischer" Absalon 
 	}
 	manowar = {
-		"Carl XIII" "Karl XIV Johan" "Prins Oscar" "Gustav den Store" Stockholm Fï¿½rsiktigheten Tapperheten "Kung Adolph Fredric" Henrik Tomas 
-		Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros ï¿½rnen 
+		"Carl XIII" "Karl XIV Johan" "Prins Oscar" "Gustav den Store" Stockholm Försiktigheten Tapperheten "Kung Adolph Fredric" Henrik Tomas 
+		Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros Ørnen 
 		"Prins Christian Frederik" Skjold Absalon Ingolf Dannebrog Dagmar Gesjer "Dronning Marie" Waldemar Fredrik 
-        Brandenburg Braunschweig Deutschland Hannover Hessen "Kaiser Barbarossa" "Kaiser Friedrich III" "Kaiser Karl der Groï¿½e" "Kurfï¿½rst Friedrich Wilhelm" 
-		Mecklenburg Pommern Preuï¿½en Schlesien Schleswig-Holstein Wettin
 	}
 	cruiser = {
-		"Claes Uggla" Psilander "Claes Horn" "Jacob Bakke" Ornen Fylgia "Tre Kronor" "Gï¿½ta Lejon" ï¿½stersund Borgholm
+		"Claes Uggla" Psilander "Claes Horn" "Jacob Bakke" Ornen Fylgia "Tre Kronor" "Göta Lejon" Östersund Borgholm
 		Thor Odin Njord Freyr Tyr Bragl Heimdall Hoder Vidar Ale Ullr Forseti
-		Fyen Geiser Heimdal Hekla "St. Thomas" Valkyrien "Herluf Trolle" Sï¿½eormen Susï¿½en Gudenï¿½en
-        Amazone Arcona Ariadne Berlin Blï¿½cher Blitz Bremen Bremse Breslau Brummer Bussard Kï¿½ln Comet Condor Cormoran Danzig Deutschland Dresden
-		Elbing Emden Falke Frankfurt Freya "Friedrich Carl" "Fï¿½rst Bismarck" Gazelle Gefion Geier Gneisenau Graudenz Greif Hamburg Hansa Hela Hertha Irene Jagd 
-		"Kaiserin Augusta" Kï¿½nigsberg Kolberg Leipzig Lï¿½beck Magdeburg Medusa Meteor Niobe Nymphe Pillau "Prinz Adalbert" "Prinz Heinrich" "Prinz Wilhelm" 
-		Regensburg Roon Rostock Scharnhorst Schwalbe Seeadler Sperber Stettin Stralsund Thetis Undine "Victoria Louise" Vineta Wacht Yorck
+		Fyen Geiser Heimdal Hekla "St. Thomas" Valkyrien "Herluf Trolle" Søeormen Susåen Gudenåen
 	}
 	frigate = {
-		Packa "Svarta ï¿½rn" Jarramas Vainqueur Delphin Illerim "Lilla Phoenix" Vï¿½xjï¿½ Gï¿½vle "Baron Gustaf Bonde" 
-		Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros ï¿½rnen
-		Najaden Hummer Stralsund Sï¿½ridder Leopard Raae "Esbern Snare" ï¿½rnen Sjï¿½lland Gefion Thetis "Niels Juel" Rota
-        Adler Albatross Alexandrine Amazone Arcona Ariadne Augusta Barbarossa Basilisk Bismarck Blitz Blï¿½cher Cameleon Comet Cyclop Delphin 
-		"Der Kï¿½nigliche Ernst August" Deutschland Drache Eber Eckernfï¿½rde Elbe Elisabeth "Erzherzog Johann" Franklin Freya Fuchs Gazelle Gefion Gneisenau Grille
-		"Groï¿½herzog von Oldenburg" Habicht Hay Hertha Hyï¿½ne Iltis Jï¿½ger Luise Meteor Natter Niobe Nymphe Pfeil Salamander Schwalbe Skorpion Sperber Stein Stosch
-		Thetis Tiger Undine Victoria Vineta Wespe Wolf Ziethen
+		Packa "Svarta Örn" Jarramas Vainqueur Delphin Illerim "Lilla Phoenix" Växjö Gävle "Baron Gustaf Bonde" 
+		Freia Desideira "St Olaf" "Kong Sverre" Ellida Nordssthernen Nornen Nidaros Ørnen
+		Najaden Hummer Stralsund Søridder Leopard Raae "Esbern Snare" Ørnen Sjælland Gefion Thetis "Niels Juel" Rota
 	}
 	monitor = {
-		"John Ericsson" Loke Skï¿½ld Tirfing Tordï¿½n Berserk Bjï¿½rn Folke Sï¿½lve Ulf Fenris Garmer Gerda Hildur
-		Skorpionen Mjï¿½lner Thrudvang
-		Freia Diana Lindormen Stï¿½ren Stubberkï¿½bing Gejser Kiel Falster Narhvalen Tumleren
-        ï¿½gir Basilisk Beowulf Biene Bremse Brummer Cameleon Crocodill Frithjof Hagen Heimdall Hildebrand Hummel Mï¿½cke Natter Odin Rhein Sachsen
-		Salamander Skorpion Siegfried Viper Wespe
+		"John Ericsson" Loke Sköld Tirfing Tordön Berserk Björn Folke Sölve Ulf Fenris Garmer Gerda Hildur
+		Skorpionen Mjølner Thrudvang
+		Freia Diana Lindormen Støren Stubberkøbing Gejser Kiel Falster Narhvalen Tumleren
 	}
 	clipper_transport = {
-        America Deutschland Elbe Europa Hansa Hela Hermann Hudson "New York" Nord-Amerika Pamir Pangani Passat Peking "Peter Rickmers"
-		Petschili Pisagua Pitlochry Placilla Pola Pommern Potosi Preuï¿½en Priwall Rhein "Rickmer Rickmers" Weser
 	}
 	steam_transport = { 
-        Aachen "Adeline Hugo Stinnes 3" Aller Answald Ausonia Berlin Bonn Braunschweig Bremen Breslau Bï¿½low Kassel Chemnitz Choising Coblenz 
-		Coburg Cormoran Krefeld Danzig Darmstadt Delphin Donau Dresden Eider Eisenach Elbe Ems Erlangen Frankfurt Fulda "General Werder" Gera Giessen Gotha Halle 
-		Hannover Hansa Havel Hermann Hohenstaufen Hohenzollern Kleist Kï¿½ln Lahn Leipzig Libau Lï¿½beck Mark "Minister Roon" Nordsee Oder Oldenburg Oswald Pfalz 
-		Rhein Roon Saale Salier Schleswig Seydlitz Skutari Spree Stettin Therapia Trave Trier Union Wartburg Weimar Werra Weser Willehad Wittekind Zieten
 	}
 	commerce_raider = {
-		"Bjï¿½rn Jï¿½rnsida" "Erik Segersï¿½ll" "Gardarr Svavarsson" Birka Asgï¿½rd Kraken Bï¿½ckahï¿½st Storsjï¿½n Vï¿½nern Vï¿½ttern  
+		"Björn Järnsida" "Erik Segersäll" "Gardarr Svavarsson" Birka Asgård Kraken Bäckahäst Storsjön Vänern Vättern  
 		Heimdal "Fridtjof Nansen" Nordkapp   
-		"Esbern Snare" Fylla Fï¿½rï¿½erne Grï¿½nland Vï¿½kingr "Harald Klak" "Svend Tveskï¿½g" Kattegat ï¿½resund Silkeborg
-        Barbarossa "Kap Trafalgar" Cormoran Iltis "Kaiser Wilhelm der Groï¿½e" "Kronprinz Wilhelm" Leopard Loreley Meteor Mï¿½we "Preuï¿½ischer Adler" 
-		Seeadler Seelï¿½we Vineta Wolf
+		"Esbern Snare" Fylla Færøerne Grønland Víkingr "Harald Klak" "Svend Tveskæg" Kattegat Øresund Silkeborg
 	}
 }

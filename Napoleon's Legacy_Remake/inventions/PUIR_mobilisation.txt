@@ -83,7 +83,6 @@ total_war_mobilisation = {
 				tag = YNN
 				tag = XBI
 				tag = MCK
-				tag = HUI 
 			}
 		} 
 	}

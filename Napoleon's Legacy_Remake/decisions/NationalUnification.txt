@@ -79,9 +79,9 @@ political_decisions = {
 						OR = {
 							province_id = 370 # Ignore Schleswig
 							province_id = 371 # Ignore Schleswig
-							province_id = 410 # Need not have Elsa�-Lothringen
-							province_id = 409 # Need not have Elsa�-Lothringen
-							province_id = 412 # Need not have Elsa�-Lothringen
+							province_id = 410 # Need not have Elsass-Lothringen
+							province_id = 409 # Need not have Elsass-Lothringen
+							province_id = 412 # Need not have Elsass-Lothringen
 							owned_by = THIS
 							owner = {
 								in_sphere = THIS
@@ -444,9 +444,9 @@ political_decisions = {
 				change_province_name = "Kolmar"
 			}
 			409 = {
-				change_province_name = "Stra�burg"
+				change_province_name = "Strassburg"
 				state_scope = {
-					change_region_name = "Elsa�-Lothringen"
+					change_region_name = "Elsass-Lothringen"
 				}
 			}
 			prestige = 5

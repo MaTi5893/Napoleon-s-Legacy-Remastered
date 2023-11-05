@@ -1695,10 +1695,6 @@ issues =
 				military_score = THIS
 			}
 		}
-		modifier = { 
-			factor = 0.5
-			has_country_modifier = signed_the_geneva_convention
-		} 
 	}
 	pro_military = {
 		factor = 1

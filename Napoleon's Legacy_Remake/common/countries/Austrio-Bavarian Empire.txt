@@ -263,7 +263,7 @@ unit_names = {
 		Altmuhl Donau Fellach Iller Inn Isar Lech Naab Pegnitz Regen Saale Windach
 	}
 	steam_transport = { 
-		"Sankt Erhard" "Sankt Georg" "Sankt Hubertus" "Sankt Micha�l" "Sankt Peter" "Sankt Rupert" "Sankt Valentin" "Sankt Willibald" "Sankt Wolfgang"
+		"Sankt Erhard" "Sankt Georg" "Sankt Hubertus" "Sankt Michael" "Sankt Peter" "Sankt Rupert" "Sankt Valentin" "Sankt Willibald" "Sankt Wolfgang"
 	}
 	commerce_raider = {
 		"Novara" "Schwarzenberg" "Helgoland" "Frundsberg" "Aurora" "Saida" "Nautilus"

@@ -111,7 +111,7 @@ unit_names = {
 		
 	}
 	cruiser = {
-		"J�zef Pilsudski" "J�zef Chlopicki" "Michal Gedeon Radziwill" Miedzymorze "Adam Czartoryski" "Wladyslaw Czartoryski" "Aleksander Waszkowski" "Konstanty Kalinowski"
+		"Jozef Pilsudski" "Jozef Chlopicki" "Michal Gedeon Radziwill" Miedzymorze "Adam Czartoryski" "Wladyslaw Czartoryski" "Aleksander Waszkowski" "Konstanty Kalinowski"
 	}
 	frigate = {
 		Mindaugas Butigeidis Vytenis Gediminas Algirdas Kestutis Jogaila "Vytautas Didysis" "Zygimantas Kestutaitis"
@@ -126,6 +126,6 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		 Wisla Odra Windawa Bart�w Neman Dniprer Prypec
+		 Wisla Odra Windawa \ Neman Dniprer Prypec
 	}
 }

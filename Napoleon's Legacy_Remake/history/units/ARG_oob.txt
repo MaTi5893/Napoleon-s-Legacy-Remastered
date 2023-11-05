@@ -8,7 +8,7 @@ leader = {
 	prestige = 0.3
 }
 leader = {
-	name = "Jose Joaqu�� Prieto"
+	name = "Jose Joaquim Prieto"
 	#picture = aus_gen_rukavina
 	date = 1829.1.1
 	type = land
@@ -30,25 +30,25 @@ army = {
 	name = "1. Army"
 	location = 2349
 	regiment = {
-		name= "1. Divisi�n de Infanteru"
+		name= "1. Division de Infanteru"
 		type = infantry
 		home = 2348
 	}
 
 	regiment = {
-		name= "2. Divisi�n de Infanteru"
+		name= "2. Division de Infanteru"
 		type = infantry
 		home = 2348
 	}
 
 	regiment = {
-		name= "3. Divisi�n de Infanteru"
+		name= "3. Division de Infanteru"
 		type = infantry
 		home = 2348
 	}
 
 	regiment = {
-		name= "4. Divisi�n de Infanteru"
+		name= "4. Division de Infanteru"
 		type = infantry
 		home = 2349
 	}
@@ -101,25 +101,25 @@ army = {
 	}
 	
 	regiment = {
-		name= "1. Divisi�n de Infanteru"
+		name= "1. Division de Infanteru"
 		type = infantry
 		home = 2379
 	}
 
 	regiment = {
-		name= "2. Divisi�n de Infanteru"
+		name= "2. Division de Infanteru"
 		type = infantry
 		home = 2379
 	}
 
 	regiment = {
-		name= "3. Divisi�n de Infanteru"
+		name= "3. Division de Infanteru"
 		type = infantry
 		home = 2379
 	}
 
 	regiment = {
-		name= "4. Divisi�n de Infanteru"
+		name= "4. Division de Infanteru"
 		type = infantry
 		home = 2348
 	}

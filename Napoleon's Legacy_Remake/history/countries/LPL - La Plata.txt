@@ -1,7 +1,7 @@
 capital = 2348
 primary_culture = platinean
 religion = catholic
-government = republic
+government = democracy
 plurality = 10.0
 literacy = 0.12
 civilized = yes

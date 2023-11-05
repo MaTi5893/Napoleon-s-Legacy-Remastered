@@ -1,136 +1,136 @@
-#############################################;;;;;;;x
-#New Units;;;;;;;x
-#############################################;;;;;;;x
-infantry_offensive;Offensive Infantry;;;;Infantería ofensiva;;;x
-infantry_defensive;Defensive Infantry;;;;Infantería defensiva;;;x
-artillery_offensive;Offensive Artillery;;;;Artillería ofensiva;;;x
-artillery_defensive;Defensive Artillery;;;;Artillería defensiva;;;x
-#############################################;;;;;;;x
-#Generic Political Parties;;;;;;;x
-#############################################;;;;;;;x
-generic_conservative;Generic Conservative;;;;Conservador generico;;;x
-generic_reactionary;Generic Reactionary;;;;Reaccionario generico;;;x
-generic_liberal;Generic Liberal;;;;Liberal generico;;;x
-generic_socialist;Generic Socialist;;;;Socialista generico;;;x
-generic_communist;Generic Communist;;;;Comunista generico;;;x
-generic_fascist;Generic Fascist;;;;Fascista generico;;;x
-#############################################;;;;;;;x
-#Event and Decision Names;;;;;;;x
-#############################################;;;;;;;x
-EVTOPTA99999901;Nice.;;;;!Me parece bien!;;;x
-EVTOPTA99999902;Nice.;;;;!Me parece bien!;;;x
-EVTOPTA99999903;Nice.;;;;!Me parece bien!;;;x
-EVTOPTA99999904;Nice.;;;;!Me parece bien!;;;x
-EVTOPTA99999905;Nice.;;;;!Me parece bien!;;;x
-EVTNAME99999901;Tractors and Trawlers;;;;Tractores y arrastreros;;;x
-EVTDESC99999901;Mechanized farming, mining, and fishing has arrived in this country, which facilitates an increase in raw resource production.;;;;La agricultura, la minería y la pesca mecanizadas han llegado a este país, lo que facilita el aumento de la producción de materias primas.;;;x
+#############################################;;;x
+#New Units;;;x
+#############################################;;;x
+infantry_offensive;Offensive Infantry;;;x
+infantry_defensive;Defensive Infantry;;;x
+artillery_offensive;Offensive Artillery;;;x
+artillery_defensive;Defensive Artillery;;;x
+#############################################;;;x
+#Generic Political Parties;;;x
+#############################################;;;x
+generic_conservative;Generic Conservative;;;x
+generic_reactionary;Generic Reactionary;;;x
+generic_liberal;Generic Liberal;;;x
+generic_socialist;Generic Socialist;;;x
+generic_communist;Generic Communist;;;x
+generic_fascist;Generic Fascist;;;x
+#############################################;;;x
+#Event and Decision Names;;;x
+#############################################;;;x
+EVTOPTA99999901;Nice.;;;x
+EVTOPTA99999902;Nice.;;;x
+EVTOPTA99999903;Nice.;;;x
+EVTOPTA99999904;Nice.;;;x
+EVTOPTA99999905;Nice.;;;x
+EVTNAME99999901;Tractors and Trawlers;;;x
+EVTDESC99999901;Mechanized farming, mining, and fishing has arrived in this country, which facilitates an increase in raw resource production.;;;x
 EVTNAME99999902;Electricity;;;Electricidad;;;x
-EVTDESC99999902;Electricity has arrived in this country, which facilitates an increase in raw resource production and industrial throughput.;;;;La electricidad ha llegado a este país, lo que facilita el aumento de la producción de materias primas y del rendimiento industrial.;;;x
-EVTNAME99999903;Nitroglycerin;;;;Nitroglicerina;;;x
-EVTDESC99999903;Nitroglycerin has arrived in this country, which facilitates an increase in raw resource production.;;;;La nitroglicerina ha llegado a este país, lo que facilita el aumento de la producción de recursos en bruto.;;;x
-EVTNAME99999904;Commercial Retailers;;;;Minoristas comerciales;;;x
-EVTDESC99999904;Establishment of complex distribution channels has begun in this country, which facilitates an increase in raw resource production.;;;;En este país se ha iniciado el establecimiento de complejos canales de distribución, lo que facilita el aumento de la producción de recursos en bruto.;;;x
-EVTNAME99999905;Mechanized Production;;;;Producción mecanizada;;;x
-EVTDESC99999905;Mechanized production has arrived in this country, which facilitates an increase in raw resource production and industrial throughput.;;;;La producción mecanizada ha llegado a este país, lo que facilita el aumento de la producción de recursos brutos y del rendimiento industrial.;;;x
-country_tractors;Tractors and Trawlers;;;;Tractores y arrastreros;;;x
-desc_country_tractors;Mechanized farming, mining, and fishing has arrived in this country, which facilitates an increase in raw resource production.;;;;La agricultura, la minería y la pesca mecanizadas han llegado a este país, lo que facilita el aumento de la producción de materias primas.;;;x
-country_electricity;Electricity;;;;Electricidad;;;x
-desc_country_electricity;Electricity has arrived in this country, which facilitates an increase in raw resource production.;;;;La electricidad ha llegado a este país, lo que facilita el aumento de la producción de materias primas.;;;x
-country_nitroglycerin;Nitroglycerin;;;;Nitroglicerina;;;x
-desc_country_nitroglycerin;Nitroglycerin has arrived in this country, which facilitates an increase in raw resource production.;;;;La nitroglicerina ha llegado a este país, lo que facilita el aumento de la producción de recursos en bruto.;;;x
-country_distribution_channels;Commercial Retailers;;;;Minoristas comerciales;;;x
-desc_country_distribution_channels;Establishment of complex distribution channels have begun in this country, which facilitates an increase in raw resource production.;;;;En este país se han empezado a establecer complejos canales de distribución, lo que facilita el aumento de la producción de recursos en bruto.;;;x
-country_machine_tools;Mechanized Production;;;;Producción mecanizada;;;x
-desc_country_machine_tools;Mechanized production has arrived in this country, which facilitates an increase in raw resource production and industrial throughput.;;;;La producción mecanizada ha llegado a este país, lo que facilita el aumento de la producción de recursos brutos y del rendimiento industrial.;;;x
-equatoria_expedition_ARA_title;Launch Equatoria Expedition;;;;Lanzamiento de la Expedición Equatoria;;;x
-equatoria_expedition_ARA_desc;The Khedive of Egypt, Ismail I commissioned an expedition to explore the Equatoria region south of the Sudan, and to organize a new Egyptian province there. A British explorer and engineer named Samuel White Baker who had led an expedition down the Nile in 1865 was contracted by the Khedive to lead the Egyptian forces and to be the first Governor-General of the new territory..;;;;El jedive de Egipto, Ismail I, encargó una expedición para explorar la región de Ecuatoria, al sur de Sudán, y organizar allí una nueva provincia egipcia. Un explorador e ingeniero británico llamado Samuel White Baker, que había dirigido una expedición por el Nilo en 1865, fue contratado por el jedive para dirigir las fuerzas egipcias y ser el primer gobernador general del nuevo territorio...;;;x
-conquest_of_darfur_ARA_title;Begin Conquest of Darfur;;;;Comienza la conquista de Darfur;;;x
-conquest_of_darfur_ARA_desc;An expansionist Khedive, Ismail I moved to incorporate the territory of Darfur into the Egyptian Sudan in 1874.;;;;Ismail I, un jedive expansionista, se propuso incorporar el territorio de Darfur al Sudán egipcio en 1874.;;;x
-craftsmen_fix_cooldown;Craftsmen Fix Cooldown;;;;Esto hizo que los trabajadores se convirtieran en artesanos.;;;x
-craftsmen_fix_cooldown_desc;Craftsmen Fix Cooldown is 10 years.;;;;Se puede tomar esta decisión cada 10 anos;;;x
-bureaucrats_fix_cooldown;Non-Accepted Bureaucrats Fix Cooldown;;;; Convertir a los burócratas no aceptados en artesanos;;;x
-bureaucrats_fix_cooldown_desc;Non-Accepted Bureaucrats Fix Cooldown is 10 years.;;;;Convertir a los burócratas no aceptados en artesanos. Se puede tomar esta decisión cada 10 anos;;;x 
-EVTNAME9999901;Craftsmen Exploit Salvage;;;;Los artesanos explotan el salvamento;;;x
-EVTDESC9999901;This event converts all non-core/non-accepted craftsmen on your cores into artisans.;;;;Este evento convierte en artesanos a todos los artesanos no aceptados en tus núcleos.;;;x
-EVT2600OPTA;Integrate Them.;;;;Integralos.;;;x
-EVT2600OPTB;Reject Them.;;;;Recházalos.;;;x
-EVT2605OPTA;Hurrah!;;;;!Hurra!;;;x
-craftsmen_fix_title;Craftsmen Salvage Decision (10 year cooldown);;;;Decisión para cambiar a los trabajadores no aceptados.;;;x
-craftsmen_fix_desc;This decision is intended to salvage your country after it has been craftsmen hijacked. It will revert all non-core/non-accepted craftsmen on your cores to artisans so that your core craftsmen will start working. (Think South Germans in Venetia hijacking.) BE CAREFUL OF USE.;;;;Esta decisión pretende salvar tu país despues de que haya sido secuestrado por artesanos. Revertirá a todos los artesanos no primeras/no aceptados en tus núcleos a artesanos para que tus artesanos centrales empiecen a trabajar. (Piensa en los alemanes del sur en el secuestro de Venecia).  TENGA CUIDADO CON EL USO.;;;x
-bureaucrats_fix_title;Non-Accepted Bureaucrats Decision (10 year cooldown);;;;Decision sobre los burócratas no aceptados.;;;x
-bureaucrats_fix_desc;This decision is intended to convert non-accepted Bureaucrats into Artisans, in both states and colonies, so they stop getting fat off of state admin funding.;;;;Esta decisión pretende convertir a los burócratas no aceptados en artesanos, tanto en los estados como en las colonias, para que dejen de engordar con los fondos de la administración estatal.;;;x
-france_sphere_jap_title;Ask The French Empire for Support;;;;Pida apoyo al Imperio frances;;;x
-france_sphere_jap_desc;While France rules in Europe, we can rule in Asia, making an alliance between our two nations a logical decision. They will understand then that we require her resources to prosper in our time of need. (Decision only available in 1836);;;;Mientras Francia gobierna en Europa, nosotros podemos gobernar en Asia, por lo que una alianza entre nuestras dos naciones es una decisión lógica. Comprenderán entonces que necesitamos sus recursos para prosperar en nuestros tiempos de necesidad. (Decisión sólo disponible en 1836);;;x
-usa_sphere_jap_title;Ask the United States for Support;;;;Pedir apoyo a Estados Unidos;;;x
-usa_sphere_jap_desc;Clearly we cannot trust other interests in Asia, but we can't fuel this machine on good will. There appears to be a budding nation across the Pacific... they may be able to provide us with markets in our time of need. (Decision only available in 1836);;;;Está claro que no podemos confiar en otros intereses en Asia, pero no podemos alimentar esta máquina con buena voluntad. Parece que hay una nación en ciernes al otro lado del Pacífico... puede que nos proporcionen mercados en nuestros momentos de necesidad. (Decisión sólo disponible en 1836);;;x
-rus_sphere_jap_title;Ask Russian Empire for Support;;;;Pida apoyo al Imperio Ruso;;;x
-rus_sphere_jap_desc;If our interests are in China, then surely allying ourselves with the next best thing to overcome her would be the right course of action. (Decision only available in 1836);;;;Si nuestros intereses están en China, entonces seguramente aliarnos con la siguiente mejor opción para vencerla sería el curso de acción correcto. (Decisión sólo disponible en 1836);;;x
-change_tech_school_on_title;Change Tech School (Hidden);;;;Cambiar la escuela tecnica (oculta);;;x
-change_tech_school_on_desc;Show Tech School Decisions;;;;Mostrar las decisiones de la escuela tecnica;;;x
-change_tech_school_off_title;Change Tech School (Showing);;;;Cambiar la escuela tecnica (mostrar);;;x
-change_tech_school_off_desc;Hide Tech School Decisions;;;;Ocultar las decisiones de la escuela tecnica;;;x
-player_alliances_title;Ally All Player Nations;;;;Ally Todos los jugadores de las naciones;;;x
-player_alliances_desc;Automatically allies all player nations. DO NOT SPAM.;;;;Alía automáticamente todas las naciones de los jugadores. NO HACER SPAM.;;;x
-assert_on_steppe_title;Assert Ourselves in Central Asia;;;;Afirmarnos en Asia Central;;;x
-assert_on_steppe_desc;The Major Powers chaffing at our periphery is inclining us to attempt projecting into the steppe, but who could possibly own such a vast region with land ownership? The real value is the people themselves.;;;;Las grandes potencias que se agitan en nuestra periferia nos inclinan a intentar proyectarnos en la estepa, pero ?quien podría poseer una región tan vasta con la propiedad de la tierra? El verdadero valor es la propia gente.;;;x
-enact_the_homestead_act_mexico_title;The Mexican Homestead Act;;;;Ley de Asentamientos Rurales de Mexico;;;x
-enact_the_homestead_act_mexico_desc;During this time period, there were land reforms in Mexico very similar to the United States Homestead Act.;;;;Durante este periodo de tiempo, hubo reformas agrarias en Mexico muy similares a la Homestead Act de Estados Unidos.;;;x
-#############################################;;;;;;;x
-double_down_in_the_balkans_title;Double Down in the Balkans;;;;Doblete en los Balcanes;;;x
-double_down_in_the_balkans_desc;For too long have the peoples of the Balkans thwarted our efforts of expansion. Let us focus all our attention to the re-education and assimilation of these barbaric peoples.;;;;Durante demasiado tiempo los pueblos de los Balcanes han frustrado nuestros esfuerzos de expansión. Centremos toda nuestra atención en la reeducación y asimilación de estos pueblos bárbaros.;;;x
-#############################################;;;;;;;x
-#Additional Provinces;;;;;;;x
-#############################################;;;;;;;x
-PROV3258;Benevento;;;;Benevento;;;x
-PROV3259;Avellino;;;;Avellino;;;x
-PROV3260;Rieta;;;;Rieta;;;x
-#############################################;;;;;;;x
-#Additional CBs;;;;;;;x
-#############################################;;;;;;;x
-demand_concession_casus_belli_china;Chinese Core Concession;;;;Concesión de núcleo chino;;;x
-demand_concession_casus_belli_china_short;Demand $STATE$ from China;;;;Exigir $STATE$ a China;;;x
-demand_concession_casus_belli_china_desc;Force China to concede core territory.;;;;Obligar a China a ceder el territorio principal.;;;x
-demand_concession_casus_belli_china_setup;Demand that $RECIPIENT$ secede territory.;;;;Exigir a los $RECIPIENTES$ la secesión del territorio.;;;x
-#############################################;;;;;;;x
-#Additional Modifiers;;;;;;;x
-#############################################;;;;;;;x
-the_homestead_act_mexico_title;The Mexican Homestead Act;;;;Ley de Asentamientos Rurales de Mexico;;;x
-the_homestead_act_mexico_desc;During this time period, there were land reforms in Mexico very similar to the United States Homestead Act.;;;;Durante este periodo de tiempo, hubo reformas agrarias en Mexico muy similares a la Homestead Act de Estados Unidos.;;;x
-policestate_modifier;The Police State;;;;Estado policial;;;x
-policestate_modifier_desc;You have an active Police State.;;;;Tiene un Estado policial activo.;;;x
-one_party_state_modifier;One Party State;;;;Estado monopartidista;;;x
-one_party_state_modifier_desc;You have an active One Party State.;;;;Tienes un Estado monopartidista activo.;;;x
-totalitarianism_modifier;Totalitarian;;;;Totalitario;;;x
-totalitarianism_modifier_desc;You have an active Totalitarianist government.;;;;Tienes un gobierno totalitario activo.;;;x
-leadership_principle_modifier;The Leadership Principle;;;;El principio de liderazgo;;;x
-leadership_principle_modifier_desc;Your people are enthralled by the Leadership Principle.;;;;Su gente está cautivada por el Principio de Liderazgo.;;;x
-ultranationalism_modifier;Ultranationalism;;;;Ultranacionalismo;;;x
-ultranationalism_modifier_desc;Your people are enthralled by Ultranationalism.;;;;Su pueblo está cautivado por el ultranacionalismo.;;;x
-collectivisation_modifier;Collectivisation;;;;Colectivización;;;x
-collectivisation_modifier_desc;Your people are enthralled by Collectivisation.;;;;Su pueblo está cautivado por la colectivización.;;;x
-classless_society_modifier;Classless Society;;;;Sociedad sin clases;;;x
-classless_society_modifier_desc;Your people have created a Classless Society.;;;;Su gente ha creado una sociedad sin clases.;;;x
-#############################################;;;;;;;x
-#Additional Cultures;;;;;;;x
-#############################################;;;;;;;x
-andean;Andean;;;;Andina;;;x
-aryan;Aryan;;;;Aria;;;x
-turkic;Turkic;;;;Turca;;;x
-#############################################;;;;;;;x
-#Additional Generic Fixes and Additions;;;;;;;x
-#############################################;;;;;;;x
-UNIT_BUILD_TIME_IW;$VAL$ days.;;;;;;;x
-#############################################;;;;;;;x
-#Additional Inventions;;;;;;;x
-#############################################;;;;;;;x
-industrial_tanneries;Industrial Tanneries;;;;Curtiembres industriales;;;x
-industrial_tanneries_desc;In the Victorian era tanneries were often close to the abattoirs and so the skins would often arrive at the tannery fresh and unsalted. With industrial levels of meat consumption, it was inevitable that the leather industry advance as well.;;;;En la epoca victoriana, las curtidurías solían estar cerca de los mataderos, por lo que las pieles solían llegar a la curtiduría frescas y sin salar. Con los niveles industriales de consumo de carne, era inevitable que la industria del cuero avanzara tambien.;;;x
-offensive_infantry_activation;Activate Offensive Infantry;;;;Activar la infantería ofensiva;;;x
-defensive_infantry_activation;Activate Defensive Infantry;;;;Activar la infantería defensiva;;;x
-offensive_artillery_activation;Activate Offensive Artillery;;;;Activar la artillería ofensiva;;;x
-defensive_artillery_activation;Activate Defensive Artillery;;;;Activar la artillería defensiva;;;x
-#############################################;;;;;;;x
-#Additional Triggered Modifiers;;;;;;;;;;;;;;x
-#############################################;;;;;;;x
-political_reformed_nation;Politically Liberal State;;;;Estado políticamente liberal;;;x
-political_reformed_nation_desc;Our country political reforms match every liberal demand, giving us international recognition as a truly free state.;;;;Las reformas políticas de nuestro país están a la altura de todas las exigencias liberales, lo que nos permite ser reconocidos internacionalmente como un Estado verdaderamente libre.;;;x
+EVTDESC99999902;Electricity has arrived in this country, which facilitates an increase in raw resource production and industrial throughput.;;;x
+EVTNAME99999903;Nitroglycerin;;;x
+EVTDESC99999903;Nitroglycerin has arrived in this country, which facilitates an increase in raw resource production.;;;x
+EVTNAME99999904;Commercial Retailers;;;x
+EVTDESC99999904;Establishment of complex distribution channels has begun in this country, which facilitates an increase in raw resource production.;;;x
+EVTNAME99999905;Mechanized Production;;;x
+EVTDESC99999905;Mechanized production has arrived in this country, which facilitates an increase in raw resource production and industrial throughput.;;;x
+country_tractors;Tractors and Trawlers;;;x
+desc_country_tractors;Mechanized farming, mining, and fishing has arrived in this country, which facilitates an increase in raw resource production.;;;x
+country_electricity;Electricity;;;x
+desc_country_electricity;Electricity has arrived in this country, which facilitates an increase in raw resource production.;;;x
+country_nitroglycerin;Nitroglycerin;;;x
+desc_country_nitroglycerin;Nitroglycerin has arrived in this country, which facilitates an increase in raw resource production.;;;x
+country_distribution_channels;Commercial Retailers;;;x
+desc_country_distribution_channels;Establishment of complex distribution channels have begun in this country, which facilitates an increase in raw resource production.;;;x
+country_machine_tools;Mechanized Production;;;x
+desc_country_machine_tools;Mechanized production has arrived in this country, which facilitates an increase in raw resource production and industrial throughput.;;;x
+equatoria_expedition_ARA_title;Launch Equatoria Expedition;;;x
+equatoria_expedition_ARA_desc;The Khedive of Egypt, Ismail I commissioned an expedition to explore the Equatoria region south of the Sudan, and to organize a new Egyptian province there. A British explorer and engineer named Samuel White Baker who had led an expedition down the Nile in 1865 was contracted by the Khedive to lead the Egyptian forces and to be the first Governor-General of the new territory..;;;x
+conquest_of_darfur_ARA_title;Begin Conquest of Darfur;;;x
+conquest_of_darfur_ARA_desc;An expansionist Khedive, Ismail I moved to incorporate the territory of Darfur into the Egyptian Sudan in 1874.;;;x
+craftsmen_fix_cooldown;Craftsmen Fix Cooldown;;;x
+craftsmen_fix_cooldown_desc;Craftsmen Fix Cooldown is 10 years.;;;x
+bureaucrats_fix_cooldown;Non-Accepted Bureaucrats Fix Cooldown;;;x
+bureaucrats_fix_cooldown_desc;Non-Accepted Bureaucrats Fix Cooldown is 10 years.;;;x 
+EVTNAME9999901;Craftsmen Exploit Salvage;;;x
+EVTDESC9999901;This event converts all non-core/non-accepted craftsmen on your cores into artisans.;;;x
+EVT2600OPTA;Integrate Them.;;;x
+EVT2600OPTB;Reject Them.;;;x
+EVT2605OPTA;Hurrah!;;;x
+craftsmen_fix_title;Craftsmen Salvage Decision (10 year cooldown);;;x
+craftsmen_fix_desc;This decision is intended to salvage your country after it has been craftsmen hijacked. It will revert all non-core/non-accepted craftsmen on your cores to artisans so that your core craftsmen will start working. (Think South Germans in Venetia hijacking.) BE CAREFUL OF USE.;;;x
+bureaucrats_fix_title;Non-Accepted Bureaucrats Decision (10 year cooldown);;;x
+bureaucrats_fix_desc;This decision is intended to convert non-accepted Bureaucrats into Artisans, in both states and colonies, so they stop getting fat off of state admin funding.;;;x
+france_sphere_jap_title;Ask The French Empire for Support;;;x
+france_sphere_jap_desc;While France rules in Europe, we can rule in Asia, making an alliance between our two nations a logical decision. They will understand then that we require her resources to prosper in our time of need. (Decision only available in 1836);;;x
+usa_sphere_jap_title;Ask the United States for Support;;;x
+usa_sphere_jap_desc;Clearly we cannot trust other interests in Asia, but we can't fuel this machine on good will. There appears to be a budding nation across the Pacific... they may be able to provide us with markets in our time of need. (Decision only available in 1836);;;x
+rus_sphere_jap_title;Ask Russian Empire for Support;;;x
+rus_sphere_jap_desc;If our interests are in China, then surely allying ourselves with the next best thing to overcome her would be the right course of action. (Decision only available in 1836);;;x
+change_tech_school_on_title;Change Tech School (Hidden);;;x
+change_tech_school_on_desc;Show Tech School Decisions;;;x
+change_tech_school_off_title;Change Tech School (Showing);;;x
+change_tech_school_off_desc;Hide Tech School Decisions;;;x
+player_alliances_title;Ally All Player Nations;;;x
+player_alliances_desc;Automatically allies all player nations. DO NOT SPAM.;;;x
+assert_on_steppe_title;Assert Ourselves in Central Asia;;;x
+assert_on_steppe_desc;The Major Powers chaffing at our periphery is inclining us to attempt projecting into the steppe, but who could possibly own such a vast region with land ownership? The real value is the people themselves.;;;x
+enact_the_homestead_act_mexico_title;The Mexican Homestead Act;;;x
+enact_the_homestead_act_mexico_desc;During this time period, there were land reforms in Mexico very similar to the United States Homestead Act.;;;x
+#############################################;;;x
+double_down_in_the_balkans_title;Double Down in the Balkans;;;x
+double_down_in_the_balkans_desc;For too long have the peoples of the Balkans thwarted our efforts of expansion. Let us focus all our attention to the re-education and assimilation of these barbaric peoples.;;;x
+#############################################;;;x
+#Additional Provinces;;;x
+#############################################;;;x
+PROV3258;Benevento;;;x
+PROV3259;Avellino;;;x
+PROV3260;Rieta;;;x
+#############################################;;;x
+#Additional CBs;;;x
+#############################################;;;x
+demand_concession_casus_belli_china;Chinese Core Concession;;;x
+demand_concession_casus_belli_china_short;Demand $STATE$ from China;;;x
+demand_concession_casus_belli_china_desc;Force China to concede core territory.;;;x
+demand_concession_casus_belli_china_setup;Demand that $RECIPIENT$ secede territory.;;;x
+#############################################;;;x
+#Additional Modifiers;;;x
+#############################################;;;x
+the_homestead_act_mexico_title;The Mexican Homestead Act;;;x
+the_homestead_act_mexico_desc;During this time period, there were land reforms in Mexico very similar to the United States Homestead Act.;;;x
+policestate_modifier;The Police State;;;x
+policestate_modifier_desc;You have an active Police State.;;;x
+one_party_state_modifier;One Party State;;;x
+one_party_state_modifier_desc;You have an active One Party State.;;;x
+totalitarianism_modifier;Totalitarian;;;x
+totalitarianism_modifier_desc;You have an active Totalitarianist government.;;;x
+leadership_principle_modifier;The Leadership Principle;;;x
+leadership_principle_modifier_desc;Your people are enthralled by the Leadership Principle.;;;x
+ultranationalism_modifier;Ultranationalism;;;x
+ultranationalism_modifier_desc;Your people are enthralled by Ultranationalism.;;;x
+collectivisation_modifier;Collectivisation;;;x
+collectivisation_modifier_desc;Your people are enthralled by Collectivisation.;;;x
+classless_society_modifier;Classless Society;;;x
+classless_society_modifier_desc;Your people have created a Classless Society.;;;x
+#############################################;;;x
+#Additional Cultures;;;x
+#############################################;;;x
+andean;Andean;;;x
+aryan;Aryan;;;x
+turkic;Turkic;;;x
+#############################################;;;x
+#Additional Generic Fixes and Additions;;;x
+#############################################;;;x
+UNIT_BUILD_TIME_IW;$VAL$ days.;;;x
+#############################################;;;x
+#Additional Inventions;;;x
+#############################################;;;x
+industrial_tanneries;Industrial Tanneries;;;x
+industrial_tanneries_desc;In the Victorian era tanneries were often close to the abattoirs and so the skins would often arrive at the tannery fresh and unsalted. With industrial levels of meat consumption, it was inevitable that the leather industry advance as well.;;;x
+offensive_infantry_activation;Activate Offensive Infantry;;;x
+defensive_infantry_activation;Activate Defensive Infantry;;;x
+offensive_artillery_activation;Activate Offensive Artillery;;;x
+defensive_artillery_activation;Activate Defensive Artillery;;;x
+#############################################;;;x
+#Additional Triggered Modifiers;;;x
+#############################################;;;x
+political_reformed_nation;Politically Liberal State;;;x
+political_reformed_nation_desc;Our country political reforms match every liberal demand, giving us international recognition as a truly free state.;;;x

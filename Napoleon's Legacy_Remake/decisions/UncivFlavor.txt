@@ -249,11 +249,7 @@ political_decisions = {
 			prestige = 5
 			1859 = {
 				change_province_name = "Addis Ababa"
-				life_rating = 5
-				state_scope = {
-					any_owned = { colony = 0 }
-				}
-					
+				life_rating = 5	
 			}
 			capital = 1859
 		}

@@ -510,7 +510,7 @@ SIC = {
     color3= { 131 101 85  }
 }
 
-# Siebenb�rgen
+# Siebenburgen
 SIE = {
     color1= { 75 111 205  }
     color2= { 124 140 162  }

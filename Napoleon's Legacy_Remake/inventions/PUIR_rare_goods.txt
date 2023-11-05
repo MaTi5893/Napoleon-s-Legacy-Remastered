@@ -52,7 +52,6 @@ silk_waste_spinning = {
 			OR = {
 				tag = CHI
 				tag = GXI
-				tag = TPG
 			} 
 		}
 	}

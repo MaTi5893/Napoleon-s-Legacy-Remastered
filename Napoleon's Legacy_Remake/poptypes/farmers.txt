@@ -122,19 +122,15 @@ migration_target =
 {
 	factor = 0.01
 	
-#test?	
 	modifier = {
-		factor = -1000
+		factor = -100
 		OR = {
 			has_pop_type = farmers
 			has_pop_type = labourers
 		}
-		unemployment_by_type = {
-			OR = {
-				type = farmers
-				type = labourers
-			}
-			value = 0.01
+		OR = {
+			unemployment_by_type = { value = 0.01 type = farmers }
+			unemployment_by_type = { value = 0.01 type = labourers }
 		}
 	}
 	
@@ -637,8 +633,6 @@ promote_to =
 				OR = { 
 					culture = nanfaren
 					culture = beifaren
-					culture = yue
-					culture = min
 					is_culture_group = south_asian
 				}	
 				state_scope = {
@@ -1870,10 +1864,6 @@ issues =
 				military_score = THIS
 			}
 		}
-		modifier = { 
-			factor = 0.5
-			has_country_modifier = signed_the_geneva_convention
-		} 
 	}
 	pro_military = {
 		factor = 1

@@ -1,129 +1,129 @@
-chungus;key;;;;Spanish Loc;;;x
-ARO;Aro;;;;Spanish Loc;;;x
-ARO_ADJ;Aro;;;;Spanish Loc;;;x
-ARO_conservative;Eze Aro Faction;;;;Spanish Loc;;;x
-ARO_liberal;Reform Faction;;;;Spanish Loc;;;x
-ARO_reactionary;Empire Faction;;;;Spanish Loc;;;x
-ARO_anarcho_liberal;Radical Faction;;;;Spanish Loc;;;x
-ARO_socialist;Socialist Faction;;;;Spanish Loc;;;x
-ARO_communist;Communist Faction;;;;Spanish Loc;;;x
-ARO_fascist;Fascist Faction;;;;Spanish Loc;;;x
-ARO_proletarian_dictatorship;Biafra;;;;Spanish Loc;;;x
-ARO_proletarian_dictatorship_ADJ;Biafran;;;;Spanish Loc;;;x
-ARO_fascist_dictatorship;Biafra;;;;Spanish Loc;;;x
-ARO_fascist_dictatorship_ADJ;Biafran;;;;Spanish Loc;;;x
-ARO_bourgeois_dictatorship;Biafra;;;;Spanish Loc;;;x
-ARO_bourgeois_dictatorship_ADJ;Biafran;;;;Spanish Loc;;;x
-ARO_presidential_dictatorship;Biafra;;;;Spanish Loc;;;x
-ARO_presidential_dictatorship_ADJ;Biafran;;;;Spanish Loc;;;x
-ARO_democracy;Biafra;;;;Spanish Loc;;;x
-ARO_democracy_ADJ;Biafran;;;;Spanish Loc;;;x
-ASH;Ashanti;;;;Spanish Loc;;;x
-ASH_ADJ;Ashanti;;;;Spanish Loc;;;x
-ASH_conservative;Royal Faction;;;;Spanish Loc;;;x
-ASH_liberal;Reform Faction;;;;Spanish Loc;;;x
-ASH_reactionary;Empire Faction;;;;Spanish Loc;;;x
-ASH_conservative_2;National Liberation Movement;;;;Spanish Loc;;;x
-ASH_liberal_2;United Gold Coast Convention;;;;Spanish Loc;;;x
-ASH_reactionary_2;National Liberation Council;;;;Spanish Loc;;;x
-ASH_anarcho_liberal;Progress Party;;;;Spanish Loc;;;x
-ASH_socialist;Ghana Congress Party;;;;Spanish Loc;;;x
-ASH_communist;Convention People's Party;;;;Spanish Loc;;;x
-ASH_fascist;Popular Front Party;;;;Spanish Loc;;;x
-BEN;Benin;;;;Spanish Loc;;;x
-BEN_ADJ;Beninese;;;;Spanish Loc;;;x
-BEN_conservative;Oba's Faction;;;;Spanish Loc;;;x
-BEN_liberal;Reform Faction;;;;Spanish Loc;;;x
-BEN_reactionary;Military Faction;;;;Spanish Loc;;;x
-BEN_anarcho_liberal;Radical Faction;;;;Spanish Loc;;;x
-BEN_socialist;People's Faction;;;;Spanish Loc;;;x
-BEN_communist;Communist Faction;;;;Spanish Loc;;;x
-BEN_fascist;Fascist Faction;;;;Spanish Loc;;;x
-CLA;Calabar;;;;Spanish Loc;;;x
-CLA_ADJ;Calabarean;;;;Spanish Loc;;;x
-CLA_conservative;Duke Town Faction;;;;Spanish Loc;;;x
-CLA_liberal;Creek Town Faction;;;;Spanish Loc;;;x
-CLA_reactionary;Empire Faction;;;;Spanish Loc;;;x
-CLA_anarcho_liberal;Radical Faction;;;;Spanish Loc;;;x
-CLA_socialist;Socialist Faction;;;;Spanish Loc;;;x
-CLA_communist;Communist Faction;;;;Spanish Loc;;;x
-CLA_fascist;Fascist Faction;;;;Spanish Loc;;;x
-DAH;Borgu;;;;Spanish Loc;;;x
-DAH_ADJ;Borgan;;;;Spanish Loc;;;x
-DAH_conservative;Ahosu Faction;;;;Spanish Loc;;;x
-DAH_liberal;Liberal Faction;;;;Spanish Loc;;;x
-DAH_reactionary;Empire Faction;;;;Spanish Loc;;;x
-DAH_conservative_2;Progressive Union;;;;Spanish Loc;;;x
-DAH_reactionary_2;Ethnic Group of the North;;;;Spanish Loc;;;x
-DAH_liberal_2;Republican Party;;;;Spanish Loc;;;x
-DAH_anarcho_liberal;BMFD;;;;Spanish Loc;;;x
-DAH_socialist;African People's Bloc;;;;Spanish Loc;;;x
-DAH_communist;People's Revolutionary Party;;;;Spanish Loc;;;x
-DAH_fascist;Fascist Front;;;;Spanish Loc;;;x
-GBU;Guinea-Bissau;;;;;;;;;;;;;;;;;;;;;;;Spanish Loc;;;x;;;
-GBU_absolute_monarchy;Gabu;;;;Spanish Loc;;;x
-GBU_absolute_monarchy_ADJ;Gabuan;;;;Spanish Loc;;;x
-GBU_ADJ;Bissau-Guinean;;;;Spanish Loc;;;x
-GBU_conservative;Mansaba Faction;;;;Spanish Loc;;;x
-GBU_liberal;Reform Faction;;;;Spanish Loc;;;x
-GBU_reactionary;Empire Faction;;;;Spanish Loc;;;x
-GBU_conservative_2;Democratic Front;;;;Spanish Loc;;;x
-GBU_liberal_2;Party for Social Renewal;;;;Spanish Loc;;;x
-GBU_reactionary_2;Guinean Civic Forum;;;;Spanish Loc;;;x
-GBU_anarcho_liberal;Democratic Party of Progress;;;;Spanish Loc;;;x
-GBU_socialist;Struggle Front for Independence;;;;Spanish Loc;;;x
-GBU_communist;African Party of Independence;;;;Spanish Loc;;;x
-GBU_fascist;Bafata Movement;;;;Spanish Loc;;;x
-JAL;Futa Jallon;;;;Spanish Loc;;;x
-JAL_ADJ;Jallon;;;;Spanish Loc;;;x
-JAL_conservative;Almami's Faction;;;;Spanish Loc;;;x
-JAL_liberal;Liberal Faction;;;;Spanish Loc;;;x
-JAL_reactionary;The Jihadis;;;;Spanish Loc;;;x
-JAL_anarcho_liberal;Radical Faction;;;;Spanish Loc;;;x
-JAL_socialist;Socialist Faction;;;;Spanish Loc;;;x
-JAL_communist;Communist Faction;;;;Spanish Loc;;;x
-JAL_fascist;Fascist Faction;;;;Spanish Loc;;;x
-KNG;Wattara;;;;Spanish Loc;;;x
-KNG_ADJ;Wattaran;;;;Spanish Loc;;;x
-KNG_conservative;Fama's Faction;;;;Spanish Loc;;;x
-KNG_liberal;Liberal Faction;;;;Spanish Loc;;;x
-KNG_reactionary;Religious Faction;;;;Spanish Loc;;;x
-KNG_anarcho_liberal;Radical Faction;;;;Spanish Loc;;;x
-KNG_socialist;Socialist Faction;;;;Spanish Loc;;;x
-KNG_communist;Communist Faction;;;;Spanish Loc;;;x
-KNG_fascist;Fascist Faction;;;;Spanish Loc;;;x
-OYO;Oyo;;;;Spanish Loc;;;x
-OYO_ADJ;Oyo;;;;Spanish Loc;;;x
-OYO_conservative;Alaafin's Faction;;;;Spanish Loc;;;x
-OYO_liberal;Reform Faction;;;;Spanish Loc;;;x
-OYO_reactionary;Military Faction;;;;Spanish Loc;;;x
-OYO_anarcho_liberal;Radical Faction;;;;Spanish Loc;;;x
-OYO_socialist;People's Faction;;;;Spanish Loc;;;x
-OYO_communist;Communist Faction;;;;Spanish Loc;;;x
-OYO_fascist;Fascist Faction;;;;Spanish Loc;;;x
-WRI;Warri;;;;Spanish Loc;;;x
-WRI_ADJ;Warri;;;;Spanish Loc;;;x
-WRI_conservative;Olu's Faction;;;;Spanish Loc;;;x
-WRI_liberal;Reform Faction;;;;Spanish Loc;;;x
-WRI_reactionary;Military Faction;;;;Spanish Loc;;;x
-WRI_anarcho_liberal;Radical Faction;;;;Spanish Loc;;;x
-WRI_socialist;People's Faction;;;;Spanish Loc;;;x
-WRI_communist;Communist Faction;;;;Spanish Loc;;;x
-WRI_fascist;Fascist Faction;;;;Spanish Loc;;;x
-WOL;Wolof;;;;Spanish Loc;;;x
-WOL_ADJ;Wolof;;;;Spanish Loc;;;x
-WOL_conservative;Buur-ba's Faction;;;;Spanish Loc;;;x
-WOL_liberal;Reform Faction;;;;Spanish Loc;;;x
-WOL_reactionary;Religious Faction;;;;Spanish Loc;;;x
-WOL_anarcho_liberal;Freedom Faction;;;;Spanish Loc;;;x
-WOL_socialist;Socialist Faction;;;;Spanish Loc;;;x
-WOL_communist;Communist Faction;;;;Spanish Loc;;;x
-WOL_fascist;Fascist Faction;;;;Spanish Loc;;;x
-KNO;Kano;;;;Spanish Loc;;;x
-KNO_ADJ;Kanoese;;;;Spanish Loc;;;x
-KWR;Kwararafa;;;;Spanish Loc;;;x
-KWR_ADJ;Kwararafese;;;;Spanish Loc;;;x
-IFE;Ife;;;;Spanish Loc;;;x
-IFE_ADJ;Ifese;;;;Spanish Loc;;;x
-form_IFE_title;Reestablish the Ife Empire!;;;;Spanish Loc;;;x
-form_IFE_desc;The Ife Empire is the cradle of Yoruban civilization. And while we're putting more effort into westernizing our nation, we need to remember to never forget our traditions. Long live the Ife Empire!;;;;Spanish Loc;;;x 
+chungus;key;;;x
+ARO;Aro;;;x
+ARO_ADJ;Aro;;;x
+ARO_conservative;Eze Aro Faction;;;x
+ARO_liberal;Reform Faction;;;x
+ARO_reactionary;Empire Faction;;;x
+ARO_anarcho_liberal;Radical Faction;;;x
+ARO_socialist;Socialist Faction;;;x
+ARO_communist;Communist Faction;;;x
+ARO_fascist;Fascist Faction;;;x
+ARO_proletarian_dictatorship;Biafra;;;x
+ARO_proletarian_dictatorship_ADJ;Biafran;;;x
+ARO_fascist_dictatorship;Biafra;;;x
+ARO_fascist_dictatorship_ADJ;Biafran;;;x
+ARO_bourgeois_dictatorship;Biafra;;;x
+ARO_bourgeois_dictatorship_ADJ;Biafran;;;x
+ARO_presidential_dictatorship;Biafra;;;x
+ARO_presidential_dictatorship_ADJ;Biafran;;;x
+ARO_democracy;Biafra;;;x
+ARO_democracy_ADJ;Biafran;;;x
+ASH;Ashanti;;;x
+ASH_ADJ;Ashanti;;;x
+ASH_conservative;Royal Faction;;;x
+ASH_liberal;Reform Faction;;;x
+ASH_reactionary;Empire Faction;;;x
+ASH_conservative_2;National Liberation Movement;;;x
+ASH_liberal_2;United Gold Coast Convention;;;x
+ASH_reactionary_2;National Liberation Council;;;x
+ASH_anarcho_liberal;Progress Party;;;x
+ASH_socialist;Ghana Congress Party;;;x
+ASH_communist;Convention People's Party;;;x
+ASH_fascist;Popular Front Party;;;x
+BEN;Benin;;;x
+BEN_ADJ;Beninese;;;x
+BEN_conservative;Oba's Faction;;;x
+BEN_liberal;Reform Faction;;;x
+BEN_reactionary;Military Faction;;;x
+BEN_anarcho_liberal;Radical Faction;;;x
+BEN_socialist;People's Faction;;;x
+BEN_communist;Communist Faction;;;x
+BEN_fascist;Fascist Faction;;;x
+CLA;Calabar;;;x
+CLA_ADJ;Calabarean;;;x
+CLA_conservative;Duke Town Faction;;;x
+CLA_liberal;Creek Town Faction;;;x
+CLA_reactionary;Empire Faction;;;x
+CLA_anarcho_liberal;Radical Faction;;;x
+CLA_socialist;Socialist Faction;;;x
+CLA_communist;Communist Faction;;;x
+CLA_fascist;Fascist Faction;;;x
+DAH;Borgu;;;x
+DAH_ADJ;Borgan;;;x
+DAH_conservative;Ahosu Faction;;;x
+DAH_liberal;Liberal Faction;;;x
+DAH_reactionary;Empire Faction;;;x
+DAH_conservative_2;Progressive Union;;;x
+DAH_reactionary_2;Ethnic Group of the North;;;x
+DAH_liberal_2;Republican Party;;;x
+DAH_anarcho_liberal;BMFD;;;x
+DAH_socialist;African People's Bloc;;;x
+DAH_communist;People's Revolutionary Party;;;x
+DAH_fascist;Fascist Front;;;x
+GBU;Guinea-Bissau;;;x;;;
+GBU_absolute_monarchy;Gabu;;;x
+GBU_absolute_monarchy_ADJ;Gabuan;;;x
+GBU_ADJ;Bissau-Guinean;;;x
+GBU_conservative;Mansaba Faction;;;x
+GBU_liberal;Reform Faction;;;x
+GBU_reactionary;Empire Faction;;;x
+GBU_conservative_2;Democratic Front;;;x
+GBU_liberal_2;Party for Social Renewal;;;x
+GBU_reactionary_2;Guinean Civic Forum;;;x
+GBU_anarcho_liberal;Democratic Party of Progress;;;x
+GBU_socialist;Struggle Front for Independence;;;x
+GBU_communist;African Party of Independence;;;x
+GBU_fascist;Bafata Movement;;;x
+JAL;Futa Jallon;;;x
+JAL_ADJ;Jallon;;;x
+JAL_conservative;Almami's Faction;;;x
+JAL_liberal;Liberal Faction;;;x
+JAL_reactionary;The Jihadis;;;x
+JAL_anarcho_liberal;Radical Faction;;;x
+JAL_socialist;Socialist Faction;;;x
+JAL_communist;Communist Faction;;;x
+JAL_fascist;Fascist Faction;;;x
+KNG;Wattara;;;x
+KNG_ADJ;Wattaran;;;x
+KNG_conservative;Fama's Faction;;;x
+KNG_liberal;Liberal Faction;;;x
+KNG_reactionary;Religious Faction;;;x
+KNG_anarcho_liberal;Radical Faction;;;x
+KNG_socialist;Socialist Faction;;;x
+KNG_communist;Communist Faction;;;x
+KNG_fascist;Fascist Faction;;;x
+OYO;Oyo;;;x
+OYO_ADJ;Oyo;;;x
+OYO_conservative;Alaafin's Faction;;;x
+OYO_liberal;Reform Faction;;;x
+OYO_reactionary;Military Faction;;;x
+OYO_anarcho_liberal;Radical Faction;;;x
+OYO_socialist;People's Faction;;;x
+OYO_communist;Communist Faction;;;x
+OYO_fascist;Fascist Faction;;;x
+WRI;Warri;;;x
+WRI_ADJ;Warri;;;x
+WRI_conservative;Olu's Faction;;;x
+WRI_liberal;Reform Faction;;;x
+WRI_reactionary;Military Faction;;;x
+WRI_anarcho_liberal;Radical Faction;;;x
+WRI_socialist;People's Faction;;;x
+WRI_communist;Communist Faction;;;x
+WRI_fascist;Fascist Faction;;;x
+WOL;Wolof;;;x
+WOL_ADJ;Wolof;;;x
+WOL_conservative;Buur-ba's Faction;;;x
+WOL_liberal;Reform Faction;;;x
+WOL_reactionary;Religious Faction;;;x
+WOL_anarcho_liberal;Freedom Faction;;;x
+WOL_socialist;Socialist Faction;;;x
+WOL_communist;Communist Faction;;;x
+WOL_fascist;Fascist Faction;;;x
+KNO;Kano;;;x
+KNO_ADJ;Kanoese;;;x
+KWR;Kwararafa;;;x
+KWR_ADJ;Kwararafese;;;x
+IFE;Ife;;;x
+IFE_ADJ;Ifese;;;x
+form_IFE_title;Reestablish the Ife Empire!;;;x
+form_IFE_desc;The Ife Empire is the cradle of Yoruban civilization. And while we're putting more effort into westernizing our nation, we need to remember to never forget our traditions. Long live the Ife Empire!;;;x 

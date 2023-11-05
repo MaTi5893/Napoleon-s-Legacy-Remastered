@@ -42,9 +42,9 @@ political_decisions = {
 					owned_by = THIS
 				}
 			}
-			buisness_regulations = 1
+			business_regulations = 1
 			scientific_management = 1
-			raider_column_doctrine = 1
+			raider_group_doctrine = 1
 			iron_steamers = 1
 		}
 		effect = {

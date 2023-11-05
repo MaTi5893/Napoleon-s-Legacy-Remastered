@@ -1773,7 +1773,7 @@ african_diaspora_cultures = {
 	
 		last_names = { Aragao Assuncao Bahia Barbosa Borges "de Cruz e Sousa" "da Lima" "de Lima Barreto" "de Ouro" "de Sousa"
 		"de Souza" "dos Reis" "dos Santos" Fidalgo Filho Gil Gomes "Machado de Assis" Nunes Oliveira
-		Otelo Paim Pandeiro Pe�anha Pereira Pitanga Rodrigues Santos Silva Teixeira }
+		Otelo Paim Pandeiro Pereira Pitanga Rodrigues Santos Silva Teixeira }
 	}
 	afro_antillean = { 
 		color = {24 44 49}

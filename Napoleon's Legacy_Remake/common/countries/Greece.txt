@@ -144,7 +144,7 @@ unit_names = {
 		Hellas Navarino Psara "Prinkips Maximilianos" Maxamillianos "Mount Othrys" Thiva Skirka Heratos Aeolus
 	}
 	monitor = {
-		Sfendoni Thessalia Apeiros Attiki Peloponnisos Circe Eur�kleia Aiolia Kriti Rodos
+		Sfendoni Thessalia Apeiros Attiki Peloponnisos Circe Aiolia Kriti Rodos
 	}
 	clipper_transport = { 
 		 

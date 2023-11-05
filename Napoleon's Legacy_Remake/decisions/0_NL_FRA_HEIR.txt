@@ -8,7 +8,7 @@ political_decisions = {
 		}
 		allow = { }
 		effect = { 
-			BAV = { country_event = 60040 }
+			BAV = { country_event = 600040 }
 			set_country_flag = chose_heir_nap
 			set_country_flag = louis
 		}
@@ -28,7 +28,7 @@ political_decisions = {
         		create_vassal = NAS
         		create_vassal = HES
         		create_vassal = BRA
-			BAV = { country_event = 60040 }
+			BAV = { country_event = 600040 }
 			set_country_flag = chose_heir_nap
 			set_country_flag = jerome
 		}
@@ -42,7 +42,7 @@ political_decisions = {
 		}
 		allow = { }
 		effect = { 
-			BAV = { country_event = 60040 }
+			BAV = { country_event = 600040 }
 			set_country_flag = chose_heir_nap
 			set_country_flag = alexandre
 		}
@@ -56,7 +56,7 @@ political_decisions = {
 		}
 		allow = { }
 		effect = { 
-			BAV = { country_event = 60041 }
+			BAV = { country_event = 600041 }
 			set_country_flag = chose_heir_nap
 			set_country_flag = maximilien
 		}
@@ -70,7 +70,7 @@ political_decisions = {
 		}
 		allow = { }
 		effect = { 
-			BAV = { country_event = 60040 }
+			BAV = { country_event = 600040 }
 			set_country_flag = chose_heir_nap
 			set_country_flag = republic
 			government = democracy

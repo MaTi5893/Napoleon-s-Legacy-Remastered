@@ -10,7 +10,7 @@ country_event = {
 		}
 	}
 	mean_time_to_happen = {
-		days = 1
+		days = 0
 	}
 	title = "A New General Arrives"
 	desc = "Our prayers to RNGesus have been answered. If you feel like using him in singleplayer is cheating, then uncheck Ryan's box in the general menu"

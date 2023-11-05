@@ -153,7 +153,7 @@ unit_names = {
 	
 	battleship = {
 		Brandenburg Weissenburg "Kaiser Friedrich III" "Kaiser Wilhelm II" "Kaiser Wilhelm Der Grosse" "Kaiser Karl Der Grosse" "Kaiser Barbarossa" Wittelsbach Wettin Schwaben Mecklenburg Braunschweig Elsass Hessen Preussen Lothringen Deutschland Pommern Hannover Schlesien Schleswig-Holstein
-        Habsburg Babenburg "Erzherzog Karl" "Erzherzog Friedrich" "Erzherzog Ferdinand Max" "Erzherzog Franz Ferdinand" Radetzky Zr�nyi
+        Habsburg Babenburg "Erzherzog Karl" "Erzherzog Friedrich" "Erzherzog Ferdinand Max" "Erzherzog Franz Ferdinand" Radetzky
 	}
 	
 	ironclad = {
@@ -164,7 +164,7 @@ unit_names = {
 		"Szamos" "Gigant"
 	}
 	manowar = {
-		Brandenburg Braunschweig Deutschland Elsass Hannover Hessen "Kaiser Barbarossa" "Kaiser Friedrich III" "Kaiser Karl der Grosse" "Kurf�rst Friedrich Wilhelm" Lothringen Mecklenburg Pommern Preussen Schlesien Schleswig-Holstein Schwaben Weissenburg Wettin Wittelsbach Worth
+		Brandenburg Braunschweig Deutschland Elsass Hannover Hessen "Kaiser Barbarossa" "Kaiser Friedrich III" "Kaiser Karl der Grosse" Lothringen Mecklenburg Pommern Preussen Schlesien Schleswig-Holstein Schwaben Weissenburg Wettin Wittelsbach Worth
         "Habsburg" "Viribus Unitis" "Ferdinand Max" "Aquila" "Montecuccoli" "Sterneck"
 		"Kaiserin Maria Theresia" "Radetzky"
 	}

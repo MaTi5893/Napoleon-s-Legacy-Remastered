@@ -109,11 +109,11 @@ political_decisions = {
 	picard_expansion = {
 		picture = picard_decision
 		potential = {
+			accepted_culture = wallonian
 			OR = {
 				tag = ADU
 				tag = DUA
 			}
-			accepted_culture = wallonian
 			NOT = {accepted_culture = picard}
 		}
 		allow = {
@@ -134,11 +134,11 @@ political_decisions = {
 	reclaim_sa = {
 		picture = sa_decision
 		potential = {
+			accepted_culture = irish
 			OR = {
 				tag = ADU
 				tag = DUA
 			}
-			accepted_culture = irish
 			NOT = { has_country_flag = ADU_SA }
 		}
 		allow = {
