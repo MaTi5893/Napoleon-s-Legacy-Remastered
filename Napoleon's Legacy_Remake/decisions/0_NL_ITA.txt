@@ -644,7 +644,7 @@ political_decisions = {
 
 		potential = { 
 			tag = RLE
-			not = { accpeted_culture = maghrebi}
+			not = { accepted_culture = maghrebi}
 		}
 
 		allow = { 
