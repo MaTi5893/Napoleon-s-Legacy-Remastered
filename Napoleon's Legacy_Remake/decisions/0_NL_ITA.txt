@@ -618,7 +618,7 @@ political_decisions = {
 		picture = roman_league
 		potential = { 
 			tag = PAP 
-			not = { exists = RLE} #failsafe 
+			not = { exists = RLE}
 		}
 		allow = { 
 			all_core = {
@@ -661,6 +661,7 @@ political_decisions = {
 		}
 
 		effect = { 
+			add_accepted_culture = maghrebi
 			ALD = { 
 				all_core = {
 					add_core = THIS
