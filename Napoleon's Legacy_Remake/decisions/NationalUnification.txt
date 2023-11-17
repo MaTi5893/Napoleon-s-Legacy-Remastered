@@ -312,6 +312,7 @@ political_decisions = {
 			}
 			NOT = {accepted_culture = greek}
 			NOT = {accepted_culture = occitan}
+			NOT = {tag = PAP tag = RLE}
 		}
 		
 		allow = {

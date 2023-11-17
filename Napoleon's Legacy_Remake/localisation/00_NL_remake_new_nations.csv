@@ -240,10 +240,10 @@ DUA_communist;Parti Communiste;;;x
 DUA_conservative_1;Parti Conservateur;;;x
 DUA_conservative_2;Parti National;;;x
 DUA_fascist;Parti Fasciste;;;x
-DUA_liberal_1;Parti Modéré;;;x
-DUA_liberal_2;Parti Libéral;;;x
+DUA_liberal_1;Parti Modere;;;x
+DUA_liberal_2;Parti Liberal;;;x
 DUA_reactionary;Ultraroyalistes;;;x
-DUA_social_liberal;Parti Démocratique;;;x
+DUA_social_liberal;Parti Democratique;;;x
 DUA_socialist_1;Parti Socialiste;;;x
 DUA_socialist_2;Parti Travailliste;;;x
 IBE;Indo-British Empire;;;x
@@ -277,3 +277,23 @@ ABE_hms_government;Austro-Bavarian Empire;;;x
 ABE_democracy;Austro-Bavarian Republic;;;x
 IMP;The Commonwealth of Nations;;;x
 IMP_ADJ;Commonwealth;;;x
+PAP;Central Italian Republic;;;x
+PAP_absolute_monarchy;The Roman Kingdon;;;x
+PAP_prussian_constitutionalism;The Roman Kingdon;;;x
+PAP_hms_government;The Roman Kingdon;;;x
+PAP_democracy;Roman Republic;;;x
+PAP_presidential_dictatorship;Roman Republic;;;x
+PAP_bourgeois_dictatorship;Roman Republic;;;x
+PAP_proletarian_dictatorship;Central Italian People's Republic;;;x
+PAP_fascist_dictatorship;Roman Republic;;;x
+PAP_ADJ;Roman;;;x
+RLE;Roman League;;;x
+RLE_absolute_monarchy;Roman Empire;;;x
+RLE_prussian_constitutionalism;Roman Empire;;;x
+RLE_hms_government;Roman Empire;;;x
+RLE_democracy;Roman League;;;x
+RLE_presidential_dictatorship;Roman Republic;;;x
+RLE_bourgeois_dictatorship;Italian League;;;x
+RLE_proletarian_dictatorship;Central Italian Soviet;;;x
+RLE_fascist_dictatorship;SPQR;;;x
+RLE_ADJ;Roman;;;x
