@@ -26,10 +26,9 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-foreign_training = foreign_training_two
-strategic_mobility = 1
-foreign_weapons = foreign_weapons_two
-muzzle_loaded_rifles = 1
+foreign_training = yes_foreign_training
+
+foreign_weapons = yes_foreign_weapons
 military_constructions = yes_military_constructions
 bronze_muzzle_loaded_artillery = 1
 foreign_officers = yes_foreign_officers
@@ -41,9 +40,7 @@ pre_indust = yes_pre_indust
 guild_based_production = 1
 transport_improv = yes_transport_improv
 experimental_railroad = 1
-education_reform = education_reform_two
-positivism = 1
-enlightenment_thought = 1
+education_reform = yes_education_reform
 land_reform = yes_land_reform
 mechanized_mining = 1
 water_wheel_power = 1

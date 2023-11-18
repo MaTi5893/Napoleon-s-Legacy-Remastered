@@ -293,39 +293,6 @@ country_event = {
 			}
 			set_country_flag = LatinAmerica
 		}
-		any_country = {
-				any_owned = {
-					limit = {
-						OR = {
-						owned_by = MEX
-						owned_by = CLM
-						owned_by = ENG
-						owned_by = ARG
-						owned_by = BRZ
-						owned_by = CHL
-						owned_by = ECU	
-						owned_by = DOM
-						owned_by = UCA
-						owned_by = VNZ
-						owned_by = URU
-						owned_by = PRG
-						owned_by = BOL
-						owned_by = PEU
-						#owned_by = RPL
-						owned_by = HAI
-						owned_by = SPA
-						owned_by = BRZ
-						}
-					life_rating = 35
-					NOT = { life_rating = 36 }
-					OR = {
-						continent = north_america
-						continent = south_america
-					}
-					}
-					life_rating = 0			
-					}
-			}
 			any_country = {
 				any_owned = {
 					limit = {

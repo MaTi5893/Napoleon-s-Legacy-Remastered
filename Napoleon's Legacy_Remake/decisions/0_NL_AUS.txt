@@ -191,27 +191,4 @@ political_decisions = {
 			}
 		}
 	}
-	ask_bavaria_tirol = {
-		picture = decision_austria_AUS
-		potential = {
-			OR = {
-				tag = AUS
-				tag = KUK
-			}
-			ai = no
-			NOT = { has_country_flag = ask_bavaria_tirol }
-			NOT = {owns=615}
-			NOT = {owns=735}
-		}
-		allow = {
-			war=no
-			ideological_thought = 1
-			BAV = {in_sphere = THIS}
-		}
-		effect = {
-			prestige =5
-			BAV = {country_event = 600005}
-			set_country_flag=ask_bavaria_tirol
-		}
-	}
 }

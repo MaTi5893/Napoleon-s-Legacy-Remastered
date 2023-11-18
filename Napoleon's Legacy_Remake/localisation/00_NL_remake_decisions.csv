@@ -92,8 +92,6 @@ domination_of_western_mediterranean_see_title;Expand our influence §Gin the west
 domination_of_western_mediterranean_see_desc;The withdrawal of the British in the western Mediterranean Sea created a power vacuum in the region and we must be the one to fill it!;;;x
 expension_in_southern_italy_title;Expand in Southern Italy;;;x
 expension_in_southern_italy_desc;Now that we have secured a hold in Sicily and reestablished ourselves as a regional power, we should expand this influence in southern Italy and seize what was once a part of the glorious Spanish Empire!;;;x
-ask_france_catalonia_title;Ask for Catalonia;;;x
-ask_france_catalonia_desc;Now that we have peaceful relations with France and that we are a power to be reckoned with, we should ask for France to give back Catalonia;;;x
 form_iberia_title;Unite §WIberia§!;;;x
 form_iberia_desc;Now that we are united with Portugal and that we have reclaimed Catalonia, we can finally claim the union of all Iberians under one flag!;;;x
 expand_citizenship1_title;Give citizenship to §Rthe Caraibes§!;;;x
@@ -212,8 +210,6 @@ hungarian_subjugation_title;§RHungarian Subjugation§!!;;;x
 hungarian_subjugation_desc;We should accept the hungarian people, they too have suffered in the hands of the Austrians! This will lock you out of accepting the Baltic people;;;x
 form_usga_title;Form the United States of Greater Austria!;;;x
 form_usga_desc;With German and Hungarian population representing only half of the population of our country, it's time to put aside our hate toward the minorities and accept them as a full part of our empire!;;;x
-ask_bavaria_tirol_title;Ask for Tirol;;;x
-ask_bavaria_tirol_desc;With the decline of French presence in Germany, we should try to get our hands on our past german territories such as Tirol. Furthermore, Bavaria is in our sphere, making this request quite painless to make.;;;x
 reclaim_constantinople_title;Reclaim Constantinople!;;;x
 reclaim_constantinople_desc;We should reclaim the holy city of Constantinople, a city that once shined over all Europe for it's art, technology and was the center of trade in Eastern Europe.;;;x
 reform_byzantinium_title;Reform Byzantium!;;;x
@@ -289,16 +285,10 @@ french_rhur_boom_title;French Ruhr Boom;;;x
 french_rhur_boom_desc;With the Annexation of the Rhineland, we acquired ourselves a region with great goods and a strong potential. We need to invest to get it to be industrial heartland of the West and to show everyone our power!;;;x
 unite_north_italy_title;Remake the Kingdom of Italy;;;x
 unite_north_italy_desc;With the Annexation of the Kingdom of Italy by France in 1826 and the death of Napoleon in 1835, the North of Italy exploded into different factions. It's time to unite them under one flag!;;;x
-ask_france_piedmonte_title;Ask France for Piedmonte;;;x
-ask_france_piedmonte_desc;France has occupied Piedmonte for a long time but the local population still views itself as Italian. It should be that way and we need to ask France, our ally, to give it back!;;;x
 unite_with_greece_title;Unite §Bwith Greece§!;;;x
 unite_with_greece_desc;The Greeks and Romans shared a lot in common and Greek was a commonly spoken language in southern Italy. We should unite with them to create a Mediterranean power!;;;x
 north_africa_title;Annexation of Libya;;;x
 north_africa_desc;We need to secure the central Mediterranean Sea and stop the Arabic pirates. In order to do so, we need to make Libya and Tunisia ours!;;;x
-renounce_bozen_title;Renounce Bozen;;;x
-renounce_bozen_desc;We should renounce the province of Bozen as one of our cores to decrease tension in the area;;;x
-renounce_corsica_title;Renounce Corsica;;;x
-renounce_corsica_desc;We should renounce the province of Corsica as one of our cores to decrease tension in the area;;;x
 yugo_united_title;Yugoslavia United!;;;x
 yugo_united_desc; We have united the Yugoslavia, our people can rejoice and thrive!;;;x
 form_yugoslavia_easy_title;United Yugoslavia!;;;x
@@ -373,14 +363,6 @@ hide_western_russia_title;Hide the Western Path;;;x
 hide_western_russia_desc;Hides the Western Expansion Path;;;x
 show_western_russia_title;Show the Western Path;;;x
 show_western_russia_desc;Shows the Western Expansion Path.;;;x
-ask_holstein_title;Ask for Holstein;;;x
-ask_holstein_desc;Holstein is our legitimate territory. We should.. 'peacefully request' that it be returned to us.;;;x
-ask_malta_title;Ask for Malta;;;x
-ask_malta_desc;Malta is our legitimate territory. We should.. 'peacefully request' that it be returned to us.;;;x
-ask_stralsund_title;Ask for Stralsund;;;x
-ask_stralsund_desc;Stralsund is German and should be ours!;;;x
-ask_lubeck_title;Ask for Lubeck;;;x
-ask_lubeck_desc;Lubeck is German and should be ours!;;;x
 form_grobgermany_title;Great Germany!;;;x
 form_grobgermany_desc;We have finally united all German people, it's a glorious day for our nation!;;;x
 united_netherlands_title;United §WNetherlands§!;;;x
@@ -431,8 +413,6 @@ caraibes_expansion_title;§YCaribbean Expansion§!;;;x
 caraibes_expansion_desc;With the fall of our colonial empire, we must seek new land to conquer in the New World. The Caribbean is a perfect target. We have a strong presence there and no other Great Powers have any significant footholds;;;x
 na_expansion_title;The §RQuestion of Canada§!;;;x
 na_expansion_desc;Canadian land was a part of our Empire, before we gave them their own nation to appease their calls for autonomy. But now that we have consolidated our power, we can annex them back while giving the population equal rights to prevent any revolts;;;x
-ask_corsica_title;Ask For Corsica;;;x
-ask_corsica_desc;We should have Corsica, the birthplace of Napoleon and the land of the devil!;;;x
 french_heritage_title;French Heritage;;;x
 french_heritage_desc;The French Army always has been one of the best in Europe. We should keep that heritage!;;;x
 britannia_rule_title;Rule Britannia;;;x
@@ -443,7 +423,7 @@ form_british_india_democracy_title;Form the Indo-British Empire;;;x
 form_british_india_democracy_desc;The East India company has been freed from the surveillance of the United Kingdom. While they were a good and powerful master, they would have tried to take over our conquest sooner or later. Now it's time to fully declare our independance as a sovereign nation and not a company anymore ! We also should accept the bengal population to assistus in the rule over India, they have proven their loyalty!;;;x
 form_british_india_monarchy_title;Form the Indo-British Empire;;;x
 form_british_india_monarchy_desc;The East India company has been freed from the surveillance of the United Kingdom. While they were a good and powerful master, they would have tried to take over our conquest sooner or later. Now it's time to fully declare our independance as a sovereign nation and not a company anymore ! We also should accept the bengal population to assistus in the rule over India, they have proven their loyalty!;;;x
-welsh_patriots_title;Our Welsh Brethens;;;x
+welsh_patriots_title;Our Welsh Brethen;;;x
 welsh_patriots_desc;The welsh people belong to the celtic heritage. So it's only normal to integrate them into the Celtic Union;;;x
 portuguese_civil_code_title;Portuguese Civil Code;;;x
 portuguese_civil_code_desc;In 1867, the first Portuguese Civil Code was enacted. Professor Seabra, influenced by the Code Napoleon, wrote the whole Code alone. Other Codifications were also studied and taken into consideration, especially the Allgemeines Landrecht (Prussia), the ABGB (Austria) and the Sardinian Civil Code. But he was able to create a very peculiar style: the systematization is different from the French Code. The Portuguese Civil Code was unique for European civil codes, in its characterization of laws in terms of the person and property. It was divided into four sections: the person, the acquisition of goods, goods, and the defense of those goods or rights.;;;x

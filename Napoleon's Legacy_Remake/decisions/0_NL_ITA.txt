@@ -328,22 +328,6 @@ political_decisions = {
 		}
 	}
 
-	renounce_corsica = {
-		picture = corsica_decision
-		potential = {
-			tag = ITA
-			is_core = 473
-			NOT = {owns = 473}
-		}
-		allow = {
-			war = no
-		}
-		effect = {
-			remove_core = 473
-			prestige = -5
-		}
-	}
-
 	balkan_expansion1 = {
 		picture = illyria_decision
 		potential = {
