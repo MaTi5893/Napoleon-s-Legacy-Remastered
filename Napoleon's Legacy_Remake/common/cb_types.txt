@@ -67,7 +67,6 @@ take_puppet
 demand_concession_casus_belli
 demand_concession_casus_belli_china
 demand_colonial_concession_casus_belli
-demand_colony_for_allies
 establish_protectorate_casus_belli
 establish_colonial_protectorate_casus_belli
 unification_humiliate_cb
@@ -615,21 +614,6 @@ acquire_state = {
 					civilized = no
 				}
 			}
-		}
-	}
-	allowed_countries = {
-		OR = {
-			FROM = { vassal_of = THIS }
-			FROM = { substate_of = THIS }
-			FROM = { tag = THIS } 
-			AND = { 
-				THIS = { ai = no }
-				FROM = { ai = no } 
-				THIS = { alliance_with = FROM }
-			} 
-		}
-		FROM = {
-			exists = yes
 		}
 	}
 	allowed_states = {
@@ -2437,73 +2421,6 @@ demand_colonial_concession_casus_belli = {
 	
 	war_name = WAR_CONCESSION_NAME
 
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.1
-		}
-	}
-}
-#Demand Colony For Allies
-demand_colony_for_allies = {
-	sprite_index = 5
-	is_triggered_only = yes
-	months = 12
-	construction_speed = 0.5
-
-	badboy_factor = 0.5
-	prestige_factor = 1
-	peace_cost_factor = 1
-	penalty_factor = 1
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 1
-	break_truce_militancy_factor = 1
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-
-	# THIS - us
-	# FROM - country scope is possible match?
-	# war target country of goal is scope
-
-	can_use = {
-
-		OR = {
-			colonial_nation = yes
-			civilized = no
-		} 
-		number_of_states = 2
-		NOT = {
-			tag = FROM
-			this_culture_union = FROM
-		}
-		FROM = {
-			exists = yes
-			THIS = {
-				
-			}
-			
-		}
-	}
-
-	# THIS - us
-	# FROM - country scope is possible match?
-	# war target country of goal's state
-	allowed_states = {
-		any_owned_province = {
-			is_colonial = yes
-		}
-		NOT = { any_owned_province = { is_capital = yes } }
-	}
-
-	po_transfer_provinces = yes
-	
-	war_name = WAR_FORALLIES_NAME
-	
 	on_add = {
 		move_issue_percentage = { 
 			from = jingoism 

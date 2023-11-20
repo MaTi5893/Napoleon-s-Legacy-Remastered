@@ -13,15 +13,13 @@ political_decisions = {
 	1836_initial_setup = { #history/countries/LCT.txt
 		potential = { 
 			NOT = { has_global_flag = ai_setup_done}
-			tag=LCT
 		}
 		allow = {
 			always = yes
 		} 
 		effect = { 
 			set_global_flag = ai_setup_done
-			LCT = { country_event = 600420} 
+			LCT = { country_event = 600420 }
 		}
 	}
-
 }

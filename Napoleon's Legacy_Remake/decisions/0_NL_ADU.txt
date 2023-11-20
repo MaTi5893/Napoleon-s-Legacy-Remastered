@@ -1,7 +1,7 @@
 political_decisions = {
     form_anglo_dutch = { 
 		picture = anglodutch
-		potential = { 
+		potential = {
 			has_country_flag = adu #see lct.txt event
 			ADU = { exists = no }
 			NOT = {accepted_culture = irish}

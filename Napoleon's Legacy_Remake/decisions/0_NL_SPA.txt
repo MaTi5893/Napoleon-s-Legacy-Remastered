@@ -231,10 +231,7 @@ political_decisions = {
 	form_iberia = {
 		picture = iberia
 		potential = {
-			OR = {
-				tag = SPA 
-				tag = POR
-			}
+			is_culture_group = iberian
 			NOT = { has_country_flag = domination_of_western_mediterranean_see }
 			NOT = { accepted_culture = south_italian }
 			NOT = {accepted_culture = occitan}
@@ -300,6 +297,7 @@ political_decisions = {
 	expand_citizenship1 = {
 		picture = cuba_decision
 		potential = {
+			is_culture_group = iberian
 			OR = { tag = SPA tag = IBR }
 			NOT = { accepted_culture = caribeno }
 			NOT = { accepted_culture = south_italian }
@@ -431,8 +429,8 @@ political_decisions = {
 	union_with_france = {
 		picture = france_decision
 		potential = {
-			accepted_culture = occitan
 			tag = SPA
+			accepted_culture = occitan
 			NOT = {accepted_culture = french}
 		}
 		allow = {
@@ -471,8 +469,8 @@ political_decisions = {
 
 	accept_french_minorities = {
 		potential = {
-			accepted_culture = french
 			tag = SPA
+			accepted_culture = french
 			NOT = {accepted_culture = picard}
 		}
 		allow = {

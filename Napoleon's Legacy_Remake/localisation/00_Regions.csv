@@ -137,8 +137,8 @@ FRA_473;Corsica;;;;;;x
 BEL_390;Brabant;;;;;;x
 NET_379;Zeeland;;;;;;x
 AUS_2538;Vojvodina;;;;;;x
-AUS_736;Friuli;Frioul;Friaul;;Friuli;;;;;;;;;x;;;;
-AUS_778;Istria;Istrie;Istrien;;Istria;;;;;;;;;x;;;;
+AUS_736;Friuli;;;x
+AUS_778;Istria;;;x
 AUS_781;North Dalmatia;;;;;x
 AUS_780;South Dalmatia;;;;;x
 SIC_756;Apulia-Calabria;;;;;;x
@@ -195,3 +195,4 @@ MEX_2150;Veracruz y Tamaulipas;;;;;;x
 MEX_2179;Guerrero y Michoacán;;;;;;x
 MEX_2172;México y Puebla;;;;;;x
 MEX_2177;Oaxaca y Chiapas;;;;;;x
+NET_386;Utrecht;;;x
