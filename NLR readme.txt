@@ -18,7 +18,7 @@ copy the Napoleon's Legacy Remake folder and Napoleon's Legacy Remake .mod file 
 
 The NLR Low Res submod changes the terrain textures to be smaller, so that they have less an impact on performance, while still looking... passable, to me. This submod doesn't change the checksum.
 If you don't want to keep having to click on the submod in the launcher, you can just copy the files of it into the main mod folder.
-
+NLR Alice Compatibility is to keep the mod as compatible as possible with Project Alice https://github.com/schombert/Project-Alice/releases
 
 Credits to: 
 Mr.#7460: alpha male, most of the flavor in this mod was made by him 

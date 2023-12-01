@@ -1,0 +1,99 @@
+ILove;ProjectAlice;;;x
+take_capital_setup;Take Capital $STATE$;;;x
+take_capital_short;Takes Capital;;;x
+negotiated_transfer_short;Take $STATE$ from $RECIPIENT$;;;x
+negotiated_transfer_setup;Take $STATE$ from $RECIPIENT$ with their consent;;;x
+acquire_state_short;Acquire $STATE$;;;x
+acquire_state_setup;Acquire $STATE$ from $RECIPIENT$;;;x
+USA_democracy;United States;;;x
+CSA_presidential_dictatorship;Confederate States of America;;;x
+CSA;Confederate States;;;x
+CSA_bourgeois_dictatorship;Confederate States of America;;;x
+CSA_fascist_dictatorship;Confederacy;;;x
+CSA_proletarian_dictatorship;People's Confederacy;;;x
+UBD;United Baltic Provinces;;;x
+UBD_democracy;Baltic Union;;;x
+UBD_proletarian_dictatorship;Baltic Worker's Union;;;x
+EGY_democracy;Republic of Egypt;;;x
+ENG_fascist_dictatorship;Union of Britain;;;x
+ENG_democracy;British Commonwealth;;;x
+ENG_presidential_dictatorship;British Commonwealth;;;x
+ENG_bourgeois_dictatorship;British Commonwealth;;;x
+KOR_absolute_monarchy;Kingdom of Joseon;;;x
+BRZ_absolute_monarchy;Empire of Brazil;;;x
+BRZ_prussian_constitutionalism;Empire of Brazil;;;x
+BRZ_hms_government;Empire of Brazil;;;x
+BRZ_dominion;Kingdom of Brazil;;;x
+MUG_absolute_monarchy;Mughal Empire;;;x
+MUG_prussian_constitutionalism;Mughal Empire;;;x
+MUG_fascist_dictatorship;Gurkani Republic;;;x
+ABU_absolute_monarchy;Trucial States;;;x
+ITA_democracy;Italian Republic;;;x
+ITA_proletarian_dictatorship;People's Republic of Italy;;;x
+PER_prussian_constitutionalism;Imperial State of Iran;;;x
+PER_hms_government;Imperial State of Iran;;;x
+PER_bourgeois_dictatorship;Iranian Free State;;;x
+PAN_absolute_monarchy;Sikh Empire;;;x
+PAN_prussian_constitutionalism;Sikh Empire;;;x
+PLC;Polish-Lithuanian Commonwealth;;;x
+PLC_proletarian_dictatorship;Polish-Lithuanian Republic;;;x
+PLC_fascist_dictatorship;Polish-Lithuanian Republic;;;x
+PLC_presidential_dictatorship;Polish-Lithuanian Republic;;;x
+BYZ_democracy;Byzantine Federation;;;x
+BYZ_presidential_dictatorship;Byzantine Federation;;;x
+BYZ_bourgeois_dictatorship;Byzantine Federation;;;x
+BYZ_proletarian_dictatorship;Socialist Byzantine Union;;;x
+TUR_absolute_monarchy;Ottoman Empire;;;x
+TUR_prussian_constitutionalism;Ottoman Empire;;;x
+TUR_hms_government;Ottoman Empire;;;x
+USA;United States of America;;;x
+USA_bourgeois_dictatorship;United States of America;;;x
+USA_absolute_monarchy;American Empire;;;x
+USA_prussian_constitutionalism;American Empire;;;x
+USA_hms_government;Kingdom of America;;;x
+USA_proletarian_dictatorship;People's Republic of America;;;x
+VEN_democracy;Republic of San Marco;;;x
+VEN_presidential_dictatorship;Republic of San Marco;;;x
+FRA_prussian_constitutionalism;French Empire;;;x
+FRA_hms_government;French Empire;;;x
+FRA_absolute_monarchy;French Empire;;;x
+BLE;Baltic Empire;;;x
+BLE_prussian_constitutionalism;Baltic Empire;;;x
+BLE_hms_government;Baltic Empire;;;x
+BLE_absolute_monarchy;Baltic Empire;;;;;;;
+NWE;Norwegian Empire;;;x
+NWE_prussian_constitutionalism;Norwegian Empire;;;x
+NWE_hms_government;Norwegian Empire;;;x
+NWE_absolute_monarchy;Norwegian Empire;;;;;;;
+HRO;Holy Roman Empire;;;x
+HRO_prussian_constitutionalism;Holy Roman Empire;;;x
+HRO_hms_government;Holy Roman Empire;;;x
+HRO_absolute_monarchy;Holy Roman Empire;;;;;;;
+ADU;Anglo-Dutch Union;;;x
+USG;United States of Greater Austria;;;x
+BUR_absolute_monarchy;Konbaung Dynasty;;;x
+BUR_prussian_constitutionalism;Konbaung Dynasty;;;x
+BUR_absolute_monarchy;Konbaung Dynasty;;;x
+BUR_prussian_constitutionalism;Konbaung Dynasty;;;x
+EIC_absolute_monarchy;East Indian Raj;;;x;;;;;;;;
+EIC_prussian_constitutionalism;East Indian Raj;;;x;;;;;;;;
+EIC_hms_government;East Indian Raj;;;x;;;;;;;;
+DUA;Dual Monarchy;;;x
+DUA_proletarian_dictatorship;United Popular Republic;;;x
+DUA_presidential_dictatorship;United Republic;;;x
+DUA_bourgeois_dictatorship;United Republic;;;x
+DUA_fascist_dictatorship;Western Empire;;;x
+DUA_democracy;United Republic;;;x
+SWI_democracy;Helvetic Republic;;;x
+NET_democracy;Batavian Republic;;;x
+NAU_proletarian_dictatorship;People's Union of North America;;;x;
+IMP;Commonwealth of Nations;;;x
+PAP_absolute_monarchy;Roman Kingdom;;;x
+PAP_prussian_constitutionalism;Roman Kingdom;;;x
+PAP_hms_government;Roman Kingdom;;;x
+RUS_absolute_monarchy;Russian Empire;;;;;;;;;x
+RUS_prussian_constitutionalism;Russian Empire;;;;;;;;;;x
+ENG_absolute_monarchy;British Empire;;;;;;;;;x
+ENG_prussian_constitutionalism;British Empire;;;;;;;;;;x
+GER_absolute_monarchy;German Empire;;;;;;;x
+GER_prussian_constitutionalism;German Empire;;;;;;;x

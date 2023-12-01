@@ -34,7 +34,7 @@ country_event = {
 					ai = yes 
 				}
 			}
-		country_event = 600013
+		country_event = { id = 600013 days = 1}
 		}
 		any_country = { 
 			limit = {
@@ -44,7 +44,7 @@ country_event = {
 					ai = no
 				}
 			}
-		country_event = 600018
+		country_event = { id = 600018 days = 1} 
 		}
 		any_country = {
 			limit = { is_greater_power = yes }
@@ -70,7 +70,7 @@ country_event = {
             			tag = PEU
 				}	
 			}
-		country_event = 600037
+		country_event = { id = 600037 days = 1}	
 		}
 			any_country = { 
 				limit = { 
