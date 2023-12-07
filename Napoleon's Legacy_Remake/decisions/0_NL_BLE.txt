@@ -2,11 +2,11 @@ political_decisions = {
 	german_expansion1 = {
 		picture = north_germany_decision
 		potential = {
+			accepted_culture = north_german
 			OR = {
 				tag = BLE
 				tag = SCA
 			}
-			accepted_culture = north_german
 			NOT = {has_country_flag = german_expansion1}
 		}
 		allow = {
@@ -35,11 +35,11 @@ political_decisions = {
 	german_expansion2 = {
 		picture = north_germany_decision
 		potential = {
+			has_country_flag = german_expansion1
 			OR = {
 				tag = BLE
 				tag = SCA
 			}
-			has_country_flag = german_expansion1
 			NOT = {has_country_flag = german_expansion2}
 		}
 		allow = {

@@ -580,7 +580,7 @@ acquire_state = {
 	
 	badboy_factor = 1.1
 	prestige_factor = 1.8
-	peace_cost_factor = 0.85
+	peace_cost_factor = 0.95
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1

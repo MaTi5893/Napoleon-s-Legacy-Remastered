@@ -49,9 +49,9 @@ free_peoples_short;$THIRD$ acquires $STATE$;;;x
 free_peoples_desc;Liberate a §Ycountry§W's state from its oppressors;;;x
 free_peoples_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$;;;x
 liberate_country;Liberate Country;;;x
-liberate_country_short;$THIRD$ acquires $STATE$;;;x
+liberate_country_short;Liberate $THIRD$;;;x
 liberate_country_desc;Liberate an §Yentire country§W from its oppressors;;;x
-liberate_country_setup;Return $STATE$ to $THIRD$ from $RECIPIENT$;;;x;;;
+liberate_country_setup;Return cores to $THIRD$ from $RECIPIENT$;;;x;;;
 release_puppet;Release Puppet;;;x
 release_puppet_short;$THIRD$ is released;;;x
 release_puppet_desc;Release a §Ycountry§W from its sovereign nation;;;x
