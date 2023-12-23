@@ -7,11 +7,11 @@ country_event = {
 	news_desc_short = "EVTDESC34600_NEWS_SHORT"
 
 	trigger = {
+		is_culture_group = germanic
 		OR = {
 			tag = PRU
 			capital = 549
 		}
-		year = 1836
 		war = no
 		NOT = {
 			year = 1839
@@ -54,6 +54,7 @@ country_event = {
 	news_desc_short = "EVTDESC34601_NEWS_SHORT"
 
 	trigger = {
+		is_culture_group = germanic
 		OR = {
 			tag = PRU
 			capital = 549
@@ -113,6 +114,7 @@ country_event = {
 	news_desc_short = "EVTDESC34602_NEWS_SHORT"
 
 	trigger = {
+		is_culture_group = germanic
 		OR = {
 			tag = PRU
 			capital = 549
@@ -164,6 +166,7 @@ country_event = {
 	news_desc_short = "EVTDESC34603_NEWS_SHORT"
 
 	trigger = {
+		is_culture_group = germanic
 		OR = {
 			tag = PRU
 			capital = 549
@@ -210,6 +213,7 @@ country_event = {
 	news_desc_short = "EVTDESC34604_NEWS_SHORT"
 
 	trigger = {
+		is_culture_group = germanic
 		OR = {
 			tag = PRU
 			capital = 549
@@ -260,6 +264,7 @@ country_event = {
 	news_desc_short = "EVTDESC34605_NEWS_SHORT"
 
 	trigger = {
+		is_culture_group = germanic
 		OR = {
 			tag = PRU
 			capital = 549
@@ -305,6 +310,7 @@ country_event = {
 	news_desc_short = "EVTDESC34606_NEWS_SHORT"
 
 	trigger = {
+		is_culture_group = germanic
 		OR = {
 			tag = PRU
 			capital = 549
@@ -351,6 +357,7 @@ country_event = {
 	news_desc_short = "EVTDESC34607_NEWS_SHORT"
 
 	trigger = {
+		is_culture_group = germanic
 		OR = {
 			tag = PRU
 			capital = 549
@@ -419,6 +426,7 @@ country_event = {
 	news_desc_short = "EVTDESC34608_NEWS_SHORT"
 
 	trigger = {
+		is_culture_group = germanic
 		OR = {
 			tag = PRU
 			capital = 549

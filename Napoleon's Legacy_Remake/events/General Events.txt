@@ -2,7 +2,6 @@
 															#mfw
 country_event = {		
 	id = 600000
-	allow_multiple_instances = yes
 	trigger = {
 		ai = no
 		NOT = {
