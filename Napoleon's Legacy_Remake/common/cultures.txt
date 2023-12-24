@@ -78,9 +78,9 @@ germanic = {
 	union = GER
 }
 
-beneluxian = {
+anglo_beneluxian = {
 	leader = european
-	unit = EuropeanGC
+	unit = BritishGC
 	dutch = { 
 		color = { 230 130 50}
 		first_names = { 
@@ -179,6 +179,67 @@ beneluxian = {
 		Lahure Lardinois "le Cocq" "le Hon" Lebeau Leclercq Lefebvre Leman Malou Marcq Marlet Masbourg Nagelmackers Nalinne Nothomb 
 		Orban Petillon Picquet Pirmez Pirson Raikem Roeser Rogier Rouen Rouppe Seron Thonus Thorn "van Snick" Wahis Wangermee Wyvekens Zoude }
 	}
+
+	british = {
+		color = { 220 100 220}
+		first_names = { Albert Alexander Alfred Archibald Arthur Astley Augustus Benjamin Bernard Cecil Charles Christopher Colbert
+		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand FitzRoy Francis
+		Frederick Garnet Geoffrey George Graham Henry Herbert Horatio Hubert Hugh Ian
+		James Jeremy John Joseph Julian Leopold Lester Louis Martin Michael Nigel Oswald
+		Paul Patrick Percy Peregrine Reginald Redvers Richard Robert Rowland Russell 
+		Stanley Stapleton Thomas Wallace Walter William Winston Zachary }
+		
+		last_names = { 
+		"Arbuthnot Fisher" Allenby Battemberg Beatty Beresford Birdwood Brown Buller Butler Burgoyne Burney Byng
+		Callaghan Campbell Cardigan Chetwode Churchill Cochrane Cockburn Codrington Cotton Cradock "Culme-Seymour" 
+		"d'Urban" "de Lacy Evans" "de Robeck" Deverell Dill Dundas
+		"Evelyn Wood" Field French Goodenough Gough Grant Grenfell Haig Haines Horne
+		Hamilton Hardinge Havelock "Hawkins-Whitshed" Hill Hope "Hussey Vivian" Ironside Jellicoe Keppel Key Lockhart Lyons 
+		MacDonald Madden Maitland Meade Methuen Milne Monro Montgomery Moresby Mundy Murray Napier Nixon
+		Odoni "of Battenberg" "of Hannover" "of Saxe-Coburg-Gotha" Parker Paget Pennefather Pollock Plumer 
+		Rawlinson Roberts Rowley Seaton Seymour Somerset Smith Smith-Dorrien Stewart Stopford Sturdee
+		"Talbot Kerr" Thesiger Townshend Tyron Tyrwhitt Wavell Wilson White Williams Windsor Wolseley Wood 
+		}
+	}
+	irish = { 
+		color = { 35 140 50}
+		radicalism = 15
+		primary = IRE
+		first_names = { Alexander Arthur Brian Cathal Christopher Con Daniel Denis Desmond Eamon
+		Edward Ernes Fionan Frank George Harry Jack James John Joseph
+		Kevin Liam Michael Patrick Peter Richard Robert Sean Thomas William }
+		
+		last_names = { Aiken Ashe Breen Brugha Collins Connolly Cosgrave Craig "de Valera" Donnelly
+		FitzGerald Griffith Kelly Larkin Lynch Mallin McCartan McCullough McGarry McGuinness
+		Mulcahy O'Brien O'Connor O'Doherty O'Higgins O'Leary O'Mara Pearse Plunket White }
+	}
+	Scotish = {
+		color = { 192 207 31}
+		first_names = { Adhamh Aindrea Alasdair Baltair Beistean Brian Cailean Caomhainn Ciaran Coinneach Comhnall Cormag Cuithbeart
+		Daibhidh Daidh Daniel Deorsa Domhnall Donnchadh Dubh Dubhghall Dughlas Ealar Eoghann Eumann Eoin Eosaph Faolan Fearghas Filib
+		Fionnlagh Gilleasbuig Gille-Brìdhde Gillebeart Goraidh Guaidre Harailt Iain Iomhair Iona Lachlann Maol-Iosa Maoldonaich Mata
+		Murchadh Niall Padruig Peadrus Pal Raghnall Seoras Simidh Somhairle Tadhg Tomaidh Uisdean }
+		
+		last_names = { Aileanach Ambarsan Banach Blar Braigheach Buiseid Caimbeulach Cananach Crannach Caidh Deoir Domhnullach
+		Fearghasdan Griogalach Lobhdain "Mac a' Charraige" "Mac a' Ghobhainn" "Mac a' Leora" "Mac a' Phearsain"
+		"Mac an Duibh" "Mac an Fhuibhir" "Mac an Luaimh" "Mac an Rothaich" "Mac Iain Duibh" "MacAsgaill" "MacCormaig"
+		"MacDheorsa" "MacEalar" "MacFigeinn" "MacGiobain" "MacLagain" "MacLianain" "MacMhatha" "MacNìll" "MacPhaic"
+		MacShitrig MacTiridh Morgan Robasan Seadh Taillear Urchadainn }
+	}
+	welsh = { 
+		color = { 150 110 80}
+		first_names = { Alan Daveth Howel Jory Kenver Margh Peder Tomas Ruan Petrok
+		Seimon Mervyn Iwan Gareth Bryn Rhys Hywel Owain Morys }
+		
+		last_names = { Angwin Arundell Bosanko Chenoweth Coon Pomeroy Gummo Nanscawen
+		Pendarvis Penhale Pentrith Penketh Trelawney Tremaine Trevithick }
+	}
+	cymry = {
+		color = { 173 130 0 }
+		first_names = { Alexander Rhys Gareth Seimon Lloyd Llewelyn Mervyn Huw Hywel Iwan Morys Owain Bryn }
+
+		last_names = { Ifans Glyn Lloyd Alwyn "ap Meryk" Lewis Glyndwr Maelor Iwrch Mawr Dda Elwyn }
+	}
 }
 	
 scandinavian = {
@@ -250,70 +311,6 @@ scandinavian = {
 	union = SCA
 }
 
-british = {
-	leader = european
-	unit = BritishGC
-	british = {
-		color = { 220 100 220}
-		first_names = { Albert Alexander Alfred Archibald Arthur Astley Augustus Benjamin Bernard Cecil Charles Christopher Colbert
-		Colin Cyril David Donald Douglas Edmund Edwar Fairfax Ferdinand FitzRoy Francis
-		Frederick Garnet Geoffrey George Graham Henry Herbert Horatio Hubert Hugh Ian
-		James Jeremy John Joseph Julian Leopold Lester Louis Martin Michael Nigel Oswald
-		Paul Patrick Percy Peregrine Reginald Redvers Richard Robert Rowland Russell 
-		Stanley Stapleton Thomas Wallace Walter William Winston Zachary }
-		
-		last_names = { 
-		"Arbuthnot Fisher" Allenby Battemberg Beatty Beresford Birdwood Brown Buller Butler Burgoyne Burney Byng
-		Callaghan Campbell Cardigan Chetwode Churchill Cochrane Cockburn Codrington Cotton Cradock "Culme-Seymour" 
-		"d'Urban" "de Lacy Evans" "de Robeck" Deverell Dill Dundas
-		"Evelyn Wood" Field French Goodenough Gough Grant Grenfell Haig Haines Horne
-		Hamilton Hardinge Havelock "Hawkins-Whitshed" Hill Hope "Hussey Vivian" Ironside Jellicoe Keppel Key Lockhart Lyons 
-		MacDonald Madden Maitland Meade Methuen Milne Monro Montgomery Moresby Mundy Murray Napier Nixon
-		Odoni "of Battenberg" "of Hannover" "of Saxe-Coburg-Gotha" Parker Paget Pennefather Pollock Plumer 
-		Rawlinson Roberts Rowley Seaton Seymour Somerset Smith Smith-Dorrien Stewart Stopford Sturdee
-		"Talbot Kerr" Thesiger Townshend Tyron Tyrwhitt Wavell Wilson White Williams Windsor Wolseley Wood 
-		}
-	}
-	irish = { 
-		color = { 35 140 50}
-		radicalism = 15
-		primary = IRE
-		first_names = { Alexander Arthur Brian Cathal Christopher Con Daniel Denis Desmond Eamon
-		Edward Ernes Fionan Frank George Harry Jack James John Joseph
-		Kevin Liam Michael Patrick Peter Richard Robert Sean Thomas William }
-		
-		last_names = { Aiken Ashe Breen Brugha Collins Connolly Cosgrave Craig "de Valera" Donnelly
-		FitzGerald Griffith Kelly Larkin Lynch Mallin McCartan McCullough McGarry McGuinness
-		Mulcahy O'Brien O'Connor O'Doherty O'Higgins O'Leary O'Mara Pearse Plunket White }
-	}
-	Scotish = {
-		color = { 192 207 31}
-		first_names = { Adhamh Aindrea Alasdair Baltair Beistean Brian Cailean Caomhainn Ciaran Coinneach Comhnall Cormag Cuithbeart
-		Daibhidh Daidh Daniel Deorsa Domhnall Donnchadh Dubh Dubhghall Dughlas Ealar Eoghann Eumann Eoin Eosaph Faolan Fearghas Filib
-		Fionnlagh Gilleasbuig Gille-Brìdhde Gillebeart Goraidh Guaidre Harailt Iain Iomhair Iona Lachlann Maol-Iosa Maoldonaich Mata
-		Murchadh Niall Padruig Peadrus Pal Raghnall Seoras Simidh Somhairle Tadhg Tomaidh Uisdean }
-		
-		last_names = { Aileanach Ambarsan Banach Blar Braigheach Buiseid Caimbeulach Cananach Crannach Caidh Deoir Domhnullach
-		Fearghasdan Griogalach Lobhdain "Mac a' Charraige" "Mac a' Ghobhainn" "Mac a' Leora" "Mac a' Phearsain"
-		"Mac an Duibh" "Mac an Fhuibhir" "Mac an Luaimh" "Mac an Rothaich" "Mac Iain Duibh" "MacAsgaill" "MacCormaig"
-		"MacDheorsa" "MacEalar" "MacFigeinn" "MacGiobain" "MacLagain" "MacLianain" "MacMhatha" "MacNìll" "MacPhaic"
-		MacShitrig MacTiridh Morgan Robasan Seadh Taillear Urchadainn }
-	}
-	welsh = { 
-		color = { 150 110 80}
-		first_names = { Alan Daveth Howel Jory Kenver Margh Peder Tomas Ruan Petrok
-		Seimon Mervyn Iwan Gareth Bryn Rhys Hywel Owain Morys }
-		
-		last_names = { Angwin Arundell Bosanko Chenoweth Coon Pomeroy Gummo Nanscawen
-		Pendarvis Penhale Pentrith Penketh Trelawney Tremaine Trevithick }
-	}
-	cymry = {
-		color = { 173 130 0 }
-		first_names = { Alexander Rhys Gareth Seimon Lloyd Llewelyn Mervyn Huw Hywel Iwan Morys Owain Bryn }
-
-		last_names = { Ifans Glyn Lloyd Alwyn "ap Meryk" Lewis Glyndwr Maelor Iwrch Mawr Dda Elwyn }
-	}
-}
 
 italian = {
 	leader = european
@@ -890,8 +887,8 @@ levantine = {
 		}
 	}
 }
-
-turko_semitic = {
+	
+turko_semitic = {	#turanian
 	leader = arab
 	unit = MiddleEasternGC
 	turkish = {
@@ -934,6 +931,53 @@ turko_semitic = {
 		last_names = { 
 			Mollah Bek 
 			}
+	}
+	aryan = {
+		color = {144 88 81}
+		first_names = {
+			Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
+			Ebrahim Esmail "Fath Ali" Fazlollah Hamzeh Hasan Hossein Kamran Karim "Lotf Ali" 
+			Mahmoud Massoud Mohammad "Moin ed-Din" "Mozzafer ed-Din" Murad Muhsin 
+			"Naser ed-Din" Nosret Reza
+			}
+		last_names = {
+			Airom Ansari Ayrum Buzarjomehri Davallu Esfahani Farhani 
+			Jahanbani Kashani Khan Khuzai
+			Meshhedi Nakhchevani Pesyan Rokni Shafaei Shahbakhti 
+			Shirazi Tabrizi Tahmasebi Zahedi
+			}
+	}
+	kurdish = {
+		color = {176 201 238}
+		first_names = {
+			Abdal Abdulkarim Bedr Hafid Ihsan Mahmud Mohammed Qazi Reshid Said Ubaydallah
+			}
+		
+		last_names = {
+			Badirkhan Barzani Khan Shilak
+			}
+			radicalism = 10
+	}
+	tatar = {
+		color = {45 87 99}
+		first_names = {
+			Asaf Baqi Galiaskar Ismail Makhmut  Musa Rustam Yusuf
+		}
+		last_names = {
+			Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev
+		}
+	}
+	turkic = {
+		color = {64 122 239}
+		first_names = {
+			Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
+			Ebrahim Esmail "Fath Ali" Fazlollah Hamzeh Hasan Hossein Kamran Karim "Lotf Ali" 
+			Mahmoud Mahsud Mirza Mohammad "Moin ed-Din" "Mozzafer ed-Din" Murad Muhsin 
+			Nadir "Naser ed-Din" Nosret Reza
+			}
+		last_names = {
+			Beg Khan
+		}
 	}
 
 }
@@ -1033,57 +1077,6 @@ arab = {
 	union = ARA
 }
 
-iranian_turanian = {
-	leader = arab
-	unit = MiddleEasternGC
-	aryan = {
-		color = {144 88 81}
-		first_names = {
-			Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
-			Ebrahim Esmail "Fath Ali" Fazlollah Hamzeh Hasan Hossein Kamran Karim "Lotf Ali" 
-			Mahmoud Massoud Mohammad "Moin ed-Din" "Mozzafer ed-Din" Murad Muhsin 
-			"Naser ed-Din" Nosret Reza
-			}
-		last_names = {
-			Airom Ansari Ayrum Buzarjomehri Davallu Esfahani Farhani 
-			Jahanbani Kashani Khan Khuzai
-			Meshhedi Nakhchevani Pesyan Rokni Shafaei Shahbakhti 
-			Shirazi Tabrizi Tahmasebi Zahedi
-			}
-	}
-	kurdish = {
-		color = {176 201 238}
-		first_names = {
-			Abdal Abdulkarim Bedr Hafid Ihsan Mahmud Mohammed Qazi Reshid Said Ubaydallah
-			}
-		
-		last_names = {
-			Badirkhan Barzani Khan Shilak
-			}
-			radicalism = 10
-	}
-	tatar = {
-		color = {45 87 99}
-		first_names = {
-			Asaf Baqi Galiaskar Ismail Makhmut  Musa Rustam Yusuf
-		}
-		last_names = {
-			Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev
-		}
-	}
-	turkic = {
-		color = {64 122 239}
-		first_names = {
-			Abbas Abolghasem Abdolhossein Abdolsamad Abdolazim Ahmad Ali Bahram
-			Ebrahim Esmail "Fath Ali" Fazlollah Hamzeh Hasan Hossein Kamran Karim "Lotf Ali" 
-			Mahmoud Mahsud Mirza Mohammad "Moin ed-Din" "Mozzafer ed-Din" Murad Muhsin 
-			Nadir "Naser ed-Din" Nosret Reza
-			}
-		last_names = {
-			Beg Khan
-		}
-	}
-}
 central_asian = {
 	leader = asian
 	unit = MiddleEasternGC
@@ -1879,16 +1872,4 @@ african_cultures = {
         last_names = { Tsiranana Ramanantsoa Ratsimandrava Andriamahazo Ratsiraka
         }
     }
-}
-
-bears = {
-	leader = polar_bear
-	unit = EuropeanGC
-	polar_bears = {
-		color = { 200 200 200}
-		first_names = { Nanuk Ursus Isbjorn Grrrowr Bjorn Grrgrrr Rawr Bamse }
-		
-		last_names = { Beliy Medved Bjorn Rawrrorr Rrrrr Grrr Gyp Qoi Styrbjorn Blomstfjellet }
-	}
-	union = SCA
 }

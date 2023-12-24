@@ -20,7 +20,7 @@ country_event = {
 
     title = "EVTNAME600023"
 	desc = "EVTDESC600023"
-	picture = "emperor_council"
+	picture = "deliberation"
 
     option = {
         name = "The council shall help another 10 years!"
@@ -70,7 +70,7 @@ country_event = {
 
     title = "EVTNAME600024"
 	desc = "EVTDESC600024"
-	picture = "emperor_council"
+	picture = "deliberation"
     option = {
         name = "Let the council establish a new republic, we can't risk the consequences of opposing it now..."
         any_pop = {

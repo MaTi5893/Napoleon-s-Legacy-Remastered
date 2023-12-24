@@ -3,7 +3,7 @@ political_decisions = {
 		picture = anglo_jap_alliance
 		potential = {
 			tag = JAP
-			NOT = { has_country_flag = jap_sphere_chosen }
+			NOT = { has_country_flag = sphere_chosen }
 			NOT = { has_country_flag = jap_asked_france }
 			NOT = { 
 				year = 1837
@@ -16,7 +16,7 @@ political_decisions = {
 		}
 		
 		effect = {
-			set_country_flag = jap_sphere_chosen
+			set_country_flag = sphere_chosen
 			set_country_flag = jap_asked_france
 			FRA = {
 				country_event = 7770001
@@ -31,7 +31,7 @@ political_decisions = {
 		picture = usa_jap_alliance
 		potential = {
 			tag = JAP
-			NOT = { has_country_flag = jap_sphere_chosen }
+			NOT = { has_country_flag = sphere_chosen }
 			NOT = { has_country_flag = jap_asked_usa }
 			NOT = { 
 				year = 1837
@@ -44,7 +44,7 @@ political_decisions = {
 		}
 		
 		effect = {
-			set_country_flag = jap_sphere_chosen
+			set_country_flag = sphere_chosen
 			set_country_flag = jap_asked_usa
 			USA = {
 				country_event = 7770001
@@ -59,7 +59,7 @@ political_decisions = {
 		picture = russian_japan_decision
 		potential = {
 			tag = JAP
-			NOT = { has_country_flag = jap_sphere_chosen }
+			NOT = { has_country_flag = sphere_chosen }
 			NOT = { has_country_flag = jap_asked_rus }
 			NOT = { 
 				year = 1837
@@ -72,7 +72,7 @@ political_decisions = {
 		}
 		
 		effect = {
-			set_country_flag = jap_sphere_chosen
+			set_country_flag = sphere_chosen
 			set_country_flag = jap_asked_rus
 			RUS = {
 				country_event = 7770001

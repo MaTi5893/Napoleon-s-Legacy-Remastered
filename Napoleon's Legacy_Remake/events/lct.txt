@@ -7,9 +7,31 @@ country_event = {
 	title = "Setup Event"
 	desc = "Have fun GMing or whatever you're doing ~Rennes : D"
 	immediate = {	
-		PRU = { set_country_flag = anmeinvolk } #for an mein volk
-		ENG = { set_country_flag = adu} 
-		NET = { set_country_flag = adu} 
+		CHI = { 
+			all_core = {
+				limit = {
+				NOT = { owned_by = MGL } 
+				NOT = { owned_by = TIB } 
+				NOT = { owned_by = MCK } 
+				NOT = { owned_by = XIN } 
+				NOT = { province_id = 1485 }
+				NOT = { province_id = 2562 }
+				NOT = { province_id = 1499 }
+				NOT = { province_id = 3249 }
+				NOT = { province_id = 1496 }
+				NOT = { province_id = 1498 }
+				NOT = { province_id = 1608 }
+				NOT = { province_id = 1606 }
+				NOT = { province_id = 1538 }
+				NOT = { province_id = 1566 }
+				NOT = { province_id = 1569 }
+				NOT = { province_id = 1481 }
+				}
+				any_pop = {
+						reduce_pop = 0.30
+				}		
+			}
+		}
 		AUS_641 = {
 				any_pop = {
 					limit = {
@@ -60,13 +82,12 @@ country_event = {
 				tag = CHL
             			tag = MEX
             			tag = ARG
-         			tag = CLM
+         				tag = CLM
             			tag = VNZ
             			tag = ECU
             			tag = UCA
             			tag = PRG
             			tag = TEX
-            			tag = BOL
             			tag = PEU
 				}	
 			}
@@ -299,19 +320,18 @@ country_event = {
 						OR = {
 						owned_by = MEX
 						owned_by = CLM
-						owned_by = ENG
+						owned_by = CAN
 						owned_by = ARG
-						owned_by = BRZ
+						owned_by = UPB
 						owned_by = CHL
 						owned_by = ECU	
-						owned_by = DOM
 						owned_by = UCA
 						owned_by = VNZ
 						owned_by = URU
 						owned_by = PRG
 						owned_by = BOL
 						owned_by = PEU
-						#owned_by = RPL
+						
 						}
 					life_rating = 30
 					NOT = { life_rating = 31 }
@@ -334,14 +354,13 @@ country_event = {
 						owned_by = BRZ
 						owned_by = CHL
 						owned_by = ECU	
-						owned_by = DOM
+						owned_by = CAN
 						owned_by = UCA
 						owned_by = VNZ
 						owned_by = URU
 						owned_by = PRG
 						owned_by = BOL
 						owned_by = PEU
-						#owned_by = RPL
 						owned_by = UPB
 						}
 					life_rating = 25

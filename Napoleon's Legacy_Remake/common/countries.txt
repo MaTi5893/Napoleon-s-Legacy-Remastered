@@ -299,8 +299,6 @@ BYE		= "countries/Belarus.txt"
 PLC		= "countries/Poland-Lithuania.txt"
 GCO		="countries/Gran Colombia.txt"
 
-##HoD
-JAN 	= "countries/JanMayen.txt"
 
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions

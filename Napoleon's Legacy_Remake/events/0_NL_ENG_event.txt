@@ -43,7 +43,7 @@ country_event = {
 
     title = "EVTNAME600034"
 	desc = "EVTDESC600034"
-	picture = "debate"
+	picture = "deliberation"
     option = {
         name = "Establish the Capital in South Africa"
         any_pop = {

@@ -1,8 +1,8 @@
-# Japanese sphereing events - 1836 only
+# Japanese/Egyptian sphering events 
 country_event = {
 	id = 7770001
-	title = "The Japanese Question"
-	desc = "Japan has requested you sphere them with this one time use event!"
+	title = "The $FROMCOUNTRY_ADJ$ Question"
+	desc = "$FROMCOUNTRY$ has requested you sphere them with this one time use event!"
 	picture = "dixie"
 	
 	is_triggered_only = yes
@@ -12,10 +12,10 @@ country_event = {
 	option = {
 		name = "Alright, sounds good."
 		diplomatic_influence = {
-			who = JAP
+			who = FROM
 			value = 400
 		}
-		JAP = {
+		FROM = {
 			country_event = { id=7770003 days=0 }
 		}
 		ai_chance = {
@@ -24,9 +24,9 @@ country_event = {
 	}
 	
 	option = {
-		name = "Fuck Off."
-		JAP = {
-			clr_country_flag = jap_sphere_chosen
+		name = "No"
+		FROM = {
+			clr_country_flag = sphere_chosen
 			country_event = { id=7770002 days=0 }
 		}
 	}

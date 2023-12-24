@@ -2,7 +2,6 @@ owner = DEN
 controller = DEN
 add_core = SCA
 add_core = NOR
-add_core = JAN
 add_core = NWE
 trade_goods = fish
 life_rating = 35

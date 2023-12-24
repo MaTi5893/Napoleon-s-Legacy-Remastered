@@ -19,7 +19,7 @@ social_democracy = {
 			}
 			modifier = {
 				factor = 2
-				invention = jean_jaurès
+				invention = jean_jaures
 			}
 			modifier = {
 				factor = 5

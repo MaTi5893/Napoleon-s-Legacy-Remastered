@@ -70,7 +70,8 @@ political_decisions = {
 	declaration_an_mein_volk= {
 		picture = decision_volk_PRU
 		potential = {
-			has_country_flag = anmeinvolk
+			is_culture_group = germanic
+			NOT = { has_country_flag = declaration_an_mein_volk}
 			NOT = {
 				OR = {
 					NGF = {exists = yes}
@@ -92,9 +93,6 @@ political_decisions = {
 		}
 		effect = {
 			prestige = 10
-			PRU = { clr_country_flag = anmeinvolk }
-			BAV = { clr_country_flag = anmeinvolk }
-			HAN = { clr_country_flag = anmeinvolk }
 			add_country_modifier = {
 				name = an_mein_volk
 				duration = 3650
