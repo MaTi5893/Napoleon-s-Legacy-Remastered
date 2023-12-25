@@ -5,43 +5,43 @@
 1384 = {
     clergymen = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 50
     }
 
     artisans = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 2450
     }
 
     farmers = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 500
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 50
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 250
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 4700
     }
 
     artisans = {
         culture = tamil
-        religion = hindu
+        religion = catholic #hindu
         size = 1100
     }
 }
@@ -49,55 +49,55 @@
 1386 = {
     clergymen = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 50
     }
 
     artisans = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 1450
     }
 
     farmers = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 1500
     }
 
     aristocrats = {
         culture = british
-        religion = protestant
+        religion = catholic #protestant
         size = 175
     }
 
     bureaucrats = {
         culture = british
-        religion = protestant
+        religion = catholic #protestant
         size = 25
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 100
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 500
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 100
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 9300
     }
 }
@@ -105,43 +105,43 @@
 1388 = {
     clergymen = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 50
     }
 
     artisans = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 3875
     }
 
     farmers = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 2075
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 150
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 750
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 200
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 13900
     }
 }
@@ -150,61 +150,61 @@
 1385 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 250
     }
 
     bureaucrats = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 125
     }
 
     officers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 75
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 250
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 1250
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 1100
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 22050
     }
 
     clergymen = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 50
     }
 
     artisans = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 1450
     }
 
     farmers = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 500
     }
 }
@@ -212,49 +212,49 @@
 1387 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 150
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 150
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 750
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 1100
     }
 
     labourers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 12950
     }
 
     clergymen = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 50
     }
 
     artisans = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 950
     }
 
     farmers = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 1100
     }
 }
@@ -262,31 +262,31 @@
 1390 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 75
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 75
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 400
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 75
     }
 
     labourers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 7375
     }
 }
@@ -294,49 +294,49 @@
 2575 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 300
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 300
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 1500
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 1100
     }
 
     labourers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 25900
     }
 
     clergymen = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 75
     }
 
     artisans = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 925
     }
 
     farmers = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 2000
     }
 }
@@ -345,49 +345,49 @@
 1389 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 300
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 300
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 1350
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 250
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 24800
     }
 
     clergymen = {
         culture = thai
-        religion = mahayana
+        religion = catholic #mahayana
         size = 50
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = catholic #mahayana
         size = 950
     }
 
     farmers = {
         culture = thai
-        religion = mahayana
+        religion = catholic #mahayana
         size = 1100
     }
 }
@@ -395,49 +395,49 @@
 1391 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 400
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 425
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 2000
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 350
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 36825
     }
 
     clergymen = {
         culture = thai
-        religion = mahayana
+        religion = catholic #mahayana
         size = 50
     }
 
     artisans = {
         culture = thai
-        religion = mahayana
+        religion = catholic #mahayana
         size = 950
     }
 
     farmers = {
         culture = thai
-        religion = mahayana
+        religion = catholic #mahayana
         size = 1100
     }
 }
@@ -447,43 +447,43 @@
 1393 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 75
     }
 
     bureaucrats = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 50
     }
 
     officers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 25
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 50
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 300
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 75
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 5425
     }
 }
@@ -491,79 +491,79 @@
 1394 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 100
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 100
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 500
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 1100
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 8300
     }
 
     aristocrats = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 125
     }
 
     clergymen = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 100
     }
 
     artisans = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 525
     }
 
     soldiers = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 125
     }
 
     farmers = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 10125
     }
 
     clergymen = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 25
     }
 
     artisans = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 475
     }
 
     farmers = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 500
     }
 }
@@ -571,61 +571,61 @@
 1395 = {
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 25
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 50
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 150
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 50
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 2725
     }
 
     aristocrats = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 100
     }
 
     clergymen = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     artisans = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 350
     }
 
     soldiers = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 100
     }
 
     farmers = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 7375
     }
 }
@@ -633,79 +633,79 @@
 1396 = {
     aristocrats = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 50
     }
 
     clergymen = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 50
     }
 
     artisans = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 250
     }
 
     soldiers = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     farmers = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 5575
     }
 
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 75
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 75
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 350
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 75
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 6425
     }
 
     clergymen = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 25
     }
 
     artisans = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 500
     }
 
     farmers = {
         culture = malay
-        religion = mahayana
+        religion = catholic #mahayana
         size = 475
     }
 }
@@ -714,61 +714,61 @@
 1397 = {
     aristocrats = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     clergymen = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     artisans = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 300
     }
 
     soldiers = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     farmers = {
         culture = malay
-        religion = animist
+        religion = catholic #animist
         size = 6475
     }
 
     aristocrats = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 25
     }
 
     clergymen = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 50
     }
 
     artisans = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 150
     }
 
     soldiers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 25
     }
 
     farmers = {
         culture = malay
-        religion = sunni
+        religion = catholic #sunni
         size = 2750
     }
 }

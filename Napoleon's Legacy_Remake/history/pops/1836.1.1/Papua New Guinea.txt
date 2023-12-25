@@ -4,31 +4,31 @@
 2528 = {
 	aristocrats = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 1025
 	}
 
 	clergymen = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 525
 	}
 
 	artisans = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 2650
 	}
 
 	soldiers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 550
 	}
 
 	farmers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 48350
 	}
 }
@@ -36,31 +36,31 @@
 2529 = {
 	aristocrats = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 550
 	}
 
 	clergymen = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 300
 	}
 
 	artisans = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 1450
 	}
 
 	soldiers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 300
 	}
 
 	farmers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 26400
 	}
 }
@@ -68,31 +68,31 @@
 2530 = {
 	aristocrats = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 1300
 	}
 
 	clergymen = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 650
 	}
 
 	artisans = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 3300
 	}
 
 	soldiers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 675
 	}
 
 	farmers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 60075
 	}
 }
@@ -100,31 +100,31 @@
 2531 = {
 	aristocrats = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 1475
 	}
 
 	clergymen = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 750
 	}
 
 	artisans = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 3750
 	}
 
 	soldiers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 750
 	}
 
 	farmers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 68375
 	}
 }
@@ -134,31 +134,31 @@
 1531 = {
 	aristocrats = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 500
 	}
 
 	clergymen = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 250
 	}
 
 	artisans = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 1300
 	}
 
 	soldiers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 275
 	}
 
 	farmers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 23675
 	}
 }
@@ -166,31 +166,31 @@
 2537 = {
 	aristocrats = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 700
 	}
 
 	clergymen = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 350
 	}
 
 	artisans = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 1800
 	}
 
 	soldiers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 375
 	}
 
 	farmers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 32775
 	}
 }
@@ -198,31 +198,31 @@
 2539 = {
 	aristocrats = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 250
 	}
 
 	clergymen = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	artisans = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 700
 	}
 
 	soldiers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	farmers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 12750
 	}
 }

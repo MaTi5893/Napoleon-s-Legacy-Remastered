@@ -35,7 +35,7 @@ country_event = {
 		}
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+			modifier = { factor = 0 CAN = { exists = no } }
 		}
 	}
 	
@@ -46,7 +46,7 @@ country_event = {
 		}
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+			modifier = { factor = 0 MEX = { exists = no } }
 		}
 	}
 	
@@ -57,7 +57,7 @@ country_event = {
 		}
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+			modifier = { factor = 0 GCO = { exists = no } }
 		}
 	}
 	
@@ -68,7 +68,7 @@ country_event = {
 		}
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+			modifier = { factor = 0 CLM = { exists = no } }
 		}
 	}
 	
@@ -79,7 +79,7 @@ country_event = {
 		}
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+			modifier = { factor = 0 BRZ = { exists = no } }
 		}
 	}
 
@@ -90,7 +90,7 @@ country_event = {
 		}
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+			modifier = { factor = 0 PEU = { exists = no } }
 		}
 	}	
 
@@ -101,7 +101,7 @@ country_event = {
 		}
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+			modifier = { factor = 0 ARG = { exists = no } }
 		}
 	}
 
@@ -112,7 +112,7 @@ country_event = {
 		}
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+			modifier = { factor = 0 LPL = { exists = no } }
 		}
 	}
 
@@ -123,7 +123,7 @@ country_event = {
 		} 
 		ai_chance = {
 			factor = 1
-			modifier = { factor = 0 NAU = { exists = no } }
+			modifier = { factor = 0 UPB = { exists = no } }
 		}
 	}
 	

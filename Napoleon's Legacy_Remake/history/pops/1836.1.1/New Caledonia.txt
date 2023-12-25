@@ -4,31 +4,31 @@
 1097 = {
 	aristocrats = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	clergymen = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 300
 	}
 
 	soldiers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	farmers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 5475
 	}
 }

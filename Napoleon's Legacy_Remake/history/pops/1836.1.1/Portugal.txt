@@ -3,49 +3,49 @@
 518 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 1500
 	}
 
 	officers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 500
 	}
 
 	bureaucrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 800
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 1100
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 10000
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 5500
 	}
 	
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 8000
 	}
 
 	farmers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 170200
 	}
 }
@@ -53,31 +53,31 @@
 519 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 850
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 625
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 4250
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 1100
 	}
 
 	farmers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 74275
 	}
 }
@@ -85,31 +85,31 @@
 520 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 1250
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 1500
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 7250
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 7000
 	}
 
 	farmers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 130500
 	}
 
@@ -119,85 +119,85 @@
 521 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 1100
 	}
 
 	officers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 350
 	}
 
 	bureaucrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 650
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 1100
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 10000
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 10000
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 10000
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 10000
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 10000
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 5000
 	}
 
 	clerks = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 25
 	}
 	
 	craftsmen = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 3475
 	}
 	
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 4500
 	}
 
 	farmers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 22500
 	}
 }
@@ -205,31 +205,31 @@
 522 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 1200
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 1200
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 5800
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 5000
 	}
 
 	farmers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 104800
 	}
 }
@@ -237,31 +237,31 @@
 523 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 450
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 350
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 2250
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 400
 	}
 
 	farmers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 31550
 	}
 }
@@ -269,31 +269,31 @@
 524 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 400
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 300
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 3000
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 1500
 	}
 
 	farmers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 22800
 	}
 
@@ -303,43 +303,43 @@
 525 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 850
 	}
 
 	officers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 150
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 425
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 2250
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 1100
 	}
 
 	farmers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 34250
 	}
 }
@@ -347,31 +347,31 @@
 526 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 500
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 250
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 1250
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 250
 	}
 
 	farmers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 21750
 	}
 }
@@ -379,31 +379,31 @@
 527 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 550
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 325
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 1750
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 350
 	}
 
 	farmers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 27025
 	}
 
@@ -413,43 +413,43 @@
 2134 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 500
 	}
 
 	officers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 50
 	}
 
 	bureaucrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 375
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 3000
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 1100
 	}
 
 	farmers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 45975
 	}
 }
@@ -457,31 +457,31 @@
 2135 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 250
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 175
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 1500
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 250
 	}
 
 	farmers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 23825
 	}
 

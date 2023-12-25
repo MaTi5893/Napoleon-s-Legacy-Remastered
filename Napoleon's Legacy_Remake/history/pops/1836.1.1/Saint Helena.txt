@@ -4,31 +4,31 @@
 2129 = {
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 5
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 25
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 20
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 50
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 900
 	}
 }
@@ -36,13 +36,13 @@
 2130 = {
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 10
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 25
 	}
 }
@@ -50,7 +50,7 @@
 2132 = {
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 25
 	}
 

@@ -4,61 +4,61 @@
 1954 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 20
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 5
 	}
 
 	bureaucrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 5
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = catholic
+		religion = catholic #catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = bantu
-		religion = catholic
+		religion = catholic #catholic
 		size = 200
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = catholic
+		religion = catholic #catholic
 		size = 100
 	}
 
 	farmers = {
 		culture = bantu
-		religion = catholic
+		religion = catholic #catholic
 		size = 550
 	}
 
 	slaves = {
 		culture = bantu
-		religion = catholic
+		religion = catholic #catholic
 		size = 3450
 	}
 

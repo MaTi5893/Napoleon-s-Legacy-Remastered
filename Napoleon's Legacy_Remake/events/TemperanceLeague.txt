@@ -9,8 +9,8 @@ country_event = {
 		civilized = yes
 		NOT = {
 			OR = {
-				religion = sunni
-				religion = shiite
+				is_culture_group = turko_semitic
+				is_culture_group = arab
 			}
 		}
 		NOT = {
@@ -74,8 +74,8 @@ country_event = {
 		civilized = yes
 		NOT = {
 			OR = {
-				religion = sunni
-				religion = shiite
+				is_culture_group = turko_semitic
+				is_culture_group = arab
 			}
 		}
 		NOT = {
@@ -310,78 +310,6 @@ province_event = {
 	}
 }
 
-#Religious Temperance
-country_event = {
-	id = 150
-	title = "EVTNAME150"
-	desc = "EVTDESC150"
-	picture = "god"
-
-	trigger = {
-		civilized = yes
-		NOT = {
-			OR = {
-				religion = sunni
-				religion = shiite
-			}
-		}
-		moralism = 10
-		conservative = 20
-	}
-	
-	mean_time_to_happen = {
-		months = 500
-		modifier = {
-			factor = 0.9
-			moralism = 15
-		}
-		modifier = {
-			factor = 0.9
-			average_consciousness = 5
-		}
-		modifier = {
-			factor = 0.9
-			average_militancy = 5
-		}
-		modifier = {
-			factor = 1.5
-			NOT = {
-				average_consciousness = 5
-			}
-		}
-		modifier = {
-			factor = 0.9
-			religious_policy = moralism
-		}
-	}
-	
-	option = {
-		name = "EVTOPTA150"
-		random_state = {
-			limit = {
-				is_colonial = no
-			}
-			any_pop = {
-				dominant_issue = {
-					value = moralism
-					factor = 0.5
-				}
-			}
-		}
-	}
-	
-	option = {
-		name = "EVTOPTB150"
-		random_state = {
-			limit = {
-				is_colonial = no
-			}
-			any_pop = {
-				consciousness = 1
-			}
-		}
-	}
-}
 	
 #Licensing Act
 country_event = {
@@ -391,22 +319,13 @@ country_event = {
 	picture = "liquor"
 		
 	trigger = {
-		civilized = yes
-		NOT = {
-			OR = {
-				religion = sunni
-				religion = shiite
-			}
-		}
 		has_country_modifier = temperance_league
+		civilized = yes
 	}
 
 	mean_time_to_happen = {
 		months = 300
-		modifier = {
-			factor = 0.9
-			moralism = 20
-		}
+
 		modifier = {
 			factor = 0.9
 			conservative = 50
@@ -463,14 +382,12 @@ country_event = {
 	picture = "Demonstration"	
 	
 	trigger = {
-		civilized = yes
-		NOT = {
-			OR = {
-				religion = sunni
-				religion = shiite
-			}
-		}
 		socialist = 20
+		civilized = yes
+			OR = {
+				is_culture_group = turko_semitic
+				is_culture_group = arab
+			}
 	}
 
 	mean_time_to_happen = {

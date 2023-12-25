@@ -3,7 +3,7 @@ political_decisions = {
 		picture = anglo_jap_alliance
 		potential = {
 			tag = EGY
-			NOT = { has_country_flag = egy_sphere_chosen }
+			NOT = { has_country_flag = sphere_chosen }
 			NOT = { has_country_flag = egy_asked_france }
 			NOT = { 
 				year = 1837
@@ -16,10 +16,10 @@ political_decisions = {
 		}
 		
 		effect = {
-			set_country_flag = egy_sphere_chosen
+			set_country_flag = sphere_chosen
 			set_country_flag = egy_asked_france
 			FRA = {
-				country_event = 7770004
+				country_event = 7770001
 			}
 		}
 		ai_will_do = {
@@ -30,7 +30,7 @@ political_decisions = {
 		picture = anglo_jap_alliance
 		potential = {
 			tag = EGY
-			NOT = { has_country_flag = egy_sphere_chosen }
+			NOT = { has_country_flag = sphere_chosen }
 			NOT = { has_country_flag = egy_asked_tur }
 			NOT = { 
 				year = 1837
@@ -43,10 +43,10 @@ political_decisions = {
 		}
 		
 		effect = {
-			set_country_flag = egy_sphere_chosen
+			set_country_flag = sphere_chosen
 			set_country_flag = egy_asked_tur
 			FRA = {
-				country_event = 7770004
+				country_event = 7770001
 			}
 		}
 		ai_will_do = {
@@ -57,7 +57,7 @@ political_decisions = {
 		picture = russian_japan_decision
 		potential = {
 			tag = EGY
-			NOT = { has_country_flag = egy_sphere_chosen }
+			NOT = { has_country_flag = sphere_chosen }
 			NOT = { has_country_flag = egy_asked_russia }
 			NOT = { 
 				year = 1837
@@ -70,10 +70,10 @@ political_decisions = {
 		}
 		
 		effect = {
-			set_country_flag = egy_sphere_chosen
+			set_country_flag = sphere_chosen
 			set_country_flag = egy_asked_russia
 			FRA = {
-				country_event = 7770004
+				country_event = 7770001
 			}
 		}
 		ai_will_do = {

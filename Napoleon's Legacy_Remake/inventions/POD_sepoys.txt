@@ -14,7 +14,7 @@ caste_privileges = {
 		base = 5
 		modifier = {
 			factor = 2
-			religious_policy = moralism 
+			#religious_policy = moralism 
 		}
 		modifier = {
 			factor = 1
@@ -48,7 +48,7 @@ sati_abolished = {
 		base = 5
 		modifier = {
 			factor = 2
-			religious_policy = moralism 
+			#religious_policy = moralism 
 		}
 		modifier = {
 			factor = 1
@@ -81,7 +81,7 @@ pig_fat_cartridges = {
 		base = 5
 		modifier = {
 			factor = 2
-			religious_policy = moralism 
+			#religious_policy = moralism 
 		}
 		modifier = {
 			factor = 1

@@ -4,85 +4,85 @@
 2125 = {
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 20
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 130
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 25
 	}
 
 	aristocrats = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 50
 	}
 
 	bureaucrats = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 30
 	}
 
 	artisans = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 180
 	}
 
 	clergymen = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 20
 	}
 
 	soldiers = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 20
 	}
 
 	farmers = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 200
 	}
 
 	clergymen = {
 		culture = malagasy
-		religion = protestant
+		religion = catholic #protestant
 		size = 125
 	}
 
 	artisans = {
 		culture = malagasy
-		religion = protestant
+		religion = catholic #protestant
 		size = 1100
 	}
 
 	soldiers = {
 		culture = malagasy
-		religion = protestant
+		religion = catholic #protestant
 		size = 250
 	}
 
 	farmers = {
 		culture = malagasy
-		religion = catholic
+		religion = catholic #catholic
 		size = 22375
 	}
 }
@@ -90,7 +90,7 @@
 2128 = {
 	farmers = {
 		culture = malagasy
-		religion = catholic
+		religion = catholic #catholic
 		size = 175
 	}
 

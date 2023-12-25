@@ -4,97 +4,97 @@
 2241 = {
 	aristocrats = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 150
 	}
 
 	bureaucrats = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 10
 	}
 
 	artisans = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 100
 	}
 
 	soldiers = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 50
 	}
 
 	farmers = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 80
 	}
 
 	artisans = {
 		culture = afro_antillean
-		religion = catholic
+		religion = catholic #catholic
 		size = 150
 	}
 
 	clergymen = {
 		culture = afro_antillean
-		religion = catholic
+		religion = catholic #catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = afro_antillean
-		religion = catholic
+		religion = catholic #catholic
 		size = 50
 	}
 
 	farmers = {
 		culture = afro_antillean
-		religion = catholic
+		religion = catholic #catholic
 		size = 425
 	}
 
 	slaves = {
 		culture = afro_antillean
-		religion = catholic
+		religion = catholic #catholic
 		size = 2950
 	}
 
 	aristocrats = {
 		culture = brazilian
-		religion = animist
+		religion = catholic #animist
 		size = 2
 	}
 
 	clergymen = {
 		culture = brazilian
-		religion = animist
+		religion = catholic #animist
 		size = 3
 	}
 
 	artisans = {
 		culture = brazilian
-		religion = animist
+		religion = catholic #animist
 		size = 10
 	}
 
 	soldiers = {
 		culture = brazilian
-		religion = animist
+		religion = catholic #animist
 		size = 5
 	}
 
 	farmers = {
 		culture = brazilian
-		religion = animist
+		religion = catholic #animist
 		size = 230
 	}
 }
@@ -102,31 +102,31 @@
 2246 = {
 	aristocrats = {
 		culture = brazilian
-		religion = animist
+		religion = catholic #animist
 		size = 10
 	}
 
 	clergymen = {
 		culture = brazilian
-		religion = animist
+		religion = catholic #animist
 		size = 15
 	}
 
 	artisans = {
 		culture = brazilian
-		religion = animist
+		religion = catholic #animist
 		size = 35
 	}
 
 	soldiers = {
 		culture = brazilian
-		religion = animist
+		religion = catholic #animist
 		size = 10
 	}
 
 	farmers = {
 		culture = brazilian
-		religion = animist
+		religion = catholic #animist
 		size = 680
 	}
 

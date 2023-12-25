@@ -4,43 +4,43 @@
 2234 = {
 	bureaucrats = {
 		culture = dutch
-		religion = protestant
+		religion = catholic #protestant
 		size = 5
 	}
 
 	soldiers = {
 		culture = dutch
-		religion = protestant
+		religion = catholic #protestant
 		size = 25
 	}
 
 	artisans = {
 		culture = dutch
-		religion = protestant
+		religion = catholic #protestant
 		size = 70
 	}
 
 	clergymen = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = catholic #catholic
 		size = 20
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = catholic #catholic
 		size = 150
 	}
 
 	soldiers = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = catholic #catholic
 		size = 30
 	}
 
 	slaves = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = catholic #catholic
 		size = 2800
 	}
 }
@@ -48,19 +48,19 @@
 2235 = {
 	clergymen = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = catholic #catholic
 		size = 25
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = catholic #catholic
 		size = 25
 	}
 
 	slaves = {
 		culture = afro_caribbean
-		religion = catholic
+		religion = catholic #catholic
 		size = 550
 	}
 }
@@ -68,19 +68,19 @@
 2236 = {
 	clergymen = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 25
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 55
 	}
 
 	slaves = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 1120
 	}
 

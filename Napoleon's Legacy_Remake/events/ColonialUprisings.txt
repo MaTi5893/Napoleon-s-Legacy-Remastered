@@ -511,63 +511,6 @@ country_event = {
 	}
 }
 
-# Holy Site Disturbed
-province_event = {
-	id = 14580
-	title = "EVTNAME14580"
-	desc = "EVTDESC14580"
-	
-	trigger = {
-		is_colonial = yes
-		is_state_religion = no
-	}
-	
-	mean_time_to_happen = {
-		months = 1200
-		modifier = {
-			factor = 0.9
-			owner = {
-				average_consciousness = 4
-			}
-		}
-		modifier = {
-			factor = 0.9
-			owner = {
-				average_consciousness = 5
-			}
-		}
-		modifier = {
-			factor = 2 # 1.5
-			owner = {
-				nationalism_n_imperialism = 1
-			}
-		}
-	}
-	option = {
-		name = "EVTOPTA14580"
-		state_scope = {
-			any_pop = {
-				limit = {
-					is_state_religion = no
-				}
-				militancy = 5
-			}
-		}
-	}
-	
-	option = {
-		name = "EVTOPTB14580"
-		state_scope = {
-			any_pop = {
-				limit = {
-					is_state_religion = no
-				}
-				militancy = 3
-				consciousness = 2
-			}
-		}
-	}
-}
 
 # Disloyal Regiment
 province_event = {

@@ -191,11 +191,8 @@ political_decisions = {
  		effect = {
  			plurality = 5
  			any_pop = {
- 				limit = {
- 					religion = shiite
- 				}
  				consciousness = 2
- 				militancy = 3
+ 				militancy = 2
  			}
  			set_country_flag = bab_dead
 		}

@@ -6,457 +6,457 @@
 2087 = {
     clergymen = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 48
     }
 
     artisans = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 720
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 144
     }
 
     farmers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 8692
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 48
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 720
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 144
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 11573
     }
 
     aristocrats = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 20
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 68
     }
 
     bureaucrats = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 58
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2401
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 96
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 4082
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 72
     }
 
     bureaucrats = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 28
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1056
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1056
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 10704
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 15
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 3
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 177
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 15
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 3
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 236
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 49
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 83
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 22
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 22
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 219
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 15
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 3
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 177
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 15
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 3
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 236
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 49
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 83
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 22
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 22
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 218
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 4
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 5
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 4
     }
 }
@@ -464,505 +464,505 @@
 2089 = {
     clergymen = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 48
     }
 
     artisans = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 240
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 96
     }
 
     farmers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 7299
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 72
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 144
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 72
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 6435
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 76
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 672
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 20
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 3289
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 96
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 48
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 96
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 96
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 9268
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 15
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 288
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 24
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 634
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 5
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 149
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 3
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 131
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 14
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 68
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 189
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 6
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 13
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 5
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 149
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 3
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 131
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 14
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 67
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 189
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 6
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 13
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 3
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 3
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 }
@@ -970,385 +970,385 @@
 2090 = {
     clergymen = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 72
     }
 
     artisans = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 192
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 96
     }
 
     farmers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 6362
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 48
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 288
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 48
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 3865
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 72
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 96
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 144
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 14093
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 15
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 288
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 24
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 634
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 4
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 130
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 6
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 79
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 3
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 288
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 6
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 13
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 4
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 130
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 6
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 79
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 3
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 288
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 6
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 13
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 3
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 6
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 }
@@ -1356,338 +1356,338 @@
 2091 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 24
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 144
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 24
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1512
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 48
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 144
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 24
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1729
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 33
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 48
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 24
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2775
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 24
     }
 
     artisans = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 96
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 24
     }
 
     farmers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 1777
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 3
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 31
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 3
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 35
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 57
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 36
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 3
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 31
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 3
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 35
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 57
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 36
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 }
@@ -1697,31 +1697,31 @@
 2088 = {
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 25
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 50
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 150
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 25
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2750
     }
 }
@@ -1732,289 +1732,289 @@
 2092 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 24
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 144
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 24
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2353
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 15
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 192
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 10
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 744
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 48
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 96
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 48
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4610
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 3
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 48
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 4
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 16
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 94
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 3
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 48
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 4
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 15
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 94
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 }
@@ -2022,313 +2022,313 @@
 2093 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 15
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 96
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 10
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 792
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 24
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 48
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 24
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2785
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 24
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 24
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 48
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 24
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1800
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 17
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 57
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 37
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 16
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 57
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 37
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 }
@@ -2336,217 +2336,217 @@
 2558 = {
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 48
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 48
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 144
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 48
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 5474
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 24
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 240
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 24
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2257
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 3
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 112
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 5
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 46
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 3
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 112
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 5
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 46
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 }
@@ -2555,31 +2555,31 @@
 2094 = {
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 400
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 400
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1600
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 400
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 36200
     }
 }
@@ -2588,31 +2588,31 @@
 2095 = {
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 50
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 50
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 200
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 50
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4650
     }
 }
@@ -2622,409 +2622,409 @@
 2096 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 24
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 288
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 24
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2545
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 38
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 33
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 96
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 24
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 3746
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 15
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 15
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 10
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 922
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 24
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 48
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 24
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2785
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 6
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 52
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 76
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 19
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 57
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 6
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 52
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 76
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 19
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 57
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 }
@@ -3032,433 +3032,433 @@
 2097 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 10
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 144
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 15
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 8475
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 24
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 24
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 96
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 48
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 3650
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 10
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 15
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 96
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 24
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 816
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 24
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 96
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 24
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 3698
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 3
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 173
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 74
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 17
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 3
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 173
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 74
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 17
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 4
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 }
@@ -3467,121 +3467,121 @@
 2098 = {
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 96
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 96
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 480
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 96
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 8836
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 10
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 180
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 10
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 180
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4
     }
 }
@@ -3589,121 +3589,121 @@
 2099 = {
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 96
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 96
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 480
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 96
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 8836
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 10
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 180
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 10
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 180
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4
     }
 }
@@ -3711,121 +3711,121 @@
 2100 = {
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 192
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 192
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 864
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 192
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 15847
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 18
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 323
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 18
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 323
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 7
     }
 }
@@ -3836,265 +3836,265 @@
 2101 = {
     bureaucrats = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     officers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 3
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 5
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 48
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 86
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 576
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 888
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 456
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2280
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 456
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 41777
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 12
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 19
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 10
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 47
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 10
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 853
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 12
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 18
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 9
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 47
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 9
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 853
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 17
     }
 }
@@ -4102,337 +4102,337 @@
 2102 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 5
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 24
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1056
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 404
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 336
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 216
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1056
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 192
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 17503
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 72
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 48
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 240
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 48
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4393
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 22
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 8
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 7
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 5
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 22
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 358
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 5
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 90
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 22
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 8
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 7
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 22
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 357
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 5
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 90
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 7
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 }
@@ -4440,217 +4440,217 @@
 2103 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 10
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 48
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 86
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 576
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 384
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 192
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 984
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 192
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 17935
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 12
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 8
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 21
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 367
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 12
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 8
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 20
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 366
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 7
     }
 }
@@ -4658,169 +4658,169 @@
 2104 = {
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 600
     }
 
     bureaucrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 24
     }
 
     officers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 120
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 312
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1537
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 312
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 27827
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 13
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 3
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 7
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 31
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 7
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 568
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 12
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 6
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 31
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 6
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 568
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 0
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 12
     }
 }
@@ -4831,67 +4831,67 @@
 2105 = {
     bureaucrats = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 2
     }
 
     officers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 3
     }
 
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 5
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 20
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1100
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 320
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 650
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 350
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1350
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 350
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 31300
     }
 }
@@ -4899,55 +4899,55 @@
 2106 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 10
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 25
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 65
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 500
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 425
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 250
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1250
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 250
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 22775
     }
 }
@@ -4956,85 +4956,85 @@
 2107 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 5
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 15
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 25
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 205
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 225
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 125
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 600
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 125
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 15925
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 275
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 150
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 600
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 150
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 8825
     }
 }
@@ -5045,85 +5045,85 @@
 2108 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 3
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 6
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 40
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 50
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 200
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 50
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 2625
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 125
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 350
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 8375
     }
 }
@@ -5132,55 +5132,55 @@
 2109 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 3
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 12
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 15
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 120
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 225
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 125
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 650
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 150
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 11850
     }
 }
@@ -5189,85 +5189,85 @@
 2110 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 1
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 3
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 6
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 40
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 50
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 150
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 25
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4700
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 50
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 175
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 50
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1750
     }
 }
@@ -5278,85 +5278,85 @@
 2111 = {
     clergymen = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 5
     }
 
     artisans = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 25
     }
 
     soldiers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 50
     }
 
     farmers = {
         culture = boer
-        religion = protestant
+        religion = catholic #protestant
         size = 420
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 150
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 400
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 7275
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 425
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 225
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1050
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 250
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 21050
     }
 }
@@ -5364,31 +5364,31 @@
 2112 = {
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 750
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 400
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1950
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 7000
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 28900
     }
 }
@@ -5396,43 +5396,43 @@
 2113 = {
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 1550
     }
 
     bureaucrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 25
     }
 
     officers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 150
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 825
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 4000
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 16000
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 57450
     }
 }
@@ -5440,61 +5440,61 @@
 2114 = {
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 125
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 350
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 6375
     }
 
     aristocrats = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 250
     }
 
     clergymen = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 125
     }
 
     artisans = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 650
     }
 
     soldiers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 125
     }
 
     farmers = {
         culture = khoikhoi
-        religion = animist
+        religion = catholic #animist
         size = 11850
     }
 }

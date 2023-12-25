@@ -10,7 +10,7 @@ party = {
 
 	economic_policy = state_capitalism
 	trade_policy = protectionism
-	religious_policy = moralism
+	#religious_policy = moralism
 	citizenship_policy = residency
 	war_policy = pro_military
 }
@@ -24,7 +24,7 @@ party = {
 
 	economic_policy = laissez_faire
 	trade_policy = protectionism
-	religious_policy = pluralism
+	#religious_policy = pluralism
 	citizenship_policy = full_citizenship
 	war_policy = pacifism
 }
@@ -38,7 +38,7 @@ party = {
 
 	economic_policy = state_capitalism
 	trade_policy = protectionism
-	religious_policy = moralism
+	#religious_policy = moralism
 	citizenship_policy = residency
 	war_policy = jingoism
 }
@@ -52,7 +52,7 @@ party = {
 
 	economic_policy = laissez_faire
 	trade_policy = free_trade
-	religious_policy = pro_atheism
+	#religious_policy = pro_atheism
 	citizenship_policy = full_citizenship
 	war_policy = pro_military
 }
@@ -66,7 +66,7 @@ party = {
 
 	economic_policy = planned_economy
 	trade_policy = protectionism
-	religious_policy = secularized
+	#religious_policy = secularized
 	citizenship_policy = full_citizenship
 	war_policy = anti_military
 }
@@ -80,7 +80,7 @@ party = {
 
 	economic_policy = planned_economy
 	trade_policy = protectionism
-	religious_policy = pro_atheism
+	#religious_policy = pro_atheism
 	citizenship_policy = full_citizenship
 	war_policy = pro_military
 }
@@ -94,41 +94,41 @@ party = {
 
 	economic_policy = state_capitalism
 	trade_policy = protectionism
-	religious_policy = moralism
+	#religious_policy = moralism
 	citizenship_policy = residency
 	war_policy = jingoism
 }
 
 unit_names = {
 	dreadnought = {
-		"Tran Canh" "Tran Hoang" "Tran Kham" "Tran Thuyên" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
-		"Tran Phu" "Tran Kinh" "Tran Hien" "Tran Ngung" "Tran An" "Thai Tông" "Thanh Tông" "Nhan Tông" "Anh Tông" "Minh Tông" 
-		"Hien Tông" "Du Tông" "Nghe Tông" "Due Tông" "Thuan Tông"
+		"Tran Canh" "Tran Hoang" "Tran Kham" "Tran Thuyï¿½n" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
+		"Tran Phu" "Tran Kinh" "Tran Hien" "Tran Ngung" "Tran An" "Thai Tï¿½ng" "Thanh Tï¿½ng" "Nhan Tï¿½ng" "Anh Tï¿½ng" "Minh Tï¿½ng" 
+		"Hien Tï¿½ng" "Du Tï¿½ng" "Nghe Tï¿½ng" "Due Tï¿½ng" "Thuan Tï¿½ng"
 	}
 	ironclad = {
-		"Tran Canh" "Tran Hoang" "Tran Kham" "Tran Thuyên" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
-		"Tran Phu" "Tran Kinh" "Tran Hien" "Tran Ngung" "Tran An" "Thai Tông" "Thanh Tông" "Nhan Tông" "Anh Tông" "Minh Tông" 
-		"Hien Tông" "Du Tông" "Nghe Tông" "Due Tông" "Thuan Tông"
+		"Tran Canh" "Tran Hoang" "Tran Kham" "Tran Thuyï¿½n" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
+		"Tran Phu" "Tran Kinh" "Tran Hien" "Tran Ngung" "Tran An" "Thai Tï¿½ng" "Thanh Tï¿½ng" "Nhan Tï¿½ng" "Anh Tï¿½ng" "Minh Tï¿½ng" 
+		"Hien Tï¿½ng" "Du Tï¿½ng" "Nghe Tï¿½ng" "Due Tï¿½ng" "Thuan Tï¿½ng"
 	}
 	manowar = {
-		"Tran Canh" "Tran Hoang" "Tran Kham" "Tran Thuyên" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
-		"Tran Phu" "Tran Kinh" "Tran Hien" "Tran Ngung" "Tran An" "Thai Tông" "Thanh Tông" "Nhan Tông" "Anh Tông" "Minh Tông" 
-		"Hien Tông" "Du Tông" "Nghe Tông" "Due Tông" "Thuan Tông"
+		"Tran Canh" "Tran Hoang" "Tran Kham" "Tran Thuyï¿½n" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
+		"Tran Phu" "Tran Kinh" "Tran Hien" "Tran Ngung" "Tran An" "Thai Tï¿½ng" "Thanh Tï¿½ng" "Nhan Tï¿½ng" "Anh Tï¿½ng" "Minh Tï¿½ng" 
+		"Hien Tï¿½ng" "Du Tï¿½ng" "Nghe Tï¿½ng" "Due Tï¿½ng" "Thuan Tï¿½ng"
 	}
 	cruiser = {
-		"Tran Canh" "Tran Hoang" "Tran Kham" "Tran Thuyên" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
-		"Tran Phu" "Tran Kinh" "Tran Hien" "Tran Ngung" "Tran An" "Thai Tông" "Thanh Tông" "Nhan Tông" "Anh Tông" "Minh Tông" 
-		"Hien Tông" "Du Tông" "Nghe Tông" "Due Tông" "Thuan Tông"
+		"Tran Canh" "Tran Hoang" "Tran Kham" "Tran Thuyï¿½n" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
+		"Tran Phu" "Tran Kinh" "Tran Hien" "Tran Ngung" "Tran An" "Thai Tï¿½ng" "Thanh Tï¿½ng" "Nhan Tï¿½ng" "Anh Tï¿½ng" "Minh Tï¿½ng" 
+		"Hien Tï¿½ng" "Du Tï¿½ng" "Nghe Tï¿½ng" "Due Tï¿½ng" "Thuan Tï¿½ng"
 	}
 	frigate = {
-		"Tran Canh" "Tran Hoang" "Tran Kham" "Tran Thuyên" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
-		"Tran Phu" "Tran Kinh" "Tran Hien" "Tran Ngung" "Tran An" "Thai Tông" "Thanh Tông" "Nhan Tông" "Anh Tông" "Minh Tông" 
-		"Hien Tông" "Du Tông" "Nghe Tông" "Due Tông" "Thuan Tông"
+		"Tran Canh" "Tran Hoang" "Tran Kham" "Tran Thuyï¿½n" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
+		"Tran Phu" "Tran Kinh" "Tran Hien" "Tran Ngung" "Tran An" "Thai Tï¿½ng" "Thanh Tï¿½ng" "Nhan Tï¿½ng" "Anh Tï¿½ng" "Minh Tï¿½ng" 
+		"Hien Tï¿½ng" "Du Tï¿½ng" "Nghe Tï¿½ng" "Due Tï¿½ng" "Thuan Tï¿½ng"
 	}
 	monitor = {
-		"Tran Canh" "Tran Hoang" "Tran Kham" "Tran Thuyên" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
-		"Tran Phu" "Tran Kinh" "Tran Hien" "Tran Ngung" "Tran An" "Thai Tông" "Thanh Tông" "Nhan Tông" "Anh Tông" "Minh Tông" 
-		"Hien Tông" "Du Tông" "Nghe Tông" "Due Tông" "Thuan Tông"
+		"Tran Canh" "Tran Hoang" "Tran Kham" "Tran Thuyï¿½n" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
+		"Tran Phu" "Tran Kinh" "Tran Hien" "Tran Ngung" "Tran An" "Thai Tï¿½ng" "Thanh Tï¿½ng" "Nhan Tï¿½ng" "Anh Tï¿½ng" "Minh Tï¿½ng" 
+		"Hien Tï¿½ng" "Du Tï¿½ng" "Nghe Tï¿½ng" "Due Tï¿½ng" "Thuan Tï¿½ng"
 	}
 	clipper_transport = {
 		
@@ -137,8 +137,8 @@ unit_names = {
 		
 	}
 	commerce_raider = {
-		"Tran Canh" "Tran Hoang" "Tran Kham" "Tran Thuyên" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
-		"Tran Phu" "Tran Kinh" "Tran Hien" "Tran Ngung" "Tran An" "Thai Tông" "Thanh Tông" "Nhan Tông" "Anh Tông" "Minh Tông" 
-		"Hien Tông" "Du Tông" "Nghe Tông" "Due Tông" "Thuan Tông"
+		"Tran Canh" "Tran Hoang" "Tran Kham" "Tran Thuyï¿½n" "Tran Manh" "Tran Vuong" "Tran Hao" "Duong Nhat Le"
+		"Tran Phu" "Tran Kinh" "Tran Hien" "Tran Ngung" "Tran An" "Thai Tï¿½ng" "Thanh Tï¿½ng" "Nhan Tï¿½ng" "Anh Tï¿½ng" "Minh Tï¿½ng" 
+		"Hien Tï¿½ng" "Du Tï¿½ng" "Nghe Tï¿½ng" "Due Tï¿½ng" "Thuan Tï¿½ng"
 	}
 }

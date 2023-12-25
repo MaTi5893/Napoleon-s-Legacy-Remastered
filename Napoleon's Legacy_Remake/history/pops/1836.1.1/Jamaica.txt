@@ -4,61 +4,61 @@
 2217 = {
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 85
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 75
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 2500
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 50
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 2190
 	}
 
 	clergymen = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 625
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 2000
 	}
 
 	soldiers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 1100
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 84375
 	}
 }
@@ -66,19 +66,19 @@
 2218 = {
 	clergymen = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 5
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 15
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 280
 	}
 

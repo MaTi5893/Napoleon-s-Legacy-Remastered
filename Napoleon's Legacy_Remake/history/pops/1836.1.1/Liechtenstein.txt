@@ -2,43 +2,43 @@
 3252 = {
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 75
 	}
 
 	officers = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 15
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 175
 	}
 
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 300
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 200
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 4135
 	}
 }

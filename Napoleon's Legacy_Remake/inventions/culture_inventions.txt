@@ -904,10 +904,6 @@ atheism = {
 			factor = 1
 			ruling_party_ideology = socialist
 		}
-		modifier = {
-			factor = 2
-			pro_atheism = 20
-		}
 	}
 	effect = {
 		plurality = 0.05
@@ -1033,15 +1029,15 @@ political_religion = {
 		base = 3
 		modifier = {
 			factor = 2
-			religious_policy = moralism
+			#religious_policy = moralism
 		}
 		modifier = {
 			factor = -2
-			religious_policy = secularized
+			#religious_policy = secularized
 		}
 		modifier = {
 			factor = -3
-			religious_policy = pro_atheism
+			#religious_policy = pro_atheism
 		}
 	}
 	political_reform_desire = 0.1
@@ -1194,12 +1190,6 @@ clericalism_vs._anticlericalism = {
 	news = no
 	chance = {
 		base = 2
-		modifier = {
-			factor = 2
-			NOT = {
-				moralism = 10
-			}
-		}
 		modifier = {
 			factor = 1
 			average_militancy = 3

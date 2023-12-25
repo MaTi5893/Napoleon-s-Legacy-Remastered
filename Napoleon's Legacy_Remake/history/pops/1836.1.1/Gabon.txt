@@ -4,61 +4,61 @@
 1972 = {
 	aristocrats = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	artisans = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	farmers = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 2700
 	}
 
 	aristocrats = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	artisans = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 450
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	farmers = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 8200
 	}
 }
@@ -66,31 +66,31 @@
 1974 = {
 	aristocrats = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	artisans = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 400
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	farmers = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 7300
 	}
 }
@@ -98,31 +98,31 @@
 1975 = {
 	aristocrats = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 125
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	artisans = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 350
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	farmers = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 6375
 	}
 }
@@ -131,61 +131,61 @@
 1976 = {
 	aristocrats = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	artisans = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 400
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	farmers = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 7300
 	}
 
 	aristocrats = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 175
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	artisans = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 500
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	farmers = {
 		culture = bantu
-		religion = animist
+		religion = catholic #animist
 		size = 9125
 	}
 

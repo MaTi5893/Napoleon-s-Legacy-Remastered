@@ -130,6 +130,7 @@ political_decisions = {
 		}
 	}
 	create_rhine_confederacy = {
+		picture = decision_rhi_HRE
 		potential = {
 			tag = FRA
 			HAN = { exists = yes }

@@ -434,7 +434,6 @@ country_event = {
 		name = "EVTOPTA37216" 
 		prestige = 5
 		dominant_issue = { factor = 0.1 value = full_citizenship }
-		dominant_issue = { factor = 0.1 value = moralism }
 		set_country_flag = DreyfusTrial
 	}
 
@@ -450,7 +449,6 @@ country_event = {
 		}
 		set_country_flag = DreyfusInnocent
 		dominant_issue = { factor = 0.1 value = full_citizenship }
-		dominant_issue = { factor = 0.1 value = moralism }
 	}
 }
 
@@ -513,7 +511,6 @@ country_event = {
 				ideology = socialist
 			}
 			dominant_issue = { factor = 0.2 value = full_citizenship }
-			dominant_issue = { factor = 0.1 value = moralism }
 		}
 	}
 }
@@ -568,7 +565,6 @@ country_event = {
 		any_pop = {
 			consciousness = 1 
 			dominant_issue = { factor = 0.2 value = full_citizenship }
-			dominant_issue = { factor = 0.2 value = moralism }
 		}
 	}
 }

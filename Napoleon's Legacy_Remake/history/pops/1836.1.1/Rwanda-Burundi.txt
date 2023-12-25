@@ -4,43 +4,43 @@
 2034 = {
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 2450
 	}
 
 	bureaucrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	officers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 125
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 1750
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 6200
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 1250
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 113200
 	}
 }
@@ -49,43 +49,43 @@
 2035 = {
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 2175
 	}
 
 	bureaucrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 15
 	}
 
 	officers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 110
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 1125
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 5600
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 1125
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 101850
 	}
 

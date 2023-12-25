@@ -4,67 +4,67 @@
 397 = {
 	aristocrats = {
 		culture = rhenish
-		religion = catholic
+		religion = catholic #catholic
 		size = 75
 	}
 
 	clergymen = {
 		culture = rhenish
-		religion = catholic
+		religion = catholic #catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = rhenish
-		religion = catholic
+		religion = catholic #catholic
 		size = 450
 	}
 
 	farmers = {
 		culture = rhenish
-		religion = catholic
+		religion = catholic #catholic
 		size = 6900
 	}
 
 	aristocrats = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 350
 	}
 
 	officers = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 50
 	}
 
 	bureaucrats = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 75
 	}
 
 	clergymen = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 375
 	}
 
 	artisans = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 2050
 	}
 
 	soldiers = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 2250
 	}
 
 	farmers = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 31375
 	}
 

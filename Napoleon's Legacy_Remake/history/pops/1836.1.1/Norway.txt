@@ -3,37 +3,37 @@
 305 = {
 	bureaucrats = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 300
 	}
 
 	officers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 50
 	}
 
 	clergymen = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 150
 	}
 
 	artisans = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 3250
 	}
 
 	soldiers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 1100
 	}
 
 	farmers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 30250
 	}
 }
@@ -41,31 +41,31 @@
 306 = {
 	clergymen = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 50
 	}
 
 	artisans = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 750
 	}
 
 	soldiers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 100
 	}
 
 	farmers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 12100
 	}
 
 	farmers = {
 		culture = finnish
-		religion = protestant
+		religion = catholic #protestant
 		size = 1100
 	}
 }
@@ -73,37 +73,37 @@
 307 = {
 	clergymen = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 50
 	}
 
 	artisans = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 500
 	}
 
 	soldiers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 50
 	}
 
 	farmers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 4400
 	}
 
 	farmers = {
 		culture = sami
-		religion = protestant
+		religion = catholic #protestant
 		size = 2000
 	}
 
 	farmers = {
 		culture = finnish
-		religion = protestant
+		religion = catholic #protestant
 		size = 2000
 	}
 }
@@ -111,25 +111,25 @@
 308 = {
 	clergymen = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 75
 	}
 
 	artisans = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 1100
 	}
 
 	soldiers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 100
 	}
 
 	farmers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 16825
 	}
 
@@ -138,7 +138,7 @@
 3246 = {
 	farmers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 15
 	}
 }
@@ -148,37 +148,37 @@
 309 = {
 	bureaucrats = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 500
 	}
 
 	officers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 100
 	}
 
 	clergymen = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 200
 	}
 
 	artisans = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 5000
 	}
 
 	soldiers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 1100
 	}
 
 	farmers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 38200
 	}
 }
@@ -186,25 +186,25 @@
 310 = {
 	clergymen = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 175
 	}
 
 	artisans = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 2000
 	}
 
 	soldiers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 1100
 	}
 
 	farmers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 37825
 	}
 }
@@ -212,25 +212,25 @@
 311 = {
 	clergymen = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 75
 	}
 
 	artisans = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 750
 	}
 
 	soldiers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 100
 	}
 
 	farmers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 16075
 	}
 }
@@ -238,25 +238,25 @@
 312 = {
 	clergymen = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 125
 	}
 
 	artisans = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 2000
 	}
 
 	soldiers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 250
 	}
 
 	farmers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 31125
 	}
 
@@ -266,37 +266,37 @@
 313 = {
 	bureaucrats = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 500
 	}
 
 	officers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 100
 	}
 
 	clergymen = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 125
 	}
 
 	artisans = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 7000
 	}
 
 	soldiers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 1100
 	}
 
 	farmers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 18275
 	}
 }
@@ -304,25 +304,25 @@
 314 = {
 	clergymen = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 100
 	}
 
 	artisans = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 1100
 	}
 
 	soldiers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 150
 	}
 
 	farmers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 18750
 	}
 }
@@ -330,25 +330,25 @@
 315 = {
 	clergymen = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 125
 	}
 
 	artisans = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 1250
 	}
 
 	soldiers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 200
 	}
 
 	farmers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 22425
 	}
 }
@@ -356,25 +356,25 @@
 316 = {
 	clergymen = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 75
 	}
 
 	artisans = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 750
 	}
 
 	soldiers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 150
 	}
 
 	farmers = {
 		culture = norwegian
-		religion = protestant
+		religion = catholic #protestant
 		size = 16025
 	}
 

@@ -4,31 +4,31 @@
 2535 = {
 	aristocrats = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 125
 	}
 
 	clergymen = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	artisans = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 350
 	}
 
 	soldiers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	farmers = {
 		culture = malay
-		religion = animist
+		religion = catholic #animist
 		size = 6375
 	}
 

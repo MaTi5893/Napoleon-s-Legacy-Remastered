@@ -4,69 +4,69 @@
 1923 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1550
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 800
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 3200
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 1050
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 37400
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 36000
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 50
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 3600
 	}
 }
@@ -74,69 +74,69 @@
 1924 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 3650
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1850
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 7500
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 2000
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 133000
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 38000
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 500
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 100
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 9100
 	}
 }
@@ -144,56 +144,56 @@
 1925 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 5800
 	}
 
 	bureaucrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 300
 	}
 
 	officers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 900
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2900
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 10000
 	}
 	
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1700
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 3000
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 203400
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 62000
 	}
 }
@@ -201,44 +201,44 @@
 1926 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 4250
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2150
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 10000
 	}
 	
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 800
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 2200
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 158600
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 40000
 	}
 }
@@ -246,75 +246,75 @@
 1927 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 950
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 525
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2500
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 1100
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 39025
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 6000
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 250
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 175
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 500
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 125
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 9050
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2000
 	}
 }
@@ -324,94 +324,94 @@
 1928 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 4250
 	}
 
 	bureaucrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	officers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 700
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2150
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 8600
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 3000
 
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 2000
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 123100
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 70000
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1400
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 700
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2900
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 750
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 44250
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 22000
 	}
 }
@@ -419,112 +419,112 @@
 1930 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 575
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 300
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1175
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 300
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 18650
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 8000
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1100
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 550
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2250
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 575
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 35525
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 16000
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1550
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 775
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 3125
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 800
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 45750
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 26000
 	}
 }
@@ -532,57 +532,57 @@
 1931 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 6150
 	}
 	
 	bureaucrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 600
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 3100
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 10000
 	}
 	
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2350
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 3000
 
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 100
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 205300
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 78000
 	}
 }
@@ -591,106 +591,106 @@
 1929 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 850
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 450
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2200
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 450
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 34050
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 6000
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 600
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 1150
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 9950
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 400
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 900
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 250
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 14250
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 6000
 	}
 }
@@ -700,38 +700,38 @@
 1932 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1100
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 550
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2250
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 1100
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 37000
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 14000
 	}
 }
@@ -739,51 +739,51 @@
 1933 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 6300
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 3150
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 10000
 	}
 	
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2650
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 3000
 
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 900
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 214000
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 76000
 	}
 }
@@ -791,44 +791,44 @@
 1934 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 4150
 	}
 	
 	bureaucrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 450
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2100
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 8400
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 2100
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 149250
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 44000
 	}
 }
@@ -836,44 +836,44 @@
 1935 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 4150
 	}
 	
 	bureaucrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 450
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2100
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 8350
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 2400
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 157000
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 34000
 	}
 }
@@ -883,38 +883,38 @@
 1936 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1850
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 925
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 3725
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 950
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 62550
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 23000
 	}
 }
@@ -922,38 +922,38 @@
 1937 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 875
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 450
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1775
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 450
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 34250
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 8000
 	}
 }
@@ -963,69 +963,69 @@
 1938 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 25
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1800
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2000
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 225
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 125
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 500
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 125
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 9025
 	}
 }
@@ -1035,161 +1035,161 @@
 1939 = {
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 375
 	}
 
 	bureaucrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 25
 	}
 
 	officers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 1100
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 200
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 18150
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 50
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 3650
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 3000
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 375
 	}
 
 	bureaucrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 25
 	}
 
 	officers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 400
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 775
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 1100
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 10375
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 550
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 125
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 10025
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 3000
 	}
 }
@@ -1197,38 +1197,38 @@
 1940 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 325
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 175
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 700
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 175
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 10625
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 5000
 	}
 }
@@ -1236,38 +1236,38 @@
 1941 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 300
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 650
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 175
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 10725
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 4000
 	}
 }
@@ -1275,137 +1275,137 @@
 1942 = {
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 150
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 450
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 100
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 8200
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 375
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 775
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 1100
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 12600
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 25
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2700
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2000
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 125
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 350
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 75
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 6375
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2000
 	}
 }
@@ -1413,69 +1413,69 @@
 1943 = {
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 125
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 75
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 300
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 75
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 4425
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 300
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 75
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 5475
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2000
 	}
 }
@@ -1483,69 +1483,69 @@
 1944 = {
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 175
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 400
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 100
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 7225
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 25
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1800
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 2000
 	}
 }
@@ -1555,100 +1555,100 @@
 1945 = {
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 2625
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 1325
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 6600
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 1325
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 120125
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 550
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 325
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1500
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 300
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 27325
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 14000
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 1100
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 500
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 2050
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 525
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 32925
 	}
 }
@@ -1656,100 +1656,100 @@
 1946 = {
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 800
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 400
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 2050
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 425
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 37325
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 25
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1800
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1100
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 375
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 800
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 1100
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 16625
 	}
 }
@@ -1757,100 +1757,100 @@
 1947 = {
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 1925
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 975
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 4900
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 1100
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 90100
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 525
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 275
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1400
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 300
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 25500
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 14000
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 725
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 375
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 1500
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 375
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 20025
 	}
 }
@@ -1858,155 +1858,155 @@
 1948 = {
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 2325
 	}
 
 	bureaucrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 125
 	}
 
 	officers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 250
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 1175
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 5850
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 1175
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 106025
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 575
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 300
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1500
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 300
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 27325
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 13000
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 1325
 	}
 
 	bureaucrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 150
 	}
 
 	officers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 450
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 675
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 2700
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 675
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 48025
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 300
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 75
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 5475
 	}
 }
@@ -2014,100 +2014,100 @@
 1949 = {
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 1150
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 600
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 2950
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 600
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 53700
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 225
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 125
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 600
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 125
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 10925
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 7000
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 650
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 325
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 1325
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 350
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 23350
 	}
 }
@@ -2117,137 +2117,137 @@
 1950 = {
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 50
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 3650
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 25
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1800
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 1100
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 225
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 125
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 525
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 1100
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 10125
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 300
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 650
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size= 175
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 10725
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 4000
 	}
 }
@@ -2257,50 +2257,50 @@
 1951 = {
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 4600
 	}
 
 	bureaucrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 800
 	}
 
 	officers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 700
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 2500
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 9600
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 2400
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 160000
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 60000
 	}
 }
@@ -2308,69 +2308,69 @@
 1952 = {
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 2200
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 1300
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 4800
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 1200
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 74500
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 36000
 	}
 
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 1300
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 700
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 3600
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 800
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 65600
 	}
 }
@@ -2378,69 +2378,69 @@
 1953 = {
 	aristocrats = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 3900
 	}
 
 	clergymen = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 2000
 	}
 
 	artisans = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 7900
 	}
 
 	soldiers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size= 2000
 
 	}
 
 	farmers = {
 		culture = volta
-		religion = sunni
+		religion = catholic #sunni
 		size = 144200
 	}
 
 	slaves = {
 		culture = volta
-		religion = animist
+		religion = catholic #animist
 		size = 36000
 	}
 
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic #sunni
 		size = 400
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic #sunni
 		size= 100
 
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = catholic #sunni
 		size = 7200
 	}
 

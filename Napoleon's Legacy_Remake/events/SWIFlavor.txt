@@ -157,10 +157,7 @@ country_event = {
 		name = "EVTOPTA31303" 
 		plurality = 3
 		any_pop = {
-			limit = { 
-				has_pop_religion = jewish
-				}
-			consciousness = 1
+			consciousness = 0.2
 		}
 	}
 }

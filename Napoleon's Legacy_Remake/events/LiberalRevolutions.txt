@@ -1092,7 +1092,7 @@ country_event = {
 		}
 		modifier = {
 			factor = 0.9
-			religious_policy = moralism
+			#religious_policy = moralism
 		}
 		modifier = {
 			factor = 1.5
@@ -1151,7 +1151,7 @@ province_event = {
 		modifier = {
 			factor = 0.9
 			owner = {
-				religious_policy = moralism
+				#religious_policy = moralism
 			}
 		}
 		modifier = {

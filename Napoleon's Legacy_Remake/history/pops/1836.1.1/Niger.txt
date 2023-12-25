@@ -4,168 +4,168 @@
 1808 = {
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 350
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 800
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 200
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 16450
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 150
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 500
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 100
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 9150
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 450
 	}
 	
 	bureaucrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 450
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 250
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 1050
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 2250
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 20000
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 20
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size= 30
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 1800
 	}
 
 	slaves = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 6000
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 250
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 150
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 700
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 150
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 10750
 	}
 }
@@ -173,131 +173,131 @@
 1809 = {
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 150
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 500
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 100
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 7150
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 50
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 3600
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 600
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 1100
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 8000
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 400
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size= 100
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 7250
 	}
 
 	slaves = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 4000
 	}
 }
@@ -305,131 +305,131 @@
 1810 = {
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 150
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 350
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 100
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 5300
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 700
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 400
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 2200
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 1000
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 31900
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size= 50
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 3600
 	}
 
 	slaves = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 5800
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 350
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 750
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 200
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 16500
 	}
 }
@@ -437,131 +437,131 @@
 1811 = {
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 20
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 30
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 1800
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 900
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 500
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 2500
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 1100
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 37000
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 300
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 800
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size= 150
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 14600
 	}
 
 	slaves = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 8000
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 20
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 30
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 1800
 	}
 }
@@ -571,69 +571,69 @@
 1812 = {
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 500
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 300
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 1100
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 1100
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 17000
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 250
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 150
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 700
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 150
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 8750
 	}
 
 	slaves = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 12000
 	}
 }
@@ -641,32 +641,32 @@
 1813 = {
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 75
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 50
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 3625
 	}
 }
@@ -674,38 +674,38 @@
 1814 = {
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 550
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 125
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 6025
 	}
 
 	slaves = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 4000
 	}
 }
@@ -715,106 +715,106 @@
 1815 = {
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 1500
 	}
 	
 	bureaucrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 600
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 800
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 4000
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 1300
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 62900
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 650
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 350
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 1800
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size= 2150
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 20850
 	}
 
 	slaves = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 12000
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 150
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 500
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 100
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 7150
 	}
 }
@@ -823,69 +823,69 @@
 1816 = {
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 1800
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 900
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 3700
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 1000
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 56600
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 40
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 60
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 3600
 	}
 
 	slaves = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 28000
 	}
 }
@@ -893,69 +893,69 @@
 1817 = {
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 125
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 75
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 350
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 75
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 4375
 	}
 
 	aristocrats = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 25
 	}
 
 	clergymen = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	soldiers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size= 25
 
 	}
 
 	farmers = {
 		culture = nigerian
-		religion = sunni
+		religion = catholic #sunni
 		size = 1800
 	}
 
 	slaves = {
 		culture = nigerian
-		religion = animist
+		religion = catholic #animist
 		size = 2000
 	}
 

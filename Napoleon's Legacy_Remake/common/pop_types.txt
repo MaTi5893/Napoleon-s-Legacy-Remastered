@@ -84,10 +84,6 @@ promotion_chance =
 
 	modifier = {
 		factor = -0.1
-		not = { religion = this }
-	}
-	modifier = {
-		factor = -0.1
 		state_scope = { is_colonial = yes }
 	}
 	modifier = {
@@ -115,11 +111,6 @@ demotion_chance =
 {
 	factor = 1
 	
-	modifier = {
-		factor = -0.1
-		not = { religion = this }
-		strata = poor
-	}
 
 	modifier = {
 		factor = -0.1

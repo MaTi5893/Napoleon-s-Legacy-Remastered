@@ -5,49 +5,49 @@
 1868 = {
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 1050
 	}
 
 	bureaucrats = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 25
 	}
 
 	officers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 75
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 550
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 2175
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 550
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 43575
 	}
 
 	slaves = {
 		culture = somali
-		religion = animist
+		religion = catholic #animist
 		size = 6000
 	}
 }
@@ -55,67 +55,67 @@
 1870 = {
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 275
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 150
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 650
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 150
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 13775
 	}
 
 	aristocrats = {
 		culture = somali
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	clergymen = {
 		culture = somali
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = somali
-		religion = animist
+		religion = catholic #animist
 		size = 250
 	}
 
 	soldiers = {
 		culture = somali
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	farmers = {
 		culture = somali
-		religion = animist
+		religion = catholic #animist
 		size = 4575
 	}
 
 	slaves = {
 		culture = somali
-		religion = animist
+		religion = catholic #animist
 		size = 1100
 	}
 }
@@ -124,31 +124,31 @@
 1869 = {
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 450
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 225
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 1150
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 225
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 20950
 	}
 }
@@ -158,37 +158,37 @@
 1871 = {
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 350
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 175
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 775
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 15500
 	}
 
 	slaves = {
 		culture = somali
-		religion = animist
+		religion = catholic #animist
 		size = 2000
 	}
 }
@@ -196,49 +196,49 @@
 1872 = {
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 540
 	}
 
 	bureaucrats = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 10
 	}
 
 	officers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 275
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 1175
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 300
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 21650
 	}
 
 	slaves = {
 		culture = somali
-		religion = animist
+		religion = catholic #animist
 		size = 5000
 	}
 }
@@ -248,55 +248,55 @@
 1873 = {
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 890
 	}
 
 	bureaucrats = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 10
 	}
 
 	officers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 450
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 1850
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 475
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 33275
 	}
 
 	slaves = {
 		culture = somali
-		religion = animist
+		religion = catholic #animist
 		size = 7000
 	}
 
 	slaves = {
 		culture = somali
-		religion = animist
+		religion = catholic #animist
 		size = 3000
 	}
 }
@@ -304,31 +304,31 @@
 1874 = {
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 150
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 75
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 400
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 75
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 7300
 	}
 }
@@ -336,61 +336,61 @@
 1875 = {
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 75
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 150
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 25
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 2700
 	}
 
 	aristocrats = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	clergymen = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 75
 	}
 
 	artisans = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	soldiers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	farmers = {
 		culture = somali
-		religion = sunni
+		religion = catholic #sunni
 		size = 3625
 	}
 

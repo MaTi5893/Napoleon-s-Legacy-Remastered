@@ -4,61 +4,61 @@
 1877 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 10
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 15
 	}
 
 	bureaucrats = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 25
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = catholic #catholic
 		size = 20
 	}
 
 	clergymen = {
 		culture = western_african
-		religion = catholic
+		religion = catholic #catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = western_african
-		religion = catholic
+		religion = catholic #catholic
 		size = 375
 	}
 
 	soldiers = {
 		culture = western_african
-		religion = catholic
+		religion = catholic #catholic
 		size = 75
 	}
 
 	farmers = {
 		culture = western_african
-		religion = catholic
+		religion = catholic #catholic
 		size = 5500
 	}
 
 	slaves = {
 		culture = western_african
-		religion = catholic
+		religion = catholic #catholic
 		size = 2000
 	}
 }
@@ -67,37 +67,37 @@
 1878 = {
 	aristocrats = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	clergymen = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	artisans = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 1100
 	}
 
 	soldiers = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	farmers = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 14400
 	}
 
 	slaves = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 3000
 	}
 

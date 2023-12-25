@@ -4,37 +4,37 @@
 1879 = {
 	aristocrats = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 450
 	}
 
 	clergymen = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 250
 	}
 
 	artisans = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 950
 	}
 
 	soldiers = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 250
 	}
 
 	farmers = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 19100
 	}
 
 	slaves = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 3000
 	}
 }
@@ -44,79 +44,79 @@
 1880 = {
 	aristocrats = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 500
 	}
 
 	bureaucrats = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	officers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	clergymen = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 250
 	}
 
 	artisans = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 1050
 	}
 
 	soldiers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 275
 	}
 
 	farmers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 19825
 	}
 
 	aristocrats = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 1200
 	}
 
 	clergymen = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 650
 	}
 
 	artisans = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 3200
 	}
 
 	soldiers = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 650
 	}
 
 	farmers = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 58300
 	}
 
 	slaves = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 4000
 	}
 }
@@ -124,103 +124,103 @@
 1881 = {
 	aristocrats = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 375
 	}
 
 	clergymen = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	artisans = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 775
 	}
 
 	soldiers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	farmers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 15450
 	}
 
 	aristocrats = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 375
 	}
 
 	officers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 75
 	}
 
 	clergymen = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	artisans = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 1100
 	}
 
 	soldiers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	farmers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 16150
 	}
 
 	aristocrats = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	clergymen = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 300
 	}
 
 	soldiers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	farmers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 5500
 	}
 
 	slaves = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 4000
 	}
 }
@@ -230,97 +230,97 @@
 1882 = {
 	aristocrats = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 125
 	}
 
 	clergymen = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 75
 	}
 
 	artisans = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 400
 	}
 
 	soldiers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	farmers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 6300
 	}
 
 	aristocrats = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 475
 	}
 
 	clergymen = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 250
 	}
 
 	artisans = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 1250
 	}
 
 	soldiers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 250
 	}
 
 	farmers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 20725
 	}
 
 	aristocrats = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	clergymen = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 300
 	}
 
 	soldiers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 75
 	}
 
 	farmers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 5475
 	}
 
 	slaves = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 3000
 	}
 }
@@ -329,67 +329,67 @@
 1883 = {
 	aristocrats = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 800
 	}
 
 	clergymen = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 400
 	}
 
 	artisans = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 1650
 	}
 
 	soldiers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 425
 	}
 
 	farmers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 32725
 	}
 
 	aristocrats = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	clergymen = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 250
 	}
 
 	soldiers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	farmers = {
 		culture = western_african
-		religion = sunni
+		religion = catholic #sunni
 		size = 4550
 	}
 
 	slaves = {
 		culture = western_african
-		religion = animist
+		religion = catholic #animist
 		size = 5000
 	}
 

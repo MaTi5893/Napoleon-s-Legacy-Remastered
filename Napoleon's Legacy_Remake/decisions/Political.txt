@@ -12,7 +12,6 @@ political_decisions = {
 		}
 		allow = {
 			OR = {
-				moralism = 30
 				liberal = 60
 				government = proletarian_dictatorship
 				government = fascist_dictatorship
@@ -35,7 +34,6 @@ political_decisions = {
 				factor = 0
 				NOT = {
 					OR = {
-						moralism = 30
 						liberal = 60
 					}
 				}
@@ -54,9 +52,6 @@ political_decisions = {
 					government = presidential_dictatorship
 					NOT = {	
 						liberal = 50 
-					}
-					NOT = { 
-						moralism = 20
 					}
 				}
 		}

@@ -270,55 +270,6 @@ country_event = {
 
 country_event = {
 
-	id = 44106
-	news = yes
-	news_desc_long = "EVTDESC44106_NEWS_LONG"
-	news_desc_medium = "EVTDESC44106_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC44106_NEWS_SHORT"
-
-	trigger = {
-		tag = USA
-		year = 1841
-		NOT = {
-			year = 1844
-		}
-	}
-	
-	fire_only_once = yes
- 
-	mean_time_to_happen =  {
-		months = 5
-
-		modifier = {
-			factor = 0.75 #increase likelihood to happen
-			year = 1842
-		}
-
-
-		modifier = {
-			factor = 0.95 #increase likelihood to happen
-			year = 1843
-		}
-	}
-
-	title = "EVTNAME44106"
-	desc = "EVTDESC44106"
-	picture = "Emerson"
-
-	option = {
-		name = "EVTOPTA44106" 
-		prestige = 2
-		any_pop = {
-			dominant_issue = { 
-				factor = 0.10
-				value = moralism
-			}
-		}
-	}
-}
-
-country_event = {
-
 	id = 44107
 	news = yes
 	news_desc_long = "EVTDESC44107_NEWS_LONG"
@@ -769,76 +720,6 @@ country_event = {
 	}
 }
 
-#Second Great Awakening
-country_event = {
-
-	id = 44116
-	news = yes
-	news_desc_long = "EVTDESC44116_NEWS_LONG"
-	news_desc_medium = "EVTDESC44116_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC44116_NEWS_SHORT"
-
-	trigger = {
-		tag = USA
-		year = 1836
-		NOT = {
-			year = 1840
-			}
-	}
-		
-	fire_only_once = yes
- 
-	mean_time_to_happen =  {
-		months = 5
-
-		modifier = {
-			factor = 0.75 #increase likelihood to happen
-			year = 1837
-		}
-
-
-		modifier = {
-			factor = 0.95 #increase likelihood to happen
-			year = 1838
-		}
-	}
-
-	title = "EVTNAME44116"
-	desc = "EVTDESC44116"
-	picture = "secondawakening"
-
-	option = {
-		name = "EVTOPTA44116"
-		any_pop = {
-			consciousness = 0.3
-		}
-		farmers = { 
-			dominant_issue = {
-				factor = 0.40
-				value = moralism
-				}
-			}		
-		labourers = { 
-			dominant_issue = {
-				factor = 0.40
-				value = moralism
-				}
-			}		
-		soldiers = { 
-			dominant_issue = {
-				factor = 0.25
-				value = moralism
-				}
-			}		
-		artisans = { 
-			dominant_issue = {
-				factor = 0.30
-				value = moralism
-				}
-		}
-	}
-}
-
 country_event = {
 
 	id = 44117
@@ -982,72 +863,12 @@ country_event = {
 	option = {
 		name = "EVTOPTA44119" 
 		any_pop = { 
-			limit = {
-				has_pop_religion = catholic
-				}
-			consciousness = 1
+			consciousness = 0.3
 			}		
 	}
 }
 
 
-# Moral Crusaders
-country_event = {
-
-	id = 44120
-	news = yes
-	news_desc_long = "EVTDESC44120_NEWS_LONG"
-	news_desc_medium = "EVTDESC44120_NEWS_MEDIUM"
-	news_desc_short = "EVTDESC44120_NEWS_SHORT"
-
-	trigger = {
-		tag = USA 
-		moralism = 5
-		year = 1838
-		NOT = {
-			year = 1930
-		}
-	}
-	
-	fire_only_once = no
- 
-	mean_time_to_happen =  {
-		months = 60
-
-		modifier = {
-			factor = 0.9 #increase likelihood to happen
-			year = 1885
-		}
-
-
-		modifier = {
-			factor = 0.9 #increase likelihood to happen
-			year = 1910
-		}
-	}
-
-	title = "EVTNAME44120"
-	desc = "EVTDESC44120"
-	picture = "saloon"
-
-	option = {
-		name = "EVTOPTA44120" 
-		any_pop = { 
-			limit = {
-				has_pop_religion = protestant
-			}
-			consciousness = 1
-			dominant_issue = {
-				factor = 0.02
-				value = moralism
-			}		
-			dominant_issue = {
-				factor = 0.04
-				value = secularized
-			}
-		}
-	}
-}
 
 country_event = {
 

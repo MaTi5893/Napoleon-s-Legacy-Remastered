@@ -4,79 +4,79 @@
 2036 = {
 	aristocrats = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 950
 	}
 
 	bureaucrats = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 75
 	}
 
 	officers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 125
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 525
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 2000
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 500
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 32825
 	}
 
 	slaves = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 14000
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 3650
 	}
 }
@@ -84,67 +84,67 @@
 2037 = {
 	aristocrats = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 325
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 175
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 725
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 175
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 11600
 	}
 
 	slaves = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 6000
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 2650
 	}
 }
@@ -152,67 +152,67 @@
 2038 = {
 	aristocrats = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 550
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 275
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 1125
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 300
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 14750
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 350
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 950
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 17300
 	}
 
 	slaves = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 11000
 	}
 }
@@ -220,37 +220,37 @@
 2039 = {
 	aristocrats = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 300
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 150
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 650
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 175
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 10725
 	}
 
 	slaves = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 4000
 	}
 }
@@ -260,73 +260,73 @@
 2040 = {
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 375
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 800
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 15425
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 225
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 125
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 600
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 125
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 10925
 	}
 
 	slaves = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 3000
 	}
 
 	slaves = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 2000
 	}
 }
@@ -334,67 +334,67 @@
 2041 = {
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 475
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 250
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 1100
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 250
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 15125
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 400
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 7275
 	}
 
 	slaves = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 8000
 	}
 }
@@ -402,127 +402,127 @@
 2042 = {
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 375
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 800
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 13225
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 450
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 225
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 1150
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 225
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 20950
 	}
 
 	slaves = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 13000
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 3650
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 525
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 275
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 1100
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 275
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 17825
 	}
 }
@@ -532,103 +532,103 @@
 2043 = {
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 1075
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 550
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 2200
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 550
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 37625
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 350
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 6325
 	}
 
 	slaves = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 7000
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 2700
 	}
 
 	slaves = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 6000
 	}
 }
@@ -636,157 +636,157 @@
 2044 = {
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 475
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 250
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 1100
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 250
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 9025
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 275
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 600
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 3825
 	}
 
 	slaves = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 24000
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 925
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 475
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 2350
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 475
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 42775
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 10
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 15
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 900
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 2700
 	}
 }
@@ -794,127 +794,127 @@
 2045 = {
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 675
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 350
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 1400
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 350
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 20225
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 250
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 75
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 3525
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 275
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 700
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 12825
 	}
 
 	slaves = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 14000
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 2700
 	}
 }
@@ -922,97 +922,97 @@
 2046 = {
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 1075
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 550
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 2200
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 550
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 31425
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 475
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 250
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 1250
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 250
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 22775
 	}
 
 	slaves = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 12000
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 3650
 	}
 }
@@ -1020,91 +1020,91 @@
 2047 = {
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 300
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 5475
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 125
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 400
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 7275
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 300
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 5475
 	}
 }
@@ -1114,103 +1114,103 @@
 2048 = {
 	aristocrats = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 250
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 125
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 525
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 1100
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 7100
 	}
 
 	aristocrats = {
 		culture = mashriqi
-		religion = shiite
+		religion = catholic #shiite
 		size = 150
 	}
 
 	bureaucrats = {
 		culture = mashriqi
-		religion = shiite
+		religion = catholic #shiite
 		size = 75
 	}
 
 	officers = {
 		culture = mashriqi
-		religion = shiite
+		religion = catholic #shiite
 		size = 75
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = shiite
+		religion = catholic #shiite
 		size = 50
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = shiite
+		religion = catholic #shiite
 		size = 200
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = shiite
+		religion = catholic #shiite
 		size = 450
 	}
 
 	aristocrats = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 400
 	}
 
 	clergymen = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 200
 	}
 
 	artisans = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 1050
 	}
 
 	soldiers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 225
 	}
 
 	farmers = {
 		culture = eastern_bantu
-		religion = sunni
+		religion = catholic #sunni
 		size = 19125
 	}
 
 	slaves = {
 		culture = eastern_bantu
-		religion = animist
+		religion = catholic #animist
 		size = 8000
 	}
 

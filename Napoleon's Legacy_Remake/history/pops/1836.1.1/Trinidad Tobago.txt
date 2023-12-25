@@ -4,61 +4,61 @@
 2237 = {
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 25
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 15
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 25
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 500
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 25
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 410
 	}
 
 	clergymen = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 75
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 750
 	}
 
 	soldiers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 100
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 9075
 	}
 }
@@ -66,49 +66,49 @@
 2238 = {
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 10
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 5
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 25
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = catholic #protestant
 		size = 60
 	}
 
 	clergymen = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 50
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 150
 	}
 
 	soldiers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 50
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = catholic #protestant
 		size = 3400
 	}
 

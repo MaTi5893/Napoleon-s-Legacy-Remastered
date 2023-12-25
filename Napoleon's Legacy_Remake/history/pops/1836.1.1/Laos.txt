@@ -4,73 +4,73 @@
 1356 = {
     aristocrats = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 800
     }
 
     bureaucrats = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 75
     }
 
     officers = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 100
     }
 
     clergymen = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 425
     }
 
     artisans = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 2150
     }
 
     soldiers = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 1100
     }
 
     farmers = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 37940
     }
 
     aristocrats = {
         culture = lao
-        religion = animist
+        religion = catholic #animist
         size = 300
     }
 
     clergymen = {
         culture = lao
-        religion = animist
+        religion = catholic #animist
         size = 150
     }
 
     artisans = {
         culture = lao
-        religion = animist
+        religion = catholic #animist
         size = 800
     }
 
     soldiers = {
         culture = lao
-        religion = animist
+        religion = catholic #animist
         size = 175
     }
 
     farmers = {
         culture = lao
-        religion = animist
+        religion = catholic #animist
         size = 15575
     }
 }
@@ -78,61 +78,61 @@
 1357 = {
     aristocrats = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 250
     }
 
     clergymen = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 150
     }
 
     artisans = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 750
     }
 
     soldiers = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 150
     }
 
     farmers = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 13700
     }
 
     aristocrats = {
         culture = thai
-        religion = animist
+        religion = catholic #animist
         size = 125
     }
 
     clergymen = {
         culture = thai
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     artisans = {
         culture = thai
-        religion = animist
+        religion = catholic #animist
         size = 350
     }
 
     soldiers = {
         culture = thai
-        religion = animist
+        religion = catholic #animist
         size = 75
     }
 
     farmers = {
         culture = thai
-        religion = animist
+        religion = catholic #animist
         size = 6375
     }
 }
@@ -140,61 +140,61 @@
 1361 = {
     aristocrats = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 250
     }
 
     clergymen = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 150
     }
 
     artisans = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 750
     }
 
     soldiers = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 150
     }
 
     farmers = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 13700
     }
 
     aristocrats = {
         culture = thai
-        religion = animist
+        religion = catholic #animist
         size = 100
     }
 
     clergymen = {
         culture = thai
-        religion = animist
+        religion = catholic #animist
         size = 50
     }
 
     artisans = {
         culture = thai
-        religion = animist
+        religion = catholic #animist
         size = 250
     }
 
     soldiers = {
         culture = thai
-        religion = animist
+        religion = catholic #animist
         size = 50
     }
 
     farmers = {
         culture = thai
-        religion = animist
+        religion = catholic #animist
         size = 4550
     }
 }
@@ -202,61 +202,61 @@
 1362 = {
     aristocrats = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 450
     }
 
     clergymen = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 250
     }
 
     artisans = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 1200
     }
 
     soldiers = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 1100
     }
 
     farmers = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 21096
     }
 
     aristocrats = {
         culture = lao
-        religion = animist
+        religion = catholic #animist
         size = 325
     }
 
     clergymen = {
         culture = lao
-        religion = animist
+        religion = catholic #animist
         size = 175
     }
 
     artisans = {
         culture = lao
-        religion = animist
+        religion = catholic #animist
         size = 900
     }
 
     soldiers = {
         culture = lao
-        religion = animist
+        religion = catholic #animist
         size = 175
     }
 
     farmers = {
         culture = lao
-        religion = animist
+        religion = catholic #animist
         size = 16425
     }
 }
@@ -265,61 +265,61 @@
 1360 = {
     aristocrats = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 150
     }
 
     clergymen = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 75
     }
 
     artisans = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 400
     }
 
     soldiers = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 75
     }
 
     farmers = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 8300
     }
 
     aristocrats = {
         culture = thai
-        religion = theravada
+        religion = catholic #theravada
         size = 125
     }
 
     clergymen = {
         culture = thai
-        religion = theravada
+        religion = catholic #theravada
         size = 75
     }
 
     artisans = {
         culture = thai
-        religion = theravada
+        religion = catholic #theravada
         size = 350
     }
 
     soldiers = {
         culture = thai
-        religion = theravada
+        religion = catholic #theravada
         size = 75
     }
 
     farmers = {
         culture = thai
-        religion = theravada
+        religion = catholic #theravada
         size = 6375
     }
 }
@@ -327,31 +327,31 @@
 1363 = {
     aristocrats = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 275
     }
 
     clergymen = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 150
     }
 
     artisans = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 750
     }
 
     soldiers = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 125
     }
 
     farmers = {
         culture = lao
-        religion = theravada
+        religion = catholic #theravada
         size = 13700
     }
 }

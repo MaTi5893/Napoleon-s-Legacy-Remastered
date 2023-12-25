@@ -260,13 +260,13 @@ political_decisions = {
 	
 	the_holy_city = {
 		potential = {
+			owns = 1151
 			1151 = {
 				NOT = { has_province_modifier = holy_city }
 			}
 			OR = {
 				is_culture_group = arab	
 				is_culture_group = turko_semitic
-				is_culture_group = iranian_turanian
 			}
 		}
 		

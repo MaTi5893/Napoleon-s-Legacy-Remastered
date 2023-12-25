@@ -121,21 +121,6 @@ party_issues = {
 			}
 		}
 	}
-	
-	religious_policy = {
-		pro_atheism = {
-			#no effect
-		}
-		secularized = {
-			#no effect
-		}
-		pluralism = {
-			#no effect
-		}
-		moralism = {
-			#no effect
-		}
-	}
 	citizenship_policy = {
 		residency = {
 			rules = { primary_culture_voting = yes }

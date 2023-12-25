@@ -4,43 +4,43 @@
 800 = {
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 50
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 400
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 7550
 	}
 
 	clergymen = {
 		culture = albanian
-		religion = sunni
+		religion = catholic #sunni
 		size = 25
 	}
 
 	artisans = {
 		culture = albanian
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	soldiers = {
 		culture = albanian
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	farmers = {
 		culture = albanian
-		religion = sunni
+		religion = catholic #sunni
 		size = 825
 	}
 }
@@ -48,49 +48,49 @@
 2569 = {
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 100
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 500
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 11400
 	}
 
 	aristocrats = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic #sunni
 		size = 250
 	}
 
 	clergymen = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic #sunni
 		size = 25
 	}
 
 	artisans = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic #sunni
 		size = 75
 	}
 
 	soldiers = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic #sunni
 		size = 125
 	}
 
 	farmers = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic #sunni
 		size = 5825
 	}
 }
@@ -99,37 +99,37 @@
 2583 = {
 	bureaucrats = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 25
 	}
 
 	officers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 25
 	}
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 275
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 1300
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 1100
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 23375
 	}
 }
@@ -139,49 +139,49 @@
 2577 = {
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 75
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 250
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 8175
 	}
 
 	aristocrats = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic #sunni
 		size = 250
 	}
 
 	clergymen = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic #sunni
 		size = 400
 	}
 
 	soldiers = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic #sunni
 		size = 150
 	}
 
 	farmers = {
 		culture = bosniak
-		religion = sunni
+		religion = catholic #sunni
 		size = 3650
 	}
 }
@@ -191,49 +191,49 @@
 2582 = {
 	clergymen = {
 		culture = croat
-		religion = catholic
+		religion = catholic #catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = croat
-		religion = catholic
+		religion = catholic #catholic
 		size = 250
 	}
 
 	soldiers = {
 		culture = croat
-		religion = catholic
+		religion = catholic #catholic
 		size = 50
 	}
 
 	farmers = {
 		culture = croat
-		religion = catholic
+		religion = catholic #catholic
 		size = 4650
 	}
 
 	clergymen = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 100
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 550
 	}
 
 	soldiers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 125
 	}
 
 	farmers = {
 		culture = serb
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 10225
 	}
 

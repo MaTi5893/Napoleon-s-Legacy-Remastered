@@ -4,67 +4,67 @@
 912 = {
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 175
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 500
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 175
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 9050
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = shiite
+		religion = catholic #shiite
 		size = 50
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = shiite
+		religion = catholic #shiite
 		size = 300
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = shiite
+		religion = catholic #shiite
 		size = 5450
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 25
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 50
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 925
 	}
 }
@@ -74,133 +74,133 @@
 913 = {
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 150
 	}
 
 	bureaucrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 75
 	}
 
 	officers = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 150
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 700
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 325
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 12050
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 75
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 250
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 4675
 	}
 
 	aristocrats = {
 		culture = mashriqi
-		religion = catholic
+		religion = catholic #catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = catholic
+		religion = catholic #catholic
 		size = 100
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = catholic
+		religion = catholic #catholic
 		size = 450
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = catholic
+		religion = catholic #catholic
 		size = 8350
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = animist
+		religion = catholic #animist
 		size = 1875
 	}
 
 	clergymen = {
 		culture = armenian
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 25
 	}
 
 	artisans = {
 		culture = armenian
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 100
 	}
 
 	farmers = {
 		culture = armenian
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 1875
 	}
 
 	clergymen = {
 		culture = sephardic
-		religion = jewish
+		religion = catholic #jewish
 		size = 10
 	}
 
 	artisans = {
 		culture = sephardic
-		religion = jewish
+		religion = catholic #jewish
 		size = 490
 	}
 }
@@ -208,49 +208,49 @@
 914 = {
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 125
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 500
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 9175
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 25
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 100
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 1875
 	}
 }
@@ -258,115 +258,115 @@
 915 = {
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 25
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 50
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 100
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 25
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = catholic #sunni
 		size = 2000
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 25
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 50
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = orthodox
+		religion = catholic #orthodox
 		size = 925
 	}
 
 	aristocrats = {
 		culture = mashriqi
-		religion = catholic
+		religion = catholic #catholic
 		size = 75
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = catholic
+		religion = catholic #catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = catholic
+		religion = catholic #catholic
 		size = 250
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = catholic
+		religion = catholic #catholic
 		size = 5050
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = animist
+		religion = catholic #animist
 		size = 3725
 	}
 
 	aristocrats = {
 		culture = mashriqi
-		religion = shiite
+		religion = catholic #shiite
 		size = 100
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = shiite
+		religion = catholic #shiite
 		size = 75
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = shiite
+		religion = catholic #shiite
 		size = 450
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = shiite
+		religion = catholic #shiite
 		size = 8350
 	}
 

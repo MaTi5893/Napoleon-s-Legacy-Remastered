@@ -164,30 +164,9 @@ political_decisions = {
 		}
 	}
 	
-	introduce_the_presbyteries = {
-		potential = {
-			tag = HAN
-			NOT = {
-				has_country_flag = presbyteries_introduced
-			}
-		}
-		allow = {
-			average_militancy = 3
-		}
-		
-		effect = {
-			any_pop = {
-				limit = {
-					has_pop_religion = protestant
-				}
-				militancy = -1
-			}
-			set_country_flag = presbyteries_introduced
-		}
-	}
-	
 	von_moltkes_staff_reforms = {
 		potential = {
+			is_culture_group = germanic
 			OR = {
 				tag = PRU
 				tag = GER

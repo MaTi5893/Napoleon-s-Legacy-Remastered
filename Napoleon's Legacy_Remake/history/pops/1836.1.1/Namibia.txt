@@ -4,61 +4,61 @@
 2078 = {
 	aristocrats = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	clergymen = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 300
 	}
 
 	soldiers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	farmers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 5475
 	}
 
 	aristocrats = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 225
 	}
 
 	clergymen = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 125
 	}
 
 	artisans = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 600
 	}
 
 	soldiers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 125
 	}
 
 	farmers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 10925
 	}
 }
@@ -66,61 +66,61 @@
 2079 = {
 	aristocrats = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	clergymen = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	artisans = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 450
 	}
 
 	soldiers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	farmers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 8200
 	}
 
 	aristocrats = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	soldiers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	farmers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 3650
 	}
 }
@@ -128,31 +128,31 @@
 2080 = {
 	aristocrats = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	clergymen = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 300
 	}
 
 	soldiers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	farmers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 5475
 	}
 }
@@ -160,61 +160,61 @@
 2082 = {
 	aristocrats = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	clergymen = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 300
 	}
 
 	soldiers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	farmers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 5475
 	}
 
 	aristocrats = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	clergymen = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 250
 	}
 
 	soldiers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	farmers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 4575
 	}
 }
@@ -224,61 +224,61 @@
 2081 = {
 	aristocrats = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	artisans = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 150
 	}
 
 	soldiers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	farmers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 2700
 	}
 
 	aristocrats = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 15
 	}
 
 	clergymen = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	artisans = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 10
 	}
 
 	farmers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 900
 	}
 }
@@ -288,31 +288,31 @@
 2083 = {
 	aristocrats = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 15
 	}
 
 	clergymen = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	artisans = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 10
 	}
 
 	farmers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 900
 	}
 }
@@ -320,31 +320,31 @@
 2084 = {
 	aristocrats = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 125
 	}
 
 	clergymen = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	artisans = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 350
 	}
 
 	soldiers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 75
 	}
 
 	farmers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 6375
 	}
 }
@@ -352,61 +352,61 @@
 2085 = {
 	aristocrats = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	clergymen = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 100
 	}
 
 	soldiers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	farmers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 1800
 	}
 
 	aristocrats = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 15
 	}
 
 	clergymen = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	artisans = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 10
 	}
 
 	farmers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 900
 	}
 }
@@ -414,61 +414,61 @@
 2086 = {
 	aristocrats = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	artisans = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 200
 	}
 
 	soldiers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	farmers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 3650
 	}
 
 	aristocrats = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 15
 	}
 
 	clergymen = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 25
 	}
 
 	artisans = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 10
 	}
 
 	farmers = {
 		culture = khoikhoi
-		religion = animist
+		religion = catholic #animist
 		size = 900
 	}
 

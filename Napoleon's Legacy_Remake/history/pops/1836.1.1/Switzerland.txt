@@ -3,91 +3,91 @@
 603 = {
 	aristocrats = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 450
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 1300
 	}
 
 	capitalists = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 100
 	}
 
 	clerks = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 400
 	}
 
 	craftsmen = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 9800
 	}
 
 	artisans = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 3300
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 1100
 	}
 
 	farmers = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 73650
 	}
 
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 250
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 500
 	}
 
 	clerks = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 200
 	}
 
 	craftsmen = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 5000
 	}
 
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 1900
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 1100
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 41150
 	}
 }
@@ -95,85 +95,85 @@
 604 = {
 	aristocrats = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 150
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 275
 	}
 
 	clerks = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 135
 	}
 
 	craftsmen = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 3500
 	}
 
 	artisans = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 2250
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 1100
 	}
 
 	farmers = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 30690
 	}
 
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 150
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 250
 	}
 
 	clerks = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 130
 	}
 
 	craftsmen = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 1500
 	}
 
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 1900
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 1100
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 24800
 	}
 }
@@ -181,55 +181,55 @@
 605 = {
 	aristocrats = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 450
 	}
 
 	officers = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 350
 	}
 
 	bureaucrats = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 800
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 625
 	}
 
 	clerks = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 275
 	}
 
 	craftsmen = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 7000
 	}
 
 	artisans = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 3500
 	}
 
 	soldiers = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 1100
 	}
 
 	farmers = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 74300
 	}
 }
@@ -237,43 +237,43 @@
 606 = {
 	aristocrats = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 175
 	}
 
 	clergymen = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 450
 	}
 
 	artisans = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 2500
 	}
 
 	clerks = {
 		culture = south_german
-		religion = protestant
+		religion = catholic #protestant
 		size = 100
 	}
 	
 	craftsmen = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 2900
 	}
 	
 	soldiers = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 1100
 	}
 
 	farmers = {
 		culture = south_german
-		religion = catholic
+		religion = catholic #catholic
 		size = 42725
 	}
 
@@ -283,109 +283,109 @@
 607 = {
 	aristocrats = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 200
 	}
 
 	bureaucrats = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 120
 	}
 
 	officers = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 60
 	}
 
 	clergymen = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 300
 	}
 
 	artisans = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 3000
 	}
 
 	clerks = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 100
 	}
 	
 	craftsmen = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 2500
 	}
 	
 	soldiers = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 1100
 	}
 
 	farmers = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 35720
 	}
 
 	aristocrats = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 300
 	}
 
 	bureaucrats = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 80
 	}
 
 	officers = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 350
 	}
 
 	artisans = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 3000
 	}
 
 	clerks = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 100
 	}
 	
 	craftsmen = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 1500
 	}
 	
 	soldiers = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 1100
 	}
 
 	farmers = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 29630
 	}
 }
@@ -393,31 +393,31 @@
 608 = {
 	aristocrats = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 125
 	}
 
 	artisans = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 3000
 	}
 
 	soldiers = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 150
 	}
 
 	farmers = {
 		culture = french
-		religion = catholic
+		religion = catholic #catholic
 		size = 10625
 	}
 }
@@ -425,56 +425,56 @@
 609 = {
 	aristocrats = {
 		culture = cisalpine
-		religion = catholic
+		religion = catholic #catholic
 		size = 100
 	}
 	aristocrats = {
 		culture = cisalpine
-		religion = catholic
+		religion = catholic #catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = cisalpine
-		religion = catholic
+		religion = catholic #catholic
 		size = 120
 	}
 	clergymen = {
 		culture = cisalpine
-		religion = catholic
+		religion = catholic #catholic
 		size = 55
 	}
 
 	artisans = {
 		culture = cisalpine
-		religion = catholic
+		religion = catholic #catholic
 		size = 700
 	}
 	artisans = {
 		culture = cisalpine
-		religion = catholic
+		religion = catholic #catholic
 		size = 400
 	}
 
 	soldiers = {
 		culture = cisalpine
-		religion = catholic
+		religion = catholic #catholic
 		size = 600
 	}
 	soldiers = {
 		culture = cisalpine
-		religion = catholic
+		religion = catholic #catholic
 		size = 500
 	}
 
 	farmers = {
 		culture = cisalpine
-		religion = catholic
+		religion = catholic #catholic
 		size = 10000
 	}
 	farmers = {
 		culture = cisalpine
-		religion = catholic
+		religion = catholic #catholic
 		size = 5675
 	}
 
@@ -484,43 +484,43 @@
 2568 = {
 	aristocrats = {
 		culture = north_italian
-		religion = catholic
+		religion = catholic #catholic
 		size = 250
 	}
 
 	bureaucrats = {
 		culture = north_italian
-		religion = catholic
+		religion = catholic #catholic
 		size = 100
 	}
 
 	officers = {
 		culture = north_italian
-		religion = catholic
+		religion = catholic #catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = north_italian
-		religion = catholic
+		religion = catholic #catholic
 		size = 275
 	}
 
 	artisans = {
 		culture = north_italian
-		religion = catholic
+		religion = catholic #catholic
 		size = 1250
 	}
 
 	soldiers = {
 		culture = north_italian
-		religion = catholic
+		religion = catholic #catholic
 		size = 1100
 	}
 
 	farmers = {
 		culture = north_italian
-		religion = catholic
+		religion = catholic #catholic
 		size = 24075
 	}
 }
@@ -528,61 +528,61 @@
 611 = {
 	aristocrats = {
 		culture = north_italian
-		religion = catholic
+		religion = catholic #catholic
 		size = 100
 	}
 
 	clergymen = {
 		culture = north_italian
-		religion = catholic
+		religion = catholic #catholic
 		size = 275
 	}
 
 	artisans = {
 		culture = north_italian
-		religion = catholic
+		religion = catholic #catholic
 		size = 650
 	}
 
 	soldiers = {
 		culture = north_italian
-		religion = catholic
+		religion = catholic #catholic
 		size = 1100
 	}
 
 	farmers = {
 		culture = north_italian
-		religion = catholic
+		religion = catholic #catholic
 		size = 11275
 	}
 
 	aristocrats = {
 		culture = north_italian
-		religion = catholic
+		religion = catholic #catholic
 		size = 50
 	}
 
 	clergymen = {
 		culture = north_italian
-		religion = catholic
+		religion = catholic #catholic
 		size = 50
 	}
 
 	artisans = {
 		culture = north_italian
-		religion = catholic
+		religion = catholic #catholic
 		size = 350
 	}
 
 	soldiers = {
 		culture = north_italian
-		religion = catholic
+		religion = catholic #catholic
 		size = 75
 	}
 
 	farmers = {
 		culture = north_italian
-		religion = catholic
+		religion = catholic #catholic
 		size = 6475
 	}
 

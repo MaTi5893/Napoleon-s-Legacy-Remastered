@@ -662,7 +662,7 @@ karl_kautsky = {
 		permanent_prestige = 1 
 	}
 }
-jean_jaurès = {
+jean_jaures = {
 	limit = { collectivist_theory = 1 }
 	news = no
 	chance = {
@@ -732,7 +732,7 @@ bruno_hildebrand = {
 		}
 		modifier = {
 			factor = 1
-			religious_policy = pluralism
+			#religious_policy = pluralism
 		}
 	}
 	effect = {
@@ -812,7 +812,7 @@ william_cunningham = {
 	}
 }
 #neoclassical_theory
-johann_heinrich_von_thünen = {
+johann_heinrich_von_thï¿½nen = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
@@ -831,7 +831,7 @@ johann_heinrich_von_thünen = {
 		increase_research = 0.01 
 	}
 }
-léon_walras = {
+lï¿½on_walras = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {
@@ -1040,7 +1040,7 @@ joseph_schumpeter = {
 		increase_research = 0.01 
 	}
 }
-eugen_von_böhm_bawerk = {
+eugen_von_bï¿½hm_bawerk = {
 	limit = { neoclassical_theory = 1 }
 	news = no
 	chance = {

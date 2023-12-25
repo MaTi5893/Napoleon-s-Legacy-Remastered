@@ -4,49 +4,49 @@
 517 = {
 	artisans = {
 		culture = sephardic
-		religion = jewish
+		religion = catholic #jewish
 		size = 400
 	}
 
 	officers = {
 		culture = spanish
-		religion = catholic
+		religion = catholic #catholic
 		size = 5
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = catholic #catholic
 		size = 55
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = catholic #catholic
 		size = 3000
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = catholic #catholic
 		size = 150
 	}
 
 	farmers = {
 		culture = spanish
-		religion = catholic
+		religion = catholic #catholic
 		size = 200
 	}
 
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = catholic #catholic
 		size = 5
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = catholic #catholic
 		size = 135
 	}
 
