@@ -76,23 +76,7 @@ country_event = {
 			limit = { is_greater_power = no }
 			treasury = 50000
 		}
-		any_country = { 
-			limit = {           
-				OR = {
-				tag = CHL
-            			tag = MEX
-            			tag = ARG
-         				tag = CLM
-            			tag = VNZ
-            			tag = ECU
-            			tag = UCA
-            			tag = PRG
-            			tag = TEX
-            			tag = PEU
-				}	
-			}
-		country_event = { id = 600037 days = 1}	
-		}
+
 			any_country = { 
 				limit = { 
 					foreign_training = yes_foreign_training

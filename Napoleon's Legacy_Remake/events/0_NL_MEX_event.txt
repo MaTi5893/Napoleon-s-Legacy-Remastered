@@ -1,0 +1,10 @@
+
+country_event = {
+	id = 600039
+	trigger = { tag = MEX NOT = { has_country_flag = MEXgp }}
+	is_triggered_only = yes
+	title = "EVTNAME600039"
+	desc = "EVTDESC600039"	#Written by Kile211#4228 on Discord for TGC's great power competition
+
+	option = { name = "Viva Mexico!" prestige = 5 set_country_flag = MEXgp }
+}

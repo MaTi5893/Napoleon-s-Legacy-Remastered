@@ -826,10 +826,6 @@ EVTDESC44826_NEWS_MEDIUM;An agreement between the Mexican and American governmen
 EVTDESC44826_NEWS_SHORT;An agreement between the Mexican and American governments has been worked out to end the war between them, stating the entire Mexican frontier will be turned over to the United States.;;;x
 EVTNAME44827;$FROMCOUNTRY$ Has Refused;;;x
 EVTDESC44827;Despite having them over the figurative barrel, the $FROMCOUNTRY_ADJ$ government has refused to surrender any claims to their northern territories. So much the worse for them.;;;x
-EVTNAME95255;Indonesian Unification;;;x
-EVTDESC95255;The call has been sent out for the peoples of the East Indies to unify under a common banner, for protection against foreign imperialism and to usher in a new world power to make the Europeans tremble. The people are cheering in the streets of $CAPITAL$ at the welcome news. Will $COUNTRY$ do its part?;;;x
-EVTOPTA95255;We will answer the call!;;;x
-EVTOPTB95255;We will remain independent.;;;x
 EVTNAME97125;Flores Purchase;;;x
 EVTDESC97125;Portugal has offered to sell the Flores islands to our current colonial administration in Timor. It seems like a reasonable deal.;;;x
 EVTOPTA97125;Accept the offer.;;;x

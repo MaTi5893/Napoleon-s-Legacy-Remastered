@@ -2,7 +2,7 @@ capital = 1251
 primary_culture = marathi
 culture = avadhi
 culture = tamil
-
+is_releasable_vassal = no
 
 religion = hindu
 government = democracy
